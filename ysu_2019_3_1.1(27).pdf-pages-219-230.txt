@@ -1,0 +1,1296 @@
+of nanotubes. Let the positron move parallel to the axis of the nanotube at a distance (cid։
+1870)(cid։
+3404)
+(cid։
+1871)(cid։
+1844) (cid։
+4666)0(cid։
+3409)(cid։
+1871)(cid։
+3409)1(cid։
+4667) from  it,  where (cid։
+1844) is  the  radius  of  the  nanotube.  Then  the  positron  is 
+of well (cid։
+1847)(cid։
+2868)  
+In such a field, the positron oscillates with the frequency Ω(cid։
+3030)(cid։
+3035)and the amplitude (cid։
+1871) 
+Ω(cid։
+3030)(cid։
+3035)(cid։
+3404)Ω(cid։
+2868)√(cid։
+2011)			,				Ω(cid։
+2868)(cid։
+3404)(cid։
+1855)√2(cid։
+2021)(cid։
+1844) 		,				(cid։
+2021)(cid։
+3404) (cid։
+1847)(cid։
+2868)(cid։
+1865)(cid։
+1855)	(cid։
+2870)			. 
+(cid։
+1847)(cid։
+4666)(cid։
+1871)(cid։
+4667)(cid։
+3404)(cid։
+1847)(cid։
+2868)(cid։
+1871)(cid։
+2870)			. 
+where Ω(cid։
+2868)(cid։
+3404)(cid։
+4666)2(cid։
+2024)(cid։
+1855)(cid։
+4667)(cid։
+1864)(cid։
+2868)⁄  (cid։
+3435)(cid։
+1864)(cid։
+2868)(cid։
+3404)(cid։
+4666)2(cid։
+2024)(cid։
+1844)(cid։
+4667)√2(cid։
+2021)
+(cid։
+3439) is an eigen frequency of a nanotube, (cid։
+2021) and (cid։
+2011)(cid։
+3404)
+(cid։
+1831) (cid։
+4666)(cid։
+1865)(cid։
+1855)	(cid։
+2870)(cid։
+4667)
+(cid։
+1865)(cid։
+1855)	(cid։
+2870) ((cid։
+1865) is the mass of rest of a positron, (cid։
+1855) is the speed of light in a vacuum). Oscillations 
+amplitudе (cid։
+1871). At	(cid։
+1871)(cid։
+3404)0, the positron moves along the axis of the nanotube and does not 
+radiate. The larger (cid։
+1871), the greater the radiation intensity. As shown in [1], the potential (1) 
+differs from the calculated potential only for small	(cid։
+1871). 
+The radiation intensity is characterized by the oscillation parameter (cid։
+1869)(cid։
+3030)(cid։
+3035)(cid։
+4666)(cid։
+1871)(cid։
+4667)(cid։
+3404)(cid։
+1869)∙(cid։
+1871), 
+(cid։
+1869)(cid։
+3404)(cid։
+2021)(cid։
+3040)(cid։
+3028)(cid։
+3051)∙(cid։
+2011),  where (cid։
+2021)(cid։
+3040)(cid։
+3028)(cid։
+3051) is the maximum deviation angle of the trajectory of the oscillating 
+positron with the amplitude	(cid։
+1871)(cid։
+3404)1. For	(cid։
+1869)(cid։
+3407)1, we can use the dipole approximation. The 
+ and on the parameter (cid։
+1871)  has the form 
+dimensionless frequency (cid։
+1876)(cid։
+3404)(cid։
+2033) (cid։
+3435)Ω(cid։
+2868)(cid։
+2011)(cid։
+2871)(cid։
+2870)⁄(cid։
+3439)
+(cid։
+1856)(cid։
+1840)(cid։
+4666)(cid։
+1871)(cid։
+4667)(cid։
+1856)(cid։
+1876) (cid։
+3404)(cid։
+1837)(cid։
+1871)(cid։
+2870)(cid։
+1832)(cid։
+4666)(cid։
+1876),(cid։
+1871)(cid։
+4667)	, 
+	,					(cid։
+1832)(cid։
+4666)(cid։
+1876),(cid։
+1871)(cid։
+4667)(cid։
+3404)1(cid։
+3397)(cid։
+4674)(cid։
+4666)1(cid։
+3397)(cid։
+2020)(cid։
+1871)(cid։
+2870)(cid։
+4667)(cid։
+1876)(cid։
+3398)1(cid։
+3397)(cid։
+1870)(cid։
+1876)(cid։
+4675)(cid։
+2870)			, 
+where (cid։
+2009)(cid։
+3404)1137
+(cid։
+2021)∙(cid։
+2011).  The  parameter	(cid։
+1870)(cid։
+3404)(cid։
+2011)(cid։
+3047)(cid։
+3035) (cid։
+2011)⁄  ,  where (cid։
+2011)(cid։
+3047)(cid։
+3035)(cid։
+3404)ω(cid։
+3043)(cid։
+2870) Ω(cid։
+2868)(cid։
+2870)
+Ω(cid։
+2868) and the plasma frequency ω(cid։
+3043) of the medium. 
+(cid։
+1837)(cid։
+3404)(cid։
+2024)(cid։
+2009)(cid։
+1866)(cid։
+2868)(cid։
+2021)√(cid։
+2011)
+ is the fine structure constant, (cid։
+1866)(cid։
+2868)(cid։
+3404)(cid։
+1838) (cid։
+1864)(cid։
+2868)⁄  , (cid։
+1838) is the channeling length,	(cid։
+2020)(cid։
+3404)
+radius of the electron cloud of the carbon atom with the number (cid։
+1878)(cid։
+3404)6 is (cid։
+1870)(cid։
+3002)(cid։
+3404)0.885∙(cid։
+1853)(cid։
+2868)∙
+(cid։
+1878)(cid։
+2869)(cid։
+2871)⁄ , where (cid։
+1853)(cid։
+2868)(cid։
+3404)0.529(cid։
+1344) is the first Bohr radius of the hydrogen atom. Therefore, directly 
+amplitudes are larger than (cid։
+1871)(cid։
+3030)(cid։
+3404)(cid։
+1870)(cid։
+3002) (cid։
+1844)(cid։
+3404)0.856.8(cid։
+3404)78⁄
+(cid։
+1870) depends on (cid։
+1871). For	(cid։
+1871)(cid։
+3407)(cid։
+1871)(cid։
+3030) , the radiation is formed in a vacuum։
+ (cid։
+1870)(cid։
+4666)(cid։
+1871)(cid։
+4667)(cid։
+3404)0. To find the 
+function	(cid։
+1870)(cid։
+4666)(cid։
+1871)(cid։
+4667), we use the statistical Thomas-Fermi model for the atom. Using the Poisson 
+1(cid։
+3398)(cid։
+3493)1(cid։
+3398)(cid։
+4666)1(cid։
+3398)(cid։
+2020)(cid։
+1871)(cid։
+2870)(cid։
+4667)(cid։
+2870)
+(cid։
+3409)(cid։
+1876)(cid։
+3409)1(cid։
+3397)(cid։
+3493)1(cid։
+3398)(cid։
+4666)1(cid։
+3398)(cid։
+2020)(cid։
+1871)(cid։
+2870)(cid։
+4667)(cid։
+2870)
+1(cid։
+3397)(cid։
+2020)(cid։
+1871)(cid։
+2870)
+1(cid։
+3397)(cid։
+2020)(cid։
+1871)(cid։
+2870)
+For (cid։
+2020)(cid։
+3404)1 and	(cid։
+1870)≪1, the inequalities (4) are simplified 
+21(cid։
+3397)(cid։
+2020)(cid։
+1871)(cid։
+2870)		. 
+(cid։
+1870)2(cid։
+3409)(cid։
+1876)(cid։
+3409)
+					(cid։
+2025)(cid։
+4666)(cid։
+1871)(cid։
+4667)(cid։
+3404)(cid։
+2025)
+the average density of the electron cloud of nanotube atoms from (cid։
+1871)։
+(cid։
+2030)(cid։
+4666)(cid։
+1871)(cid։
+4667)(cid։
+3404)(cid։
+4666)1(cid։
+3398)(cid։
+1871)(cid։
+4667)(cid։
+4666)(cid։
+1871)(cid։
+3398)(cid։
+1871)(cid։
+3030)(cid։
+4667)(cid։
+2871)			,				(cid։
+1871)(cid։
+3030)(cid։
+3409)(cid։
+1871)(cid։
+3409)1		. 
+(cid։
+2025)(cid։
+4666)(cid։
+1871)(cid։
+4667)(cid։
+3404)(cid։
+1827)(cid։
+2030)(cid։
+4666)(cid։
+1871)(cid։
+4667)		, 
+electrons of the atoms is (cid։
+4666)1(cid։
+3398)(cid։
+1871)(cid։
+3030)(cid։
+4667)(cid։
+2870) area of the circle. Consequently, the average density of 
+the electron cloud (cid։
+2025)(cid։
+3002)(cid։
+3404)(cid։
+2025) (cid։
+4666)1(cid։
+3398)(cid։
+1871)(cid։
+3030)(cid։
+4667)(cid։
+2870)	
+, where (cid։
+2025)  is the average volume density of electrons 
+in the nanotube (cid։
+2025)(cid։
+3404)(cid։
+1827)(cid։
+3505)(cid։
+2030)(cid։
+4666)(cid։
+1871)(cid։
+4667)(cid։
+1856)(cid։
+1871)(cid։
+3404)(cid։
+1827)(cid։
+4666)1(cid։
+3398)(cid։
+1871)(cid։
+3030)(cid։
+4667)(cid։
+2873)
+(cid։
+2869)
+(cid։
+4666)1(cid։
+3398)(cid։
+1871)(cid։
+3030)(cid։
+4667)(cid։
+2873)(cid։
+2030)(cid։
+4666)(cid։
+1871)(cid։
+4667) 
+(cid։
+3046)(cid։
+3278)
+The maximum density of the electron cloud takes place for (cid։
+1871)(cid։
+3040)(cid։
+3404)(cid։
+4666)3(cid։
+3397)(cid։
+1871)(cid։
+3030)(cid։
+4667)4⁄  and is 
+64(cid։
+4666)1(cid։
+3398)(cid։
+1871)(cid։
+3030)(cid։
+4667)	,				(cid։
+2025)(cid։
+4666)(cid։
+1871)(cid։
+4667)(cid։
+3404)(cid։
+2025)(cid։
+3040)4(cid։
+2872)3(cid։
+2871) (cid։
+2030)(cid։
+4666)(cid։
+1871)(cid։
+4667)
+(cid։
+2025)(cid։
+3040)(cid։
+3404)(cid։
+2025)(cid։
+4666)(cid։
+1871)(cid։
+3040)(cid։
+4667)(cid։
+3404) 135(cid։
+2025)
+(cid։
+4666)1(cid։
+3398)(cid։
+1871)(cid։
+3030)(cid։
+4667)(cid։
+2872)		. 
+ and (cid։
+2025)(cid։
+3040)(cid։
+3404)135(cid։
+2025) 8⁄ .  The 
+For  nanotubes  with (cid։
+1871)(cid։
+3030)(cid։
+3404)78⁄  we  have (cid։
+1871)(cid։
+3040)(cid։
+3404)3132⁄
+dependence of the square of the plasma frequency of the medium on (cid։
+1871) coincides with (cid։
+2025)(cid։
+4666)(cid։
+1871)(cid։
+4667) 
+(cid։
+1870)(cid։
+4666)(cid։
+1871)(cid։
+4667)(cid։
+3404)(cid։
+1870)(cid։
+3040)4(cid։
+2872)3(cid։
+2871) (cid։
+2030)(cid։
+4666)(cid։
+1871)(cid։
+4667)
+(cid։
+4666)1(cid։
+3398)(cid։
+1871)(cid։
+3030)(cid։
+4667)(cid։
+2872)		,					(cid։
+1870)(cid։
+3040)(cid։
+3404)(cid։
+2033)(cid։
+3040)(cid։
+2870)(cid։
+2011)Ω(cid։
+2868)(cid։
+2870)(cid։
+3404)(cid։
+4678)(cid։
+2033)(cid։
+2868)(cid։
+2033)(cid։
+3043)(cid։
+4679)(cid։
+2870)(cid։
+3436)(cid։
+2033)(cid։
+3043)Ω(cid։
+2868)(cid։
+3440)(cid։
+2870)(cid։
+3404)1358(cid։
+2011)(cid։
+3436)(cid։
+2033)(cid։
+3043)Ω(cid։
+2868)(cid։
+3440)(cid։
+2870). 
+The polarization of the medium is localized in the region, where is (cid։
+1871)(cid։
+3030)(cid։
+3409)(cid։
+1871)(cid։
+3409)1. The 
+radiation of positrons with (cid։
+1871)(cid։
+3409)(cid։
+1871)(cid։
+3030) is formed in a vacuum. 
+(cid։
+1840)(cid։
+3029) positrons,  taking  into  account  the  inhomogeneity  of  polarization  in  nanotubes,  is 
+obtained by replacing (cid։
+1870)	→	(cid։
+1870)(cid։
+4666)(cid։
+1871)(cid։
+4667)  in  (3) and integrating over (cid։
+1871) with a weight of  2(cid։
+1871) (the 
+ratio of the area of the circular ring with radius (cid։
+1871) and width (cid։
+1856)(cid։
+1871) to the cross-sectional area 
+of the nanotube) (cid։
+1856)(cid։
+1840)(cid։
+3047)(cid։
+3042)(cid։
+3047)(cid։
+1856)(cid։
+1876) (cid։
+3404)(cid։
+1840)(cid։
+3029)(cid։
+1837)(cid։
+3047)(cid։
+3042)(cid։
+3047)(cid։
+3505)(cid։
+1871)(cid։
+2871)(cid։
+2869)
+(cid։
+1858)(cid։
+4666)(cid։
+1876),(cid։
+1871),(cid։
+1870)(cid։
+4667)(cid։
+1856)(cid։
+1871)				,					(cid։
+1837)(cid։
+3047)(cid։
+3042)(cid։
+3047)(cid։
+3404)2(cid։
+1837)(cid։
+3404)(cid։
+2024)(cid։
+2009)n(cid։
+2868)(cid։
+2021)(cid։
+3493)(cid։
+2011)				. 
+(cid։
+2868)
+The nonlinear dependence (cid։
+1870)(cid։
+4666)(cid։
+1871)(cid։
+4667) can be represented the linear form 
+(cid։
+1870)(cid։
+2870)(cid։
+4666)(cid։
+1871)(cid։
+4667)(cid։
+3404)3(cid։
+1837)(cid։
+4666)1(cid։
+3398)(cid։
+1871)(cid։
+4667)											(cid։
+1871)(cid։
+3040)(cid։
+3409)(cid։
+1871)(cid։
+3409)1	,				(cid։
+1837)(cid։
+3404) (cid։
+1870)(cid։
+3040)(cid։
+1871)(cid։
+3040)(cid։
+3398)(cid։
+1871)(cid։
+3030)			.				 
+(cid։
+1870)(cid։
+4666)(cid։
+1871)(cid։
+4667)(cid։
+3404)(cid։
+3420)(cid։
+1870)(cid։
+2869)(cid։
+4666)(cid։
+1871)(cid։
+4667)(cid։
+3404)(cid։
+1837)(cid։
+4666)(cid։
+1871)(cid։
+3398)(cid։
+1871)(cid։
+3030)(cid։
+4667)													(cid։
+1871)(cid։
+3030)(cid։
+3409)(cid։
+1871)(cid։
+3409)(cid։
+1871)(cid։
+3040)
+Here it is taken into account that (cid։
+1871)(cid։
+3040)(cid։
+3398)(cid։
+1871)(cid։
+3030)(cid։
+3404)3(cid։
+4666)1(cid։
+3398)(cid։
+1871)(cid։
+3030)(cid։
+4667). The integrals within ((cid։
+1871)(cid։
+3030);1) of 
+Now the function (cid։
+1858)(cid։
+4666)(cid։
+1876),(cid։
+1871)(cid։
+4667) has the following form 
+(cid։
+1858)(cid։
+4666)(cid։
+1876),(cid։
+1871)(cid։
+4667)(cid։
+3404)(cid։
+4688)(cid։
+1858)(cid։
+2868)(cid։
+4666)(cid։
+1876),(cid։
+1871),0(cid։
+4667)																	0(cid։
+3409)(cid։
+1871)(cid։
+3409)(cid։
+1871)(cid։
+3030)
+(cid։
+1858)(cid։
+2869)(cid։
+4666)(cid։
+1876),(cid։
+1871),(cid։
+1870)(cid։
+2869)(cid։
+4667)																(cid։
+1871)(cid։
+3030)(cid։
+3409)(cid։
+1871)(cid։
+3409)(cid։
+1871)(cid։
+3040)
+(cid։
+1858)(cid։
+2870)(cid։
+4666)(cid։
+1876),(cid։
+1871),(cid։
+1870)(cid։
+2870)(cid։
+4667)																(cid։
+1871)(cid։
+3040)(cid։
+3409)(cid։
+1871)(cid։
+3409)1					. 
+(cid։
+1832)(cid։
+2868)(cid։
+4666)(cid։
+1876)(cid։
+4667)(cid։
+3404)(cid։
+1853)(cid։
+2868)(cid։
+1876)(cid։
+2870)(cid։
+3397)(cid։
+1854)(cid։
+2868)(cid։
+1876)(cid։
+3397)(cid։
+1855)(cid։
+2868)				, 
+(cid։
+1853)(cid։
+2868)(cid։
+3404)(cid։
+1871)(cid։
+3030)(cid։
+2872)4 (cid։
+3397)2(cid։
+2020)(cid։
+1871)(cid։
+3030)(cid։
+2874)6 (cid։
+3397)(cid։
+2020)(cid։
+2870)(cid։
+1871)(cid։
+3030)(cid։
+2876)8				,					(cid։
+1854)(cid։
+2868)(cid։
+3404)(cid։
+3398)2(cid։
+4678)(cid։
+1871)(cid։
+3030)(cid։
+2872)4 (cid։
+3397)2(cid։
+2020)(cid։
+1871)(cid։
+3030)(cid։
+2874)6(cid։
+4679)			,				(cid։
+1855)(cid։
+2868)(cid։
+3404)(cid։
+1871)(cid։
+3030)(cid։
+2872)4			. 
+Using expression (11) for the function (cid։
+1870)(cid։
+2869)(cid։
+4666)(cid։
+1871)(cid։
+4667), we have     
+(cid։
+1832)(cid։
+2869)(cid։
+4666)(cid։
+1876)(cid։
+4667)(cid։
+3404)(cid։
+1853)(cid։
+2869)(cid։
+1876)(cid։
+2870)(cid։
+3397)(cid։
+1854)(cid։
+2869)(cid։
+1876)(cid։
+3397)(cid։
+1855)(cid։
+2869)(cid։
+3397)(cid։
+1856)(cid։
+2869)(cid։
+1876)(cid։
+3397)(cid։
+1857)(cid։
+2869)(cid։
+1876)(cid։
+2870)				,						(cid։
+1876)(cid։
+3409)(cid։
+1876)(cid։
+3030)(cid։
+3404)
+21(cid։
+3397)(cid։
+2020)(cid։
+1871)(cid։
+3030)(cid։
+2870)				, 
+(cid։
+1853)(cid։
+2869)(cid։
+3404)(cid։
+1833)(cid։
+2872)(cid։
+3397)2(cid։
+2020)(cid։
+1833)(cid։
+2874)(cid։
+3397)(cid։
+2020)(cid։
+2870)(cid։
+1833)(cid։
+2876)		,				(cid։
+1854)(cid։
+2869)(cid։
+3404)(cid։
+3398)2(cid։
+4666)(cid։
+1833)(cid։
+2872)(cid։
+3397)(cid։
+2020)(cid։
+1833)(cid։
+2874)(cid։
+4667)		,				(cid։
+1855)(cid։
+2869)
+(cid։
+3404)2(cid։
+4670)(cid։
+4666)1(cid։
+3398)(cid։
+4666)1(cid։
+3397)(cid։
+2020)(cid։
+4667)(cid։
+1837)(cid։
+1871)(cid։
+3030)(cid։
+4667)(cid։
+1833)(cid։
+2872)(cid։
+3397)(cid։
+1837)(cid։
+4666)(cid։
+1833)(cid։
+2873)(cid։
+3397)(cid։
+1833)(cid։
+2875)(cid։
+4667)(cid։
+4671)				, 
+(cid։
+1856)(cid։
+2869)(cid։
+3404)2(cid։
+1837)(cid։
+4670)(cid։
+1871)(cid։
+3030)(cid։
+1833)(cid։
+2872)(cid։
+3398)(cid։
+1833)(cid։
+2873)(cid։
+4671)		,						(cid։
+1857)(cid։
+2869)(cid։
+3404)(cid։
+3398)(cid։
+1837)(cid։
+2870)(cid։
+4670)(cid։
+1871)(cid։
+3030)(cid։
+2870)(cid։
+1833)(cid։
+2872)(cid։
+3397)2(cid։
+1871)(cid։
+3030)(cid։
+1833)(cid։
+2873)(cid։
+3398)(cid։
+1833)(cid։
+2874)(cid։
+4671)		,					(cid։
+1833)(cid։
+3041)(cid։
+3404)(cid։
+1871)(cid։
+3040)(cid։
+3041)(cid։
+3398)(cid։
+1871)(cid։
+3030)(cid։
+3041)
+(cid։
+1866)
+In  the  frequency  range (cid։
+1871)(cid։
+3040)(cid։
+3409)(cid։
+1871)(cid։
+3409)1 the  parameter  of  the  polarization  is (cid։
+1870)(cid։
+2870)(cid։
+4666)(cid։
+1871)(cid։
+4667)(cid։
+3404)
+3(cid։
+1837)(cid։
+4666)1(cid։
+3398)(cid։
+1871)(cid։
+4667). Therefore, for a function (cid։
+1832)(cid։
+2870)(cid։
+4666)(cid։
+1876)(cid։
+4667) in the frequency range	(cid։
+1876)(cid։
+3409)(cid։
+1876)(cid։
+3040)(cid։
+3404)2(cid։
+4666)1(cid։
+3397)(cid։
+2020)(cid։
+1871)(cid։
+3040)(cid։
+2870)(cid։
+4667)
+(cid։
+1832)(cid։
+2870)(cid։
+4666)(cid։
+1876)(cid։
+4667)(cid։
+3404)(cid։
+1853)(cid։
+2870)(cid։
+1876)(cid։
+2870)(cid։
+3397)(cid։
+1854)(cid։
+2870)(cid։
+1876)(cid։
+3397)(cid։
+1855)(cid։
+2870)(cid։
+3397)(cid։
+1856)(cid։
+2870)(cid։
+1876)(cid։
+3397)(cid։
+1857)(cid։
+2870)(cid։
+1876)(cid։
+2870)		,								(cid։
+1876)(cid։
+3409)(cid։
+1876)(cid։
+3040)(cid։
+3404)
+1(cid։
+3397)(cid։
+2020)(cid։
+1871)(cid։
+3040)(cid։
+2870)				, 
+(cid։
+1853)(cid։
+2870)(cid։
+3404)(cid։
+1859)(cid։
+2872)(cid։
+3397)2(cid։
+2020)(cid։
+1859)(cid։
+2874)(cid։
+3397)(cid։
+2020)(cid։
+2870)(cid։
+1859)(cid։
+2876)					,					(cid։
+1854)(cid։
+2870)(cid։
+3404)(cid։
+3398)2(cid։
+4666)(cid։
+1859)(cid։
+2872)(cid։
+3397)(cid։
+2020)(cid։
+1859)(cid։
+2874)(cid։
+4667)					,					(cid։
+1855)(cid։
+2870)
+(cid։
+3404)2(cid։
+3427)(cid։
+1859)(cid։
+2872)(cid։
+3397)3(cid։
+1837)(cid։
+3435)(cid։
+1859)(cid։
+2872)(cid։
+3398)(cid։
+1859)(cid։
+2873)(cid։
+3397)(cid։
+2020)(cid։
+4666)(cid։
+1859)(cid։
+2874)(cid։
+3398)(cid։
+1859)(cid։
+2873)(cid։
+4667)(cid։
+3439)(cid։
+3431)					, 
+(cid։
+1856)(cid։
+2870)(cid։
+3404)(cid։
+3398)6(cid։
+1837)(cid։
+4670)(cid։
+1859)(cid։
+2872)(cid։
+3398)(cid։
+1859)(cid։
+2873)(cid։
+4671)	,						(cid։
+1857)(cid։
+2870)(cid։
+3404)(cid։
+3398)9(cid։
+1837)(cid։
+2870)(cid։
+4670)(cid։
+1859)(cid։
+2872)(cid։
+3398)2(cid։
+1859)(cid։
+2873)(cid։
+3397)(cid։
+1859)(cid։
+2874)(cid։
+4671)		,					(cid։
+1833)(cid։
+3041)(cid։
+3404)1(cid։
+3398)(cid։
+1871)(cid։
+3040)(cid։
+3041)(cid։
+1866)
+(cid։
+1832)(cid։
+3047)(cid։
+3042)(cid։
+3047)(cid։
+4666)(cid։
+1876)(cid։
+4667)(cid։
+3404)(cid։
+1853)(cid։
+1876)(cid։
+2870)(cid։
+3397)(cid։
+1854)(cid։
+1876)(cid։
+3397)(cid։
+1855)(cid։
+3397)(cid։
+1856)(cid։
+1876)(cid։
+3397)(cid։
+1857)(cid։
+1876)(cid։
+2870)				, 
+where the coefficients in the frequency intervals 1) (cid։
+1876)(cid։
+3409)(cid։
+1876)(cid։
+3040), 2) (cid։
+1876)(cid։
+3040)(cid։
+3409)(cid։
+1876)(cid։
+3409)(cid։
+1876)(cid։
+3030), 3) (cid։
+1876)(cid։
+3030)(cid։
+3409)(cid։
+1876)(cid։
+3409)2 
+are defined as follows։
+1) (cid։
+3404)(cid։
+1853)(cid։
+2868)(cid։
+3397)(cid։
+1853)(cid։
+2869)(cid։
+3397)(cid։
+1853)(cid։
+2870)									(cid։
+1854)(cid։
+3404)(cid։
+1854)(cid։
+2868)(cid։
+3397)(cid։
+1854)(cid։
+2869)(cid։
+3397)(cid։
+1854)(cid։
+2870)					(cid։
+1855)(cid։
+3404)(cid։
+1855)(cid։
+2868)(cid։
+3397)(cid։
+1855)(cid։
+2869)(cid։
+3397)(cid։
+1855)(cid։
+2870)							(cid։
+1856)(cid։
+3404)(cid։
+1856)(cid։
+2869)(cid։
+3397)(cid։
+1856)(cid։
+2870)							(cid։
+1857)(cid։
+3404)(cid։
+1857)(cid։
+2869)(cid։
+3397)
+(cid։
+1857)(cid։
+2870) 
+2) (cid։
+1853)(cid։
+3404)(cid։
+1853)(cid։
+2868)(cid։
+3397)(cid։
+1853)(cid։
+2869)																			(cid։
+1854)(cid։
+3404)(cid։
+1854)(cid։
+2868)(cid։
+3397)(cid։
+1854)(cid։
+2869)															(cid։
+1855)(cid։
+3404)(cid։
+1855)(cid։
+2868)(cid։
+3397)(cid։
+1855)(cid։
+2869)																(cid։
+1856)(cid։
+3404)(cid։
+1856)(cid։
+2869)																	(cid։
+1857)(cid։
+3404)(cid։
+1857)(cid։
+2869) 
+3) (cid։
+1853)(cid։
+3404)(cid։
+1853)(cid։
+2868)																													(cid։
+1854)(cid։
+3404)(cid։
+1854)(cid։
+2868)																									(cid։
+1855)(cid։
+3404)(cid։
+1855)(cid։
+2868)																									(cid։
+1856)(cid։
+3404)0																			(cid։
+1857)(cid։
+3404)0 
+bunch	(cid։
+2011). In this paper, it is assumed that the energy of the bunch over the threshold energy  
+(cid։
+2011)(cid։
+4666)(cid։
+1871)(cid։
+3040)(cid։
+4667) (cid։
+4666)(cid։
+1870)(cid։
+3409)(cid։
+1871)(cid։
+3040)(cid։
+3407)1(cid։
+4667). The radiation of positrons with lower energies will be absorbed by a 
+cloud  of  plasma  electrons.  The  dependence  of  the  spectral  distribution  on (cid։
+2011) will  be 
+(13)	(cid։
+3398) (16).  For  nanotubes  with (cid։
+1844)(cid։
+3404)6.8	(cid։
+1344) have (cid։
+1328)Ω(cid։
+2868)(cid։
+3404)3.25 eV, (cid։
+1328)(cid։
+2033)(cid։
+3043)(cid։
+3404)31 eV, (cid։
+1871)(cid։
+3030)(cid։
+3404)78⁄ , 
+(cid։
+1871)(cid։
+3040)(cid։
+3404)3132⁄
+, (cid։
+2011)(cid։
+4666)(cid։
+1871)(cid։
+3040)(cid։
+4667)(cid։
+3404)1535.6  (cid։
+4666)(cid։
+1831)(cid։
+4666)(cid։
+1871)(cid։
+3040)(cid։
+4667)(cid։
+3404)
+785MeV(cid։
+4667). 
+, (cid։
+2020)(cid։
+3404)(cid։
+2021)∙(cid։
+2011) , (cid։
+2021)(cid։
+3404)5.6∙10(cid։
+2879)(cid։
+2873) , (cid։
+1837)(cid։
+3404)32(cid։
+2011)(cid։
+4666)(cid։
+1871)(cid։
+3040)(cid։
+4667)3(cid։
+2011)⁄
+[1] Lindhard J., Dansk.Vid. Selsk. Mat.	– Fys. Medd., volume 34, N 14(cid։
+3398)30, 1965. 
+crystal, Phys. Lett., 57A, 1976, pp. 17(cid։
+3398)8.  
+B. Dabagov and Luigi Palumbo (Editors), Science and Culture Series	(cid։
+3398) Physics, 370(cid։
+3398)377, 
+[5] Gevorgian L., in book։
+ Charged and Neutral Particles Channeling Phenomena, Sultan 
+Key words։
+ nanotube, channeling, positron radiation. 
+Գևորգյան Կորյուն 
+ՆԱՆՈԽՈՂՈՎԱԿՆԵՐՈՒՄ ՈՒՂՂՈՐԴՎԱԾ ՊՈԶԻՏՐՈՆՆԵՐԻ 
+ԹԱՆՁՐՈՒԿԻ ՃԱՌԱԳԱՅԹՈՒՄԸ ՄԻՋԱՎԱՅՐԻ ԱՆՀԱՄԱՍԵՌ ԲԵՎԵՌԱՑՄԱՆ 
+Բանալի բառեր՝ նանոխողովակ, ուղղորդում, պոզիտրոնի ճառագայթում։
+ՀԱՇՎԱՌՄԱՄԲ  
+։
