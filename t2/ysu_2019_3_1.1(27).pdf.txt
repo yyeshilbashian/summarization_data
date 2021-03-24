@@ -2,8 +2,7 @@ spatially flat (cid։
 4666)(cid։
 1830)(cid։
 3397)1(cid։
-4667) - dimensional cosmological model. We discuss the asymptotics of the 
-Problem setup. As a background geometry we consider a linearly expanding (cid։
+4667) - dimensional cosmological model. We discuss the asymptotics of theProblem setup. As a background geometry we consider a linearly expanding (cid։
 4666)(cid։
 1830)(cid։
 3397)1(cid։
@@ -30,8 +29,7 @@ Problem setup. As a background geometry we consider a linearly expanding (cid։
 4667)(cid։
 3404)(cid։
 1854)(cid։
-1872) ,                                         (1) 
-with  spatial  coordinates (cid։
+1872) ,                                         (1)with  spatial  coordinates (cid։
 1824)(cid։
 3404)(cid։
 4666)(cid։
@@ -44,22 +42,19 @@ with  spatial  coordinates (cid։
 1872)(cid։
 3407)∞  and (cid։
 1854)(cid։
-3408)0  is  a  constant  having 
-dimension of inverse length. Introducing a conformal time (cid։
+3408)0  is  a  constant  havingdimension of inverse length. Introducing a conformal time (cid։
 2015), (cid։
 3398)∞(cid։
 3407)(cid։
 2015)(cid։
 3407)(cid։
-3397)∞, in accordance 
-               (cid։
+3397)∞, in accordance               (cid։
 1872)(cid։
 3404)(cid։
 1857)(cid։
 3029)(cid։
 3086) (cid։
-1854)	⁄ ,                                               (2) 
-                                                 (cid։
+1854)	⁄ ,                                               (2)                                                 (cid։
 1856)(cid։
 1871)(cid։
 2870)(cid։
@@ -85,18 +80,15 @@ dimension of inverse length. Introducing a conformal time (cid։
 3404)(cid։
 1857)(cid։
 3029)(cid։
-3086).                                    (3) 
-In  what  follows  we  will  work  in  the  spacetime  coordinate  system (cid։
+3086).                                    (3)In  what  follows  we  will  work  in  the  spacetime  coordinate  system (cid։
 4666)(cid։
 2015),(cid։
 1824)(cid։
-4667).  In  these 
-coordinates, the Ricci scalar, (cid։
+4667).  In  thesecoordinates, the Ricci scalar, (cid։
 1844), and the nonzero components of the Ricci tensor, (cid։
 1844)(cid։
 3091)(cid։
-3092), are 
-                                          (cid։
+3092), are                                          (cid։
 1844)(cid։
 3404)(cid։
 1830)(cid։
@@ -128,16 +120,13 @@ coordinates, the Ricci scalar, (cid։
 2870)(cid։
 2012)(cid։
 3036)(cid։
-3038),                        (4) 
-with (cid։
+3038),                        (4)with (cid։
 1861),(cid։
 1863)(cid։
 3404)1,2,…,(cid։
 1830). From the Einstein equations for the corresponding energy density (cid։
-2013) and 
-the pressure (cid։
-1868) one has 
-                                                (cid։
+2013) andthe pressure (cid։
+1868) one has                                                (cid։
 2013)(cid։
 3404)(cid։
 3005)(cid։
@@ -160,22 +149,18 @@ the pressure (cid։
 2879)(cid։
 2870)(cid։
 3005) (cid։
-2013),                                                    (5) 
-where (cid։
+2013),                                                    (5)where (cid։
 1833) is the Newton gravitational constant. For (cid։
 1830)(cid։
-3404)1, the geometry we have described 
-is flat and coincides with the (cid։
+3404)1, the geometry we have describedis flat and coincides with the (cid։
 4666)1(cid։
 3397)1(cid։
-4667)-dimensional Milne universe. We will consider a massive 
-scalar field (cid։
+4667)-dimensional Milne universe. We will consider a massivescalar field (cid։
 2038)(cid։
 4666)(cid։
 1876)(cid։
 4667) with the curvature coupling parameter (cid։
-2022). The corresponding field equation 
-                (cid։
+2022). The corresponding field equation                (cid։
 3435)(cid։
 2008)(cid։
 3091)(cid։
@@ -189,11 +174,9 @@ scalar field (cid։
 1844)(cid։
 3439)(cid։
 2038)(cid։
-3404)0,                                            (6) 
-where (cid։
+3404)0,                                            (6)where (cid։
 1487)(cid։
-2972) stands for the covariant derivative operator. Here we are interested in the effects 
-on the scalar vacuum induced by codimension one flat boundaries (plates) located at (cid։
+2972) stands for the covariant derivative operator. Here we are interested in the effectson the scalar vacuum induced by codimension one flat boundaries (plates) located at (cid։
 1876)(cid։
 3005)≡
 (cid։
@@ -215,8 +198,7 @@ on the scalar vacuum induced by codimension one flat boundaries (plates) located
 1878)(cid։
 3037),(cid։
 1862)(cid։
-3404)1,2, the field operator is constrained by the 
-boundary condition (cid։
+3404)1,2, the field operator is constrained by theboundary condition (cid։
 3435)1(cid։
 3397)(cid։
 2010)(cid։
@@ -232,8 +214,7 @@ boundary condition (cid։
 3404)0, with (cid։
 1866)(cid։
 3037)(cid։
-3091) being the normal to the boundary obeying 
-the  relation (cid։
+3091) being the normal to the boundary obeyingthe  relation (cid։
 1866)(cid։
 3037)(cid։
 3091)(cid։
@@ -241,8 +222,7 @@ the  relation (cid։
 3037)(cid։
 3091)(cid։
 3404)(cid։
-3398)1.  The  boundary  conditions  considered  are  of  the  Robin  type  and 
-generalize  the  Dirichlet (cid։
+3398)1.  The  boundary  conditions  considered  are  of  the  Robin  type  andgeneralize  the  Dirichlet (cid։
 3435)(cid։
 2010)′(cid։
 3037)(cid։
@@ -252,8 +232,7 @@ generalize  the  Dirichlet (cid։
 2010)′(cid։
 3037)(cid։
 3404)∞(cid։
-3439)  boundary  conditions.  In  the 
-regions (cid։
+3439)  boundary  conditions.  In  theregions (cid։
 1878)(cid։
 3407)(cid։
 1878)(cid։
@@ -284,8 +263,7 @@ regions (cid։
 1857)(cid։
 2879)(cid։
 3029)(cid։
-3086), respectively. 
-For  the  region (cid։
+3086), respectively.For  the  region (cid։
 1878)(cid։
 2869)⩽(cid։
 1878)⩽(cid։
@@ -310,11 +288,9 @@ For  the  region (cid։
 4667)
  for (cid։
 1862)(cid։
-3404)1,2 .  The 
-coefficients (cid։
+3404)1,2 .  Thecoefficients (cid։
 2010)′(cid։
-3037)	have  the  dimension  of  length  and  in  some  problems  characterize  the 
-Robin coefficients (cid։
+3037)	have  the  dimension  of  length  and  in  some  problems  characterize  theRobin coefficients (cid։
 2010)′(cid։
 3037)(cid։
 3404)(cid։
@@ -331,8 +307,7 @@ Robin coefficients (cid։
 2010)(cid։
 3037), (cid։
 1862)(cid։
-3404)1,2, are constants (the penetration length 
-          (cid։
+3404)1,2, are constants (the penetration length          (cid։
 3435)1(cid։
 3397)(cid։
 4666)(cid։
@@ -351,14 +326,12 @@ Robin coefficients (cid։
 1878)(cid։
 3404)(cid։
 1878)(cid։
-3037).                                                         (7)  
-in the region between the plates, (cid։
+3037).                                                         (7) in the region between the plates, (cid։
 1878)(cid։
 2869)⩽(cid։
 1878)⩽(cid։
 1878)(cid։
-2870), the dependence on the spatial coordinates can 
-                              (cid։
+2870), the dependence on the spatial coordinates can                              (cid։
 2038)(cid։
 4666)(cid։
 1876)(cid։
@@ -387,8 +360,7 @@ in the region between the plates, (cid։
 4666)(cid։
 2019)(cid։
 4667)(cid։
-3431),                                                (8) 
-where (cid։
+3431),                                                (8)where (cid։
 1811)(cid։
 3404)(cid։
 4666)(cid։
@@ -417,8 +389,7 @@ where (cid։
 3037)(cid։
 4666)(cid։
 2019)(cid։
-4667) is defined as 
-                                      (cid։
+4667) is defined as                                      (cid։
 1857)(cid։
 2870)(cid։
 3036)(cid։
@@ -450,17 +421,13 @@ where (cid։
 4667)(cid։
 3285)(cid։
 2879)(cid։
-2869) ,                                                                (9) 
-and (cid։
-1829) is the normalization constant. The modes (8) obey the boundary condition on the 
-plate (cid։
+2869) ,                                                                (9)and (cid։
+1829) is the normalization constant. The modes (8) obey the boundary condition on theplate (cid։
 1878)(cid։
 3404)(cid։
 1878)(cid։
-3037). From the boundary condition on the second plate it follows that the eigenvalues 
-of the quantum number (cid։
-2019) are roots of the equation 
-                                                (cid։
+3037). From the boundary condition on the second plate it follows that the eigenvaluesof the quantum number (cid։
+2019) are roots of the equation                                                (cid։
 4666)1(cid։
 3398)(cid։
 1854)(cid։
@@ -481,8 +448,7 @@ of the quantum number (cid։
 4667)(cid։
 1873)cos(cid։
 1873)(cid։
-3404)0,                             (10) 
-                                              (cid։
+3404)0,                             (10)                                              (cid։
 1873)(cid։
 3404)(cid։
 2019)(cid։
@@ -502,8 +468,7 @@ of the quantum number (cid։
 2870)(cid։
 3398)(cid։
 1878)(cid։
-2869).                                           (11) 
-bulk  [2].  We  will  denote  the  roots  of  the  transcendental  equation  (10)  by (cid։
+2869).                                           (11)bulk  [2].  We  will  denote  the  roots  of  the  transcendental  equation  (10)  by (cid։
 1873)(cid։
 3404)(cid։
 1873)(cid։
@@ -525,8 +490,7 @@ discussion below we will assume the values of the parameters (cid։
 1854)(cid։
 3037) for which all the roots (cid։
 1873)(cid։
-3041) 
-are real (for possible purely imaginary roots see [2]). In particular, this is the case for (cid։
+3041)are real (for possible purely imaginary roots see [2]). In particular, this is the case for (cid։
 2010)(cid։
 3037)(cid։
 3409)
@@ -534,8 +498,7 @@ are real (for possible purely imaginary roots see [2]). In particular, this is t
 1858)(cid։
 4666)(cid։
 2015)(cid։
-4667), we substitute (8) into the field equation (6). This 
-                            	(cid։
+4667), we substitute (8) into the field equation (6). This                            	(cid։
 1858)(cid։
 4593)(cid։
 4593)(cid։
@@ -572,8 +535,7 @@ are real (for possible purely imaginary roots see [2]). In particular, this is t
 4666)(cid։
 2015)(cid։
 4667)(cid։
-3404)0 ,                                 (12) 
-be taken similar to that for plates in the Minkowski bulk։
+3404)0 ,                                 (12)be taken similar to that for plates in the Minkowski bulk։
 where (cid։
 2011)(cid։
 3404)√(cid։
@@ -585,8 +547,7 @@ where (cid։
 1863)(cid։
 3404)|(cid։
 1811)|, and the prime stands for the derivative with respect to (cid։
-2015). The 
-                              (cid։
+2015). The                              (cid։
 1858)(cid։
 4666)(cid։
 1853)(cid։
@@ -637,8 +598,7 @@ where (cid։
 1865)(cid։
 1872)(cid։
 4667)(cid։
-3431) ,                         (13) 
-with (cid։
+3431) ,                         (13)with (cid։
 1834)(cid։
 3036)(cid։
 3092)(cid։
@@ -671,33 +631,28 @@ with (cid։
 3398)1(cid։
 4667)(cid։
 2870) 4⁄  and (cid։
-1872) is 
-expressed  in  terms  of  the  conformal  time (cid։
+1872) isexpressed  in  terms  of  the  conformal  time (cid։
 2015) as  (2).  The  function (cid։
 2021)(cid։
 3404)(cid։
 2021)(cid։
 4666)(cid։
 2015)(cid։
-4667) can  be  either 
-positive or purely imaginary. In (13), the coefficients (cid։
+4667) can  be  eitherpositive or purely imaginary. In (13), the coefficients (cid։
 1875)(cid։
 2869) and (cid։
 1875)(cid։
-2870), in general, can be functions 
-of (cid։
+2870), in general, can be functionsof (cid։
 2011). The factors (cid։
 1857)(cid։
 3399)(cid։
 3092)(cid։
 3095) (cid։
-2870)⁄  are extracted for the further convenience. In what follows we will 
-assume that the function (cid։
+2870)⁄  are extracted for the further convenience. In what follows we willassume that the function (cid։
 1858)(cid։
 4666)(cid։
 2015)(cid։
-4667) is normalized by the condition 
-                        (cid։
+4667) is normalized by the condition                        (cid։
 1858)(cid։
 4666)(cid։
 2015),(cid։
@@ -728,8 +683,7 @@ assume that the function (cid։
 1853)(cid։
 2869)(cid։
 2879)(cid։
-3005),                                                 (14)  
-                                    |(cid։
+3005),                                                 (14)                                     |(cid։
 1875)(cid։
 2870)|(cid։
 2870)(cid։
@@ -740,8 +694,7 @@ assume that the function (cid։
 3404) (cid։
 3095)(cid։
 2872)(cid։
-3029) .                                                                   (15) 
-We can write the solution (13) in terms of the Bessel function (cid։
+3029) .                                                                   (15)We can write the solution (13) in terms of the Bessel function (cid։
 1836)(cid։
 3036)(cid։
 3092)(cid։
@@ -783,14 +736,12 @@ We can write the solution (13) in terms of the Bessel function (cid։
 1865)(cid։
 1872)(cid։
 4667)(cid։
-4671) ,                                         (16) 
-where, again, (cid։
+4671) ,                                         (16)where, again, (cid։
 1872) is given by (2). The coefficients (cid։
 1856)(cid։
 2869) and (cid։
 1856)(cid։
-2870) are related to the previous ones 
-                          (cid։
+2870) are related to the previous ones                          (cid։
 1856)(cid։
 2869)(cid։
 3404)(cid։
@@ -880,8 +831,7 @@ where, again, (cid։
 3404) (cid։
 3095)(cid։
 2870)(cid։
-3029).                       (19) 
-So, for the complete set of solutions one has (cid։
+3029).                       (19)So, for the complete set of solutions one has (cid։
 4676)(cid։
 2038)(cid։
 3041)(cid։
@@ -911,8 +861,7 @@ So, for the complete set of solutions one has (cid։
 4666)(cid։
 1876)(cid։
 4667)(cid։
-4677) with 
-                (cid։
+4677) with                (cid։
 2038)(cid։
 3041)(cid։
 1811)(cid։
@@ -949,8 +898,7 @@ So, for the complete set of solutions one has (cid։
 2019)(cid։
 3041)(cid։
 4667)(cid։
-3431),                                                    (20) 
-where we have explicitly displayed the dependence of the function (cid։
+3431),                                                    (20)where we have explicitly displayed the dependence of the function (cid։
 1858) on (cid։
 2011)(cid։
 3041)(cid։
@@ -961,10 +909,8 @@ where we have explicitly displayed the dependence of the function (cid։
 2870)(cid։
 3397)(cid։
 1863)(cid։
-2870). From 
-the orthonormalization condition of the scalar modes, for the coefficient (cid։
-1829) one gets 
-              |(cid։
+2870). Fromthe orthonormalization condition of the scalar modes, for the coefficient (cid։
+1829) one gets              |(cid։
 1829)|(cid։
 2870)(cid։
 3404)
@@ -1002,8 +948,7 @@ the orthonormalization condition of the scalar modes, for the coefficient (cid։
 1873)(cid։
 3041)(cid։
 4667)(cid։
-3431) ,                                                  (21) 
-(cid։
+3431) ,                                                  (21)(cid։
 2870)
 where the function (cid։
 2009)(cid։
@@ -1039,8 +984,7 @@ where the function (cid։
 3439)
 , with (cid։
 1862)(cid։
-3404)1,2.  
-this limit (cid։
+3404)1,2. this limit (cid։
 1854)→0  for fixed (cid։
 2015) and, consequently, (cid։
 1865)(cid։
@@ -1051,13 +995,11 @@ this limit (cid։
 3397)(cid։
 1865)(cid։
 2015)≫1. For the function (cid։
-2021) one has 
-(cid։
+2021) one has(cid։
 2021)(cid։
 3406)(cid։
 2011) (cid։
-1854)⁄ . This means that both the argument and the absolute value of the order for the 
-                           (cid։
+1854)⁄ . This means that both the argument and the absolute value of the order for the                           (cid։
 1858)(cid։
 4666)(cid։
 2015),(cid։
@@ -1109,8 +1051,7 @@ this limit (cid։
 3036)(cid։
 3104)(cid։
 3086)(cid։
-3431),                          (22) 
-where (cid։
+3431),                          (22)where (cid։
 2033)(cid։
 3404)(cid։
 3493)(cid։
@@ -1137,12 +1078,10 @@ where (cid։
 2878)(cid։
 3048)(cid։
 3118)(cid։
-3440).  For  the  coefficients  we  have  the 
-(cid։
+3440).  For  the  coefficients  we  have  the(cid։
 3048)
 Adiabatic vacuum։
- First let us consider the Minkowskian limit. As seen from (3), in 
-	,(cid։
+ First let us consider the Minkowskian limit. As seen from (3), in	,(cid։
 1856)(cid։
 2870)(cid։
 3404)(cid։
@@ -1194,8 +1133,7 @@ Adiabatic vacuum։
 Minkowskian vacuum if (cid։
 1875)(cid։
 2869)(cid։
-3404)0. The vacuum state obeying this property is called an adiabatic 
-vacuum. For this vacuum |(cid։
+3404)0. The vacuum state obeying this property is called an adiabaticvacuum. For this vacuum |(cid։
 1875)(cid։
 2870)|(cid։
 2870)(cid։
@@ -1212,8 +1150,7 @@ Conformal vacuum։
 2021)(cid։
 3404)(cid։
 2011) (cid։
-1854)⁄ . By using the asymptotic expression for the Bessel function 
-(cid։
+1854)⁄ . By using the asymptotic expression for the Bessel function(cid։
 4666)(cid։
 1830)(cid։
 3398)1(cid։
@@ -1222,8 +1159,7 @@ Conformal vacuum։
 1830)(cid։
 4667)
 for small arguments [3], from (16) in the limit (cid։
-1865)→0 one gets 
-                                 (cid։
+1865)→0 one gets                                 (cid։
 1858)(cid։
 4666)(cid։
 2015),(cid։
@@ -1255,8 +1191,7 @@ for small arguments [3], from (16) in the limit (cid։
 3036)(cid։
 3082)(cid։
 3086)(cid։
-3432) ,                          (23) 
-(cid։
+3432) ,                          (23)(cid։
 1857)(cid։
 2879)(cid։
 3036)(cid։
@@ -1297,12 +1232,10 @@ for small arguments [3], from (16) in the limit (cid։
 where Γ(cid։
 4666)(cid։
 1876)(cid։
-4667) is the gamma function. The corresponding modes are conformally related to 
-the positive-energy mode functions in the Minkowski bulk if (cid։
+4667) is the gamma function. The corresponding modes are conformally related tothe positive-energy mode functions in the Minkowski bulk if (cid։
 1856)(cid։
 2870)(cid։
-3404)0. This correspond to the 
-following relation for the coefficients (cid։
+3404)0. This correspond to thefollowing relation for the coefficients (cid։
 1875)(cid։
 2869),(cid։
 2870)։
@@ -1314,8 +1247,7 @@ following relation for the coefficients (cid։
 2869)(cid։
 1857)(cid։
 3092)(cid։
-3095) .                                                                      (24) 
-From  (19)  one  finds |(cid։
+3095) .                                                                      (24)From  (19)  one  finds |(cid։
 1856)(cid։
 2869)|(cid։
 2870)(cid։
@@ -1360,8 +1292,7 @@ From  (19)  one  finds |(cid։
 3082)(cid։
 3095) (cid։
 3029)⁄ (cid։
-4667) , for the corresponding modes, up to a phase, one gets 
-                                           (cid։
+4667) , for the corresponding modes, up to a phase, one gets                                           (cid։
 1858)(cid։
 4666)(cid։
 2015),(cid։
@@ -1382,12 +1313,10 @@ From  (19)  one  finds |(cid։
 3334)(cid։
 3493)(cid։
 2870)(cid։
-3082)  .                                                       (25) 
-The vacuum state defined by the mode functions with (cid։
+3082)  .                                                       (25)The vacuum state defined by the mode functions with (cid։
 1856)(cid։
 2870)(cid։
-3404)0 is called a conformal 
-                                      (cid։
+3404)0 is called a conformal                                      (cid։
 1858)(cid։
 4666)(cid։
 2015),(cid։
@@ -1420,8 +1349,7 @@ The vacuum state defined by the mode functions with (cid։
 4666)(cid։
 1865)(cid։
 1872)(cid։
-4667) ,                                     (26) 
-where 	|(cid։
+4667) ,                                     (26)where 	|(cid։
 1856)(cid։
 2869)|(cid։
 2870)sinh(cid։
@@ -1437,8 +1365,7 @@ where 	|(cid։
 3404) (cid։
 3095)(cid։
 2870)(cid։
-3029). From here it follows that the conformal vacuum is physically 
-realizable for real values of (cid։
+3029). From here it follows that the conformal vacuum is physicallyrealizable for real values of (cid։
 2021) only and the mode functions are given by (26) with |(cid։
 1856)(cid։
 2869)|(cid։
@@ -1456,8 +1383,7 @@ realizable for real values of (cid։
 4666)(cid։
 3092)(cid։
 3095)(cid։
-4667).  
-defined as the VEV (cid։
+4667). defined as the VEV (cid։
 1833)(cid։
 4666)(cid։
 1876),(cid։
@@ -1482,8 +1408,7 @@ defined as the VEV (cid։
 4666)(cid։
 1876)(cid։
 4667)|0(cid։
-1767). Expanding the field operator in terms 
-                            (cid։
+1767). Expanding the field operator in terms                            (cid։
 1833)(cid։
 4666)(cid։
 1876),(cid։
@@ -1527,8 +1452,7 @@ where ∆(cid։
 3404)(cid։
 1878)(cid։
 3398)(cid։
-1878)′ and 
-                                                                                  (cid։
+1878)′ and                                                                                  (cid։
 3397)2(cid։
 1875)(cid։
 2869)(cid։
@@ -1588,8 +1512,7 @@ where ∆(cid։
 1865)(cid։
 1872)(cid։
 4593)(cid։
-4667).                         (29) 
-For  the  adiabatic  vacuum (cid։
+4667).                         (29)For  the  adiabatic  vacuum (cid։
 1875)(cid։
 2869)(cid։
 3404)0  and  we  find 	(cid։
@@ -1649,8 +1572,7 @@ For  the  adiabatic  vacuum (cid։
 1865)(cid։
 1872)(cid։
 4667)(cid։
-3431). For the conformal vacuum 
-(cid։
+3431). For the conformal vacuum(cid։
 1849)(cid։
 4666)(cid։
 1872),(cid։
@@ -1712,8 +1634,7 @@ For  the  adiabatic  vacuum (cid։
 1865)(cid։
 1872)(cid։
 4667)(cid։
-3431) 
-(cid։
+3431)(cid։
 2038)(cid։
 3097)(cid։
 4666)(cid։
@@ -1771,8 +1692,7 @@ For  the  adiabatic  vacuum (cid։
 3289)
 annihilation and creation operators, the following mode-sum formula is obtained։
 Two-point function։
- As a two-point function we will consider the Hadamard function 
-(cid։
+ As a two-point function we will consider the Hadamard function(cid։
 3419)cos(cid։
 4666)(cid։
 2019)(cid։
@@ -1800,8 +1720,7 @@ Two-point function։
 3041)(cid։
 4667)(cid։
 3431)(cid։
-3423),          
-(cid։
+3423),         (cid։
 3431)(cid։
 3423)	(cid։
 1849)(cid։
@@ -1818,8 +1737,7 @@ Two-point function։
 3397)(cid։
 1863)(cid։
 2870)(cid։
-3439)	,            
-(cid։
+3439)	,           (cid։
 2870)(cid։
 3029)(cid։
 2929)(cid։
@@ -1853,16 +1771,14 @@ the generalized Abel-Plana summation formula [2, 4]։
 3095) (cid։
 2870)⁄ (cid։
 1856)(cid։
-2869) 2⁄  ,                                                  (30) 
-and the function (cid։
+2869) 2⁄  ,                                                  (30)and the function (cid։
 1849)(cid։
 4666)(cid։
 1872),(cid։
 1872)(cid։
 4593),(cid։
 2011)(cid։
-4667) is given by 
-                               (cid։
+4667) is given by                               (cid։
 1849)(cid։
 4666)(cid։
 1872),(cid։
@@ -1906,13 +1822,11 @@ and the function (cid։
 4594)(cid։
 3439)
 Recall that for the conformal vacuum (cid։
-2021) should be real. In the further discussion we 
- and (cid։
+2021) should be real. In the further discussion we and (cid։
 2021)(cid։
 3404)(cid։
 2011) (cid։
-1854)⁄ . Hence, the function in the expression (28) of the Hadamard 
-(cid։
+1854)⁄ . Hence, the function in the expression (28) of the Hadamard(cid։
 2022)(cid։
 3404)(cid։
 4666)(cid։
@@ -2075,8 +1989,7 @@ with the notation (cid։
 3285)(cid։
 3048)(cid։
 2878)(cid։
-2869). In this formula we take the function 
-                    (cid։
+2869). In this formula we take the function                    (cid։
 1859)(cid։
 4666)(cid։
 1873)(cid։
@@ -2140,8 +2053,7 @@ For the latter one has (cid։
 3408)(cid։
 1863)(cid։
 1878)(cid։
-2868). In deriving 
-assumed that the function (cid։
+2868). In derivingassumed that the function (cid։
 1859)(cid։
 4666)(cid։
 1873)(cid։
@@ -2149,8 +2061,7 @@ assumed that the function (cid։
 1844)(cid։
 1857)(cid։
 1873)(cid։
-3410)0 and 
-obeys the condition |(cid։
+3410)0 andobeys the condition |(cid։
 1859)(cid։
 4666)(cid։
 1873)(cid։
@@ -2206,20 +2117,16 @@ obeys the condition |(cid։
 1864)(cid։
 2870)(cid։
 1854)(cid։
-2870), coming 
-from the generalized Abel-Plana formula (see [4]) the poles (cid։
+2870), comingfrom the generalized Abel-Plana formula (see [4]) the poles (cid։
 3399)(cid։
 1861)(cid։
 1877)(cid։
-3039) should be excluded by 
-small  semicircles (cid։
+3039) should be excluded bysmall  semicircles (cid։
 1829)(cid։
 3096)(cid։
 3399) with  radius (cid։
-2025) on  the  right  half-plane,  with  the  subsequent  limiting 
-transition (cid։
-2025)→0. The contributions of the integrals along these semicircles to the right-hand 
-                          (cid։
+2025) on  the  right  half-plane,  with  the  subsequent  limitingtransition (cid։
+2025)→0. The contributions of the integrals along these semicircles to the right-hand                          (cid։
 2869)(cid։
 2870)∑
 (cid։
@@ -2415,16 +2322,14 @@ Now, it can be seen that (cid։
 1861)(cid։
 1875)(cid։
 3039)(cid։
-4667) and, hence, in (5.12) the contributions 
-coming  from  the  poles (cid։
+4667) and, hence, in (5.12) the contributionscoming  from  the  poles (cid։
 1861)(cid։
 1877)(cid։
 3039) and (cid։
 3398)(cid։
 1861)(cid։
 1877)(cid։
-3039) cancel  each  other.  From  here  we  conclude  that  the 
-(cid։
+3039) cancel  each  other.  From  here  we  conclude  that  the(cid։
 3004)(cid։
 3344)(cid։
 3399)
@@ -2473,8 +2378,7 @@ coming  from  the  poles (cid։
 3053)(cid։
 3116)⁄
 (cid։
-4675) . 
-                               (cid։
+4675) .                               (cid։
 1848)(cid։
 4666)(cid։
 1872),(cid։
@@ -2752,11 +2656,9 @@ with ∆(cid։
 1876)(cid։
 4593)(cid։
 3005)(cid։
-3439), is the Hadamard function in the geometry (3) without boundaries. 
-In the limit (cid։
+3439), is the Hadamard function in the geometry (3) without boundaries.In the limit (cid։
 1878)(cid։
-2868)→∞, the second term in the right-hand side of (39) vanishes whereas the 
-term (cid։
+2868)→∞, the second term in the right-hand side of (39) vanishes whereas theterm (cid։
 1833)(cid։
 3037)(cid։
 4666)(cid։
@@ -2765,21 +2667,18 @@ term (cid։
 4593)(cid։
 4667) depends on the location (cid։
 1878)(cid։
-3037) of a single plate only. From here it follows that the 
-function (cid։
+3037) of a single plate only. From here it follows that thefunction (cid։
 1833)(cid։
 3037)(cid։
 4666)(cid։
 1876),(cid։
 1876)(cid։
 4593)(cid։
-4667) corresponds to the Hadamard function for the geometry of a single plate 
-at (cid։
+4667) corresponds to the Hadamard function for the geometry of a single plateat (cid։
 1878)(cid։
 3404)(cid։
 1878)(cid։
-3037). It can be presented in an alternative form rotating the integration contour by the 
-angle (cid։
+3037). It can be presented in an alternative form rotating the integration contour by theangle (cid։
 2024)/2 for the term with (cid։
 1871)(cid։
 3404)(cid։
@@ -2788,8 +2687,7 @@ angle (cid։
 2024)/2 for the term with (cid։
 1871)(cid։
 3404)(cid։
-3398)1. The poles 
-(cid։
+3398)1. The poles(cid։
 1877)(cid։
 3404)(cid։
 3399)(cid։
@@ -2800,8 +2698,7 @@ angle (cid։
 1864)(cid։
 2870)(cid։
 1854)(cid։
-2870) on the imaginary axis are excluded by small semicircles in the right-half 
-        (cid։
+2870) on the imaginary axis are excluded by small semicircles in the right-half        (cid։
 1833)(cid։
 3037)(cid։
 4666)(cid։
@@ -2832,8 +2729,7 @@ angle (cid։
 4667)(cid։
 3118)⁄
 where the integral over (cid։
-1877) is understood in the sense of the principal value. Substituting 
-(cid։
+1877) is understood in the sense of the principal value. Substituting(cid։
 3081)(cid։
 3285)(cid։
 3052)(cid։
@@ -3030,8 +2926,7 @@ where the integral over (cid։
 2869)(cid։
 2870)∑
 (cid։
-4675)(43) 
-(cid։
+4675)(43)(cid։
 3037)(cid։
 2880)(cid։
 2869),(cid։
@@ -3046,11 +2941,9 @@ In the regions (cid։
 1878)(cid։
 2870), the Hadamard function is given by (42) with (cid։
 1862)(cid։
-3404)1 and 
-(cid։
+3404)1 and(cid։
 1862)(cid։
-3404)2,  respectively.  The  renormalization  is  required  for  the  boundary-free  contributions 
-(cid։
+3404)2,  respectively.  The  renormalization  is  required  for  the  boundary-free  contributions(cid։
 2998)(cid։
 3051)
 (cid։
@@ -3060,28 +2953,23 @@ In the regions (cid։
 4666)(cid։
 1873),(cid։
 1878)(cid։
-4667), 
-VEV of the field squared։
- In this and following sections we will investigate the local 
-denoted here as (cid։
+4667),VEV of the field squared։
+ In this and following sections we will investigate the localdenoted here as (cid։
 1766)0|(cid։
 2038)(cid։
 2870)|0(cid։
 1767)≡〈(cid։
 2038)(cid։
 2870)〉 (in what follows the index (cid։
-1829) in the notation of the conformal 
-(cid։
+1829) in the notation of the conformal(cid։
 1876)′→(cid։
-1876) in the arguments of the Hadamard function (43), one gets 
-                                   				〈(cid։
+1876) in the arguments of the Hadamard function (43), one gets                                   				〈(cid։
 2038)2〉(cid։
 3404)〈(cid։
 2038)2〉0(cid։
 3397)〈(cid։
 2038)2〉(cid։
-1854) ,                                                           (44) 
-where 〈(cid։
+1854) ,                                                           (44)where 〈(cid։
 2038)(cid։
 2870)〉(cid։
 2868) is the renormalized VEV in the absence of the boundaries and the boundary                           〈(cid։
@@ -3196,25 +3084,21 @@ where 〈(cid։
 4666)(cid։
 3095)(cid։
 3052)(cid։
-4667) .                                                     (45)            
-Note that the background geometry is homogeneous and the boundary-free part 〈(cid։
+4667) .                                                     (45)           Note that the background geometry is homogeneous and the boundary-free part 〈(cid։
 2038)(cid։
 2870)〉(cid։
-2868) 
-transformed  passing  to  a  new  integration  variable (cid։
+2868)transformed  passing  to  a  new  integration  variable (cid։
 1877)(cid։
 3404)√(cid։
 1873)(cid։
 2870)(cid։
 3398)(cid։
 1876)(cid։
-2870)  and  introducing  polar 
-coordinates in the plane (cid։
+2870)  and  introducing  polarcoordinates in the plane (cid։
 4666)(cid։
 1876),(cid։
 1877)(cid։
-4667). This leads to the result 
-                                     〈(cid։
+4667). This leads to the result                                     〈(cid։
 2038)(cid։
 2870)〉(cid։
 3029)(cid։
@@ -3336,8 +3220,7 @@ coordinates in the plane (cid։
 3005) (cid։
 2870)⁄ (cid։
 4667)(cid։
-3051) ,                                                      (48) 
-result in the Minkowski bulk, 〈(cid։
+3051) ,                                                      (48)result in the Minkowski bulk, 〈(cid։
 2038)(cid։
 2870)〉(cid։
 3029) , by the conformal relation 〈(cid։
@@ -3357,8 +3240,7 @@ result in the Minkowski bulk, 〈(cid։
 3029)(cid։
 4666)(cid։
 3014)(cid։
-4667), where 
-                          〈(cid։
+4667), where                          〈(cid։
 2038)(cid։
 2870)〉(cid։
 3029)(cid։
@@ -3381,8 +3263,7 @@ In the regions (cid։
 1878)(cid։
 3408)(cid։
 1878)(cid։
-2870), the VEV of the field squared is obtained from (42). 
-                                       〈(cid։
+2870), the VEV of the field squared is obtained from (42).                                       〈(cid։
 2038)(cid։
 2870)〉(cid։
 3037)(cid։
@@ -3394,8 +3275,7 @@ In the regions (cid։
 2038)(cid։
 2870)〉(cid։
 3029)(cid։
-3037),                                                           (50) 
-                      〈(cid։
+3037),                                                           (50)                      〈(cid։
 2038)(cid։
 2870)〉(cid։
 3029)(cid։
@@ -3433,8 +3313,7 @@ Here (cid։
 1878)(cid։
 3408)(cid։
 1878)(cid։
-2870). With a transformation 
-                            〈(cid։
+2870). With a transformation                            〈(cid։
 2038)(cid։
 2870)〉(cid։
 3029)(cid։
@@ -3589,8 +3468,7 @@ Here (cid։
 2998)(cid։
 2868)
 VEV of the energy-momentum tensor։
- The VEV of the energy-momentum tensor is 
-(cid։
+ The VEV of the energy-momentum tensor is(cid։
 3081)(cid։
 3285)(cid։
 3052)(cid։
@@ -3662,8 +3540,7 @@ result in Minkowski spacetime, 〈(cid։
 3037)(cid։
 4666)(cid։
 3014)(cid։
-4667), where 
-                             〈(cid։
+4667), where                             〈(cid։
 2038)(cid։
 2870)〉(cid։
 3029)(cid։
@@ -3745,8 +3622,7 @@ result in Minkowski spacetime, 〈(cid։
 3439)(cid։
 3431)〈(cid։
 2038)(cid։
-2870)〉,                   (54) 
-the regions (cid։
+2870)〉,                   (54)the regions (cid։
 1878)(cid։
 3407)(cid։
 1878)(cid։
@@ -3754,8 +3630,7 @@ the regions (cid։
 1878)(cid։
 3408)(cid։
 1878)(cid։
-2870).  By using the expression (42) for the corresponding Hadamard 
-function, the vacuum energy-momentum tensor is decomposed as 〈(cid։
+2870).  By using the expression (42) for the corresponding Hadamardfunction, the vacuum energy-momentum tensor is decomposed as 〈(cid։
 1846)(cid։
 3091)(cid։
 3092)〉(cid։
@@ -3769,8 +3644,7 @@ function, the vacuum energy-momentum tensor is decomposed as 〈(cid։
 3091)(cid։
 3092)〉(cid։
 3029)(cid։
-3037), where 
-〈(cid։
+3037), where〈(cid։
 1846)(cid։
 3091)(cid։
 3092)〉(cid։
@@ -3787,8 +3661,7 @@ function, the vacuum energy-momentum tensor is decomposed as 〈(cid։
 1862)(cid։
 3404)
 summation over (cid։
-2020))                                                 
-               〈(cid։
+2020))                                                               〈(cid։
 1846)(cid։
 3091)(cid։
 3091)〉(cid։
@@ -3848,8 +3721,7 @@ where (cid։
 1864)(cid։
 3404)1,⋯,(cid։
 1830)(cid։
-3398)1. The operators in (55) are 
-defined  by  the  expressions (cid։
+3398)1. The operators in (55) aredefined  by  the  expressions (cid։
 1858)(cid։
 4632)(cid։
 2868)(cid։
@@ -3892,16 +3764,13 @@ defined  by  the  expressions (cid։
 3047)(cid։
 4667),(cid։
 2020)(cid։
-3405)0.  Due  to  the 
-homogeneity of the background spacetime, the boundary-free contribution 〈(cid։
+3405)0.  Due  to  thehomogeneity of the background spacetime, the boundary-free contribution 〈(cid։
 1846)(cid։
 3091)(cid։
 3092)〉(cid։
-2868) does not 
-consideration is inhomogeneous along the (cid։
+2868) does notconsideration is inhomogeneous along the (cid։
 1872) - and (cid։
-1878) -directions. As a consequence of that, 
-                    〈(cid։
+1878) -directions. As a consequence of that,                    〈(cid։
 1846)(cid։
 2868)(cid։
 3005)〉(cid։
@@ -3927,8 +3796,7 @@ perpendicular to the plate. It has different signs in the regions (cid։
 1878)(cid։
 3408)(cid։
 1878)(cid։
-3037). The energy 
-flux can be either directed from the plate or to the plate. If 〈(cid։
+3037). The energyflux can be either directed from the plate or to the plate. If 〈(cid։
 1846)(cid։
 2868)(cid։
 3005)〉(cid։
@@ -3942,8 +3810,7 @@ flux can be either directed from the plate or to the plate. If 〈(cid։
 3029)(cid։
 3037)(cid։
 3407)0(cid։
-3439) in the 
-region (cid։
+3439) in theregion (cid։
 1878)(cid։
 3408)(cid։
 1878)(cid։
@@ -3951,8 +3818,7 @@ region (cid։
 1878)(cid։
 3407)(cid։
 1878)(cid։
-3037) and 
-(cid։
+3037) and(cid։
 1878)(cid։
 3408)(cid։
 1878)(cid։
@@ -3964,8 +3830,7 @@ region (cid։
 1878)(cid։
 3408)(cid։
 1878)(cid։
-2870), are  
-(cid։
+2870), are (cid։
 3081)(cid։
 3285)(cid։
 3052)(cid։
@@ -4016,8 +3881,7 @@ region (cid։
 1877) (cid։
 1854)⁄ (cid։
 4667)(cid։
-3423), 
-             	〈(cid։
+3423),             	〈(cid։
 1846)(cid։
 3091)(cid։
 3091)〉(cid։
@@ -4095,8 +3959,7 @@ region (cid։
 1872),	(cid։
 1877) (cid։
 1854)⁄ (cid։
-4667).                                   (57) 
-(cid։
+4667).                                   (57)(cid։
 2870)(cid։
 3005)(cid։
 4666)(cid։
@@ -4127,8 +3990,7 @@ Now let us consider the region between the plates, (cid։
 1878)(cid։
 3409)(cid։
 1878)(cid։
-2870). By taking into account the 
-                                 〈(cid։
+2870). By taking into account the                                 〈(cid։
 1846)(cid։
 3091)(cid։
 3092)〉(cid։
@@ -4141,8 +4003,7 @@ Now let us consider the region between the plates, (cid։
 1846)(cid։
 3091)(cid։
 3092)〉(cid։
-3029) .                                                                    (58) 
-(cid։
+3029) .                                                                    (58)(cid։
 2870)(cid։
 3005)(cid։
 4666)(cid։
@@ -4279,8 +4140,7 @@ Now let us consider the region between the plates, (cid։
 3118)(cid։
 3296)(cid։
 2879)(cid։
-2869)      
-(cid։
+2869)     (cid։
 1872)(cid։
 2034)(cid։
 3047)(cid։
@@ -4370,8 +4230,7 @@ component corresponding to energy flux perpendicular to the plates։
 (cid։
 3439)
 (no summation over (cid։
-2020)) 
-	(cid։
+2020))	(cid։
 4676)(cid։
 1855)(cid։
 4666)(cid։
@@ -4445,8 +4304,7 @@ with (cid։
 1856)(cid։
 3005)(cid։
 3404)(cid։
-3398)1 .  In  addition,  where  is  a  nonzero  off-diagonal 
-     	〈(cid։
+3398)1 .  In  addition,  where  is  a  nonzero  off-diagonal     	〈(cid։
 1846)(cid։
 2868)(cid։
 3005)〉(cid։
@@ -4490,15 +4348,12 @@ Introducing in (59) and (60) a new integration variable (cid։
 2870)(cid։
 3398)(cid։
 1876)(cid։
-2870) and passing to polar 
-coordinates in the (cid։
+2870) and passing to polarcoordinates in the (cid։
 4666)(cid։
 1876),(cid։
 1877)(cid։
-4667)-plane, we obtain equivalent representations (no summation over 
-(cid։
-2020)) 
-                                       〈(cid։
+4667)-plane, we obtain equivalent representations (no summation over(cid։
+2020))                                       〈(cid։
 1846)(cid։
 3091)(cid։
 3091)〉(cid։
@@ -4566,8 +4421,7 @@ coordinates in the (cid։
 4667)
 (cid։
 4667)(cid։
-3423),         (61) 
-              (cid։
+3423),         (61)              (cid։
 3400)(cid։
 3419)(cid։
 1855)(cid։
@@ -4598,8 +4452,7 @@ coordinates in the (cid։
 3404)(cid։
 3398)
 (cid։
-4667).                            (62) 
-	(cid։
+4667).                            (62)	(cid։
 1873)(cid։
 3005)∑
 (cid։
@@ -4722,16 +4575,14 @@ the plate at (cid։
 2870)〈(cid։
 2038)(cid։
 2870)〉(cid։
-3029).                                                                    (63) 
-The boundary-induced VEVs satisfy the covariant conservation equation (cid։
+3029).                                                                    (63)The boundary-induced VEVs satisfy the covariant conservation equation (cid։
 1487)(cid։
 3091)〈(cid։
 1846)(cid։
 3092)(cid։
 3091)〉(cid։
 3029)(cid։
-3404)0, 
-                 (cid։
+3404)0,                 (cid։
 1872)(cid։
 2879)(cid։
 3005)(cid։
@@ -4786,33 +4637,28 @@ The boundary-induced VEVs satisfy the covariant conservation equation (cid։
 3005)(cid։
 3005)〉(cid։
 3029)(cid։
-3404)0.                  (64) 
-The Casimir forces։
+3404)0.                  (64)The Casimir forces։
  The vacuum force acting per unit surface of the plate at (cid։
 1878)(cid։
 3404)(cid։
 1878)(cid։
-3037) 
-is determined by the normal stress 〈(cid։
+3037)is determined by the normal stress 〈(cid։
 1846)(cid։
 3005)(cid։
 3005)〉|(cid։
 3053)(cid։
 2880)(cid։
 3053)(cid։
-3285). For a massive field this quantity diverges. The 
-divergence comes from the single plate contribution 〈(cid։
+3285). For a massive field this quantity diverges. Thedivergence comes from the single plate contribution 〈(cid։
 1846)(cid։
 3005)(cid։
 3005)〉(cid։
 3029)(cid։
-3037). The latter is the same on the 
-same is the case for the boundary free part 〈(cid։
+3037). The latter is the same on thesame is the case for the boundary free part 〈(cid։
 1846)(cid։
 3005)(cid։
 3005)〉(cid։
-2868). Consequently, the resulting force comes 
-from the second plate-induced part 〈(cid։
+2868). Consequently, the resulting force comesfrom the second plate-induced part 〈(cid։
 1846)(cid։
 3005)(cid։
 3005)〉(cid։
@@ -4820,8 +4666,7 @@ from the second plate-induced part 〈(cid։
 1846)(cid։
 3005)(cid։
 3005)〉(cid։
-3037) and the corresponding effective pressure 
-is  given  by (cid։
+3037) and the corresponding effective pressureis  given  by (cid։
 3435)〈(cid։
 1846)(cid։
 3005)(cid։
@@ -4838,8 +4683,7 @@ is  given  by (cid։
 3285),  where 〈(cid։
 1846)(cid։
 3005)(cid։
-3005)〉 is  the  normal  stress  in  the  region  between  the 
-plates.  The  forces  corresponding  to (cid։
+3005)〉 is  the  normal  stress  in  the  region  between  theplates.  The  forces  corresponding  to (cid։
 1842)(cid։
 3037) act  on  the  sides  of (cid։
 1878)(cid։
@@ -4851,13 +4695,10 @@ plates.  The  forces  corresponding  to (cid։
 3404)(cid։
 1878)(cid։
 2870)(cid։
-3398)0 of  the 
-plates. They are attractive (repulsive) for negative (positive) (cid։
+3398)0 of  theplates. They are attractive (repulsive) for negative (positive) (cid։
 1842)(cid։
-3037). By taking into account the 
-(cid։
-3439).           (65) 
-             (cid։
+3037). By taking into account the(cid։
+3439).           (65)             (cid։
 1842)(cid։
 3037)(cid։
 3404)(cid։
@@ -5018,8 +4859,7 @@ the normal stresses from (57) and (61)։
 2868)(cid։
 4667)
 (cid։
-4667).                (66) 
-                       (cid։
+4667).                (66)                       (cid։
 1842)(cid։
 3037)(cid։
 3404)(cid։
@@ -5120,22 +4960,17 @@ expression (48) for the function (cid։
 3118)(cid։
 3296)(cid։
 2879)(cid։
-2869),                                                (67) 
-is the corresponding pressure for plates in the Minkowski bulk with the separation (cid։
+2869),                                                (67)is the corresponding pressure for plates in the Minkowski bulk with the separation (cid։
 1878)(cid։
-2868). Note 
-that in the problem under consideration (cid։
+2868). Notethat in the problem under consideration (cid։
 1878)(cid։
 2868)(cid։
 1854)(cid։
-1872) is the proper distance between the plates for 
-a  fixed (cid։
-1872).  For  the  Minkowski  bulk  the  Casimir  forces  are  the  same  for  separate  plates, 
-with the curvature radius of the background spacetime, one has (cid։
+1872) is the proper distance between the plates fora  fixed (cid։
+1872).  For  the  Minkowski  bulk  the  Casimir  forces  are  the  same  for  separate  plates,with the curvature radius of the background spacetime, one has (cid։
 1854)(cid։
 1878)(cid։
-2868)≪1. By taking into 
-account that for (cid։
+2868)≪1. By taking intoaccount that for (cid։
 1873)≫1 one has (cid։
 1836)(cid։
 3048)(cid։
@@ -5160,8 +4995,7 @@ account that for (cid։
 1873)(cid։
 4667)
 , for large (cid։
-1876) we get the asymptotic 
-expression (cid։
+1876) we get the asymptoticexpression (cid։
 1845)(cid։
 3005)(cid։
 4666)(cid։
@@ -5208,15 +5042,13 @@ where (cid։
 3037)(cid։
 4666)(cid։
 3014)(cid։
-4667) is given by (67). In the limit under consideration the effects of gravity on the 
-multiplied  by  the  conformal  factor.  If  in  addition	(cid։
+4667) is given by (67). In the limit under consideration the effects of gravity on themultiplied  by  the  conformal  factor.  If  in  addition	(cid։
 1878)(cid։
 2868)≪(cid։
 3627)(cid։
 2010)(cid։
 3037)(cid։
-3627),  the  leading  term  is  further 
-                                            (cid։
+3627),  the  leading  term  is  further                                            (cid։
 1842)(cid։
 3037)(cid։
 3406)(cid։
@@ -5256,23 +5088,19 @@ multiplied  by  the  conformal  factor.  If  in  addition	(cid։
 4667)(cid։
 3253)(cid։
 3126)(cid։
-3117),                                                     (68) 
-with (cid։
+3117),                                                     (68)with (cid։
 2014)(cid։
 4666)(cid։
 1876)(cid։
-4667) being the Riemann zeta function. The same leading term is obtained for Dirichlet 
-boundary conditions (cid։
+4667) being the Riemann zeta function. The same leading term is obtained for Dirichletboundary conditions (cid։
 3435)(cid։
 2010)(cid։
 3037)(cid։
 3404)0(cid։
-3439). The corresponding forces are attractive. For the Dirichlet 
-larger  than  the  curvature  radius  of  the  background  geometry, (cid։
+3439). The corresponding forces are attractive. For the Dirichletlarger  than  the  curvature  radius  of  the  background  geometry, (cid։
 1854)(cid։
 1878)(cid։
-2868)≫1.  By  taking  into 
-account  that  for (cid։
+2868)≫1.  By  taking  intoaccount  that  for (cid։
 1873)≪1 we  have (cid։
 1836)(cid։
 3048)(cid։
@@ -5304,8 +5132,7 @@ account  that  for (cid։
 1873)(cid։
 4667)
 ,  for  small  values  of (cid։
-1876) one 
-obtains (cid։
+1876) oneobtains (cid։
 1845)(cid։
 3005)(cid։
 4666)(cid։
@@ -5344,8 +5171,7 @@ for non-Dirichlet boundary conditions (cid։
 2010)(cid։
 3037)(cid։
 3405)0(cid։
-3439) one gets 
-	(cid։
+3439) one gets	(cid։
 1873)(cid։
 3005)(cid։
 2879)(cid։
@@ -5431,8 +5257,7 @@ for non-Dirichlet boundary conditions (cid։
 3118)(cid։
 3296)(cid։
 2879)(cid։
-2869).                             (69) 
-(cid։
+2869).                             (69)(cid։
 3005)(cid։
 4666)(cid։
 2872)(cid։
@@ -5469,8 +5294,7 @@ for non-Dirichlet boundary conditions (cid։
 1865)(cid։
 1872)(cid։
 4667)(cid։
-4671).                                     (70) 
-                                       (cid։
+4671).                                     (70)                                       (cid։
 1842)(cid։
 3037)(cid։
 3406)(cid։
@@ -5501,8 +5325,7 @@ the plates one has (cid։
 1873)(cid։
 4667)(cid։
 3404)(cid։
-3398)1 and the leading term is given by 
-                                         (cid։
+3398)1 and the leading term is given by                                         (cid։
 1842)(cid։
 3037)(cid։
 3406) (cid։
@@ -5548,18 +5371,9 @@ the plates one has (cid։
 4666)(cid։
 1865)(cid։
 1872)(cid։
-4667).                                                   (71) 
-Conclusion։
- We have investigated combined effects of the background gravitational 
-the coefficients being linear functions of the proper time coordinate (cid։
-1872). The evaluation of 
-Clarendon, Oxford, 1997, Milton K. A., The Casimir Effect։
+4667).                                                   (71)Conclusion։
+ We have investigated combined effects of the background gravitationalthe coefficients being linear functions of the proper time coordinate (cid։
+1872). The evaluation ofClarendon, Oxford, 1997, Milton K. A., The Casimir Effect։
  Physical Manifestation of ZeroReport No. ICTP/2007/082; arXiv։
-0708.1187.  
-Key words։
- Casimir effect, Friedmann-Robertson-Walker spacetime, scalar field. 
-Պետրոսյան Տիգրան 
-ՍԱՀՄԱՆՆԵՐՈՎ ՄԱԿԱԾՎԱԾ ՔՎԱՆՏԱՅԻՆ ԵՐԵՎՈՒՅԹՆԵՐ ԳԾԱՅԻՆ 
-ԸՆԴԱՐՁԱԿՎՈՂ ԿՈՍՄՈԼՈԳԻԱԿԱՆ ՄՈԴԵԼՆԵՐՈՒՄ 
-Բանալի բառեր` Կազիմիրի էֆեկտ, Ֆրիդման-Ռոբերտսոն-Ուոքերի 
-տարածաժամանակ, սկալյար դաշտ։
+0708.1187. Key words։
+ Casimir effect, Friedmann-Robertson-Walker spacetime, scalar field.Պետրոսյան ՏիգրանՍԱՀՄԱՆՆԵՐՈՎ ՄԱԿԱԾՎԱԾ ՔՎԱՆՏԱՅԻՆ ԵՐԵՎՈՒՅԹՆԵՐ ԳԾԱՅԻՆԸՆԴԱՐՁԱԿՎՈՂ ԿՈՍՄՈԼՈԳԻԱԿԱՆ ՄՈԴԵԼՆԵՐՈՒՄԲանալի բառեր` Կազիմիրի էֆեկտ, Ֆրիդման-Ռոբերտսոն-Ուոքերիտարածաժամանակ, սկալյար դաշտ։

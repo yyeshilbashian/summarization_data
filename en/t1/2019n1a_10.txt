@@ -1,0 +1,75 @@
+Currently high rates of tourism developmentin the context of domestic incoming tourismactivation of flows, which are mostly directed towardsnature.
+  With this in mind, we plan toIt is planned to assess the northern part of Armeniathree regionswater resourcesrecreational-tourism opportunities.
+(Shirak, Lori, Tavush)The water resources of the study area are mainly riversThat is why the work done is mainlyare aimed at exploring the river network and identifying the tourism and recreational opportunities of the rivers.
+The rivers in the study area are mainly:mountainousare of nature, although some rivers in different parts of their streamThey are different.
+  MountainousDebed is a character,Dzoraget և Pambak are of lowland-mountainous nature.
+  Like:Akhuryan is of that nature.
+River network in the study area in generalis more developed in the Kura basin, which stands out wetwith climatic conditions և with deep fragmentation.
+  Akhuryan saidArid in the basin due to climatic conditionsThe network is relatively poorly developed.
+  Most of the river valleysWe have examined it for a full evaluation. "the horse of the valleys, as it is possible for tourists to passfor.
+  There are two types of river valleys: U-adz և         V- ձև.
+Fig. 1 River valleys of Northern Armenia (Shirak, Lori, Tavush) typological mapDuring our researchThe river valleys of Northern Armenia were studiedwide cuts as valley eggs canrecreational-touristdue to:to beits:meaning.
+  Many people now cross the river valleystransport routes, in addition, the river valleys themselvesare of interest to tourists և a lotPedestrian routes cross river valleys.
+  At the same time,due to:with geomorphological features, itobject,for some types of tourism(mountaineering,rock climbing, extreme tourism և etc.).
+river valleycan:is:serveas:River valleys in the study areatransverseArcGIS 10.4.1 software was used to make the cutsthe system.
+  Making cross-sections of river valleysSRTM30 satellite served as the digital basis for the surveydigital model of relief formed by extraction.
+ ArcGIS softwarecross-section of river valleys in the environment3D Analyst toolkit was used forThe main cuts were made.
+  They are shown in Figure 2The main points of cutting.
+Fig. 2 Extensive section of river valleys of Northern Armenia  venuesA total of 54 expansion incisions were made.
+It is difficult to present the North within one articleRecreational-tourism of the whole hydrographic network of Armeniaopportunities, so we chose them as an exampleseparate sections of the three largest rivers, for whichAn assessment of recreational-tourism resources has been made.
+Fig. 3 Akhuryan river valley section to Gorshaberd
+at the polling stationFigure 3 shows an extension of the Akhuryan River valleythe section in Gorshaberd (see Fig. 2, № 1).
+  The latterThe analysis allows us to say how convenient it istransport and pedestrian routesfor conducting.
+The maximum depth of the valley is thisreaches 120 m in the section, and the river falls on 5 km43 m, which makes it possible to carry out I class rafting 1.
+ Withwhich is the most convenient time for raftingIt is spring, when the river begins to overflow.
+ The latter begins in Aprilin the first ten days և ends in June.
+  In generalThe maximum flow rate of the river is 70-82 days [2, page 100],which is more than favorable for rafting.
+Favorable conditions in this part of Akhuryan river valleyhe!mountaineeringhasThe slope of the right valley is 69 °, and the left - of the valleyat the bottom, 61 °.
+ In the lower parts of the valley, on the riverbedIn parallel, eco-trails can be conducted.
+և:rock climbingfor.
+1 There are two rafting classification systems: international ևRussian.
+  Our assessment is based on the international classification[1]
+Fig. 4 Pambak river valley section
+Near VanadzorFigure 4 shows the Pambak valley below Vanadzor(№ 30).
+  The latter has relatively gentle slopes, which are almostThey are completely forested.
+Fig. 5 Aghst գետ river valley section
+Near VanadzorThe slope of the left slope of the river valley exceeds 40 °, whichmakes it difficult for pedestrians to move, but it can be usedfor rock climbing.
+  The slope of the right slope of the valley reaches ևs40 °, it is partially curved, which makes it easy for pedestriansthe transition.
+  There are favorable conditions for raftingfor conducting.
+ The fall of the river at 7.72 km is 223 mThe slope is 28.9 ‰.
+  These indicators meet the II categoryrequirements for rafting.
+In contrastAccording to Akhuryan, the flood period is relatively short.which takes an average of 65 days [3, p. 185] when the river flows109 m3 / sec.
+    In general, we can say that the Pambak RiverThe valley in the middle stream is favorable for tourism ևfor the development of several types of recreation.
+Aghstև is also analyzed with the same indicatorsfor the river valley, the extension of which is depicted     fig. In 5.
+  In this part the river stands out with a wide valley, whichThe slopes are gently sloping and almost completely forested.
+The river valley is suitable for both hiking and hiking trailsfor transport communication.
+  Both right and leftThe slopes allow you to climb nofor sports tourism groups.
+  River fall in sectionAt the polling station it is 47 m at 4.66 km, and the slope is 11 ‰, which is:allows to carry out class II rafting.
+  In contrastAkhuryan և Pambak, Aghst's overflow lasts longer,which is due to the large number of forests in the river basinarea [4, page 70].
+   The salt in this section is quite wideIt is very convenient during spring and spring floodsfor rafting.
+  Organization of the latterThe most favorable period for spring is whenThe flood of Aghst begins.
+  Within the scope of this articleThe floodplain of Aghst among the rivers being comparedThe longest is about 120 days, which is more than favorablefor rafting.
+Tourism-recreational assessment of three river valleysWe used a four-point scale, where 0:points are provided in case the given resource is missing.
+The maximum score was 3.
+  Tourist rating is givenin Table 1.
+Given the fact that Northern ArmeniaFrom the point of view of rafting, the rivers are mainly of I և II category, oursflood was the basis for the assessmentthe duration of the period.
+  It's conditionedis:by calculating the profitability of travel companies.
+ By:In order to be profitable, the minimum working time must be at least 90 days [5, p. 57].
+  This indicator:based on the proposed scale, three presented in the articleAn assessment was made for the rivers, which is presentedin Table 1.
+Table 1. Akhuryan, Pambak "Aghst" rivers recreational-tourist    evaluation.
+River valleythe nameTourism:Rating:type:(cherry)With.(cherry)Maximum:(cherry)AkhuryanPambakRich:RaftingRock climbingMountaineeringRaftingRock climbingMountaineeringRaftingRock climbingMountaineeringIt is done for the mentioned areas of the three rivers. "Assessment of rock climbing and mountaineering.
+  Rock climbingThe indicators of relief slopes were taken as a basis for this.
+  By:IS GIS of the results of our field researchAkhuryan valleys for data analysis by the systemhave a significant slope within the mentioned section. left:
+The slope of the valley reaches 40 ° at the top and at the bottomin the section: 61 °.
+  The slope of the right valley is even biggerreaches 69 °.
+Table 2. Recreational resource evaluation table.
+Type of recreation:Rafting Indicator: Up to 70 days70-100 daysMore than 100 daysCherryRock climbingMountaineering(sports)(amateur)Indicator:Up to 25 °More than 50CherryIndicator:Up to 20 °More than 30CherrySlope of Pambak valleys in the sectionis almost equal to thatdoes not exceed 40 °.
+  Aghst Valleythe slope of the left valley at the study site is lowerpart is 30 °, which is favorable for non-sports groupsfor tourist routes, the slope of the same valleyreaches the topto use:for mountaineering։ rock climbing.
+ On the right slope of AghstThe slope at the bottom is relatively small, 26 °, which is weakallows you to organize health walks.
+  SameThe slope of the valley at the top of the river valley is quite largeis ° is 50 °, which is favorableMountaineering և:for rock climbing.
+is 60 °, which is possibleConclusions.
+  Analyzing the research doneThe results: certain conclusions can be made.1. Northern Armenia has a well-developed river network, whichis recreation և tourism certainbeneficialfor species development.
+2. Northern Armenia has relatively large riversallraftingfor implementation, which is vividly expressed hereseasonal nature.
+opportunities:order:և:3. For rafting in Northern ArmeniaThe spring months are more favorable when they startRiver floods, moreover, during the flood periodis:to carry out rafting of III և IV categories.
+currentspossibleriverstop:4. Most of the river valleys of Northern Armenia are youngIt causes large slopes, which is possibleuse sports rock climbing as he's amateurfor mountaineering.
+The research was conducted by the UniversityFinancial support: S GSPI 01-SCI-2017 Scientificwithin the topic.

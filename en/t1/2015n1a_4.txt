@@ -1,0 +1,70 @@
+   As we know, in quantum structures, in particulardifferenttouch of semiconductors with width bandsin the case of smallis formed near the sample separation boundaryan inverted layer that causes the edges of energy bands to jumpchanges, ie potential well for chargers) on the basis of:egg formation.
+ Such heterogeneity (e.g.usually double heterostructures are created), where the thickness of the strip is:(that is:is the screen length of the electrostatic potential.
+ As a resultOne-dimensional "rectangular" potential wells are formed, in whichtwo-dimensional electronic gas is localized.
+, gEgEAsGaAlGaAsxx1AsGaAlGaAsAsGaAlxxxx11 // la Modern technologies of molecular epitaxyapplications enable composite և alloythe most diverse potentials of quantum wells to obtain in supergridsprofiles.
+  It becomes accessible to super-network layersAs a result of alloying և creates wide opportunities for improving the working characteristics of semiconductor structures.
+Moreover, the potential profile of the well completely predetermines the position of the energy levels of the connected states.
+ The initial potential of the wellas a result of the transformation they become available separately intermittentlyLevel shifts according to the energy scale, removal of polarized levels from the energy spectrum of the well, or addition of new spectralevels, localization variations of localized states, control of scattering states, etc.
+  Quantum statesZakhar's works are dedicated to the spectral control algorithm [1].
+Let us try to apply the possibilities of geometric modeling to such problems below, which can provide guarantees for making qualitative (often also quantitative) quantitative estimates, bypassing the computational difficulties.
+For simplicity, consider the result of an abstractionանվ Infinitely deep rectangular potential well of orientational significanceproblem where?  if:Accepts other values.
+   Line 1:For positive pair states  - is odd.
+For negative pair conditions-is a pair [2] (line 1).
+Now the potential well in the stationary state equation (1) Represent solutions (3), (4) geometrically by introducing the waveformthe idea of ​​a plane of functions, one of the axes of which we dateby:values, and the other by: values ​​that match- change of spatial coordinate  from:to:  in the range.
+  It is easy to notice the wave functionsimported Potential in the "phase" plane22 * 222namEnnxaacos2n22 * 222namEnnxaasin2nxdxxdx2ax2ax xqxp, the functional behavior of discrete states of a quantum particle localized in a well is represented by an elliptical և "phase trajectory".
+ Really, especially for positive couple situationswhere will we get the phase trajectories?equation.
+ This is also the case with negative pairsfor.
+By:   և:  staple values ​​(lower quantumfor states), construct several phase trajectories whose starting points and endpoints correspond to the localization range of the quantum microparticle, respectively  և: at the edges (Fig. 2).
+  Now:  Introduce in the phase plane  polar coordinates..
+ We will have the phase trajectory equation    .
+                (6)        That is, each quantum state in a rectangular potential well,  is reflected in the phase planewith radius-vector rotation,line.2:which is realized  - Simultaneously with the change of the spatial coordinatein the range.
+ Moreover, the rotation angle for even states, and for odd states:.
+Here it is assumed that:    The angle is calculated starting fromfrom the axis in a clockwise direction.
+  The surface of the elliptical trajectory, and:Quantum state energy.
+                                 (7)                                              It is easy to notice thatis every quantumcondition: reflecting in the phase plane  The area drawn by the radius vector in the case of rotation from the beginning to the end,which corresponds to:-coordinate change  to the domain.    .
+x22axaanxn23anxn2qnaABSn222nnnSnmnamE222 * 2222 * 2nSn2qp, nx22axannnSSn2 Indeed, in particular  in this case the radius-vector draws "half"ellipse In this case, the radius-vector rotates twice in an elliptical trajectory, and so on.
+  Thus, the particle in the case of a full ellipse, quantum state  The energy is directly related to the corresponding radius-vector drawn  with the surface.
+The final conclusion can also be reached as a result of microtubbing in the more general dimension.
+  Indeed,quantum stationary state of a particle
+radius-vector elementary  sector area:is approximately equalelementary sector surface where: , and:(Fig. 3).
+That is,  The final surface drawn:line.3:.
+ And the radius-vector                 (a)On the other hand, the average energy of a given quantum state.
+ Given the impulseWe will have the fact of the operator's self-dissolution                                (b)  Comparing the results of (a) և (b), we can write:1n2n4nnEnnSxqxp; 2222xxqpOBMSdS OBNONOBdBNdldSNB22121: 2121212220122121xxdxxxddSS2121 * 2 * 2xxxxedxxUdxmpUTEdxxUmExxe 122222 (based on the normalization condition) և                                                        (c)       Considering  potential functional behavior under observationplease (
+ in separate zones of change), (c) to the rightThe second member of the part can be considered stable, that is, it canto be justified in a quantum stateEnergy: Depicting that state on the "phase" plane radius-vector drawn the conclusion of the dependence on the surface.
+Let us now consider the problem of a quantum well with a more complex profilethe possibility of geometric modeling.
+  In particular, consider the base of a rectangular quantum well with infinitely high wallsChanges in the energy spectrum of the state present in the center of the wellfollowing an additional drop in potential (Fig. 4).
+ The solution of such a problem within the accepted quantum-mechanical scheme [3] requiresa certain volume of calculation, the possible bypass of which is performed belowis the purpose of monitoring.
+ Note that the potential drop in heterostructures is achieved by changing the composition of the solid solution, resulting in charges in the range of 1,2,3The effective masses are generally different.
+Line 4:2121212012xxdxxS2120122122xxedxxxUSmExUconstxUxExx, n NnnS Profile hole in the picture allowable energyfor levels , where:   -Effective chargersthe arrays are in the 2 և 1, 3 domains, respectively.
+  Form 2 2 1, 3 in the "phase" planedomains of a microparticle the tracks.
+ For 2 domains phase of the quantum state with energy.
+   by presenting the phase trajectory in 2 zonesis an ellipse, which  is given by polar coordinates in relation to (11).
+In zones 1, 3, և phase trajectory   equation, polaraccording to the coordinates, has the following appearance (Figure 5)It is obvious that at points of continuous continuity of potentialThe wave function of a microparticle և its first-order derivative is neededThey must maintain their continuity.
+  Geometricin the language of itmeans և: phase trajectory intersection certainFucked:և: at points in the phase plane.
+ That is,Here:.
+  Let's discussthe case when:.
+In such a situation, according to (13), և:, so  with energystationaryLine 5:2122111 \ 1cos110011MN21: , 2211121,22000cos11cos11: MNMNM000k111k * 1 * 0mm10kk1010E quantum state    takes place in the phase plane  in the domain:    phase trajectoryby precinct,  in the domain:
+  phase:trajectory:  by precinct,in the domain:  phase trajectory  by precinct.
+  Note that:In the absence of an additional potential drop in the range, the stationary quantum state of the initial quantum well would be mapped  (when:) with phase trajectory.
+  So,guided by the էներգ phase trajectory of the energy of the stateGiven the above dependence on the surface area, we can:to conclude that: in the case of an additional potential in the center of the wellthe fall brings the well to the basic state of the permissible  energylevel drop according to the energy scale.
+ It is easy to notice thatsituation:
+Leads to a decrease(according to (13))Decrease, which in turn leads to greater coverage  phase trajectory formation, ieDeviation of energy level along the energy scale toup (line 6).
+  And:  Naturally, the growth leads to the opposite situation.
+Qualitative conclusions made for the main conditionare fully consistent with the results of accurate quantum mechanical observation.
+  Let us now consider the situation of the first excited quantum.
+ 1. Assume a potential well for a potential situation when:'s profile matches situation (a) which is adequate on the plane qp, 2M22bxa11M1NM2bx: 00NM02N22axb111N2bx11Emk2 * 112  * 1 * 0mm1n * 0m0k000101101NMNMSS0U2n2bxmqp,  MmMxxabbabx2322232 layout (Fig. 7).
+In this case  և: the phase trajectories will intersect և:points where (as in the previous case)  և:in case of condition).
+  Thus, a) potential by profiledrillingis carried out according to:  Stationary quantum state with energy in the phase plane phase trajectory.
+Line 6: For comparison, note that:There are rectangular potential wells depicted by: the quantum state of the pre-elliptical trajectory.
+ The combined energy level of the energies of the two quantum states a) drilling with a complex profileis obvious.
+deviates upwards (when:) (line 7).
+2. Now the profile of the well is given condition (b).
+232bxNabba23221100MN111000kk10:  * 1 * 0mmE11011NM2n112n * 1 * 0mm2bxm In this case
+.
+ և: the phase trajectories will intersectև:in points և b)Stationary quantum state with complex profile drilling of phase plane phase phase trajectory.
+is carried out according to:Now the initial rectangular potential well The comparison of the phase to the energetic state is obviousdepicted inNo, և is required for areas bounded by phase trajectoriesquantitative comparison (Fig. 8).
+                                                             Line 7 a)b)Line 8:                                The observations made indicate that the aboveGeometric representations of quantum stationary states in the "phase" plane can serve as an additional meansduring various transformations of the quantum well profileabout possible shifts in energy levelsto get the necessary information.
+To be more consistent, we can introduce the idea of ​​three-dimensional, so-called phase quantum space:
+by filling in the third vertical axis of energies, where the representations of the possible states of the microparticle are localizedcertain,  on the surface.
+  having a floor at the pointHorizontal elliptical sections of such a surface will correspond to a microparticle in discrete quantum states.  phase:on the tracks.
+Line 10:Literature Information about the author:Nikoghosyan Hrachik Suren - Phys. մաթ. scientist Candidate of GSPI Physics, Associate Professor of the Department of Technology and their teaching methods E-mail:

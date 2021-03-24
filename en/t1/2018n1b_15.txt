@@ -1,0 +1,102 @@
+Introduction.
+ As it is known, if there is symmetry in a physical problem, then in many cases it is necessary to use that symmetry to solve the problem, otherwise the problemIt is practically impossible to solve.
+ Observing and applying symmetryThey have not only practical, but also cognitive-aesthetic significance.
+ In different physics course questionnaires և assignmentsIn the collections, however, we encounter many problems in whichThe symmetry of the course of the physical object or process is defective orpartially violated.
+  Without symmetry considerations suchDirect standard approaches to problem solving face serious mathematical difficulties.
+ In order to solve such problems, it is usually necessary to supplement and restore the "lost" symmetry.
+  As a novelty in this work we have tried to coordinate ևClarify by analyzing methodological guidelines and sample problemsSome key approaches to restoring symmetry.
+We think it is very relevant in the conditions of this information floodis the classification and coordination of information, in this case problems, their solutions.
+ In addition, the perception, search, discovery and application of proportion և beauty play an invaluable role in the formation of a person's thinking և value system.
+  Let's move on to the presentation of some types of symmetry restoration.1. The essence of this approach is that they ask for mental recoverythe disturbed symmetry of the object under consideration և in order not to change the conditions of the problem, insert an additional object which is proportionatebe fully equivalent to the original object.
+ From such a replacementthen, using the return principle, the problem is easily solved if:Solutions for a symmetrical and complementary object are known [1].
+ It should be notedthat there is also an additional object mentioned in the issues under discussionproportionate.
+ Consider a problem.Problem 1. From a homogeneous thin disk with radius R, the figure shown in Figure 1 is cut by a horse.square.
+  Determine such a section of the diskthe center of mass [2].
+fig. 1:
+Solution 1.
+ In the absence of an incisiona homogeneous disk is a symmetrical body և itsThe center of mass is O geometricin the center.
+ By mentally filling in the square section, we get a complete disk, restoring the symmetry of the body.
+  To the original bodyTo obtain an equivalent body, we consider a body with an additional negative mass at the incision site.
+ So we replaced the original asymmetric body with two equivalent symmetrical bodies, whichThe centers of the masses are known (Fig. 2).
+ It is obvious from the considerations of symmetry that the center C of their masses is on the line connecting the centers of the "square" section of the disk.
+  Point C:The distance from the center O of the disk is denoted by x, the solid disk by 0 m, and the additional part by m.
+ Now searchableCancer mass:The distance x can be determined using the moment rule:fig. 2:
+.
+Given that, where է is the mass per unit area of ​​a thin homogeneous disk, from that equationwe find և:.
+2. Describe the second possible solution to such problemsapproach.
+ In this case, too, a part of it is mentally removed from the observed asymmetric object, which is symmetrically arranged.about missing missing.
+  As a result, we get two proportionsbodies և using the principle of return, we solve the problem.
+ The latterIt is possible if the solutions of a proportionate body obtained as a result of the removal of a part are known.
+ In this method, unlike the previous one, the body is presented as a system of its parts; no additional body is introduced.
+ Understanding this approach requires less abstract thinking from learners than the previous onecompared to it has narrower limits of applicability.
+ The point is thatIn the first case, the "restored" body has a higher degree of symmetry than the body obtained by removing a part.
+Let us present the solution of problem 1 with the second approach.
+Solution 2.
+  Mentally separate the disk from its O centerwith respect to the missing part in a symmetrically arranged mass of msquare piece (Fig. 3).
+ Without that part, two symmetrical cutsThe disk with a current is already proportional to the vertical line passing through the center O,։ it is obvious that the center of its mass is at the point O.
+  So, initial noWe replaced the symmetrical body with its equivalentwith two symmetrical bodies whose massesThe centers are known (Fig. 3).
+ Denoting the mass of the initial disk by one, mwe get from the rule of momentsև Given that:, we find again.fig. 3:
+ և:.
+3. As a third type of symmetry restoration method, we can consider all the problems where physicalSymmetrical rotation of an object or part of the general movement of a bodyAs a result, the symmetry of the whole is restored, and the physical quantity sought does not change.
+ The result is initially disproportionateIn this case the problem acquires symmetry և is easily solved.
+Let's bring an example.Problem 2. The body is thrown to the horizonunderm / s initial speed.
+ During the flight, it hits a vertical wall,which is located on the trajectory of the ballaway from the vertical throw point of the planem (Fig. 4).
+  Considering the blowAbsolutely elastic - decide what from the wallthe ball will fall at a distance.
+  angle:fig. 4:
+Solution.
+ The ABC trajectory of the ball hitting the wall is not symmetrical.
+ However, due to the absolute elasticity of the shockAfter the strike և In the absence of a strike, the movements are verticalthey will have a mirror symmetry with respect to the wall (Fig. 5).
+  Really elasticthe speed of the ball as a result of the blowthe vector modulus remains unchanged) և reflects the same from the wall with the corner with which he had hit.
+  Now:to find the already searchable l it is enough to "remove the wall" և to consider the proportion of the body thrown at an anglethe movement for which we will have.fig. 5:
+where do we get it from?m.
+ Let's add that in case of not using the considerations of symmetry, the solution of the problem becomes quite labor-intensive and unattractive.
+4. There are physical problems for which the solution of the symmetric problem obtained after filling the missing symmetry can be easily obtained from the solution of the initial asymmetric problem.
+ Consider a problem that can be solved by using this trick, which is similar in positionIn 2009 in the final round of the Republican Physics Olympiadto the proposed electrostatics problem [4].
+Problem 3. The capacitors of a flat capacitor are sheets of quarter-circuits of radius R with a very small distance between them.is their size  (Fig. 6).
+  Capacitor:the charge is q.
+ Determine the field strength at the midpoint of the section connecting the vertices A և B of the plates if the plates are parallel and AB The section is perpendicular to the plane of the plates.
+Assume that the electric charges are evenly distributed on the capacitor plates.
+fig. 6:
+Solution.
+ Consider the positively charged plate aboveCharges on two equal surfaces that are proportionalare arranged in relation to the circumference of that circle.
+  At the midpoint of segment AB, these charges create an electric field in a plane composed of sector halves. tension (Fig. 7).
+ Inside (negatively charged) sheet, the field created by the stresses created by their corresponding surfaces b և b!The rotation is proportional to the top platecreated field strength AB in the direction (Fig. 7).
+  Hence AB: in the midpoint of a segment like thatcreated with four charges E:
+ fieldthe tension of both the field created by the full plates E
+will be directed along segment AB.
+  strained. 7:
+Now charge proportional to AB"fill in" to get distributionsystem by placing one next to the otherthree pairs of rectangular verticesfig. 8:
+plates with the same charge.
+ Since the voltages of all these pairs of charged plates are correlated հավասար equal to the modulus, the cone կլինի will also be directed to AB.There will be voltage inside the sensoralong (Fig. 8).
+  Using the well-known formulas of a flat capacitor [5].for searchable tension we get:.
+4. Summary.
+  So, at work, we got up and triedClassify the various methods and tricks of restoring symmetry in physics problems.
+ It should be noted that the above lessons of problems are not limited to the examples given, և there are many other problems that can be easily solved with similar approaches.
+ Theircan be considered as the determination of the force of interaction of a point և infinite plane by the method of electrostatic representations, when the plane and the charges on its surface are "replaced" by an equivalent charge, which is proportional to the point charge arranged in the plane.towards.
+  As a result, the problem is replaced by a perfectly balanced positionelementary problem և easily solved.
+  Solve all these problemsThe approaches presented for are aimed not only և not so easy andto get a quick result, but to make the students proportionately beautifulPerception and development of creative abilities.
+The research was conducted by the State University of Science of the Republic of ArmeniaFunded by the Committee under the code 18T ‐ 5C287within the topic.
+Literature 1. Ghazaryan EM, Selective questions of school physics teaching methods.
+ (Collection of scientific and methodological articles).
+ S..
+"Edit Print".
+ 2009.308 pages.
+2. Physics.
+  3800 task for schoolchildren and instructors in the air (Author: N.V.Turkish, etc.) M.
+ Drofa, 2000. 672 p.3. Davtyan AM, Methodical manual for solving physics problems, Kinematics.
+ S..
+ "Phil".
+ 2007.
+136 pages.
+4. Grigoryan G., Yuzbashyan E. Republican Physics Olympiads.
+Final stage.
+ 2004-2016.
+ S..
+ "Edit Print".
+ 2016.
+ 192 pages.
+5. Grigoryan GV, Pakhchanyan BA Republican Physics Olympiads (1983-2003).
+ S..
+ "Edit Print".
+ 2003.
+ 224 pages.

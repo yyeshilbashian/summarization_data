@@ -1,0 +1,69 @@
+Experience in macro-seismic studies of strong earthquakes shows that their quantitative estimatesThey change depending on the energy of the earthquake, the mechanism of the epicenter, the distance from the hypocenter, the direction of seismic fluctuations, the terrain, the resonance phenomena, the ground conditions, the geotechnical properties of the rocks, etc.
+  To the latter:This is because very often there is a sharp difference in deformations, not only in adjacent structures, but also in different parts of the same structure, which means that it is not right to rely entirely on mathematical methods for calculating quantitative seismic indicators.
+ This will be more pronounced if we meanthat 1.
+For every 1 cm2 of 200,000 scale map, there is 4 km2 on the site area in which seismic effects in different areas can be:appear with a difference of up to 1-2 points, followed by any areaWhen assessing the impact of a possible earthquake on, it is necessary to:other conditions, take into account the lithological composition of the rocks that make up the area and their geotechnical properties.
+The presented work was carried out in addition to 2016. Within the framework of the "Improvement of the Irrigation System of the Republic of Armenia" program by EISI
+The first phase of the work done, during which it was implementedAs a result of the research, the expected area of ​​the reservoir was determinedbasal seismic intensity using different theoriesmodels և empirical dependencies.
+  The works have been completedwith the following three main stages:- Construction of a structurally dynamic generalized model of the Earth's upper part of the study area, which was the basis for the separation of seismic zones.
+- Seismotectonic zoning of the area - separation of seismic zones based on the maximum strength of possible earthquakes in them.
+- Area zoning according to the degree of seismic hazard.
+Yeghvard Reservoir is located in the central part of the Republic of Armenia, not far from the city of Yeghvard.
+ Reservoir:The surrounding area (around the reservoir with a radius of 50 km) is quite prominentwith a complex geological structure, which includes rocks of various heights, from the Precambrian to the Quaternary.
+  The ancient rocks are represented here by the formation of the Baikal complex, the most complete section of which is exposed by Tsaghkunyats.within the anticlinorium [1].
+From a tectonic point of view, this region has a rather complex structure, including parts of Bazum-Zangezur with intensive corrugation.From several sub-zones of the moderate fold folds of the Near East:Hankavan-Zangezur, Yerjan-Ordubad և Central Araksorogenic depressions [1].
+Taking into account the complexity of the tectonic structure of the study area, as well as the existing disagreements about the latter, the method of complex interpretation of the results of deep geophysical (gravitational-seismic) surveys was chosen as the main means to identify the elements of the deep structure [2, 3, 4].
+  Three-dimensional quantitative data of attractive dataBased on the results of the interpretation, the study was constructedThe structural model of the area's earth is three averages of depthfor levels [2, 4].1. On the surface of the crystal base (up to 5 km)2. Seismically active floor area (up to 20 km)3. Mokhorovichich border area (up to 45 km)The selection of these depths is coordinated with the deep seismic sensing data obtained by Neftegeophysics.by the Research and Production Association in 1989. [5]
+According to the data, the earth is also in the study areahas a layered structure. The seismic horizons dividing it are placed at levels corresponding to the above depths.
+They change depending on the local geological structure.
+Yeghvard, adjacent to Yeghvard ReservoirThe seismic model of the earth in the area of ​​the cone has the following appearance.
+As can be seen from Table 1, the observed site is totalis generally raised where the crystal base ceiling is installedAt a depth of 2.0 km վում is characterized by the propagation of seismic waves 5.2-5.4km / s, and the depth of the seismically active layer floor is 19 km, where the layer velocity index reaches 6.2-6.4km / sec.
+Table 1. Areas adjacent to Yeghvard ReservoirThe strengths of the earth's layers շերտ seismic waves propagation speeds Layer ceilingdepth:Layer:power:(km)(km)Layer speed:V layer- P:(km / sec) As a result of the complex analysis of the obtained data, using other geological-geophysical materials, maps of the fault-fault tectonics of the study area were made.for two levels of depth (5 և 20 km).
+   Earthquake crystalline within the study areaThe foundation stands out with its geological-structural-tectonic inhomogeneous structure.
+  The installation depth of the latter varies from +2 km to -6 km above sea level.In some places, in the Aparan-Arzakan section, it is even crystallineexposure of the foundation where it is represented by the Pre-Cambrian Paleozoicwith metamorphosed rocks, gneisses, crystalline shales, etc.
+ The greatest depths of the surface are observed in Aragatsat the site of the massif, where they form above sea levelup to -6 km.
+Earthquake within 20 km within the study area,which is accepted by us as the depth of the floor surface of a seismically active layer, is divided into mosaic arranged relativelyregional zones of elevation (Fig. 1).
+The separated regional zones have the following parameters:I. Aragats-Geghama lowering zone, consisting of two: Aragats և Geghama24 km բ 30 km deep, respectivelyIn the size of 25 × 80 km.
+II. Yerevan-Yeghegis elevation zone, consisting of two: Yerevan-Yeghegis
+from fragments raised to a depth of 13 km և 15 km, respectivelyընդհանուր 30 × 80 km in total dimensions.
+III. Near-Araks landing zone, which is presented as a single fragment at a depth of 25 km և 10 × 60 km
+in size.
+IV. Aragats-Hrazdan uplift zone, consisting of Aragats և Hrazdan uplift fragments, respectively 13 km և 15 km depth սահման within the study area 10 × 60 km total
+in size.
+V. Dilijan lowering zone, which is present in the study areawith its small south-eastern part, has a depth of 25 km և 10 × 40 kmdimensions.
+The mentioned regional zones and the fragments forming their parts are separated from each other by deep fractures, which are mainlyhave a north-western distribution, and two of them, Aragats-Javakhk և Garni fractures, have a corresponding northern ևnorth-northwestern distribution [4, 6].
+One of the most important tectonic elements of the area studied from the seismotectonic point of view is the Pambak-Shan deep fracture(indicated by 1 on the map), which is և to crystalline on the earth's surfaceIn the depths reaching the base, various types of fissures appearwith a complex of violations, which is spread in the north-west, and the width reaches up to 15-20 km.
+ In the deeper horizons, they condense and turn into a single fissure zone.
+ Modern tectonicThe nature of the movements is the same everywhere with these ruptures, with a right-angled northeast.
+The outline of the Yerevan-Yeghegis rise zone also plays an important role in assessing the seismic potential of the region.the complex of faults (in Map 2) that are known in the literatureThese are the northern and southern components of the Yeryanyan deep fault(on the map 2 'և 2' ').
+The northern border rupture is pursued in the direction of Ashtarak-Garni, it separates the Aragats-Geghama lowering zone from the Yer-Yeganis elevation zone.
+  The rupture north of Garni village intersectsWith the rupture of the lamb վում undergoes a displacement with an amplitude of up to 10 km.
+Fig. 1 Fragmentation of Yeghvard Reservoir և adjacent areas
+Schematic map of the structure (according to geophysical data)1 - Relatively lowered areas of the seismically active layer floor ևEstimation of installation depth at sea level, 2 - seismically activeRelatively elevated areas of the floor և Depth of installationAssessment of sea level, 3 - deep fractures (earthquake)intersecting տարած spreading in mantle), 4 - clearly disconnected dye, active ևrelief faults expressed in relief, 5 - alleged faultViolations, 6 - Design image of Yeghvard Reservoir To the east it is pursued in the direction of Garni-Martuni ևThe fragment of Geghama bordered on the south.
+ The southern component within the study area:In the Yervandashat-Masis section it has a distribution close to the transverse, andIt bends north-east from Artashat to the south-east, follows in the direction of Vedi Elp and merges with the Garni rupture.
+ The next possible deep fault to assess the seismotectonic potential of the study area is the Garni fault mentioned above (in map 3), which has a north-northwestern distribution ևIt is characterized by high tectonic activity.
+  This rupture was found in A. Ս. Karakhanyan on the basis of aerocosmic, structural-geological ախ other materials [7].
+ The modern activity of the Garni rupture is evidenced by the ruptures of the Hrazdan-Azat riverswith intersection sites, in the first of which only Holocene-PleistoceneAt the end of the year there was a right turn up to 100 mby amplitude.
+ Deepening horizons around the deepest horizonstens of times larger than the surface.
+  High accuracyFracture length by instrumental measurement resultsthe speed is 2 mm / year.
+Thus, three-dimensional modeling of the gravitational field և in-depthAs a result of the analysis of seismic sounding data, a map of fault structure was made, which was the basis of seismologicaldata comparison, seismotectonic zoning, seismicityfor the separation of zones, for the assessment of possible seismic potential in them, using different theoretical models, empirical dependencies.
+  As a result of the averaging of the data obtained from these calculations, the expected seismic starting point on the territory of Yeghvard ReservoirThe risk was estimated to be PGA = 0.33g for medium (Class II) ground conditionswhich, according to the MSK-64 scale, is equivalent to a 9-point intensity.
+To get more realistic seismic hazard estimatesFor the purpose, the latter was differentiated according to the areageotechnical properties of rocks, for which it is basedto serve A. T. Edited by Aslanyan in 1986. published 1.
+200,000:engineering geological map of the scale [8].
+ According to that map:There are twelve different ones in the territory of ArmeniaDistribution areas of geological-lithological complexes,which are divided into four categories according to rock stabilitystrong, medium, weak և very weak.
+Fig.2. Details of Yeghvard Reservoir և adjacent areas
+Map of seismic zoning (geological-lithological complexestaking into account stability)In the engineering-geological structure of the area with a radius of 50 km adjacent to Yeghvard Reservoir, all lithological complexes with the mentioned stability participate (Fig. 2), whereby almost 70% of the area is occupied by strong-medium stability rocks, and the remaining 30%falls on rocks with weak և very weak stability.
+The average index of stability is mainly volcanic rocks, which are represented by tuffs, tuff breccias, tuff sandstones, sandstones, limestones, marls, argillites, quartzites, porphyrites, pyroclasts, etc.
+ With their mining-technical properties, these rocks correspond to the rocky-semi-rocky soils.They have the same seismic properties as the medium soilscan be attributed to the initial seismic intensity, which, depending onFrom the distance between the potential epicenter of the ground sites, 8-9 և 9 points are estimated.
+They stand out with strong stability in the study areaMiocene-Pliocene րորդ Quaternary volcanic formations, which are represented by basalts, andesite-basalts, andesites and dacites.
+  They are mainly spread on Aragats, Ara Mountains ևIn the regions of Geghama effusive volcanism.
+  These rocks with seismic properties correspond to first class soils,Therefore, the initial seismic intensity in the regions of their spread is reduced by 1 point և is estimated at 8 points.
+The rocks with low stability are represented by Miocene-Pliocene volcanic-sedimentary rocks: clays, sandstones, pumice sands, tuff sandstones, sand-mixed clays, pebbles.
+These rocks:The seismic properties correspond to the indicators of the third class soils, therefore the expected in their distribution areasSeismic intensity should be increased by 1 point և equal to 9-10cherry.
+The following areas have been identified in the study area:whose ground conditions correspond to seismic characteristicsare on IV class soils.
+  They are represented mainly by quaternary deluvial-proluvial, alluvial-proluvial, alluvial-lakeFormations: sands, clays, clays, stones with very weak stability.
+  Some parts of the Yeghvard Reservoir area are presented with such soils, which means that it is necessary hereshow a special approach, ie in addition to increasing the initial seismic intensity by 1 point, also plan the constructionAdditional engineering preparations for the siteRemoval of soils with a certain capacity, anti-filtration measures, compaction, etc.
+Thus, the work done showed that the seismic detailare of primary importance in solving the problems of regionalizationstudy of the deep structure of the region և possibleSeparation of focal zones.
+  Earthquakes expected from these zonesIn order to assess the real potential, it is necessary to show a comprehensive approach, using not only seismic-paleoseismo-geological data, but also all possible theoretical-empiricalconnections.
+Detail separated by seismic zoningregions should be as natural as possibleIf the situation has a real impact on the level of seismic impact, then the MSS should be implemented on a conditional engineering-geological basis.
+Literature 5. Scientific-technical report.
+ Geological-geophysical conditions of the Spitak area:osыpeй на Territories of the Armenian SSR / sub.red. А.Т. Aslanyan. Yerevan.

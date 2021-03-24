@@ -1,0 +1,72 @@
+As we know, in classical mechanics of the physical systemOf all the integrals of motion, they are especially used in motionadditive integrals.
+  The latter are connectedseven rotations of symmetry (one temporal motion, three spatial motions, three rotational rotations)with the invariance of the system description to the group.
+ So for closed systems there are space-timeseven protected quantities corresponding to the changes.
+In particular, the symmetry with respect to temporal motion is equivalent to the existence of an asymptotically additive integral of energy.
+  And:The changes in the homogeneity and isotropy of space bring about a precise additive to the laws of conservation of momentum և momentum.
+Laws of conservation in quantum (also classical) mechanicsA convenient mathematical apparatus is used for confirmationPoisson's quantum (classical) parentheses.
+  However, it is methodically justified for a more complete perception of the physical imagecan be considered a reference to the laws of conservation: space andto the fundamental questions of relation to the properties of time symmetry from the quantum mechanical point of view of particle-wave duality.
+In classical physics, at the basis of particle-wave notions, the principle of their sharp contrast is emphasized, according to which particles have inherent signs of interruption, and waves, on the contrary, are endowed with definitions of continuity.
+ So physicalThe categories of interruption and continuity play a key role in understanding the essence of the partial-wave formations of objects.
+The latter, in turn, are correspondingly connected with the realities of uncertainty and certainty of values.
+ Thus, for example, a force field observed as a constant object is characterized by a certain value of stress at each point in the field, and, conversely, intermittentlyThe particle is characterized by interrelated uncertainties of position քանակ number of motion (uncertainty principle).
+ At the same time, force!The idea of ​​the objective reality of the field (electromagnetic, gravitational) is to play a decisive role in the smoothing of the sharp particle-wave sharp contrast, proving the intermittent sources of the field (charge, mass).the inseparable connection of the physical realities of the constant field [1].
+  Thus, even in classical physics, the opposite realities of interruption, continuity, that is, particles, waves, theirThe existence of a deep connection of movements, however, still!without confirming their unity.
+  Understanding such unity is one of the achievements of quantum physics, crucial in that direction.The honor of the step belongs to De Broglie, who showed the reciprocal correspondence of the periodic (wavelength, frequency) parameters of the corpuscular (energy, momentum) particles.universal, comprehensive nature.
+The appearance of corpuscular or corrugated properties in naturein objects is derived from the value of their mass, the velocity of motion, and is therefore in relative terms.to different interactions.
+ It means the possibility of applying the ideas of a particle or a wave to the same physical object, the reality of the latter being "identical" and different, outside of unity and interchangeability.
+Of particular interest in this regard is the attempt to substantiate the laws of conservation of corpuscular parameters (energy, momentum, momentum), which play a fundamental role in motion, within the framework of wave notions, the basis of which is the general spatio-temporal symmetry for both particles and waves.
+1. Energy
+Good for interpreting particle motion as a wave processThe experimentally observed realities of diffraction և interference of matter, which are characteristic only of wave motion, are an opportunity.
+  Recorded in widely known electron diffraction experimentsare interference maxima կայուն minimums stable over timesequence, spatially unchanged positions of constructive-destructive interference domains.
+ In particular,The stability of the interference image over time is a constant, time-independent difference of the phases of the repetitive wave processes, which in turn proves the Debroil wave.the absence of phase velocities, an obvious dependence on time.
+  And this can be observed outside the symmetry conditioned by the homogeneity of time.
+To get the expected result from the underlined reality, consider a particle that moves freely with a certain "impulse" E energy.describing the stationary condition debroil smooth harmonious wave.
+ Let's do it as a starting pointContradictory assumption, given that the apparent time dependence of the phase velocity of wave (1) can only be conditioned by the dependence of 𝜔 = 𝜔 (𝑡).
+  Really, for the sake of simplicity,that (1) the wave propagates along the axis Ox.
+ x - coordinate pointwave certainthe phase transfer velocity (phase velocity) will be determinedcondition.
+ That is, in the case of "heterogeneous" time (1), the phase velocity of the wave will be givenwith the expression.
+ 𝑉𝑓 The apparent apparent dependence of phase velocity on time is expressed by the second term to the right of (2).
+Elimination of such dependence, which directly stems from timefrom homosexuality, leads As a result, մասին on the conservation of the complete energy of the free particle over time 𝐸 (𝑡) = 𝑐𝑜𝑛𝑠𝑡. to the conclusion.
+  That is, a certain energy E specific to the steady state of the quantum system (free particle) The value is maintained over time.
+Let us now consider the question of energy conservation for non-stationary states from a wave perspective, analyzing the implications of the quantum-mechanical principle of state return.
+In this case, the subject of discussionis a non-stationary state described by a wave function where:debrilian smooth wave in steady state the particle is endowed with energy քանակ amount of motion,accordingly,with certain values.
+ However, the same cannot be said of a non-stationary (3) superimposed state when the motion of a particle is not characterized by energy ևwith certain values ​​of momentum.
+ In particular, պահին = 0 at time 𝜓The values ​​of the amount of energy (motion (5) as a result of the measurement will be revealed with probabilities only | 𝑎1 | 2, | 𝑎2 | 2,։ [2].
+The wave function of the above (3) state is presented belowin the form ofwhere 𝑉𝑓1 =:
+The following appointments have been made: ,…. (4) are the phase velocities of the waves, և
+𝐶1 (𝑡) = 𝑎1𝑒 𝑖𝜔 𝑖𝜔1𝑡, 𝐶2 (𝑡) = 𝑎2𝑒 𝑖𝜔 𝑖𝜔2𝑡,….
+(6) it clearly follows from the representation that if time temporal dependencies of 𝑉𝑓1, 𝑉𝑓2,… phase velocities are excluded by the homogeneity of time, then (6) will be a wave function:𝑡 at the moment according to orthonormalized 𝑒𝑖𝑘1𝑟, 𝑒𝑖𝑘2𝑟, 𝑡Functional system analysis, in which (7) coefficients of modulusThe squares will have the meaning of the probability of discovering the values ​​of the amount of motion 𝑡 the moment Ψ in the state Ψ at the moment արդյունքում as a result of measuring the probabilities.
+ But at the same time!where 𝑎1, 𝑎2, չեն do not depend on time.
+ That is, any time 𝑡At the moment (5) the probability of detection of values ​​is measuredas a result, they are stable անկախ independent of time.
+ The average value of energy in all possible quantum (4) states is the same.
+Thus, energy in the arbitrary state of the quantum systemaverage〉 𝐸〉 value, as well as certain 𝐸𝑛 values ​​of energy - measurementAs a result, the probabilities of detection do not depend on time as a direct consequence of the homogeneity of time.
+  Energy:observation of the interpretation of the law of conservation, in our opinion,does not have a symbolic character, unlike the accepted one performed by operator representation (using Poisson quantum brackets)although it is in line with the latter.
+The expression Debroil smooth harmonic wave (1), as we know, occurs for arbitrary velocities of a particle.
+  HoweverAt relativistic velocities, reciprocal transformations of particles become possible, bringing them into numbers and types.changes.
+  For simplicity, wanting to be limited to oneIn discussing the case of an immutable particle, it remains to be assumed that it is movingwith non-relativistic speed (𝑣 ≪։).
+ Free in such a border casefor the particle 𝐸 𝑚 𝑚0𝑐2 + +
+= 𝐸0 + 𝐾, that is, we end up freeto the obvious conclusion of the conservation of particle kinetic energy [3].
+Particle no in the presence of external stationary fieldsThe average externalized influence on relativistic movement, such as:we know, 𝑈 = 𝑐𝑜𝑛𝑠𝑡 is described. with constant potential energy input.
+ That is, the compatibility of the idea of ​​particle-wave duality allows a particle moving in the 𝑈 ≠ 0 domain.to matchDebroylan smooth harmonic wave, dispersion 𝜔 ′ =
+ by law.
+ The legitimacy of such a generalization, as is well known, has been tested many timesapproved.
+  And even more, with a certain approximation it is possibleused in the case of a field with smoothly changing potential [4].
+It is obvious that the homogeneity of time in this case ևs excludes the possibility of obvious dependence on time 𝜔 ′ = 𝜔 ′ (𝑡),which leads to the fact that the particle retains full mechanical energy.That is,     2. Impulse
+Experimental view of the interference image of material wavesThe unchanging position in space indicates the absence of explicit dependence of phase velocity on spatial coordinates.
+  This time, assuming a contradictory assumption, let ընդուն = 𝑘 ()   the possibility of dependence, which will lead to the phase 𝜑0 = 𝑘𝑥 - of wave (1)stability condition ությանը expression of the phase velocity of a wave in "heterogeneous" space (1).
+It is obvious that the exclusion of բացահայտ's explicit dependence on spatial coordinates, which results from the homogeneity of space, results in the conservation of the free particle momentum.
+3. Angular moment
+Microparticle interference experiments, spatial-temporalIn addition to homogeneity, they testify to the results of channel transmissionapparent invariance to spatial rotations, whichDue to the isotropy of space, it is a consequence of symmetry.
+  In other words, it remains to discuss what condition is metin this case the magnitude of the phase velocity of the debril wave will not dependfrom the direction of wave propagation (wave vector) in space(Dependence of the phase velocity on the magnitude of the wave vectordetermines the dispersion of Debroil waves even in emptiness).
+This means that states of free motion of a particle can be represented as either (1) flat waves or spherical waves;since the case of a free particle with potential energy 𝑈 (𝑟) = 0 is possibleConsider it an example of a centrifugal problem.
+  So freeIt can be attributed to the part of the movement under discussion. "a certain magnitude of the angular momentum և projection.
+ (1) at point ալի of the wave; 𝑡 at the momentphase shift 𝑉⃑ 𝑓 =:
+  the speed (phase velocity) will be determinedcondition.
+𝑘պր.
+𝑘պր.
+where Tspr. - is the projection of the wave vector in the direction of։։.
+Չէ does not depend on the direction of wave propagation: 𝑉𝑓 (1 - 1) = 𝑉𝑓 (2 - 2),That is, it is invariant to the spatial rotation at an angle of, → 0,if:where 𝑘′⃑⃑⃑ = 𝑘⃑ + 𝛿𝑘⃑, 𝛿𝑘⃑ = [𝛿𝜑⃑ ∙ 𝑘⃑].
+Infinitely small rotation 𝛿𝜑⃑ vector is directed to the plane of the drawingvertical, along the axis of rotation.
+Thus:Given thatwhere the second member on the right:according to the vectors ՝ 𝑓 𝑘⃑ 𝑘⃑, 𝛿𝜑⃑ ⊥ 𝑘⃑ orientation, we will get:(𝑟 ∙ [𝛿𝜑⃑ ∙ 𝑘⃑]) = 0.
+Subject the left part to a cyclic shift.Since է is a fixed vector, then:𝐿⃑ = 0.
+ That is, the isotropy of space determines motionquantity of torque: preservation of the vector over time.

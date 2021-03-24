@@ -1,0 +1,81 @@
+1. Introduction.
+ Solving a number of mathematical, physical, technical, and other problems requires calculating the values ​​of elementary functions for different values ​​of the variable.
+  That:and because of that, they were created in the Middle AgesTables of values ​​of functions, as well as formulas for approximate calculation of values ​​of some functions.
+ And later widely usedreceived the theory of series, chain fractions, etc., to whichelementary functions were represented by ներկայաց were determined by themvalues ​​[1-4].
+ Ahead of the development of the latest technologiesDuring the years, computer mathematics kits were created by relevant specialists, which are a powerful tool for various purposesfor solving mathematical problems, in particular, for calculating the values ​​of elementary functions.
+ Similar packages are MAPLE,MATHEMATICA, MATLAB, MACSYMA և other computer packages.
+In particular, the MAPLE package for various mathematical problemsIt is a powerful and flexible tool for solution.
+ Package over 2000 commandsgive an opportunityto solve algebra, mathematicalanalysis, differential equations և a number of other mathematicalsphere problems, in particular, to calculate elementary functionsvalues ​​for different values ​​of the variable [5, 6].
+The first part of this work presents the analytical methods for calculating the values ​​of trigonometric functions in series ևthrough chain fractions, and are presented in the second partSome features of the MAPLE computer package, with which you can calculate the values ​​of trigonometric functions, perform interpolation, construct graphs of functions, etc. with the desired accuracy on a personal computer.
+2. Calculation of the values ​​of trigonometric functions in rowsմիջոցով by means of chain fractions.
+2.1. Calculation of sine և cosine values.
+ We use to calculate the values ​​of functions և:from the fact of the analysis of the rank series [1-4]..
+                            (2)(1) Rows և (2) slowly converge at large values ​​of x;  functions:but given the fact that:are periodic functions և taking into account the formulas բեր canWe conclude that it is sufficient to be able to calculate these functions  in the range.
+  In addition, the following can be used:values:  և:from recurrent formulas.where:through. The sums are determined by the following relations.
+          (4)Similarlywhere:through. The sums are determined by the following relationsSince.
+             (6) in range (1) for a monotonically decreasing residual member nRis a sequence of signs with checkers, then hisThe following assessment takes place [1]..
+                                       (7)The same is true for the residual member of series (2)The following rating:.
+                                            (8) That's why The process of calculating the values ​​of the functions can be stopped if the next received member is hiswill be absolutely smaller than the permissible error։.
+ և:Example 1. countradian
+ radio.
+Using (4), we will have: to:510 շտ accuracy.510 շտ accuracy.Thus:Example 2. count.
+ to: radian radio.
+Using (6), we will have:Thus:0.
+510 շտ accuracy.Example 3. count to: radio.
+ radianUsing (6), we will have:.
+Thus:Example 4. count to:510 շտ accuracy..
+ radian radio.
+Using (4), we will have:.
+Thus:The cosine of any angle can be calculated in the same way.
+2.2. Calculation of tangent և cotangent values.
+It is advisable to determine the value of the tangent for chain fractionsthrough [2].
+ Accepting:Based on Lambert's formula [2] we will have:.
+of y to:In that case we will have.3.
+It is enough to take a decision with 10  accuracy15.
+13.
+11.
+7.
+5.
+9.
+       (11)Having y, we will determine tgx from (9).
+Example 5. count radian to: radio.
+510 շտ accuracy.15.
+13.
+15.
+11.
+13.
+15.
+15.
+11.
+9.
+13.
+7.
+9.
+11.
+13.
+15.
+Using (11), we will have:15.
+13.
+11.
+9.
+7.
+5.
+3.
+5.
+7.
+9.
+11.
+13.
+15.
+Thus:.
+Having the tangent of an angle, you can easily determine that angleKotangens.
+3. Calculation of the values ​​of trigonometric functions using the computer MAPLE package.
+ In a computer MAPLE package, the value of a trigonometric function can be determined using the evalf (f, n) array, and n is the decimal point, where f is the function to be calculated, for example:The number of digits stored after the comma of the Nordic fraction.
+With this command you can instantly get the answers to the examples above for any value of argument x:with the desired accuracy [6].
+Example 1. to count
+  the value of the function10  accuracyin.
+Example 2. count the value of the functionin.
+In each example discussed, the answer (value of the function) is received in seconds, և it is easy to make sure that it matchesanalytically calculated value.
+Literature Information about the authors:Lilit Mkrtch Margaryan - Head of Science and Research Department, Higher mathematics մեթոդ mathematics teaching methods Assistant of the Chair, PhysMath. scientist candidate, E-mail.
+ lilit-margaryan1986@mail.ru: Samvel Hovhannes Sargsyan - Yerevan State University, Higher Mathematics և Head of the Chair of Mathematics Teaching Methods, Paper of NAS RA Member, Physics and Mathematics Doctor, Professor,
+E-mail:

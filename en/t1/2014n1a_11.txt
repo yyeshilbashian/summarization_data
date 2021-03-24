@@ -1,0 +1,64 @@
+Software written in non-standard scripting languages ​​is now widely used.
+ Wide range of such programming languagesJavaScript programming language is popular.
+  Along with increasing the efficiency of computers և embedded systemsThe use of JavaScript language has become possible not only in small scripts used on websites, but also in large webin programs.
+  Moreover, some operating systems use JavaScript as the primary programming language.
+ Such systemsExamples are Tizen [1] և FirefoxOS operating systems.
+ As a consequence:occurs to increase the efficiency of scripting softwaredemand.
+This work considers the JavaScript language JavaScriptCore (JSC)JIT compiler for displaying web pagesIt is a part of WebKit library.
+  The aim of the work is JavaScriptCore JITDevelopment and implementation of optimizations in the compiler, which:will lead to the generation of better quality code, which in turn will lead to:To increase the productivity of programs written in JavaScript language.
+  The structure of the JavaScriptCore compiler [2]JavaScriptCore compiler is running at startuplexical և syntactic analysis.
+  Based on source codeAn abstract syntax tree is built, based on which lateran intermediate representation (bytecode) is built.
+The work of the JavaScriptCore compiler is shown in Figure 1.
+                                                  Figure 1:Depending on the intensity of the code execution, the source code is translated in 4 stages of machine code optimization.
+In the first stage, the program is directly interpreted.
+  This:During the phase, data are collected on the types of variables ևon the field values ​​of the objects.
+  In order for the translation of a function to pass to the second stage (Baseline JIT), it is necessary that the functionGather 100 "performance points", with each call of the function adding 15 points, and each step of the cycle adding 1 point.
+In the second stage of translation, the function is dynamiccompilation of machine code.
+ The received machine code includes all possible execution options for each operation.
+  For example, the arguments for the summation operation might be:numbers or letters.
+ In the second case, the operation must be performed as:concotenation of lines.
+  Thus, the received code may contain:numerous branches to handle all such cases.
+Data on types և objects collected firstin both stages, necessary for the organization of speculative translation in the third stage of translation.
+The third translation phase (DFG JIT) is performed for functions that have accumulated more than 1000 "performance points".
+  This:stage, various optimizations are performed based onon data on types.
+ A data flow graph is constructed from a bytecode intermediate representation [3] in which the operationsare presented in the form of SSA [3].
+DFG JIT compiler distributes the received information about the types in the data graph ավել adds the required types in the codeinspections.
+If the result of the type test is negative, then it is donetransition to the second stage of execution (OSR exit), where all cases of type processing are included in the machine code.
+ Thus, Baseline JIT ևMachine codes generated in DFG JIT stages can be replacedEach other.
+  When the function scores enough "performance points", it switches to DFG JIT (OSR entry), and when a dynamic variable type change occurs, it switches backwards(OSR exit).
+ The fourth stage of translation is called LLVM JIT և is donefor functions that have accumulated more than 10,000 "performancepoints. "
+  Instead of the intermediate code, the LLVM [4] compiler bitcode is used, են more optimizations are performed,including large optimizations in the LLVM compilerpart.
+JavaScriptCore dynamic compiler architecture studies revealed that the distribution of physical registers in the DFG JIT compiler is done locally, basicallywithin the blocks, which leads to each base blockAt the output all local variables are copied to memory և are reloaded from memory at the input of the next base block.
+  To get rid of redundant memory applications, a global registry distribution algorithm was developed in the JavaScriptCore JIT compiler.
+  The Linear scan algorithm was chosen as the basis.
+  This algorithm is implemented for SSA intermediate representation, which is the intermediate representation of the DFG JIT compiler.
+ JavaScriptCore was taken into account during the implementation of the algorithmThe following features of the compiler:1. The types of variables are determined by the dynamic, մասին typesThe information must be collected before the registers are distributed.
+2. Variable type for 32-bit architectures ևThe value is stored in different registers.
+3. Some commands are needed to translate temporarilyregisters.
+Local distribution of registers in JavaScriptCore dynamic compilerwas done during code generation.
+ At this stage, all the data needed to translate the commands into the required number of registers տ variable types are available.
+  The global registry distribution algorithm starts working before the codethe generation stage where that data is not available.
+    To solve the problemA new phase has been added to the compiler that works immediatelyBefore the distribution of registers, և collects the necessary dataon the required number of variables և type registers.
+It became possible after the global distribution of registersremove base blocks in մուտ outputs ուղղված out of memoryredundant applications, except when the base block is locatedin the body of the cycle.
+  Program execution can be passed to baseline JITfrom the compiler to the DFG JIT during the first command cycle (OSR Entry).
+  In that case you need to download allthe values ​​of the required local variables in the physical registersin.
+  To solve the problem, a new one has been added to the intermediate submissionbase block where commands are placed to load the values ​​of local variables into physical registers.
+  Then DFG JITThe input address of the compiler has been changed so that it points to the access address of the newly constructed base block as shown in Figure 2.
+Figure 2:The number of variables used in the program may exceed the number of available physical registers.
+  In that case, some variables need to be stored in memory.
+  To minimize memory applications, the values ​​of frequently used variables should be stored in physical registers if possible.
+  To that end, all program variables are matched to a "variable weight" that is directly proportional to the number of variables used in the program over that cycle.the depth at which the given variable is located.
+Then the lighter variables are stored in memory, respectively, and the heavier ones in physical registers.
+A study of the JavaScriptCore compiler found that there are commands that are not executed in the third level of optimization (DFG JIT), which causes cases:when the function performed many times is the same, DFG JIT is not translatedby means of a compiler.
+ An example of such a command is the typeof command for determining the types of variables.
+  Functions contained in this command:were performed only at the first level of optimization (LLINT) և second (baseline JIT).
+    Another example of this type of command is cycles,which are intended for enumerating the member data of the object (for-incycles).
+ Two of the listed commands were executed at the DFG JIT leveltranslation, which added to the third level of optimizationthe number of functions to be translated.
+Studies have shown that some complex commandsThe translation is done through the C-language function calls,which takes a lot of time to prepare a stack, function arguments և function call.
+ Generated machineTo improve the quality of the code, the function call in the machine code of some of these commands has been replaced by a direct assembly code of the command.
+The above optimization was done with JavaScript language for the following functions.
+ Math.power, Math.flo օ r, Math.power, String.fromCharCode.
+Within the scope of this work, several machine code optimizations have been developed for the JavaScriptCore JIT compiler.methods, such as the implementation of the global register distribution algorithm.
+All this has led to a significant improvement in the quality of the generated code.
+ Translating new commands into the SunSpider [6] testincreased the productivity of some tests in the collection by 15%.
+Global distribution of registers Productivity of some testshas improved by more than 20%.

@@ -1,0 +1,79 @@
+Training with the help of mobile technologiesThis process is called mobile learning.
+ The future of mobile learningIt is conditioned not only by the development of technology, but also by the development of educational materials provided by mobile technical means.
+  The process of learning using mobile technologies is underwaymore vivid, interesting and effective.
+The purpose of this work is to introduce the most up-to-date mobiletechnical means, opportunities, advantages, disadvantages of the teaching process through them և mobilewith optimal choice of technical means to prepare spatial images և display on any flat surface.
+The main technical means of mobile learning are: I. Mobile personal computers (Fig. 1), component of which:The parts with which the functions are performed are the same as the tableto personal computers.
+  Components reduced և:They are optimized for mobility and energy savings.
+Fig.1:Desktop to mobile PCThe advantages of a computer are:1. They are portable.
+2. Can work without power supplyto connect before the batteries run out.
+3. Individual parts: screen, keyboard, block և pointer controlThe device is always connected to each other.
+4. Can connect to wireless networks with built-in Wi-Fi device through.
+5. Built-in speaker, and some models also have a camerathe presence of a microphone.
+Desktop to mobile PCThe shortcomings of the computer are:1. In the case of similar characteristics, the high cost, which, with the development of technology, decreases.
+2. Low level of maximum productivity, as the sizes are very small.
+  The equipment used for cooling in these special conditions has very strict limitations related to the heat removal process, due to which it has a high capacity.In the case of developers, there are obstacles.
+  That is why even ordinary computers are more efficient than those designed for computer games, 3D modeling, design, and the like.to laptops.
+  They are installed on these laptops for normal operationnon-maximum productivity processors և useMobile types of video cards.
+3. Restrictions on equipment conversion. Video card conversion on most laptops
+There is no possibility, and the developer ակի optical CDIt is necessary to turn to the relevant specialists to change the disk drive.
+4. Incompatibility with different operating systems.
+5. Inconvenience of operation due to small sizewith Most keyboard shortcuts are smaller և Small, inconvenient for viewing screens with angles smaller than 14 inches, finger adjustment with no mouse
+the inconvenience.
+6. Cooling system of electrical parts. coolers, though
+high vortices, do not provide the necessary heat dissipation, whichRelapse can sometimes occur with high frequencynoise, and the chips are often out of orderbecause of the temperature.
+7. High probability of injury due to mobility.
+8. Repair difficulties due to small size փ fragility of parts.
+Depending on the length of the diagonal, laptops are usually: 17 inches և more common computer replacement knee pads 14 to և 16 inch mass notebooks: Notebooks, 11 to 13.3-inch SubNotebooks 9 to 11 inch ultra-portable laptops weighing about 1 kg 7 to և 12.1-inch Netbooks, DVDs do not have Palmtop or pocket computer less than 7 inches.
+The portable PCs whose screensare made on the basis of a sensor system (ie sensitive,You can enter data by tapping the screen)are tablet PCs.
+In terms of productivity, tablet PCs are inferior to desktop PCs and laptops.
+Apple's iPad - the first example of an Internet tablet  It was released in 2010, the second generation - iPad 2 - in 2011, and the third generation - "The New iPad" in 2012.
+Portable personal used for educational purposescomputers, due to the work done by them,There are: a) mid-range laptops with a screen angle of up to 721 inches, text materials of medium complexity are usedto do workb) multimedia notebooks, the screen angle of which may be:15.6 to 18.4, used for various types of work,c) gaming laptops with a screen angle of up to 17 inches ևmoreover, they have a relatively large processor և video card,are used in computer educational games և graphicfor work,(d) a portable workstation whose screen angle may be:be 15.4 to 17 inches in size, have a relatively large processor, a professional mobile video card, are usedfor three-dimensional modeling work,e) Notebooks with touch screens, the screen angle of which can be:be of different sizes, have a full keyboard, are used for text works.
+II. Portable electronic whiteboards (Fig. 2), in which they are used
+Infrared technology allows any smoothsurface (wall, ordinary blackboard, etc.) to convert the electronic whiteboard.
+                                                    Fig.2:The position of electronic markers at the core of infrared technology is the fixation effect depending on the laser beam signal.
+No special equipment projection is required here to receive signals from the projection surface.surfaces.
+  From the projection range to electronic display orTo control the work with the help of electronic markers, the camera, receiving the laser beam signal, transmits the recorded image to the computer, which in turn uses a projector to transmit it.depicts on the blackboard (Fig. 3).
+Fig.3:1. Wall surface or marker blackboard.
+  2. Mobile electronicblackboard 3. Projector.
+ 4. Computer.
+ 5. Electronic display board.
+Computer work can be controlled with the help of a mouse.
+ The working area can reach up to 150 inches.
+ You can write on the board with files of different dimensions (PPT, PDF, Word ևetc.) which are imported into a computer.
+The advantages of teaching using electronic whiteboards are:1. Available class delivery և Time-saving service delivery;2. Persuasive, observational, emotional perception of the studied objects;3. Development of interest in the lesson in the learner;4. Activation of teachers and students by pushing for research work.
+   III. Mobile phones (Fig. 4) designed for telephone
+communication միջոցով through base stations (multi-frequency radio receiver և transmitter) in the range of mobile network coverageto make a phone call.
+      In the field of education it is used mobilePhones that are weak when they have phone functions հեռախոս full operating systemAllows you to download programs.
+  One of them is the iPhone multimedia smartphone launched by Apple in 2007, which runs on Apple iOS, the models are: iPhone 2G, iPhone 3G,iPhone 3GS, iPhone 4, iPhone 4S, iPhone 5.
+Mobile phones used in the learning processgive opportunities to use:Fig. 4:images on any flat surface և:technical means of projecting videos2. To exchange information by fax, Internet, Bluetooth, Wi-Fi և etc.for,3. camera, video camera, printer իչ image,4. headphones և microphones,5. Flash cards for data storage;6. Recorder, radio, music player, video player,7. To exchange short messages (SMS),8. To exchange extended messages (EMS).
+  EMS:We can format the text, add images, soundև music,9. To exchange multimedia message (MMS).
+  MMS:Allows you to add images, videos, sound and music to your text.
+ IV. Laser micromotive projectors (Fig. 5a).
+  It is one of them SHOWWX + laser created by MicroVisiona micro-projector that allows you to connect project high-quality images և videos on smartphones անհատ personal computers և on any flat surface (Fig. 5b).
+  It:has 10 lumens of light flux, 848x480 allowable capacity, weight 122 g,external dimensions: 60x14x118 mm, can work with both power supply and battery (about 2 hours), projectionThe diagonal of the image surface is from 0.15 to 2.5 meters.
+                                       a b:                                                                   Figure 5:                Educational means of mobile learning technical meansThe advantages of the investment are:1. Personalization of student learning; 2. The process of teaching teachers who are constantly on the moveeffective organization,3. Increasing students' responsibility for their workwith respect to4. The emergence of interest in learning in the learner;5. Even distribution of the learning process over time. Some of the material taught is provided through extracurricular discussions (short messages to the study material)
+exchange),6. Organization of education in space in the process of learningincluding students from different cities and countries,7. Development of skills to work with information.
+The disadvantages are:The risk of radiation, however, is minimal.1. Bluetooth technology միջոցով mobile phones via the InternetThe ability to connect easily raises security issues.
+After knowing the possibilities, advantages and disadvantages of mobile teaching aids, we choosethe necessary technical means.
+  Զարգացման Obtaining prominent images contributes the most to the development of spatial perception ևpictorial and interesting display.
+ Obstacles to obtaining prominent images are:Axiometric with parallel projection methodsբարդ The complexity of constructing perspective images ևemployment, the inaccuracy of the construction, which depends on the inaccuracy of the tools used; և the means, as well as the skills of the teacher.և Abilities.
+These obstacles can be easily overcome by taking advantagewith the most powerful processor ներից large-capacity video cards from personal laptops, with which the teacher can use higherto achieve results by using computer software packages in the teaching process.
+To ensure the accuracy and precision of the training material, it is necessary to use AutoCAD, ArchiCAD drawingfrom programs.
+To present the educational material in text և other means of visual expression պատկեր interesting, it is prepared by presenting the MICROSOFT POWERPOINT program պատրաստ is displayedis a smartphone with a mobile phone, a laser microprojector.
+You have to decide correctly.Մեծ The size of the image diagonal (up to 2.5 m), the size of the room(up to 30 m2) պայմանավորված Due to the number of seats (up to 30 people).
+Ալ Optimal viewing area by seats.
+Ման Demonstration period of the prepared material (beginning of the lesson,middle, end) և duration in the lesson (about 20 minutes).
+The advantages of using mobile teaching aids in the process of developing spatial concepts are:1. The lesson is delivered affordable ը what is served is checked on timewith savings.
+2. The lesson develops the student's creative abilities.
+3. The objects under study are presented convincingly, visually.
+4. Work becomes a live activity during the lesson, which arouses great interest in the learner.
+5. Teachers who are constantly on the move have the opportunity to effectively organize the learning process.
+BOOK: 2. http:
+//ru.wikipedia.org/wiki/Newbook:3. http:
+//ru.wikipedia.org/wiki/ Microprojector:4. http:
+//ru.wikipedia.org/wiki/ Mobile phone:5. http:
+//ru.wikipedia.org/wiki/ Interactive board:6. http:
+//interaktiveboard.ru/publ/ How to use the interactive desk in Russian languages7. http:
+//www.mobi.ru/videos.php?rTag/ Notebooks - Videos:8. http:
+//droider.ru/.../3m-mp220-mikroproektor-dlya-android-ustroystv/ Information about the author:Khachatur Garegin Sultanyan - Gyumri M. State after Nalbandyan
+Pedagogical Institute, Associate Professor, E-mail.

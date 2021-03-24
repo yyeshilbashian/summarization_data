@@ -1,0 +1,74 @@
+Introduction.
+  The northern corrugated region of ArmeniaOccupies the entire northern and northeastern part of the territory of the Republic of ArmeniaThe section spreads from Aragats և Geghama plateausnorth, as it includes east of Lake Sanaaareas.
+  The terrain is very fragmentedwith mountain ranges separated from each other by intermountainswith concaves and deep river valleys.
+  Terrain:complex orthology is due to the latest tectonicintensively expressed in the stage, strongly differentiatedwith fault-block vertical tectonic displacements, which:The total amount reached about 3 km [1].
+modernare:modernwhich at the same timemovementscombinedThe study area with its geodynamic activityHe stands out now, which is clearly expressedin modern horizontal և vertical տեղ movements և seismic activity.
+  Currently in this directionThere is a lot of research that has been done on the modern movements of the earthanalysis [2-5], seismic activity analysis և seismicto danger [6-11].
+  However, analysis of the tectonic activity of the area in previous workstands out with its time limit.
+  First of allit is necessary to distinguish between modern and modern tectonicactivity.
+  This work is aimed at the evaluation of the latter.
+  The study of modern tectonic activity is certainly very relevant.
+  However, in the conditions of RA,The required hardware details are not consideredwhere:study(Earthquake!directed),is strictcomplicatedwith tectonic structure, modernmovementsThe study is still far from complete.
+Undoubtedly very importantGeodeticmeasurement data, in particular double leveling,which allow you to evaluate the modern verticalthe speed of movements, as well as GPS data, whose roleIt is very possible for modern horizontal movementsin the case of evaluation.
+  But for the study area thatData from sources are not temporalenough detail, their series is interrupted(doubleand GPS datainformation can be provided only in the last one orfor a maximum of two decades [3, 4].
+  But how?is marked:in the study areaEarthquake սեղմ compression և expansion and relatedThe tendencies of increasing and decreasing over time are severeare variable, և follow each other decadelyin terms of:
+  Hence the earth!development andespecially the recent geological onedynamic changes առկա common in themleveling data),is a job?In [2],evolutionaryAbout:instrumentalmoderntrends:Studies can not give a direct idea.
+  In:Unlike modern instrumental measurements, tectonic geological methods allow the idea to form noor from the point of view of geological chronologyon the development of the place and its dynamics during the period of its formation, provides another opportunity to bring outat a longer time interval (geological endperiods) nature of the area, general trends, spatial geodynamic activityfeatures.
+  Hence, tectonic-geologicalThe results obtained by the methods can generallydo not correspond to modern geodetic data.
+The latter are of great importance, especially in seismological վերլուծ analysis of spatial patterns of strong earthquakes հնարավոր possible strong earthquakesin the segregation of focal zones, as mentionedR. clearly stated at the time. A. Clarence in his work.
+It should be noted that the initial approach in this direction alreadySome work has been done [11] that is now underwayin the further deepening stage.
+All this is conditioned by the scientific nature of the problemsignificance ությունը urgency, which lies under studyin the assessment of tectonic activity of the structural units of the area.
+  Basic structural units, which are the main alpineelements are fragmented by fracture bodies, for whichAs a result, the block structure is significant for them.
+The tectonic activity assessment was carried out on a block basisfor units, because the same structural unitdifferent parts, being part of different blocks, havedifferent tectonic activity.
+Research methodology.
+   At work:tectonic geologyfor the purpose of:modern GIS technologies are widely used,as digital relief from satellite extractionmodels: ASTER_GDEM [13].
+  The latter are quite highindicators:calculation:solvent և allow large-scale and detailed studies.
+indicators:For this jobInternational experience in recent years, as already mentioned,tectonic-geologicalUsage:found to assess the tectonic activity of the areais its wide application, which justifies the methodological method usedthe basis և the validity and reliability of the results obtained thereby.
+The following have been used in the framework:tectonic-geologicalfloor:The ratio of width to height is VF (Valley)relative:expansion coefficient: RDEt (Relative Slope Extension Index),Lineament Density Index: LD (Lineament Density)Hipsometric Integral: HI (Hypsometry Integral)mountain rangeThe coefficient of curvature of the foot is Smf(Mountain Front Sinuosity).
+Obtaining a generalized index of tectonic activityThe Tectonic Activity Index (IAT) was used forActive Tectonics).
+indicators:Valley:mountain slopeAnalysis of research results.
+  At the bottom of the valleycoefficient:ratio:և:width:is calculated by the following formula [14].height:where VFW is at the bottom of the valley, Eld is on the leftAbsolute height of the valley slope, Erd - to the rightAbsolute height of the valley slope, Esc - the bottom of the valley floorabsolute height.
+coefficient:calculation:To calculate this coefficient, as followsto be submitted RDEt:for the purpose of:ASTER_GDEM based on ArcGIS 10.5 softwareThe river area of ​​the study area was isolated in the environmentThe network, after which the river categories were determined according to:Strachler's famous classification [15].
+ The river network is divided into I,Class II և III river flows, after which the analysis was carried outfor each block unit separately.
+  As:Site block structure, previously adopted by uspresented scheme [4].
+transversecuts.
+  Coefficient:Thus, for the purpose of calculating the VF coefficient by us103 were studied within the study areariversaverage costfor each block unit all other indicatorsA table is presented with the corresponding valuesIn 1.
+ According to [6], the values ​​of VF <1 are typical for most V-ratsto the valleysare active fractureby tectonics, on the contrary, the value VF> 1 is defined as U-dzvalleys that point to the quietest tectonicsconditions.
+  So how high is this value?Tectonic activity is so passive և vice versa.
+  Ours:Based on the values ​​obtained by VF coefficient, the blockswere divided into three groups: tectonically active (VF <0.5), mediumactivity (0.5 <VF <1) և passive (VF> 1).
+և conditionedThe slope ratio is RDEt[16, 17], the calculation formula is as follows:length.
+  This:where ΔH is the magnitude of the fall of the river Talweg and ΔL is the magnitude of the riverThe straight linear length from the source to the estuary, and L isRiver Talvegcoefficient calculationOnly Class I streams were selected for the purposeyoung formations that characterize the terraintectonic development in the recent geological past.
+A total of about 3852 Class I streams were mapped.from which they were selected to participate in the calculation processthose in which the length of the river և is obtainedHigh correlation value (0.83 in this case), which is:minimizes the area along the length of the riverthe effect of disorganization, on the contrary, is in the foregroundbrings out the tectonic factor.
+  Correlationis shown in Figure 1.
+Figure 1. Northern corrugated region of Armeniawithin:Class I river falls և themgraphical representation of the correlation relationship between lengthsAccording to:[16,17] The higher the RDEt value, the higher the valueThe area is more tectonically active.
+  As in the previous indexIn this case, the blocks were divided into 3 main onesclasses: tectonically active, medium activity և passive:depending on the average value of RDEt within their limits.
+The calculation of the remaining indicators did not require a river networkanalysis և is based on the relief and its quantityon the analysis of parameters.
+The next indicator is the calculation of the density of the line networkWe have used the PCI Geomatica 2016 program for:allows separation by automated horsethe linear elements of the relief.
+ For this purpose, advance ArcGIS softwareThe relief of the study area was carried out in the environmentshading.
+As a result of line separationA total of about 6740 of different lengths were separatedlinoleum whose sum of length և block areaas a result of the relationshipline networkdensity value: LD: [18].where ∑L is the total length of the leiants in kilometers,and S is the area of ​​the block in square kilometers.
+  Naturally high in LDThe values ​​will indicate high tectonic activity of the areaabout.
+ Line density, hypsometric integral ինեdepending on the curvature values ​​of the foothills, as:It was in the case of the previous indicators, in this case it has been preservedthe same classification of blocks according to tectonic activity!approach.
+Hypsometric integral ության curvature of the foot of the mountain rangeIndicator of the description of the tectonic activity of the siteare some of the most practical indicators currently foundwidely used[14,19].
+  Their calculation formulasare presented in Resolution և (4) և (5) respectively.where Elevmean is the mean absolute height of the block,Elevmax is the absolute absolute height of the block     Elevmin is the absolute minimum height of the block.
+ How high?is the value of the hypsometric integral, the more tectonicallyThe block is active.
+  The curvature of the foot of the mountain range is calculatedwith the following formula:where Lmf is the length of the foothill and Ls isThe straight linear length of the foot of the mountain range.
+  According to [14],if the Smf value is close to 1 (it cannot be less than 1), then:The area is characterized by intense tectonic upliftsև on the contrary, the higher the value of 1, the tectonicThe processes are more passive.
+Finally, to summarize all of the aboveIndicators [20] suggested using tectonicactivity index - IAT, which is a value,which has no unit of measurement և is usedthe average arithmetic value of the indicators.
+  It counts as follows:by formulaused:allwhere S is:Quantitative:is the sum of the quantities and N is the sum of the applied indicescount.
+ At the same time according to [12], the classification of blocksAccording to this indicator, it is customary to perform in the following ranges:for: 1.0 <IAT <1.5 (highly active), 1.5 <IAT <2.0 (active), 2.0 <IAT <2.5(average activity) և IAT> 2.5 (passive).
+indicators:Table 1 below lists all used onesIndicator values ​​by block area of ​​the study areapoints.
+The following is the northern corrugation of ArmeniaMap of tectonic activity of the blocks of the region according to IATIndicator values ​​combined with H. H. Compiled by Sargsyan
+With the fault elements of the RA territory [21].
+  Figure 2 shows that:The separated lines in the map correspondsubject:fracture-fracturebodies:in particular, Pambak-Shan-Syunik,Hankavan-Zangezur, Pambak-Dzknageti, Sanahin-Miapori ևGarni.
+  All this confirms the selected tectonic baseaccuracy.
+in the area:known:withSome of the lines in Figure 2 are mentionedThey do not find their expression in the map of tectonics.
+  This:circumstancescalewith differences because other tectonics of regional naturemaps:[22] separated during comparisonThe lines are clearly expressed.
+I need it!to explainis:Table 1. Blocks of the northern corrugated region of Armeniatectonic activity indicatorsBlock:the nameThe class of the block according to tectonic-geologicalindicator:Figure 2. Northern corrugated belt of ArmeniaTectonic activity map of blocks by:index (tectonic basis [11] from work).Blocks.
+ ESMB - Arjelyan Sean Mountain Range, SMBSS - SeanSouthern segment of the mountain range block, ARB - Areguni block,      SMBNS - Northern Segment of the Sean Range Block, GBSS1- Southern First Segment of Gugark Block, GBSS2 -Gugark Block South Second Segment, GBSS3 -Southern Third Segment of Gugark Block, GBCS -Gugark Block Central Segment, GBNS - Gugark BlockNorthern Segment, MB - Miapor Block, HB - Halab Block, PBES Eastern Segment of Pambak Block, TSB1 - Prosperous Block Firstsegment, TSB2 - Second segment of the flowering block, TSB3 -The third segment of the flowering block, LB - Lalvar block, BBES -Eastern segment of the multi-block, PBCS - Pambak blockCentral Segment, BBWS - Multiple Block Western Segment, TB- Tashir block, JB - Javakhk block, PBWS - Pambak block westsegment, ASHB - Ashotsk block, ABWS - Amasia block westsegment, ABES - Eastern segment of Amasia block, SHB - Shirak blockindex, tectonic strengthAs a result of the research, it turned out that, according to:with high activitystand out: south of the Sjan mountain range block, SjanNorth of the mountain range block, Central of the Gugark block,Central of the Pambak block և West of the Bazum blocksegments, such as Areguni, Halabi, Miapori and Lalvarblocks.
+They have high tectonic activity of Gugark blocknorthern, southern first of Gugark block, Gugark blocksouth third, first of Tsaghkunyats bloc, Tsaghkunyats blocThird, the eastern segments of the Pambak block Ջ Javakhkthe volcanic block.
+They are distinguished by medium tectonic activity - Gugarksecond block of the bloc, second of Tsaghkunyats block, Bazum blockeast, west of Pambak block և east of Amasia blocksegments.
+Low tectonic activity is typical of Arjelyan Seanto the mountain range, Tashir, Ashotsk և Shirak blocks, like him ևTo the western segment of the Amasia bloc.
+Such as blocks of different tectonic activityObtaining the configuration is highly seismicactivity:strongfor the separation of possible zones of earthquakes, why?This has been discussed in our previous work.
+Comment:andin particularConclusion.
+  Summing up the research:It should be noted that they were taken to the territory of Northern ArmeniaTotal tectonic activity of earth blockstrends starting from the latest tectonic phase.
+  Separated:are very high, high, medium և low tectonic activityblocks on which such a description is basedcomparison of the average values ​​obtained for the regionbased on.

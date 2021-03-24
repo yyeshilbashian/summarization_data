@@ -1,0 +1,57 @@
+One of the most important problems in teaching physics in high schoolto teach students the basic laws and principles of physicsat a level that will allow them to apply themnot only to solve certain physical problems, but also to contribute to the formation of their methodological thinking.
+ If these rules և principles are constantly applied in different sections of the course, thenthey are perceived by the learner more comprehensively and deeply.
+One of the basic principles encountered in the school of physics is the principle of independence of movements, which would be more correctly called the principle of repetition of independent movements.
+ According to that principle:Under certain conditions, the movement of the body can be representedas independent իրար several simultaneously (usuallytwo) amount of movements.
+  This principle of methodological tricksis one of the links, the essence of which is to study any newAn attempt is made to present it as previously known and clearoverlay of events.
+In the textbooks [1,2] when getting acquainted with the material related to the given topicThe impression is that we are talking only about the resumption of movements.
+  There is little talk about the independence of these movements.
+  What?Understand "movement independence" from a physical-mathematical point of view.
+Physically, it means performing at the same timeOne movement does not affect the characteristics of the other movement at all (for example, speed, acceleration).
+ It allows you to visualize the complex movement under study as a simpler onesum of movements that are neither qualitative nor quantitativeThey do not have an effect without disturbing the subjectthe integrity of the movement.
+From the point of view of mathematical description, the independence of movements makes it possible to write an equation describing each of the component movements based on physical patterns, without "remembering" the existence of the other components of the movement.
+It should be noted that the above is not general, thoughThe motion and velocity of complex motion can always be represented as the sum of the motions of simple motions և velocities, but the same cannot be said for accelerations.
+ The principle of repatriation or independence of movements occurs only ifwhen computing systems move in parallel with each other.
+  For example, if the mobile system is immovableIf you make a rotating motion, then this principle can not be used.
+           The independence of the movements becomes more obvious and perceptiblewith further experience (Fig. 1).
+  Consider the simultaneous movements of three balls.
+  The first ball is thrown to the horizon at an angle:
+at the initial speed.
+ The second ball is thrown from the same level as the first one101v ball, upright upwards  with an initial velocity whose modulus is equal The third ball is placed horizontallyon the surface ին the originator is on the same vertical with the first.
+It is reported in a module  horizontal velocity, ևit moves in a straight line.
+Fig.1:If we record the positions of all three balls after equal intervals, we will have fig. The situation depicted in 1 is:
+at any time. a) the first և third balls will be on the same vertical;b) the first և second balls will be on the same level.
+a) և b) points's that the motion of the first ball is nothing,than the movements of the second or third balls independently of each otheroverlay.
+  In fact, the angle of the first ball thrown at an anglethe movement "does not notice" the horizontal motion of the same ballmovement և the opposite.
+In the current course, the student gets acquainted with the principle of independence of movements for the first time in the 10th grade while studying the topic "Equally Accelerated Movement".
+ This principle is then applied in the 11th gradecharged in a homogeneous electrostatic fieldwhen solving problems with particle motion ևfig. 2:
+02v.
+sinvv0102cosvv0103 "Motion of a charged particle in a homogeneous magnetic field"while studying.
+The principle of independence of movements is in fact a consequence of the classical rule of summation of transitions.
+ That is why oursIn my opinion, it is desirable to acquaint the student with the principle under discussionEarly in the 10th grade, during the study of the topic "Straight Equilibrium Movement".
+  The need for it is especially felt in the process of solving some problems related to the topic.
+For example. [3] The boat must reach the other shore from point A on one bank of the river
+(Fig. 2).
+ If it takes a vertical direction on the shore, 10 minutes after the start of the movement, it will appear at point C of the opposite shore, which is 180 degrees away from point B.m (AB is perpendicular to the shore).
+ If the boat chooses the direction ABdirection forming an angle, then in 12.5 minutes it will reach point B.
+  Boat:The velocity with respect to water is the same in both cases.
+1) What is the velocity of the river?
+ the sine of the angle.
+2) How much is it?(3) What is the speed of the boat relative to the water?
+4) What is the width of the river?
+Let's solve the problem using the principle of independence of movements, whichAccording to both cases (Fig. 3. a և b) we can move the boatab:Fig.3:present as two independently occurring at the same time   amount of movements, which are: a) straight linear motion  speed on the shoreparallel, consequently                  ç.³öv (1), v1tSç.³ö b) in the first case (Fig. 3.a) straight linear motionvelocity perpendicular to the shore, consequently       in the second case (Fig. 3. b) straight linear motionspeed towards the palm at an angle, then:The system of equations from (1) to (4) is solvable և fully meets the requirements of the request.
+Experience shows that when the principle of independence of movementsThe student masters two simple straight lines in advanceby the example of repetition of movements, then independently replayedin case of complication of movements (evenly accelerating orequally circular) of both the principle and the perception of a new movementFrom the point of view, no problem arises.
+  For example, when looking at the abovediscussed only the movement of the body in the field of gravity, orcharged in homogeneous electrostatic or magnetic fieldsbody movement [4].
+.1.veçÝ (2), v1..tLçÝ.2.veçÝ090 (3) cosvvÝ.çÝ.³ö.2 (4).
+v2Ý.³ö.2tLis presented. The possibility of representing a motion as a superposition of component:
+Literature 1. E. Ghazaryan, A. Kirakosyan, A. Mamyan, S. Mailyan, "Physics-10", Yerevan.
+"Edit Print", 2010.-272 pages.
+2. E. Ghazaryan, A. Kirakosyan, G. Melikyan, A. Mamyan, S. Mailyan,
+"Physics-11", Yerevan.
+ "Edit Print", 2010.-368 pages.
+3. R. B. Alaverdyan, G.G. Melikyan, J.H. Ninoyan, A.V. Petrosyan, Physics
+Collection of problems, Yerevan.
+ 2009.-272 pages.
+4. Ե. Ս. Serobyan, V. F. Manukyan, The movement of a charged particle in combined electric-magnetic fields // "Bnaget", 2006, № 1-2, pp. 43-47.
+Information about the authors:Yervand Sergey Serobyan - Phys.Math. scientist Candidate, Associate Professor, GSPI,
+E-mail:
+ eserobyan56@mail.ru:Manukyan Vardan Franz - Phys.Math. scientist Candidate, Associate Professor, GSPI, E-mail:

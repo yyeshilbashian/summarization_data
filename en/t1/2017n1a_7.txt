@@ -1,0 +1,90 @@
+The urgency of the research.
+  For the development of tourism in mountainous countries, as well as for the construction of infrastructure, it is necessary to analyze the dimensional data, in particular the deep and horizontal fragmentation of the relief.
+  Such an analysis will allow not only to assess the opportunities for tourism development in the northern regions of the republic (Shirak, Lori, Tavush), but also to outline the prospects for the development of that branch.
+Research materials և methodology.
+  Study area:Fragmentation depths և Fractionation density indicatorsArcGIS 10.2 software system was used for calculation and mapping.
+1 The survey was conducted with the financial support of the Universitythanks to S GSPI 01-SCI-2017 within the scientific topic.
+For the calculation of the mentioned indicators as a base areaserved as a digital relief model of the study area1.
+On a scale of 100,000.
+Map of the depths of fragmentation.
+  As is known from the areaThe depth of division is an indicator, which is a unit of area. is the difference between the highest and lowest points of the relief in the area of ​​km.
+  ArcGIS:10.2 The software environment lacks the appropriate tools for direct calculation of this indicator.
+  For that reasonThere was a need to use the available tools, in the form of ZonalDevelop a model with the necessary sequence of actions in Statistics, Math, Conversion, Interpolation toolkits, ArcGIS software environment, during which all the necessary calculations have been performed.
+  Subtracting the obtained result by IDW interpolation method:The terrain of Northern Armenia (Shirak, Lori, Tavush) was obtainedthe map of the depths of fragmentation.
+Map of fragmentation densities.
+  The density of the division of the area is expressed in units sq. km of existing erosion network
+the value of the monetary length.
+  The Spatial Analyst toolkit was used to calculate the index և mapping.
+  Based on the digital terrain model of the study area և erosion network:Fraction density values ​​were calculated.
+In carrying out the research, we used Yu. A. Antiptsia [1]
+և V.I. One of the methodological provisions proposed by Anisimova [2].
+The results of the research.
+  Northern Armenia by uscomposed of large scale (1.
+100000) map analysis showsshows that the mentioned region is distinguished by disproportionate division.
+  Greater fragmentation is observed in the Northeastin regions where corrugated and corrugated mountain are predominantstructures.
+Relatively weak fragmentation is observed in the studyin the western regions of the area, particularly in Shirak region, whichdue to the predominance of volcanic relief.
+Digital Map (No. 1) համ Combination of data in Table 1shows that areas with a depth of more than 1000 m occupy the largest areas in Lori marz (273 km2), whichmakes 7.2% of the total area of ​​the region.
+  The same indicator in TavushIt is 239 km և 8.8% for the region, respectively.
+Unlike Lori and Tavush, in Shirak region more than 1000 mThere are no areas of deep fragmentation.
+Fig. 1 Deep fragmentation of the relief of Northern Armenia
+map-scheme.
+1:The picturesque valley of the Marts River stands out with deep division.
+ The latter stretches for 29 km.
+ It is almost completely forested.
+ A lotIt creates beautiful landscapes in some parts, which is a good precondition for tourist routes.
+They are distinguished by deep fragmentation in the study areaHe is the middle stream of Aghst, the Getik basin, as well as Dzoraget and The middle stream basins of the Pambak rivers.
+ In all the mentioned areasDue to the deep fragmentation, beautiful scenes and landscapes have emerged.
+The deep fragmentation of the relief significantly affects the recreationon activities.
+  It provides a variety of landscapes,panorama visibility.
+  Deep fragmentationprovides beautiful scenery, which is highappreciated by tourists.
+  They are deeply fragmenteddue to the permeability and accessibility of the area.
+1 Scale of the original map 1.
+It is 100,000.
+Fig. 2. Deep fragmentation of the relief of Northern Armenia
+map-scheme.
+1:During the research, another morphometric index of the relief was thoroughly studied:horizontal fragmentation.
+The analysis of the map compiled by us shows that the horizontal fragmentation is directly related to the genealogical feature of the relief.
+ Intermountain grooves և:Volcanic plateaus are characterized by relative fragmentationlow density (up to a factor of 0.4), and the frequency of valleysdoes not exceed the coefficient of 0.2.
+ One valley or gorge occupies more than10 km2 area [3].
+Table 1. Relief of the territory of Northern Armeniafragmentation density indicators.
+Fragmentation:densitykm / sq. kmBusy:area:(sq. km)SHIRAKBusy:area:(sq. km)LORIBusy:area:(sq. km)TAVUSHkm2:km2:km2:
+Busy:generalarea:subject:area:within:km2:1 Scale of the original map 1.
+It is 100,000.
+Total:The connection between geomorphological indicators and recreation is expressed in different ways.
+ The presence of mountain systems of different heights allows to carry out different types of tourist routes.
+  Depth of field և density indicatorsshow the complexity of the routes.
+  In general,The fragmented terrain is favorable for various types of recreation and tourism.
+ It causes great aesthetic pleasure to those who prefer scenic and aesthetic routes.
+Table 2. Relief of the territory of Northern Armeniadepth indicatorsFragmentation:depth, movBusy:area:(sq. km)SHIRAKkm2:km2:Busy:area:(sq. km)LORIBusy:area:(sq. km)TAVUSHkm2:Occupied total area of ​​the study areawithin: km2:Total:Taking into account the scale presented in Table 3, by usMorphometric indicators were evaluated according to threeregions (Shirak, Lori, Tavush).
+ Deep fragmentation indicatorswhich are unfavorable for tourism, in particular disciplineFor the routes, they occupy 1311 km2 in Shirak region, which is:48% of the total area of ​​the region.
+  Unlike tourism:More than the area of ​​the region for health and recreationis favorable.
+  The same index of deep fragmentation (up to 300 m)is more favorable for the organization of medical and health restfor.
+Table 3. Morphometric indicatorsrecreational assessment scale.
+Vertical fragmentationHorizontal:Recreational:(m)fragmentationRecreationtourism(km)fitness:Rating:More than 800Up to 300More than 6:Not favorableRelativelyfavorableFavorableUp to 300More than 800Up to 2:Most favorableFavorable for sports tourism և more favorableAreas with a depth of more than 600 m, which are in ShirakThey occupy 342 km2 or 12.7% of the whole area.
+  It is on the same principleestimated fragmentation density.
+The tourism assessment indicators of the relief of the studied area are presented in Table 4.
+The data in the table show that the territory of Northern Armenia is generally favorable for both recreation andfor the development of different forms of tourism.
+  Moreover, it is possibleNote that the data of deep fragmentation are inversely proportional to recreation և tourism.
+ In other words, the indicators that are unfavorable for recreation are favorablefor tourism.
+  This circumstance is important because it allows to develop several types of recreation and tourism in the same area.
+Table 4. Relief of the territory of Northern ArmeniaRecreational morphometric indicators ևthe results of tourism evaluation.
+VerticalHorizontal: Fragmentation (m)FragmentationRecreation 1:Tourism 2:Sh.L.T.Sh.L.T.Sh.(km)L.T.Recreational:fitness:Rating:Not favorableRelativelyfavorableFavorableMost favorableThey are more preferable in terms of horizontal fragmentationThe territories of Lori և Shirak region, where they have a favorable indexThe territories are occupied by the regions respectively67.5% of the areas և 54.4%.
+Such fragmentation densities are normal, as severely fragmented mountainous terrain make it more difficult to cross, to transfer tourists and tourists, to build, operate and operate infrastructure, including roads.development.
+  All the mentioned factors are directly conditionedwith horizontal fragmentation of the relief.
+Conclusions.
+ Summarizing the work done, we present certain conclusions.1. Relief is a powerful factor for the development of recreation and tourism.
+ It can both promote and limit the development of these branches.
+2. The development of different forms of tourism, as well as infrastructure, are conditioned by the geomorphological features of the relief, in particular by morphometric indicators.
+construction, which has a high cost in the highly fragmented regions of Northern Armenia.
+1 Health resort.
+2 Sports tourism.
+3. Morphometric relief in most of the territory of Northern Armenia
+The indicators are favorable both for medical and sanatorium
+for the development of different forms of tourism.
+4. Relief horses, geological structures and rocks in the North
+They are one of the main tourism resources of Armenia.
+BOOK:
+3. Geomorphology of the Armenian SSR.
+ Yes!
+ Publishing house of the Academy of Sciences of the Armenian SSR.
+ 1986 page 36.

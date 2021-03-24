@@ -1,0 +1,101 @@
+  Introduction.
+  9th և 10th of Physics School OlympiadsThere are various problems with calculating electrical circuits in almost all class assignments.
+  That's because of itthe fact that the DC circuits it is a bit simpleis one of the topics that is studied in sufficient detail in high school.
+ Note that in the high-class Olympic versionsoften raise non-standard chain count problems.
+ Thus, for each new Olympiad you need to include:to solve other problems, also the problem of electrical circuits.
+ There are many examples of interesting chains in the physics handbooks տարբեր various manuals for preparing for the Olympiads [1 - 4], but it is not expedient during the Olympiadsalways offer the same problems,։ it is desirable to develop new ones.
+ OftenAfter creating a new problem, it turns out that it exists in almost the same positionin a previous petition or teaching manual.
+ The problems of elementary physics are numerous, and it is difficult to avoid suchfrom coincidences and repetitions.
+ It is more difficult to create absolutely unique problems.
+ Note, however, that it is important in the learning processIt is not only the preparation of new educational materials, but also the development of old onesa new presentation.
+ It is possible that during the subject OlympiadAssign tasks that are not directly addressedfrom well-known, albeit very high-level petitions.
+ In that case, the student will have the opportunity to apply his knowledge and skills in a new situation.
+ While working on an unknown problem, he can actively generate ideas, choose solutions, developand try approaches and compare them.
+ It should be noted that newly composedThe best weight for the value of the problem can be the attractiveness of the problem and the active interest of the students.
+It is possible that which part of the participants of the Olympiad won?հստակ How clear and comprehensible is the task to the students?
+Problems.
+ Below we will present about electrical circuitsWe have compiled a number of issues that have been raised over the yearsto the republican subject Olympiads organized by the University.
+ Despite the structural differences, the approaches to solving these chains are close in nature to the ideas used in similar Olympic issues.
+Problem 1.
+  Homogeneous circlewire resistance A և B on the same diameter is between points 1R and between points C և DFig. 1:
+2R (Fig. 1).
+ How much is the resistance? the relationship.
+Solution.
+ The resistance of the wire is directly proportional to the length.
+ Therefore, if we denote the resistance of the whole loop by R,then the resistance of each half of it will be .
+ In the first chainThese halves are connected in parallel, the resistance between points A and B..
+ In the second chain, the points C և D are the length of the loopThey are 5.
+1:
+ ratio և again considering that the wireThe resistance is directly proportional to the length and using parallelFrom the connection formula, we get:
+.
+So we get the search for the resistance of the circuits
+1R 1 Ohm,2 Ohms, ՕProblem 2.
+Transmitters with 100 ohm resistors are connected in sequence, forming a closed loop(Fig. 2).
+ From which points of the ring should the ohmmeter clamps be connected for maximum resistance?
+ What will be the resistance?
+Solution.
+    There are two ohmmeter clampspoints in the resulting chainThe resistance will be:Fig. 2:
+where R և R են are the resistances of two parallel branches.
+ Anyin case of connection acceptsthe same value.
+  The latter can be decidedusing the formula for the sum of arithmetic progressionOhm.
+Thus, the problem is to determine the quantities R և R ունեցող with the maximum product.
+ As it is knownFrom a math course, the product of constant quantities is the maximum if:they are equal.
+ From the above it becomes clear that the resistance Rwill accept the maximum value if: Ohm.
+ It is now necessary to look for the points of connection of the ohmmeter clamps, which consist of increasing resistors with a regularity of arithmetic progression.The sum resistance of the ring is divided into two equal parts.
+This will be the case if we connect the chain to fig. With the egg shown in Figure 3, a clamp
+25R և:76R26R from the connecting wire of the resistors, and the other from 75R ևFig. 3:
+connection:like:from the connecting cord.
+  In Figure 3, each pair of resistors connected by dots has a resistance of 101 ohms.
+ Both parallel branches of the chainThey contain 25 such pairs.
+  Soin the case of:Om և R resistance.
+We get:Problem 3.
+  From the same wire!made of: sides:A fairly large number of frames are connected by the egg shown in Figure 4.
+  Decide receivedThe total resistance of the circuit if a length of wireThe resistance is R.
+Fig. 4:
+Solution.
+ If we disconnect it from the chainareas that do not receive electricity(based on chain symmetry), thenthe observed chain will be equivalent to a pictureFigure 5, which is two identicalIt is a parallel connection of branches.
+  Chain:will be the length of each branchFig. 5:
+և using the formula of the sum of infinitely decreasing geometric progression, we will get.
+Since the resistance of a wire is directly proportional to its length, դիմ the resistance of a piece of its length is R, then the chainThe resistance of each branch will be R3, and the total resistance will be:.
+Problem 4.
+ The chain consists of four identical rings, each of whichThe resistance is R (Fig. 6).
+ How much is a chain?resistance: 1) Between points A և B,2) Between points C և D և.
+Solution.
+  Using the symmetry of the chain և disconnecting the co-potential points, in the case of the first և second connections, the corresponding circuits shown in Figure 7 և 8 can be obtained, respectively.
+Fig. 6:
+Fig. 7:
+Fig. 8:
+Then, with the approach used in Problem 1, the resistances of individual parts of circuits can be determined.
+ This is a process that requires attention, but does not contain any principled difficulty.
+  Already having the resistances of the mentioned separate parts ևusing sequential "parallel connection" formulas, we get:.
+It should be noted that the Olympic tasks related to DC power supply are not limited to the types of problems discussed and methods of solution.
+ There is no less interest ևother attractive approaches (e.g. overlay, chains)equivalent modification, triangle - star և etc.) through which solubleProblem formulation and presentation can also develop learners' minds, creating an inner drive to seek solutions.new approaches.
+Summary.
+ The work presented the need for constant elaboration and updating of the Olympic physics tasks.
+ For many years, in the process of selecting tasks for the Republican Olympiads of Yerevan State University, we have also tried to create problems with electrical circuits.
+  In this work with solutions andSome of these issues were presented with comments.
+The research was conducted by the UniversityFinancial support: S ShSU 03-SCI-2017 scientific topicwithin.
+Literature 1. Vorobyov II, Zubkov PE, Kutuzova GA, Savchenko O.Y.A.Trubachev AM, Kharitonov V. Գ. Problems of physics.
+ Educational:manual / O. Ya. Edited by Savchenko.
+ Yes!
+ "Tigran the Great".
+2008.
+  528 pages.
+2. Khachatryan AH, Pakhchanyan BA Republican Physics
+Problems of Olympiads. Second edition.
+  Yes!
+"Edit Print".
+ 2007.
+153 pages.
+3. Grigoryan GV, Pakhchanyan BA Republican Physics
+Olympiads (1983-2003).
+ Yes!
+ "Edit Print".
+ 2003.
+ 224 pages.
+4. Grigoryan G., Yuzbashyan E. Republican Physics Olympiads. Final stage.
+ 2004-2016.
+ Yes!
+ "Edit Print".
+ 2016.
+ 192 pages.

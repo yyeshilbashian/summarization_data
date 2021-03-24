@@ -1,0 +1,46 @@
+In our time the requirements for education have changed.
+  From basic knowledge to constant acquisition of new knowledgeIn addition, the modern teacher must be familiar with teaching information technologies և have the skills to work with them competently [5; 6; 7].
+Acquisition and generalization of ready knowledge becomenot the goal of human intellectual development, but aids to that development.
+Needed to better perform complex graphic assignments in mathincrease the level of use of observational materials.
+ As such, the most effective way is a computer display created with MS PowerPoint.
+The process of making screen projections on computer screens includes:1. Determining the purpose of a given topic ումը research, 2. Audio materials (texts, tables, graphs, sound ևetc.) group editing ստեղծ creation of computer animations according to a certain plot, script և design;3. Pilot demonstration. Workability of all elements inspection,4. The final screening.
+The structure of MS PowerPoint allows you to work with the entire display as well as individual transparencies.
+  The latter allows you to quickly orient and movewith transparent membranes, as well as to make changes in the structure and delivery of the material.
+ The sequence of transparent images can be accompanied by sound և animation effects.
+The main requirements for training demonstrations are: [2]  The presentation should complement the teacher's speech, not duplicate it; Presentation slides should contain a themeThe main provisions that express the material under studythe essence Maintaining a homogeneous style in the transparencies related to the given theme, no more than 3 fonts of the same color shades ևuse in such a way that the information is clearbe readable The volume of the submitted text should not be as large as possiblematerial should be presented briefly), Develop a concept to influence and impress learners with a specific goal (unique)միջոցով through effective tricks, solutions),: It is necessary to accurately calculate this or that transparency display time.
+  To present one transparent membraneThe optimal time required for this is 1-2 minutes, and the whole15-25 minutes to submit the materialԸնդհանուր The total number of presentation transparencies should not beexceed 25Maintaining the correct balance of the material provided by իմ multimedia։ media.
+  Presentation slides should not be overloadedwith different special effects, because the attention of learnersfocuses on those effects, deviating from the main topic,Ներում Changes in transparencies նոր New based on themThe creation of the presentation should be carried out as simply as possible, The presentation should be universal. apply equally to mutimedia projectors, bishops, bishops, printed papers:
+as an educational material provided և concept,One of the possible ways to organize multimedia screenings in the learning process is:   without teacher explanation,Ակի With a partial explanation from the teacher,Ակտիվ With the active participation of the teacher,With the active participation of  students և teachers.
+The appearance of the task included in the work is as follows. where:Computer-aided display via MS PowerPoint (1)to illustrate the equation  parameter:In case of different values, solve it graphically, which:Introduce equation (1) in the form of a system.where:Needed to solve the task graphicallyto construct the graphs of system equations (2) և to find the common points of the graphs (the points of intersection of the graphs of the equations or animations can be used to present the points of the combined areas more vividly) [1; 3; 4].
+(2) Construction of system function graphs և MS   PowerPoint animation effects with transparent effects can be created in the following sequence:1. in advanceLet's build  function:schedule:
+  in the case of a parameter value using the graph movement rules.
+  After reviewing the resulting graph, another method of constructing that graph is suggested (later another parameterto increase the efficiency of the graph construction in case of values), the construction description of which is as follows:to become zero  is selected on the axis point,և We take it to that point perpendicular to the axis, which isas the axis of symmetry (in case of any value of the parameter).
+ straight along the axis, which we take to the pointaxis:kxbxx00b0k00constxbkxybxxy00b0k00constxbxxy001bbX00xx0xxY0Y01bX0 manually call the parameter horizontal.
+  That horizontal ևthe axis of symmetry intersects point, to which conditionallylet's name The main point of the parameter (Fig. 1).
+                                                            (Fig. 1)3. The axis of symmetryAxis of symmetryParameter horizontalThe main point of the parameter We place it to the right և left of the pointsegments of size կստ get the points B և C (axis ֆ of the graphintersection points), and we place it to the right և left of the main point A1parts of size, we will get the points B1 և C1.
+  B; X0; Points C: are boundary points by which the coordinate plane is divided4 precincts (Fig. 2),(Fig. 2)1A1b0x1b12bB; 0; xBCx; 0; C4. adjacent to four sites B և B1; B1 և X0; X0 և C; Points C և C1
+Connect in straight lines, with BB1 parallel to A1C and A1Bthe line is parallel to C1C.
+  The intersection points with the X և Y axes will be respectively  (Fig. 3).                                                                              (Fig. 3)graphs for different values ​​of the parameterto construct, find a parameter corresponding to those valueshorizontals, then the main points of the parameter.
+  Parameter:It is necessary to draw parallel lines from the main points starting from point A1The lines A1B և A1 C, before intersecting the X-axis, then thatFrom the intersection points are drawn parallel lines of the constructed graph I և in case of value to the BB1 ​​և C C1 lines of the parameter IV sites.
+The main point A0 (X0; 0) of the line coincides with the point X0, then sections II և III come out, it remains to take lines parallel to the lines BB1 և CC1 from that point (Fig. 4).
+  The graph of a function is a straight line passing through the coordinate origin, which is:right positions.in case of value can capture the following ancient 0; 10 bxB0; 10bxC10; 0bxEb00bkxy0k Symmetry axis                                                          (Fig. 4)a.  yun fluctuates  in this case, in the anomalous region of the abscissa.
+  Parameter different  in the case of values  intersects with the graph of the functionat least in two points, at most in four points.
+b.  in which case it passes A2 (
+; b2) in points.
+  straight տարբեր different parameter  in the case of values  The graphs of the function will have one intersectionitems except: of the value at which they will be combinedsite, that is, innumerable solutions,c.  in the case of the abscissathe angle fluctuates  in the domain.
+  և:The graphs of the functions will have one intersection point (Fig. 5).
+ Figure 5:At all points described, construction lines, main lines, function graphs, intersection և auxiliary points are required.to be depicted differentiated by color, egg, animations.
+ That is why the accessibility of the presentation of the material with computer display, the simple logical structure և the uncomplicated narration make the teaching process cognitively easy.
+In order to hold the screenings effectively, you need:Based on the size of the classroom, select appropriate technical means from the lighting. Determine student seats by choosing the optimal viewing area;  Preview by adjusting screen և soundcharacteristics of the equipment, Determine the demonstration period in the lesson process;Անվտանգության Follow safety rules.
+The proposed method of teaching through modern information technologies will contribute to the teaching process:1. Increasing the efficiency of the learning process;                                     2. Promoting interest in the class for which it is proposed New teaching directions և methods,3. Easier perception of the lesson by the students, memorization andreproduction,4. implementation of interdisciplinary relations;5. Intellectual-creative development of students.
+Literature 1. KG Arakelyan, Mathematics Task Database, Edit Print,Yerevan, 2012 119 pages.
+2. KH Sultanyan, modern information technologies educationalin process, Eldorado, Gyumri, 2013, 132 pages.
+3. Лурье М.В. Algebra. Problem solving technique.
+  Learning. Posobie.-M.
+  UNC Publishing:course. Mult.
+ Быш. Shk., 2003. - 493p.
+7. http:
+//dpir.mskh.am/, The inclusion of the computer և Internet in education, 2010.
+Information about the authors:Artashes Gurgeni Manukyan - Ph.D. Associate Professor, Gyumri M. Nalbandyan
+State Pedagogical InstituteKhachatur Gurgeni Sultanyan - Associate Professor, Gyumri M. State after Nalbandyan
+Pedagogical Institute, E-mail.

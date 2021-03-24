@@ -1,0 +1,93 @@
+Preface.
+ Scientific and technical progress, high technologyurgent contribution and current trends in the development of societyThey made the problem of reforming the education system and the need to implement programs aimed at improving its content [1].
+As a result of the reform, the main high schools were happy,A student-centered concept of education was formed, educational standards and programs were changed.
+ All this has its direct impactHe also had the essence and significance of natural science education, its content, means of organization, teaching methods and means.on.
+  In connection with that. It got a new sound - general education
+Improving the quality and effectiveness of physics education in schoolsThe problem, one of the main ways to solve it in school, especially the seniorThe school is constantly improving the content of science subjects, including the teaching of physics and its teaching methods.
+ In high school, advanced physics education became possible within the content of the teaching processapply methodological principles consistently [2].
+One of the basic methods of scientific knowledge in physics is the method of similarity (yield) [3,4].
+  In the process of learning herProper use makes the writing of the material scientific and accessible:at the same time contributing to the development of learners' ability to think independently and logically հարցերի deeper questionsPerception, and in the solution of physical problems, the formation and development of learners' ability to apply theoretical knowledge in practice.
+ However, this similarity can in some cases lead to far-reaching conclusions, as shownOur research has misled not only students but also some teachers.
+  Because of the physical problemsthe correct choice of the methodological principle of physics during the solutionIt is very important and has a great practical significance, which is the reason for the urgency of the work.
+The purpose of the work is to show an example of solving specific problemsto show that the application of the methodological principle of similarity is not alwaysexpedient, moreover, accurate at first sight and at the same timeAppropriate analogy can lead to incorrect conclusions.
+Let us now present a solution to two specific problems using the methodology of similarity, the second of which is simplethrough physical analysis, it is proved that with respect to himThe application of this methodological principle is not expedient.
+Problem 1. The girl must go straight from the stream առ1After taking a bucket of water from their house, go to GrandmaThe house is located on the same bank of the river, at a distance of 𝑆2 from the river (Fig. 1).
+From which point of the stream should the girl take water so that the distance she has traveled is minimal?
+Solution. use the methodological principle of optical-mechanical similarity. motion of a particle in a potential force field
+trajectory լուս optically inhomogeneous medium of light beamThe process is similar.
+Fig. 1. The positions of the girl և grandparents' houses in relation to the stream
+In general, the girl can draw water from different parts of the river outside the siteout of love, but it is obvious thatIf taken, his journey will be longer than that of the polling stationin case of taking from the inside.
+  It is clear that the road will be shortIn the case of a girl moving in a straight line, ճանապարհ such paths canto be, for example, the roads passing through the points.
+ However or sayThe minimum road condition will be met  inside the polling stationfor one of such points.
+Optical-mechanical similarity helps to solve the problem in a short way.
+  Consider our problem similarThe following optical problem.
+ Suppose a girl is at home from the point:the light beam falls in place of the stream  reaches the smooth mirror surface և touching the place of grandmother's houseplaced point (Fig. 2).
+ According to the law of reflection of light, declineադարձ Reflection the angles are equal to each other, point և herThe image is at equal distances from the mirror.
+ Fig. From 2:
+It follows that:  և Triangles are equal to each other, from which  և:12OO1M2M12OO1A12OO2A122A2A22AMO22AMO it is clear thatSince  is a straight line, then it is clear thatbeam passed The way will be the minimum.
+Fig. 2. Reflection of light beam
+from a smooth mirror surfaceReturning to the problem of taking water to a girl, it becomes obvious that point (Fig. 3) so that the passing girl should take the waterKeep it to a minimum.
+Problem 2. Is it possible to simulate the full current of a section connected in parallel with an electrical circuit as the sum of the currents of its branches?with corresponding currents of water [5].
+Fig. 3. The picture of the real road of the girl
+'22.
+MAMA'12AA12AMAM Solution. Let's use the principle of similarity, according to which it is correct
+just as the amount of water flowing through an unbranched stream in a given period of time is equal to the sum of the amount of water flowing through its individual streams in the same period of time, so is the amount of water flowing through an electric circuit.The total current of a parallel connected site is equal to the sum of the currents of its branches.
+ It is known to the students from everyday observations that in case of closing one of the parallel streams, the flow of water in the other branch will increase, it will be equal to the flow of the unbranched part of the stream.
+  Therefore:The learner can conclude that if two lamps are connected in parallelIf one is switched off, then all the previous current will pass through the other lamp, whichthen it will burn brighter.
+ The reason for such an erroneous conclusion is that in the case of a constant voltage at the site, the magnitude of the circuit current is determined by the magnitude of the connected resistance.
+ Let us clarify these judgments in fig. By the example of the chain shown in Figure 4.
+For simplicity, let's assume that the resistance of the lamps is the same then the total resistance:They are vassals and the currents of the branches: If we turn off one of the lamps, say the third, it is fixed In case of voltage, the currents of individual branches will not change.
+ In that case, students may wonder what happened to the full current the part that passed through the third lamp.
+ Simple calculations can showthat after turning off the third lamp, it grew to a parallel precinctthe total resistance, depending on the constant voltage The full current of the polling station decreased by.
+123 (), RRRR / 3RRÁÝ¹ / 3 /, RIUURÁÝ¹123 /.
+IIIURU3I3I If one of the lamps was switched off, the resistance of that section would also increase with increasing resistance. voltage, then the currents of the branches would increase.
+ This is possible in the case of electricityThe internal resistance of the source is the order of resistance of the outer part of the circuit, or the electrical circuit contains other consumers in addition to the parallel-connected station.
+ So, for example, suppose a VSS-6 variable is used as a power source in the circuitCurrent rectifier with output voltage equal to 6 V, maximum allowablecurrent - 2 A, and internal resistance - Ohm [6].
+ In parallel with that source, connect two lamps with parameters of 3.5 V 26 0.26 A to them.sequentially connected  Ohm with maximum resistancerheostat.
+ First determine the resistance of the lamp, then the parallel section,we will have:  Om և:  Ohm.
+  Then let's determine the voltages և currents in different parts of the circuit.
+  Chain oh's lawFor full power we will have: Voltage drops in different parts of the circuit will be equal:on a parallel site - 2.5 V, on a rheostat - 2.1 V, inside the sourceon resistance - 1.4 V.
+ The currents flowing through the parallel branches are equalare իրար separately make 0.175 A.
+ It is easy to notice that the lamps designed for 0.26 A current will burn more than normalwith less brightness.
+  Now turn off one of the lamps and decide againfull circuit current in the event that: Oh, we will get I = 0.25 A.
+Since that current already passes through only one lamp, it will light upbrighter than when each of the parallel plot0.175 A current was passed through the lamp.
+ It is easy to show the lamp in this caseThe voltage drop across the site will be 3.5 V and the rheostat ևVoltage drops on the internal resistance of the power supply previouswill be smaller than the observed case.
+ So we are convincedIf one of the lamps connected in parallel is removed from the circuit, the otherThe lamp lights up brighter.
+ This phenomenon will not be observed in practice if:U4r06R13,513,50,26R6,75R00,35.
+IArRR113,5RR will be provided
+ condition.
+ If this condition is met, the voltage drop across the circuit will remain almost constant, and one of the lamps will illuminate with constant brightness if one of them is removed.from the chain.
+ It is because of this condition that when one of the lamps is connected in parallel, the other lamps are switched off.the brightness does not change.
+ Thus, by generalizing the above considerations, we come to the conclusion that in this matter electricThe branching of the current should not be equated with the branching of the river, that is, it is not right to make such a similarity.
+By the way, the expediency of using the similarity methodThe issue can also be discussed in the school physics coursewith classical examples such as gravitational և electrostatic fields, electromagnetic և mechanical oscillations,the similarity of the expressions and formulas of their energies.
+  Of course, the analysis of these similarities will make the picture more complete, and the result will be successAvoid misunderstandings and help learners to develop scientific thinking and worldviews.
+Conclusions և Recommendations. The results of scientific and methodological research allow to claim that:
+1. The method of similarities has wide possibilities for solving both theoretical and practical problems, as well as physical
+in describing events with a unified approach.
+2. Reasonable application of the methodological principle of similarity
+allows not only to present the solution to the problem, but also to create a physical situation, to reveal the phenomena and processes under discussion
+New qualitative aspects of description.
+3. The solution of the first problem discussed by the application of optical-mechanical similarity, in fact, becomes quite simple and easy to understand, that is, the effectiveness of teaching physics is essential.
+rises when it is carried out with the correct use of the methodological principle of similarity.
+4. Electrical in the second problem discussed by applying similarity
+The branching of the current should not be equated with the branching of the river, that is, it is not right to make such a similarity.
+0 rRR5. We suggest making two attempts after solving the second problem, one
+in this case using 220 V lamps, connecting to the lighting network, and in the other case, 3.5 V lamps, connectingВСШ-6 type power source.
+Complete solution of two specific physical tasks with the application of GRAPHICS 1. Кондратьев А. S., Priyatkin N.A. Modern technologies of physical education.
+Learning ability. SPB.
+ Published by S.-Peterb. un-ta. 2006. 342p.
+2. Ghazaryan E. Մ. Elective questions of school physics teaching methods, collection of scientific-methodological articles,
+Yes!
+ "Edit Print" publishing house.
+ 2009.
+ 308 pages.
+3. Petrosyan N. L. Petrosyan L. Ն. The role of similarities in physics
+մասին about a historical example // Education և science in Artsakh.
+2011.
+ N1-2.
+ pp. 43-49.
+4. Petrosyan N. L. The need to use nonsense in a school physics class և nonsense concerns
+on general characteristics // Pedagogy.
+ 2013.
+ N 6.
+ pp. 20-27.

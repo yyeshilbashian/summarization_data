@@ -1,0 +1,131 @@
+1. Preface.
+  Moving on to the twelve-year education system:in school subjects in different subject programssome changes. New sections were added, or the material provided in the existing sections became more comprehensive.
+ In particular, the 11thSchool of Natural Science and Mathematics Stream AlgebraIn the course "Elements of Logic" a new paragraph was added in the chapter "Proof և refutation".
+ The main methods of proof ման "refutation", which speaks about different methods of proof: comparison, contradictory assumption, Dirichlet principle, exclusion, copy.
+ We think it would be desirable to talk about the invariant in the same paragraph, because in school mathematics and physics courses, as well as in different stages of school OlympiadsThere are problems that students have to solveIt requires not only knowledge of theoretical material, but also mastery of different methods and tricks.
+ One such method is invariantis the method of application.
+ The latter can be considered a method based on Poyafrom a well-known observation that every trick that applies to oneIn most cases, it can be considered method  1.
+This work is devoted to revealing the possible uses of invariant in solving various atypical problems in school mathematics and physics classes.
+ In fact, the novelty of the work is that we have tried to clearly distinguish two "types" of invariant, that is, the existing invariant և looking invariant, whichThey are found in various non-standard problems of mathematics and physics, as we have suggested methodological instructions on the different types of invariants encountered in problems, the possibilities of their application.
+We think the topic is quite relevant because of mathematics ևAnalysis of the results of the Republican Physics Olympiadsshows that the vast majority of learners find it difficult to solve differentlyproblems related to invariants.
+ This is mainly due to:due to the fact that students are not familiar with this method at all,Or, being formally familiar with the proposed method, they are notevaluates the possibility and effectiveness of its useև try to solve problems without invariant.
+2. "Varieties" of Invariant.
+ How do we know that some magnitude of a change in motion is called an invariant if the latter?ության 2 remains unchanged during the change.
+Occasionally encountered in various problems in mathematics and physicsare such quantities (or such properties of quantities)which remain unchanged in the given problem, invariant, etc.in which the invariance of these quantities is not conditionedprotection by some law or by the force of some theorem, but by the given problemby position or starting conditions.
+  In some cases, the use of such invariants becomes a necessary and decisive factwhen solving problems.
+For a student who is new to this method,At first glance, it may seem very surprising how he caninvariant to become an effective և useful "tool" of various complexitywhen solving problems.
+ In fact, the main difficulty isthat in each specific issue everything is not clear from the beginningIs this method applicable or not? In addition, the application of this methodeven if you want to, depending on the look and feel of the problemIt is not easy to guess what the role of the invariant is in it.
+ Its:In addition to being formally acquainted with this method, it is necessarySome skill, ability to solve logical problems ևexperience.
+As mentioned above, in many problems there are quantities or properties of different quantities thatDepending on the setting of the problem or the initial conditions, they remain invariant.
+ Accordingly, let us distinguish two "different types" of invariant, that is, existing և wanted.
+ Let's agree.• Whether the problem is obvious or notis indicated unchanged to some extent (or any property of the latter)to be a quantity, then consider the given invariant in the conditions of the considered problem,• If in the initial conditions of the problem there is no constant value, but after certain changes or logical reasoning it is possible to find such, thenGiven this value, consider the invariant of the problem under considerationconditions.
+3. Methodical instructions և problem series.
+ We think for the first timewith students who are familiar with the essence of the invariant is desirable in advancediscuss problems that initially have a certain constant value, then only discuss problems that need to be addressedinvariant search.
+ Moreover, it is not superfluous to mention that if you can find an invariant (available or wanted), you should try itapply directly during the solution of the given problem.
+In this context, let's discuss some atypical issues, whichDuring the solution we will use either the existence of the existing or the wanted invariant, the direct application of the latter.
+Problem 1.
+ Made of flexible wirerackus contour with resistanceis placedIt is on the side of m.
+  Contour induced in a homogeneous magnetic field so that:The plane of the contour is perpendicular to the magnetic induction vector.
+What charge will flow through the contour if we give it an equilateral triangle, leaving it in the same plane?
+  :3: Solution.
+ It is easy to see that we are dealing with a problemderived from baseline data) with invariant. obviously flexible
+No matter how we look at the cable, its length will remain constant.
+ Therefore, after changing the contour egg, we get from the equation of the perimeters of a square with a regular triangle's side b and the sides a:
+, hence the contour penetrating magnetFor the initial և final values ​​of the field flow we get:
+.
+ On the other hand, according to Faraday և Ohm's laws, the contour ELSHU:, from which orokl.
+We will get:Note that the problem can be generalized և considered arbitraryregular polygonal or circular contours.
+Problem 2.
+  The number of absentees in the class is present1/6 of the quantity.
+  After one student from the classroomIt turned out that the number of absentees made up 1/5 of the number of those present.
+Find out how many students study in the given class.
+ :4: Solution.
+ It is clear that this problem can be easily solved by introducing a variable into the corresponding equationcompiling.
+ But we will behave differently.
+Although the question does not explicitly state that the magnitude is unchanged, it is easy to see that, given the nature of the problem, we are dealing withwith the existing (non-obvious) invariant, that is, the total number of students in a given grade.
+  Let's try those present at the beginning and at the end ևEstimate the number of absentees according to this existing invariant.
+ SinceIn the beginning, the number of absentees was 6 times less than the number of those present, which would mean that the absentees made up 1/7 of the number of all students in the class.
+ In the same way, as a result of one student leaving the classroomAbsentees will make up 1/6 of the total number of students in the class.will mean one student makes up the total students in the classQuantity:So, 42 students study in the classroom.
+Now let's discuss problems in which there is no invariant from the initial data of the problem, but from the analysis of the problem.By logical reasoning it is possible to "search" and findto solve the set problem by using the latter.
+The hermetically sealed bowl is completely filled with water so that there are two identical air bottoms on the floor.bubble.
+ The pressure on the bottom of the potIt is MPA.
+ What will be the pressure on the floor if one of the bubbles rises and the other stays on the bottom of the bowl?
+  :5: Problem 3.
+Solution.
+  Define the initial volumes of the bubbleAt 0V,1V, andDetermine the volume of the bubble that rises after the processWith 2V.
+ It is clear that the water in the bowl can be bubblethe rest inside:Consider it a thermostat.
+  According to that, "at the beginning of the process" and at the endThe temperature of the air in the bubbles is the same և equal to watertemperature.
+  According to the condition of the problem, the container is hermetically sealed, then we can conclude that the volume of the system is unchanged.is.
+ Since water is incompressible, the sum of the volumes of the bubbles must remain constant:.
+ In fact, the searchable invariant is the sum of the bubbles at the end of the process.
+If we set the pressure at the bottom of the bowl to P at the end of the process, according to Boyle-Marriott's law we will have:
+1V and:2V ի considering the amount of the latter invariant, after allFor a searchable P pressure we get:.
+ By expelling from these equations MPA.
+Problem 4.
+  F horizontal impact forcesets the wedge A and the rod B in motion.
+ Sep:The angle of inclination is,, the masses of the wedge rod are m (see Fig. 1).
+ Find the wedge accelerationուժ The wedge-rod interaction force if:There is no communication.
+  :5: Solution.
+ It is easy to notice the wedge rod.
+ Sepium horizontal the ratio of the wedge ողջ rod to the vertical component of the resistance force ողջ gm
+movements are interconnected. at any t time if the wedge
+move by x, then the bar will riseto the extent that:is a variant.
+ Therefore, we can argue that the ratio of the displacements of the rod և wedge ցանկացած at any given time is a constant value և equal to  the tangent of the angle.
+ It is clear that such a connection existshas at any given time between the instantaneous velocities and accelerations of those bodies, that is.
+ Rod upBa acceleration due to the wedge on itis movingaffecting N:
+gravity forceIn contrast to the Aa armodule:
+  force and N acting on it
+go reports F.
+  force horizontal.
+ Solving the component of the obtained equations:
+.
+order, we will get:Problem 5.
+ The given line AB is marked with an arbitrary number 45 different items that do not belong 
+AB section.
+  Prove thatthe sum of the distances from point A of all points cannot be equal to the sum of their distances from point B.
+  6: Solution.
+  Let the length of segment AB be a.
+  Note that:Arbitrary M not belonging to segment AB but belonging to line AB Պայմաններում , և so in the context of this problem MA MB
+for item MA MB:
+The size is invariant, like the 45 different points given belowbe the sum of the distances from point A կետ to point B.will represent the difference of the sum of the distancesSuch an amount of 45 summands:which,Naturally, it is different from zero, so the mentioned sums are not equal to each other.
+Note that the problem can be generalized արկել consider the desired number of odd points ու the same length as the desired number of odd numbersexcerpts.
+Problem 6.
+  Are 77 3x3x1 bricks possible?Arrange in a 7x9x11 size box.
+  6: Solution.
+  Suppose it is possible.
+  In that case, consider the box1x11 layer adjacent to the thickness.
+ It is clear from the cast brickssome or all of them will be in that layer, that is, in that layerwill occupy nine 1x1x1 cubic units, or thatThe layer will be occupied by three 1x1x1 cubic units ևso, in any layout, there will be 3 1x1x1 cubes multiplied by 3 in this layer, which is not possible.because 7 11 77 3
+, followed by 77 3x3x1 bricksIt is not possible to completely fill the 7x9x11 box.
+Let's add that there are also problems in which the invariant is not the specific quantity or any property of the quantity,the dynamics of changing the magnitude of the variable remains invariant, ieThe changing magnitude either always increases or changes during its changealways decreasing, that is to say, the changing magnitude changes monotonouslywith eggs.
+ As a vivid example of this, let us consider the following issue, which was raised at the 1986 International School Mathematics Olympiad.
+Problem 7.
+    It is written on each vertex of a regular pentagonsome integer so that at least one of them is negative, howeverEveryone's sum is positive.
+  The following change is allowed ․ If the corresponding three vertices are written in y, then those numbers can be substituted
+bar:: Եւ z:
+y in numbers, with the changeaccordinglyis done as long as there is a vertex at any vertexis a negative integer.
+  Find out this process after the final stepsCan it end, or can it continue indefinitely?
+; xy և z numbers, moreover:xyzt և u integers, moreover:
+Solution.
+ Let's be written first in sequence on the vertices of the pentagon0y .
+are respectivelyThe xyztu quintile must be integers according to the condition condition of integersLet's do it in five.
+ Note that we have a requestinvariant, that is, the sum of the numbers written on the vertices of the pentagon. really
+Let's enter the number determined by the numbers at the vertices of the pentagon.
+that:current:walkingreplacing with fivevariable:eachlet'sgets:variable such that 0 F
+.
+ So we have the variable F, which is the change of quintilesalways accepts all positive values ​​ողջ throughout the processmonotone decreases, so we can conclude that described aboveThe process will naturally end after the final steps.
+ It is really easy to notice that.
+  The quintessencenew:are4. Conclusion.
+  In conclusion, we can say that the invariant is hishas a useful and effective application in such problems:in which:• We are dealing with a specific quantity of existing or wanted invariant(such as the length of the frame in Problem 1 or in Problem 2)total number of students in the class),• The invariant remains not a single specific quantity, but a variablesome combination of quantities: sum, difference, quotient ևetc. (such as the sum of the bubble volumes in Problem 3,Problem 4: The ratio of the modulus of accelerations of four to fouror MA 5 in Problem 5
+  differences in lengthsmodule),• any property of variable magnitude remains invariant, such as evenness, multiplicity, etc. (such as points in Problem 6)multiples of the number of cubes of size 3),• The dynamics of variable magnitude change remains invariant ․ when:
+any quantity that changes throughout the process described in the requestor only increases, or only decreases (as in Problem 7, F) the fact that the variable decreases).
+The research was conducted by the State University of Science of the Republic of ArmeniaFunded by the Committee under the code 18T-5C287within the topic.
+Literature 2. Encyclopaedic dictionary юного математика / Сост. A.P. Savin.-M.
+3. R. Avagyan et al., Collection of Physics Problems.
+ Yes!
+  1996.
+ 123 pages4. Babinskaya IL Tasks of the Mathematical Olympiad. M.
+ "Science". 1975. 111 p.
+5. Problems of physics. O. Ya. Edited by Savchenko, Yerevan.
+ "TigranGreat. "
+ 2008.
+ 528 pages.

@@ -1,0 +1,91 @@
+In depth in school mathis being studiedTopic "Square equations".
+  Dependsfrom the sign of the discriminator, the existence of real roots andQuantity issues.
+ But often in different petitionsWe encounter problems in which it is necessary to study the arrangement of real roots of a quadratic equation on a numerical axis.
+ It is usually recommended to students in such casesis considered to correspond to the square energy in questionfunction և discuss all possible parabolas of the latter graphpositions.
+ We offer a different approach.
+The paper attempts to isolate some possible variants of the arrangement of real roots of a square on a numerical axis նշել to mark it as necessary and sufficient in the form of theoremsthe conditions under which the real roots of the quadratic equation will have the specified arrangement on the numerical axis.
+The paper discusses some non-typical problems encountered in the school mathematics course, during the solution of which the formulated theorems were used.
+Suppose they are given in real coefficientsthe square equation (the discriminant of whichwhich:real roots, then the numeric axis of those roots ևThe following layouts are possible for real numbers. real number  is not the root of the equation.
+  If:is) և:  have the equation.
+Let us first discuss these casesfor value, after whichWe will discuss it!for any arbitrary fair value.
+Theorem 1.
+  In order to:  the equation has real roots ևlet those roots be.a) positive, necessary, sufficient for the following conditions to occur:(b) Negative, sufficient to satisfy the following conditions:c) of different sign, necessary և sufficient for it to occurcondition.
+Proof.
+ It is clear that if: has the equation positive roots then  և, moreover, according to Viet's theorem,, hereinafter referred to in point (a)The necessity of the conditions is proved.
+  Now let's talkto satisfaction.
+  has the equation  It will follow the condition that:  condition, referring to Viettwo real rootstheorem, it follows that these real roots are of the same sign, andcondition, again considering Viet's theorem, it follows thatThe real roots of the same sign are positive.
+ Point "a" is proven.
+If:  has the equation  negative roots then և, moreover, according to Viet's theorem,, consequently in point "b" mark 02acbxaxxf1Dm1121xxm21xxmmxx2121xmx0mm10; 0; 0 acabD0; 0; 0acabD0ac121; xx0D0; 0 0; 02121acabacxxabxx0D10ac0ab121; xx0D0 ; 0 0; 02121acabacxxabxx The necessity of the conditions is proved.
+ Now let's talkto satisfaction.
+  has the equation  It will follow the condition that:condition, given Viet's two real roots,
+Rem, it will follow that those real roots are of the same sign, and condition, again considering Viet's theorem, it follows that the sameThe real roots of the sign are negative.
+ Point "b" is proven.
+If:  has the equation  roots of different signs, then,according to Viet's theorem,, then in point "c"The necessity of the mentioned condition has been proved.
+  Now let's talkto satisfaction.
+bar: has the equation  It will follow the condition that:, then real roots.
+ On the other hand, according to Viet's theorem,, then equation: The real roots are of different signs.
+  Point "c" is proven.
+  Theoremit is proved.
+Let us now consider Cases I-IIIof arbitrary real valuefor.
+Theorem 2.
+  In order to:  the equation has real roots ևthose roots should be givena) large, necessary և sufficient for the following conditions to occur: from the real number., or the same: b) small, necessary և sufficient for the following conditions to occur:, or the same: .
+ Proof.
+Consider:  the energy of the square.
+  Note that:quadratic equations have the same discriminant և, in addition,if:  real of the quadratic equationև:  և:theare the roots, thenthe real roots of the quadratic equation.
+  So we caninsist that:  real greater than real number  the equation will be givenwill beև:  squareroots it և only when:The equation has positive roots, and for that, according to0D10ac0ab121; xx0 021acacxx0ac042acbD121; xx021acxx121; xxm1m0; 0 ; 0mfamfaD0; 2; 0mfamabD0; 0; 0mfamfaD0; 2; 0 mfamabDxbamaxmxfxg22cbmam20xf0xg1x2x0xfmxx11mxx220xg 1m0xg of Theorem 1, անհրաժեշտ necessary և sufficient for the following to occur ևTerms: .
+In exactly the same way the equation will be given less than the actual number  squarereal roots it և only when:the equation has negative roots, and for that, according toTheorem 1 is sufficient for the following conditions to occur:
+.
+ The theorem is proved.
+Theorem 3.
+  In order to:  the equation has real roots և real number and the other one is small,one of those roots should be given largenecessary և enough for it to happen condition;Proof.
+    It is clear that if:  has the equation  realroots such that:, then:  և, in addition,
+Therefore, the necessity of the theorem is proved.
+  Let us now turn to satisfaction.
+ We will have the condition:, thenwill have the equation of a square  real roots և, then,.
+  In fact it canWe insist that և: Manufacturers of different brands և because:, thenLet us now turn to the discussion of a few examples, the solution of which.
+ The theorem is proved.
+We will secretly apply the above theorems.
+       Example 1.
+ in which values ​​of the parameterthe equation will have only negative roots.
+Solution.
+ According to Theorem 1, the given equation will have onlynegative roots և only when they occurThe following conditions:.
+Answer: .
+          Example 2.
+  in which values ​​of the parameter; 02; 0mfabamaD0 2mfacbmama1m0xg cbmamamfabamaD2; 02; 00mfa1m0mfa121; xx21xmx0D Fmfaxxxxacbxaxxf 2120212xmxma0mfa444 0222acbDacabmma022bam121xx 20212xmxmamfa021xmxm1xm2xm21xx21xmxa05122axax21 ; 5; 51 ;; 41; 0502205142aaaaaaaaD: The equation 1; 5ab03222bbxxb will have two positive roots.
+Solution.
+  For a given equation to have two positive roots, it must first be square, that is,, և, in addition,the corresponding conditions of Theorem 1 must be satisfied (provided that the discriminant of the given equation is positive), i.e..
+Answer: .
+     Example 3.
+ in which values ​​of the parameter
+the roots of the equation will belong in the range:.
+     Solution.
+  When:, we will have:and when, the given equation is converted into a quadratic equation, therefore, according to Theorem 2, the roots of that quadratic equation will belong in the range և only if (
+և:) when the following conditions occur:.
+Thus:Answer:.
+    Example 4.
+ in which values ​​of the parameter the equation will have real roots that do not exceed the modulus     Solution.
+ So that the given equation has only a modulusbeyond the real roots, it must have that equationthe.
+is not rooted in such a way that either, or:
+or else    When:
+.
+, then  The value satisfies the conditions of the problem.
+202b2; 3; 02 ;; 02; 0; 320230220234022: bbbbbbbbbbbbDb2; 3bp03222 ppxxp3; 1302p3; 15,20522xxp02p3; 1211xx321xx 6; 75,3; 75,32 ;; 32 ;; 2; 26; 20154201242020220324022 : ppppppppppppppppDp6; 75,32p6; 75,32pq0122qxx24221; xx2221xx2221 xx2221xx2175,001222212121xqqxxxxxx22x75,0q When
+therefore  The value satisfies the conditions of the problem.
+   When:We will have:  , according to Theorem 2 (
+  և:.
+Thus:Answer:.
+    Example 5.
+ in which values ​​of the parameteronly one root of the equation will suffice    Solution.
+  So that only one root of the given equation suffices  real  inequality, it must have that equation inequality.
+roots such that or, or:, or.
+When:, we will have:, then  cost is not enough while The value satisfies the conditions of the problem.
+When:, we will have: , thenThe value does not meet the conditions of the problem.
+When:, according to Theorem 3, we will have: .
+Thus:Answer:.
+Conclusion. As we see the theorems discussed not only
+may be theoretical or formal, but may be widely used in school mathematics.
+  In essence,they allow you to effectively solve differenttypical և non-typical problems, avoiding the traditional approach when arranging the roots of a square equation2175,001222122221xqqxxxx21x75,0q2221xx212xx221xx75,0; 75,075.0; 2 ;; 75.0; 201440240144024012: ,0qqqqqRqqqqqq75,0; 75,0q75,0; 75,0qа029322axax2x 52x21; xx221xx212xx212xx221xx029342aaD2123402121xxxxaa0a4a212xx  02932222axax25 5,0 1xa5,0a212xx029344aa5,0; 5,0 Լուծaa45,0; a45,0; a When solving problems, consider the given square energyall possible positions of the corresponding function, the parabola.
+Literature 1. Հ. Mikaelyan, Algebra-9, Yerevan, Edit Print, 2008.
+Information about the authors:Manukyan Vardan Franz - Phys.Math. scientist Candidate, Gyumri State
+Pedagogical Institute, E-mail.
+ mvardan_1972@mail.ru:Nikoghosyan Gagik Seryozha - Phys.Math. scientist Candidate, ASUE Gyumri Branch,   E-mail:

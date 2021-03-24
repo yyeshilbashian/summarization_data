@@ -1,0 +1,37 @@
+ In line with the issues of stabilization of organizations, we also seek to find dependencies in the conditions of a changing economy, which allow for a more accurateto describe the economic manifestations.
+ In this regard, it should be noted that it is one of the basic principles of valuing organizationsThe assertion that market value is directly dependent on net income.
+  In this case, the capitalization rate is determined as follows:by formula:KN = ZGE / KSA, (1), where:MN - is the norm of capitalization,ZGE - is net operating income,CRS - is the market value of the organization.
+Assigning the amount of capitalization rate to net incomeUsing the multiplier M = 1 / KN, we will get the following formula:KSA = M x ZGE, (2).
+As follows from Equation (2), in the partial case if net income,equal to zero, then the market value of the organization as wellwill be zero.
+ If the real estate of the organization does not bring income, thenits liquid value is zero in some cases, howeverIt usually has a positive value, because even in case of complete liquidation of the organization, the materials can be used in case of dismantling of buildings.
+ Therefore, it cannot be argued thatA loss-making organization has no value.
+In the framework of the above methodological approach, based on the problem of stabilization of organizations, using the method of determining the point of safety, let's identify the factors thataffect the amount of net operating income.
+ Make the appropriate appointments in the table below.
+Table 1:Affecting the amount of net operating income of the organizationfactor determination approachIndicators:Scheduled sales volume in kindActual sales potential (sales volume)in the phrase:Critical volume of sales (sales) in kindexpressed as the point of innocenceUnit price:Variable production costs per unit of outputSales in value termsVariable production costsConditionally fixed production costsProfit before taxNet operating income in the case of MaximOperating income in the case of I-FactsInitial cost:The term of the economic life cycleAppointments:At the maximumIn fact!CriticalMG:MAPAJIH:EATBREADShminch taxationAt ZGE Maxim ZGEPastatsiTHIS:TDC:Depreciation:Liquidation cost:Total depreciation in monetary termsMarket value of useCapitalization ratio:Profit tax rateaLA:UM:OSHAKGSHDNet operating income is determined by profit before tax -taxes + depreciation allocations.
+ZGE = Shminch և taxation - Shminch և taxation x SHD + A = Shminch և taxation x (1 - SHD) + A, (3).
+  From formula (3) we can determine the market value of the organization.KSHA = Mx ZGE = Mx [Shminch և taxation x (1 - SHD) + A], (4).
+In case of critical sales volume at the point of innocenceProfit before tax will be equal to zero: Shminch tax = 0.
+ In this caseThe market value of the harmless organization will be determined latermanner,KSA = M x A, (5).
+Consider a case where the value of a harmless organization is equal to its liquid value (CRS = LA), which, however paradoxicalwill be equal to the capitalized amount of annual amortization allocations: LA = M x A, (6).
+If we take into account that our assumption is within the allowable limits, it allows for rapid assessments.to apply new approaches.
+ In this case, the market value of the organization can be represented as the amount of capitalized value of the liquidation value (value of the harmless organization) և net operating income.KSA = LA + M x ZGE, (7).
+Its value in case of harmless activity of the organizationwill be equal to the following. ZGE = 0, KSA = LA.
+If the company operates at full capacity, we will have the following:ZGE = maximum, KSHMaxim = LA + Mx ZGEmax = SA.
+In case of a decrease in sales due to the influence of external unfavorable factors, we will have the following:ZGE = ZGEpastatsi, KSA factual = LA + M x ZGEPastatsi.
+Based on the above, we can make the following conclusions.• The market value of the organization can be equal to zeroonly in the case of harmful activities.
+• Excluding goodwill, the maximum value of the organizationwill be equal to its initial value, which is an opportunityenable, using the full potential of the organization to receiveMaximum possible net operating income.
+• The market value of an entity receiving net operating income in the amount of ZGE de facto will be calculated as follows:CSA actual = LA + [(SA - LA) / (ZGEmaximum-ZGEcritical) x (ZGEpastatsi - ZGEcritical)], (8).
+• The total wear and tear probability can be determined as follows: UM = SA-KSHA, (9).
+Given that the market value of the organization is determinedin accordance with the best and most effective principlesfrom potential, not actual values, then it is possibleapply the following approach.
+Actual sales in value terms, IJ, on the one hand, is equal to the quantity of products sold, I Ծ unit price of the product:MG, the product, and on the other hand, is equal to the conditional constantProduction costs: BAT, total variable productionExpenditure tax: SNAP, և pre-taxation of profit: Shminc և taxation, amount:IH = MG x IJ = EPA + HATS + Shminc և taxation = MG x IJ + HATS + Shminc և taxation, (10).
+(10) Subtract from the formula before taxing the profit calculationthe following formula:Shminch-taxation = IX (MG - MAPAGH) - BREAD, (11).
+     Putting this expression in formula (4), we get the following:KSA = M x ZGE = M x [Shmincև taxation x (1 - SHD) + A] = Մ x {[ԻԾ x (ՄԳ - ՄԱՊԱԾ) - ՀԱԾ] x (1 - ՇԴ) + Ա}, (12).
+Considering that the maximum net operating income of the program will be equal to the following:Maximum = [Maximum x (MG - CAP) - BREAD] x (1 - SD) + A,And the program value of the new construction is KSA = SA.
+ So, justincome software animator will be equal to:M = SA / J [in maxim x (MG - MAPAGH) - HAJ] x (1 - SHD) + A}, (13).
+By putting (13) in (11), we get an alternative to calculating the market value of an organization.one of the resolutions.KSHA = SA x {[Ծ x (MG - MAPATS) - BREAD] x (1 - SHD) + A / {[Maximum x (ՄԳ - ՄԱՊԱԾ) - ՀԱԾ] x (1 - ՇԴ) + Ա}, (14).
+The resulting formula combines revenue and expenditure approaches.
+ From the user's point of view, this approach is positiveThe availability of its perception is considered a factor.
+         In addition to the above, we consider the organization's marketThe approach to calculating the value of a proportional dependenceis in the volume of product sales.
+  The calculation formula:is the following. (SA - LA) / (Maximum - Critical) = (KSA - LA) / (Actual -Critical)KSA = LA + (SA - LA) x (Maximum - Critical) / (Maximum - Critical), (15).
+Information about the authors:Ashot Varazdat Matosyan - Doctor of Economics, Associate Professor, Dean of YSU Accounting և Faculty of Audit, E-mail:
+matevosyan07@rambler.ru:Davtyan Tigran Petros - Postgraduate student of ASUE Chair of Financial Accounting, E-mail:

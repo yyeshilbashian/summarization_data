@@ -1,0 +1,3750 @@
+1. Introduction.
+  Elliptic type differential equationsThey are widely used to describe stable fields [1-3].
+  The method of finite differences (networks) at presentThe most universal application for solving edge problemsis one of the methods [3-7].
+ The method of finite differences has developed a great deal, especially in recent times, due towith the development of modern computing technologies [3,8,9].
+  Currently:: is widely used in computer mathematicsMathematica is considered to be the world leader, which:It is also used as a high-quality programming environment [10-16].
+This work deals with the method of solving elliptic-type differential equations according to Jacoby և Zeidel differential schemes [3,17].
+ They are interpreted with a new methodological approachaccording to Jacob և The processes of solving elliptic-type differential equations by the method of networks of Zeidel differential circuits, presenting corresponding schematic drawings.
+Then the differential of the stationary heat field is consideredequation [1-2].
+ The latter is solved first by using standard means of Mathematica environment, then by Jacob և Zeidel methodsby compiling and launching settlement programs.
+Then, the solution of the problem is carried out by the method of networks, the different schemes are presented, the calculation programsIn Mathematica environment, according to each of the above schemes.
+ A study is being carried out from the point of view of practical concurrence ևsubstantiated high efficiency method of elliptical networkswhen solving type differential equations.
+2 ․ Jacobi's method for solving different schemes obtained for elliptic-type differential equations.
+  Let's have itThe following system of equations:(cid.
+3422) (cid.
+1853) (cid.
+2869) (cid.
+2869) (cid.
+1876) (cid.
+2869) + (cid.
+1853) (cid.
+2869) (cid.
+2870) (cid.
+1876) (cid.
+2870) + ⋯ + (cid.
+1853) (cid.
+2869) (cid.
+3041) (cid.
+1876) (cid.
+3041) = (cid.
+1854) (cid.
+2869)
+(cid.
+1853) (cid.
+2870) (cid.
+2869) (cid.
+1876) (cid.
+2869) + (cid.
+1853) (cid.
+2870) (cid.
+2870) (cid.
+1876) (cid.
+2870) + ⋯ + (cid.
+1853) (cid.
+2870) (cid.
+3041) (cid.
+1876) (cid.
+3041) = (cid.
+1854) (cid.
+2870)
+(cid.
+1853) (cid.
+3041) (cid.
+2869) (cid.
+1876) (cid.
+2869) + (cid.
+1853) (cid.
+3041) (cid.
+2870) (cid.
+1876) (cid.
+2870) + ⋯ + (cid.
+1853) (cid.
+3041) (cid.
+3041) (cid.
+1876) (cid.
+3041) = (cid.
+1854) (cid.
+3041) (1)or (cid.
+1827) (cid.
+1876) = (cid.
+1828), where:(cid.
+1827) = (cid.
+3438) (cid.
+1853) (cid.
+2869) (cid.
+2869) (cid.
+1853) (cid.
+2869) (cid.
+2870)… (cid.
+1853) (cid.
+2869) (cid.
+3041)
+(cid.
+1854) = (cid.
+3438) (cid.
+1854) (cid.
+2869) (cid.
+1854) (cid.
+2870)… (cid.
+1854) (cid.
+3041) (cid.
+3442),
+(cid.
+1853) (cid.
+2870) (cid.
+2869) (cid.
+1853) (cid.
+2870) (cid.
+2870)… (cid.
+1853) (cid.
+2870) (cid.
+3041)
+(cid.
+1853) (cid.
+3041) (cid.
+2869) (cid.
+1853) (cid.
+3041) (cid.
+2870)… (cid.
+1853) (cid.
+3041) (cid.
+3041) (cid.
+3442),
+The attachments are different from zero, ie (cid.
+1853) (cid.
+3036) (cid.
+3036) ≠ 0, (cid.
+1861) = 1, (cid.
+1866) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364).
+  (1) equations(cid.
+1876) = (cid.
+3438) (cid.
+1876) (cid.
+2869) (cid.
+1876) (cid.
+2870)… (cid.
+1876) (cid.
+3041) (cid.
+3442)Suppose in the system of equations (1) from the first, second,…, nth equations of the angular system we get respectively:or (cid.
+1876) = (cid.
+2009) (cid.
+1876) + (cid.
+2010), where:(cid.
+1876) (cid.
+2869) = (cid.
+1854) (cid.
+2869) - ((cid.
+1853) (cid.
+2869) (cid.
+2870) (cid.
+1876) (cid.
+2870) + (cid.
+1853) (cid.
+2869) (cid.
+2871) (cid.
+1876) (cid.
+2871) + ⋯ + (cid.
+1853) (cid.
+2869) (cid.
+3041) (cid.
+1876) (cid.
+3041))
+(cid.
+1853) (cid.
+2869) (cid.
+2869)
+(cid.
+1876) (cid.
+2870) = (cid.
+1854) (cid.
+2870) - ((cid.
+1853) (cid.
+2870) (cid.
+2869) (cid.
+1876) (cid.
+2869) + (cid.
+1853) (cid.
+2870) (cid.
+2871) (cid.
+1876) (cid.
+2871) + ⋯ + (cid.
+1853) (cid.
+2870) (cid.
+3041) (cid.
+1876) (cid.
+3041))
+(cid.
+1853) (cid.
+2870) (cid.
+2870)…
+(cid.
+1876) (cid.
+3041) = (cid.
+1854) (cid.
+3041) - (cid.
+3435) (cid.
+1853) (cid.
+3041) (cid.
+2869) (cid.
+1876) (cid.
+2869) + (cid.
+1853) (cid.
+3041) (cid.
+2870) (cid.
+1876) (cid.
+2870) + ⋯ + (cid.
+1853) (cid.
+3041) ((cid.
+3041) (cid.
+2879) (cid.
+2869)) (cid.
+1876) (cid.
+3041) (cid.
+2879) (cid.
+2869) (cid.
+3439)
+(cid.
+1853) (cid.
+3041) (cid.
+3041)
+⎝⎜⎜⎛ (cid.
+1854) (cid.
+2869) (cid.
+1853) (cid.
+2869) (cid.
+2869) (cid.
+1854) (cid.
+2870) (cid.
+1853) (cid.
+2870) (cid.
+2870)… (cid.
+1854) (cid.
+3041) ⎠⎟⎟⎞:
+(cid.
+2009) = ⎝⎜⎜⎛ − 0− (cid.
+1853) (cid.
+2869) (cid.
+2870) (cid.
+1853) (cid.
+2869) (cid.
+2869) - (cid.
+1853) (cid.
+2869) (cid.
+2871) (cid.
+1853) (cid.
+2869) (cid.
+2869)… - (cid.
+1853) (cid.
+2869) (cid.
+3041) (cid.
+1853) (cid.
+2869) (cid.
+2869)
+(cid.
+1853) (cid.
+2870) (cid.
+2869) (cid.
+1853) (cid.
+2870) (cid.
+2870) 0− (cid.
+1853) (cid.
+2870) (cid.
+2869) (cid.
+1853) (cid.
+2870) (cid.
+2870)… - (cid.
+1853) (cid.
+2870) (cid.
+3041) (cid.
+1853) (cid.
+2870) (cid.
+2870)
+(cid.
+2010) =:
+(cid.
+1853) (cid.
+3041) (cid.
+2869) (cid.
+1853) (cid.
+3041) (cid.
+2870)… (cid.
+1853) (cid.
+3041) (cid.
+3041)
+Look for some initial (cid.
+1876) (cid.
+2868) approximation գտնել using the obtained equations to find sequentially (cid.
+1876) (cid.
+2869), (cid.
+1876) (cid.
+2870), և etc.
+Then it is necessary to choose the solution of the system of equations. The description described above is an iterative process, the completion of which requires obtaining the specified accuracy or interrupting the process.
+  The process is interrupted when the number of iterations exceeds the given allowable number, in which case the system does not converge or the given number of iterations is not sufficient to obtain the specified accuracy.
+The system expressing the iteration process is as follows:⎩⎪⎪⎪⎨⎪⎪⎪⎧ (cid.
+1876) (cid.
+2869) ((cid.
+3038) (cid.
+2878) (cid.
+2869)) = (cid.
+1854) (cid.
+2869) - (cid.
+4672) (cid.
+1853) (cid.
+2869) (cid.
+2870) (cid.
+1876) (cid.
+2870) ((cid.
+3038)) + (cid.
+1853) (cid.
+2869) (cid.
+2871) (cid.
+1876) (cid.
+2871) ((cid.
+3038)) + ⋯ + (cid.
+1853) (cid.
+2869) (cid.
+3041) (cid.
+1876) (cid.
+3041) ((cid.
+3038)) (cid.
+4673)
+(cid.
+1876) (cid.
+2870) ((cid.
+3038) (cid.
+2878) (cid.
+2869)) = (cid.
+1854) (cid.
+2870) - (cid.
+4672) (cid.
+1853) (cid.
+2870) (cid.
+2869) (cid.
+1876) (cid.
+2869) ((cid.
+3038)) + (cid.
+1853) (cid.
+2870) (cid.
+2871) (cid.
+1876) (cid.
+2871) ((cid.
+3038)) + ⋯ + (cid.
+1853) (cid.
+2870) (cid.
+3041) (cid.
+1876) (cid.
+3041) ((cid.
+3038)) (cid.
+4673)
+(cid.
+1876) (cid.
+3041) ((cid.
+3038) (cid.
+2878) (cid.
+2869)) = (cid.
+1854) (cid.
+3041) - (cid.
+4672) (cid.
+1853) (cid.
+3041) (cid.
+2869) (cid.
+1876) (cid.
+2869) ((cid.
+3038)) + (cid.
+1853) (cid.
+3041) (cid.
+2870) (cid.
+1876) (cid.
+2870) ((cid.
+3038)) + ⋯ + (cid.
+1853) (cid.
+3041) ((cid.
+3041) (cid.
+2879) (cid.
+2869)) (cid.
+1876) (cid.
+3041) (cid.
+2879) (cid.
+2869) ((cid.
+3038)) (cid.
+4673)
+(cid.
+1853) (cid.
+2869) (cid.
+2869)
+(cid.
+1853) (cid.
+2870) (cid.
+2870)
+(cid.
+1853) (cid.
+3041) (cid.
+3041)
+(cid.
+1876) ((cid.
+3038) (cid.
+2878) (cid.
+2869)) = (cid.
+2009) (cid.
+1876) ((cid.
+3038)) + (cid.
+2010)or:where the upper index in parentheses represents the iterationnumber:
+Let us now turn to the solution of the differential scheme for elliptic-type differential equations by Jacob's method.
+Consider the general differential scheme obtained for elliptic-type differential equations, moreover, for edge pointsequationsforElliptical typedifferentialhas a different scheme as follows:We will consider Dirichlet's problem (Neumann's problem)in which case the judgments will be made by analogy).
+(cid.
+1873) (cid.
+3036) (cid.
+4594) (cid.
+3037) (cid.
+4594) = (cid.
+2030) (cid.
+3036) (cid.
+4594) (cid.
+3037) (cid.
+4594), (cid.
+1861) (cid.
+4593) = 1, (cid.
+1865) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364), (cid.
+1862) (cid.
+4593) = 1, (cid.
+1839) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364)
+(cid.
+4682) (cid.
+1873) (cid.
+3036) (cid.
+2879) (cid.
+2869), (cid.
+3037) + (cid.
+1873) (cid.
+3036) (cid.
+2878) (cid.
+2869), (cid.
+3037) - (cid.
+1829) (cid.
+1873) (cid.
+3036), (cid.
+3037) + (cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2879) (cid.
+2869) + (cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2878) (cid.
+2869) = (cid.
+1858) (cid.
+3036) (cid.
+3037), (cid.
+1861) = 1, (cid.
+1866) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364), (cid.
+1862) = 1, (cid.
+1840) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364)
+where (cid.
+1829) տարբեր is constant from zero, (cid.
+1858) −ը և (cid.
+2030) Given functionsare, the internal nodes of the network are designated ((cid).
+1861) (cid.
+1862)) with indices, and marginalnodes: ((cid.
+1861) (cid.
+4593) (cid.
+1862) (cid.
+4593)).
+In case of using Jacob's method (2) differential scheme(cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2868) = 0, (cid.
+1861) = 1, (cid.
+1866) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364), (cid.
+1862) = 1, (cid.
+1840) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364),
+(cid.
+1873) (cid.
+3036) (cid.
+4594), (cid.
+2868) (cid.
+3038) (cid.
+2878) (cid.
+2869) = (cid.
+1873) (cid.
+3036) (cid.
+4594), (cid.
+3040) (cid.
+3038) (cid.
+2878) (cid.
+2869) = (cid.
+2030) (cid.
+3036) (cid.
+4594) (cid.
+3037) (cid.
+4594), (cid.
+1861) (cid.
+4593) = 1, (cid.
+1865) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364), (cid.
+1873) (cid.
+2868), (cid.
+3037) (cid.
+4594) (cid.
+3038) (cid.
+2878) (cid.
+2869) = (cid.
+1873) (cid.
+3014), (cid.
+3037) (cid.
+4594) (cid.
+3038) (cid.
+2878) (cid.
+2869) = (cid.
+2030) (cid.
+3036) (cid.
+4594) (cid.
+3037) (cid.
+4594), (cid.
+1862) (cid.
+4593) = 1, (cid.
+1839) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364)
+(cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+3038) (cid.
+2878) (cid.
+2869) = 1 (cid.
+1829) (cid.
+3435) (cid.
+1873) (cid.
+3036) (cid.
+2879) (cid.
+2869), (cid.
+3037)
++ (cid.
+1858) (cid.
+3036), (cid.
+3037) (cid.
+3439)
++ (cid.
+1873) (cid.
+3036) (cid.
+2878) (cid.
+2869), (cid.
+3037)
++ (cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2878) (cid.
+2869) (cid.
+3038)
++ (cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2879) (cid.
+2869)
+(cid.
+3038)
+(cid.
+3038)
+(cid.
+3038)
+(cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364), (cid.
+1863) = 0.1.2,…
+(cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364), (cid.
+1862) = 1, (cid.
+1840) −1:
+(cid.
+1861) = 1, (cid.
+1866) −1:
+in network nodes (cid.
+1873) ((cid.
+1876), (cid.
+1877)) the process of calculating a function.
+ The essence of the ner-Jacobi method of the network reveals fig. 1.
+ It reflectschanges to:The sleeping points are numbered according to the counting sequence.
+The nodes in green in the drawing correspond to the edge conditions of the differential equation, and in redThe nodes where the values ​​of the function are known are shown:according to the previous iteration.
+In this case, first the values ​​of the function at all points of the network are equalized to zero, then they are determined at the edge points of the network.Fig. 1:
+the corresponding values ​​of the function based on the set boundary conditions.
+  The actual iteration calculation starts from the network node (1,1), in which:which are the result of the previous iteration step, then the sameThe value of a function in a network node (2,1) is calculated by the values ​​of the function in its four adjacent nodes, and so on.to the last internal node of the network.
+ Internal network functionfunction (cid.
+1873) (cid.
+2869), (cid.
+2869) the value is determined by the function (cid.
+1873) (cid.
+2868), (cid.
+2869), (cid.
+1873) (cid.
+2869), (cid.
+2868), (cid.
+1873) (cid.
+2869), (cid.
+2870) և (cid.
+1873) (cid.
+2870), (cid.
+2869) with values,The values ​​are calculated in ordinates (cid.
+1841) (cid.
+1877) with lattice strips in the direction of the axis, first (cid.
+1862) = 0 in layer ((cid.
+1877) = (cid.
+1877) (cid.
+2868)), then և (cid.
+1862) = in 1 layer((cid.
+1877) = (cid.
+1877) (cid.
+2869)) և etc.
+ In each of these layers, the calculation is performed abscesses (cid.
+1841) (cid.
+1876) in the direction of the axis layers with network layers.
+This iteration process continues for as long asuntil the solution of the given equation is obtained with the necessary accuracy.
+Let's take a look at some of the nodes in the network:Fig. 3:
+Fig. 2:
+specimens consisting of their four adjacent nodes.
+For example նկ In 2 և pic ․ 3 are shown (cid.
+1873) (cid.
+2869), (cid.
+2869) և (cid.
+1873) (cid.
+2870), (cid.
+2869) value calculation in the given step of iteration (cid.
+1873) (cid.
+3036), (cid.
+3037) are used to determine the step (cid).
+1873) (cid.
+2869), (cid.
+2869) The terms known as edge terms are used to count(cid.
+1873) (cid.
+2868), (cid.
+2869) −ի և (cid.
+1873) (cid.
+2869), (cid.
+2868) The values ​​of հայտնի are known from the previous step of the federation (cid.
+1873) (cid.
+2870), (cid.
+2869) −ի և:(cid.
+1873) (cid.
+2869), (cid.
+2870) values.
+  During this whole iteration process of the networkThe values ​​obtained for the function in the four corresponding nodes of the network from the previous step.
+  In particular, iteration dataValues ​​set by edge conditions in edge nodesdo not change.
+  Jacob's method has a slow connotation of thatBecause of this, it is seldom used in solving such tasks.
+3 ․ The Zeidel method for solving different schemes obtained for elliptic-type differential equations.
+  The Zeidel method, the essence of which is most often used in practical calculationsTo show the system of equations (1), we present it belowin the form of((cid.
+1838) + (cid.
+1830)) (cid.
+1876) ⃗ = - (cid.
+1847) (cid.
+1876) ⃗ + (cid.
+1854) (cid.
+4652) ⃗:⎩⎪⎨⎪⎧ (cid.
+1853) (cid.
+2869) (cid.
+2869) (cid.
+1876) (cid.
+2869) = - (cid.
+1853) (cid.
+2869) (cid.
+2870) (cid.
+1876) (cid.
+2870) - (cid.
+1853) (cid.
+2869) (cid.
+2871) (cid.
+1876) (cid.
+2871) - ⋯ - (cid.
+1853) (cid.
+2869) (cid.
+3041) (cid.
+1876) (cid.
+3041) + (cid.
+1854) (cid.
+2869)
+(cid.
+1853) (cid.
+2870) (cid.
+2869) (cid.
+1876) (cid.
+2869) + (cid.
+1853) (cid.
+2870) (cid.
+2870) (cid.
+1876) (cid.
+2870) = - (cid.
+1853) (cid.
+2870) (cid.
+2871) (cid.
+1876) (cid.
+2871) - ⋯ - (cid.
+1853) (cid.
+2870) (cid.
+3041) (cid.
+1876) (cid.
+3041) + (cid.
+1854) (cid.
+2870)
+(cid.
+1853) ((cid.
+3041) (cid.
+2879) (cid.
+2869)) (cid.
+2869) (cid.
+1876) (cid.
+2869) + (cid.
+1853) ((cid.
+3041) (cid.
+2879) (cid.
+2870)) (cid.
+2870) (cid.
+1876) (cid.
+2870) + ⋯ + (cid.
+1853) ((cid.
+3041) (cid.
+2879) (cid.
+2869)) ((cid.
+3041) (cid.
+2879) (cid.
+2869)) (cid.
+1876) (cid.
+3041) (cid.
+2879) (cid.
+2869) = - (cid.
+1853) ((cid.
+3041) (cid.
+2879) (cid.
+2869)) (cid.
+3041) (cid.
+1876) (cid.
+3041) + (cid.
+1854) (cid.
+3041) (cid.
+2879) (cid.
+2869)
+(cid.
+1853) (cid.
+3041) (cid.
+2869) (cid.
+1876) (cid.
+2869) + (cid.
+1853) (cid.
+3041) (cid.
+2870) (cid.
+1876) (cid.
+2870) + ⋯ + (cid.
+1853) (cid.
+3041) ((cid.
+3041) (cid.
+2879) (cid.
+2869)) (cid.
+1876) (cid.
+3041) (cid.
+2879) (cid.
+2869) + (cid.
+1853) (cid.
+3041) (cid.
+3041) (cid.
+1876) (cid.
+3041) = (cid.
+1854) (cid.
+3041)
+where (cid.
+1862) We moved it to the right-hand side of the equationmembers that contain (cid.
+1861) <(cid.
+1862) satisfactory (cid.
+1876) (cid.
+3036) the following appointments are made in the member: (cid.
+1830) The matrix on which the main diagonal stands (cid) is assigned to the sea.
+1827) the corresponding elements of the matrix, and the remaining elements are zeros, (cid.
+1847) −ն և (cid.
+1838) contains:are (cid.
+1827) the upper and lower triangles of the matrix, respectivelyresolution by selecting the initial (cid.
+1876) ⃗ ((cid.
+2868)) approximation.
+((cid.
+1838) + (cid.
+1830)) (cid.
+1876) ⃗ ((cid.
+3038) (cid.
+2878) (cid.
+2869)) = - (cid.
+1873) (cid.
+1876) ⃗ ((cid.
+3038)) + (cid.
+1854) (cid.
+4652) ⃗, (cid.
+1863) = 0.1.2,…(cid.
+1876) (cid.
+2869) ((cid.
+3038) (cid.
+2878) (cid.
+2869)) = (cid.
+1855) (cid.
+2869) (cid.
+2870) (cid.
+1876) (cid.
+2870) ((cid.
+3038)) + (cid.
+1855) (cid.
+2869) (cid.
+2871) (cid.
+1876) (cid.
+2871) ((cid.
+3038)) + ⋯ + (cid.
+1855) (cid.
+2869) (cid.
+3041) (cid.
+1876) (cid.
+3041) ((cid.
+3038)) + (cid.
+1856) (cid.
+2869)
+(cid.
+1876) (cid.
+2870) ((cid.
+3038) (cid.
+2878) (cid.
+2869)) = (cid.
+1855) (cid.
+2870) (cid.
+2869) (cid.
+1876) (cid.
+2869) ((cid.
+3038) (cid.
+2878) (cid.
+2869)) + (cid.
+1855) (cid.
+2870) (cid.
+2871) (cid.
+1876) (cid.
+2871) ((cid.
+3038)) + ⋯ + (cid.
+1855) (cid.
+2870) (cid.
+3041) (cid.
+1876) (cid.
+3041) ((cid.
+3038)) ++ (cid.
+1856) (cid.
+2870)
+(cid.
+1876) (cid.
+3041) ((cid.
+3038) (cid.
+2878) (cid.
+2869)) = (cid.
+1855) (cid.
+3041) (cid.
+2869) (cid.
+1876) (cid.
+2869) ((cid.
+3038) (cid.
+2878) (cid.
+2869)) + (cid.
+1855) (cid.
+3041) (cid.
+2870) (cid.
+1876) (cid.
+2870) ((cid.
+3038) (cid.
+2878) (cid.
+2869)) + ⋯ + (cid.
+1855) (cid.
+3041) ((cid.
+3041) (cid.
+2879) (cid.
+2869)) (cid.
+1876) (cid.
+3041) (cid.
+2879) (cid.
+2869) ((cid.
+3038) (cid.
+2878) (cid.
+2869)) + (cid.
+1856) (cid.
+3041)(cid.
+1855) (cid.
+3036) (cid.
+3037) = (cid.
+3421) - (cid.
+1853) (cid.
+3036) (cid.
+3037) (cid.
+1853) (cid.
+3036) (cid.
+3036)
+, (cid.
+1856) (cid.
+3036) = (cid.
+1854) (cid.
+3036) (cid.
+1853) (cid.
+3036) (cid.
+3036), (cid.
+1861) = 1,2,…, (cid.
+1861) ≠ (cid.
+1862)
+0, (cid.
+1861) = (cid.
+1862)
+In the case of the Zeidel method (2), the differential scheme is solved according to:system:There are zeros on the main diagonals.
+The iteration process is constructed according to the Zeidel method. Thus, by the Zeidel method we get the equationss.
+ This performance can be written as follows:where:will look like this:(cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2868) = 0, (cid.
+1861) = 1, (cid.
+1866) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364), (cid.
+1862) = 1, (cid.
+1840) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364),
+(cid.
+1873) (cid.
+3036) (cid.
+4594), (cid.
+2868) (cid.
+3038) (cid.
+2878) (cid.
+2869) = (cid.
+1873) (cid.
+3036) (cid.
+4594), (cid.
+3040) (cid.
+3038) (cid.
+2878) (cid.
+2869) = (cid.
+2030) (cid.
+3036) (cid.
+4594) (cid.
+3037) (cid.
+4594), (cid.
+1861) (cid.
+4593) = 1, (cid.
+1865) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364), (cid.
+1873) (cid.
+2868), (cid.
+3037) (cid.
+4594) (cid.
+3038) (cid.
+2878) (cid.
+2869) = (cid.
+1873) (cid.
+3014), (cid.
+3037) (cid.
+4594) (cid.
+3038) (cid.
+2878) (cid.
+2869) = (cid.
+2030) (cid.
+3036) (cid.
+4594) (cid.
+3037) (cid.
+4594), (cid.
+1862) (cid.
+4593) = 1, (cid.
+1839) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364)
+(cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+3038) (cid.
+2878) (cid.
+2869) = 1 (cid.
+1829) (cid.
+3435) (cid.
+1873) (cid.
+3036) (cid.
+2879) (cid.
+2869), (cid.
+3037)
++ (cid.
+1858) (cid.
+3036), (cid.
+3037) (cid.
+3439)
+(cid.
+3038) (cid.
+2878) (cid.
+2869) + (cid.
+1873) (cid.
+3036) (cid.
+2878) (cid.
+2869), (cid.
+3037)
+(cid.
+3038) (cid.
+2878) (cid.
+2869) + (cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2878) (cid.
+2869)
++ (cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2879) (cid.
+2869)
+(cid.
+3038)
+(cid.
+3038)
+(cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364), (cid.
+1863) = 0.1.2,…
+(cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364), (cid.
+1862) = 1, (cid.
+1840) −1:
+(cid.
+1861) = 1, (cid.
+1866) −1:
+          When using the Zeidel method in network nodes (cid.
+1873) ((cid.
+1876), (cid.
+1877))The sequence of calculation of the values ​​of the function corresponds to the sequence observed in the case of the Jacobi method (Fig. 1).
+ In this case, the function gets zero in all nodes of the networkvalue, then receives values ​​corresponding to the terminal condition in the network nodes, and then the iteration calculation starts from the first internal node of the network.
+ The iteration process, as և:In the case of Jacob's method, it is realized in ordinates (cid.
+1841) (cid.
+1877) with lattice strips in the direction of the axis, first (cid.
+1862) = 0 in layer ((cid.
+1877) = (cid.
+1877) (cid.
+2868)), then և (cid.
+1862) = in 1 layer ((cid.
+1877) = (cid.
+1877) (cid.
+2869)) և etc.
+  In each of these layers, the calculation of abscesses (cid) is performed.
+1841) (cid.
+1876) in the direction of the axis layers with network layers.
+Internal network (cid.
+1861), (cid.
+1862)) function in each of the nodes (cid.
+1873) (cid.
+3036) (cid.
+3037) costis determined by the function (cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2879) (cid.
+2869), (cid.
+1873) (cid.
+3036) (cid.
+2879) (cid.
+2869), (cid.
+3037), (cid.
+1873) (cid.
+3036) (cid.
+2878) (cid.
+2869), (cid.
+3037) և (cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2878) (cid.
+2869) through values, etc.in which (cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2879) (cid.
+2869) −ի և (cid.
+1873) (cid.
+3036) (cid.
+2879) (cid.
+2869), (cid.
+3037) are taken from the current iteration stepthe values ​​obtained, and (cid.
+1873) (cid.
+3036) (cid.
+2878) (cid.
+2869), (cid.
+3037) −ի և (cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2878) (cid.
+2869) for the previous iterationthe values ​​obtained from the step.
+ Let's draw samples of some nodes:Fig. 4:
+Fig. 5:
+Unlike Jacob's method, Zeidel's method is usedFunction values ​​in nodes during regular iterationBoth current and previous are used for calculationthe values ​​obtained during iteration.
+ Fig. Pictured in 4 և 5
+Painted arrows indicate the nodes for which the current isThe values ​​obtained as a result of iteration were taken, and in blue -the values ​​calculated in the previous iteration.
+are (cid.
+1873) (cid.
+2869), (cid.
+2869) և (cid.
+1873) (cid.
+2870), (cid.
+2869)'s samples of value calculation, where in orangeCurrent iteration gait (cid.
+1873) (cid.
+3036), (cid.
+3037) are used to determinebar, in the given iteration step (cid.
+1873) (cid.
+2870), (cid.
+2869) are used to calculate the terms known from the term (cid).
+1873) (cid.
+2870), (cid.
+2868) The value of, known from the current iteration step (cid.
+1873) (cid.
+2869), (cid.
+2869) The value of հայտնի is known from the previous step of the iteration (cid.
+1873) (cid.
+2870), (cid.
+2870) −ի և (cid.
+1873) (cid.
+2871), (cid.
+2869) as a result of current iteration in the left and lower extremity nodesthe values ​​of the function obtained, and the previous in the right and upper nodesThe values ​​of the function obtained as a result of iteration.
+  Private shares.
+ In the case of the Zeidel method, during the iteration process, the values ​​set by the terminal conditions in the network nodes do not change.
+4․Solution of differential equation of stationary heat fieldby the method of networks.
+Consider the differential equation obtained for a stationary heat field in the presence of a heat source, which is characterized by (cid).
+1858) ((cid.
+1876), (cid.
+1877)) = 2 (cid.
+2024) (cid.
+2870) (cid.
+1871) (cid.
+1861) (cid.
+1866) (cid.
+2024) (cid.
+1876) (cid.
+1871) (cid.
+1861) (cid.
+1866) (cid.
+2024) (cid.
+1877) through the function համար for the latterSolve (cid.
+2034) (cid.
+2870) (cid.
+1873) (cid.
+2034) (cid.
+1876) (cid.
+2870) + (cid.
+2034) (cid.
+2870) (cid.
+1873) (cid.
+2034) (cid.
+1877) (cid.
+2870) = - 2 (cid.
+2024) (cid.
+2870) (cid.
+1871) (cid.
+1861) (cid.
+1866) (cid.
+2024) (cid.
+1876) (cid.
+1871) (cid.
+1861) (cid.
+1866) (cid.
+2024) (cid.
+1877),
+(cid.
+1873) (0, (cid.
+1877)) = (cid.
+1873) ((cid.
+1853), (cid.
+1877)) = 0,
+0 <(cid.
+1876) <(cid.
+1853),
+(cid.
+1873) ((cid.
+1876), 0) = (cid.
+1873) ((cid.
+1876), (cid.
+1854)) = 0:Elliptic type differential equationto solve the Dirichlet problem ․0 <(cid.
+1877) <(cid.
+1854)in case of marginal conditions.
+Ումը Problem solving using standard Mathematica environment toolsThe NDSolve operator is provided in the Mathematica environment for the numerical solution of mathematical physics և differential equations as well as their systems.
+  Using that operatorLet's solve the problemPrn = NDSolve [{(cid.
+1830) [(cid.
+1873) [(cid.
+1876), (cid.
+1877)], (cid.
+1876), (cid.
+1876)] + (cid.
+1830) [(cid.
+1873) [(cid.
+1876), (cid.
+1877)], (cid.
+1877), (cid.
+1877)] =:
+= −2 (cid.
+1842) (cid.
+1861) ^ 2 (cid.
+1845) (cid.
+1861) (cid.
+1866) [(cid.
+1842) (cid.
+1861) (cid.
+1876)] (cid.
+1845) (cid.
+1861) (cid.
+1866) [(cid.
+1842) (cid.
+1861) (cid.
+1877)], (cid.
+1873) [(cid.
+1876), 0] == 0, (cid.
+1873) [0, (cid.
+1877)] == 0, (cid.
+1873) [1, (cid.
+1877)] =:
+= 0, (cid.
+1873) [(cid.
+1876), 1] == 0}, (cid.
+1873), {(cid.
+1876), 0,1}, {(cid.
+1877), 0.1}]	
+(cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) 3 (cid.
+1830) (cid.
+4674) (cid.
+1831) (cid.
+1874) (cid.
+1853) (cid.
+1864) (cid.
+1873) (cid.
+1853) (cid.
+1872) (cid.
+1857) (cid.
+4674) (cid.
+1873) [(cid.
+1876), (cid.
+1877)]. ⁄ (cid.
+1842) (cid.
+1870) (cid.
+1866) (cid.
+3427) [1] (cid.
+3431) (cid.
+4675), {(cid.
+1876), 0,1}, {(cid.
+1877), 0,1}, (cid.
+1827) (cid.
+1876) (cid.
+1857) (cid.
+1871) (cid.
+1838) (cid.
+1853) (cid.
+1854) (cid.
+1857) (cid.
+1864) → {(cid.
+1850), (cid.
+1851), (cid.
+1852)} (cid.
+4675)Then նենք graphically visualize the results ․Dom ain.
+ 0., 1.
+Output.
+ scalar:
+Fig. 6:
+Ումը Problem solving by finite difference methodhas a different scheme of the problem observed on the grid ևappearance:According to the same coordinate axes ℎ = (cid.
+2869) (cid.
+3040) (cid.
+2879) (cid.
+2869) step by step (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364),
+(cid.
+1873) (cid.
+3036), (cid.
+2868) = 0, (cid.
+1873) (cid.
+3036), (cid.
+3041) (cid.
+2879) (cid.
+2869) = 0, (cid.
+1861) = 0, (cid.
+1865) −1:
+(cid.
+1873) (cid.
+3036) (cid.
+2879) (cid.
+2869), (cid.
+3037) + (cid.
+1873) (cid.
+3036) (cid.
+2878) (cid.
+2869), (cid.
+3037) −4 (cid.
+1873) (cid.
+3036), (cid.
+3037) + (cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2879) (cid.
+2869) + (cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2878) (cid.
+2869) = - 2ℎ (cid.
+2870) (cid.
+2024) (cid.
+2870) sin ((cid.
+2024) (cid.
+1861) ℎ) sin ((cid.
+2024) (cid.
+1862) ℎ)
+(cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364), (cid.
+1862) = 1, (cid.
+1866) −2:
+(cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364)
+(cid.
+1861) = 1, (cid.
+1865) −2:
+(cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364)
+(cid.
+1873) (cid.
+2868), (cid.
+3037) = 0, (cid.
+1873) (cid.
+3040) (cid.
+2879) (cid.
+2869), (cid.
+3037) = 0, (cid.
+1862) = 0, (cid.
+1866) −1:
+In case of using Jacob's method (6) a different scheme will be brought (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364)	
+(cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364), (cid.
+1862) = 1, (cid.
+1866) −1:
+(cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2868) = 0, (cid.
+1861) = 1, (cid.
+1865) −1:
+(cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364), (cid.
+1873) (cid.
+2868), (cid.
+3037) (cid.
+3038) (cid.
+2878) (cid.
+2869) = (cid.
+1873) (cid.
+3040) (cid.
+2879) (cid.
+2869), (cid.
+3037)
+(cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364)
+(cid.
+3038) (cid.
+2878) (cid.
+2869) = 0, (cid.
+1861) = 0, (cid.
+1865) −1:
+(cid.
+1873) (cid.
+3036), (cid.
+2868) (cid.
+3038) (cid.
+2878) (cid.
+2869) = (cid.
+1873) (cid.
+3036), (cid.
+3041) (cid.
+2879) (cid.
+2869)
+(cid.
+3038) (cid.
+2878) (cid.
+2869) = 0, (cid.
+1862) = 0, (cid.
+1866) −1:
+(cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+3038) (cid.
+2878) (cid.
+2869) = 14 (cid.
+3435) (cid.
+1873) (cid.
+3036) (cid.
+2879) (cid.
+2869), (cid.
+3037)
++ 2ℎ (cid.
+2870) (cid.
+2024) (cid.
+2870) sin ((cid.
+2024) (cid.
+1861) ℎ) sin ((cid.
+2024) (cid.
+1862) ℎ) (cid.
+3439)
++ (cid.
+1873) (cid.
+3036) (cid.
+2878) (cid.
+2869), (cid.
+3037)
++ (cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2879) (cid.
+2869)
++ (cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2878) (cid.
+2869)
+(cid.
+3038)
+(cid.
+3038)
+(cid.
+3038)
+(cid.
+3038)
+(cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364), (cid.
+1863) = 0.1.2,…
+(cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364), (cid.
+1862) = 1, (cid.
+1866) −2:
+	(cid.
+1861) = 1, (cid.
+1865) −2:
+the solution of which can be found both by accurate and digital (especially iteration) methods.
+ Consider some of the iteration methods.
+What does it look like?Problem posed by Jacobi method in Mathematica environmentThe program implementing the solution is as follows:(cid.
+1853) = 0; (cid.
+1854) = 1; (cid.
+1858) (cid.
+1873) (cid.
+1866) (cid.
+1855) [(cid.
+1876) _, (cid.
+1877) _]	= (cid:
+1832) (cid.
+1873) (cid.
+1866) (cid.
+1855) (cid.
+1872) (cid.
+1861) (cid.
+1867) (cid.
+1866) [2 (cid.
+1842) (cid.
+1861) ^ 2 ∗ (cid.
+1845) (cid.
+1861) (cid.
+1866) [(cid.
+1842) (cid.
+1861) (cid.
+1876)] (cid.
+1845) (cid.
+1861) (cid.
+1866) [(cid.
+1842) (cid.
+1861) (cid.
+1877)]] [(cid.
+1876), (cid.
+1877)];	
+(cid.
+1865) = 17; (cid.
+1866) = 17; (cid.
+1863) = 0; ℎ = ((cid.
+1854) - (cid.
+1853)) / ((cid:
+1865) −1); (cid.
+1857) (cid.
+1868) (cid.
+1871) = 0.001; (cid.
+1857) (cid.
+1868) (cid.
+1871) 1 = 10;	
+(cid.
+1830) (cid.
+1867) [(cid.
+1858) [(cid.
+1861), (cid.
+1862)] = (cid.
+1840) [ℎ ^ 2 ∗ (cid.
+1858) (cid.
+1873) (cid.
+1866) (cid.
+1855) [(cid.
+1853) + (cid.
+1861) ℎ, (cid.
+1853) + (cid.
+1862) ℎ]]; (cid.
+1873) [(cid.
+1861), (cid.
+1862)] = 0, {(cid.
+1861), 0, (cid.
+1865) −1}, {(cid.
+1862), 0, (cid.
+1866) −1}];	
+(cid.
+1849) ℎ (cid.
+1861) (cid.
+1864) (cid.
+1857) [(cid.
+1857) (cid.
+1868) (cid.
+1871) 1> (cid.
+1857) (cid.
+1868) (cid.
+1871), (cid.
+1863) = (cid.
+1863) +1;	
+(cid.
+1857) (cid.
+1868) (cid.
+1871) 1 = 0;	
+(cid.
+1830) (cid.
+1867) [(cid.
+1874) [(cid.
+1861), (cid.
+1862)] = 0.25 ((cid.
+1873) [(cid.
+1861) −1, (cid.
+1862)] + (cid.
+1873) [(cid.
+1861) +1, (cid.
+1862)] + (cid.
+1873) [(cid.
+1861), (cid.
+1862) −1] + (cid.
+1873) [(cid.
+1861), (cid.
+1862) +1] + (cid.
+1858) [(cid.
+1861), (cid.
+1862)]);	
+(cid.
+1857) (cid.
+1868) = (cid.
+1827) (cid.
+1854) (cid.
+1871) (cid.
+3427) (cid.
+1874) [(cid.
+1861), (cid.
+1862)] - (cid.
+1873) [(cid.
+1861), (cid.
+1862)] (cid.
+3431); (cid.
+1857) (cid.
+1868) (cid.
+1871) 1 = (cid.
+1839) (cid.
+1853) (cid.
+1876) [(cid.
+1857) (cid.
+1868), (cid.
+1857) (cid.
+1868) (cid.
+1871) 1], {(cid.
+1861), 1, (cid.
+1865) −2},
+{(cid.
+1862), 1, (cid.
+1866) −2}];	
+(cid.
+1830) (cid.
+1867) [(cid.
+1873) [(cid.
+1861), (cid.
+1862)] = (cid.
+1874) [(cid.
+1861), (cid.
+1862)], {(cid.
+1861), 1, (cid.
+1865) −2}, {(cid.
+1862), 1, (cid.
+1866) −2}]];	
+(cid.
+1847) = (cid.
+1827) (cid.
+1870) (cid.
+1870) (cid.
+1853) (cid.
+1877) [(cid.
+1873), {(cid.
+1865), (cid.
+1866)}, 0];	
+(cid.
+1857) (cid.
+1865) = 1− (cid.
+1873) [8,8];	
+(cid.
+1842) (cid.
+1870) (cid.
+1861) (cid.
+1866) (cid.
+1872) ["(cid.
+1861) (cid.
+1872) (cid.
+1857) (cid.
+1870) = ", (cid.
+1863), "(cid.
+1872) (cid.
+1867) (cid.
+1872) (cid.
+1853) (cid.
+1864) = ", (cid.
+1857) (cid.
+1865)];	
+(cid.
+1838) (cid.
+1861) (cid.
+1871) (cid.
+1872) (cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) 3 (cid.
+1830) [(cid.
+1847), (cid.
+1827) (cid.
+1876) (cid.
+1857) (cid.
+1871) (cid.
+1838) (cid.
+1853) (cid.
+1854) (cid.
+1857) (cid.
+1864) -> {(cid.
+1876), (cid.
+1877), (cid.
+1873) ((cid.
+1876), (cid.
+1877))}, (cid.
+1830) (cid.
+1853) (cid.
+1872) (cid.
+1853) (cid.
+1844) (cid.
+1853) (cid.
+1866) (cid.
+1859) (cid.
+1857) -> {{0,1}, {0,1}}](cid.
+1872) (cid.
+1867) (cid.
+1872) (cid.
+1853) (cid.
+1864) = 0.04733816324863982:(cid.
+1861) (cid.
+1872) (cid.
+1857) (cid.
+1870) = 154,
+In the source code, as shown belowValues ​​of function searchable in software code, network nodesFig. 7:
+will mean (cid.
+1873) [(cid.
+1861), (cid.
+1862)].
+visualize the results graphically.
+  As a result, it is displayed (cid.
+1873) ((cid.
+1876), (cid.
+1877)) The first two lines of the program provide input,then the calculation process starts, the number of iterations in the calculation process is displayed on the penultimate line, the resulting solution error, and the last line allows the obtainedthe area corresponding to the function.
+Figure 8 shows the same coordinate systemStandard tools in the Mathematica package for a given edge problemin the case of jacks obtained by Jacob's method (cid.
+1873) ((cid.
+1876), (cid.
+1877) a quarter of the surface area of ​​the various բաժան grid separation steps obtained with the aid of the function բաժան to make the concordance of the resulting solution more visible.
+  The surface obtained with the standard means of the Mathematica package is shown in greenin color, and in the case of the 15, 19, 21 values ​​of the grid division step, JacobiThe surfaces obtained by the method are yellow and blue, respectivelyև in red colors.
+(cid.
+1853) = 0; (cid.
+1854) = 1;(cid.
+1858) (cid.
+1873) (cid.
+1866) (cid.
+1855) [(cid.
+1876) _, (cid.
+1877) _] = (cid.
+1832) (cid.
+1873) (cid.
+1866) (cid.
+1855) (cid.
+1872) (cid.
+1861) (cid.
+1867) (cid.
+1866) [2 (cid.
+1842) (cid.
+1861) ^ 2 ∗ (cid.
+1845) (cid.
+1861) (cid.
+1866) [(cid.
+1842) (cid.
+1861) (cid.
+1876)] (cid.
+1845) (cid.
+1861) (cid.
+1866) [(cid.
+1842) (cid.
+1861) (cid.
+1877)]] [(cid.
+1876), (cid.
+1877)];	
+(cid.
+1855) (cid.
+1867) (cid.
+1864) (cid.
+1867) (cid.
+1870) [21] = (cid.
+1844) (cid.
+1857) (cid.
+1856); (cid.
+1855) (cid.
+1867) (cid.
+1864) (cid.
+1867) (cid.
+1870) [19] = (cid.
+1828) (cid.
+1864) (cid.
+1873) (cid.
+1857); (cid.
+1855) (cid.
+1867) (cid.
+1864) (cid.
+1867) (cid.
+1870) [15] = (cid.
+1851) (cid.
+1857) (cid.
+1864) (cid.
+1864) (cid.
+1867) (cid.
+1875);	
+(cid.
+1830) (cid.
+1867) [(cid.
+1866) = (cid.
+1865); (cid.
+1863) = 0; ℎ [(cid.
+1865)] = ((cid:
+1854) - (cid.
+1853)) / ((cid:
+1865) −1); (cid.
+1857) (cid.
+1868) (cid.
+1871) = 0.001; (cid.
+1857) (cid.
+1868) (cid.
+1871) 1 = 10;	
+(cid.
+1830) (cid.
+1867) [(cid.
+1858) [(cid.
+1861), (cid.
+1862)] = (cid.
+1840) [ℎ [(cid.
+1865)] ^ 2 ∗ (cid.
+1858) (cid.
+1873) (cid.
+1866) (cid.
+1855) [(cid.
+1853) + (cid.
+1861) ℎ [(cid.
+1865)], (cid.
+1853) + (cid.
+1862) ℎ [(cid.
+1865)]]]; (cid.
+1873) [(cid.
+1861), (cid.
+1862)]
+= 0, {(cid.
+1861), 0, (cid.
+1865) −1}, {(cid.
+1862), 0, (cid.
+1866) −1}];	
+(cid.
+1849) ℎ (cid.
+1861) (cid.
+1864) (cid.
+1857) [(cid.
+1857) (cid.
+1868) (cid.
+1871) 1> (cid.
+1857) (cid.
+1868) (cid.
+1871), (cid.
+1863) = (cid.
+1863) +1;	
+(cid.
+1857) (cid.
+1868) (cid.
+1871) 1 = 0;	
+(cid.
+1830) (cid.
+1867) [(cid.
+1874) [(cid.
+1861), (cid.
+1862)] = 0.25 ((cid.
+1873) [(cid.
+1861) −1, (cid.
+1862)] + (cid.
+1873) [(cid.
+1861) +1, (cid.
+1862)] + (cid.
+1873) [(cid.
+1861), (cid.
+1862) −1] + (cid.
+1873) [(cid.
+1861), (cid.
+1862) +1] + (cid.
+1858) [(cid.
+1861), (cid.
+1862)]);	
+(cid.
+1857) (cid.
+1868) = (cid.
+1827) (cid.
+1854) (cid.
+1871) [(cid.
+1874) [(cid.
+1861), (cid.
+1862)] - (cid.
+1873) [(cid.
+1861), (cid.
+1862)]];(cid.
+1857) (cid.
+1868) (cid.
+1871) 1 = (cid.
+1839) (cid.
+1853) (cid.
+1876) [(cid.
+1857) (cid.
+1868), (cid.
+1857) (cid.
+1868) (cid.
+1871) 1], {(cid.
+1861), 1, (cid.
+1865) −2}, {(cid.
+1862), 1, (cid.
+1866) −2}];	
+(cid.
+1830) (cid.
+1867) [(cid.
+1873) [(cid.
+1861), (cid.
+1862)] = (cid.
+1874) [(cid.
+1861), (cid.
+1862)], {(cid.
+1861), 1, (cid.
+1865) −2}, {(cid.
+1862), 1, (cid.
+1866) −2}]];	
+(cid.
+1847) [(cid.
+1865)] = (cid.
+1827) (cid.
+1870) (cid.
+1870) (cid.
+1853) (cid.
+1877) [(cid.
+1873), {(cid.
+1865), (cid.
+1866)}, 0];	
+		(cid.
+1833) (cid.
+1870) [(cid.
+1865)] = (cid.
+1838) (cid.
+1861) (cid.
+1871) (cid.
+1872) (cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) 3 (cid.
+1830) [(cid.
+1847) [(cid.
+1865)], (cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) (cid.
+1845) (cid.
+1872) (cid.
+1877) (cid.
+1864) (cid.
+1857) -> {(cid.
+1855) (cid.
+1867) (cid.
+1864) (cid.
+1867) (cid.
+1870) [(cid.
+1865)]}, (cid.
+1830) (cid.
+1853) (cid.
+1872) (cid.
+1853) (cid.
+1844) (cid.
+1853) (cid.
+1866) (cid.
+1859) (cid.
+1857) -> {{0,1}, {0,1}}],	
+{(cid.
+1865), {15,19,21}}];(cid.
+1842) (cid.
+1870) (cid.
+1866) = (cid.
+1840) (cid.
+1830) (cid.
+1845) (cid.
+1867) (cid.
+1864) (cid.
+1874) (cid.
+1857) [{(cid.
+1830) [(cid.
+1873) [(cid.
+1876), (cid.
+1877)], (cid.
+1876), (cid.
+1876)] + (cid.
+1830) [(cid.
+1873) [(cid.
+1876), (cid.
+1877)], (cid.
+1877), (cid.
+1877)] =:
+= −2 (cid.
+1842) (cid.
+1861) ^ 2 (cid.
+1845) (cid.
+1861) (cid.
+1866) [(cid.
+1842) (cid.
+1861) (cid.
+1876)] (cid.
+1845) (cid.
+1861) (cid.
+1866) [(cid.
+1842) (cid.
+1861) (cid.
+1877)], (cid.
+1873) [(cid.
+1876), 0] == 0, (cid.
+1873) [0, (cid.
+1877)] == 0, (cid.
+1873) [1, (cid.
+1877)] =:
+= 0, (cid.
+1873) [(cid.
+1876), 1] == 0}, (cid.
+1873), {(cid.
+1876), 0,1}, {(cid.
+1877), 0.1}];	
+(cid.
+1833) (cid.
+1870) 4 = (cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) 3 (cid.
+1830) [(cid.
+1831) (cid.
+1874) (cid.
+1853) (cid.
+1864) (cid.
+1873) (cid.
+1853) (cid.
+1872) (cid.
+1857) [(cid.
+1873) [(cid.
+1876), (cid.
+1877)] /. (Cid.
+1842) (cid.
+1870) (cid.
+1866) [[1]]], {(cid.
+1876), 0,1}, {(cid.
+1877), 0.1},(cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) (cid.
+1845) (cid.
+1872) (cid.
+1877) (cid.
+1864) (cid.
+1857) -> {(cid.
+1841) (cid.
+1868) (cid.
+1853) (cid.
+1855) (cid.
+1861) (cid.
+1872) (cid.
+1877) [0.5], (cid.
+1833) (cid.
+1870) (cid.
+1857) (cid.
+1857) (cid.
+1866)}];	
+(cid.
+1845) ℎ (cid.
+1867) (cid.
+1875) [{(cid.
+1833) (cid.
+1870) [15], (cid.
+1833) (cid.
+1870) [19], (cid.
+1833) (cid.
+1870) [21], (cid.
+1833) (cid.
+1870) 4}, (cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) (cid.
+1844) (cid.
+1853) (cid.
+1866) (cid.
+1859) (cid.
+1857) → {{0,0.5}, {0,0.5}, {0,1}},(cid.
+1827) (cid.
+1876) (cid.
+1857) (cid.
+1871) (cid.
+1838) (cid.
+1853) (cid.
+1854) (cid.
+1857) (cid.
+1864) → {(cid.
+1876), (cid.
+1877), (cid.
+1873) ((cid.
+1876), (cid.
+1877))}]Export at different values ​​of network partition stepsFigure 8:(cid.
+1873) ((cid.
+1876), (cid.
+1877)) graphs of the corresponding curves of the function (cid.
+1877) from the coordinatedepending on և (cid.
+1876) a definite coordinate ((cid.)
+1876) (cid.
+2868) = 0.5) in case of value ․(cid.
+1853) = 0; (cid.
+1854) = 1;	(cid.
+1858) (cid.
+1873) (cid.
+1866) (cid.
+1855) [(cid.
+1876) (cid.
+2879), (cid.
+1877) _] = (cid.
+1832) (cid.
+1873) (cid.
+1866) (cid.
+1855) (cid.
+1872) (cid.
+1861) (cid.
+1867) (cid.
+1866) [2 (cid.
+1842) (cid.
+1861) ^ 2 ∗ (cid.
+1845) (cid.
+1861) (cid.
+1866) [(cid.
+1842) (cid.
+1861) (cid.
+1876)] (cid.
+1845) (cid.
+1861) (cid.
+1866) [(cid.
+1842) (cid.
+1861) (cid.
+1877)]] [(cid.
+1876), (cid.
+1877)];	
+(cid.
+1830) (cid.
+1867) [(cid.
+1863) = 0; ℎ = ((cid.
+1854) - (cid.
+1853)) / ((cid:
+1865) −1); (cid.
+1857) (cid.
+1868) (cid.
+1871) = 0.001; (cid.
+1857) (cid.
+1868) (cid.
+1871) 1 = 10;	
+(cid.
+1830) (cid.
+1867) [(cid.
+1858) [(cid.
+1861), (cid.
+1862)] = (cid.
+1840) [ℎ ^ 2 ∗ (cid.
+1858) (cid.
+1873) (cid.
+1866) (cid.
+1855) [(cid.
+1853) + (cid.
+1861) ℎ, (cid.
+1853) + (cid.
+1862) ℎ]]; (cid.
+1873) [(cid.
+1861), (cid.
+1862)] = 0, {(cid.
+1861), 0, (cid.
+1865) −1}, {(cid.
+1862), 0, (cid.
+1866) −1}];	
+(cid.
+1849) ℎ (cid.
+1861) (cid.
+1864) (cid.
+1857) [(cid.
+1857) (cid.
+1868) (cid.
+1871) 1> (cid.
+1857) (cid.
+1868) (cid.
+1871), (cid.
+1863) = (cid.
+1863) +1;	
+(cid.
+1857) (cid.
+1868) (cid.
+1871) 1 = 0;	
+(cid.
+1830) (cid.
+1867) [(cid.
+1874) [(cid.
+1861), (cid.
+1862)] = 0.25 ((cid.
+1873) [(cid.
+1861) −1, (cid.
+1862)] + (cid.
+1873) [(cid.
+1861) +1, (cid.
+1862)] + (cid.
+1873) [(cid.
+1861), (cid.
+1862) −1]+ (cid.
+1873) [(cid.
+1861), (cid.
+1862) +1] + (cid.
+1858) [(cid.
+1861), (cid.
+1862)]);	
+(cid.
+1857) (cid.
+1868) = (cid.
+1827) (cid.
+1854) (cid.
+1871) [(cid.
+1874) [(cid.
+1861), (cid.
+1862)] - (cid.
+1873) [(cid.
+1861), (cid.
+1862)]];(cid.
+1857) (cid.
+1868) (cid.
+1871) 1 = (cid.
+1839) (cid.
+1853) (cid.
+1876) [(cid.
+1857) (cid.
+1868), (cid.
+1857) (cid.
+1868) (cid.
+1871) 1], {(cid.
+1861), 1, (cid.
+1865) −2}, {(cid.
+1862), 1, (cid.
+1866) −2}];	
+(cid.
+1830) (cid.
+1867) [(cid.
+1873) [(cid.
+1861), (cid.
+1862)] = (cid.
+1874) [(cid.
+1861), (cid.
+1862)], {(cid.
+1861), 1, (cid.
+1865) −2}, {(cid.
+1862), 1, (cid.
+1866) −2}]];	
+(cid.
+1827) (cid.
+1870) (cid.
+1870) (cid.
+1853) (cid.
+1877) [(cid.
+1870), {(cid.
+1865), 2}, 0];	
+(cid.
+1830) (cid.
+1867) [(cid.
+1870) [(cid.
+1861), 0] = (cid.
+1861) ∗ ℎ, {(cid.
+1861), 0, (cid.
+1865) −1}];	
+(cid.
+1830) (cid.
+1867) [(cid.
+1870) [(cid.
+1861), 1] = (cid.
+1873) [(cid.
+1865) / 2, (cid.
+1861)], {(cid.
+1861), 0, (cid.
+1865) −1}];	
+(cid.
+1848) = (cid.
+1827) (cid.
+1870) (cid.
+1870) (cid.
+1853) (cid.
+1877) [(cid.
+1870), {(cid.
+1865), 2}, 0];	
+(cid.
+1871) = (cid.
+1832) (cid.
+1861) (cid.
+1872) [(cid.
+1848), {(cid.
+1876), (cid.
+1876) ^ 2, (cid.
+1876) ^ 3, (cid.
+1876) ^ 4, (cid.
+1876) ^ 5}, (cid.
+1876)];	
+(cid.
+1868) [(cid.
+1865)] = (cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) (cid.
+3428) (cid.
+1871), {(cid.
+1876), 0,1}, (cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) (cid.
+1845) (cid.
+1872) (cid.
+1877) (cid.
+1864) (cid.
+1857) → (cid.
+3420) (cid.
+1833) (cid.
+1870) (cid.
+1853) (cid.
+1877) (cid.
+1838) (cid.
+1857) (cid.
+1874) (cid.
+1857) (cid.
+1864) (cid.
+3428) 1−10 (cid.
+1865) (cid.
+3432) (cid.
+3424) (cid.
+3432),{(cid.
+1865), {8,10,12,14,18,20,24}, {(cid.
+1866), {8,10,12,14,18,20,24}}];(cid.
+1842) (cid.
+1870) (cid.
+1866) = (cid.
+1840) (cid.
+1830) (cid.
+1845) (cid.
+1867) (cid.
+1864) (cid.
+1874) (cid.
+1857) [{(cid.
+1830) [(cid.
+1873) [(cid.
+1876), (cid.
+1877)], (cid.
+1876), (cid.
+1876)] + (cid.
+1830) [(cid.
+1873) [(cid.
+1876), (cid.
+1877)], (cid.
+1877), (cid.
+1877)] == - (cid.
+1858) (cid.
+1873) (cid.
+1866) (cid.
+1855) [(cid.
+1876), (cid.
+1877)], (cid.
+1873) [(cid.
+1876), 0] =:
+= 0, (cid.
+1873) [0, (cid.
+1877)] == 0,	(cid.
+1873) [1, (cid.
+1877)] == 0, (cid.
+1873) [(cid.
+1876), 1] == 0}, (cid.
+1873), {(cid.
+1876), 0,1}, {(cid.
+1877), 0.1}];	
+(cid.
+1833) (cid.
+1870) 2 = (cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) [(cid.
+1868) (cid.
+1876) (cid.
+1872) [0.5, (cid.
+1877)], {(cid.
+1877), 0,1}, (cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) (cid.
+1845) (cid.
+1872) (cid.
+1877) (cid.
+1864) (cid.
+1857) -> {(cid.
+1844) (cid.
+1857) (cid.
+1856), (cid.
+1846) ℎ (cid.
+1861) (cid.
+1855) (cid.
+1863) (cid.
+1866) (cid.
+1857) (cid.
+1871) (cid.
+1871) [0.008]}];	
+(cid.
+1868) (cid.
+1876) (cid.
+1872) [(cid.
+1876) _, (cid.
+1877) _] = (cid.
+1873) [(cid.
+1876), (cid.
+1877)] /. (Cid.
+1842) (cid.
+1870) (cid.
+1866) [[1]];	
+(cid.
+1845) ℎ (cid.
+1867) (cid.
+1875) [{(cid.
+1868) [8], (cid.
+1868) [10], (cid.
+1868) [12], (cid.
+1868) [14], (cid.
+1868) [18], (cid.
+1868) [20], (cid.
+1868) [24], (cid.
+1833) (cid.
+1870) 2},	(cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) (cid.
+1844) (cid.
+1853) (cid.
+1866) (cid.
+1859) (cid.
+1857) -> {{0,1}, {0,1}}](cid.
+1827) (cid.
+1876) (cid.
+1857) (cid.
+1871) (cid.
+1838) (cid.
+1853) (cid.
+1854) (cid.
+1857) (cid.
+1864) → {"(cid.
+1877) "," (cid.
+1873) ("(cid.
+1876) (cid.
+2868) ", (cid.
+1877)) "}]	
+Figure 9:Figure 9 shows the section of the solution obtained using standard Mathematica package tools in red, and the differentare displayed in shades of different values ​​of network division stepsin this case obtained by Jacob's method (cid.
+1873) ((cid.
+1876), (cid.
+1877)) corresponding to the functiongraphs of curves (cid.
+1877) depending on the coordinate և (cid.
+1876) coordinate (cid.
+1876) (cid.
+2868) = 0.5 aSo, we got (6) differential using Jacob's methodWith the help of Jacob's method we got a solution for the problem with 0․001 accuracy.
+ In addition, (cid.
+1865) = The results obtained from value 14 almost coincide.
+ And the network partition steps (cid.
+1865) = 14 և (cid.
+1865) = 16 values ​​If the Zeidel method is used (6) a differential scheme will be introduced(cid.
+1873) (cid.
+3036), (cid.
+2868) (cid.
+3038) (cid.
+2878) (cid.
+2869) = (cid.
+1873) (cid.
+3036), (cid.
+3041) (cid.
+2879) (cid.
+2869)
+(cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+3038) (cid.
+2878) (cid.
+2869) = 14 (cid.
+3435) (cid.
+1873) (cid.
+3036) (cid.
+2879) (cid.
+2869), (cid.
+3037)
+(cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364),
+(cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364)	
+(cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2868) = 0, (cid.
+1861) = 0, (cid.
+1865) −1:
+(cid.
+1862) = 0, (cid.
+1866) −1:
+(cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364), (cid.
+1873) (cid.
+2868), (cid.
+3037) (cid.
+3038) (cid.
+2878) (cid.
+2869) = (cid.
+1873) (cid.
+3040) (cid.
+2879) (cid.
+2869), (cid.
+3037)
+(cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364)
+(cid.
+3038) (cid.
+2878) (cid.
+2869) = 0, (cid.
+1861) = 0, (cid.
+1865) −1:
+(cid.
+3038) (cid.
+2878) (cid.
+2869) = 0, (cid.
+1862) = 0, (cid.
+1866) −1:
++ 2ℎ (cid.
+2870) (cid.
+2024) (cid.
+2870) sin ((cid.
+2024) (cid.
+1861) ℎ) sin ((cid.
+2024) (cid.
+1862) ℎ) (cid.
+3439)
+(cid.
+3038) (cid.
+2878) (cid.
+2869) + (cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2878) (cid.
+2869)
++ (cid.
+1873) (cid.
+3036), (cid.
+3037) (cid.
+2879) (cid.
+2869)
+(cid.
+3038) (cid.
+2878) (cid.
+2869) + (cid.
+1873) (cid.
+3036) (cid.
+2878) (cid.
+2869), (cid.
+3037)
+(cid.
+3038)
+(cid.
+3038)
+(cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364), (cid.
+1863) = 0.1.2,…
+(cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364) (cid.
+3364),
+(cid.
+1861) = 0, (cid.
+1865) −2:
+(cid.
+1862) = 0, (cid.
+1866) −2:
+in case of jack.
+as follows:approximate solution of the scheme, moreover as a result of 154 iteration stepsThe difference modulus of the values ​​of the approximated solutions in you is equalOf 0.00196907.
+The sales program is as follows:Solve the problem posed by the Zeidel method in the Mathematica environment (cid.
+1858) (cid.
+1873) (cid.
+1866) (cid.
+1855) [(cid.
+1876) _, (cid.
+1877) _] = (cid.
+1832) (cid.
+1873) (cid.
+1866) (cid.
+1855) (cid.
+1872) (cid.
+1861) (cid.
+1867) (cid.
+1866) [2 (cid.
+1842) (cid.
+1861) ^ 2 ∗ (cid.
+1845) (cid.
+1861) (cid.
+1866) [(cid.
+1842) (cid.
+1861) (cid.
+1876)] (cid.
+1845) (cid.
+1861) (cid.
+1866) [(cid.
+1842) (cid.
+1861) (cid.
+1877)]] [(cid.
+1876), (cid.
+1877)];	
+(cid.
+1865) = 17; (cid.
+1866) = 17; (cid.
+1863) = 0; ℎ = ((cid.
+1854) - (cid.
+1853)) / ((cid:
+1865) −1); (cid.
+1857) (cid.
+1868) (cid.
+1871) = 0.001; (cid.
+1857) (cid.
+1868) (cid.
+1871) 1 = 10;	
+(cid.
+1830) (cid.
+1867) [(cid.
+1875) [(cid.
+1861), (cid.
+1862)] = 0.25 ((cid.
+1873) [(cid.
+1861) −1, (cid.
+1862)] + (cid.
+1873) [(cid.
+1861) +1, (cid.
+1862)] + (cid.
+1873) [(cid.
+1861), (cid.
+1862) −1] + (cid.
+1873) [(cid.
+1861), (cid.
+1862) +1] + (cid.
+1858) [(cid.
+1861), (cid.
+1862)]);	
+(cid.
+1838) (cid.
+1861) (cid.
+1871) (cid.
+1872) (cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) 3 (cid.
+1830) [(cid.
+1847), (cid.
+1827) (cid.
+1876) (cid.
+1857) (cid.
+1871) (cid.
+1838) (cid.
+1853) (cid.
+1854) (cid.
+1857) (cid.
+1864) → {(cid.
+1876), (cid.
+1877), (cid.
+1873) ((cid.
+1876), (cid.
+1877))}, (cid.
+1830) (cid.
+1853) (cid.
+1872) (cid.
+1853) (cid.
+1844) (cid.
+1853) (cid.
+1866) (cid.
+1859) (cid.
+1857) → {{0,1}, {0,1}}](cid.
+1853) = 0; (cid.
+1854) = 1;	(cid.
+1830) (cid.
+1867) [(cid.
+1858) [(cid.
+1861), (cid.
+1862)] = (cid.
+1840) [ℎ ^ 2 ∗ (cid.
+1858) (cid.
+1873) (cid.
+1866) (cid.
+1855) [(cid.
+1853) + (cid.
+1861) ℎ, (cid.
+1853) + (cid.
+1862) ℎ]];	(cid.
+1873) [(cid.
+1861), (cid.
+1862)] = 0, {(cid.
+1861), 0, (cid.
+1865) −1}, {(cid.
+1862), 0, (cid.
+1866) −1}];	
+(cid.
+1849) ℎ (cid.
+1861) (cid.
+1864) (cid.
+1857) [(cid.
+1857) (cid.
+1868) (cid.
+1871) 1> (cid.
+1857) (cid.
+1868) (cid.
+1871), (cid.
+1863) = (cid.
+1863) +1;	
+(cid.
+1857) (cid.
+1868) (cid.
+1871) 1 = 0;	
+(cid.
+1857) (cid.
+1868) = (cid.
+1827) (cid.
+1854) (cid.
+1871) (cid.
+3427) (cid.
+1875) [(cid.
+1861), (cid.
+1862)] - (cid.
+1873) [(cid.
+1861), (cid.
+1862)] (cid.
+3431); (cid.
+1857) (cid.
+1868) (cid.
+1871) 1 = (cid.
+1839) (cid.
+1853) (cid.
+1876) [(cid.
+1857) (cid.
+1868), (cid.
+1857) (cid.
+1868) (cid.
+1871) 1];(cid.
+1873) [(cid.
+1861), (cid.
+1862)] = (cid.
+1875) [(cid.
+1861), (cid.
+1862)], {(cid.
+1861), 1, (cid.
+1865) −2}, {(cid.
+1862), 1, (cid.
+1866) −2}]];	
+(cid.
+1847) = (cid.
+1827) (cid.
+1870) (cid.
+1870) (cid.
+1853) (cid.
+1877) [(cid.
+1873), {(cid.
+1865), (cid.
+1866)}, 0];	
+(cid.
+1857) (cid.
+1865) = 1− (cid.
+1873) [8,8];	
+(cid.
+1842) (cid.
+1870) (cid.
+1861) (cid.
+1866) (cid.
+1872) ["(cid.
+1861) (cid.
+1872) (cid.
+1857) (cid.
+1870) = ", (cid.
+1863), "(cid.
+1872) (cid.
+1867) (cid.
+1864) = ", (cid.
+1857) (cid.
+1865)];	
+(cid.
+1872) (cid.
+1867) (cid.
+1864) = 0.021280220694221197:(cid.
+1861) (cid.
+1872) (cid.
+1857) (cid.
+1870) = 96,
+Figure 10The first two lines of the program provide input,then the calculation process begins, with the penultimate lineThe number of iterations in the computational process is displayed անքը the error of the resulting solution, and the last line allows you to visualize the results graphically.
+  As a result, it is displayed(cid.
+1873) ((cid.
+1876), (cid.
+1877)) the surface corresponding to the function.
+Figure 11 shows the same coordinate systemStandard tools in the Mathematica package for a given edge problemIn the case of different values ​​of surface separation ությամբ grids obtained with the help of Jacobian method (cid.
+1873) ((cid.
+1876), (cid.
+1877) quarters of the corresponding surfaces of the function to make the concordance of the resulting solution more visible.
+  The surface obtained with the standard means of the Mathematica package is shown in greenin color, and in the case of 15, 19, 21 grid separation values, the surfaces obtained by the Zeidel method are yellow, blue, respectively.in red colors.
+(cid.
+1853) = 0; (cid.
+1854) = 1;(cid.
+1857) (cid.
+1868) (cid.
+1871) 1 = 0;	
+(cid.
+1858) (cid.
+1873) (cid.
+1866) (cid.
+1855) [(cid.
+1876) _, (cid.
+1877) _] = (cid.
+1832) (cid.
+1873) (cid.
+1866) (cid.
+1855) (cid.
+1872) (cid.
+1861) (cid.
+1867) (cid.
+1866) [2 (cid.
+1842) (cid.
+1861) ^ 2 ∗ (cid.
+1845) (cid.
+1861) (cid.
+1866) [(cid.
+1842) (cid.
+1861) (cid.
+1876)] (cid.
+1845) (cid.
+1861) (cid.
+1866) [(cid.
+1842) (cid.
+1861) (cid.
+1877)]] [(cid.
+1876), (cid.
+1877)];	
+(cid.
+1855) (cid.
+1867) (cid.
+1864) (cid.
+1867) (cid.
+1870) [15] = (cid.
+1844) (cid.
+1857) (cid.
+1856); (cid.
+1855) (cid.
+1867) (cid.
+1864) (cid.
+1867) (cid.
+1870) [19] = (cid.
+1828) (cid.
+1864) (cid.
+1873) (cid.
+1857); (cid.
+1855) (cid.
+1867) (cid.
+1864) (cid.
+1867) (cid.
+1870) [21] = (cid.
+1851) (cid.
+1857) (cid.
+1864) (cid.
+1864) (cid.
+1867) (cid.
+1875);	
+(cid.
+1830) (cid.
+1867) [(cid.
+1866) = (cid.
+1865); (cid.
+1863) = 0; ℎ = ((cid.
+1854) - (cid.
+1853)) / ((cid:
+1865) −1); (cid.
+1857) (cid.
+1868) (cid.
+1871) = 0.001; (cid.
+1857) (cid.
+1868) (cid.
+1871) 1 = 10;	
+(cid.
+1830) (cid.
+1867) [(cid.
+1858) [(cid.
+1861), (cid.
+1862)] = (cid.
+1840) [ℎ ^ 2 ∗ (cid.
+1858) (cid.
+1873) (cid.
+1866) (cid.
+1855) [(cid.
+1853) + (cid.
+1861) ∗ ℎ, (cid.
+1853) + (cid.
+1862) ∗ ℎ]];(cid.
+1873) [(cid.
+1861), (cid.
+1862)] = 0, {(cid.
+1861), 0, (cid.
+1865) −1}, {(cid.
+1862), 0, (cid.
+1866) −1}];	
+(cid.
+1849) ℎ (cid.
+1861) (cid.
+1864) (cid.
+1857) [(cid.
+1857) (cid.
+1868) (cid.
+1871) 1> (cid.
+1857) (cid.
+1868) (cid.
+1871), (cid.
+1863) = (cid.
+1863) +1;	
+(cid.
+1830) (cid.
+1867) [(cid.
+1875) [(cid.
+1861), (cid.
+1862)] = 0.25 ((cid.
+1873) [(cid.
+1861) −1, (cid.
+1862)] + (cid.
+1873) [(cid.
+1861) +1, (cid.
+1862)] + (cid.
+1873) [(cid.
+1861), (cid.
+1862) −1] + (cid.
+1873) [(cid.
+1861), (cid.
+1862) +1] + (cid.
+1858) [(cid.
+1861), (cid.
+1862)]);	
+(cid.
+1857) (cid.
+1868) = (cid.
+1827) (cid.
+1854) (cid.
+1871) (cid.
+3427) (cid.
+1875) [(cid.
+1861), (cid.
+1862)] - (cid.
+1873) [(cid.
+1861), (cid.
+1862)] (cid.
+3431); (cid.
+1857) (cid.
+1868) (cid.
+1871) 1 = (cid.
+1839) (cid.
+1853) (cid.
+1876) [(cid.
+1857) (cid.
+1868), (cid.
+1857) (cid.
+1868) (cid.
+1871) 1];(cid.
+1873) [(cid.
+1861), (cid.
+1862)] = (cid.
+1875) [(cid.
+1861), (cid.
+1862)], {(cid.
+1861), 1, (cid.
+1865) −2}, {(cid.
+1862), 1, (cid.
+1866) −2}]];	
+(cid.
+1847) [(cid.
+1865)] = (cid.
+1827) (cid.
+1870) (cid.
+1870) (cid.
+1853) (cid.
+1877) [(cid.
+1873), {(cid.
+1865), (cid.
+1866)}, 0];	
+(cid.
+1833) (cid.
+1870) [(cid.
+1865)] = (cid.
+1838) (cid.
+1861) (cid.
+1871) (cid.
+1872) (cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) 3 (cid.
+1830) [(cid.
+1847) [(cid.
+1865)], (cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) (cid.
+1845) (cid.
+1872) (cid.
+1877) (cid.
+1864) (cid.
+1857) → {(cid.
+1855) (cid.
+1867) (cid.
+1864) (cid.
+1867) (cid.
+1870) [(cid.
+1865)]},(cid.
+1830) (cid.
+1853) (cid.
+1872) (cid.
+1853) (cid.
+1844) (cid.
+1853) (cid.
+1866) (cid.
+1859) (cid.
+1857) -> {{0,1}, {0,1}}], {(cid.
+1865), {15,19,21}}];	
+(cid.
+1842) (cid.
+1870) (cid.
+1866) = (cid.
+1840) (cid.
+1830) (cid.
+1845) (cid.
+1867) (cid.
+1864) (cid.
+1874) (cid.
+1857) [{(cid.
+1830) [(cid.
+1873) [(cid.
+1876), (cid.
+1877)], (cid.
+1876), (cid.
+1876)] + (cid.
+1830) [(cid.
+1873) [(cid.
+1876), (cid.
+1877)], (cid.
+1877), (cid.
+1877)] =:
+= −2 (cid.
+1842) (cid.
+1861) ^ 2 (cid.
+1845) (cid.
+1861) (cid.
+1866) [(cid.
+1842) (cid.
+1861) (cid.
+1876)] (cid.
+1845) (cid.
+1861) (cid.
+1866) [(cid.
+1842) (cid.
+1861) (cid.
+1877)], (cid.
+1873) [(cid.
+1876), 0] == 0,	(cid.
+1873) [0, (cid.
+1877)] == 0, (cid.
+1873) [1, (cid.
+1877)] == 0, (cid.
+1873) [(cid.
+1876), 1] == 0}, (cid.
+1873), {(cid.
+1876), 0,1}, {(cid.
+1877), 0.1}];	
+(cid.
+1833) (cid.
+1870) 4 = (cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) 3 (cid.
+1830) [(cid.
+1831) (cid.
+1874) (cid.
+1853) (cid.
+1864) (cid.
+1873) (cid.
+1853) (cid.
+1872) (cid.
+1857) [(cid.
+1873) [(cid.
+1876), (cid.
+1877)] /. (Cid.
+1842) (cid.
+1870) (cid.
+1866) [[1]]], {(cid.
+1876), 0,1}, {(cid.
+1877), 0.1},(cid.
+1827) (cid.
+1876) (cid.
+1857) (cid.
+1871) (cid.
+1838) (cid.
+1853) (cid.
+1854) (cid.
+1857) (cid.
+1864) → {(cid.
+1850), (cid.
+1851), (cid.
+1852)}, (cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) (cid.
+1845) (cid.
+1872) (cid.
+1877) (cid.
+1864) (cid.
+1857) → {(cid.
+1833) (cid.
+1870) (cid.
+1857) (cid.
+1857) (cid.
+1866)}];(cid.
+1845) ℎ (cid.
+1867) (cid.
+1875) [{(cid.
+1833) (cid.
+1870) [15], (cid.
+1833) (cid.
+1870) [19], (cid.
+1833) (cid.
+1870) [21], (cid.
+1833) (cid.
+1870) 4},	
+(cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) (cid.
+1844) (cid.
+1853) (cid.
+1866) (cid.
+1859) (cid.
+1857) -> {{0,0.5}, {0,0.5}, {0,1}}, (cid.
+1827) (cid.
+1876) (cid.
+1857) (cid.
+1871) (cid.
+1838) (cid.
+1853) (cid.
+1854) (cid.
+1857) (cid.
+1864) → {(cid.
+1876), (cid.
+1877), (cid.
+1873) ((cid.
+1876), (cid.
+1877))}]Fig. 11:
+Export at different values ​​of network partition steps(cid.
+1853) = 0; (cid.
+1854) = 1;	(cid.
+1873) ((cid.
+1876), (cid.
+1877)) graphs of the corresponding curves of the function (cid.
+1877) from the coordinatedepending on և (cid.
+1876) coordinate of a certain (cid.
+1876) (cid.
+2868) = in case of 0.5 value ․(cid.
+1858) (cid.
+1873) (cid.
+1866) (cid.
+1855) [(cid.
+1876) _, (cid.
+1877) _] = (cid.
+1832) (cid.
+1873) (cid.
+1866) (cid.
+1855) (cid.
+1872) (cid.
+1861) (cid.
+1867) (cid.
+1866) [2 (cid.
+1842) (cid.
+1861) ^ 2 ∗ (cid.
+1845) (cid.
+1861) (cid.
+1866) [(cid.
+1842) (cid.
+1861) (cid.
+1876)] (cid.
+1845) (cid.
+1861) (cid.
+1866) [(cid.
+1842) (cid.
+1861) (cid.
+1877)]] [(cid.
+1876), (cid.
+1877)];	
+(cid.
+1830) (cid.
+1867) [(cid.
+1863) = 0; ℎ = ((cid.
+1854) - (cid.
+1853)) / ((cid:
+1865) −1); (cid.
+1857) (cid.
+1868) (cid.
+1871) = 0.001; (cid.
+1857) (cid.
+1868) (cid.
+1871) 1 = 10;	
+						(cid.
+1830) (cid.
+1867) [(cid.
+1858) [(cid.
+1861), (cid.
+1862)] = (cid.
+1840) [ℎ ^ 2 ∗ (cid.
+1858) (cid.
+1873) (cid.
+1866) (cid.
+1855) [(cid.
+1853) + (cid.
+1861) ℎ, (cid.
+1853) + (cid.
+1862) ℎ]];(cid.
+1873) [(cid.
+1861), (cid.
+1862)] = 0, {(cid.
+1861), 0, (cid.
+1865) −1}, {(cid.
+1862), 0, (cid.
+1866) −1}];	
+																(cid.
+1849) ℎ (cid.
+1861) (cid.
+1864) (cid.
+1857) [(cid.
+1857) (cid.
+1868) (cid.
+1871) 1> (cid.
+1857) (cid.
+1868) (cid.
+1871), (cid.
+1863) = (cid.
+1863) +1; (cid.
+1857) (cid.
+1868) (cid.
+1871) 1 = 0;	
+																				(cid.
+1830) (cid.
+1867) [(cid.
+1875) [(cid.
+1861), (cid.
+1862)] = 0.25 ((cid.
+1873) [(cid.
+1861) −1, (cid.
+1862)] + (cid.
+1873) [(cid.
+1861) +1, (cid.
+1862)] + (cid.
+1873) [(cid.
+1861), (cid.
+1862) −1] +:(cid.
+1873) [(cid.
+1861), (cid.
+1862) +1] + (cid.
+1858) [(cid.
+1861), (cid.
+1862)]);	
+									(cid.
+1857) (cid.
+1868) = (cid.
+1827) (cid.
+1854) (cid.
+1871) (cid.
+3427) (cid.
+1875) [(cid.
+1861), (cid.
+1862)] - (cid.
+1873) [(cid.
+1861), (cid.
+1862)] (cid.
+3431); (cid.
+1857) (cid.
+1868) (cid.
+1871) 1 = (cid.
+1839) (cid.
+1853) (cid.
+1876) [(cid.
+1857) (cid.
+1868), (cid.
+1857) (cid.
+1868) (cid.
+1871) 1];(cid.
+1873) [(cid.
+1861), (cid.
+1862)] = (cid.
+1875) [(cid.
+1861), (cid.
+1862)], {(cid.
+1861), 1, (cid.
+1865) −2}, {(cid.
+1862), 1, (cid.
+1866) −2}]];	
+(cid.
+1827) (cid.
+1870) (cid.
+1870) (cid.
+1853) (cid.
+1877) [(cid.
+1870), {(cid.
+1865), 2}, 0];	
+(cid.
+1830) (cid.
+1867) [(cid.
+1870) [(cid.
+1861), 0] = (cid.
+1861) ∗ ℎ, {(cid.
+1861), 0, (cid.
+1865) −1}];	
+(cid.
+1830) (cid.
+1867) [(cid.
+1870) [(cid.
+1861), 1] = (cid.
+1873) [(cid.
+1865) / 2, (cid.
+1861)], {(cid.
+1861), 0, (cid.
+1865) −1}];	
+(cid.
+1848) = (cid.
+1827) (cid.
+1870) (cid.
+1870) (cid.
+1853) (cid.
+1877) [(cid.
+1870), {(cid.
+1865), 2}, 0];	
+(cid.
+1871) = (cid.
+1832) (cid.
+1861) (cid.
+1872) [(cid.
+1848), {(cid.
+1876), (cid.
+1876) ^ 2, (cid.
+1876) ^ 3, (cid.
+1876) ^ 4, (cid.
+1876) ^ 5}, (cid.
+1876)];	
+(cid.
+1868) [(cid.
+1865)] = (cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) (cid.
+3428) (cid.
+1871), {(cid.
+1876), 0,1}, (cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) (cid.
+1845) (cid.
+1872) (cid.
+1877) (cid.
+1864) (cid.
+1857) → (cid.
+3420) (cid.
+1833) (cid.
+1870) (cid.
+1853) (cid.
+1877) (cid.
+1838) (cid.
+1857) (cid.
+1874) (cid.
+1857) (cid.
+1864) (cid.
+3428) 1−10 (cid.
+1865) (cid.
+3432) (cid.
+3424) (cid.
+3432),(cid.
+3419) (cid.
+1865), {8,10,12,14,18,20,24} (cid.
+3423), {(cid.
+1866), {8,10,12,14,18,20,24}}];	
+(cid.
+1842) (cid.
+1870) (cid.
+1866) = (cid.
+1840) (cid.
+1830) (cid.
+1845) (cid.
+1867) (cid.
+1864) (cid.
+1874) (cid.
+1857) [{(cid.
+1830) [(cid.
+1873) [(cid.
+1876), (cid.
+1877)], (cid.
+1876), (cid.
+1876)] + (cid.
+1830) [(cid.
+1873) [(cid.
+1876), (cid.
+1877)], (cid.
+1877), (cid.
+1877)] == - (cid.
+1858) (cid.
+1873) (cid.
+1866) (cid.
+1855) [(cid.
+1876), (cid.
+1877)], (cid.
+1873) [(cid.
+1876), 0] =:
+= 0, (cid.
+1873) [0, (cid.
+1877)] == 0,(cid.
+1873) [1, (cid.
+1877)] == 0, (cid.
+1873) [(cid.
+1876), 1] == 0}, (cid.
+1873), {(cid.
+1876), 0,1}, {(cid.
+1877), 0.1}];	
+(cid.
+1833) (cid.
+1870) 2 = (cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) [(cid.
+1868) (cid.
+1876) (cid.
+1872) [0.5, (cid.
+1877)], {(cid.
+1877), 0,1}, (cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) (cid.
+1845) (cid.
+1872) (cid.
+1877) (cid.
+1864) (cid.
+1857) -> {(cid.
+1844) (cid.
+1857) (cid.
+1856), (cid.
+1846) ℎ (cid.
+1861) (cid.
+1855) (cid.
+1863) (cid.
+1866) (cid.
+1857) (cid.
+1871) (cid.
+1871) [0.008]}];	
+(cid.
+1845) ℎ (cid.
+1867) (cid.
+1875) [{(cid.
+1868) [8], (cid.
+1868) [10], (cid.
+1868) [12], (cid.
+1868) [14], (cid.
+1868) [18], (cid.
+1868) [20], (cid.
+1868) [24], (cid.
+1833) (cid.
+1870) 2},(cid.
+1842) (cid.
+1864) (cid.
+1867) (cid.
+1872) (cid.
+1844) (cid.
+1853) (cid.
+1866) (cid.
+1859) (cid.
+1857) -> (cid.
+3419) {0,1}, {0,1} (cid.
+3423), {"(cid.
+1877) "," (cid.
+1873) ((cid.
+1876) (cid.
+2868), (cid.
+1877)) "}]	
+(cid.
+1868) (cid.
+1876) (cid.
+1872) [(cid.
+1876) _, (cid.
+1877) _] = (cid.
+1873) [(cid.
+1876), (cid.
+1877)] /. (Cid.
+1842) (cid.
+1870) (cid.
+1866) [[1]];	
+Figure 12Using the standard tools in the Mathematica package in Figure 12The section of the resulting solution is shown in red, and this is differentare displayed in shades of different values ​​of network division stepsin case of value.
+in this case obtained by the Zeidel method (cid.
+1873) ((cid.
+1876), (cid.
+1877)) corresponding to the functiongraphs of curves (cid.
+1877) depending on the coordinate և (cid.
+1876) coordinate (cid.
+1876) (cid.
+2868) = 0.5:Using the Zeidel method, we obtained an approximate (6) differential schemesolution with 0․001 accuracy as a result of 96 iteration steps.
+Separation steps (cid.
+1865) = From the value obtained from the Zeidel method obtained from 10 values, we conclude that in the case of the observed problem, the solution obtained using the Zeidel methodIt converges faster than that of Jacob's method.
+The results are almost identical.
+ And in the case of 14 և 16 values ​​approximatedThe modulus of the difference values ​​of the two solutions is equal to 0.00086.
+7. Conclusion.
+  A new methodological approach is shown in the work, composed of elliptical type differential equationsvisual explanatory schemes of Zeidel և Jacob's methods for solving finite differences, which is very usefulfor learners.
+In addition, calculation programs have been developed, which not only provide the calculation process for solving problems by the mentioned methods:By providing the desired accuracy, they allow graphic visualization of the results, which is valuable from the point of view of "digital methods" and "pedagogical methodological method".
+ These programs are quite generalև allow the implementation of solutions to other peripheral problems onlyby changing the input data.
+The work is of great methodological importance է can be appliedin the university educational process, how can he serve scientifically?for researchers.
+Literature 9. Litvinenko VP, Litvinenko ZV Cutting of linear electric pipes.
+learn пособие. Воронеж.
+ GOUVPO «Воронежскису государственный τεχνчес10. Аладьев В. З., Шишков М. Л. Introduction to the middle package Mathematica 2.2 M osqua.
+13. Sargsyan NAPP Graphic elements of Mathematica package և them
+teaching.
+ Methodical work.
+ Gyumri.
+ Հեղ. հրատ.
+ 2014.
+ 88 pages.
+14. Manukyan SSSS Computational programs of certain integrals in Mathematica environment according to rectangles, tables և parabolas
+resolutions.
+  Materials of the student scientific session.
+  Gyumri.
+Eldorado Publishing House.
+ 2013.
+ Page 10-15.
+15. Sargsyan A. H., Alexanyan V. A. (cid.
+2196) a rod consisting of homogeneous partsthe problem of the heat field.
+  Calculation program in Mathematica environment.
+ GSPI "Scientific Bulletin" Journal.
+ 2015.
+ N1, issue A.
+Pages 42-56.
+16. Sargsyan A. H., Sargsyan N. H. The use of step series for the calculation of definite integral integrals.
+ Computational programs in Mathematica environment.
+ GSPI "Scientific Bulletin" Journal.
+2015.
+ N1, issue B.
+ Pages 128-136.
+17. Sargsyan A. H., Harutyunyan K. A. Application of step series
+in approximate calculations.
+ Calculation program in Mathematica environment.
+ Journal of "Scientific Bulletin".
+ 2017.
+  N1, issue B.
+ Pages 123-136.
+18. Ovchinnikova S.N. Численные metodы. Part 2. Rostov-on-Don.

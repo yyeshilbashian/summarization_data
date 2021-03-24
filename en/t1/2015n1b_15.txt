@@ -1,0 +1,171 @@
+Various books on fascinating mathematics often ask problems for determining the shortest paths through the surfaces of polynomials or different spatial bodies, which are sometimesare called "Ant-spider" or "Locust-spider" problems.
+Why are these problems called insects?
+There are several main reasons.1. To make it more interesting and understandable.
+2. It is more convenient to consider these insects as a material point.
+3. Insects can move freely in different sessions of the polynomial.
+This paper not only addresses the problems of determining the simplest classical shortest paths, but also considers the mostproblems of a general nature.
+In our work we have tried to make possible interesting generalizations և to consider practical problems.
+The first section looks at the most proposed in various geometry textbooks և fascinating math textbookssimple problems.
+  Used to solve similar problems the following method.It is necessary to depict the different spans of spatial bodies և to find the shortest path connecting the given two points smoothlyon the stretch.
+       In the second and third sections, more serious and general problems are considered, when it is necessary to consider different stretches.In some cases, the shortest path is not always obtained by sitting.
+The cases of all possible arrangements on the locust և spider's face-to-face sessions were observed դեպքում in each casethe shortest paths by observing the corresponding stretches.
+The work is interesting, instructive for both schoolchildren and teachers և architects, it is necessary even if simpleIn such cases, make a comprehensive analysis և observepositions of possible different extensions.
+I. In this section we will study in textbooks և fascinatingThe simplest, most introductory set in the problem booksproblem groups.
+Problem 1.1 [1] Find the shortest unit area of ​​a cubethe length of the path that connects the opposite vertices of the cube (Fig. 1).
+Figure 1:Solution.
+ Because with each session the roadshave the same length, so it is enough to show that the cube is stretched in pairs, in each case the shortest path is obtained.with adjacent sessions (Fig. 2).
+For example, կարճ the shortest way to cross side 1 would be ․𝐴𝐶1 = √4 + 1 = √5.
+Answer: ։5.
+Figure 2:Problem 1.2 [1] The side of a regular quadrilateral pyramid 𝑏 is andThe flat corners adjacent to the top: 𝛼.
+ Find it on the surface of the pyramidthe length of the shortest path, the beginning and end of which are the same at the baseis the top և it crosses all the sessions of the pyramid.
+  Discuss depending on:all possible cases.
+Solution.
+  Let's illustrate the shortest waylateral surface extension (Fig. 3).
+Figure 3:From ∆𝑆𝐴𝐴1 to ∠𝐴𝑆𝐴1 = 4𝛼.
+The following cases are possible:If 4𝛼 <1800, ie 𝛼 <450, then 𝐴𝐴1
+If 𝛼 = 450, then 𝐴𝐴1 = 2𝑏.
+If 𝛼> 450, then the shortest path of the surface is 2𝑏,since հարթ1 does not intersect the side of the pyramid in a flat stretch area.
+Answer: if 𝛼 <450, then the shortest path is 2𝑏𝑠𝑖𝑛2𝛼,               if ≥ ≥ 450, then the shortest way is 2𝑏.
+Problem 1.3 [1] The base radius of the cone is 2𝑎 and the parent radius is 6𝑎.
+  Find the conethe shortest path along the surface that passes through the parent endpoint of the foundation և intersects all the otherparents.
+Solution.
+  Draw the lateral surface of the cone (Fig. 4) ևCalculate the length of segment 𝐴𝐴1, which will be the shortest path: 𝑙𝐴𝐴1̌ = 2𝜋𝑟 = 4𝜋𝑎Figure 4:1800 ∙ 𝛼 ⇒ 𝛼 = 1200 ∆𝑃𝐴𝐴 ∆𝑃𝐴𝐴1 according to the cosine theorem 𝐴𝐴1 = 6√3𝑎.
+Problem 1.4 [2] The radius of the base of the cylinder is,, the height is ℎ.
+ Find the cylinderthe length of the path on the surface that connects the different2 points of the circles of the bases.
+Solution.
+  Draw the lateral surface of the cylinder (Fig. 5) ևTo find the shortest path, connect points A և B of the stretchin a straight line.
+If 𝑥 <𝜋𝑟, then the shortest path is obtained                                                                      Figure 5:𝑙short = 𝐴𝐵 = √ℎ2 + 𝑥2.
+If 𝑥 = 𝜋𝑟, then 𝐴𝐵 = 𝐴′𝐵 = 𝑙short = √ℎ2 + 𝜋2𝑟2.
+If 𝑥> 𝜋𝑟, then the shortest path is obtained                                   𝑙short = 𝐴′𝐵 = √ℎ2 + (2𝜋𝑟 - 𝑥) 2.
+Problem 1.5 The spider is standing in the C corner of the room ceilingThe ant is sleeping in the K corner of the floor.
+ What way through the walls of the room?He must choose the spider to reach the ant by the shortest distance (Fig. 6).
+Solution.
+  That is, the spider և the ant are sitting in a rectangleon opposite peaks.
+The shortest possible routes cross the FG rib, or the DF rib, or EG rib, each of which intersects The shortest routes will be:1 ․ Via FG (Fig. 7)
+Figure 6:floor:Fig. 7:
+𝐾𝐶2 = (𝑎 + 𝑏) 2 + 𝑐2, respectively2 ․ By EG և DF paths (Fig. 8)
+item:
+k:2 = (𝑎 + 𝑐) 2 + 𝑏2, respectively2 = (𝑏 + 𝑐) 2 + 𝑎2, respectively Fig. 8:
+The relations (1), (2) և (3) differ only in the last summands.
+ 2ab, 2ac, 2bc products can accept different valuesdepending on the size of the room a, b, c, ie the shortest paths depend on the size of the room դեպքում in case of certain values ​​that shortestThe roads will be either CK, or 𝐾𝐶1, or երից2 one of the tracks.
+  fractions.
+Dividing 2ab, 2ac և 2bc by 2abc, we getConsider the following 3 cases.1․If a> b և a> c, then will be the smallestin this case there will be 𝐾𝐶2 path (3).
+, then the smallest of that2 ․ If b> a և b> c, the shortest path will be 𝐾𝐶1.
+3 ․ If c> a և c> b, then the shortest path will be։.
+That is, the shortest path will cross the longest side.
+II. Most surprising are the problems in which the shortest path is obtained not in the span of two adjacent sessions, but in three adjacent ones.
+by bypassing the sessions.
+These problems are more common, how can they be done?affordable but at the same time interesting privatizationas well as various generalizations.
+In this section, we will look at two main problem classes: from the private (input) problem to all possible generalizations.1 ․ When the points belong to the opposite sides of the cube, then:
+We generalize in the case of a rectangle.
+2 ․ When one of the points belongs to one of the cubes and the other
+which side of the opposite session, we generalize in the case of a rectangle.
+Problem 2.1 [3] (input)Given a cube of ABCDA1B1C1D1 with point K on its side ABis marked so that AK.
+KB = 2.
+1 (Fig. 9).
+ Point M on rib D1C1 is marked as:that D1M = a.
+ Arbitrary 𝑎 ∈ [0; 1] determine the value of the cube on the surface
+The length of the shortest path connecting the points K և M.
+Solution.
+  Determine the shortest paths connecting the points K և M on the surface:1. AA1B1B և A1B1C1D1 sessions,Figure 9:2.AA1B1B, AA1D1D և A1B1C1D1 sessions,3.AA1B1B, BB1C1C և A1B1C1D1 sessions.
+1. It is obvious that AA1B1B և A1B1C1D1 The shortest session is K և M The KM segment connecting the points on the stretch (Fig. 10) in a straight line will be:                     + 4.
+                                  (4)2. AA1B1B, AA1D1D և A1B1C1D1: the shortest way with sessions to decide AA1B1B nite mirror image: 𝐴𝐴1𝐴 || 𝐵 ||: (Fig. 10) և 𝐾 ||: 𝐴 𝐴 || 𝐵 ||: ,
+moreover 𝐵 || 𝐾 || = 𝐵𝐾 =:
+ 𝐾 || 𝑀 will be in a side session the shortest way.  .
+Figure 10+ (1 + 𝑎) 2.
+                                 (5)3 ․ In the same way the shortest path AA1B1B, BB1C1C և A1B1C1D1
+will be in sessions      + (2 - 𝑎) 2.
+                                   (6)Comparing the expressions 𝐾𝑀, 𝐾 | 𝑀, 𝐾 || ՝, we will get: 𝐾 || 𝑀 ≤ 𝑀𝐾, when 𝑎 ≤:
+   և 𝑀𝐾 ≤ 𝐾 | 𝑀 when 𝑎 ≤:
+.
+Answer: if ∈ ∈ [0,
+] the shortest will be 𝐾 || 𝑀 = √
+               if ∈ ∈ [
+] the shortest will be 𝐾𝑀 = √ (
+              if:, 1] the shortest will be 𝐾 | 𝑀 = √
++ (2 - 𝑎) 2.
+Problem 2.2 𝐴𝐵𝐶𝐷𝐴1𝐵1𝐶1𝐷1 is givena cube with point K on the side ABso that AK.
+KB = a.
+(1-a).
+  :1𝐷1 on the rib M:The point is marked so that 𝐷1𝑀.
+ 𝑀𝐶1 = 𝑏.
+ (1 - 𝑏),a, b∈ [0,1].
+ Determine the surface of the cubeFig.11:The length of the shortest path connecting the points K և M (Fig. 11).
+Solution.
+ Roads possiblecases pass (Fig. 12).1 ․ Նիստ1𝐵𝐵1 և 𝐴1𝐵1𝐶1𝐷1 sessions
+2 ․ With իստ1𝐵𝐵1, 𝐴𝐴1𝐷𝐷1 𝐴 𝐴1𝐵1𝐶1𝐷2 sessions
+3 ․ Նիստ2𝐵𝐵2, 𝐵𝐵1𝐶1𝐶 𝐴 𝐴1𝐵1𝐶1𝐷1 sessions
+Fig.12:Therefore 𝑙2 = [
+𝑙short =:
+  𝐾2𝑀 = √ (2 - 𝑎) 2 + (2 - 𝑏) 2, when 𝑎 + 𝑏 ≥ 1 +
+𝐾𝑀 = √ (𝑎 - 𝑏) 2 + 4, when 1 +
+  𝐾1𝑀 = √ (1 + 𝑎) 2 + (1 + 𝑏) 2, when 𝑎 + 𝑏 ≥ 1 - 𝑎𝑏.
+Problem 2.3 On one of the two opposite sides of a rectangleThe locust is standing, m.
+at point n, the spider on the other p.
+q:in relation to the point.
+  What is the shortest route?the spider to reach the locust on the surface.
+Solution.
+ This problem is brought to the combination of problem 1.2 և problem 1.5,but it does not turn out to be very simple in the general case, as in this case it is necessary to take into account the measurements a, b, c of the rectangle.
+III. The next most difficult lesson is
+In the case of a spider fixed on the ribs in the opposite sessionThe study of the arbitrary positions of the locust ումը the determination of the shortest path.
+Problem 3.1 Given 𝐴𝐵𝐶𝐷𝐴1𝐵1𝐶1𝐷1 unit of a cube with K on the side ABpoint it divides AK.
+KB = a.
+(1-a).
+ The point M is marked on the session 𝐴1 M1𝐶1𝐷1, which:Projections on 𝐴1𝐵1 և 𝐴1𝐷1divides accordingly (1-b).
+b և:c.
+(1-c) relations.
+  Find K և M:the shortest way to connect the dotswith the surface of a cube (Fig. 13).
+Solution.
+ The road crosses.1 ․ Նիստ1𝐵𝐵1 և 𝐴1𝐵1𝐶1𝐷1 sessions
+2 ․ Նիստ1𝐵𝐵1, 𝐵𝐵1𝐶𝐶1 𝐴 𝐴1𝐵1𝐶1𝐷1 sessions
+3 ․ With իստ1𝐵𝐵1, 𝐴1𝐵1𝐶1𝐷1 և 𝐴𝐴1𝐷𝐷1 sessions
+Fig.13:Fig.14:ճshort:
+if:  𝑎𝑏 + 𝑎𝑐 - 𝑐 + 𝑏 ≥ 0 ⇒ 𝐾𝑀 <𝐾1𝑀, then 𝑙short = 𝐾𝑀.
+𝐾1𝑀2 - 𝐾2𝑀2 = 4𝑎𝑐 + 6𝑏 + 2𝑎 - 2𝑐 - 4, if: 2𝑎𝑐 + 3𝑏 + 𝑎 - 𝑐 - 2 ≥ 0 𝐾 𝐾1𝑀> 𝐾2𝑀, then 𝑙short = 𝐾2𝑀.
+𝐾2𝑀2 - 𝐾𝑀2 = −2𝑎𝑐 - 2𝑎 - 4𝑏 + 4 + 2𝑎𝑏, if: 𝑎𝑐 + 𝑎 + 2𝑏 - 2 - ≥ ≥ 0 𝐾𝑀 𝐾𝑀> 𝐾2𝑀, then 𝑙short = 𝐾2𝑀.
+Problem 3.2 Given a cube 𝐴𝐵𝐶𝐷𝐴1𝐵1𝐶1𝐷1 with AB և BC on the sides K և𝐴𝐵.
+  Find the position of point MThe points L are chosen so that 𝐵𝐾 = 𝐶𝐿 =
+On the plane 𝐴1𝐵1𝐶1𝐷1, the shortest path is from M to Kis equal to the shortest path from M to L (Fig. 15).
+Fig. 15:
+Solution.
+ To shorten the path connecting the points K ով M with a basket A1B1Find, draw the cube ABA1B1The extension of the seats A1B1C1D1 so that they lie in the same plane ¥ The extension given in Fig. 16 is shown in soliddotted և dots are also shownThey are like a cube. "
+Figure 16:The shortest way to cross the side of A1B1 will be MK.
+  In order to:to find the shortest path intersecting the ribs BB1 և B1C1, we need another waydepict the spread.
+ The picture shows the dots marked with dotted lineswith barcodes.
+ And finally, to find the intersecting sides of AA1 և A1D1The shortest path, you have to depict this stretch with dotted linesdots with double barcodes.
+  Therefore, the shortest path connecting the points M և K to the surface of the cube will be one of MK, K / M, K // M.
+The perpendicular bisector of K / K passes through point B1 և intersects D1C1 such that Eto the point that: .
+Thus, if point M is inside triangle EC1B1, then MK /will be the shortest distance.
+  In the same way is the point F of KK //with a median dividing D1C1 by 1.
+In 5 ratios.
+ If the point M:is inside the triangle A1D1F, then MK // will be the shortest distance.
+ In other cases, MK is the smallest.
+Consider the points L, L /, L // և U, V in the same way by dividing it by A1D11.
+2:և 1.
+In 5 ratios.
+Fig ․17Thus A1B1C1D1 was divided into 8 parts, for each of themThe shortest path to the cube surface is easily locatedconnecting point M to points K և L.
+ For HNOB1, the lengths of these paths are approximately equal to MK և ML.
+ Therefore, if M is inside HNOB1 և belongs to the search pointsgeometrically, then belongs to the KL's orthogonal.
+In the same way, the geometric location of the points sought in OC1B1 is the median of LK /.
+ Now we can construct the geometric position of the points M so that the area of ​​the cube connecting the points M և K is the shortest path equal to the area of ​​the cube connecting the points M և Lon the shortest path (PQ perpendicular to KL /, QR to KL, RSKL /, ST is K // L /).
+Problem 3.3 Given on the side AB of 𝐴𝐵𝐶𝐷𝐴1𝐵1𝐶1𝐷1 cube M և 𝐴1𝐵1𝐶1𝐷1N points on the session (Fig. 18).
+  Find the area of ​​the cube M և NThe shortest way to connect the dots.
+Solution.
+ You need a cube for thatdraw on the plane with 3 eggs (Fig. 19).
+It can be taken from point N to a plane parallel to 𝐴𝐴1𝐵𝐵1, which 𝐴1𝐵1, 𝐶1𝐵1,
+Will cross sections 𝐴𝐷, երում at points 𝐷3, 𝐶3, 𝐷2, 𝐶2 respectively և solve the problemFor 𝐴𝐴1𝐵𝐵1𝐷3𝐶3𝐷2𝐶2 (as the road will not pass through 𝐷3𝐶3𝐷2𝐶2).
+Fig. :18Figure 19:Calculating the length of each of the sections 𝑀1𝑁, 𝑀2𝑁, 𝑀3𝑁։ taking the smallest, we get the shortest length of the paths connecting the points M և N.
+Conclusion. Thus, in our work we tried to present not only textbook-type, but also more complex types of problem-based problems through a variety of problems, by proposing
+the solutions in each case.
+ In the problems of each separate type group, all possible cases were discussedThe shortest paths were presented in almost all cases through general formulas.
+  The work is so interesting that it requires a multifaceted approach, depending on the different positions of the points.  which we do not encounter in simple textbook problems.
+Literature 1. Atanasyan L. S, Butuzov V. F., Geometry 10.
+  Yerevan, "Astghikbookstore ", 2001, 142 pages.
+2. Gottman G. Mr. Stereometric tasks and methods and their solutions. M.
+  Publisherь4. Gardner M. Mathematical nonsense and stretching. M.
+ Peace. 1999. 127c.
+5. Rademacher G., Teplitz O. Stones and figures. Opыты математического мышления.
+4th ed. M.
+ Science. 1966. 327 с ․
+Information about the authors:Mutafyan Manyak Norik- PhysMath ․ know ․ candidate, associate professor, GSPI Chair of Mathematics Analysis, Department of Mathematics Teaching Methods, "Photon" college, E-mail.
+ mmutafyan@mail.ru:Hambardzumyan Arsen Aray- student of XII F / M 1 grade of "Photon" college, E-mail:

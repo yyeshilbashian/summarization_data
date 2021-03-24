@@ -1,0 +1,251 @@
+The article gives a formula for the optimal amount of source energyfor calculation և it is recommended to get that energy in practiceto use the isotope Am-241 using appropriate radiators (targets).
+The determination of mineral content in minerals during the exploration, exploration and extraction of minerals is mainly done by expensive, slow geological methods, using chemical analysis.
+  However, to expedite the exploration and development of the mineNew, faster and cheaper methods are needed for that.
+ Nuclear geophysical methods, in particular the X-ray radiometric method (X-ray method), which is based on X-ray characteristic of the elements, are promising for the solution of this important demographic-economic problem.on radiation excitation առ registration.
+  One of the important features of this method is the determination of the content of useful elementsin natural installation conditions: in mineral mass, expansions, wells, fodder, mountain excavations, etc.
+ Marked:Mineral mineralization in objects is mainly distributed by other means of inclusions, enclosures, veins, ie naturalThe mineral is a heterogeneous, diverse environment.
+Measurement during sampling of various minerals by RRMThe results are significantly affected by the so-called dispersion effect, which is taken into account in the structural Tx coefficient.through [3, 4, 5].
+The magnitude of the structural coefficient depends on the mineral content, the size of its grains նրանց their distribution in the environmenthorses (laws), effective atomic numbers of enclosing rocks, as well as the primary radioactive energy source usedgreatness.
+When taking measurements under natural conditions, the mentioned factors determining the diversity are not regulated, ie:They present themselves with their natural values.
+  The only factor that can beis the energy of the radioactive source used.
+Consequently reducing the effect of the diversity effect(or:elimination) problem we tried to solve the primary radioactive sourceby choosing the amount of energy.
+The greater the value of the Tx coefficient taking into account the effect of configuration, the greater its effect, andIn the absence of that effect, its value is sought by one.
+ Therefore, the optimal amount of energy of the primary radioactive sourcewe will search based on the condition Tx = 1.
+T (cid.
+2934) = (cid.
+2972) (cid.
+3365) (cid.
+3168) (cid.
+2878) (cid.
+2972) (cid.
+3365) (cid.
+3182) (cid.
+2972) (cid.
+3365) (cid.
+3168) (cid.
+3133) (cid.
+2927) ×:
+With binomial distribution of inhomogeneities, the structural Tx coefficient for a coarse-grained mineral is calculated.with the following formula [5].where q is the content of the element to be determined, μ is the linear attenuationcoefficients for primary (j) և characteristic (x) for rays in the mineral medium (A) ներում in enclosing rocks (H), ρA - grain density, D - grain size.
+(cid.
+2870) (cid.
+2922) (cid.
+2924) ((cid.
+2869) (cid.
+2879) (cid.
+2927)) (cid.
+2879) (cid.
+2977) (cid.
+3133) (cid.
+2888) ((cid.
+2869) (cid.
+2879) (cid.
+2927)) ((cid.
+2972) (cid.
+3365) (cid.
+3168) (cid.
+3140) (cid.
+2878) (cid.
+2972) (cid.
+3365) (cid.
+3182) (cid.
+3140)), (1)Expressing the linear attenuation coefficients with the atomic number Z of the medium λ with the corresponding wavelength λ[1] μ (cid.
+3364) = K × Z (cid.
+2871), (cid.
+2877) (cid.
+2872) × λ (cid.
+2871) by formula, as well as grain sizes(cid.
+2870) (cid.
+2922) (cid.
+2924) ((cid.
+2869) (cid.
+2879) (cid.
+2927)) (cid.
+2879) (cid.
+2870) (cid.
+3344) (cid.
+3250) (cid.
+3344) (cid.
+3257) × ((cid.
+2869) (cid.
+2879) (cid.
+2927)), (2)for limiting the penetration of rays into the environmentDepth: For Tx (1) we get:ρ (cid.
+2892) (cid.
+3435) μ (cid.
+3364) (cid.
+2920) (cid.
+2892) + μ (cid.
+3364) (cid.
+2934) (cid.
+2892) (cid.
+3439)where ρH is the density of the surrounding rocks and Zэφ is the environmentis the effective atomic number, which is determined by the following formula:T (cid.
+3051) = (cid.
+3027) эֆ (cid.
+3119), (cid.
+3125) (cid.
+3120) ((cid.
+3090) (cid.
+3285) (cid.
+3119) (cid.
+2878) (cid.
+3090) (cid.
+3299) (cid.
+3119))
+(cid.
+3027) (cid.
+3250) (cid.
+3119), (cid.
+3125) (cid.
+3120) × (cid.
+3090) (cid.
+3285) (cid.
+3119) × (cid.
+3044) ×:
+(cid.
+2922) (cid.
+2924) ((cid.
+2869) (cid.
+2879) (cid.
+2927))
+(cid.
+1852) эф = (cid.
+3495) (cid.
+1869) (cid.
+1852) (cid.
+3002) (cid.
+2871) + (1− (cid.
+1869)) (cid.
+1852) (cid.
+3009) (cid.
+2871)
+(cid.
+1846) (cid.
+3051) = (cid.
+3027) эֆ (cid.
+3119), (cid.
+3125) (cid.
+3120) ((cid.
+3006) (cid.
+3299) (cid.
+3119) (cid.
+2878) (cid.
+3006) (cid.
+3285) (cid.
+3119))
+(cid.
+3027) (cid.
+3250) (cid.
+3119), (cid.
+3125) (cid.
+3120) × (cid.
+3044) (cid.
+3006) (cid.
+3299) (cid.
+3119) ×:
+(cid.
+2922) (cid.
+2924) ((cid.
+2869) (cid.
+2879) (cid.
+2927))
+.
+(cid.
+2922) (cid.
+2924) ((cid.
+2869) (cid.
+2879) (cid.
+2927))
+By passing the wavelength of the ray to its energy λ = 12,38 / E with the well-known expression [1], the expression for Tx (2) will take the following form:(cid.
+2870) (cid.
+2922) (cid.
+2924) ((cid.
+2869) (cid.
+2879) (cid.
+2927)) (cid.
+2879) (cid.
+2870) (cid.
+3344) (cid.
+3250) (cid.
+3344) (cid.
+3257) × ((cid.
+2869) (cid.
+2879) (cid.
+2927)), (3)where Ej is the energy of the primary radioactive source and Ex is the determinantthe energy of the characteristic ray of the element.
+From the condition Tx = 1, in which case the effect of diversity is significantdecreases (or disappears), from (3) we get the following expression for the Ej energy of the primary radioactive source.
+(cid.
+1831) (cid.
+3037) = (cid.
+1831) (cid.
+3051) (cid.
+3495) 2 (cid.
+1869) ((cid.
+3027) (cid.
+3250) (cid.
+3027) эֆ) (cid.
+2871), (cid.
+2877) (cid.
+2872) × [1− (cid.
+3096) (cid.
+3250) (cid.
+3096) (cid.
+3257) × (cid.
+2869) (cid.
+2879) (cid.
+3044)
+(cid.
+2922) (cid.
+2924) ((cid.
+2869) (cid.
+2879) (cid.
+2927))]
+(cid.
+3119)
+This expression makes it possible to calculate the energy of the primary radioactive source during X-ray radiometric sampling of a particular element in a variety of environments.greatness.
+  However, from a theoretical to a practical point of view, it is expedient not to use the absolute amount of primary energy, butits relation to the K-edge EK energy of the absorbed element being determined.
+Considering that for most metals the expression EK,1,12Ex, (4) will take the following form:(cid.
+3006) (cid.
+3285) (cid.
+3006) (cid.
+3260) = 0.9 (cid.
+3495) 2 (cid.
+1869) ((cid.
+3027) (cid.
+3250) (cid.
+3027) эֆ) (cid.
+2871), (cid.
+2877) (cid.
+2872) × [1− (cid.
+3096) (cid.
+3250) (cid.
+3096) (cid.
+3257) × (cid.
+2869) (cid.
+2879) (cid.
+3044)
+(cid.
+3119)
+The results of the theoretical calculations made with this expression are presented in fig. In 1.
+It is clear from the picture that the Ej / EK ratio is so large,how different are the determinant element (ZA) և filler (ZH)atomic numbers.
+Thus, for example, a radioactive source is optimal for the determination of molybdenum in a complex medium having atomic number ZH = 25.whose energy is twice the energy of the K-terminus of molybdenum, andIn case of ZH = 13 - 3 times.
+Fig. 1. K-absorption edge of the primary և determinable element of a radioactive source
+The dependence of the energy ratio (Ej / EK) on the atomic element to be determined(ZA) number in different environments (ZH) և different contents (q)in case. q (%) `1-1; 2-5; 3-10; 4-20; 5-30; 6-50.
+It follows that this or that particular problem of samplingDuring the solution, it will be necessary to have radioactive sources with appropriate energies.
+ Existing (now:It is not possible to provide it with radioactive sourcesHowever, it is clear that having all that energy can not be economically efficient.
+We see the solution to this problem in X-raysApplication of different secondary emitters (targets) in sampling devices with one primary radioactive sourcein.
+ As the main radioactive source, we suggest usingThe isotope Am-241.
+  Intense flow of photons with a well expressed 60 kV energy in the primary spectrum և Half-fraction T1 / 2 = 460 years, using secondary radiators, makes itare effective և, so to speak, "forever".
+In order to obtain a clear spectrum of illumination when selecting a secondary radiator (target), its excitation K-edge energy is required.should be 2-2.5 times smaller than the primary source energy.
+  AccordinglyThe following elements should be used as targets with Am241 for the sampling of the required amount of energy from a radiator calculated according to the above formula (Table 1).
+Recommended with Am-241 primary radioactive sourceRadiant elements (targets)Sampling:elementCopperMolybdenumRadiatorelements:(targets)Palladium (Pd96)Silver (Ag47)Cadmium (Cd48)Tin (Sn50)Jarir (Sb51)Tellurium (Te52)Irrigation K edge (kev)Table 1:Description:the beamEKα1 (Kev)In the secondary spectrum when applying these targetsX-ray characteristic of the elements to be clearly distinguished առանձնPeaks of single scattering rays from radiators (targets).
+In probes, the Am-241 այթ radiant element is installed in such a geometry that the primary rays are notfall on the surface to be studied, but are directed towards the radiator(target), from which the characteristic rays obtained only in the studied environment create an X-ray of the sampled elementin the light.
+Figure 2 shows the standard samples of copper և molybdenumobtained spectra with the Am-241 isotope using cadmium ագ tin as the target, respectively.
+ However, as can be seen from the molybdenum spectra, dispersion is used as a target in the use of tin.The rays are quite close to the line of rays characteristic of molybdenum.
+It would be preferable to use tellurium as a target instead of tin(Te), which would allow to disperse the peaks of single scattering rays from the characteristic իբ molybdenum և source in the spectrum by about 2.3 kV, thereby improving the measurement sensitivity.
+Fig. Secondary spectra of copper (a) և molybdenum (b) reference samples:
+obtained from the cadmium և tin corresponding to the Am-241 isotopemade using radiators (targets) Contents of elements.Cu (%) `1-0; 2-5; 3-10.
+Mo (%) `1-0; 2-1; 3-3.
+Thus, the use of targets with the isotope Am-241 canSolve the element when sampling an element in a variety of environmentsthe question of energy choice.
+Literature 1. Blokhin M.A. Physics of X-rays. Ed. 2nd, pererab. M.
+ 1957, 388 p.flower and rare metal. L.
+ Nedra, 1978, 232 p.ных руд. Yerevan.
+ Ed. AN Arm USSR, 1986, 120 p.
+Information about the author:Tamrazyan Artush Aram - A. NAS RA Nazarov of geophysics Head of the Department of Geophysics of the Institute of Engineering Seismology,Chair of Geography and its teaching methods, Yerevan State University, Doctor of Geological Sciences, E-mail.

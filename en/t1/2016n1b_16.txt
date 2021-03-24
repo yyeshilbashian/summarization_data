@@ -1,0 +1,67 @@
+As it is known, the boundary separating micro-macro-elements from each other is generally quite conditional and notClearly.
+  Classical notions are often useful in microscopic observations, and quantum mechanics are often useful.in macroeconomic assessments [1].
+ In particular, statisticsThe general nature of the patterns does not depend significantlyfrom the fact that the behavior of individual parts of the systemis interpreted by mechanics, classical or quantum, despite themThe justification in these two cases requires different judgments.
+Especially since there is a coincidence in the behavior of micro-objectsfactor.
+  That is, quantum mechanics is fundamentally statisticalIt is a theory that the source of the statistical nature of quantum mechanics is the same as that of classical statistical mechanics, that is, the existence of a large number of connections that affect an object (both classical and quantum).
+ The nature of random effects on a micro-object in quantum theory is due to the vacuumby micro-object interactions that lead to quantum fluctuations in object behavior.
+  So the probable nature of statistical description results (as in ական classical statistics)due to the physical nature of the object not so much observed,as much as the fact that these results are obtained much lessbased on information than is necessary for a complete mechanical description.
+  Thus, interpretations of quantum phenomena use statistical insights, in particular:the application of the idea of ​​entropy, which in turn enabled Planck to emit heat radiation energyThe well-known formula for spectral density [3, 4].
+As an example of the above approach, consider compulsoryThe reasoning for the existence of the radiation phenomenon from the point of view of the second law of thermodynamics.
+ The regularity of such an observationand the justification is due to the general nature of thermodynamics, which in its ideological basis includes the features and consequences of quantization without changing the basis of thermodynamic approaches to the interpretation of phenomena [3].
+ Floor:to only consider entropy in quantum statistics as:system states corresponding to a certain energy valuethe fact of reinterpreting the idea of ​​a logarithm from a number, in contrastof classical statistics, where entropy is simply definedas a logarithm of the phase  volume of the system [2, 5].
+For simplicity, let us consider thoroughlycompleted main:states of a group of two-level N atoms that are equilibriumis in a state of interaction with electromagnetic radiation.
+ And!Atoms, let us combine the subsystems of radiation into one closedin a separate system.
+  As is well known, Boltzmann kineticsThe following statements are derived from the equation [5].• To some extent, the entropy of the system may change with volumeboundaries of entropy inflow or outflow, as he'sin the case of entropy production within the volume,• The entropy of a closed system (entropy leakage և no inflow) can only increase or remain constant under the principle of strict equilibrium.
+Let us now consider the opposite problem, that is, given the increase in entropyor from the second law of thermodynamics (according to which unbalancedIn a closed system, the processes run in such a way that the system is lowis constantly transitioning from entropy to state as moreprobable outcome, state with higher entropy as long as entropyhas not reached the maximum possible value of full equilibrium)Let us substantiate as electromagnetic the atomsExistence of forced transitions in a closed radiation systemnecessity in addition to voluntary (spontaneous) transitions.
+ Such a question of the possible outcomes of quantum mechanical processesընդհ can have a basis for a general approach to predeterminationthe importance of alternative monitoring.
+  Because entropy is a mediocre description of the process over timewhich can not be infinitesimally small [2], it is necessary in advanceAssume that the "N-atomic subsystem" is electromagneticinteraction for radiation (subsystem of n-photons)The idea of ​​entropy can be introduced in separate stages.
+ig capacityBaseline in the analysis belowi on energy levelshave perversionrespectively, placement of fermions (atomic electrons) և bosons (electromagnetic radiation photons)the number of possible seasonsformulas, like entropy  the expression [5].
+ ig is the degree of degeneration of the isolated level I atom.
+  In particular, the simplest of hydrogen atomsHere for the atomic electron subsystem, where:, where:is the main quantum number.
+ And the photons?in the case of:  energyfor the subsystem that are locatedcondition, the degree of perversion
+as fixedIn the case of frequency and direction of propagation, the quantum of light is the photon.can have two independent loading directions.
+ Interaction:in the absence of an output state of the system entropy (taking into account:entropy additive)where:  sincelower subsystem 
+in a state that is N-fold degenerate.
+- the total number of atomic electrons N - atomic  energy level basicAnd: Suppose in the first stage of interactionabsorbing the same amount  atoms, light quanta, pass  at the same time2 performs perversioncondition.
+ The entropy of the system after such a transitionwhere:.
+                                      (7)                  Of course1  straight passage corresponds to closedthe law of growth of the entropy of the system.
+Indeed since which is obviously happening.
+In the second stage of interaction they take place2  anti 3 N atoms, proton photons, return to the starting state of the systemconversions.
+ In the case of such transitions, when:with the same h
+Entropy will be given by the following expression: where: .
+1:
+The change (growth) of the entropy of the system is straightforward1 և after switching..
+Changes in system entropy2  after switching. (decline) reverseIt is easy to notice that  In this case, the following is true.
+ղութիւն.                      և Closed system entropy  that is, Stability is ensured by thorough balance only in case of condition.
+Here:                                          is the full probability of a direct transition, given the finite amplitude of the energy  W radiators,N - number of atoms in 1 state,-wave electromagneticfield strength range, t - transition time;-passto the dipole moment square [6].
+Reverse spontaneous (spontaneous) transition to 3 N, regardless of timeis the lawThe comment does not guarantee the fulfillment of condition (14) because:In the left part of (14) there is an obvious dependence on time, which is absent in the right part (voluntary transition is a random process).
+ It remainsto ensure a thorough balanceadditional:2 ությունը the existence of a transition that takes place over timewith a dependent probability.2N - the number of atoms in 2 states.
+  However- where:the where:is the probability of transition.
+  This can be conditionedthe need for forced radiation.
+oppositeLet's make it now (
+) the difference. where:.
+3:
+It can be confirmed that:  The case was discussed abovein the physical sense).
+         Thus, in the case of a thorough imbalance  in the case of:.
+ (Note that:  The case is devoid ofփակ The entropy of the observed closed system necessarily increases.
+ Indeed,Energy exchange of atoms փակ in a closed radiation system (forced absorption, voluntary-forced delivery)is accompanied by non-monotonous, non-targeted scattering of energy due to the absorption and delivery of photons during the delivery of atoms.by generating a repulsion impulse (և energy).
+  The asymmetry of such spontaneously occurring phenomena, ie one-way, leads to an increase in the entropy of the system in case of disturbance of the fine balance.
+ And in the case of equilibrium, when the average number of acts of absorption and delivery is averaged, the average loss of atomic energy is absent (the entropy of the system remains constant).
+As we all know, classical mechanics is perfectly proportional to timein both directions, so given the timeequations of classical mechanics with respect to sign changeinvariance, one can conclude the idea of ​​only a monotonous change in entropy.
+  But to get the law of monotonous growth of entropyIt is necessary to fix the fact of time correction.
+  The idea of ​​the inequality of the two directions of time is ingrainedin quantum mechanics, so the existence of the law of entropy growthis based on quantum mechanical observations.
+  Of courseAn example is forced radiation discussed above2 ադարձ reversethe event.
+ Indeed,The reality of the existence of crossings necessarily determines2  process outputthe fact of the correlation of time as:1  The probability of the result of the process is predetermined1  switchwhich can only happen if:has passedBefore 2 ((which is obvious).
+2N atoms of atoms1 և և:And as we saw above, proving the direction of time  regular inequality leads to an increase in the entropy of a closed system  to the conclusion.
+  So in quantum mechanical observations the macroscopic generalization of the physical inequality of the two directions of time leads tothe law of entropy growth.
+Literature 1. Тарасов Л. В. Basic quantum mechanics. M .:
+ "High school". 1987. 286 p.
+2. Landau L. D., Lifshitz E. М. Statistical Physics. M .:
+ "Science". 1964. 565 p.
+4. Djemmer M. Эволюция понятий квантовой механики. M .:
+ "Science". 1985. 379 p.
+M .:
+ "Science". 1977. 406 p.
+6. Шпольский Э. В. Atomic Physics, vol. 2.M.
+ "Science". 1974. 447 p.
+Information about the author:Hrachik S. Nikoghosyan - University of Physics, Technology և them Associate Professor of the Chair of Teaching Methods, PhysMath. scientist candidate E-mail:

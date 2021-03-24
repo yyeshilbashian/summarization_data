@@ -1,0 +1,39 @@
+Introduction.
+ The Shirak mountain range extends within the northwestern segment of the Pambak-Shan-Syunik active fracture zone.
+  Pambak-San-Syunik-Akhuryan fractures intersect at the site of the mountain range, west-east direction of the mountain rangedivided into three main segments: western, central eastern [1].
+ Due to its position in the tectonic plan, the area of ​​the Shirak mountain range is distinguished by its geodynamic-high seismic activity.
+As part of the work, we tried to analyze the geological structure of the mountain range in order to separate its block structure.
+  The essence of structural-geological analysis in this case is that the separation of the block structure is based exclusively on the geological analysis of the slopes of the mountain range.
+Research methodology.
+  Fracture tectonics is knownis one of the most potent, active relief factors, which is constantis in reaction with external geodynamic processes.
+In young mountainous areas, where it is still activeMountain-forming processes, in the case of relief formation, the priority belongs to the endogenous geological processes.
+  This refers to the Shirak mountain range, which was formed at the latest stageIt is a typical folding unit.
+ On the formation of geological features of the mountain range developmentHis unique position greatly influenced him.
+ The mountain range in the southern partIt borders on the Shirak intermountain graben-concave, to the westIt is adjacent to the Akhuryan River gorge, and from the east to the northeast.It borders the Pambak և Bazum mountain range, respectively.
+ From the above it should be concluded that the mountain range is south-facing andThe northern slopes have evolved over millions of yearsin completely different geological conditions, which is definitely neededshould have left its mark on the slopes.
+Based on the analysis of the slope of the slopes of the Shirak mountain range (և in general), we have used this one precondition for the separation of its block structure, that is, the modern slope of the mountain rangeThey must have a certain geological expression in geologypast և present tectonic processes.
+ In the case of the Shirak mountain range, this important precondition is conditioned by the climatic conditions of the place.
+ As it is known from various ancient geographical researches, from the latest tectonic stage until now the climate change within the studied area has been tended towards gradual drying up.
+  This leads to a decrease in the intensity of the slope processes, which is mainly manifested by deluvial washing of the slopes և demolition processes [3].
+  They are a vivid evidence of thatStrong in the southern foothills of the Shirak mountain rangeproluvial-deluvial plumbing.
+This is a good basis for the Shirak mountain rangeThe morphological analysis of the slopes will substantiate the attempt to separate its block structure.
+The main results.
+  For the purpose of conducting researchDigital terrain models developed as a result of recent satellite surveys for the study area have been used:ASTER_GDEM [4].
+  Digital model of the relief of the Shirak mountain range,in a visualized GIS environment (ArcGIS 10), shown in Figure 1.
+Figure 1. Digital relief of Shirak mountain rangeModel:  The logic of the research is basedon the fact that the resulting digital terrain model has been profiled,moreover, the profiles cross the mountain range in the transverse directionpassing exclusively through watersheds.
+  It looks the sameFrom Figure 1, a total of 11 structural geological sections were performed, the results of which are presented in Figure 2.
+Since the separation of the block structure of the mountain range is based on the morphological features of the slopes, the main and typical quantitative indicators of which are the slopes of the slopes, the reliefCompiled on the basis of digital model է is profiling with the same sitesSubject to the numerical model of the slopes of the Shirak mountain range.
+ This:The data of the morphological analysis of the slopes are presented in the following tables (Tables 1, 2).
+Figure 2. Structural geology of the slopes of the Shirak mountain rangecross sectionsFrom the above sections, it follows that the Shirak mountain rangemoving from the foothills to the watershed in the areaThere are a total of 6 classes of block units, the hypsometric boundaries of which are almost unchanged on different sections.moreover, the absolute values ​​of these boundaries are comparable to the mountain rangeon both the southern and northern slopes of the mountains.
+ At the same time, within the same section, on the north-south-south-slopes of the mountain range, the sequential expression of the blocks is not preserved everywhere.
+ In particular, block units of class I, the upper hypsometric limit of which exceeds the absolute heights up to 1750 m.are expressed only on the southern slopes of the mountain range, ieIn the zone of gradual transition to Shirak intermountain concavity.
+ Except:that, in some cases, clearly defines the boundaries of the blocks in reliefdo not have, as a result, in particular, II կարգ III class blocks sometimesact as a single block unit, as shown in the tableFrom 2-2, 3-3 և 6-6 cuts given in 1.
+ As for block III, then,as it seems from the cuts, it is not expressed everywhere.
+ Block III is probably a separate part of the old leveling surface, which:As it is known, in the latest stage, being subjected to fractures, they were raised to different heights.
+Referring to the general patterns of slope values ​​that formed the basis for the separation of blocks:It should be noted that, as shown in Tables 1 և 2 above,in the border areas of the blocks, which from a geological point of viewThese are fractured formations, with a sharp increase in the slopes of the mountain range, which often exceeds the values ​​of the average slopes of the slopes within the blocks.
+Conclusion.
+ Thus, summarizing the above, we conclude that the Shirak mountain range is a rather complex structure from a geological point of view, which is divided not only by well-known fractures that cross its territory in the meridian direction, but also by a number of east-east stretch fractures.
+ The formation of the lattershould be connected to the mountain range at different stages of tectonic developmentwith the uplift increases.
+  At the same time it should be noted thatFracture tectonics was more intense on the southern slopes of the mountain range, which was reflected in the mostly gradual morphology of the southern slopes.
+  Northern view of the mountain rangeThe relatively weak expression of fault tectonics on the slopes is explained by a more humid climate compared to the southernconditions, which is the most important, with completely different tectonic conditions, as the Shirak mountain range borders Shirak to the south.to the graben-concavity, and from the north to the Bazum valley.
+Table 1:Hypsometric levels of block units in Shirak mountain range(absolute heights in meters)Block:Incision:Incision:Incision:Incision: Incision:Incision:Incision:Incision:Incision:Incision: Incision: HS:HV:HS:HV:HS:HV:HS:HV:HS:HV:HS:HV:HS:HV:HS:HV:HS:HV:HS:HV:HS:HV:Table 2:The average slopes of the slopes within the borders of the Shirak mountain range(counting degrees)  Block Cut:Incision: Incision: Incision:  Incision: Incision: Incision: Incision: Incision: Incision:Incision:HS:HV:HS:HV:HS:HV:HS:HV:HS:HV:HS:HV:HS:HV:HS:HV:HS:HV:HS:HV:HS:HV:BOOK: 4. https.

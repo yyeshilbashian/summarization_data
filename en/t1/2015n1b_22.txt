@@ -1,0 +1,67 @@
+Radical changes in societythey themselves force purposeful reformsin the educational system, to develop future specialistsStrategic plans, effective ways և methods.
+  Indeed, it is necessary to build an education system that is capable of oneto meet the needs of students, to promote personal development or, in other words, professional self-conceptOn the other hand, the presence of specialists with a high degree of literacy and humanitarian orientation required by the society will be sufficient.
+  In this sense, it is not accidental to talk about the need to use information technology,because at present they occupy a central place in the process of intellectualization of society, education and development of culture.
+ On the other hand, they are changing at a new stage in the development of societyThe nature and direction of the goals towards the learning process.
+ Indeed, when we say teaching, we mean not only the presentation and assimilation of human experience, but also direct teaching.Acquisition of new independent knowledge in the process.
+The modern educational process is directedEstablishment of humanistic relations between the subjects of educational activity, ensuring the adaptation of students to socio-economic frameworks, self-affirmation, identification of individual personal qualities and professional opportunities.
+ This, in turn, requires the development of innovative educational technologies that require modern development to have a positive impact on an individual's professional development.application of information and communication technologies.
+  The focus of all subjects of the educational process is the learner, at all stages of learning - hisDiscovering and developing creative և intellectual abilities.
+Thus, the main function of the application of all modern learning technologies, in particular ICT, is opportunityto provide knowledge in different fields, to acquire knowledge տարբեր through different levels of և orientation training programs.
+  And in this process it is possible to look at the learner as ifsubject of educational activity, and his individual, personalDevelopment of competencies - an opportunity for educational activitiesone of the goals.
+It is no secret that the most important condition for development and effective implementation is the high level of professional competencies of the pedagogue, as the pedagogue is considered the source of information.Carrier of subject content, educational technologiesthe creator, the manager of educational activities, etc.
+The pedagogue himself fills the functional model of teaching with specific content, depending on the model he will work with.
+ With thatAt the same time, the pedagogue answers a number of questions: how should it be?be the student's level of education և psychological readiness to carry out the supposed activity, how to find out?That level, what goal should the students set for themselves?How will it organize its activities, how will the control take place, the evaluation of the results, by what criteria, etc.?
+ Here it isհամար For the optimal solution of other problems, the creation of such urgent conditions should be pushed to the forefront, in which case the pedagogical staff will receive appropriate qualification.
+Of course, this or that information technology alone is not enoughto master, it is necessary to separate, to use its features and opportunities as effectively as possible, which:to some extent they can provide the solution of the above-mentioned problems.
+ That is,system objectives և problems, their nature, informationThe means of construction և delivery,, control և assessment system, criteria և other issues should be in line with the learning objectives [2, pp. 3-5].
+            The richest possibilities of ICT should be analyzed in terms of psychology և didactics և used when necessaryin terms of educational activities.
+ The question of how effective the training program is can only be solved after testing it.
+However, one can single out a psycho-pedagogical onea number of requirements that the curriculum must meet [7: 24-38].
+The training program should:• Allow to build the content of educational activities:taking into account the pedagogy of pedagogical psychologybasic principles.
+• Enable the teaching processany method of management, the choice of which is conditionedon the one hand, with the theoretical ideas of the authors of the teaching program, on the other hand, with the purposes of teaching.
+• Encourage students to engage in any type of cognitive activity to achieve the core learning objectives neededfor.
+• Strong motivation for teaching studentsalmost constant presence, not because of interest in the computer, but because of encouraging learning motivation,students' interest in cognition.
+• Provide dialogue, both external and internaltaking into account several important functions of dialogue.
+ They are about activating learners by engaging them in reasoningthe development of cognitive processes, modeling joint (subject-subject) activities, etc.
+• Course content, complexity of problemsdegrees must be constructed and appropriate for studentsage opportunities, individual abilities.
+• Feedback must be pedagogically justified;It should inform about the mistakes made, contain information that is enough to eliminate those mistakes.
+• Does not require special knowledge to enter the answer;Minimize the usual, tedious steps of entering the answer.
+• Assist in solving educational problems.
+• Inform the student about the purpose of teaching, inform him / her:how far he has come towards that goal, what are its main goals?omissions, the nature of repeated mistakes.
+• Provide personalization of learning, enabling the student to decide on learning strategies, assistanceabout nature և etc.
+Thus, in the field of learning information, the so-calledpedagogical communication takes place, in which the following participate: pedagogue-computer, student-computer, pedagogue-computer-student, etc.
+  Of course, such communication is carried out by pedagogical scenarios of computer programs, computer programs of different educational significance, guides.
+  In:By the way, the pedagogical scenario is a way of describing the teaching model, which includes a knowledge base (systematic, organized training material, information material), a bank of teaching assignments (tasks of different levels), a learning management algorithm (questions).responses, prompts և comments to students' responses, their requests for help, support [3, 74-77].
+Curriculum development, unlike pedagogypractical activity, it is incomparably difficult.
+  Training program:you need to create a computer algorithm during development,which does not duplicate the work of the pedagogue at all, moreover, performs the same functions presented to the pedagogue in a different way.
+In addition, the development of curricula requires not only knowledge in a particular subject area, but also comprehensive knowledge:about the teaching process և students.
+  Numerous analyzes have shown that even experienced, practical educators who have undergone special training are sometimes quiteweak training programs that give lower results than:traditional teaching methods, so making programs requires deep knowledge և pedagogical talent.
+  On the other hand, it poses a serious threat to the programmerBasic software development on training programsthe mechanical application of principles.
+ We must not forget that these programs manage the activities of people who have emotionalqualities, motivations, interests that have a big impacthave on the learning process [4, 23-29].
+ Here in this contextIt should also be noted that the effective use of the computer in the educational process is not conditioned only by the posted instructions, but it is necessary to design and develop such educational conditions.in which case the learner will want to follow those instructions, not themto go in the opposite direction.
+ Speaking of computer training programs և electronicOn testing, we should mention that today there are hundreds of electronic tasks, preparation and conduct of tests in the field.There are software tools, but we will refer to the "HotPotatoes6" software package, which provides methodological assistance.any specialist, regardless of computer knowledgeկազմել Independently compose interactive tasks, tests ևapply them in the learning process [6: 1-5].
+  By the way, to the studentsIt is not necessary to know that software package, but only the teacher who has to compile, edit the relevant tasks, exercises in the framework of various courses.
+  In particular,We stopped at the "History of Psychology" course practicalon the preparation of tasks, as this is a theoretical course by nature, the mastering of ideas, basic theoretical points of viewand it is advisable to use "HotPotatoes6" for strengtheningsoftware package features.
+ Thus, choosing a specific lesson material, we compile its practical task in the form of a "Quiz".
+ Each task includes possible answers.as well as other comment fields (Fig. 1 և 2).
+Menu bar:Many choices Short answerMixed: A few rightchoice of answers                                               Fig. 1:
+Another questionnumber:Mark the correct answerTask name lineQuestion input line:Possibleanswers:fields of importFig. 2:
+Comments:fieldsAs already mentioned, the "HotPotatoes6" program is an opportunityallows for test tasks, in which assemblyThe description of the task is presented in the form of a tasktext և etc. (Fig. 3), which in itself facilitates the process of problem solving by learners.
+Thus, the presented program does not require a teacherIt is enough to have in-depth knowledge in the field of programmingNecessary and sufficient level of computer literacy.
+  Here it isThis circumstance makes the desire to work with the mentioned program more just.
+  On the other hand, as we know, any computer program, consisting of training-methodological tools, performs the following main functions, which directly affect the training and development of the person.
+  These functions are:• Providing information to the student in a way that is easy to understand; • Development of student personal and professional competenciesenabling• Implementation of operative control of students' knowledge, provision of emotional, motivational sphere, • Management of students' teaching-cognitive activities;• Development of the requirement of self-development, self-improvement, etc.
+Thus, much theoretical and experimental data is weakGives evidence of the use of ICT in educational activitiesthe need, as well as the development of software and methodology should be mostly aimed at the personal and future pedagoguethe development of professional competencies.
+Literature ванию.
+ Learning. пособие. M.
+ Domodedovo.
+ VIPK MVD Russia. 2000. 174 p.
+Gitchie technologies in conditions of multidisciplinary education.
+ Thesis of the Russian Seminar, October 24-26, 1994. Рязань.
+ Izd-vo RGPU. 1994. C.3-5.
+3. Dudchenko V. С. Innovative technologies.
+  Teaching and methodological skills.Otv. OK. Ю. М. Reznik. M.
+ Soyuz. 1996. 137p. 4. Place and role of teacher in innovative pedagogical technologies.
+  Theses:Birsk.
+ Birski's State Pedagogical Institute. 1994. 207 p.
+MVD Russia. M.

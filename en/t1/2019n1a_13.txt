@@ -1,0 +1,102 @@
+E-business planning is based on the forecasts that characterize the efficiency of the activity and the performance of the intermediate goals.
+  Such predictions, which are based on the organization and implementation of business activities, are based on the results of the expression of ideas about the internal patterns and tendencies of the development of a large number of socio-economic phenomena, have a large proportion of conditionality that can guarantee a virtual result.
+According to the performance indicators, some specific models, projects and initiatives related to the establishment and operation of e-business, recognized as effective by the use of traditional methods of forecasting and planning, can become de facto inefficient and cost-effective.
+The entrepreneur can never have a comprehensive risk assessment when deciding on a new area or stage of e-business, as the limit of the possibilities of the individual conditions of the external environment, therefore, it is possible that one of the unlikely scenarios of the situation.
+ In this context, it is obvious that the entrepreneur must make every effort to reduce the risk of uncertainty decisions, both during the development of the design plan of the virtual organization, as well as during the further steps of its implementation.
+gerazantsumoroshumnerev pordzignahatelsepakanmishtemotetsmankirarumebatsakayutyanbardanumkamBatsi, some of the variables in terms of e-business kazmakerputyunneriverlutsutyunnerumgortsuneutyan planning arnchvoghehavanakanayinelvichakagrakan teghekatvutyantntesakan activity due to small volumes goyutyununetsogh sample, which first hertinpaymanavorvatsvirtualkazmakerputyan yurahatukev ankrkneliobyektiv and subyektivhavanakanutyunneri assessment of the accuracy of much of the foundation of the project depends on metstvov factors, starting and ending with experts vorakitsev statistical information quality, iskkazmakerputyanpatcharovgortsuneutyan ardyunavetutyangnahatmanbnuytov .
+  After all, the effects of risk in the e-domain are largely dependent on them, which naturally contributes to a lack of confidence in the decisions made on the basis of the methods described.
+  In our opinion, among other reasons, it is conditioned by the peculiarity of the subject area of ​​research, as it is in the crossroads of modern applied mathematics, economics, sociology, psychology, interdisciplinary, deterministic, etc.) with sufficient knowledge of the possibilities of constructing appropriate mathematical approaches based on new mathematical approaches.
+The rich experience of the world-renowned researchers shows that the probabilistic approach can not be a reliable և adequate tool for weak structural (weakly voiced) problems, including the establishment and management of an e-business organization.
+  The use of statistical methods to solve such problems is, in fact, nothing more than turning them into well-sounded problems, during which the problem is noticeably distorted.
+  Limitations on the use of classical sound methods to solve weakly voiced problems The shortcomings, in our view, are a consequence of the principle of incompatibility formulated by some of the founders of fuzzy set theory.
+  According to this principle, the closer we get to solving real-world problems, the more it becomes apparent that as the complexity of the system increases, so does our ability to draw accurate conclusions about its behavior. almost excluding concepts [1, 6, 7].
+The capabilities of the toolkit for solution and the effectiveness of traditional methods of system analysis are extremely limited in terms of practical requirements, insufficient.
+That is why the development of methods for assessing the effectiveness of economic activity իսկ risk based on the mathematical apparatus of indeterminate sets has become more and more widespread [2, 3, 4].
+  In these methods, instead of the probability distribution, the probability distribution is used, which is described by the fuzzy numerical function.
+E-business management efficiency The basic variables underlying the basic characteristics of the e-business organization's business are endowed with ambiguity, ie their exact planned values ​​are not known.
+  In this case, the so-called triangular fuzzy numbers can be used as starting data.
+Risk-taking analysis of the establishment requires the use of toolkit to define performance metrics, which can be represented by an indeterminate number, on the basis of which to calculate efficiency and generally specify the marginal or desired level of efficiency, hence the risk level of performance.
+The criterion of unclear logic of the organization of the effectiveness of the organization, in the practice of evaluating the efficiency of the business activity, various indicators are used, in which the net value or NPV is widely used.
+where: T is the expected line of business, Rt is the revenue from business activities, in year t,  IrLVrCRNPVTTTttttt110111) (Ct - business activity capital expenditures), t year per year, rt - discount rate (discount), in year t (generally assumed that the discount rate varies by year, in practice, a simplifying assumption is often made about the stability of the discount rate), LV - at the end of the business residual period (liquidation) The discounted amount of capital investment, which is calculated as follows: In the case of capital investments made in year t, is the amount.
+The NPV expresses the difference between the sum of the results at the present time and the total capital investment.
+  If the variables in Equation (2.1) are uncertain, that is, their exact predicted values ​​are not known, then the following triangular indeterminate numbers can be used as baseline data: .
+By placing the uncertain numbers of the initial data in the NPV calculation formula, taking into account the rules for performing the interactions of the uncertain numbers, we can derive the general uncertainty of the performance rating, the corresponding NPV, by taking the Discretization
+  Approximation of the function Electronic Reference to the risk assessments of the activity of the business organization.
+  Considering the risk as an opportunity to obtain the desired result of the activity, on the one hand, the general indicator of the efficiency of the activity, on the other hand, it is necessary to set its target level.
+  Thus, the risk assessment will become a step towards the possibility of ensuring the target level of the efficiency index.
+By applying a vague logic, the overall efficiency indicator, the NPV, was clarified, and more specifically, it was viewed as a result of a non-specific outcome.
+  As for the target level of efficiency, it can be specified in advance, taking into account the expectations of the company's founder or investor.
+  Accordingly, it can be considered that when investing in an e-business organization, the investor expects to get a certain E result.
+ Two options are possible here.
+  In the first case, the investor does not specify the magnitude of the expected result or considers it as an indeterminate number, which should not be specified in advance, as it is subject to constant adjustments based on the behavior of the variables of the e-business environment.
+  In the second case, the exact amount of the expected result of the activity or its minimum limit is defined.
+In the first case, the expected result can be presented in the form of an unspecified number: "In this case, the problem of performance risk assessment ends"
+  no max1max1max0maxmaxmaxmax111) (IrLVrCRNPVTTTtttttNPVNPVNPVmaxmin ,, EEEENPVE for accurate assessment of conformity of numbers.
+  It is expedient to carry out this process through the functions of ambiguity of numbers.
+ Thus, suppose the mentioned functions intersect at the ordinate point.
+  We choose an arbitrary level of belonging.
+  Suppose the corresponding intervals correspond to the observed indeterminate numbers.
+և Level ության Affiliation Ratio Absence of Ordinary Risk Description of Existence of Functioning Interruption Functions.
+Significance of activity Thus, consider whether the establishment or operation of an organization in the field of business is 100% effective ռ The risk of inefficiency is zero.
+ the situation.
+ In this case, electronically, the level can be called the upper limit of the risk zone.
+The other situation, once the effectiveness of NPV, is relatively more complicated.
+In this case, distinguishing between effective and ineffective areas of activity by distinguishing between the ratio of the required risk indicator of the activity risk indicator E.
+  And in this case, the risk assessment of the activity can be considered as a probability of being in an inefficient zone.
+Figure 121, NPVNPV21, EE1121ENPV110 Figure 1 shows the inefficient activity zone (SL), which is bounded by a straight line և coordinate inequality.
+Efficiency of the e-business organization to evaluate the activity of the e-business organization as a point, falling into the inefficient area of ​​activity, using the probability that the geometric risk can occur in the following formula.
+Assuming preconditions Suppose the desired level of E * is defined for the result of the activity.
+  If this level is less than the lower limit of the indeterminate efficiency index, ie E * <NPV1, then the risk is zero, ie the maximum inefficiency risk is equal to 1.
+In the interim case, when the risk of inefficiency will be equal, in the extreme case, Muserb.
+Effective business management in the e-domain requires the development and implementation of management decision-making mechanisms, which take into account both the factors influencing the decision and the possible consequences of the decision in terms of the future activities of the e-business.
+  Accordingly, the risk assessment of the activity could not be considered an end in itself.
+  The results of risk assessment should be used in the process of developing decisions aimed at effective risk management.
+ This problem is extremely difficult because arbitrary 1 EE2EE1NPVNPV2NPVNPVNPVE) (ENPV, 1212) (NPVNPVEESL0) (21 * NPVENPV 121 * NPVNPVNPVE The factors determining the situation are many, a significant part of them are of an undisclosed nature, it is difficult to voice.
+  Therefore, the application of vague logic should be considered as a possible solution to the problem posed in the presented context.
+In this paragraph, we will present the risk management process in e-business organization with the following simple algorithm: risk factor - risk event - back - down - reduction management action.
+  Each successive stage of the described process can be modeled using non-clear logic.
+factor So, let's look at the risk chain.
+During the implementation of non-logical business activities in the electronic domain, the organization is affected by a large number of risk factors. their union is denoted by F.
+  Under the influence of risk factors, the company deviates from the plan.
+ Such deviations are conditioned by causing damage to the company by risk factors.
+  The effects on the risk factors for damage are multi-vector and multilayered, but suppose that their magnitude can be estimated by experts. The set of impact assessments is denoted by L.
+from the factor of the actual results of the activity.
+Risk-risk factors We can formally present the consequences of their economic impact in the form of the product of the corresponding sets.
+  This way we have the set whose elements (f; l) are pairs.
+  They describe a specific risk factor - the amount of damage or potential loss to the company as a result.
+  Let's try to describe the correlation of these two indicators with ambiguity.
+ Thus, let us enter the indefinite pair relation R, which is defined as follows: the function of belonging to the elements, where A is the set of belongings.
+pair relationship, in which case we get the function of such indefinite belonging R LFLFlf, AlfR, 1; 0AnfffF, ... ,, 21mlllL, ... 21ij shows the possibility of the influence of the risk factor fi, also the circumstance to what extent the risk factor is the cause of the backlash.
+  The values ​​of the affiliation function are evaluated in an expert way.
+  A certain number of experts are involved, based on the peculiarities of business activity, based on their experience, logic, inclinations, they evaluate the means in the range [0; 1].
+ At the same time, in the e-domain, where there is no connection between the risk factor and the description, when the expert thinks that the risk factor will be revealed with a 100% chance, the e-business company will lose as a result.
+Assessing explicit relationships with explicit relationships through risk factors and their possible correlations, the assessment should be followed by risk management or mitigation management action.
+  Accordingly, each identified risk factor should be subject to significant administrative impact.
+ Assume that the set of managerial effects to be applied to risk factors is the set M.
+  The key issue of risk-effective management strategy is to consider the production of F և K sets for a sound description of the separation process from the K set of more significant, influential management actions.
+  This new set consists of (f, k) pair elements that describe the specific risk factor of the administrative action.
+  This time, let us describe the interconnectedness of the observed phenomena in a vague relation.
+  For this purpose, let us introduce the indefinite pair relation M, which is defined as follows: the function of belonging to the elements, where B is defined.
+  To address this problem is the set of affiliations ifjlijij0ijifjl1ijifjlKFKFkf, BkfM,։.
+  In this version, we get an ambiguous M relation, in which case the affiliation function indicates the possibility of neutralizing the risk factor or limiting the impact in the case of a managerial action.
+  That is, the non-clear correlation M indicates the appropriateness and effectiveness of the managerial influence according to the degree of possibility of neutralizing the risk factor.
+ As in the previous case, this time the elements of this vague pair relationship are evaluated in an expert manner, using the [0,1] scale.
+  The situation means that the maximum risk factor for the use of energy is completely neutralized.
+Efficacy: Describes in a similar way the situation when a given risk-managerial influence is absolutely useless to neutralize the influence of the factor.
+Impact effectiveness is determined not only by the degree of risk factor but also by the ability to reduce losses due to the impact of another factor or the negative effects in general.
+  From this point of view, another important component of the risk management system is the monitoring of administrative consequences.
+  Accordingly, in the next step, it is expedient to analyze the relationship between the K set of managerial influence and the L set of unfavorable effects of the risk factor.
+  In the same way as in the previous cases, let us define the explicit pair relation of non-elements E. The function of belonging, where C is determined by the set of acts of belonging, is an economic relation, in which case, under the conditions.
+ E describes the function of such an ambiguous pair's management exercise կառավար1; 0 BnfffF, ... ,, 21SkkkK, ... ,, 21isifskis1is skif0isifLKlk, ClkE, 1; 0CSkkkK, ... ,, 21mlllL, ... ,, 21sjsk economic The consequence is the effect on the change in possible loss.
+  The values ​​of the affiliation function are evaluated expertly, in the range.
+  The condition describes the state of maximum efficiency of the management action, when the action completely neutralizes or compensates for the possible loss.
+  And in the general case, the management action leads to the reduction of the possible loss, bringing it to the level.
+Thus, pairs: R, M, E were defined.
+  From the point of view of the effectiveness of managerial influence on risk, let us distinguish M և E relations, which characterize, on the one hand, the influence of managerial influence on the risk factor, and, on the other hand, the influence of managerial influence on possible loss.
+  In the next step, these two relationships can be compared և viewed in the context of a single component relationship.
+  In this sense, let us define the relation EM, the attribution function can be represented as follows:
+  The value indicates the residual probability of having a risk factor, and to what extent the risk factor will result in the occurrence of this undesirable situation as a result of the implementation of complex management actions aimed at neutralization.
+The effectiveness of a risk management strategy.
+ By comparing և, the risk management toolkit is used effectively, ie the managerial influence reduces the likelihood of a risk factor or reduces the potential loss of the entity as a result of the adverse event.
+ Conclusion.
+The effectiveness of the implementation of the business start-up initiative և The risk analysis can be confidently done electronically. Thus, jlsj1sjskjljsjl1lkkflfEMkEM ,,, minmax, ij1ifjl Իրականij1ijijij1.

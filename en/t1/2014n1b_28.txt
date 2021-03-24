@@ -1,0 +1,128 @@
+1. In the observations made to establish interactions between different fields of physics, methodological analyzes especially use quantitative estimates and comparisons of various physical parameters.
+ As we all know, it is possible to fertilize with a limited number of physical constantscombinations of these constants that have, for example,Dimension of length, time, energy, mass այլ other physical parameters.
+ In this way, a large number of physical parameters can be theoretically comprehensible, expressing the latter with constants that are considered fundamental.
+ And certain groups of fundamental constants outline the applicability of physical theoriesspheres.
+  So the symbolic "map" of physical theories, which plays a landmark role in physical reality as a wholeis the subject of this observation, it is formed differentlyby comparative assessments of the emphasis on the roles of fundamental constants.
+  As such an estimate, it is customary to use the dimensionless ratio of physical quantities of the same size(example:
+), which expresses a certain physical correlation.
+And the sketching of a symbolic map is based on the values ​​of different dimensionless relationships, with axesApplicability of physical theories in the coordinate systema topologically compatible combination of sectors that it should haveobvious observational nature և reflected among individual theories ևthe physical justification of the border crossings.
+ 2. As we know, Aristotelian physics (also its medieval)developments) was, in essence, a study of the various properties attributed to a purely object.
+ And atomicity?According to the ancient Greeks, the idea that this variety of physical properties led to only a limited number of basic properties of atoms.
+ However, the followers of the principle of atomicity soon began to distinguish between the two categories of observed properties. properties that do not depend on the observer և belong only to the observed object (geometric and
+dynamic properties), և properties that are conditionedwith the perceptions of the observing subject.
+  Galileo had already distinguished between "primary" and "secondary" properties such as physical objects, considering only the primary ones to be real, thus proposing a research program in classical physics.
+ Thus, in classical physics, the primary features - egg, position, movement, mass, charge - are considered to be the objective characteristics of physical reality.inseparable attributes of matter that have nothing to do with observations.
+  And that is why quantitative in classical physicsVarious measurements have been introduced to establish relationshipsMacroscopic systems designed for ordinary physical phenomena և are based on readily available, conditionally selected, and approved macroscopic specimens.
+  Such conditionality of selection necessarily follows from the primary properties of the object under studyof an individual nature.
+  So in the contour "map" of the applicability of physical theories, the domain allotted to classical physicshas no definite guideline restrictions.
+3. The above-mentioned conceptual concept of classification of features for the first time raised doubts about Herbart ել Stello's netas a result of logical analysis, according to which the object, the objectAttributes (including primary ones) result in relationships with other objects.
+ Later the idea of ​​the objectsproperties on our senses or other objects of nature onlythey are the influences they exerted, he emphasized - Helmholtz [1].
+ Like:The physics of modern times fully confirmed these claims.
+  Indeed, the further development of physical science has shown that all the above-mentioned features, which are considered primary, depend on the means of observation.from the relations of the object observed with the latter.
+  Thus, in contrast to the features of Aristotelian physics ային Newtonian physics, the primary properties of modern physicsAnother expressive language is remarkable.
+It is the language of interactions, interactions, not attributes.
+ The elements of such linguistic thinking are processes, but othersnot the qualities and primary qualities.
+Historically, various interactions (electrical, magnetic, gravitational) have been observed over time.were as certain features of physical bodies (matter) interacting at a distance.
+ In contrast to that point of view:Faraday first introduced the idea of ​​the field as a physical reality (a type of matter) that exists between material bodies.acts as a communication mechanism և is subject to specific laws of motion.
+  Such a view was, in fact, the further development of Descartes' theory of proximity.
+ Electromagnetic fieldThe further formulation of the laws of motion in the form of field equations belongs, as we know, to Maxwell.
+4. Maxwell's equations were especially used in his timeinvariance of coordinates and Lorentz transformations of time, in contrast to Newton's equations, whichare invariant to Galileo's changes.
+  That is, the fieldClassical theory had to give way to relativitytheory.
+  And the theory of relativity revealed that position,time և speed (equal in length, duration)The geometric-kinematic properties, which in the past were considered objective characteristics, in fact depend on the choice of the calculation system, that is, on the spatio-temporal peculiarity of physical reality.
+ The latter is expressed by emphasizing the role of one of the fundamental constants of nature in macrorelativistic mechanics, the velocity c of light, which in turn leads to the "natural" rather than conventional units of measurement of physical quantities.to the formation [2].
+  Thus, the outline of physical theoriesThe map can be used to determine the range of macrorelativistic electrodynamicsdemarcation.
+5. It was soon shown that the laws of motion of microparticles are qualitatively different from the laws of motion of macroscopic bodies.
+And it was the first complete theory for microparticlesquantum mechanics.
+  In the conceptual framework of Borni-Bori-Heisenberg interpretation, quantum mechanics re-processes, notprimary properties of matter, interactions, notis the physics of attributes.
+Indeed, at the turn of the 19th and 20th centuries, the principle of atomicity, or that is the same as that of matter, took on a central importance in the structural studies of matter.The principle of interruption of all horses and physical characteristics, whichis completely alien to classical physics.
+  The logical analysis of the newly discovered reality showed that the hallmark of micro-F macro objects can serve as a materialthe reaction of the object to external influences, including viewing timethe impact of the object.
+,1, cVcV The honor of extending the principle of atomicity to the interactions of material objects, that is, to the physical characteristics of the latter, belongs to Planck.
+  According to Planck minimumis a quantitative measure of impactՎ.վ:the constant, which acts as another inseparable "atom" of influence.
+Thus, they are crucial in the physics of the microcosm  the fundamental constants that are respectivelyprove the principle of atomicity of charge, mass, impactphysical reality, while emphasizing the field of applicability of non-relativistic quantum mechanics in the outline map of physical theories  demarcation (
+-physicalis the operation of the system).
+6. Further development of quantum mechanics led to quantum mechanicsthe creation of electrodynamics, where particle և field ideasThey merge into one universal idea of ​​the quantum field, proving the physical reality of the creation and elimination of particles.
+ For electromagnetic field Maxwell equations, for electron-positron field Dirac equations և reformulationquantum electrodynamics based on the idea,which describes only the interactions of photons and leptons,It is a very accurate theory.
+  Quantum electrodynamics combines the achievements of the previous stage in the development of all physical science, namely, Maxwell's classical electrodynamics և quantum mechanics.
+ In other words, in the outline map of physical theories, the field of quantum electrodynamics must topologically include the domains of previous developments, combining the basic principles used in the latter. constants as a necessary և sufficient basis for the formation of "natural" units of measurement.
+7. Physical current in spatial realityphenomena և In order to make topological comparisons of relevant physical theories, there must be a fundamental
+formulate comparative estimates with the involvement of constants3410054,1 ,, eme1, SSScmee ,,, cmee ,,,  dimensionless relations թվ to date the coordinate axes of the outline map with the values ​​of the latter.
+ However, it should be borne in mind that such fundamental constants as the electronև: charge:mass, introduced in modern physical theoriesare purely phenomenological, as a result of the reform process,whose idea, of course, does not follow from the basic equations of quantum electrodynamics.
+Given this situation, one can get rid of the spheres of application of physical theories  և: from the use of excessive estimates, limited only և:by the values ​​of the relationship.
+  And given the reality of the course of physical phenomena in space, over time,
+Excessive assessments need to be completed on a spatial scalewith one assessment.
+ Moreover, when applying the idea of ​​reformulation to the theoretical conclusions in quantum electrodynamics, it is necessary to provedefinite, very large, finite boundary  Hypothesis of the existence of an impulse:considering that the changes in the momentum of the interacting particles (electrons տրոն photons) are smaller than that limit value.
+ Soif the limit impulse is considered infinitely large, then the charge of the electronwill strive for zero.
+ This result obtained by Landau և Pomeranchuk proves that:Quantum electrodynamics is not a closed, complete theory.
+  OtherwiseThat is to say, quantum electrodynamics is not applicable to very large pulsesin the domain.
+  On the other hand, they correspond to big impulsesshort distances.
+ And apparently quantum electrodynamicsdoes not occur at short distances in the domain [5].
+That is, in the outline map of physical theories it is necessary to introduce the third numerical axis of overestimated estimates.    except for the axes) to be dated   by relational values.
+  estimates are reflected accordinglyare spatial-temporal:
+  moving in reality և interacting: the behavior of matter.
+8. The existence of fundamental length is closely related to the need to reconsider traditional spatio-temporal notions on an ultra-small scale.
+  According to Snyder, at such scales the space characterized by non-commutative coordinates with each other is discrete և at the same time isotropic.
+ Moreover, the phenomena related to the possible quantization of the gravitational field become essential.
+  Quantum physics in general has been proposed in the microcosminterrogation ության his question of philosophical analysis of continuity.
+  As we all know, Planck's constant, universalnature manifests itself in the sense that it can be expressedall the physical characteristics with which they interactobjects.
+  Indeed, a simple analysis of the dimensions confirms thisThe following connection:[] = [energy x time] = [momentum x length] = [moment], (*) whichallows for a dual opportunity to comment.
+  According to (*), it follows from the fact of quantization of the action S with a dimension [] that characterizes the dynamic state of the system that if] = [energy x time],then it can be intermittent, quantizablea) either the energy exchanged as a result of the interaction of physical objects, or time;b) "energy," time.
+By the same logic, if:then it can be intermittent, quantizable] = [pulse x length],c) either the exchange momentum or the length;d) "pulse", "length".
+ScVrr0rr0cVSrr0cVS ​​Since, according to modern physical notions, space և time in the microcosm remains constant, indefinitely divisible, the quantity, interruption of momentum of energy, impulse և moment is necessarily assumed.
+  And if as a starting point?accept the interruption of energy, momentum and momentum experimentallyIf this fact is confirmed, then the notions of possible quantization of space and time can be considered permissible և already physically justified.
+  And that is nothing but matter և'sHe also spread the idea of ​​the interruption of physical characteristicsattributes on space and time, because we only thinkwe can separate matter, motion, space and timeinextricably linked physical realities և itand only in the borderline case, at the macroscopic level.
+9. Let us now draw an outline map of the alignment of physical theories, or rather a three-dimensional model, according to the coordinate (
+) three-dimensional base.
+ 1) It is obvious that the given coordinateoccupies classical physics in the system  along the axisstretched one-dimensional domain, which in principle lacks a certain delimitation.
+2) The most general relativistic mechanicsis characterized by (
+) with a two-dimensional (1x1) range of applicability located on the plane.
+ The projection of the latter coincides with the axisto the one-dimensional domain of classical physics.
+ This symbolic action is adequateare derived from the equations of relativistic mechanics.
+ border crossing when classical relationships3) Non-relativistic quantum mechanics with a similar equationoccupies (
+) two-dimensional domain (1x1), և projection of the latter  on the axis again comes the one-dimensionality of classical physicsdomain, fully compatible  border crossing.
+rrcVS0,, rr0rrcV0, rr0crrS0, rr004) And finally quantum electrodynamics, ie the fieldQuantum theory, which is a fusion of the theory of relativity of modern fundamental physical theories, quantum mechanics, is a relativistic quantum theory of many particles, occupying a 1x1x1 three-dimensional volume.
+in space.
+10. The idea of ​​quantum electrodynamics has been developed in many respects.
+ According to his example, other theories of elementary particle կառուց fundamental interactions have been constructed.
+Fields of various particles have been created and confirmedThe vacuum corresponding to each of the fields is specific to the matter, which is the lower energy state of the quantized field.the idea.
+  Modern developments in elementary particle physics have shown that currently known particles (leptons,hadrons, quarks, gluons, photons) determine the peculiarities of microcosm processes.
+ Similar to quantum electrodynamics, a color is created that changes the color states of the quarks, causing a strong interaction in the nucleus.Gluon field theory: quantum chromodynamics.
+  We have already succeeded in creating the theory of weak interaction, where the electric rrcVS0,   magnetic և weak interactions are considered to be the most fundamental, the various manifestations of the weak interaction.
+ QuarterlyThe combination of model, electrically weak փոխ quantum chromodynamics is called standard theory, the basic particles of which are leptons and quarks.
+ Standard model:In the framework of this, it has been possible to explain a rather comprehensive field of phenomena, although a number of crucial questions related to the existence of fundamental interactions in nature remain unanswered.
+ Electrical:successful in theory of weak electromagnetic interactionsThe merger was a stimulus to unite - strong and gravitationalinteractions, this time one, unique, large union theoryin.
+  In this respect, the empirical discovery that the values ​​of the fundamental constants of the interactions of the interactions tend to converge is extremely important.
+ Moreover, the extrapolation of these constants leads to energy  GeV value.
+ But because the existing accelerators manage to record the maximum GeV energy, then the implementation of such extrapolation seems extremely uncertain.
+ Besides, because it still exists!does not have a quantum theory of gravitation that would complement quantumelectrodynamic և quantum chromodynamics, large unionModern versions of the theory include only "strong"weak interactions [6].
+ Thus, the universal union will take place in the high energy range where they are usedphenomena of quantum gravity.
+In the outline model of physical theories, such developments correspond to the above-mentioned symbolic "cube", a small diameter adjacent to the vertex A, diametrically opposed to the origin O of the embryo of physical knowledge.distances և high speeds  domain.
+11. The cubic model gives rise to contemplative judgments.
+ In particular, any section of a contour cubeIt must correspond to a certain physical theory, its system of measurements, which can be determined by the parameters of the section.
+ And this points to a new interpretation of physical realityabout ways and opportunities.
+  In addition, the fact that there are changes in the symmetry of the cube can lead to a certain conclusion 1510 ~ 3103 cVSrr 0.
+ Indeed, in particular, the cubic model in case of inversion to the origin of the coordinates it (
+transitions from coordinate octant (
+) coordinate octant.
+ Such an operation does not violate the proportion of the dimensional estimates of the contour model ացնում at the same timechanges that are reminiscent of hamarespectively, charge set C, mirror reflection P, T time reversal T operations (if we consider that:Interaction of electric charge with electromagnetic fieldis describedin action where:-the 4-potential of the fieldg).
+ So the symmetry of the cubic model seems to beghas a famous  with the theorem.
+  The presented version of the topology of the interconnections of physical theories is itself a reflection of the principle of fundamental symmetry of nature.
+ According to that principle:The fundamental length is determined by modern physical notions, that is,quantum mechanics
+, the theory of relativity սկզբ the principle of causalityApplicability limits [7].
+  That is, we have to wait for that in spatial domains are possiblea new physical that does not conform to modern notionsphenomena, that is, one "revolutionary" development of physical science, as took place at the beginning of the 20th century.
+So most likely quantitative estimatesany model structure inevitably bears temporarynature.
+ Further theoretical and experimental discoveries in the microcosm, the expansive exploration of the universe, inevitably breaking any finished model, will cut the latter into new components.rrcVS0,, rrcVS0,, VVrrSS ,, baiidxAceiACPT1 ~, ~ 00rrrr1 ~ S 1 ~ cV0rr until a new tendency for unification at a higher level arises.
+And in the future such developments of scientific thought are not excluded, when:Instead of a three-dimensional model, you will need to be satisfiedfour-dimensional և even with multidimensional model structures.
+Literature 1. Djemmer M. Эволюция понятий квантовой механики. M.
+ "Science". 1985. 379p.
+2. Vihman Э. Quantum physics. BCF p.4. M.
+ "Science". 1986. 391p.
+3. Суханов А. D. Lessons in quantum physics. M.
+ "High school". 1991. 383p.
+4. Frauenfelder G., Henley J. Subatomic physics. M.
+ "Peace". 1979. 736p.
+5. Gott W. С. Philosophical questions of modern physics. M.
+  "High school".6. Tipler P. A., Lululin R. А. Contemporary physics. M.
+ "Peace". 2007. 412p.
+7. Ghazaryan E. Simple physics in complex phenomena, Yerevan, "Edit Print",2009, 270 pages.
+Information about the author: Nikoghosyan Hrachik Suren - Phys. մաթ. scientist candidate, Gyumri M. Nalbandyan
+State Pedagogical Institute of Physics, Technology, their teachingAssociate Professor of the Chair of Methodology, E-mail.

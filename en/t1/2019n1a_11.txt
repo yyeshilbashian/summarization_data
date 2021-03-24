@@ -1,0 +1,49 @@
+Cognitive monuments are important historical and cultural monuments of tourism, which are of interest to millions of people.
+  Tourist destinations in many countries, which provide significant income for both staff and communities on preservation and restoration of the same monuments received from site visits.
+near the monument.
+  In addition, the money is directed to the formation of thousands of historical and cultural monuments in Armenia [1], in particular, in the three northern regions of Armenia, several thousand registered historical and cultural monuments have been preserved, more than 90% of which are not used for tourism or are limited.
+In general, the number of monuments in the studied regions reaches 7381, which is for the development of historical-cultural-cognitive tourism registered in the territory of the republic.
+Table 1.
+ Number of historical and cultural monuments by regions [1].
+22.4% of the monuments.
+  Saneruzhmezarz ShirakLoriTavushName TotalNumber of Historical and Cultural MonumentsNumber of Monuments Preservation Areas The recreational assessment of monuments is based on several indicators, which are more important for obtaining integral assessment.
+ These indicators include the age of the monument, the accessibility of transport, as well as the availability of infrastructure.
+The purpose of this article is to use this evaluation indicator, which will make the integral evaluation of the monument more complete.
+The state of preservation, which is the surface. Such an indicator can be the visibility opening from the monument - it is an excursion value for any monument.
+On the other hand, in addition to the monument itself, the surrounding scenery will be a tourist attraction, which is a recreational value.
+ So far, almost unfinished scientific researches in this direction in our republic.
+This article aims to fill that gap to some extent.
+Research methodology.
+  The most famous historical and cultural monuments of the three regions have been mapped by the assessment units of the scenic possibilities of historical and cultural monuments.
+  Three maps were compiled separately for Shirak, Lori and Tavush (Figs. 1, 2, 3).
+in the environment.
+Mapping works were carried out from open source maps (ArcGIS 10.5 software) The geographical coordinates of the "historical and cultural monuments" of the settlements of the mapped areas were collected online.
+ At the same time, the road network connecting the monuments was digitized and taken from the mentioned program.
+ In ArcGIS 10.5 software environment, this data will be combined with the digital terrain model, their symbols will be given.
+The next step is to calculate the area of ​​view of each historical and cultural monument, which will be used later as a separate indicator during their recreational assessment.
+  The above calculation process was performed in ArcGIS 10.5 software environment, based on which the presented table was reorganized (see Table 3).
+ Table 3 lists the most famous historical and cultural indicators of Shirak, Lori and Tavush, with the exception of Gyumri St. Astvatsatsin, St. Amenaprkich և St. Nshan churches, for which the index was not calculated, as they are located in the densely built-up central part of the city.
+In order to evaluate the recreational value of the view from the monument, we have compiled an evaluation scale, which is presented in the table below.
+Corresponding complexes Table 2.
+ Field Rating Scale Field Area (km2) Score RatingQuality Poor Average Relatively goodGood Very goodExcellentFig. 1.
+ Distribution of Shirak historical and cultural monuments. 2.
+ Distribution of Lori historical and cultural monuments Table 3.
+ Areas of view of historical and cultural monuments Field of historical and cultural monuments RegionVision, sq. kmHaykadzor, St. St. Gregory the Illuminator Church, St. Our Lady ChurchHealth TempleHarichavankLmbatavankAni capital Ջrapi, caravanserai MarmashenTirashenGyumri Astvatsatsin ChurchGyumri, St. Amenaprkich Church Gyumri, St. Nshan Church Gyumri, Alexandropol Holy Fortress SanahinHaghpatLoreberdOdzunKobayr Akhtala, St. AstvatsatsinHaghartsinGoshavankMakaravankKaptavankLastiverJukhtak vankKirantsi vankShirakShirakShirakShirakShirakShirakShirakShirakShirakShirakShirakShirakShirakLoriLoriLoriLoriLoriLoriTavushTavushTavushTavushTavushTavushTavushTavushTavushAghyusaki monastic hamalirMatosavankSrveghi data analysis shows that aynhushardzannere to high elevations in the terrain, have a broader perspective.
+  In this respect the Alexandropol S fortress stands out, which is built on a hill.
+  To the north of Berdits a beautiful view opens to the Aragats massif, which is the symbol of Shirak.
+  The Akhuryan valley extends to the west, and the Akhuryan reservoir in the background.
+  The information about Aragatsive complements the excursion material related to the main fortress, which increases the recreational-excursion value of the given monument.
+խ Akhuryan valleyNk. 3.
+ Distribution of Tavush Historical and Cultural Monuments The Loreberd Monument Complex, located in the central part of the Lori plateau on the edge of the Dzoraget gorge, provides a great view of the Lori region.
+  There is a beautiful view from the monument to the surrounding mountain ranges (Georgian Armenians, Bazumiler Mountains և Javakhk volcanic plateau).
+  The excursion material about the monument can be supplemented with geographical information about the mentioned mountain ranges.
+In contrast to Shirak և Lori, the field of view of the monuments in Tavush region is relatively limited (video table 3).
+ This is due to the deep majority in the Tavush area.
+  The recreational assessment of the latter was ordered by us.
+ Most of the monuments of Tavush are located in the deep river valleys, which limits the view of the monument.
+  For example, the most visited Lastiver Desert is located in the gorge of the Khachaghbyur River, with a limited view (2 km2), which reduces this figure of a monument with a rather high recreational rating.
+Summarizing the research work, some conclusions can be made. The view of monuments is an important indicator in the system of recreational assessment of monuments.
+  Using this indicator, one can get a complete integral evaluation of the recreational value of the object.
+It is more expedient to use a six-point scale for the field of view assessment, as it gives a high-quality, exhaustive assessment.
+As a result of the field of view assessment, higher scores were obtained for the monuments, which were located at relatively high points և in open areas.
+The low scores of the monuments located in the territory of Tavush region are conditioned by the deep majority of the region, which creates a limited field of view.

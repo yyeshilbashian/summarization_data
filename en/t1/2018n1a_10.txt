@@ -1,0 +1,91 @@
+Introduction.
+ It is known that the climatic conditions are significantImpact on human health and activity.
+  They are him!are important elements of the recreation complex, as the work of the sanatorium-resort economy, tourist centers greatlydue to weather conditions.
+ The latter can be used for tourist routes, mountaineering, as well as many other branches of recreation.
+ Given the above, the climate of any areaThe conditions can be considered as a recreational resource.
+ Favorable climate and weather are very important for a person's mental and physiological restfor [1].
+ Material և methodology.
+ Meteorology on a person outsideThese factors have a complex effect.
+ It is expedient on our partwas considered to be the calculation of human heat sensitivity according to the equivalent effective temperature (EEG), which indicates temperature, humidityազդեց The total effect of wind speed.
+ The equivalent effective temperature calculation was performed according to two formulas.
+  Of these:the first A. It is the formula proposed by Missenard [4].
+1.76 + 1.4 × (cid.
+1874) (cid.
+2868), (cid.
+2875) (cid.
+2873) −0.29 × (cid.
+1872) × (cid.
+3436) 1− (cid.
+1858) 100 (cid.
+3440) (1)	
+37− (cid.
+1872)
+0.68−0.0014 × (cid.
+1858) +:
+EEJ = 37−:
+where t is the air temperature 0C, v is the wind speed m / s, and f is the air temperature.relative humidity in%.
+ Calculation of EEC values ​​within the study areaThe data of 17 meteorological stations are the starting point for this.
+ As:The air temperature was taken as the average of the hottest and coldest monthsTemperature, humidity indicators for the hottest ամիս coldest months were taken for relative humidity.
+ It can be emphasized that meteorological stations have completely different hypsometric positions, their heights fluctuate.From 460 to 2020 m, which means that they are spreadingare found in almost all the highlands of the study area.
+ Referring to the calculation of EEC values, let us mention that the calculation with the above formula was performed in MS Excel environment, whereformula (1), then the corresponding meteorological data were entereddata, Է EEC indicators were obtained.
+(cid.
+1845) = (1−0,006 × (cid.
+1872)) × (1 + 0,2 × (cid.
+1874)) × (1 + 0,006 × (cid.
+1834)) × (cid.
+1837) (cid.
+3003) × (cid.
+1827) (cid.
+3004) (2)     EEC values ​​were calculated based on the same baseline dataThey are according to Osokin's formula.where t is the air temperature 0C, v is the wind speed m / s,  H is the absolute height of the point in m, and KB և AC are coefficients,whose value is conditioned accordingly relative to airHumidity and air temperature values ​​are taken belowfrom table 1.
+Table 1. Coefficients used in Osokin formulavalues.
+ValueHumidity:range:ValueAir:temperature:range:Compiled for the results obtained by the above two formulasThere are 3 maps.
+Required for cartographic workwas to take the data of the absolute height of the base stations և geographical coordinates taken from the Google Earth environment.
+ Further mapping was done by SurferIn 14 software environments.
+In the first step, the initial EEC data were subjected to interpolation using the Kriging method, which resulted in the NorthernThe output raster characterizing the quantitative field of EEC values ​​within the borders of Armenia (Shirak, Lori, Tavush).
+Next, the color scale of the thematic layer was constructed and selectedThe step of quantitative field equations.
+ The results are presentedare shown in Figure 1 և 2.
+It is very important for tourists who are in natureWeather conditions.
+ From the weather indicators, the air temperature, relative humidity and wind speed have a significant impact on a person.
+ The assessment of the bioclimatic indicators of the territory of Northern Armenia is mainly done outdoorsRecreation (eco-tourism, mountain tourism, health walk ևetc.) for the purpose.
+Fig. 1 EEC data of the summer months of the territory of Northern Armenia
+map.
+Therefore, the so-called "comfort zone" is used more.discovery.
+ Temperatures from 17 ° to 23 ° are comfortable for a healthy person.
+ Moreover, it should be noted that for active recreants,12-16 ° equivalent-effective temperature is considered to be comfortable [2, p47].
+According to the data received, the analysis of the maps compiled by us generally shows that of Northern ArmeniaThe area has mostly favorable bioclimatic indicatorsfor recreation և tourism.
+Fig. 2 EEC data of winter months in the territory of Northern Armenia
+map-scheme.
+According to the EEC summer months, there are comfortable warm temperatures (EEC = 18 ° C) in the northeast and a cool (EEC = 9 ° C) in the north-west.
+It should be noted that the most comfortable (EEC = 12-18 ° C)They are present in Lori region, where the conditions in the regions east of the Spitak-Tashir line are more than favorable.
+There are favorable summer conditions in Gyumri and its surroundings.
+ In order to avoid the summer heat, the Ashotsk plateau stands out with the predominance of cool weather, as well as the settlement of Lermontovo in the Lori region and its surroundings.
+ The analysis of the data shows that there is no strong heat in the territory of Northern Armenialoads.
+Winter is of great importance for Northern Armeniatourism, the development of which can reduce the seasonal disproportion of tourism in the region.
+ The calculation of the comfort of the winter season, according to the EEC, has the following picture (Fig. 2).
+ LowerThe values ​​are obtained in the north-west of the study area, in the Arpi Lake basin, where the value of EEC decreases to -22 ° C or "verycold "index.
+ Low values ​​were also recorded in Tashir (EE = 16 ° C, or:"Cold") շրջանում Lermontovo region.
+In winter, relatively mild conditions are formed in the region east of the Odzun-Dilijan isotherm (-9 ° C), where winter EEG can be assessed as "very cool" (EEG = -6-7 ° C).
+Fig. 3 Severe weather conditions in Northern Armenia  Evaluation map-scheme (according to Osokin, 1968) [5]Considering that the territory of Northern Armenia is spreadingat considerable hypsometric heights, expedient on our partwas considered to assess the weather severity of the winter seasonCalculate it according to Osokin's formula, in which the height of the area is used as an indicator (Fig. 3).
+ In contrast to the EEC, the Osokin method evaluated the scores, which show the severity of the weather in the area.
+ According to the obtained indicators, moreThere are severe winter conditions in the northwestern part of the study areain the region, in Ashotsk concave.
+Table 2.
+ Winter hardiness assessment the scale according to Bodman [10].
+Winter hardinessQualitative rating:indicator S:Mild winterA little cold winterModerately coldColdVery coldExtremely coldExtremely coldObtaining such indicators as a result of the calculation, in our opinion,due to the scarcity of meteorological data and a large area of ​​interpolation.
+  Comparing winter temperatures և:The results obtained by the Osokin method with EEE indicators have approximately the same spatial distribution.
+ The severity of the area decreasesfrom north-west to northeast, moreover, the main reason for the reduction of rigidity is the decrease of hypsometric heights.
+Conclusions.
+ The analysis of the results ների of the performed calculations shows that:1. Almost the whole territory of Northern Armenia has favorable bioclimatic conditions for the development of recreation and tourism.for.
+2. Comfortable warm temperatures (EEG = 18 ° C) prevail in Tavushin the eastern, northeastern part of the region և partly in the northeastern regions of Lori region.
+3. There are more favorable conditions for winter recreationIn the western և northwestern regions of Northern Armenia, up to So = 10 isogene.
+4. EEC indicators in the study area are subject to significant changesexposed to both summer and winter months.
+ Conditions for tourists may be unfavorable in the mountainous parts of the northwestern region, north-west of So = 10, where in case of severe winters it may berisk of frostbite.
+The research was conducted by the UniversityFinancial support: № GSPI 01-SCI-2017 scientific topicwithin.
+Literature nye, parts 1-7, Vypusk 16, Armenian SSR. Л. Hydrometeoizdat. 1989 С. 365.
+the climate. - SPb.
+ Gidrometeoizdat, 2002. - S. 266–271.
+нального зимоведения. Вып.2. - Read.
+ Забайкальск. geographical society:
+10. Andreev S.S. Экология человека. - Rostov n / D.
+ Издатель Турова Е.А., 2007. Information about the authorsMartirosyan Leon Movses - work. scientist Candidate, Associate Professor Shirak State University after M. Nalbandyan E-mail mail.
+ mlevon2003@mail.ru:Rudolf Suren Sargsyan - geographer. scientist candidate: Shirak State University after M. Nalbandyan E-mail mail.
+ rudolf-sargsyan@mail.ru:Grigoryan Anahit Arayik - applicantShirak State University after M. Nalbandyan E-mail mail.

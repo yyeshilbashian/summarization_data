@@ -1,0 +1,102 @@
+To solve the problem of recreational forest useIt is necessary to study the natural conditions of the area, to identify the most favorable areas for the organization of recreation.
+Introduction.
+  In the conditions of rapidly growing recreational forest use, it is an urgent task to assess the forests not only from the point of view of forestry, but also from the point of view of recreational-tourism potential.in terms of.
+  The issue of recreational attractiveness of forests has been repeatedly referred to by E. Repshas [1], N.S. Kazanskaya [2], N.V. Romashov [3], A. I.
+Tarasov [4], S.A. Gensiruka [5] և others.
+ It should be noted that the methodology for assessing the recreational potential of forests proposed by different authors can not be universal.
+ That is itshould not be used in different physical-geographical zonesfor forests.
+The most prominent of the above works is E. Repshas
+the monograph in which the author offers a unique methodology, which:allows you to assess the suitability of Lithuanian forests for recreationfor organizing different types.
+Description of the methodology.
+  The research carried out by us is based on E. The method proposed by Repshas, ​​in which the assessment of forest recreational potential is performed in four main
+in directions.
+ The evaluation scheme is presented in Table 1.
+The aesthetic of the forest is more complicated in the mentioned directionsevaluation of properties, because very often it has a subjectivenature.
+ According to previous studies, the most objective factor that affects the aesthetic property is the spatial structure of the forest, its natural state և diversity.
+The aesthetic feature of the forest recreational assessment is determined by the points "X" (minimum - 3 points, maximum - 15 points).
+ It dependsfrom the scores of a number of indicators.
+The evaluation scheme is presented in Tables 2 և 3.
+ The sum of aesthetic features is calculatedby the formula presented below [1].
+where X1-9 - the corresponding indicator of aesthetic characteristicsThe value is in points APF - the assessment of the aesthetic property of the forestwith points.
+Table 1. Structure of the forest recreational assessment systemRated:Taken into account1.1 Type of tree placement1.2 Completeness of the tree1.3 Syntax և age1.4 Visibility (m)1.5 Species composition of trees1.6 Species composition of the subforestForest spreading place և:staffcomplianceSubforest:compliancethe natural state of the forest2.3 The area of ​​the trail network3.1 The predominant type3.2 The structure of the seedlings3.3 Degree of digestion4.1 Treatment optionsEvaluation:aspect:Forest:AestheticFeatures:Forest:spatialstructure:Forest:Species:diversityRecreational:stabilityForest naturalCondition:Forest:recreational:stabilityrating:Phytoncides:Availability:Air:3 EnvironmentalSanitaryև HygienicTerms:pollutionRating:Insects:Availability:Air pollutiondegree:Forest distribution sitefeature:As can be seen from Table 2, the maximum grade of the spatial structure, according to the proposed methodology, is given to the trees.clearly expressed group formations that have low density և good visibility.
+According to the variety, the most valuable are the plantations that:consists of two or three species, have dense young և subforest,as a variety of grass, where there are many flowering species.
+Natural species are taken into account when assessing the natural statecompliance with local natural conditions.
+  He can!the degree of anthropogenic variability of subforest grass coversuch as the density of the track network.
+Table 2. Assessment of the spatial structure of the forestIndicator:Placement of treestype (X1)The Completeness of the Tree (X2)և:Nurseries:Syntax:age (X3)Forest:observation (X4)Criteria:In equal rowsMixed:Clearly expressed groupSingle-storey, single-storeyTwo-storey, different agesMulti-storey, of different ages> 10 m10-25m26-45m46-70m<70 mCherryIt is one of the important factors in the recreational potential of the forestthe stability of the sector to recreational loads.
+ In terms of sustainability, it is necessary to understand the number of recreants in the forest habitat area, whichdoes not cause any negative effects (digression 1).
+Table 3. Assessment of forest natural conditionIndicator:Tsaruticomplianceon the spotCriteria:CherrySpecies not availablecorresponds to the locationThey do not correspond to the placedominant speciesThey correspond to the placedominant species1 Digression should not be confused with degradation.
+ Digression is necessaryUnderstand the deterioration of the ecosystem due to external or internal stimuli.
+ Digestion can progress to catachenosis (decay), after which the ecosystemmay eventually decay [8, p. 23].
+Live land covercomplianceto the root forestTrail network:area:Completely man-madewith changesConformity up to 25%area:Compliance up to 50%area:Compliance up to 75%area:Compliance up to 100%area:In a number of previously published works [1; 5; 9;],
+dedicated to recreational sustainability, it has been found that different forest formations with respect to recreational loadsThey have different stability.
+ For example, in some forests the negative effects are already felt at a load of 2 people-hours / ha.
+ In other types of forests, the load can reach up to և10 man-hours / ha, without any negative changes.
+  For example:NV Ramashov [3] considers the man-hour load (maximum) as a recreational norm (maximum) for birch and aspen forests.
+ For conifers, especially pines, in mountainous terrain the maximum load can be reached.only 2 man-hours / ha [10, page 25].
+The main factor characterizing the stability of geosystems is the conditions of distribution (place) of the given system, dominanttype, structure of plantations աստիճ degree of recreational digression.
+With greater recreational stability, according to [1; 3; 4] works, describe the forests where oak is dominant, and
+Pine forests have the least stability.
+ According to E. In Repshas, ​​they have more stability with a group layout
+trees, and smaller ones with even distribution.
+Table 4. Assessment of forest diversityIndicator:TsarutiSpecies composition:Live coverSpecies composition:Criteria:CherryThe main foliage consists of 4 or 1 type,The offspring և is missing or very dense.
+The main foliage consists of 2-3 species, the young ևThe subforest is absent or very dense.
+The main foliage consists of 1 type, the young ևsubforest in sparse groups.
+The main foliage consists of 4 տեսակ more species,young և subforest in sparse groups.
+The main foliage consists of 2-3 species, the youngև subforest in sparse groups.
+They are absentCerealsmosses with lichens և grass covermoss berries ավոր floweringwith herbswith a predominance of diverse, flowering grassesBased on the above, according to the proposed methodology, the assessment of the recreational stability of the forest site can becalculate on a point-by-point basis, taking into account Table 4data.
+After evaluating the presented indicators, the recreational stability of the studied forest site can be calculated.with the following formula:where RS is the rating of recreational stability in points, y 41
+Recreational stability indicators according to Table 4.
+theOne of the most important directions of forest recreation is therapeuticIt is the rest.
+ In this respect, the pines stand out, where:Hospitals and rest houses are organized.
+Currently, the so-called forest is developing rapidlytherapy, which involves the restoration of health by using the healing properties of the forest.
+In the conditions of Armenia, particularly in the area of ​​Gyulagarak sanctuary, the pine tree provides such an opportunity.
+ At a certain time of the year in the area of ​​Sochut, trees release large amounts of phytoncides, which kill pathogenic bacteria, helping to restore human health.
+Table 5. Forest recreational sustainability assessment systemRecreational stability indexForest growthType of conditions:according to PogrebnyakDominant type:The structure of the treeRecreational digressiondegree:be!pine, aspen, birch, pine, beech, bread, linden, alderpine, hornbeam, pine, oakgroup placementInaccurate placement of the treeeven distribution of the treeIII degreeII degreeI degreeintact ecosystemsprotected areasCherryWith this in mind, during the recreational assessment of forests, the assessment of the sanitary and hygienic conditions of the forest is used.
+ The latter is based on several indicators, which:are presented in Table 5.
+E. Separated from the indicators proposed by Repshas for the sanitary-hygienic assessment of the Gyulagarak sanctuary area
+There are 7 indicators that are most important for mountain forests.
+Table 6. Sanitary and hygienic assessment system of the forestCharacterIndicator:Unit or type:Cherry AnthropoclimaticOxygen efficiencyDominant type:TsaruticompletenessAnnual growthInsects:Availability:(by locationconditions)Air:pollutiondegree:maple, linden, hornbeamof the raft!locust, beechbread, oakpine, birch, aspenno forestno forest1 - 3 m 3 / year4 - 7 m3 / year8 - 11 m3 / year> 12 m3 / yearno forestspot:bread, raftpine, birch, aspenmaple, linden, oakno forest1 - 3 m 3 / year4 - 7 m3 / year8 - 11 m3 / year> 12 m3 / yearAir:pollutionDominant type:Annual growthThe assessment of sanitary and hygienic conditions was made by E. Repshas
+with the proposed formula, which looks like this:where:SH is the assessment of sanitary conditions with points, Sanitary and hygienic assessment indicators.
+The results of the research.
+  Chief of Gyulagarak ReserveWealth is pine, which is represented here by one type - pineCaucasian (Pinus Hamata) [10].
+ This is the largest pine area in Armenia.
+The latter consists of two precincts, the largest of which is occupied75 hectares, spreading on the slopes of the north-western position, the secondThe smaller site, 15 hectares, extends to the northeastern slope of the Tormak River valley.
+ Due to the location, the height of the pines in Gyulagarak reserve reaches up to 30 m, and the diameter of the nest is 0.5-0.6 m.
+ DenseIn the plantations, the pine has a slender, stemless stem.
+ Thinner ևOn rocky, dry slopes, the pine takes on a non-slim appearance.
+Pine lives up to 250 years in the territory of Armenia.
+ It is light-lovingIt is a species that grows well in light, strong soils.
+ In the relatively high, rocky, rocky areas of the sanctuaryThe height of the pine does not exceed 7-8 m.
+ In our conditions, pine is goodIt withstands lack of moisture and reproduces only by seeds.
+ It:has a relict origin.
+To assess the recreational potential of Gyulagarak Reserve, we have divided the area into three conventional sections (sectors): western (I), central (II) and eastern (III).
+As a result of the assessment, the third part of the sanctuary or the eastern part of the sanctuary stands out with its recreational opportunities, whereespecially high scores were obtained as a result of the assessment of sanitary and hygienic conditions.
+ 35 maximum possible scoreAs a result, 21.5 points were obtained, which is equivalent to 61.4%.
+ In fact, it is possibleto say that the sanitary and hygienic conditions in the pine areaThey are favorable for organizing rest.
+ High scores were obtainedduring the assessment of recreational stability.
+ Out of a maximum of 20 points, the recreational stability of the pine was estimated at 15 points, which:is 75%, which is a good indicator.
+ In other words, the right organizationIn this case, the pine tree allows to receive a significant number of recreants.
+At the same time it should be noted that they are observed in all sectionsdifferent degrees of digestion, which indicates a significant anthropogenicabout the impact.
+Figure 1. Recreational load of Gyulagarak reserve Evaluation map scheme.
+ M1.
+ 100,000:Made from the aesthetic point of view of Arjelyan (III) sectionThe relatively low score of 12 points, or 27% of the maximum possible, is due to the scoremultiplicity (X1-9), which is necessary in any aesthetic evaluation to ensure a relatively largeaccuracy.
+2:2 Aesthetic evaluation is based on the subjective perception of a person, which in order to generate a relatively correct result, a large number ofdata analysis.
+The lowest rate of stability was recorded in the central part of the sanctuary, where, along with pine, broadleaf species are widespread.
+ The reason for the low scores, apparently,due to the significant flows of people նրանց their intensity in the forestwith shifts, as evidenced by the degree of digression (2 points).
+  This:The situation is much better in the western part (I),where the specific gravity of conifers is observed in the species compositiondecreases, consequently the higher the stability scoreindicators.
+ High scores were obtained on the assessment of the sanitary and hygienic conditions in the western part, which should not beto say about the aesthetic indicators, which are the lowest in the whole territory of the sanctuary.
+ The latter is conditioned both by the relatively uniformity of the species composition and by the weak fragmentation of the relief.
+In general, it can be said that the recreational opportunities of Gyulagarak sanctuary are quite high.
+ They are evaluationAll three sections have a higher than average index.
+ The eastern (III) section stands out with the most favorable recreational opportunities, where pine predominates in the species composition of the forest.
+ According to the scores, the eastern part of the sanctuary or pine was estimated at 48.5 points, which is the maximum80.8% of the possible.
+In case of properly organized nature use and creation of appropriate infrastructures, pine can becomeOne of the most attractive recreation areas.
+Table 7. Forest recreation of Gyulagarak reserve Indicator:evaluation results.
+Section IICentral:CherryCost:CherryCost:Section I:Western!Section IIIArelyanCost:CherryTotal:Maximum:Literaturefood, prospects of use). - M.
+ Easy. пром-сть, 1977. - 96 p.
+Cionary uses of equal lines.-Kharkov.
+ Ed. NIILHA, 1987. – 176 p.
+4. Gensyruk S. А. Recreational use of lesov. - Kiev.
+  Ed. «Урожай»,
+Information about the author:Martirosyan Leon Movses - Candidate of Geographical Sciences, Associate ProfessorHead of Gyumri child. Head of the Department of Geography of the Institute.
+E-mail:

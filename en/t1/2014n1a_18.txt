@@ -1,0 +1,36 @@
+Geghi reservoir is located in Syunik region, near Geghi village, Voghjion the tributary of the river Geghi.
+ The dam of the reservoir is slab-grained, with sand-clay core, it is 70 meters high և 244 meters long, 10 meters in the catarrhal part.
+ Filtration around the damto prevent occurrences at a depth of 20-60 metersCementation works were carried out.
+ Total volume of the reservoir15 million cubic meters, and the useful volume is 12 million cubic metersmeters, the water mirror occupies an area of ​​50 hectares.
+ Inside the inner bayThe number of people living in the settlements is 4300.
+  The water mirror is locatedAt an altitude of 1402 meters.
+According to the current seismic zoning map, Geghi Reservoirarea is in zone 2 (amax = 0.3g maximum horizontalin the moving zone) [1].
+The reservoir was designed at the "Armhydroenergy project" instituteIt was built in 1980 է in 1989.
+The following buildings are considered to be affected by the accident:Possible for buildings, roads, bridges և other objectscollapses that are in the impact zone of the fracture wave.
+Used Volna 2 software allows you to decideThe maximum values ​​of the site water cover parameters: the depth of water cover, the width of the water cover, the flow velocity, as well as the time of reaching the front of the crack wave, the tail.
+ In addition, the maximum water output in the perpendicular is determinedmagnitude, wave height (exceeding the water level to the household flow level) ագույն Maximum water cover.
+  Calculation:As a result, vertical areas are built.
+To solve the problem, data were used on the hydraulic unit, the location of the reservoir upstream and downstream.
+For this purpose, the area is divided into so-called vertical areasvertical sections in the direction of river flow.
+  Relevant:The necessary parameters are determined in the sections, the most important of which is the distance from the perpendicular to the hydraulic unit.The horizontal marks of the place ությունները the distances between them.
+  The reservoir is considered to be the most important for the hydro reservoirvolume, width of the reservoir և depth near the dam և in the internal stream.
+ The assumed parameters of hydraulic collapse can be considered, which are the degree of hydraulic collapse և crack thresholdheight.
+ These quantities are determined depending on the location of the hydro object [2].
+Necessary data of Geghi reservoir և dam have been enteredIn accordance with the conditions required by the program,։ the calculations were made for 16 sections of the river, their corresponding schemes were drawn up.
+ Due to the volumetric expediency, only 4 of the 16 orthogonal schemes obtained as a result of the work are presented (Figure 1).
+Figure 1. Orthogonal profilesBased on the received data through GIS software packageA schematic map of possible floodplains following the collapse of the Geghi Reservoir dam was drawn up (Figure 2).
+Figure 2. Possible with the collapse of the Geghi reservoir damSchematic map of flooded areasAccording to the received data, 659 hectares are subject to water coverage.
+Figure 2 shows that the entire communities of Kavchut, Andokavan, Syunik, Kapan and Shgharshik will remain under water.
+In general, the following conclusion is made:• As a result of the use of “Volna 2” IS GIS software, the profiles of the slopes located in Geghi և Voghji rivers were built.
+  Based on the received data, it is possible to buildThe area subject to flooding, according to which Kavchut և Andokavan communities as a whole, Syunik, Kapan այ will be under waterShgharshik communities: partial, about 10 bridges, 45 km of interstate-inter-community roads, structures և arable lands:causing significant damage in a total area of ​​659 hectares.
+• Based on the results, different types of buildings were identifiedbuildings, bridges, roads, vehicles,the likelihood of coastal enclosures (walls) և industrial enterprises being submerged.
+• The data obtained is a necessary basis for planningvolume of emergency-rescue և other urgent works.
+Literature 1. ANM: II-6.02-2006 Seismic construction.
+ Design norms.
+Ministry of Urban Development of the Republic of Armenia, Yerevan, 2006,120 pages.
+Information about the authors:Ani Hambardzum Gorgyan - YSU, Geography and Geology Postgraduate student of the faculty, "SPS" agency of the staff of the RA Ministry of Emergency Situations First class specialist of the SSS department.
+ E-mail:
+ ani_gevorkjan@mail.ru:Robert S. Minasyan - Geologist. Doctor, Professor, YSU, Faculty of Geography and Geology, Geophysics Head of Chair, E-mail.
+ minasyan.ysu@rambler.ru: Khondkaryan Valery Sergey - Candidate of Geological and Mineral Sciences, Chief Specialist of the Central Committee of the Ministry of Emergency Situations of the Republic of Armenia "SPARM" SNCO, Associate Professor
+E-mail:
+ khondkaryan@yahoo.com:Anton Norik Antonyan - "SPS" agency of the RA Ministry of Emergency Situations Head of SSS department, E-mail.

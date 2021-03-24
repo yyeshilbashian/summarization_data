@@ -1,0 +1,712 @@
+1. Introduction.
+  Physical-technical, natural sciences և other fieldsIt is often necessary to study many problemsto obtain approximate solutions of this or that type of algebraic or transcendental equations.
+  From the mathematical literature we know quite a few well-developed solutions to both algebraic and transcendental equations.efficient numerical methods [1-4], whose algorithms enablegive programming և calculations on the computer[5-8].
+Currently growing intensively in computer universal mathematical systems (MAPLE, MATHEMATICA, MATLAB, MATHCAD,SYMBOLAB և others) application for performing various calculationsin areas such as calculating the roots of algebraic's transcendental equations.
+  Computer this:systems perform many standard և special mathematical operations with graphical capabilities ևin your own programming languages.
+ All this gives a wide range of opportunities for professionals in various fieldsresearch and computing activities, as evidenced byActive application of mathematical methods in scientific research, engineering and other works.
+This paper will present an accessible methodological approachA numerical method for calculating the real roots of algebraic equations, և will describe all the necessary stepswith the help of which one can enter, for example, the MATHCAD system environment և thatSolve different algebraic equations using the possibilities of the environment.
+ 2. The limits of the real roots of the algebraic equationSuppose it is given (cid.
+1866) Grade algebraic equation:               (cid.
+1858) ((cid.
+1876)) = (cid.
+1853) (cid.
+2868) (cid.
+1876) (cid.
+3041) + (cid.
+1853) (cid.
+2869) (cid.
+1876) (cid.
+3041) (cid.
+2879) (cid.
+2869) + ⋯ + (cid.
+1853) (cid.
+3041) (cid.
+2879) (cid.
+2869) (cid.
+1876) + (cid.
+1853) (cid.
+3041) = 0, (1)where (cid.
+1853) (cid.
+2868)> 0, (cid.
+1853) (cid.
+2869), (cid.
+1853) (cid.
+2870),…, (cid.
+1853) (cid.
+3041) are real constants.
+It is easy to be convinced [1,2] that when | (cid.
+1876) |> (cid.
+1837) = 1 + (cid.
+3002) (cid.
+3028) (cid.
+3116), where A:the largest of the numbers, then the senior term of equation (1) ((cid.
+1853) (cid.
+2868) (cid.
+1876) (cid.
+3041)) absolute                                        (cid.
+1837) = 1 + (cid.
+3002) (cid.
+3028) (cid.
+3116) (2)will exceed the sum of all other members.
+ It follows immediately from this statement that all the real roots of equation (1) will be found (-K, K) in the range.
+ Then we can say that| (cid.
+1853) (cid.
+2869) |, | (cid.
+1853) (cid.
+2870) |,…, | (cid.
+1853) (cid.
+3041) |:ների Separation of roots.
+is:is the number of the member with the first negative coefficient.
+Indeed, we can write:Equation gives (1) the location of all real roots of equation borders.
+(1) more precisely for the upper edge of the positive roots of the equationAn assessment can be made of the so-called McLaren formulavia [1,2]:where (cid.
+1839) is the largest of the modulus of the negative coefficients of equation (1) (cid).
+1865) is that in equation (1), from left to right:(cid.
+1858) ((cid.
+1876)) ≥ (cid.
+1853) (cid.
+2868) (cid.
+1876) (cid.
+3041) - (cid.
+1839) ((cid.
+1876) (cid.
+3041) (cid.
+2879) (cid.
+3040) + (cid.
+1876) (cid.
+3041) (cid.
+2879) (cid.
+3040) (cid.
+2879) (cid.
+2869) + ⋯ + (cid.
+1876) +1) = (cid.
+1853) (cid.
+2868) (cid.
+1876) (cid.
+3041) - (cid.
+1839) (cid.
+1876) (cid.
+3041) (cid.
+2879) (cid.
+3040) (cid.
+2879) (cid.
+2869)
+(cid.
+1876) −1.
+Accepting (cid.
+1876)> 1, we will get[(cid.
+1853) (cid.
+2868) ((cid.
+1876) -
+[(cid.
+1853) (cid.
+2868) (cid.
+1876) (cid.
+3040) (cid.
+2879) (cid.
+2869) ((cid.
+1876) −1) - (cid.
+1839)]> (cid.
+3051) (cid.
+3289) (cid.
+3127) (cid.
+3288) (cid.
+3126) (cid.
+3117)
+(cid.
+1858) ((cid.
+1876))> (cid.
+1853) (cid.
+2868) (cid.
+1876) (cid.
+3041) - (cid.
+3014) (cid.
+3051) (cid.
+3289) (cid.
+3127) (cid.
+3288) (cid.
+3126) (cid.
+3117)
+(cid.
+3051) (cid.
+2879) (cid.
+2869) = (cid.
+3051) (cid.
+3289) (cid.
+3127) (cid.
+3288) (cid.
+3126) (cid.
+3117)
+1) (cid.
+3040) - (cid.
+1839)].
+(cid.
+3051) (cid.
+2879) (cid.
+2869)
+(cid.
+3051) (cid.
+2879) (cid.
+2869)
+, then (cid.
+1858) ((cid.
+1876)) ։0.
+When (cid.
+1876) ≥1 + (cid.
+3495) (cid.
+3014) (cid.
+3028) (cid.
+3116) (cid.
+3288)
+perform in the equation independently (cid.
+1876) variable (cid.
+1876) = - (cid.
+1878) replacement.
+(cid.
+1837) (cid.
+2869)։ −.
+ It is obvious that − (cid.
+1837) (cid.
+2869) կ will represent the negative of equation (1 )Example.
+ Suppose it is given (cid.
+1876) (cid.
+2872) −3 (cid.
+1876) (cid.
+2871) +8 (cid.
+1876) (cid.
+2870) −5 = 0:(cid.
+1837) = 1 + 81 = 9,(3) Equation gives only (1) the positive roots of equationthe upper limit.
+ However, one can easily get the inner boundary of the negative roots of equation (1).
+ Enough for that (1)The equation որոշել must be determined by the top և inner roots of the realborders.
+According to the first approach:After this substitution we can determine by the analogy of (3) the upper limit of the positive roots of the obtained equation, which we assignThere are internal borders of roots.
+(cid.
+1837) (cid.
+2869) = 1 + (cid.
+3495) (cid.
+3014) (cid.
+3028) (cid.
+3116) (cid.
+3288)
+all real roots of the given equation will be found later (-9; 9)in the range.
+ According to McLaren's approach:(in this case the negative coefficients are (-3) և (-5), M is the largest of their modules, m is the number of the member with the first negative coefficient,that is, the 2nd).
+ (cid.
+1837) (cid.
+2869) determines the positive roots of the equationLet's do it in the mountains (cid.
+1876) = - (cid.
+1878) replacement, we will get:the border.
+To find the lower limit of negative roots, given the equals(cid.
+1837) (cid.
+2869) = 1 + (cid.
+3496) (cid.
+1839) (cid.
+1853) (cid.
+2868) (cid.
+3288)
+= 1 + (cid.
+3496) 51≈3,2:(cid.
+1878) (cid.
+2872) +3 (cid.
+1878) (cid.
+2871) +8 (cid.
+1878) (cid.
+2870) −5 = 0,(cid.
+1837) (cid.
+2869) ´ = 1 + (cid.
+3496) 51 (cid.
+3120) ≈2.5:(in this case the equation has only one negative factor: (-5),then M = 5, and m = 4- that one negative member is the fourthunder).
+Thus, according to McLaren, all given equationsThe real roots will be in the range (-2.5; 3.2).
+Using the described approaches to determine the limits of the real roots of a given algebraic equation, naturally forwardWhen it comes to determining the number of roots և separating them (that is, it is necessary to find out what range each root is in).
+ Algebra to solve these problemsSturm method is known [1,2].
+separate as (cid.
+1858) ((cid.
+1876)) = 0 և (cid.
+1858) ˊ ((cid.
+1876)) = Total number of equations (1) Multiple roots of equation are always possiblefingers, then to describe Sturm's method (generalwithout limiting) we assume that (1) has only a simple equationroots.
+And so, in any (a; b) range (1) using the real ar of the equation (1) (cid).
+1858) ((cid.
+1876)), we form an auxiliary of functions (cid.
+1858) ((cid.
+1876)), (cid.
+1858) ˊ ((cid.
+1876)), (cid.
+1844) (cid.
+2869) ((cid.
+1876)), (cid.
+1844) (cid.
+2870) ((cid.
+1876)),…, (cid.
+1844) (cid.
+3040) (cid.
+2879) (cid.
+2869) ((cid.
+1876)), (cid.
+1844) (cid.
+3040), (4)The essence of the Sturm method of determining the number of fingers is the following.but system:The system of functions (4) constructed in this way is called a Stormsystem.
+ Note that the Sturm system is also a system of functions multiplied by positive numbers (4).
+where (cid.
+1844) (cid.
+2869) ((cid.
+1876) is (cid.
+1858) ((cid.
+1876)) (cid.
+1858) ˊ ((cid.
+1876)) when the remainder is divided by the opposite sign taken, (cid.
+1844) (cid.
+2870) ((cid.
+1876)) is designated by (cid.
+1858) ˊ ((cid.
+1876))(cid.
+1844) (cid.
+2869) ((cid.
+1876)) The balance obtained by dividing by the opposite sign, ևetc., continuing until we have reached (cid.
+1844) (cid.
+3040) ((cid.
+1876)) = (cid.
+1855) (cid.
+1867) (cid.
+1866) (cid.
+1871) (cid.
+1872) to the situation.
+Now calculate the values ​​of the (4) functions of the argument (cid).
+1853) և (cid.
+1854) values ​​(cid.
+1858) ((cid.
+1853)), (cid.
+1858) ˊ ((cid.
+1853)), (cid.
+1844) (cid.
+2869) ((cid.
+1853)), (cid.
+1844) (cid.
+2870) ((cid.
+1853)),…, (cid.
+1844) (cid.
+3040) (cid.
+2879) (cid.
+2869) ((cid.
+1853)), (cid.
+1844) (cid.
+3040), (5)                        (cid.
+1858) ((cid.
+1854)), (cid.
+1858) ˊ ((cid.
+1854)), (cid.
+1844) (cid.
+2869) ((cid.
+1854)), (cid.
+1844) (cid.
+2870) ((cid.
+1854)),…, (cid.
+1844) (cid.
+3040) (cid.
+2879) (cid.
+2869) ((cid.
+1854)), (cid.
+1844) (cid.
+3040), (6)Let (5) be the number of characters changed (cid).
+1849) ((cid.
+1853)),and in (6) (cid.
+1849) ((cid.
+1854)).
+If (cid.
+1853) և (cid.
+1854) are real numbers (cid.
+1853) <(cid.
+1854) և are not (cid.
+1858) ((cid.
+For 1876))(ie for equation (1)) roots, then (cid.
+1849) ((cid.
+1853)) ≥ (cid.
+1849) ((cid.
+1854)) և (cid.
+1849) ((cid.
+1853)) -
+(cid.
+1849) ((cid.
+1854)) the difference is equal (cid.
+1858) ((cid.
+1876)) on the number of real roots of the whole polynomial that lie (cid.
+1853) և (cid.
+1854).
+for what:        Knowing the number of roots in equation (a) b (1), then dividing that range into parts, one can arrive atprivate ranges, in each of which there will be an equation (1)only one root.
+For example.
+ Determine the roots of the following algebraic equationFirst of all, let's determine the real roots of this equationborders.
+ We can write:number և their separation ranges:(cid.
+1858) ((cid.
+1876)) = (cid.
+1876) (cid.
+2871) +3 (cid.
+1876) (cid.
+2870) −1 = 0:(cid.
+1876) (cid.
+2871) +3 (cid.
+1876) (cid.
+2870) = 1,from which it can be concluded that (cid.
+1876) (cid.
+2871) +3 (cid.
+1876) (cid.
+2870) ≥1, if (cid.
+1876) ≥1.
+Let's do it (cid.
+1876) = - (cid.
+1878) change of equation, we will come to the following equation:(cid.
+1858) ((cid.
+1878)) = (cid.
+1878) (cid.
+2871) −3 (cid.
+1878) (cid.
+2870) −1 = 0.
+Taking here (cid.
+1878) ≥4, we will get (cid.
+1858) ((cid.
+1878))> 0.
+the upper edge of the real roots.
+Therefore, the number 1 can be considered as a given equationThus, we have confirmed the upper and lower edges of the real roots of a given equation, so we can say that all realthe roots are in the range (-4; 1).
+To find the number of real roots in the range (-4; 1), compute the system of Storm functions (4).
+ We have Let's make a division: (cid.
+1858) ((cid.
+1876))(cid.
+1858) ((cid.
+1876)) = (cid.
+1876) (cid.
+2871) +3 (cid.
+1876) (cid.
+2870) −1,(cid.
+1858) ´ ((cid.
+1876)) = 3 (cid.
+1876) (cid.
+2870) +6 (cid.
+1876).
+(cid.
+2869) (cid.
+2871) (cid.
+1858) ´ ((cid.
+1876)), we will get:Thus R (cid.
+2869) (x) = 2 (cid.
+1876) +1.
+Now determine R (cid.
+2870) (x):Thus, we can consider R (cid.
+2870) = 1 (we are only interested in the sign).
+(cid.
+1849) ((cid.
+1876))Let's make the following table.
+(cid.
+1858) ((cid.
+1876))(cid.
+1844) (cid.
+2869) ((cid.
+1876))(cid.
+1858) ´ ((cid.
+1876))(cid.
+1844) (cid.
+2870)(cid.
+1876)Thus the equation given in the range (-4; 1) has 3 real onesroots.
+Calculate the change number −4 <(cid.
+1876) <1 range of different values ​​of x   To separate the roots, the Storm system signsfor.
+  As a result, we get numbers from any of themThe Sturm system will lose one sign when passing to the other.
+Let's make the following auxiliary table.
+(cid.
+1858) ´ ((cid.
+1876))(cid.
+1844) (cid.
+2869) ((cid.
+1876))(cid.
+1844) (cid.
+2870)(cid.
+1849) ((cid.
+1876))(cid.
+1876)(cid.
+1858) ((cid.
+1876))Comparing this table with the previous one, we can conclude that:then there is one given equation in each rangeroot: (-3; -2), (-1; 0), (0,1).
+  Thus, the problem of root separationIt was also solved.
+count (cid.
+1858) ((cid.
+1876)) The values ​​of the function (ie the whole polynomial) are differentNote that the above tables were required when compilingfor xs, it will be expedient (also effective)to calculate the values ​​using the Wells scheme [9].
+         3. Approximate real roots of the algebraic equationthe decision.
+         When for algebraic roots for real rootsthe ranges in each of which are in the equation are determinedone root, the next problem that comes naturally, eachThe root problem is the problem of counting with given accuracy.
+For each individual root of the algebraic equationis one of the most effective methods for approximate calculationApplication of Bolzano-Cauchy theorem [4].
+ If the algebraic equation(cid.
+1876) (cid.
+2868) the real root is isolated և is in the range [a; b], thenwe can say that the function (cid.
+1858) ((cid.
+1853)) և (cid.
+1858) ((cid.
+1854)) values ​​are different from each other by a signare (except when (cid).
+1858) ((cid.
+1876)'s schedule (cid.
+1876) (cid.
+2868) directly touches (cid.
+1841) (cid.
+1876) axis).
+  Then we divide the range [a; b]is located.
+ Then we divide that range into ten equal parts,determine the values ​​of the function at the dividing points ևthenև itWe decide (cid) at the dividing points of ten equal parts.
+1858) ((cid.
+1876)) values, after which we decide that (cid.
+1876) (cid.
+2868) in which private sector is the root?the private range where it is located (cid.
+1876) (cid.
+2868) the root.
+ And so on.
+      Returning to the previous example, f (x) = x (cid.
+2871) + 3x (cid.
+2870) −1 = 0, now oursBy nominating the accuracy of the root calculation, it will be possible to determine thatthe number of actions to be performed.
+      Consider an example.
+Let's face it:
+It is required to calculate these roots with the necessary accuracyapproximate values.
+Counting the values ​​of the function, we will notice that it changes its signSeparating the roots, we saw that from the roots of the equationeach is in one of the following ranges: (-3; -2), (-1; 0),(0,1).
+ Consider each range separately.
+1) Divide the range (-3; -2) into 10 equal parts և calculate the functionvalues ​​at the extremes of the ranges: (-3; -2,9), (-2,9; -2,8), (-2,8; -2,7), (-2,7; 2,6), ( -2,6; -2,5), (-2,5; -2,4), (-2,4; -2,3), (- 2,3; -2,2), (- 2 , 2; -2,1), (- 2,1; -2).
+in the following case (cid.
+1858) (- 2,9) = - 0,159 <0, (cid.
+1858) (-2.8) = 0.568> 0.
+ This means:At the ends of the sites, we will get: (cid.
+1858) (- 2,88) = - 0,00467 <0, (cid.
+1858) (- 2.87) =:
+0.0708> 0.
+  That is, the root of the equation is already (-2,88; -2,87)is that the root is already in the range (-2.9; -2.8).
+ Now divide the range (-2.9; -2.8) into 10 equal parts, we get (-2.9; -2.89), (-2.89; -2.88),     (-2.82; -2.81), (-2.81; -2.8) ranges.
+ Counting the values ​​of the function in the intermediate range.
+  Divide this range by 10 equal parts ևCalculate the values ​​of the function at the endpoints of the private ranges obtained:(-2,872; -2,871), (- 2,871; -2,87).
+We will have: (cid.
+1858) (- 2,88) = - 0,00467 <0, (cid.
+1858) (- 2,879) = 0.00292> 0.
+2) Now do the same with the (-1; 0) range.
+That is, the root of the equation is (-2,880; -2,879) and the interval is already in the range (-0.66; -0.65).
+ Repeating action is already in the range (-0.7; -0.6).
+  Continuing in the same way, you have.
+    Therefore, we can assume that (cid.
+1876) (cid.
+2869) ≈ − Approximately 2,879 rootsthe value is 10 (cid.
+2879) (cid.
+2871) with accuracy.
+(cid.
+1858) (- 0,7) = 0,127> 0, (cid.
+1858) (- 0.6) = - 0.136 <0.
+  That is, the root of the equationthey: (cid.
+1858) (- 0,66) = 0,0193> 0, (cid.
+1858) (- 0,65) = - 0,00713 <0, which means that:n, we will come to the following: (cid.
+1858) (- 0,652) = - 0,00185 <0, (cid.
+1858) (- 0.653) = 0.00078>:
+0, which means that the root is in the range (-0,653; -0,652).
+It can be assumed that (cid.
+1876) (cid.
+2870) ≈ − 0.653` 10 (cid.
+2879) (cid.
+2871) with accuracy.
+we will get: (cid.
+1858) (0.5) = - 0.125 <0, (cid.
+1858) (0.6) = 0.296> 0.
+  The root is locatedwe get that (cid.
+1858) (0.53) = - 0.00842 <0, (cid.
+1858) (0.54) = 0.03226> 0, respectivelywe will get the root already 10 (cid.
+2879) (cid.
+2871) with accuracy.
+	(cid.
+1858) (0.532) = - 0.00036 <0,
+(cid.
+1858) (0.533) = 0.00369> 0.
+  In this case already, the root being (0.532; 0.533)in the range, we can assume that (cid.
+1876) (cid.
+2871) ≈0.532` 10 (cid.
+2879) (cid.
+2871) with accuracy.
+(0.5; 0.6).
+  Then, as a result of a similar actionthe root is in the range (0.53; 0.54).
+  Pressing the range further:3) Now do the same steps with the range (0; 1) as a resultequation.
+ It is required to find out this algebraic equationupper և lower boundaries of roots, determine the number of real roots,isolate those roots և calculate the approximate values ​​of those roots with the necessary accuracy.
+ In this example:Consider this example.
+Given: f (x) = x (cid.
+2872) −x − 1 = 0:(cid.
+1853) (cid.
+2868) = 1, (cid.
+1827) = 1, we will get: (cid.
+1837) = 1 + (cid.
+3002) (cid.
+3028) (cid.
+3116) = 1 + (cid.
+2869) (cid.
+2869) = 2.
+(cid.
+1837) (cid.
+2869) = 1 + (cid.
+3495) (cid.
+2869) (cid.
+2869) = 1 + 1 = 2.
+All real roots of the given equation will be found (-2; 2)in the range.
+ The upper bouts featured two cutaways, for easier access to the higher fretswill be,performing in the equation (cid.
+1876) = - (cid.
+1878) replacement, resulting in:Now find the lower bound of the negative roots givenwe will get:In which case?(cid.
+1878) (cid.
+2872) + (cid.
+1878) −1 = 0,(cid.
+1837) ˊ (cid.
+2869) = 1 + (cid.
+3496) 11 (cid.
+3119) = 2:Thus, according to McLaren, all given equationsTo find the number of real roots in the range (-2; 2),The real roots will be in the same (-2; 2) range.
+       (cid.
+1858) ((cid.
+1876)) = (cid.
+1876) (cid.
+2872) - (cid.
+1876) −1, (cid.
+1858) ˊ ((cid.
+1876)) = 4 (cid.
+1876) (cid.
+2871) −1.
+Let's compile the system of Sturm functions.
+Now determine R (cid.
+2870) (x):Thus R (cid.
+2870) = 1.
+(cid.
+1876)Let's make the required table.
+(cid.
+1858) ((cid.
+1876))(cid.
+1858) ˊ ((cid.
+1876))(cid.
+1844) (cid.
+2869) ((cid.
+1876))(cid.
+1844) (cid.
+2870)(cid.
+1849) ((cid.
+1876))Thus, the equation given in the range (-2; 2) has 2 real onesroot.
+ Let's make the following auxiliary table.
+(cid.
+1858) ((cid.
+1876))(cid.
+1858) ˊ ((cid.
+1876))(cid.
+1844) (cid.
+2869) ((cid.
+1876))(cid.
+1876)(cid.
+1844) (cid.
+2870)(cid.
+1849) ((cid.
+1876))         Comparing this table with the previous one, we can conclude that:then there is one given equation in each rangeroot: (- 1; 0), (1; 2).
+The problem of separating the roots was also solved.
+  Let's discussIf we continue the process once, we will get:each range separately.
+1) Divide the range (-1; 0) into 10 equal parts և calculate the functionvalues ​​at the ends of the resulting ranges, the same operationdoing as much as we want to find the root.
+  We will get: (cid.
+1858) (- 0,8) = 0,209> 0, (cid.
+1858) (- 0.7) = - 0.059 <0.
+  Then (cid.
+1876) (cid.
+2869) ∈ (−0.8; −0.7).
+Then և (cid.
+1858) (- 0,73) = 0,0139> 0, (cid.
+1858) (- 0,72) = - 0,01126 <0, (cid.
+1876) (cid.
+2869) ∈ (−0.73; −0.72) (cid.
+1858) (- 0,725) = 0,001> 0, (cid.
+1858) (- 0,724) = - 0,0012 <0, (cid.
+1876) (cid.
+2869) ∈ (−0,725; −0,724).
+From this we can conclude that (cid.
+1876) (cid.
+2869) ≈ − 0.724` 10 (cid.
+2879) (cid.
+2871) with accuracy.
+(cid.
+1858) (1,2) = - 0,126 <0, (cid.
+1858) (1,3) = 0,556> 0, ⇒ (cid.
+1876) (cid.
+2870) ∈ (1,2; 1,3).
+(cid.
+1858) (1,22) = - 0,004 <0, (cid.
+1858) (1,23) = 0,058> 0, ⇒ (cid.
+1876) (cid.
+2870) ∈ (1.22; 1.23).
+(cid.
+1858) (1,22) = - 0,004 <0, (cid.
+1858) (1,221) = 0,001> 0, ⇒ (cid.
+1876) (cid.
+2870) ∈ (1,22; 1,221).
+It can already be concluded that (cid.
+1876) (cid.
+2870) ≈1,220` 10 (cid.
+2879) (cid.
+2871) with accuracy.
+2) And now without comments, let's do the same for the range (1; 2).
+computer solution        4. Algebraic equationsThrough MATHCAD և SYMBOLAB packages.
+         a) Numerical roots of real roots of algebraic equationsIt is convenient to use MATHCAD for approximate determination of valuesthe system.
+ To do this, you need to use the two functions of MATHCAD:root և polyroots.
+  Let's focus on the polyroots function.
+  This feature:applies only to the solution of equations whose left partshave the forms of the whole polynomial (that is, the equations are of algebraic nature).
+Example 1. Find x4 – x-1 = 0
+  equation roots polyrootswith the help of a function.
+          The left part of the equation is used to represent the function f (x) depending on x (.
+=) the operator.
+ (.
+=) the operator can:Install with the keyboard, as well as by pressing on the panel "Operators".
+  Then from the "Determination and calculation" field is neededclick (.
+=) the operator (Fig. 1).
+ After that you need the help of the keyboardto collect the polynomial: (cid.
+1876) (cid.
+2872) - (cid.
+1876) −1 (fig.2).
+                                                                                                          Figure 1.Figure 2.         Clicking "Function" on the panel, then separating the polyroots function from the "Solution" section of the "Function" sections.
+ This:The function has only one argument, the vector v, whose elements are the coefficients of the polynomial.
+ Note that the function returns the solution of the given equation also in the form of a vector.
+  Install:polyroots function on the document, arbitrary place (Fig. 3).
+Figure 3.Elsewhere on the document, let's construct the vector v consisting of coefficients of a polynomial.
+  It can be typed directly by hand, but it is more convenient to use a special command.
+ In this instruction:with the help of which one can write the coefficients of any polynomial vvector.
+ Here the attribution sign should be used: (.
+=) (Fig. 4).
+       Figure 4.Then select "coeffs:" from the "Symbol operations" field(coefficient) ”(Fig. 5) command, which should be written in the record domainf (x) (Fig. 6).
+Figure 5.Figure 6.By clicking the mouse on any of the ranges, we see the vector with coefficients, which is arranged in degrees x of the polynomialin descending order (Fig. 7).
+Figure 7.Now to get the roots of the equation, instead of the argument of the polyroots function, write v (Fig. 8) և put the sign (=) (Fig. 9).
+Figure 8.Figure 9.As a result, we get the roots of the equation, moreover, the "real" complex roots are given.
+ Without interfering with the rootsApproximate values ​​are given with 10-3 accuracy.
+ And if necessaryCalculate the approximate values ​​of the roots with higher accuracy, then:It is enough to press "TOL" from the "crack" field on the panel.
+= »Եւ select the desired accuracy (Fig. 10).
+  Note that the roots coincide with the roots found analytically.
+Figure 10.Example 2. Find (cid.
+1876) (cid.
+2871) +3 (cid.
+1876) (cid.
+2870) The roots of the equation 01 = 0.
+ The approximate values ​​of the above are: (cid.
+1876) (cid.
+2869) ≈ − 2,879, (cid.
+1876) (cid.
+2870) ≈ − 0.653, (cid.
+1876) (cid.
+2871) ≈0.532.
+ Doing the sameAs a result of the lytic solution, the root of the equation was obtained, as in the previous example, with the help of the polyroots function of the MATHCAD program, we obtain the three real roots of this equation (Fig. 11).
+Figure 11.b) Let us also present, for example, the calculation of the roots of equation 1even through the SYMBOLAB computer package.
+ The advantage of this program is that you can see the algebraic equation hereThe whole process of determining the roots in its stages ևwith details.
+         The current "keyboard" on the corresponding program documentwith the help of which we write the required equation in the record field (Fig. 12).
+Figure 12.Then, by clicking the "solve" button, we get an equationall real roots (Fig. 13).
+Figure 13.With the help of the "show stages" button in the right corner of the solution line, you can get the solution of the equation in separate stages with details.
+ It is not possible to bring all the details in this article due to the large amount of information.
+Note that the SYMBOLAB program also allows you to use it "Hide the graph (hide the graph)" or "show the graph (show the graph)"from the instructions.
+  We can get it with the help of the "show graph" buttonGraph of the polynomial to the left of the equation և its intersection points Oxwith the axis (Fig. 14).
+  Just to have the values ​​of the rootsThe mouse should be kept on the intersection points of the axis of the graph և abscissasseparately (Figs. 15,16).
+Figure 14.Figure 15.Figure 16.The SYMBOLAB program also enables the equationto solve in another graphical way by selecting on the panelGRAPHING CALCULATOR section (Fig. 17).
+Figure 17.x (cid.
+2872) = x + 1.
+  Then in the left corner of each postIn this case, it is convenient to present the equation as follows:it is necessary to write the right and left parts of the equation separately,each of which corresponds to a unique color.
+ Without it!Graphs of color-differentiated functions appear in the coordinate system of action.
+ Holding the mouse on the two graphsGraphs are displayed individually on the intersection pointsthe coordinates of the intersection points (Figs. 18,19).
+  It is clear from these pointsAbscesses will be the real roots of the equation.
+Figure 18.Figure 19.       5. Conclusion.
+  The methodological work presents all the questions related to the approximate calculation of the real roots of algebraic equations (finding the real rootsboundaries, their number, separation և the method of approximate calculation of each individual root).
+  The capabilities of the computer MATHCAD system are described in detail:the exact roots of the algebraic equations with the desired accuracyto count.
+ Examples are considered.
+отделение корней в оддельные promzhutki; method approximate to their determination.
+Numerical Methods for Solution of Algebraic Equations and the Application օ f:Literature 1. Курош А.Г. Course of algebra. M.
+ Published in "Science". 1975. 432 p.
+2. Demidovich BP, Maron I.A. Basic math calculators. M.
+ Izd3. Руминский Л.З. Вычислительный лабораторный praktкум. M.
+  GIFML.4. Fichtengolts GM Basics of mathematical analysis. Т.1.М ..
+ Published in "Science".physics. M.
+ Published in "Science". 1983. 236 p.
+6. Lanchik MP, Ragulina MI, Henner EK Численные metodы. M.
+Computer practitioner. M.
+ Published in "Finance and Statistics". 2006. 320p.
+9. Margaryan L. M., Sargsyan S. H., Calculating the value of the whole polynomial կիրառ Application of the computer MAPLE package // Scientific Bulletin, GSPI, 2015, issue B, N 1, pp. 117-127.
+Information about the authors:Gayane Socrat Hayrapetyan - Yerevan State University, Higher Mathematics ենտ Assistant of the Chair of Mathematics Teaching Methods, PhysMath. scientist candidate, E-mail.
+ gayane_hayrapetyan@mail.ru:Samvel Hovhannes Sargsyan - Yerevan State University, Higher Mathematics և Head of the Chair of Mathematics Teaching Methods, Paper of NAS RA Member, Physics and Mathematics Doctor Professor
+E-mail:
