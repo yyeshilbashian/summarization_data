@@ -1,82 +1,81 @@
-As we know, during microparticle interactionsRedistribution of energy և impulses of colliding particles takes place, which may be accompanied by the formation of other particles.
- In particular, elastic interactions are characterized by the conservation of the total kinetic energy of the interacting particles.In all cases, simple geometry can be describedschemes with the help of pulse diagrams.
-  And of courseIn the case of high energies, relativistic versions of diagrams are considered.
-  Generally pulse diagramsThe method is widely used in elastic non-relativistic [2] ևrelativistic [3], as well as for non-elastic collision processes.
-  Impulse diagrams provide the opportunityto find the impulses and energies of the interacting particles at the arbitrary scattering angle after the scattering process, how to solvethe opposite problem.
+As we know, during the interactions of microparticles, the energy և redistribution of the impulses of the colliding particles takes place, which may be accompanied by the formation of other particles.
+ In particular, elastic interactions are characterized by the conservation of the total kinetic energy of the interacting particles; in the case of all types of interactions, they can be described by means of simple geometric diagrams, pulse diagrams.
+  And in the case of naturally high energies, relativistic versions of diagrams are considered.
+  In general, the pulse diagram method is widely used for elastic non-relativistic [2] and relativistic [3] processes, as well as for non-elastic collision processes.
+  Impulse diagrams allow you to find the impulses and energies of the interacting particles at any scattering angle after the scattering process, as well as to solve the inverse problem.
 The following approach is proposed below for the graphical analysis of similar processes.
-  Using impulse energymathematical relativistic invariant from the presentation:idea where horizontalpauseimportenergy values, and:two-dimensionalenergy space  the axis is dated by a particle vertical axis according to "movement"is the impulse.
-  energy values ​​where:particle relativisticWith such geometric modeling, in particular,Line 1:The energetic state of the relativistic electron will be mapped with a segment whose horizontal "component" is:
+  Using the mathematical representation of the pulse-energy relativistic invariant, the idea where the horizontal pause of energy values, of the ischemic energy space, is dated to the vertical axis of the particle is the momentum of the "motion."
+  energy values, where by relativistic-like geometric modeling of a particle, in particular, the energetic state of a relativistic electron Fig. 1 is plotted in a segment whose horizontal "component" is:
 is the pause energy of the electron, and the vertical "component"
-, where:   is the relativistic impulse of the electron (Fig. 1).
-  Thus, the energy states of the particles  are reflected in the energy space dictated by dots or structural convenienceswith non-directional segments that connect the starting point O (the beginning of the energy calculation) to the position of the particle in the energy space42022cmcPE20cmEPcPeE20cmEeexcPEeeyePEOyE, x, 20cmeeEcPe.
-  Now let's try to analyze one using such modelinghow many relativistic processes.
+, where is the relativistic impulse of the electron (Fig. 1).
+  Thus, the energetic states of the particles in the energy space are expressed by the non-directed sections of the line dictated by points or structural conveniences, which connect the starting point O (beginning of the energy calculation) to the position of the particle in the energy space. 42022 cmcPE , Կետ20cmeeEcPe.
+  Now let us try to analyze some relativistic processes using such modeling.
 1. Compton's appearance.
-Line 2:How do we know? Interaction of radiation with the environmentleads to its dispersal.
-  Let's build the energy of Comptonthe diagram.
-  Pre-interacting particles (free ևto represent the energetic states of an immobile electron and a falling photon) in space, respectively A և Bwith points (OA =:
+Fig.2 As we know, the interaction of radiation with the environment causes it to scatter.
+  Let's build the energy diagram of Compton's speech.
+  Express the energetic states of the interacting particles (free moving electron and falling photon) in the energy space at points A և B, respectively (OA =
 և OB =:
-  passages where:  is the initial impulse of the photon).
-The law of full energy conservation proves the full energy of an isolated system of interacting particles (OA և OB segments)Invariability of lengths (OA + OB sum).For the geometric representation of the last factConstruct an ellipse with points A և B that passes through the space EO O. starting point (Line 2).
-Ellipse, being a geometric place of points on which:The sum of the distances from the two given points (A և B) has the same constant value, unites in the energy spaceall possible systems of interacting particles (electron և photon)energy production states before փոխ after interaction.
-EO2cmecPP.2constcPcmOBOAeEOAKBKKFIIIIII One of such possible productive states is, for example, the systemThe initial state reflected by point O.
- Consider the system:the output state indicated by an arbitrary point K, which will be mappedThe state of the system after a certain process of electron-photon interaction (after the process of scattering a photon on an electron).
- Need it here?assume that the BK shock reflects the scattered photon energystate, and AK refers to the electron of the repulsion (though similarCompliance is not uniform, "it is one of the possible outcomes of the process."inverse compliance).
- Now let's rotate AK ևBK segments, scattered photon և backward electron energyto compare the conditions of the energy metering system with the EO fixed systemfor the purpose.
-  Such a function will allow to detect the electron of the strike  և scattered photonthe magnitudes of the pulses(Line 2).
+  segments where the initial pulse of the photon is).
+The law of full conservation of energy proves the invariance of the full energy of an isolated system of interacting particles (lengths of OA հատված OB segments (sum of OA + OB).
+An ellipse, being a geometric point of points whose sum of distances from two given points (A և B) has the same constant value, unites in the energy space all possible energetic states of the system of interacting particles (electron և photon) before փոխ interaction.
+EO2cmecPP.2constcPcmOBOAeEOAKBKKFIIIIII One of such possible productive states is, for example, the systemic initial state represented by point O.
+ Consider the productive state of the system indicated by an arbitrary point K, which is the state of the mapping system after a certain process of electron-photon interaction (after the process of scattering a photon on an electron).
+ Here it must be assumed that the BK shock reflects the energy state of the scattered photon, while AK refers to the electron of the repulsion (although such a correlation is not uniform, հնարավոր one of the possible outcomes of the process is reverse correlation).
+ Let us now rotate the segments AK և BK, the energy states of the scattered photon և repulsion electron, with the aim of combining them with the energy EO fixed system.
+  Such a function will make it possible to determine the magnitudes of the scattered electron pulses of the repulsive electron (Fig. 2).
 Step 1
-Draw with center B և with radius BK  intersection at the point.
- In this case  bow up to the axis E  is the energy of the scattered photon,scattered photon impulse.
+Let intersect at point B կենտրոն with radius BK.
+ In this case, the arc is the energy of the photon scattered along the axis E, the pulse of the scattered photon.
 Step 2.
-Draw with center A և with radius AKwith:    intersection at the point.
- In this case the bow up to the E axis, where: - is the electron pulse of the strike.
+Draw the intersection with center A ում at the point along the radius AK.
+ In this case, the arc is up to the axis E, where the pulse of the electron is repulsed.
 Step 3.
-Draw with center O և  bow to point F.      Crossing with a bow.
-  As a result, a BOF pulse will be formed with radius: triangle (Fig. 3), where:.
-Line 3:ePPIKcPKBPIIK422222cmcPOAKOKAAKee, cPKOeePKOIIIIcPcPcPecPOBcPKBBKBF PcPKOOFe It is obvious that on the basis of the BOF triangle, by means of large-scale shifting, the pulse diagram of the Compton phenomenon can be plotted (Fig. 4), Line 4:  is the scattering angle of the photon.
-where:Let us now analyze the energy diagram for Compton's eventconstruction և possible application steps.
-  Suppose the wavelength of scattered radiation is experimentally measured (scattered photonfrequency), ie known as scattered photonsimpulse, as well as reflecting its energy state in EO space    Absolute values ​​of length.
-  It is possibleUnderline the following algorithm for the construction of the energy diagram (Figure 5).
-On line 5, fix the falling photon արժ real electron on the axesrepresenting energy states B (OB =:
+Draw the ով arc with center O until it intersects with the arc at point F.
+  As a result, a triangle with BOF pulse radius will be formed (Fig. 3), where.
+Line3 ePPIKcPKBPIIK422222cmcPOAKOKAAKee, cPKOeePKOIIIIcPcPcPecPOBcPKBBKBF PcPKOOFe It is obvious that on the basis of the BOF triangle, by means of large-scale shifting, one can plot the pulse diagram of Compton (Fig. 4), Fig. 4 is the scattering angle of the photon.
+whereWe will now analyze the steps for the possible application of energy diagram construction Կ for Compton's appearance.
+  Suppose that the wavelength of scattered radiation (scattered photon frequency) is experimentally measured, that is, the values ​​of the absolute magnitude of the length of the scattered photon pulse as well as its energy state in the EO space are known.
+  The following algorithm can be emphasized after the construction of the energy diagram (Figure 5).
+Line 5 to represent the photon falling on the axes արտ to represent the stationary electron energies B (OB =
 ) և A (OA =:
 points.
 2. Construct an energy ellipse passing through the starting point և O with focal points A and B.
-3. Draw with center B և arc with radius to the ellipse at point K.the intersection.
- In this way it will become certain from the interacting electron և the photonThe position of the point K representing the productive energy state of the system consisting of EO after interaction.
-4. Construct the AK part of the energy state of the repulsive electron  ).
-Further construction should be continued according to the above (1-3)procedure.
-Thus, a diagram of energy states is an opportunityallows to estimate the known value of the scattered photon frequency impulse,photon scattering the magnitude of the angle of the strike electronas the size of the angle.
-  It is also possible to study the different possible output parameters of the scattering processinterconnections, the effective state of the system after dispersaldefining point K according to the permissible displacements of the energy ellipse arcIn this case.
-It is easy to see that the final product of the system is the point M., kickback electronin the case shown, when AM = OA =
+3. Draw an arc with center և radius B, intersect at point K with the ellipse.
+ In this way, the productive energy state of the system consisting of an interacting electron և a photon will be determined by the position of the point K, which reflects the interaction in the EO space.
+4. Construct the AK part of the energy state of the repulsive electron).
+Further construction should proceed in accordance with the procedure set out in steps (1-3) above.
+Thus, the diagram of energy states makes it possible to estimate the momentum of the known value of the scattered photon, the magnitude of the scattering angle of the photon, the magnitude of the electron of the repulsion as the angle.
+  It is also possible to study the correlations of the parameters of different possible outputs of the scattering process, at point K, which characterizes the productive state of the system after scattering, in the case of permissible displacements of the energy ellipse arc.
+It is easy to see that the final product of the system, at point M, in the case of an electron-reflected state of stroke, when AM = OA =
 Impulse:
-(This can be confirmed by drawing կենտրոն AM with center A  a bow with radius that intersects with the E axis at point O (Fig. 6)).
-Line 6:cP2cmecPIeEeP2cme0eP Continuing construction according to steps (1-3) of the procedure և accountGiven that OA + OB = AM + BM, that is, BM = OB we can be sure that:The pulse diagram in this case will look like this (Figure 7).(no scattering).
-Line 7:Line 8:And when the final product state of the system is depictedwith point N, then the procedure of steps (1-3) leads to center B ևTo the constructions of arc I with radius BN and center O, to radius III with radius ON, which intersect only at point N (Fig. 8), ie photon - immovableThe electron scattering diagram on the electron in this case will take the following form (Fig. 9).
-Line 9:(scattering backwards).
-  Thus, the final product state of the system, the point K representing the photon after scattering on the electron, is permissible.shifts can be made according to the energy ellipse arc MN segment, և accordingly the scattering of the photon  in the range.
-    the angle changes  Let us now consider the opposite problem.
-  Suppose it is required  the wavelength of the scattered radiation wave  frequency).
-  To do this, let's pre-determine some(photonThere are analyzes (Fig. 10).
-Line 10:Here:.
- And according to full energy conservationof the law, where:-strokeis the full energy of the electron.
-according to the cosine theorem  , where:.
+(This can be confirmed by drawing a bow with radius կենտրոն AM with center A, which will intersect with axis E at point O (Fig. 6)).
+Line 6 cP2cmecPIeEeP2cme0eP Continuing the construction according to the procedure (1-3) և taking into account that OA + OB = AM + BM, ie BM = OB we can be sure: In this case, the pulse diagram will look like this (Figure 7) (no scattering).
+Fig.7 Fig.8 And when the final product state of the system is plotted at point N, then the procedure of steps (1-3) leads to the construction of arc I with center B կենտրոն with radius BN and arc III with radius ON with ON intersect only at point N (Fig. 8). ), that is, the momentum scattering diagram of a photon on a stationary electron will take the following form (Fig. 9).
+Line 9 (scattering backwards).
+  Thus, the permissible motions of the point K representing the final state of the system after the scattering of the photon on the electron can be made according to the MN segment of the energy ellipse arc, and thus within the scattering range of the photon.
+    The angle changes. Now let's look at the inverse problem.
+  Suppose the wavelength of the scattered radiation wave at an angle (frequency) is required.
+  For this purpose, let us pre-determine certain (photonics analyzes (Fig. 10).
+Line 10 Here.
+ And according to the law of full energy conservation, where is the full energy of the electron struck.
+according to the cosine theorem, where.
  On the other hand.
- From the last two relations we will get:  But how do we know about Compton?Comparing the last result with (**), we will getLet's address the opposite problem and offer energy(by:   of).
-  (4)                                                                                                                                    The following procedure for constructing a diagram.
- in space let us construct the energy ellipse where2. From point B, take BC at a known angle to the axis OE    straight.
-3. Rated from point B to the ellipse axis according to relation (4) angle BD, the intersection of which K with the energy ellipse will determine the final state of the electron-photon systemafter the dispersal process.
- Moreover,.
-4. Draw an arc I with center B և radius BK intersecting the line BCAt point F.
- As a result, a Compton BOF pulse will be formedthe diagram whose sides are .
-Here:  is the pulse of the electron of the strike.
-  So knowing the photon scattering(4) Evaluate scattered photons through relevance  angle, one can characterize the energy diagramfrequency pulse,as if it were an electron  the magnitude of the impulse anddirection.
-Now let's look at the following using an energy diagramThe problem of scattering photons on real electrons.
-Using the laws of conservation, show that the free electroncan not absorb a photo.
+ From the last two relations we will get: However, as we know for Compton's comparison, comparing the last result with (**), we will get to return to the inverse problem և suggest energy (according to).
+  (4) the following procedure for constructing the diagram.
+ Let us construct the energy ellipse in space, where 2. From point B, take the line BC at a known angle to the axis OE.
+3. From the point B to the axis of the ellipse with respect to the axis according to (4), take the line BD, the intersection of which point K with the energy ellipse will be determined after the final state of the electron-photon system.
+ Moreover.
+4. Draw an arc I with center B և radius BK, which will intersect with the line BC at point F.
+ As a result, Compton's BOF pulse diagram will be formed, the sides of which are:
+Here is the pulse of the electron of the strike.
+  Thus, knowing the angle of the scattered photon by relating to the scattering of a photon (4), one can determine the frequency pulse, the magnitude, and the magnitude and direction of the electron pulse that characterize the energy diagram.
+Let us now consider the following problem using an energy diagram, which relates to the scattering of photons on stationary electrons.
+Using the laws of conservation to show that a free electron can absorb a photon.
 Solution.
- According to the system of interacting particles in question, the initial ground state includes a photon և free electronThe initial energy states expressed in EO energy space are expressed as two OA =
+ According to the system of interacting particles in question, the initial ground state includes the photon և free electronegative energy states, which are expressed in the EO energy space by two OA =
  with sections (Fig. 11).
-This is how the ellipse with energy points A, B is centered, which:In the EO system of energy calculation, the NM arc of the permissible positions of the point K representing the final state of the photon-free electron system (AM = OA) is predetermined.
-    It is easy to see that the position of point K (the final state of the system) with respect to the focal points A և B (systemto the initial state) is given by two (AK և BK) energy segments, which in itself proves that the final state of the system is two-component.
-  In this way, free is excludedThe physical reality of the absorption of a photon by an electron, which would lead to the existence of a single component state of the electron absorbed by the photon.
-  OtherwiseThat is, storage laws only allow free electronsPhoton scattering phenomena when a two-component system is maintained(electron-photon) composition before և after interaction.
-Line 11:Literature Information about the author:Nikoghosyan Hrachik Suren - physicist. Candidate, Associate Professor, Gyumri M. Nalbandyan
-State Pedagogical Institute, physics, technology և their teachingChair of Methodology, E-mail.
+This is how the energy-centered ellipse A, B is plotted, which predetermines the NM arc (AM = OA) of the allowable positions of the point K representing the final state of the photon-free electron system in the EO system of energy calculation.
+    It is easy to see that the position of point K (the final state of the system) with respect to the focal points A և B (relative to the initial state of the system) is given by two (AK և BK) energy segments, which in itself proves that the final state of the system is divisible.
+  In this way, the physical reality of photon absorption by the free electron is excluded, which would lead to the existence of a single component state of the electron absorbing the photon.
+  In other words, conservation laws allow only the scattering of photons by a free electron when the two-component (electron-photon) composition of the system is preserved before or after the interaction.
+Figure 11 Literature About the author Hrachik S. Nikoghosyan - Physicist. Candidate, Associate Professor, Gyumri M. Nalbandyan State Pedagogical Institute, Chair of Physics, Technology և their teaching methodology, E-mail.

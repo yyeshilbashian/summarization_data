@@ -1,0 +1,46 @@
+Introduction.
+The solution of hyperbolic type-differential equations is of great importance because it is widely used [1,2].
+  The method of finite differences (networks) is one of the most universal and widespread methods for solving equations in mathematical physics [2,3].
+The development of the latter is mainly due to the development of modern computing technologies [2,3].
+  Computer mathematics packages are now very popular, in which Mathematica occupies a unique and uncompromising place and is constantly evolving, including as a high-quality programming environment [4-14].
+[13] The paper considers the approaches to solving hyperbolic block-differential equations according to explicit differential schemes, and compiles the solution calculation program in Mathematica.
+In this work we refer to the method of solving differential equations of the hyperbolic type according to an undefined differential scheme [2, 13].
+ The new methodological approach interprets the process of solving hyperbolic equations of different types according to the networks of an undefined differential scheme, presenting them by means of a corresponding schematic diagram.
+  Then, a specific boundary problem is considered, which is solved by drawing up and executing an unspecified scheme according to the network method.
+Compared with the results of the exact solution, a study is carried out from the point of view of practical concurrence և The high efficiency of the solution of the network method according to the unspecified differential scheme is solved in the solution of hyperbolic type-differential equations.
+2. An obviously differential scheme for solving differential equations of the hyperbolic type.
+  Suppose we have the following marginal problem with the differential equation of the hypebolic type. Where is a constant real number, given continuous functions according to their arguments.
+An undefined differential scheme has the following form: -where are certain numeric values.
+To get the unspecified schematic corresponding calculation algorithm, make the following appointments (where from the problem conditions).
+The values ​​of կախված,, the forms of the functions depend on For an indefinite differential scheme we have [2], for the differential equation of the hyperbolic type of appearance (2) the differential scheme will take the view where.
+And (3) the differential scheme will take the following form: Now we will present the schematic drawing describing the given differential scheme.
+  It is given in fig. In the form shown in 1, where և is the order in which the node values ​​of the functions are calculated in the network nodes.
+ Ja) Fig. 1 b) According to the undisclosed scheme, the calculation algorithm runs the values ​​of, followed by the following steps.
+ First, all the steps are determined, and fig. In 1, b, the after-count is done in an interconnected way, according to fig. Figure 1, where the numbering is sequential.
+  Fig. 1, a are presented.
+    Nodes in which the values ​​of -s are known by the term եզր preconditions are shown in green.
+ Thus, first the values ​​of s are determined, then the values ​​of the second temporal layers in the nodes of the first time layer, and then the values ​​of those same layers are continued.
+In general, let us note that the values ​​in the nodes of the first layer, we can temporarily calculate the values ​​of the network function.
+  The function values ​​in each temporal layer are calculated in the opposite direction of the lattice layers (Fig. 1b).
+having special cases of counting Clarifications in the 1st layer, which make the calculation process with an undisclosed scheme more illustrative.
+  Consider, for example, the patterns of network nodes (Fig. 2).
+-j) Fig. 2 b) In the samples of Figure 2, the blue arrow indicates the nodes, and the green arrow indicates the nodes.
+  As an example of the dependence of the nodes, let us present the sample of the calculation of n և (Fig. 3).
+Fig. 3 Nodes in which the values ​​of -s are known by default ըստ are shown in green.
+To calculate the value of a function in a node according to an undisclosed scheme, we use the term condition արժեք the value of the function in a node already known և 3. The calculation program for solving hyperbolic differential equations according to the obviously differential scheme.
+Consider the following edge problem from the value of.
+We can write the initial conditions in the following form, and the final conditions in the form:
+The unspecified differential scheme of the problem will look like this: (11) Represent the computational program corresponding to the differential scheme in the Mathematica environment as follows: The result is the corresponding structure of the function (Fig. 4).
+Fig. 4 և ները և և և և և և և և և և և և և և և և և և և և և և և և և և և և և և րդ րդ րդ րդ Ա 5.
+In the case of different values ​​of the network partition step, we plot the graphs of the corresponding time curves fixed at the moment, depending on the coordinate. 6.
+Let us plot the graphs of the curves corresponding to the function at different points in time, at different values ​​of time, depending on the fixed coordinate. The result is shown in Fig. 7.
+By the method of finite differences according to the undisclosed "values ​​of the relative error estimate due to the values ​​of the number of divisions during the solution of the scheme" correspond accordingly ".
+Fig. 7 to present the exact problem [12] ները surfaces of finite differences according to the explicit scheme in the same coordinate system as the solution Now.
+Fig. Fig. 8 Figure 8 shows the graph of the exact solution of the problem in green, and the graph of the solution of the solution by the method of finite differences according to the unspecified scheme in red.
+4. Conclusion.
+  The network method has been և continues to be relevant գտնել to be widely used in schematic interpretation of various methods of science.
+According to undiscovered areas.
+  It is an approximate method for solving differential equations in mathematical physics, but it provides a methodical approach to the differences observed in the final large work of great interest.
+  And the calculated calculation programs of the observed general problem not only provide the calculation process of problem solving with the mentioned methods, with accuracy, but also allow graphic visualization of the results, which is valuable from the point of view of "digital methods" and "pedagogical methodological method".
+  In addition, the programs are quite general են allow other edge problems to be solved only by changing the input data.
+  Simultaneous computational software is quite affordable for the non-programmer մեծ provides great accuracy.

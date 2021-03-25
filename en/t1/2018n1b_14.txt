@@ -1,56 +1,54 @@
 Preface.
- It is imperative that the content of school physics in the conditions of today's scientific and technical progress ևIt must be constantly updated and enriched by dictation.
- In this regard, the physics teacher is required to make extensive use of additional sources of information and the latest technologies (multimedia media), homemade devices and new demonstration experiments that will allowEnrich with constant creative search and experimentationthe content of physics, of course, if there are additional materialsmethodically correct ճիշտ didactically effectiveused, which is the purpose of this study.
+ It is imperative of the time that in the conditions of today's scientific and technical progress, the content of school physics և պետք must be constantly updated և enriched by dictation.
+ In this regard, the physics teacher is required to make extensive use of additional sources of information and the latest technologies (multimedia media), homemade devices and new demonstration experiments that will allow the creative search to enrich the content of physics, of course, if these additional materials are methodically correct which is the purpose of this study.
  The goal is achieved by a concrete example.
 Serious reforms have taken place in the educational system of the Republic of Armenia in the last decade.
  The general strategy of education, educational standards, curricula and textbooks, ways and methods of organizing education, the assessment system have changed.
  However, the implementation of fundamental reforms in the field of education is slow, which has led to the accumulation of many problems that require priority solutions.
-  It is one of themnatural sciences in general, the subject of "Physics"In particular, the lack of interest of students in recent years.
-  There are "Physics" among studentsDifferent ways to arouse interest in the subject.
+  One of them is the lack of interest in natural sciences in general, with the subject "Physics" in particular, observed in recent years.
+  There are different ways to arouse students' interest in the subject of "Physics".
 One of them, in our opinion, is the organization and conduct of demonstration-laboratory experiments envisaged by the curricula of that subject with the use of new technical means [1].
-  The other as:Experience shows that it is a combination of traditional teaching methods և the latest technical means [2], which will make physical concepts and laws more perceptible, will contribute to the formation of students' sustainable interests, will make the subject attractive, therefore ևwill help the physics teacher to activate students' creativityactivities.
-  Teaching the subject of "Physics" will certainly be even more effective if the teacher uses new demonstration experiments, homemade devices and equipment, as well as some laboratory work.from the practice of organizing and conducting information technology through software means [3].
- As a result, for learnersThe subject of "Physics", which has an objective significance in science and technology, will become a subjective necessity;desire.
-Let's try to briefly present a specific material that allows the teacher to follow the logical process without teachingIntroduce students to electromagnetic currents in liquids using a laboratory device developed by usthe mechanism of occurrence.
-  Electromagnetic shorteningstudy in liquid և plasma transmitters, in our opinion,will broaden learners' perceptions of the event,will contribute to the enrichment and strengthening of their knowledge.
-  Here:they will clearly see that all kinds of currents can ariseIn transmitters, whether solid, liquid or gaseous, they will understand that the transient phenomenon is of a general nature. it looks not only solid, but
-in liquid-plasma closed conductors.
- That is, anyA closed current will be generated in the closed transmitter circuit, henceIf there is a limited area with a closed contourchange in magnetic flux regardless of the occurrence of that changefor reasons.
-We start the presentation of the material by the fact that there are two mechanisms for the generation of ELSU in a transmitter in a magnetic field.[4] The first is when the transmitter is stationary in a magnetic field that changes over time.
+  The other, as experience shows, is the combination of traditional teaching methods with the latest technical means [2], which will make physical concepts and laws more perceptible, will promote students' sustainable interests, will make the subject attractive, and will ակտիվcontribute the creativity of learners.
+  The teaching of "Physics" will certainly be even more effective if the teacher uses new demonstration experiments, homemade devices and equipment, as well as the practice of organizing and conducting some laboratory work with the help of information technology software [3].
+ As a result, the subject "Physics", which has an objective meaning in the students' coherence և in technology, will become a subjective necessity և, of course, their interest in physics will increase, consequently, a desire to learn will be formed.
+Let us try to briefly present a specific material that allows the teacher to introduce the students to the mechanism of electromagnetic current in liquids through a laboratory device made by us without disturbing the logical process of teaching.
+  The study of the phenomenon of electromagnetic radiation in liquid-plasma transmitters, in our opinion, will expand the students' perceptions of this phenomenon, will contribute to the enrichment and strengthening of their knowledge.
+  They will clearly see that the current of the winding can occur in all types of transmitters, be it solid, liquid or gaseous, they will understand that the winding phenomenon is of a general nature. It is observed not only in solid but also in liquid-plasma closed conductors.
+ That is, in any closed transmitter circuit, a short-circuit current will flow, followed by a short-circuit current, if a change in magnetic flux with a limited surface area in a closed circuit, regardless of the cause of that change.
+Material delivery begins with the fact that there are two mechanisms by which a transmittance generates an ELSU [4] in a transmitter in a magnetic field, the first being when the transmitter is stationary in a magnetic field that changes over time.
  In this case, the reason for the occurrence of ELSU in it is the appearance of a storm electric field, which sets in motion the free charge particles in the transmitter, causing a surge current.
-  Second, when the transmitter moves in timein a constant magnetic field.
- In this case, it is the ELSUThe cause is the Lorentz force acting on the free charges in the transmitter by a magnetic field.
+  Second, when the transmitter moves in a magnetic field that does not change over time.
+ In this case, the reason for the occurrence of ELSU in it is the force of Lorentz acting on the free charges in the transmitter by the magnetic field.
  We then turn to the historical information of the discovery of the phenomenon of electromagnetism in transmitters, first referring to Faraday's nearly ten years of research on the phenomenon of electromagnetic radiation [5], which resulted in 1831. He was able to prove experimentally that an alternating magnetic field creates an electric current in a transmitting circuit.
- Then, summarizing the results of the experiments, he came to the conclusion that there is a leakage current in the closed transmitter circuit.is only when the number of magnetic induction lines (magnetic flux) penetrating a limited surface contour is changedregardless of the reasons for the change.
-  It should be noted that:Faraday once studied it in the Earth's magnetic fieldmoving currents մակ flow currents by sea currentsopportunities to receive հաստատ to confirm it with his experimentsthe fact that weak attenuation currents can be obtained in closed-loop liquid transmitters [6].
+ Then, summarizing the results of the experiments, he came to the conclusion that the current of suction occurs in a closed transmitter circuit only when the number of magnetic induction lines (magnetic flux) penetrating a limited area through the circuit changes regardless of the reasons for that change.
+  It should be noted that Faraday once studied the possibilities of obtaining currents flowing by the currents of rivers flowing in the Earth's magnetic field with the help of his experiments, confirming the fact that weak currents can be obtained in liquid transmitters.
  The point is that in the case of laminar flow of a liquid, its different layers have different velocities.
- For example, in rivers, the velocity of the liquid is equal to that of the groundzero և grows as it approaches the surface of the water.
-After completing this preparatory work, proceedWe are presenting the structure and working principle of the demonstration experience proposed by us.
-  In this paper, we present the electromagnetic field in liquid transmittersexperience, and in gas (plasma) transmitters in the next program.
-The device with which we can display the eclipsein liquid transmitters, shown in Figure 1.
- It consists of 20 × 30 × 50 mmAn organic glass with a rectangular hole (canal) drilled (1).
+ For example, in rivers, the velocity of a liquid increases by an equal amount to zero near the bottom գետ as it approaches the water surface.
+After completing this preparatory work, let us proceed to the presentation of the structure of the demonstration experience և our working principle.
+  In this work we will present the experience of electromagnetic shortening in liquid transmitters, and in gas (plasma) transmitters in the next program.
+The device with the help of which we can display the noise in liquid transmitters is shown in Figure 1.
+ It consists of 20 × 30 × 50 mm organic glass, on which a rectangular hole (canal) is drilled (1).
  Horizontal holes with a diameter of 5 mm are drilled at both ends of the glass to allow the liquid to enter and exit the canal.
-Placed parallel to each other on the inner side walls of the canalare two flat copper electrodes (2).
- Organic glass, then ևcanal, housed in a fixed magnet or electromagnet (3)between the poles so that the magnetic field strength lines are verticalto the electrodes.
- By means of a pump (4) connected by pipes (5)to a canal և a vessel filled with transmitting fluid, the fluid can continuouslycirculate by passing through a magnetic fieldthrough the canal.
- With the rheostat (7) inserted in the pump circuit we can adjusttransmitter fluid flow rate, and with a display galvanometer(6) record the leakage current.
- As a transmitting fluid for displayWe use a 20% solution of salt water or copper paste.
+Two flat copper electrodes (2) are placed parallel to each other on the inner side walls of the canal.
+ The organic glass, then the canal, is placed between a fixed magnet or electromagnet (3) pole so that the magnetic field lines are perpendicular to the electrodes.
+ By means of a push pump (4) connected to a tube-connected duct (5) and a vessel filled with conductive fluid, the fluid can circulate continuously through a channel placed in a magnetic field.
+ With the rheostat (7) inserted in the pump circuit we can regulate the flow rate of the transmitting fluid, and with the display galvanometer (6) we can record the flow current.
+ For the demonstration, as a conductive liquid, we use a 20% solution of brine or copper rye.
 The demonstration of the experiment is done in the following sequence.
- First:We draw students' attention to the fact that it is constantin a fixed liquid transmitter placed in the magnetic field of a magnetNo current is generated.
-  Then turn on the actuator pumpsets the transmitting fluid in motion.
+ We draw the students' attention to the fact that there is no current in the fixed liquid transmitter located in the magnetic field of the constant magnet.
+  Then we turn on the pump and move the transmitting fluid.
  We will see that in this case the galvanometer registers a leakage current.
- The thing is that when the liquid transmitterIt moves in a constant magnetic field, they move with it. "ions in the liquid.
-  The result is irregular movement of particlesvelocity is added to the velocity of the fluid flow.
-Fig. 1 Demonstration of scaling in liquid transmittersdevice diagram.
-Since this movement takes place in a magnetic field, thenEach charge particle is affected by an additional Lorentz force, which:forces the charged particles to move inside the transmitter.
-  That:Positive ions move under the influence of magnetic forcesto one electrode, and the negatives to the other.
-  The resulting electrodesthere is a potential difference [9,10], և if the chain is closed,then a torque current will be generated in it, which is recorded by the galvanometerthrough.
- At the end of the chain by means of a rheostat (7) inserted into the chainflow rate can be shown by the transmitter in the induction fluidThe magnitude of the ELSU depends on the velocity of the fluid flow.
+ The fact is that when a liquid transmitter moves in a constant magnetic field, the ions in the liquid move with it.
+  As a result, the irregular motion of the particles is added to the velocity of the liquid flow.
+Fig. 1 Schematic of a display device in liquid transmitters.
+Because this motion occurs in a magnetic field, each uncharged particle is subjected to an additional Lorentz force, which forces the charged particles to move inside the transmitter.
+  Under the influence of these magnetic forces, the positive ions move to one electrode and the negative ones to the other.
+  As a result, there is a potential difference between the electrodes [[9,10], և if the circuit is closed, a winding current will be generated in it, which is recorded by the galvanometer.
+ By changing the flow rate of the fluid by means of a chain rheostat (7) at the end, it can be shown that the magnitude of the induction current in the transmitting fluid depends on the flow rate of the fluid.
 Conclusion.
- Scientific and methodological research carried out in the work և The results of the experiment conducted in the high school of Shirak State University (hereinafter referred to as the University of Yerevan) allow us to claim that:1. Wave currents can also be obtained by flowing in a closed circuitin liquid transmitters,2. The magnitude of the induction current in a liquid depends on the fluid flowspeed,3. Study of electromagnetic field fluidssignificantly expands students' perceptions in transmitterscontributes to the enrichment of their knowledge about this phenomenonand strengthening,4. by the teacher of that subject at the right time, in the right placeLearning effectiveness can be achieved through presentationincrease.
-The research was carried out thanks to the financial support provided by the University with the scientific theme №01-ShSU-2018within.
-Literature 3. Nazaryan N. A. Application of information technology in physics
-in educational classes // Natural science in the 21st century. Learning problems և solutions.
+ Scientific-methodological research carried out at work և The results of the experiment conducted at the high school of Shirak State University (hereinafter referred to as the University of Yerevan) allow us to assert that: 1. Extraction currents can also be obtained in closed circuit liquid flow conductors; 2. The magnitude of the induction current in a liquid depends on the fluid flow rate. The study of the phenomenon of electromagnetic radiation in liquid conductors significantly expands students' perceptions of this phenomenon, contributes to the strengthening of their knowledge, 4. Improving teaching effectiveness can be achieved if the teacher submits the material correctly at the right time.
+The research was carried out in the framework of a scientific topic under the code №01-ShSU-2018, thanks to the financial support provided by the University.
+Literature 3. Nazaryan N. A. Application of information technologies in physical education // Science in the 21st century. Learning problems և solutions.
  Collection of materials of the IV Pan-Armenian Educational Conference.
  Yes!
  "Zangak-97" publishing house.
@@ -62,8 +60,7 @@ in educational classes // Natural science in the 21st century. Learning problems
  2010.
  368 pages.
 5. Мощанский В. N., Savelova E. В. History of physics in high school. M.
- Published in:6. MacDonald D. Faraday, Maxwell and Kelvin. M.
- "Atomizdat" 1967. 158 p.polяh. M.
- Published in "Science". 1972. 224 p.
-8. Куликовский А. G., Lyubimov G. А. Magnetic hydrodynamics. M.
-  "Logos".10. Мирдель Г. Electrophysics. M.
+ Izd.-vo6. MacDonald D. Faraday, Maxwell and Kelvin. M.
+ "Atomizdat" 1967. 158 s.polykh. M.
+ Published in "Science". 1972. 224 p.8. Куликовский А. G., Lyubimov G. А. Magnetic hydrodynamics. M.
+  "Logos" .10. Мирдель Г. Electrophysics. M.

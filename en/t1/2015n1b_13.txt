@@ -1,77 +1,73 @@
 1. Introduction.
- A number of mathematical, physical, technicalլուծ Solving problems of other nature requires basic functionscalculation of values ​​for different values ​​of the variable.
-  That'sThus, in the Middle Ages, tables of values ​​of trigonometric functions were created, as well as formulas for calculating the approximate values ​​of some functions.
-  Later also the calculation of the values ​​of the elementary functions և similar tablesThe creation was a stimulus for the development of mathematics and its applications.
-  For this purpose, the theory of series, chain fractions, orthogonal polynomials, etc. were widely used.elementary functions were represented by ներկայաց were determined by themvalues.
- They were created in anticipation of the development of the latest technologiesVarious algorithms written for calculating the values ​​of elementary functions, block diagrams BASIC, PASCAL, FORTRAN, C և other programmingin languages ​​that made it possible to calculate these values ​​very quickly through calculators such as Strela, BSM-6, M-2, M3, Ural, M-220, EC, as well as Nairi and Hrazdan type calculators.
- In recent years, computer mathematics kits have been created by relevant specialists, which are a powerful tool for various mathematicalproblem solving, in particular, the values ​​of elementary functionsfor counting.
+ The solution of a number of mathematical, physical, technical problems of other nature requires the calculation of the values ​​of elementary functions for different values ​​of the variable.
+  For this reason, tables of values ​​of trigonometric functions were created in the Middle Ages, as well as formulas for calculating the approximate values ​​of some functions.
+  Later, the calculation of the values ​​of elementary functions as well as the creation of similar tables were a stimulus for the development of mathematics and its applications.
+  For this purpose, the theory of series, chain fractions, orthogonal polynomials, etc., through which the elementary functions were presented, their values ​​were determined, were widely used.
+ Prior to the development of the latest technologies, various algorithms were written for calculating the values ​​of elementary functions, block diagrams in BASIC, PASCAL, FORTRAN, C և other programming languages, which enabled the computer "Strela", BSM-6, M-2, M3, Ural. M-220, EC, as well as Nairi, Hrazdan type calculators to calculate these values ​​very quickly.
+ In recent years, computer mathematics kits have been developed by relevant specialists, which are a powerful tool for solving various mathematical problems, in particular, for calculating the values ​​of elementary functions.
  These computer kits are available for both professionals and anyone with computer skills.
- Similar packages are MAPLE, MATHEMATICA,MATLAB, MACSYMA այլ other computer packages.
-  In particular, MAPLE package for solving various mathematical problemsIt is a powerful and flexible tool.
- The more than 2000 commands of the package allow solving problems in algebra, mathematical analysis, differential equations, and a number of other areas, in particular:calculate the values ​​of elementary functions for different values ​​of a variable.
-  Working with the MAPLE package is up to the userthe computer enters mathematical expressions և commands through operators, and the package executes instantlyհրաման Those commands give the answer.
-  Working with the packageIt is done through dialogue.
-  Entered phrases և:commands are stored in a single document, allowing:to see the progress of the actions performed by the user.
-    MAPLE:The interface of the package is similar to the interface of any editorial system, which allows a programmer by professionNon-specialist professionals to take advantage of the package[3,4].
- Along with all this, it also contains modern highlevel programming languages.
-The first part of this work presents the whole polynomialOne of the main methods of calculating values ​​is the well diagram, and the second part presents information related to computerWith the MAPLE package, with the accuracy you want on a personal computeryou can calculate the values ​​of the whole polynomial, make an interpolation,build graphs of functions և etc.
+ Similar packages are MAPLE, MATHEMATICA, MATLAB, MACSYMA այլ other computer packages.
+  In particular, the MAPLE package is a powerful and flexible tool for solving various mathematical problems.
+ The more than 2000 commands of the package make it possible to solve problems in algebra, mathematical analysis, differential equations, and a number of other areas, in particular, to calculate the values ​​of elementary functions for different values ​​of a variable.
+  The work with the MAPLE package is that the user enters mathematical expressions into the computer միջոցով commands through operators, and the package instantly executes those commands ք output the answer.
+  The work with the package is done through dialogue.
+  Entered expressions Commands are stored in a single document, allowing the user to see the progress of actions.
+    The interface of the MAPLE package is similar to the interface of any editorial system, which allows programmers by profession to take advantage of the package [3,4].
+ In addition to all this, it also contains modern high-level programming languages.
+The first part of this work presents one of the main methods for calculating whole multiplicity values, the wells scheme, and the second part presents information related to the MAPLE computer package, which can be used to calculate the values ​​of the whole multiplicity, interpolation, construct graphs of functions, etc.
 2. Calculate the value of the whole polynomial using the well scheme.
-Consider: with real coefficientsdegreethen the whole polynomial [1,2].Suppose it is necessary to calculate (1) the value of the whole polynomial  to:for.(2) To calculate the value, proceed as follows: Introduce (2)
-in the following form.Counting one by onequantities, we will find, that is, (1) the value of the polynomial
+Consider the whole polynomial with real coefficients to the first degree [1,2]. Suppose it is necessary to calculate (1) the value of the whole polynomial for - (2) To calculate the value, proceed as follows: Let (2) be represented as follows: By calculating the quantities in sequence, we will find, that is, the value of (1) the polynomial
 in.
-In practice, the steps described above are performedthrough the following scheme called the Horn Scheme.For example.
- Using the wells scheme, count So    the value of a multiplein.
+In practice, the operations described above are performed using the following scheme called the Horn Scheme.
+ Using the Wells scheme, calculate Thus the value of a polynomial in.
 ), ..., 2,1 (nkakn:
 122110nnnnnaxaxaxaxaxPx.
 122110nnnnnaaaaaP.
 ... 13210nnaaaaaaP123312201100 ... ,,,, nnnnbabbabbabbababPbnx0a1a2ana 00ba110bab221bab) (1Pbabnnn12435423456xxxxxxxP2x.
-1232P:Note that:  quantities are  multiple  caused by dividing on a bisectorCoefficient of coefficient [1].
- Really, let's ask where: and as a result of division    for the rest, BezuhiAccording to the theorem, we will have:.
-By placing (6) in (5) և opening the parentheses, we will have:Comparing (1) և (8) relations և equalizingThe coefficients in front of the members of the degree, we will get:     of the same!We will have from (9) to և (4).which։ had to be proved.
- Thus, the scheme of the wells allows itdecide without dividing the whole polynomial caused by dividing on a bisector the factor և the remainder.
+1232P Note that the quantities are the coefficients of the quadratic that divides the polynomial into bisectors [1].
+ Indeed, let's put where we will have for the remainder of the division, according to Bezuhiteorem.
+Putting (6) in (5) և opening the brackets, we will have. Comparing (1) և (8) the relations և equalizing the coefficients in front of the members, we will get: we will have the same from (9) to և (4). which և had to be proved.
+ Thus, the wells scheme allows him to determine the coefficient ուց the remainder of dividing the whole polynomial by dividing it without dividing.
 For example.
- Find out using the Wells scheme 1210, ... ,,, bnbbbbxPxxQ, nxxQxP12110nnnxxxQn ) (Pn.
+ Using the wells scheme, find out 1210, ... ,,, bnbbbbxPxxQ, nxxQxP12110nnnxxxQ n) (Pn.
 ... 1212121010nnnnnnnxxxxxPx.
-, ... ,,, 112121210100nnnnnnaaaaa ,, ... ,,, 1121121221011000nnnnnnnnbbababababa ՄանxPxxQ polynomial  on the bicepsThe factor resulting from dividing և the remainder.
-So.
+, ... ,,, 112121210100nnnnnnaaaaa ,, ... ,,, 1121121221011000nnnnnnnnbbababababa ՔանxPxxQ is the quotient ուց the remainder resulting from dividing the polynomial.
+Thus.
 It should be noted that in terms of the speed of calculating the values ​​of the whole polynomial, the well scheme is the most rational of all the other methods.
- 3. Calculate the value of the whole polynomial by computer MAPLEthrough the package.
+ 3. Calculation of the value of the whole polynomial through the computer MAPLE package.
 Any function in the MAPLE computer package, in particular the whole polynomial, can be represented in several ways [3,4].
           Season 1.
  The whole polynomial can be represented.
 =) through the operator, as a result of which that polynomial is assigned a name.
- In the next step, by giving specific values ​​to the variable, the value of the polynomial of the variable will be instantly determined by the same operator.for a given value.
+ In the next step, by giving specific values ​​to the variable, the value of the polynomial for the variable value will be instantly determined by the same operator.
 For example.
-  Count:valuein.
-  multi-member   Season 2.
-  The multiple can be represented by the so-calledthrough a functional operator.
+  Calculation in.
+  2nd method of polynomial.
+  A multiple member can be represented by a so-called functional operator.
  In this case it is used again (.
-=) the operator, after which, unlike the previous case, in round bracketsThe variable is indicated as shown below.
+=) the operator, after which, unlike the previous case, the variable is indicated in round brackets, as shown below.
 20123722345xxxxxxP2x104234xxxxxQ0r12435423456xxxxxxxP2x Example:
- Count:valuein.
-    multiple members   3rd season.
- The polynomial can also be represented unapply (expr, x1,x2,…) via the command where is represented instead of exprthe polynomial, and the variables instead of x1, x2,։.
+ Calculation in.
+    3rd method of polynomial.
+ The polynomial can also be represented by the command unapply (expr, x1, x2,…), where the polynomial is represented instead of expr, and the variables are represented instead of x1, x2,։.
 For example.
- Count:valuein.
-    multiple members   In each example discussed, the answer is a solutionwithin seconds.
-Note that the MAPLE computer package also has the abilityThe exact plot of a given polynomial instantly constructed by the command plot (p (x), x = a..b), where p (x) is the polynomial in question and a..b isis the range where the graph is to be constructed.
+ Calculation in.
+    In each example discussed in the polynomial, the answer is output within a second.
+Note that the MAPLE computer package has the ability to instantly construct an exact polynomial given by the command plot (p (x), x = a..b), where p (x) is the polynomial in question and a..b is the range is where the schedule should be built.
 For example.
- Build:schedule:in the range. multi-member   The graph of a polynomial can be constructed in the given rangethrough interpolation when several values ​​of a polynomial are knownat points in that range.
-  According to those key points և in those pointsTwo lists of values ​​obtained by the polynomial are created. initially X:
-list for nodes, then list Y for thatfor the values ​​obtained by the polynomial at the node points.
- followingThe command interp (X, Y, x) is interpolated where xis the interpolation variable.
-And the resulting interpolated polynomial graph is already possiblemust be constructed using the above plot (p (x), x = a..b) command.
-Comparing the graph constructed in this way with the one constructed aboveWith an accurate schedule, we make sure they are quite differentfrom each other (Graph 1 shows the exact graph of the function, and2 - interpolated polynomial graph).
+ Construction chart in between. polynomial The graph of a polynomial can be constructed in the given range by interpolation, when several values ​​of the polynomial are known at points in that range.
+  According to those key points, the values ​​obtained by the polynomial in those points, two lists are created. first the X list for node points, then the Y list for the values ​​obtained by the polynomial at those node points.
+ The next interp (X, Y, x) command performs the interpolation, where x is the interpolation variable.
+And the resulting interpolated polynomial graph can already be constructed using the above plot (p (x), x = a..b) command.
+Comparing the graph constructed in this way with the exact graph constructed above, we make sure that they are quite different from each other (graph 1 shows the exact graph of the function, and graph 2 represents the interpolated polynomial graph).
 In order to reduce this difference, it is necessary to increase the number of nodes և and then perform interpolation.
-Constructing a graph of a polynomial multiplied in this way ևcomparing it to its exact graph և interpolated in the previous caseWith a multiplicative graph, we will already have the following imageGraph 1 represents the exact graph of the function, Graph 2 represents the firstin this case the graph of the interpolated polynomial, and in the second case by 3interpolated polynomial graph).4. ConclusionThus, in this methodological work, the main method of calculating the value of the whole polynomial is briefly presented: Horner'sscheme, կոնկրետ concrete examples are considered.
- Then, from the point of view of calculating the values ​​of all polynomials, the possibilities of the computer MAPLE package are presented, their application in particular.when looking at examples.
- The high efficiency of the package is shownin terms of simplicity of commands ժամանակ time spent on calculations.
+Constructing the graph of an interpolated polynomial in this way ևcomparing it to its exact graph դեպքում in the case of the interpolated polynomial in the previous case, we already have the following image schedule) .4. Conclusion Thus, this methodological work briefly presents the main method of calculating the value of the whole polynomial, Hornerskhema, կոնկրետ concrete examples are considered.
+ Then, from the point of view of calculating the values ​​of all polynomials, the possibilities of the computer MAPLE package are presented, their application when considering specifics.
+ The high efficiency of the package is shown in terms of simplicity of commands ժամանակ time spent on calculations.
  If necessary, the construction of both the exact and the approximated graph of the given polynomial is within the possibilities of the package, when the specific values ​​of the polynomial are determined at different points of the observed range, interpolation is performed by the formulas included in the package.
-It is also planned to present similar methodological works related to non-algebraic basic elementaryby calculating the values ​​of the functions.
+It is also planned to present similar methodological works in connection with the calculation of the values ​​of non-algebraic basic elementary functions.
 вычисления значеня a whole polynomial.
-  scheme Gornera. Based on this scheme:
-Literature 1. Demidovich BP, Maron I.A. Basic math calculators. M.
-  Ed.Exercise of elementary functions. M.
- Ed. "Physmatism". 1963. 246 p.
-E-mail:
- lmargaryan@gspi.am:E-mail:
+  scheme Gornera. Based on these schemes Literature 1. Demidovich BP, Maron I.A. Basic math calculators. M.
+  Exhibition of elementary functions. M.
+ Ed. "Physmatism". 1963. 246 с.E-mail.
+ lmargaryan@gspi.amE-mail.

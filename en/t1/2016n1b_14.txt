@@ -1,125 +1,122 @@
 1. Introduction.
- Modern methods of teaching mathematicsOne of the tasks is to make a connection with learning in real life.
+ One of the problems of modern methodology of teaching mathematics is the implementation of teaching - connection with real life.
 Everyone knows that knowing and being able are not the same.
- Laws have been passed at different times, according to which in the programs ևChanges have been made to existing math textbooks,which were mainly related to computational and measurement skillsstrengthening.
- Of course, these changes have been welcomedto increase learners' interest in the subject because:The approximate calculations, the solution of production-technical problems, the performance of various economic calculations expanded the schoolThe structure of mathematics եցին created conditions in real lifeto understand the meaning of mathematics.
- To date, however, not enough attention has been paid to teaching studentsapply the knowledge gained in practice.
- When solving a problem from the questionnaire, the student deals with the problem formulated, but in real life the employee is required to formulate the problem on their own.Decide for yourself what other sizes depend on the size you are looking forvalue գտնել find that value on your own.
-  Therefore, in school, students need to be taught to separate certain practical problems from real conditions on their own, such as finding it on their own.the values ​​of the quantities on which the answer to the question depends.
-The implementation of practical laboratory work in the teaching process plays an important role in the successful application of mathematical theory in practice, which develops the ability of students to do such work, which will turn over the years.of skill.
+ Laws have been passed at various times, according to which changes have been made to the current mathematics textbooks in the curriculum, mainly related to the strengthening of computational-measurement skills.
+ Undoubtedly, these changes have successfully reflected the increase of students' interest in the subject, as the calculus calculations, the solution of production-technical problems, the implementation of various economic calculations expanded the structure of school mathematics, created conditions for understanding the meaning of mathematics in real life.
+ To date, however, insufficient attention has been paid to teaching students to apply the knowledge they have acquired in practice.
+ When solving the problem from the application book, the student deals with the problem formulated, but in real life the employee is required to formulate the problem independently, to decide on what other quantities the value of the quantity sought depends, to find that value independently.
+  Therefore, in school it is necessary to teach students to separate certain practical problems from the real ones, such as to find the values ​​of the quantities on which the answer to the question depends.
+The implementation of practical laboratory work in the learning process plays an important role in the successful application of mathematical theory in practice, which develops students' ability to do such work, which will become a skill over the years.
 2․ Laboratory և practical work concepts.
- Existence:They have a number of options for defining concepts such as math lab work.
- Laboratory work in mathematics by studentsare the independent solution of such problems, the conditions of which are givenwith certain technical details, in different subjects orwith specially made models, drawings, images ևetc.
- Used to achieve certain learning goals, privatelyIn this case, the mathematical knowledge gained by the students is practicalto turn skills and abilities.
-Laboratory work is a method of teaching that is usedStudents, under the guidance of a teacher ված pre-designedaccording to the plan, conduct experiments or practiceproblem solving. learners perceive at work և
-They make sense of the new teaching material, reinforce the previous knowledge.
-Thus, laboratory work can be investigatedIt can act as a method, as a tool, as a means of teaching.
+ There are a number of ways to define concepts such as math lab work.
+ Mathematics laboratory work is the independent solution of such problems by the students, the conditions of which are given in a certain technical detail, with models, drawings and pictures made for it in different subjects or specially.
+ They are used to achieve certain learning objectives, in particular, to translate the mathematical knowledge acquired by students into practical skills and abilities.
+Laboratory work is a teaching method in which students, under the guidance of a teacher, carry out experiments or solve practical problems according to a pre-designed plan. During the work, the students perceive the new educational material, reinforce the previously acquired knowledge.
+Thus, it can be deduced that laboratory work can act as a method, as a tool, as a means of teaching.
 Doing laboratory work in mathematics is not opposed to doing practical work.
- The students' independent work is practical, the purpose of which is to check the theoretically proven facts, relationships, dependencies of individual specific cases, in practice theoreticalis the application of knowledge, the solution of practical problems, etc.
-Laboratory work can not be directly replacedpractical work.
-  On the contrary, they provide the lattergood preparation for performance.
- Practical workMathematical theory is applied to real performancein spatial terms և quantitative relations, notwith artificially created models, hence pedagogyIt is valuable from the point of view.
-  That's why math is practicalThe work must be absolutely mandatorybein each class.
-Laboratory work is a necessary preparatory stage for practical work, but laboratory work has a number of advantages over practical work.which makes them more in terms of the learning processvaluable. 1) are easier to implement (in class, during class), 2) are easy հեշտ to grasp students սովոր to understand մեծ its magnitudes
-3) require less time than practitioners;promotes the activation of all learners ն best explains the role of mathematics in solving practical problems, 5) conductingIt is easier to provide all the participants independentlyperformance of work.
+ The independent works of the learners are practical, the purpose of which is to check the dependence of theoretically proven facts, relations, individual specific cases, in practice the application of theoretical knowledge, the solution of practical problems, etc.
+Laboratory work cannot directly replace practical work.
+  On the contrary, they provide good training for the latter.
+ In the course of practical work, mathematical theory is applied in real space, in quantitative relations, not in artificially created models, and is therefore valuable from a pedagogical point of view.
+  That's why doing math homework should be absolutely mandatory in every classroom.
+Laboratory work is the necessary preparatory stage for practical work, but laboratory work has a number of advantages over practical work, which make them more valuable in terms of the learning process. 1) they are easier to implement (in the classroom, during the lesson), 2) they are easy to understand, available to the learners, they simplify the quantities needed to solve the problem, 3) they require less time than the practitioners, 4) the preliminary work is done; promotes the activation of all learners before the relevant practical work և best explains the role of mathematics in solving practical problems; 5) it is easier to ensure the independent work of all participants during the conduct.
 3 ․ Several types of laboratory work.
- To develop and strengthen learners' interest in mathematicsIn the training process can be included laboratory workdifferent types.
-  It takes place during the execution of that workHas a conscious mastery of the educational material, development of abilities and skills.
- Let's distinguish several types of laboratory work, which are expedient to use at different stages of the learning process ․a) Definition of a specific mathematical object, objectbelonging to the given definition.
- The steps behind the operation of defining mathematical objects consist of the following steps: 1) enumeration of all properties in definitions, 2) logic in definitions
-Establishment of connections, 3) adjustment according to the examples given in the definition, 4)Receipt: Does the object belong to the class of objects defined by the definition?
+ Different types of laboratory work can be included in the learning process to develop and strengthen learners' interest in mathematics.
+  During the performance of these works, there is a conscious mastery of the educational material, the development of abilities and skills.
+ Let us distinguish several types of laboratory work, which are expedient to use at different stages of the learning process. A) Bringing the definition of a specific mathematical object, the object belonging to the given definition.
+ The steps behind the operation of defining mathematical objects consist of the following steps: 1) enumeration of all properties in the definitions, 2) confirmation of the logical connections in the definitions, 3) specification according to the examples given in the definition, 4) receipt of the reference: does the mentioned object belong to the class of objects characterized by the definition?
 Laboratory work 1.
  Equivalent triangle decision.
-A triangle is called equilateral if its two sidesare equal.
-Let's bring the actions in the form of a table: Object properties:Example:Triangleyes § + ¦, no §-¦Both sidesare equal.yes § + ¦, no §-¦Follow-up.
-Equalis a triangle.yes § + ¦, no §-¦Laboratory workdecision.
- A fraction is called irregular if its numerator is greater than or equal toto the announcer.
+A triangle is called an equilateral if its two sides are equal.
+Let's bring the operations in the form of a table: Object PropertiesExample Triangle § + ¦, no §-¦ Both sides are equal: yes § + ¦, no §-ևReturn.
+It is an equilateral triangle. Yes § + ¦, no §-¦ Laboratory work orientation.
+ A fraction is called irregular if its numerator is greater than or equal to the denominator.
 Let's bring the actions in the form of a table: 2.
-  IrregularfractionObject properties:It is a fraction.yes § + ¦, no §-¦The counter is largefrom the announcer.yes § + ¦, no §-¦Counter:is equalto the announcer.yes § + ¦, no §-¦Follow-up.
- Giventhe object is irregularis a fraction.yes § + ¦, no §-¦Example:b) Logical-mathematical analysis of mathematical statements և general skills in working with theoremsThe aim is to discover logical-mathematical analysisacceptability of specific statements, organize independent work on the application of school theorems.
-The logical-mathematical analysis of the assertion assumes: 1) Explanation of the statement, condition և conclusion of the passagesseparation, 2) general skill in working with theorems.
+  Irregular Fraction PropertiesFraction is: yes § + ¦, no §-¦The numerator is greater than the denominator.yes § + ¦, no §-ամThe numerator is equal to the denominator.
+ The given object is irregular. Yes § + ¦, no §-¦Exampleb) Logical-mathematical analysis of mathematical statements և general skills in working with theorems.
+The logical-mathematical analysis of the assertion presupposes: 1) explanation of the assertion, condition-conclusion, separation of the passages, 2) general skill of working with theorems.
 Given: ∆ (cid.
 1827) (cid.
 1828) (cid.
-1829) is equal to Laboratory work 3:BK is the baseline.
-Prove that 1) BK is a mediator, 2) BK is height.
+1829) is equal, Laboratory work 3BK is the baseline.
+Prove that 1) BK is a median, 2) BK is height.
     Proof.
-Allegations:∠ (cid.
+Claims ∠ (cid.
 1828) (cid.
 1827) (cid.
 1837) = ∠ (cid.
 1828) (cid.
 1829) (cid.
-1837)∆ (cid.
+1837) ∆ (cid.
 1827) (cid.
 1828) (cid.
 1837) = ∆ (cid.
 1829) (cid.
 1828) (cid.
-1837)Rationale:From the definition of an equilateral triangleFrom the definition of the midlineEqualangles adjacent to the base of a trianglefrom the equation theoremAn equation for trianglesFrom 2:The first requirement is proven∠ (cid.
+1837) Substantiation from the definition of an equilateral triangleFrom the definition of an equilateral theorem of equations of angles adjacent to the base of an equilateral triangleThe equation of equation of triangles.
 1827) (cid.
 1828) (cid.
 1837) = ∠ (cid.
 1829) (cid.
 1828) (cid.
-1837)BK ն (cid.
+1837) BK ∠ (cid.
 1827) (cid.
 1828) (cid.
-Is the half-brother of 1829)∠ (cid.
+1829) is the half ∠ (cid.
 1828) (cid.
 1837) (cid.
 1827) = ∠ (cid.
 1828) (cid.
 1837) (cid.
-1829)∠ (cid.
+1829) ∠ (cid.
 1828) (cid.
 1837) (cid.
 1827) ¨ ∠ (cid.
 1828) (cid.
 1837) (cid.
-1829) ÏÇó »Ý:∠ (cid.
+1829) ÏÇó »Ý∠ (cid.
 1828) (cid.
 1837) (cid.
 1827) + ∠ (cid.
 1828) (cid.
 1837) (cid.
 1829) = 180 (cid.
-2868)∠ (cid.
+2868) ∠ (cid.
 1828) (cid.
 1837) (cid.
 1827) և ∠ (cid.
 1828) (cid.
 1837) (cid.
-1829) are straight(cid.
+1829) are straight (cid.
 1828) (cid.
 1837) ⊥ (cid.
 1827) (cid.
-1829)BK is the heightThe above trianglesfrom equalityFrom the definition of a half(cid.
+1829) BK is the height from the equation of the above triangles from the definition of the fraction (cid).
 1828) (cid.
 1837) side is common, (cid.
 1837) (cid.
 1827), (cid.
 1837) (cid.
-1829) sectionsFrom the definition of equal trianglesbelong to one lineFrom the theorem on adjacent angles∠ (cid.
+1829) Sections from the definition of equilateral triangles belong to a line from the theorem on angles ∠ (cid.
 1828) (cid.
 1837) (cid.
 1827) + ∠ (cid.
 1828) (cid.
 1837) (cid.
 1829) = 180 (cid.
-2868)From the definition of perpendicular bisectorsFrom the definition of the height of a triangleLet's present the laboratory work in the form of a scheme:is equalBK∠ (cid.
+2868) From the definition of perpendicular bisectors From the definition of triangular height Let us present the laboratory work in the form of a diagram: BK is equal ∠ (cid.
 1828) (cid.
 1827) (cid.
 1837) = ∠ (cid.
 1828) (cid.
 1829) (cid.
-1837)∠ (cid.
+1837) ∠ (cid.
 1827) (cid.
 1828) (cid.
 1837) = ∠ (cid.
 1829) (cid.
 1828) (cid.
-1837)c) Laboratory և practical work, targeted∠ (cid.
+1837) c) Laboratory "practical work - targeted" (cid.
 1828) (cid.
 1837) (cid.
 1827) = ∠ (cid.
@@ -131,14 +128,14 @@ Is the half-brother of 1829)∠ (cid.
 1827), ∠ (cid.
 1828) (cid.
 1837) (cid.
-1829) attachedare ∠ (cid.
+1829) կիցեն ∠ (cid.
 1828) (cid.
 1837) (cid.
 1827) + ∠ (cid.
 1828) (cid.
 1837) (cid.
 1829) = 180 (cid.
-2868)∠ (cid.
+2868) ∠ (cid.
 1828) (cid.
 1837) (cid.
 1827) և ∠ (cid.
@@ -147,17 +144,17 @@ Is the half-brother of 1829)∠ (cid.
 1829) and
 BK⊥ (cid.
 1827) (cid.
-1829)BKis the heightThey are angryBKis a half-brotherstrengthening և generalization of educational material.
-The purpose of this type of laboratory work is to teachComplete material summary ումը verification.
- A checker is runninga table to be filled in by the students.
+1829) BK-heights are related to the strengthening և generalization of BK-negative educational material.
+The purpose of this type of laboratory work is to provide a complete overview of the material being taught.
+ A checklist is nominated, which is filled in by the students.
 Laboratory work 4.
-  Theme squaresMastering:review.
-Let's bring the actions in the form of a table:Image:Square:ParallelDiagonal RectangleSquare:Table:Feature:Opposite:sides pairin pairsare parallelOpposite:sides:are equalOpposite:cornersare equalWhich side?adjacent:cornersthe amount is equal to 1800Diagonalsintersect oneat that pointpoint sharedare:Area:is equalground և:height:to the productAll sidesequal to each otherare:Diagonalsequal to each otherare:It is possibleoutline:circled) A laboratory aimed at introducing a new ideaworks.
-Let's single out a variety of laboratory work, which:It is more expedient to apply it in case of introducing new mathematical concepts through students.
-  Let's bring suchExample of laboratory work.
+  Squares theme check.
+Log bring in spreadsheet format, PatkerKarankyunZugaheragitsSheghankyun UghghankyunKarakusiSeghanHatkutyunHandipakatskoghmere zuygar zuygzugaher yenHandipakatskoghmerehavasar yenHandipakatsankyunnerehavasar yenOreve koghminarenterankyunnerigumare equal to 1800 iAnkyunagtserehatvum are miketum and aydketum kisvumenMakeresehavasar ehimki yevbardzrutyanartadryalinBolor koghmereirar havasarenAnkyunagtsereirar havasarenKareli eartagtselshrjanagitsd) the introduction of new ideas aimed laboratorashkhatankner.
+Let us single out a variety of laboratory work, which is more expedient to apply in case of introducing new mathematical concepts by students.
+  Let us bring an example of such laboratory work.
  Laboratory work 5.
  Coordinate radius.
-Անվանումը Name of the action:Action:image:Draw a beam.
+Անվանումը Name of the actionOperation of the actionDraw a ray.
 Set the starting point of the ray to О.
 Write the number 0 above the point О!
 Draw an AB section.
@@ -166,41 +163,37 @@ Place the unit segment on the beam from point O.
 Mark the obtained point with the letter C, write the number 1 above it.
 Place a unit from point C in the same direction.
 Mark the obtained point with the letter D, write the number 2 above it.
-e) Laboratory work using ICTsModern technologies allow to create or apply many already created laboratory works for different educational purposesEspecially elementaryConducting some math lessons in the classroom through play makes learning and application of mathematical concepts more accessible and interesting.
-  We will use it to do the workinternet https.
+e) Laboratory work using ICTs Modern technologies allow the creation or use of many already established laboratory works, various educational.
+  To do the job we will use the internet https.
 //phet.colorado.edu/en/simulation/arithmetic.
 for the purpose.
-Mastering:Materials:Laboratory work 6.
+Mastering materialsLaboratory work 6.
 Creating a multiplication table.
 The aim of the work is to use multiplication tables of natural numbers.
-  Program:allows you to do the job in three ways, with the following options: easy, from 1 to 6,Creating a multiplication table of natural numbers from 1 to 9, complex from 1 to 12 (Figure 1).
-Figure 1:  Laboratory work 7.
+  The program allows you to do the work in three ways, with the following options: easy to create a multiplication table of natural numbers from 1 to 6, medium from 1 to 9, complex from 1 to 12 (Figure 1).
+Figure 1 Laboratory work 7.
   Creating images with a given area, with a given perimeter.
-Purpose of the work: image surface և image surfaceapplication of accounting knowledge.
-The program allows you to do laboratory work differentlyin ways. 1) the area of ​​the image is known, get the corresponding image, 2) the area of ​​the image իծը the perimeter is known, get
-image corresponding to it, 3) using the given images:calculate the area of ​​a given image, 4) using a limited number of squares per unit, calculate the area of ​​the given image, 5) constructimage with a given surface, painting its corresponding parts in different colors, which are given, 6) build with a given surface, givenperimeter image, painting its corresponding parts differentlyin the colors given's (Figure 2).
+The aim of the work is to apply the knowledge of image surface և image surface calculation.
+The program allows you to perform laboratory work in different ways. 1) know the area of ​​the image, get the corresponding image, 2) know the area of ​​the image և perimeter, get the corresponding image, 3) use the given images to calculate the area of ​​the given image, 4) use a limited number of squares to calculate the area of ​​the given image; 5) construct an image with a constructed surface by painting its corresponding parts in different colors, which are given; 6) construct an image with a given surface with a given perimeter, painting its corresponding parts with different colors, which are given (Figure 2).
  Laboratory work 8.
  Fragments-parts of the image.
- The aim of the work is fractions on the topic և its geometryPerception of presentation communication.
- The program allows you to do a lot of laboratory workin ways.
- We will present 3 of them: 1) get the relevant parts of the image, 2) get the image:according to the corresponding fraction, 3) the images are given, dividedof different parts, write the fractions corresponding to those parts:using only the given numbers (Figure 3).
-             Fig. 2:
-Fig. 3:
-4. Conclusion.
+ The aim of the work is to understand the connection between the subject of fractions and its geometric representation.
+ The program allows you to do laboratory work in many ways.
+ We will present 3 of them: 1) get the corresponding parts of the image, 2) get the image according to the corresponding fraction, 3) give the images divided into different parts, write the fractions corresponding to those parts using only the given numbers (Figure 3).
+             Fig. 2 Fig. 34. Conclusion.
   The organization of laboratory-practical work is very important in the process of teaching mathematics, it is one of the important and urgent problems of the organization of the school course.
-  The use of various means of play, didactics, information systems in elementary school is strictIt needs և needs serious discussion.
-The article presented laboratory works aimed at testing and summarizing the acquired knowledge.Laboratory works aimed at introducing new mathematical objects, proving theorems in a systematic way, forming a schematic representation.
-Laboratory-practical works were brought from the elementary school,which are implemented through the use of ICT as a learning: practicea means of checking and discussing some topics of elementary methodology ևfor didactic depiction.
-Literature 1. http:
-//iralebedeva.ru/inform13.html:2. http:
-//inf61.blogspot.am/p/blog-page_4142.html:3. http:
+  The use of various play tools, didactics, information systems in elementary school is a necessity կարիք needs serious discussion.
+The article presented laboratory works aimed at testing and summarizing the acquired knowledge, laboratory works aimed at introducing new mathematical objects, proving theorems in a systematic way, and formulating a schematic representation.
+Laboratory-practical works were brought from the elementary school, which are carried out with the use of ICTs as a teaching-practical means for checking some topics of elementary methodology, և didactic depiction of discussion.
+Literature 1. http.
+//iralebedeva.ru/inform13.html2. http:
+//inf61.blogspot.am/p/blog-page_4142.html3. http:
 //festival.1september.ru/articles/501710/4. http:
-//yspu.org/images/e/ef/Lab_math.doc:5. http:
+//yspu.org/images/e/ef/Lab_math.doc5. http:
 //wiki.iteach.ru/index.php/6. Https.
-//phet.colorado.edu:7. Воронов В.В. School of pedagogy in two words. M.
+//phet.colorado.edu7. Воронов В.В. School of pedagogy in two words. M.
  Pedagogical general work in mathematics in 5-6 classes. M.
- "Miros". 1993.C. 1-100.
-9. Ignatyev E. И. In the realm of scammers. M.
+ "Miros". 1993.C. 1-100.9. Ignatyev E. И. In the realm of scammers. M.
  "Science", Main editorial office of physics10. Кордемский В. А. Mathematical scalpel. M.
-  Государственное انتشار Information about the authors:Mutafyan Manyak Norik - Mathematics teacher of "Photon" College, University, Higher Mathematics մեթոդ Mathematics teaching methods Associate Professor, Chair of Physics and Mathematics know ․ candidate, E-mail.
- mmutafyan@mail.ru: Gayane Smbat Shaghoyan - Maton teacher of "Photon" college, E-mail:
+  Государственное انتشار Information about the authorsMutafyan Manyak Norik - Mathematics teacher of "Photon" College, Associate Professor of Higher Mathematics և Chair of Mathematics Teaching Methods, PhysMath ․ know ․ candidate, E-mail.
+ mmutafyan@mail.ru Gayane Smbat Shaghoyan - Mathematics teacher of "Photon" college, E-mail.

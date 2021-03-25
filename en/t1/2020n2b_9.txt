@@ -1,0 +1,70 @@
+Preface.
+  Crime is one of the most complex institutes in the theory of criminal law, and numerous works are devoted to the study of various issues.
+  Among the mentioned problems is the issue of exceeding the limit of the accomplice.
+In the literature, it is observed in the general context of the crime, or attention is paid to the perpetrator's transgression.
+  There are almost no scientific researches on the transgression of other accomplices (organizer, instigator, supporter), and the ones that are violated do not contain a comprehensive research.
+Exceeding the limit The cases of deviation from generalization are common in the crimes committed by the group.
+  20082019 Before the courts of the Republic of Armenia, the issue of exceeding the border 39 times in different cases (mainly was an accomplice).
+  In 22 of the mentioned cases, the court confirmed the existence of an offense of the accomplice, moreover, in 17 of them a quantitative limit was registered, and in 5 - a qualitative one.
+  In other cases, the court should register a border trespasser.
+In case of transgression, transgression, like any other phenomenon related to the institution of complicity, is quite complicated, such issues are related to, for example, the clarification of the scope of co-financing in each criminal case of mediated transgression, etc.
+  What is more problematic is that the current criminal legislation of the Republic of Armenia has clarified the peculiarities of the qualification of the actions of accomplices in case of violation.
+ The doctrine of criminal law tries to answer the question, but it is not obligatory for the law enforcer.
+  It is obvious that the presented problems testify to the urgency of the chosen theme.
+The notion, however, is related to the responsibility of the accomplices (excess) of the accomplice.
+Exceeding the limit is a situation in which the accomplice has gone beyond the common sense of the accomplices during the commission of the crime;
+  Part 1 of Article 40 of the RA Criminal Code stipulates: "It is considered an offense to commit a crime by a person that is not included in the intent of other accomplices."
+Translated from Latin, the word "excess" means crossing the boundaries of an orphan, in this case, crossing criminal boundaries.
+  Because the other accomplices did not intend to commit such a crime, did not support the crime in any way, even if they knew about it, they are not responsible.
+  Part 2 of Article 40 of the RA Criminal Code stipulates: "Other accomplices are not responsible for exceeding the offender's border."
+  The draft contains similar regulations.
+  Article 50 of the draft states: "1. It is considered an offense to commit a crime by an accomplice that was included in the intent of the other accomplices.
+2. The other accomplices will be held criminally liable for exceeding the offender's border… ".
+  It should be noted that the Criminal Code of the USSR of 1961 did not contain any legal regulation regarding the accomplice's border crossing.
+The word "excess" in the literal sense corresponds to the cases when the participant of the crime committed by the group goes beyond the intentions of the other accomplices.
+  This is how some theorists, including Poznish, [1] interpret transgression.
+Others use the term not in its direct sense; they include cases where a crime is committed as a result other than what the accomplices wanted.
+  This is the interpretation of, for example, Kolokov [2], Tagants!
+Due to the breadth and multiplicity of the second point of view, we will use the term "transgression" in an indirect sense, attributing to it all the cases when the result of the accomplice's actions does not correspond to the intention of the other accomplices.
+In the theory of criminal law, Albert Berner's view on the transgression of the accomplice is expressed in the work [3].
+ He distinguishes two combinations:  When the action of the executor is not uniform to the action for which the execution was planned.
+ When the act of the executor is uniform to the act for which the execution was planned.
+The first case is the so-called qualitative violation.
+  For example, if A incited B to commit theft, but B commits rape, then B's act, rape, does not blame A.
+  Qualitative violation exists when a crime of a different nature is committed than planned by the accomplices.
+Qualitative transgression is characterized by the fact that the perpetrator commits a crime completely different from the conditional crime or commits another crime than the conditioned one.
+  For example, accomplices agree to harm the victim's health, but the perpetrator kills him or commits rape, etc. [4]
+There is a certain correlation between qualitative transgression and the so-called failed complicity1
+1.
+  Thus, if the accomplice commits a completely different crime instead of the agreed one, if that act is not an integral part of the crime included in the intent of the accomplices, the crime is not committed, then there is an unsuccessful complicity.
+  In the case of a qualitative violation of the crime, the complicity is not substantiated, as the causal link between the actions of the participants և the perpetrator's crime is either absent or of a formal nature.
+In case of quantitative violation, the perpetrator causes damage to the object, which, according to the agreement, was included in the intent of the accomplices, but the damage is greater than the agreement, or the perpetrator commits not a conditional crime, but another crime of its kind.
+  Exceeding the quantitative limit may refer to aggravating circumstances.
+The issue of crossing the border of the offender was also discussed in the RA Court of Cassation.
+  Analyzing the peculiarities of this institution, the RA Court of Cassation expressed the following position. "The Court of Cassation states that in case of intentional joint involvement of two or more persons in a crime, each of the accomplices must be aware not only of his own behavior, but also of the behavior of the other accomplices." regardless of the circumstances, the responsibility of those persons falls on the preparation of the relevant crime. ”
+  Such cases are called unsuccessful complicity in the theory of criminal law.
+However, this does not mean that the accomplice must accurately describe the offense in which he is involved in the relevant article of the Code.
+ For example, in order to facilitate the execution of the objective party of the crime under Article 205 of the RA Criminal Code ("Payment of taxes, duties or other obligatory payments") to provide funds to the perpetrator to avoid malicious tax evasion. , the weather or the amount of damage that may be caused to the state.
+  In such a case, the accomplice must be held accountable for complicity in the crime actually committed.
+The Court of Cassation finds that when considering the issue of an accomplice's transgression, the law enforcement officer must assess the objective "subjective features" of the complicity not only individually to establish the fact of deliberate co-perpetration of a deliberate complicity of two or more persons but also in full
+On the basis of the above, the Court of Cassation notes that an objective assessment of the objective-subjective features of the cohabitation will reveal that: (a) two or more persons committing the same crime They are aimed at committing the same crime, each of the perpetrators envisaged the possibility of the consequences of the crime being dangerous for the society, wished or consciously allowed their occurrence.
+b) Consider the following example in terms of crossing the border of the offender. A և B agree to steal from a shop belonging to C by way of theft.
+According to the agreement, A և B enters the warehouse, but from different entrances.
+During the robbery, the guard D in the warehouse notices B.
+ B, noticing D, takes what has already been obtained and runs away.
+ Meeting A, B tells about what happened.
+  During this period, D activates the security signal, as a result of which A և B flee.
+However, at the exit, the security officers catch "A" and "B".
+We find that in the example given, A և B ական is subject to genuine liability when a group of persons enter a warehouse for an attempted robbery.
+ We propose to supplement Article 40 of the RA Criminal Code with Part 3 with the following content: "In case the co-perpetrator (co-perpetrators) allow the violation, the act must be qualified as committed by a group of persons, if the other co-perpetrator (co-perpetrators) has joined the act of the co-perpetrator (co-perpetrators) who allowed the violation."
+Some peculiarities in the case of mediated performance are the deliberate transgression of a person suffering from a mental illness of a minor under the age of criminal responsibility, ie the deliberate departure of the mediated executor.
+  In my opinion, the mediated executor should be responsible for all the acts of the above-mentioned persons, about which it will be confirmed that the mediated executor knew or intended to knowingly allow possible deviations in the actions of the "living instrument".
+Taking into account the above, offers the following content according to the RA Criminal Code: "The mediated executor is responsible for supplementing the article of the person actually committing the crime with the 40th part, for the actions that are considered to be in violation, which the mediated executor could have envisaged."
+Conclusion.
+  Completing the above, we come to the conclusion that: 1. When discussing the issue of crossing the border of the offender, the law enforcer must assess the objective-subjective features of the offender not only individually to confirm the fact of committing a premeditated crime with the joint participation of two or more persons, but also in their entirety to fully resolve the issue of punishment.
+2. Exceeding the limit of the offender shall be suspended if, as a result of assessing the objective-subjective features of the offense in the organic whole, it is found that: During the execution, each of the perpetrators envisaged the possibility of the consequences of the crime being dangerous for the society, wished or knowingly allowed their occurrence.
+b) 3. It is necessary to supplement Article 40 of the RA Criminal Code with Part 3 with the following content: "In case the co-perpetrator (co-perpetrators) allow the violation, the act must be qualified as an act committed by a group of persons, or if the co-executor (co-perpetrators) is considered a violation."
+(performers) performer joined 4. To supplement Article 40 of the RA Criminal Code with Part 4, with the following content: "the mediated executor is responsible for the actions that are considered in excess of the person actually committing the crime, which the mediated executor could have envisaged."
+The article was presented at the Student Conference of 29.09.2020.
+PRESTUPLENIC.
+ THEORETICAL AND APPLICABLE ASPECTS Description.

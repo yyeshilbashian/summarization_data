@@ -1,14 +1,13 @@
-1. Introduction. Studying hyperbolic և inverted hypertension presents hyperbolic և inverted hyperbolic
-properties of functions, their interrelationships with other elementary functions, and a number of applications.
-  First, the hyperbolic և inverse hyperbolic functions are defined and givenRelationships between hyperbolic functions, hyperbolic "trigonometric functions", such as logarithmic, inverseTrigonometric "inverse hyperbolic functions".
+1. Introduction. By studying hyperbolic և inverse hypertension, the properties of hyperbolic և inverse hyperbolic functions are presented, as well as their interrelationships with other elementary functions.
+  First, the hyperbolic "inverse hyperbolic" functions are defined, relations are given between hyperbolic functions, hyperbolic "trigonometric functions", as well as between logarithmic, inverted-trigonometric "inverse hyperbolic functions".
 The rules of derivation-integration of hyperbolic-inverse hyperbolic functions are given.
-  Then, the applications of the mentioned functions are presented, the functions ումների differential equationsin terms of integration.
+  Then, the applications of the mentioned functions from the point of view of integration of the functions և differential equations are presented.
  A number of interesting tasks with detailed solutions are also considered.
-The work is of great methodological importance և can be appliedin the university educational process, how can he contribute scientifically?the activities of researchers doing research.
+The work is of great methodological importance; it can be used in the educational process of the university, as it can contribute to the activities of scientists conducting scientific research.
 2. Definitions and properties of hyperbolic functions.
- Widely used in mathematics in addition to individual pointer functionshave combinations of pointer functions.
- Among them are:linear combinations, which are called hyperbolic functions.
- Hyperbolic functions are the number six for which they are usedare special names և appointments.take up space (cid.
+ In mathematics, in addition to individual exponential functions, combinations of exponential functions are widely used.
+ Among these are linear combinations called hyperbolic functions.
+ Hyperbolic functions are the number six, for which special names are used և appointments.
 1857) (cid.
 3051) և (cid.
 1857) (cid.
@@ -70,20 +69,20 @@ csch (cid.
 1857) (cid.
 2879) (cid.
 3051) hyperbolic cosplay (6)	
-The names of the hyperbolic functions are due to the fact that the latter are related to the coordinates of the hyperbolic points on the equilateral axis in the same way as a triangularfunctions with the coordinates of the points of the circle with a radius of a unit.
+The names of the hyperbolic functions are due to the fact that the latter are related to the coordinates of the hyperbolic points on the equilateral axis in the same way as the trigonometric functions to the coordinates of the points on the circle with radius unit.
 Different trigonometric functions depending on the same argument have many known relationships.
  Similar relationships exist between hyperbolic functions.
 For example, known from trigonometry as sin (cid).
 2870) (cid.
 1876) + cos (cid.
 2870) (cid.
-1876) = 1:The following interjection is active: ch (cid.
+1876) = the following intermediate identifier: ch (cid.
 2870) (cid.
 1876) −sh (cid.
 2870) (cid.
 1876) = 1.
-  The latter is behind!corresponds to the identity of the hyperbolic sine և cosinefrom the definition of hyperbolic sine և cosine functions.
-from the definitions of the above-mentioned identities.There are a number of possible similarities with the hyperbolic function sh (cid).
+  The latter corresponds to the identity of the functions of the hyperbolic sine և cosine hyperbolic sine ոս cosine.
+From the definitions of ions, mentioned identity. A number of possible similarities follow the hyperbolic function sh (cid).
 1876)	
 ch (cid.
 1876)	
@@ -103,19 +102,19 @@ sh (cid.
 1876),
 1sh (cid.
 1876) = csch (cid.
-1876)		th (cid.
+1876) th (cid.
 1876) ∙ cth (cid.
-1876) = 1:cth (cid.
+1876) = 1cth (cid.
 2870) (cid.
 1876) −1 = csch (cid.
 2870) (cid.
-1876) (7)Similar to the well-known formulas in trigonometry, one can also get formulas for arguments of hyperbolic functions.amount և difference, double և half argument, like him ևThe sum of the hyperbolic functions, the difference և the productfor.
-The ideas of exponential, trigonometric, and hyperbolic functions can be defined as an argument complex, in particularfor false values, which will allow you to connectamong the latter.
-Using the theory of functions of complex variables knownFrom Euler's formulas սահման definitions of hyperbolic functions, one can also establish a connection between trigonometric և hyperbolic functions և.1 (cid.
+1876) (7) In the same way as formulas known from trigonometry, one can obtain formulas for the difference ում sum of the arguments of hyperbolic functions, double կրկն half argument, as well as the product of the sum, difference և of the sum of the hyperbolic functions.
+The ideas of exponential, trigonometric, hyperbolic functions can be defined as a complex argument, particularly for false values, which will allow us to make connections between the latter.
+Using Euler's formulas ությունից definitions of hyperbolic functions known from the theory of functions of a complex variable, one can make a connection between trigonometric and hyperbolic functions.1 (cid).
 1861) ctg (cid.
 1878) = cth (cid.
 1861) (cid.
-1878)cos (cid.
+1878) cos (cid.
 1878) = ch (cid.
 1861) (cid.
 1878),
@@ -123,7 +122,7 @@ Using the theory of functions of complex variables knownFrom Euler's formulas ս
 1861) cth (cid.
 1878) = ctg (cid.
 1861) (cid.
-1878) (8)ch (cid.
+1878) (8) ch (cid.
 1878) = cos (cid.
 1861) (cid.
 1878),
@@ -131,11 +130,11 @@ If we put (8) in the formulas (cid.
 1878) = (cid.
 1861) (cid.
 1876), where (cid.
-1876) is a real number,ctg (cid.
+1876) is a real number, ctg (cid.
 1861) (cid.
 1876) = - (cid.
 1861) cth (cid.
-1876)cos (cid.
+1876) cos (cid.
 1861) (cid.
 1876) = ch (cid.
 1876),
@@ -147,7 +146,7 @@ cth (cid.
 1861) (cid.
 1876) = - (cid.
 1861) ctg (cid.
-1876) (9)that is, if we take the argument as a purely false number, then we will get: (cid.
+1876) (9) that is, if we take the argument as a purely false number, then we will get: (cid.
 1861) sin (cid.
 1878) = sh (cid.
 1861) (cid.
@@ -187,10 +186,10 @@ th (cid.
 1876) = (cid.
 1861) tg (cid.
 1876),
-The received resolutions allow for a transitionfrom trigonometric functions to hyperbolic functions ևon the contrary, how to replace a false argument with a real one.
-The same can be said for hyperbolic functionsformulas, including arguments for hyperbolic functionssum, difference, double և half angle և other formulas.
- SoFrom ordinary trigonometry you can get the so-called"Hyperbolic trigonometry".
-The formulas for derivation and integration of hyperbolic functionsfollow the definitions of these functions.(sh (cid.
+The resulting formulas make it possible to switch from trigonometric functions to hyperbolic functions "on the contrary, like him" to replace the false argument with the real one.
+Similarly, other formulas for hyperbolic functions can be obtained, including formulas for the sum of the arguments of the hyperbolic functions, double's half-angle, and other formulas.
+ Thus, from ordinary trigonometry one can get the so-called "hyperbolic trigonometry".
+The formulas for derivation and integration of hyperbolic functions follow the definitions of those functions (sh (cid).
 1876)) (cid.
 4593) = ch (cid.
 1876),
@@ -217,57 +216,57 @@ The formulas for derivation and integration of hyperbolic functionsfollow the de
 (ch (cid.
 1876)) (cid.
 4593) = sh (cid.
-1876),(cth (cid.
+1876), (cth (cid.
 1876)) (cid.
 4593) = - 1sh (cid.
 2870) (cid.
-1876)(cid.
+1876) (cid.
 3505) sh (cid.
 1876) (cid.
 1856) (cid.
 1876) = ch (cid.
 1876) + (cid.
-1829)		(cid.
+1829) (cid.
 3505) (cid.
 1856) (cid.
 1876) sh (cid.
 2870) (cid.
 1876) = - cth (cid.
 1876) + (cid.
-1829) (10)(cid.
+1829) (10) (cid.
 2780). Reverse hyperbolic functions.
   If (cid.
 1876) = sh (cid.
-1877), then it is possiblefrom here (cid.
+1877), then can be found here (cid.
 1877) to express (cid.
 1876), which will be the inverse function of the hyperbolic sine function.
  It means as follows: (cid.
 1877) = Arsh (cid.
-1876), և:reads hyperbolic areasinus.
- They are defined in the same way. "the inverse functions of other hyperbolic functions.(cid.
+1876) և Hyperbolic areasinus is read.
+ The inverse functions of the other hyperbolic functions are defined in the same way (cid).
 1876) = (cid.
 1855) h (cid.
 1877) ⇔ (cid.
 1877) = Arch (cid.
-1876) (hyperbolic areacosine),(cid.
+1876) (hyperbolic areacosinus), (cid.
 1876) = th (cid.
 1877) ⇔ (cid.
 1877) = Arth (cid.
-1876) (hyperbolic blood clots),(cid.
+1876) (hyperbolic areatanges), (cid.
 1876) = cth (cid.
 1877) ⇔ (cid.
 1877) = Arcth (cid.
-1876) (hyperbolic blood clots),(cid.
+1876) (hyperbolic blood clots), (cid.
 1876) = sch (cid.
 1877) ⇔ (cid.
 1877) = Arsch (cid.
-1876) (hyperbolic areaceans),(cid.
+1876) (hyperbolic areaceans), (cid.
 1876) = csch (cid.
 1877) ⇔ (cid.
 1877) = Arcsch (cid.
 1876) (hyperbolic sunset).
-As hyperbolic functions are expressed exponentiallywith functions, as well as inverse hyperbolic functions are possibleis expressed by inverse exponential, that is, sliding, functions.
- The following formulas apply:Arsh (cid.
+Just as hyperbolic functions are expressed by exponential functions, so inverse hyperbolic functions can be expressed by inverse exponential, that is, sliding, functions.
+ The following formulas are in place: Arsh (cid).
 1876) = ln ((cid.
 1876) + (cid.
 3493) (cid.
@@ -284,7 +283,7 @@ Arth (cid.
 3436) 1+ (cid.
 1876)
 (| (cid.
-1876) | <1) (13)1− (cid.
+1876) | <1) (13) 1− (cid.
 1876) (cid.
 3440),
 Arcth (cid.
@@ -292,7 +291,7 @@ Arcth (cid.
 3436) (cid.
 1876) +1:
 (| (cid.
-1876) |> 1) (14)(cid.
+1876) |> 1) (14) (cid.
 1876) −1 (cid.
 3440),
 Arsch (cid.
@@ -303,19 +302,19 @@ Arsch (cid.
 1876) (cid.
 2870) −1 (cid.
 4685), (0 <(cid.
-1876) <1) (15)Arcsch (cid.
+1876) <1) (15) Arcsch (cid.
 1876) = ln (cid.
 4684) 1 (cid.
 1876) + (cid.
 3496) 1 (cid.
 1876) (cid.
 2870) +1 (cid.
-4685) (16)(12) For the expression of the formula, consider: (cid.
+For the output of formula 4685) (16) (12), consider: (cid.
 1877) = Arch (cid.
 1876) hyperbolic areacosinus function.
  In this case (cid.
 1876) = ch (cid.
-1877), և, as is well known,by means of chions (chid).
+1877), և, as is well known, by means of cyan, as follows:
 1877) = (cid.
 3032) (cid.
 3300) (cid.
@@ -337,24 +336,24 @@ Arsch (cid.
 3052) −2 (cid.
 1876) (cid.
 1857) (cid.
-3052) + 1 = 0:Solving it, we will get: (cid.
+3052) + 1 = 0 Solving it, we will get: (cid.
 1857) (cid.
 3052) = (cid.
 1876) ± √ (cid.
 1876) (cid.
 2870) −1.
-  Obtained by slidingWe will get both parts of the equation (cid).
+  By sliding the two parts of the equation, we get (cid).
 1877) = ln ((cid.
 1876) ± √ (cid.
 1876) (cid.
 2870) −1).
- On the other hand:(cid.
+ On the other hand: (cid.
 1877) = Ar (cid.
 1855) h (cid.
 1876), so we will get Resolution (12).
 1√ (cid.
 1876) (cid.
-2870) −1:1√1 + (cid.
+2870) −11√1 + (cid.
 1876) (cid.
 2870),
 (Arch (cid.)
@@ -367,13 +366,13 @@ Arsch (cid.
 1876)) (cid.
 4593) = - 1 (cid.
 1876) (cid.
-2870) −1:(Arth (cid.
+2870) −1 (Arth (cid.)
 1876)) (cid.
 4593) = 11− (cid.
 1876) (cid.
 2870),
-The hyperbolic cosine function can be represented as an exponential function or the same:Derivation and integration of inverse hyperbolic functionsThe resolutions are:4. Calculation of integrals for installations with hyperbolic functionsfrom the coursethrough.
-  howintegralknown:account:is:The first four formulas can be used to prove anti-cid.
+The hyperbolic cosine function can be represented as an exponential function or, in other words, the derivation and integration formulas of inverse hyperbolic functions.4. Calculation of integrals through a course of installations with hyperbolic functions.
+  As the integral notation is known, the first four formulas can be used to prove the contra (cid).
 1877) (cid.
 3051) (cid.
 4593) = (Arsh (cid.
@@ -406,7 +405,7 @@ Arch (cid.
 1876) √− (cid.
 1853) + (cid.
 1829), when (cid.
-1853) <0:	(cid.
+1853) <0 (cid.
 3505) (cid.
 1856) (cid.
 1876)
@@ -423,7 +422,7 @@ Arch (cid.
 1876) + (cid.
 1853) (cid.
 4698) + (cid.
-1829) =:= (cid:
+1829) == (cid.
 3422) −1 (cid.
 1853) Arth (cid.
 1876) (cid.
@@ -437,7 +436,7 @@ Arch (cid.
 1853) + (cid.
 1829), when | (cid.
 1876) |> (cid.
-1853) (17)from the derivation of the derivation of functions: (cid.
+1853) (17) Return from the rule of derivation of functions: (cid.
 1877) (cid.
 3051) (cid.
 4593) = (cid.
@@ -447,7 +446,7 @@ Arch (cid.
 4593).
   For example, when (cid.
 1877) = Arsh (cid.
-1876),then (cid.
+1876), then (cid.
 1876) = sh (cid.
 1877).
  Let us derive the latter according to (cid.
@@ -456,9 +455,9 @@ Arch (cid.
 3052) (cid.
 4593) = ch (cid.
 1877).
- Therefore:1√1 + (cid.
+ Then √1√1 + (cid.
 1876) (cid.
-2870)1 (cid.
+2870) 1 (cid.
 3493) 1 + sh (cid.
 2870) (cid.
 1877) =:
@@ -475,7 +474,7 @@ Arch (cid.
 3439) (cid.
 1856) (cid.
 1876) the integral where (cid.
-1844) is the sign of a rational function,that is, (cid.
+1844) is the symbol of a rational function, ie (cid.
 1876) The argument is replaced by a new (cid).
 1872) parameter triangle ∫ (cid.
 1844) (cid.
@@ -490,7 +489,7 @@ Arch (cid.
 3439) (cid.
 1856) (cid.
 1876) Calculate the integrals of appearance using hyperbo Problem 1.
-  Integrate by installing hyperbolic functions [4].(cid.
+  Integrate by installing hyperbolic functions [4]. (Cid.
 2165) = (cid.
 3505) (cid.
 2206) (cid.
@@ -500,13 +499,13 @@ Arch (cid.
 2206) + (cid.
 2778) (cid.
 2186) (cid.
-2206)	(cid.
+2206) (cid.
 1876) + (cid.
 2869) (cid.
 2870) = √ (cid.
 2871) (cid.
 2870) sh (cid.
-1872), this(cid.
+1872), this (cid.
 1872) = Arsh (cid.
 3436) (cid.
 2870) √ (cid.
@@ -524,7 +523,7 @@ Arch (cid.
 1872) (cid.
 1856) (cid.
 1872).
- Therefore:(cid.
+ Then (cid.
 1835) = (cid.
 3505) (cid.
 1876) (cid.
@@ -544,7 +543,7 @@ Arch (cid.
 2870) (cid.
 1872) +34 (cid.
 1856) (cid.
-1872) =:= 38 (cid.
+1872) == 38 (cid.
 3505) ch (cid.
 2870) (cid.
 1872) (cid.
@@ -563,7 +562,7 @@ Arch (cid.
 2870) (cid.
 1872) (cid.
 1856) (cid.
-1872) =:= 3√38 (cid.
+1872) == 3√38 (cid.
 3505) ch (cid.
 2870) (cid.
 1872) (cid.
@@ -577,9 +576,9 @@ Arch (cid.
 1872) −332sh2 (cid.
 1872) −316 (cid.
 1872) + (cid.
-1829) =:with a dimensional function.
- Often triangular-dimensional installations can lead to more complex results, especially when:We import secane or kosekans.
-  In this case it is possible= 124 (4 (cid.
+1829) = with a quantitative function.
+ Often triangular-sized installations can lead to more complex results, especially when importing sequencer or cosine.
+  In this case it is possible = 124 (4 (cid).
 1876) (cid.
 2870) +4 (cid.
 1876) +2) (cid.
@@ -589,9 +588,9 @@ Arch (cid.
 3493) 4 (cid.
 1876) (cid.
 2870) +4 (cid.
-1876) + 2−:can be calculated through so-called trigonometric placement,Lac installations.
+1876) + 2 − can be calculated by means of so-called trigonometric placement, laconic placements.
 Solution.
-Install:in the case of:will receive                                   −316ln (cid.
+In case of installation, they will get 16316ln (cid.
 3436) (cid.
 1876) +12+ (cid.
 3493) 4 (cid.
@@ -599,13 +598,13 @@ Install:in the case of:will receive                                   −316ln (
 2870) +4 (cid.
 1876) +2 (cid.
 3440) + (cid.
-1829) ̅:where (cid.
+1829) ̅որտեղ (cid.
 1829) ̅ = (cid.
 1829) + (cid.
 2871) (cid.
 2869) (cid.
-2874) ln√3:And apply the second term condition, we will get:5. Integration of differential equations.
-  Hyperbolic functions are also used to integrate a number of differential equationstime.
+2874) ln√3 And apply the second term condition, we will get.5. Integration of differential equations.
+  Hyperbolic functions are also used when integrating a number of differential equations.
  During the integration, it is possible to get expressions that will be easier to count through hyperbolic placement.
 Consider some examples of solving differential equations (cid).
 2260) (cid.
@@ -620,10 +619,10 @@ Consider some examples of solving differential equations (cid).
 2260) (cid.
 2207) (cid.
 2779) = (cid.
-2777) the equation is privatewhich are of interest.
+2777) those individuals of the equation who are of interest.
 Problem 2.
- Find Laplacethe same.a solution that satisfies the following boundary conditions:Put them in the Laplace equation, we'll get the followingSolution.
-  Using the first boundary condition, the private solution(cid.
+ Find the Laplace Identity: the solution that satisfies the following boundary conditions: Put them in the Laplace equation, we will get the following Solution.
+  Using the first term condition, the private solution (cid.
 2260) (cid.
 2230) (cid.
 2260) (cid.
@@ -633,7 +632,7 @@ Problem 2.
 2880) (cid.
 2879) (cid.
 2190) = (cid.
-2777)(cid.
+2777) (cid.
 2230) ((cid.
 2206), (cid.
 2207)) | (cid.
@@ -663,7 +662,7 @@ We will look for it in the following form. (cid.
 1866) (cid.
 1872)) (cid.
 1851) ((cid.
-1877))where (cid.
+1877)) where (cid.
 1851) ((cid.
 1877)) is an unknown function, dependent only on (cid.
 1877) −ից և (cid.
@@ -672,7 +671,7 @@ We will look for it in the following form. (cid.
 Let's count (cid.
 2004) ((cid.
 1876), (cid.
-1877)) the second order partial derivatives of the function.(cid.
+1877)) The second order partial derivatives of the function (cid.
 2034) (cid.
 2870) (cid.
 2004) (cid.
@@ -684,7 +683,7 @@ Let's count (cid.
 1866) (cid.
 1872)) (cid.
 1851) ′ ′ ((cid.
-1877))(cid.
+1877)) (cid.
 2034) (cid.
 2870) (cid.
 2004) (cid.
@@ -711,7 +710,7 @@ cos ((cid.
 1865) (cid.
 2870) (cid.
 1851) ((cid.
-1877))] ≡0:Because cos ((cid.
+1877))] ≡0 As cos ((cid.
 1865) (cid.
 1876) - (cid.
 1866) (cid.
@@ -723,7 +722,7 @@ cos ((cid.
 1865) (cid.
 2870) (cid.
 1851) ((cid.
-1877)) = 0:which is the general solution. (cid.
+1877)) = 0 whose general solution is: (cid.
 1851) ((cid.
 1877)) = (cid.
 1829) (cid.
@@ -733,17 +732,17 @@ cos ((cid.
 1829) (cid.
 2870) sh (cid.
 1865) (cid.
-1877)Find (cid.
+1877) Find (cid.
 1851) (0) = (cid.
-1853) a private solution that satisfies the condition;(cid.
+1853) the private solution that satisfies the condition (cid.
 1853) = (cid.
 1829) (cid.
 2869) ch0 + (cid.
 1829) (cid.
-2870) sh0:Then (cid.
+2870) sh0 Back (cid.
 1829) (cid.
 2869) = (cid.
-1853) ավոր The private solution will be:(cid.
+1853) և The private solution will be. (Cid.
 1851) ((cid.
 1877)) = (cid.
 1853) ch (cid.
@@ -752,7 +751,7 @@ cos ((cid.
 1829) (cid.
 2870) sh (cid.
 1865) (cid.
-1877)Thus: (cid.
+1877) Thus: (cid.
 2004) ((cid.
 1876), (cid.
 1877)) = cos ((cid:
@@ -766,11 +765,11 @@ cos ((cid.
 1829) (cid.
 2870) sh (cid.
 1865) (cid.
-1877)) (18)(cid.
+1877)) (18) (cid.
 3105) (cid.
 3075) (cid.
 3105) (cid.
-3052) the partial derivative.(cid.
+3052) the partial derivative (cid.
 2034) (cid.
 2004) (cid.
 2034) (cid.
@@ -786,16 +785,16 @@ cos ((cid.
 1829) (cid.
 2870) ch (cid.
 1865) (cid.
-1877))linearly homogeneous differential equation.Let's find out nowWrite the gin equation as follows:(cid.
+1877)) linear homogeneous linear differential equation. Now find the middle equation and write it in the following form: (cid.
 1853) (cid.
 1829) (cid.
 2870) = sh (cid.
 1865) ℎ:
 ch (cid.
-1865) ℎ:This problem is very common in hydrodynamics when straightening.
+1865) խնդիրըThis problem is very common in hydrodynamics when straightening.
 Problem 3.
-  Find the following constant coefficients, heterogeneousSolution.
-  Using the definition of a hyperbolic sine, this differential equation can be represented as follows:(cid.
+  Find the following with constant coefficients, heterogeneous Solution.
+  Using the definition of a hyperbolic sine, this differential equation can be represented as follows: (cid.
 1865) cos ((cid.
 1865) (cid.
 1876) - (cid.
@@ -805,7 +804,7 @@ Problem 3.
 1865) ℎ + (cid.
 1829) (cid.
 2870) ch (cid.
-1865) ℎ) = 0:Because (cid.
+1865) ℎ) = 0 Because (cid.
 1865) cos ((cid.
 1865) (cid.
 1876) - (cid.
@@ -816,7 +815,7 @@ Problem 3.
 1829) (cid.
 2870) ch (cid.
 1865) ℎ = 0.
- Put it in equation (18), we will get:(cid.
+ Return it in equation (18), we will get (cid).
 2004) ((cid.
 1876), (cid.
 1877)) = (cid.
@@ -833,7 +832,7 @@ ch (cid.
 1865) ℎsh (cid.
 1865) (cid.
 1877) (cid.
-3440)Given that ch (cid.
+3440) Given that ch (cid.
 1865) (cid.
 1877) ch (cid.
 1865) ℎ + sh (cid.
@@ -841,7 +840,7 @@ ch (cid.
 1877) sh (cid.
 1865) ℎ = ch (cid.
 1865) ((cid.
-1877) + ℎ), we will get(cid.
+1877) + ℎ), we will get (cid.
 2004) ((cid.
 1876), (cid.
 1877)) = (cid.
@@ -858,7 +857,7 @@ ch (cid.
 2918) (cid.
 3040) (cid.
 3035).
-The velocity potential of a reservoir with a depth of պատ երով with Armenian wallsThe general solution of the differential equation (cid.
+The general solution of the potential differential equation of the velocity of the reservoir with depth պատ ℎ with Armenian walls (cid).
 2207) (cid.
 4593) (cid.
 4593) - (cid.
@@ -917,7 +916,7 @@ will be (cid.
 3299) (cid.
 2870) from the equation.
   Because (cid.
-1853) is a solution of the descriptive equation, hence the latterThe solution will have the following general appearance: (cid.
+1853) is a solution of the descriptive equation, so the latter solution will have the following general appearance: (cid.
 1877) (cid.
 2869) = (cid.
 1827) (cid.
@@ -941,7 +940,7 @@ will be (cid.
 2872) (cid.
 3028).
  - (cid.
-1853) Descriptoris the solution of the equation, therefore (cid.
+1853) is the solution of the descriptive equation, therefore (cid.
 1877) (cid.
 2870) the solution we will decide (cid.
 1877) (cid.
@@ -965,7 +964,7 @@ from the equation, will have (cid.
 2879) (cid.
 3028) (cid.
 3051) appearance.
-  Satisfactory differentialequation, we will get. (cid.
+  Satisfying the differential equation, we will get: (cid.
 1828) = (cid.
 3029) (cid.
 2872) (cid.
@@ -981,7 +980,7 @@ from the equation, will have (cid.
 (cid.
 2872) (cid.
 3028).
- Thus given= (cid:
+ Thus, given = (cid.
 1829) (cid.
 2869) ch (cid.
 1853) (cid.
@@ -994,7 +993,7 @@ from the equation, will have (cid.
 1876) 2 (cid.
 1853) ch (cid.
 1853) (cid.
-1876)(cid.
+1876) (cid.
 1851) = (cid.
 1877) (cid.
 2868) + (cid.
@@ -1038,15 +1037,15 @@ from the equation, will have (cid.
 1857) (cid.
 2879) (cid.
 3028) (cid.
-3051) 2: to determine the solution satisfy the last differential equation The corresponding homogeneous solution has a general solutionThe general solution of a given heterogeneous differential equationThe general solution of the heterogeneous differential equation will be:is equal to:The graph corresponding to the abscissa is called a chain line.
- This name is due to the factwith that from both ends in some waythe attached chain adopts this curveappearance.
-  The chain has manystrong properties.
+3051) To determine 2, let us satisfy the solution of the last differential equation.
+ This name is connected with the fact that some kind of chain attached from both ends accepts this coriander.
+  The chain has many properties.
 6. Geometric applications.
  (cid.
 1877) = (cid.
 1853) ch (cid.
 3051) (cid.
-3028) hyperbolic function   a) (cid.
+3028) of hyperbolic function a) (cid.
 1877) = (cid.
 1853) ch (cid.
 3051) (cid.
@@ -1058,8 +1057,8 @@ from the equation, will have (cid.
 1841) (cid.
 1827) (cid.
 1839) (cid.
-1842)curved table (Fig. 1) (cid.
-1843) area= (cid:
+1842) curved table (Fig. 1) (cid.
+1843) area = (cid.
 1853) (cid.
 2870) sh (cid.
 1876) (cid.
@@ -1085,7 +1084,7 @@ from the equation, will have (cid.
 1877) (cid.
 2870) - (cid.
 1853) (cid.
-2870)= (cid:
+2870) = (cid.
 1853) (cid.
 3505) ch (cid.
 1876) (cid.
@@ -1112,7 +1111,7 @@ b) Chain line (cid.
 (cid.
 2868)
 closed bow (cid.
-1871) the length is equal to.= (cid:
+1871) length is equal to. = (Cid.
 1853) sh (cid.
 1876) (cid.
 1853)
@@ -1148,7 +1147,7 @@ closed bow (cid.
 1877) (cid.
 2870) - (cid.
 1853) (cid.
-2870)(cid.
+2870) (cid.
 2868)
 (cid.
 2868)
@@ -1159,20 +1158,20 @@ c) A catenoid.
 3051) (cid.
 3028) chain (cid.
 1841) (cid.
-1876)The surface of rotation is called the catenoid (Fig. 2).
+1876) The surface of rotation is called the catenoid (Fig. 2).
   Let's count that body (cid.
-1848)volume restricted to the catenoid (cid.
+1848) volume, which is limited to the catenoid (cid.
 1877) (cid.
 1841) (cid.
-1878) coordinateplane և parallel to that plane and from it (cid.
-1876) at a distance= (cid:
+1878) with coordinate plane և parallel to that plane and from it (cid.
+1876) at a distance = (cid.
 2024) (cid.
 1853) 2 ((cid.
 1853) (cid.
 1876) + (cid.
 1871) (cid.
-1877))Catenoid surface (cid.
-1843) area can be calculated as follows= (cid:
+1877)) of the catenoid surface (cid.
+1843) area can be calculated as follows = (cid.
 2024) (cid.
 1853) (cid.
 4672) (cid.
@@ -1223,7 +1222,7 @@ c) A catenoid.
 1853) (cid.
 1876) + (cid.
 1871) (cid.
-1877))(cid.
+1877)) (cid.
 2868)
 = (cid:
 2024) (cid.
@@ -1253,26 +1252,25 @@ c) A catenoid.
 (cid.
 2868)
 in the plane.
- We will get:through the formula.fig. 2:
-axis:rotating aroundreceived:r, we will get the following relation: (cid.
+ We will get it through the formula. If we rotate the axis 2, we will get the following relation: (cid.
 1848) = (cid.
 3028) (cid.
 2870) (cid.
 1843).
-Comparing the volume of the catenoid և surface formula և Now let us consider a fewproblems that can be solvedchain or connected to a chain.
-Fig.3:Problem 4. Flexible, homogeneous, non-stretchingThey are fixed at two points at the same height, at a distance between them (cid).
+Comparing the volume formula to the surface area of ​​a catenoid. Let us now consider a few problems whose solution is brought to the chain line or connected to the chain line.
+Figure 3 Problem 4. Flexible, homogeneous, non-stretching joints are fixed at two points at the same height, spaced apart (cid).
 2779) (cid.
 2201) The length of the wire is equal to (cid.
 2779) (cid.
 2194) ((cid.
 2194) <(cid.
 1871)).
-  It:under the influence.
+  Under the influence.
  Find the equation of the wire suspension curve [(cid.
 2781)].
 Solution. Choose the coordinate axes as follows: (cid.
 1841) (cid.
-1876)place the axis in the horizontal direction, and (cid.
+1876) place the axis in the horizontal direction, and (cid.
 1841) (cid.
 1877) to pass the axis (cid.
 1839) (cid.
@@ -1283,22 +1281,22 @@ Solution. Choose the coordinate axes as follows: (cid.
 1839) (cid.
 2869) և (cid.
 1839) (cid.
-2870) abscesses of pointswill be equal to - (cid.
+2870) the abscissas of the points will be equal to - (cid.
 1864) −ի և (cid.
 1864).
- It is known from the problem of thin thread hanging [4] that:The search curve will be (cid.
+ It is known from the problem of thin thread suspension [4] that there will be a searchable curve (cid).
 1877) = (cid.
 1853) ch (cid.
 3051) (cid.
 3028) chain.
  But in that case (cid.
-1853) parameterwas known և (cid.
+1853) The parameter was known և (cid.
 1853) = (cid.
 3009) (cid.
 3044).
  In this case the problem is brought (cid.
-1853) the determination of the parameter;depends on its own masswhich is equal to the coordinate origin և between the vertices of the chain ևthe existing distance (Fig. 3).
-We have the following formula for calculating the length of a curved bow.= 2 (cid.
+1853) depends on the decision of the parameter, its own mass is equal to the distance between the coordinate origin and the vertex of the chain (Fig. 3).
+To calculate the length of the curve arc we have the following formula: = 2 (cid.
 3505) (cid.
 3495) 1 + sh (cid.
 2870) (cid.
@@ -1315,7 +1313,7 @@ We have the following formula for calculating the length of a curved bow.= 2 (ci
 = 2 (cid.
 1853) sh (cid.
 1864) (cid.
-1853)(cid.
+1853) (cid.
 3039)
 (cid.
 3039)
@@ -1332,7 +1330,7 @@ We have the following formula for calculating the length of a curved bow.= 2 (ci
 1876)
 Let's analyze sh (cid.
 3039) (cid.
-3028) function according to the degree series.(cid.
+3028) function according to the degree series (cid.
 2868)
 (cid.
 2879) (cid.
@@ -1357,7 +1355,7 @@ sh (cid.
 1853) (cid.
 3440) (cid.
 2872) + ⋯ (cid.
-4681)(cid.
+4681) (cid.
 3039) = (cid.
 1873), (cid.
 4672) (cid.
@@ -1365,7 +1363,7 @@ sh (cid.
 3028) (cid.
 4673) (cid.
 2870) = (cid.
-1878), in that case(cid.
+1878), in that case (cid.
 2871)! ((Cid.
 3046) (cid.
 2879) (cid.
@@ -1378,7 +1376,7 @@ sh (cid.
 1878) (cid.
 2871) + ⋯ = (cid.
 2030) ((cid.
-1878))Let's make the following appointments:The last equation will look like this:So we will get.Let's get the inverse of this series, that is (cid.
+1878)) Let's do the following assignments, the last equation will take the following form: Thus, we will get: Let's get the inverse of this series, that is,
 1878) as (cid.
 1873) − function.
  In this case it will be possible to count (cid.
@@ -1388,7 +1386,7 @@ sh (cid.
  For this purpose (cid.
 1878) = (cid.
 1858) ((cid.
-1873)) for the function we make the McLoren series.(cid.
+1873)) for the function we form the Macloren series. (Cid.
 1878) = (cid.
 1858) (0) + (cid.
 1858) (cid.
@@ -1404,15 +1402,15 @@ sh (cid.
 1866)!
 (cid.
 1873) (cid.
-3041) + ⋯:Immediately (cid.
+3041) + ⋯ Immediately (cid.
 1873) after the definition of (cid.
 1858) (0) = 0, and (cid.
-1878) No.After being negative որ that (cid.
+1878) After being negative, (cid.
 1878) = 0, when (cid.
 1873) = 0.
 (cid.
 1858) ((cid.
-1873)) for the derivatives of the function we have:(cid.
+1873)) for the derivatives of the function we have. (Cid.
 1858) (cid.
 4593) (cid.
 4593) ((cid.
@@ -1468,7 +1466,7 @@ By placing in these equations (cid.
 1858) (cid.
 4593) (cid.
 4593) (cid.
-4593) (0),… values.(cid.
+4593) (0),… values. (Cid.
 1858) (cid.
 4593) (cid.
 4593) (cid.
@@ -1486,12 +1484,12 @@ By placing in these equations (cid.
 1873) (cid.
 2870) + 2525 (cid.
 1873) (cid.
-2871) + ⋯:Then the problem is solved.
+2871) + ⋯ Then the problem is solved.
   It remains to be decided (cid.
 1853) parameter (cid.
 1853) = (cid.
 3039) √ (cid.
-3053)If required to decide (cid.
+3053) If required to decide (cid.
 1856) = (cid.
 1827) (cid.
 1828) magnitude, that is, (cid.
@@ -1500,7 +1498,7 @@ By placing in these equations (cid.
 1839) (cid.
 2870) section (cid.
 1828) The distance from the midpoint of the chain (cid.
-1827) from the top, then it shouldtake advantage of the following difference: (cid.
+1827) from the top, then the following difference should be used: (cid.
 1856) = (cid.
 1853) ch (cid.
 3039) (cid.
@@ -1510,8 +1508,8 @@ By placing in these equations (cid.
 3435) ch√ (cid.
 1878) −1 (cid.
 3439).
-  The latterinserting ch√ (cid.
-1878) Gradual series analysis, we will get:(cid.
+  By placing ch√ (cid) in the latter.
+1878) the analysis of the step series, we will get: (cid.
 1856) = (cid.
 1853) (cid.
 4678) (cid.
@@ -1520,13 +1518,13 @@ By placing in these equations (cid.
 2870) 4! + (Cid.
 1878) (cid.
 2871) 6! + ⋯ (cid.
-4679)(cid.
+4679) (cid.
 3039) √ (cid.
 3053) By the sea.
  (cid.
 1878) replaces his analysis (cid.
-1853) Replaceaccording to (cid.
-1873) Retaining members of less than two ranks:(cid.
+1853) with substitution according to (cid.
+1873) և preserving members with less than two ranks: (cid.
 2870) (cid.
 2868) (cid.
 2869) (cid.
@@ -1560,8 +1558,7 @@ we will get: (cid.
 3039)
 by equation.
 When studying the dependence of the wires of the lines.
-closed curved table surfaceSolution. Suppose that curve
-(cid.
+closed curved table surface Solution. Suppose that curve (cid.
 1839) (cid.
 2868) (cid.
 1839) (cid.
@@ -1588,7 +1585,7 @@ closed curved table surfaceSolution. Suppose that curve
 (cid.
 3051) (cid.
 3116)
-image limited to itfor the surface we have the followingResolutions.Problem 5. Find the curve knowing that the curve (cid.
+For the image area bounded by it, we have the following metaphors. Problem 5. Find the curve knowing that the curve (cid).
 2169) (cid.
 2777) (cid.
 2169) (cid.
@@ -1604,14 +1601,14 @@ image limited to itfor the surface we have the followingResolutions.Problem 5. F
 2169) (cid.
 2777) (cid.
 2169) (cid.
-3571) bowlength [(cid.
+3571) archery [[cid.
 2781)].
 We have found և is its equation (cid.
 1877) =:
 (cid.
 1858) ((cid.
 1876)).
-  Curve bow length և:(cid.
+  Curve bow length և (cid.
 3051)
 , (cid.
 1843) (cid.
@@ -1642,7 +1639,7 @@ According to the condition of the problem: (cid.
 1876)
 where (cid.
 1853) is the coefficient of proportionality.
-  Differentiating the latter: (cid.
+  Differentiating the latter (cid.
 3051) (cid.
 3116)
 we will get: (cid.
@@ -1655,7 +1652,7 @@ we will get: (cid.
  This is a first-order linear differential equation to be integrated (cid).
 1877) (cid.
 4593) = sh (cid.
-1878) means, consequentlywe will get (cid.
+1878) means to return (cid.).
 1877) = (cid.
 1853) ch (cid.
 1878), the derivative of the latter is equal to (cid.
@@ -1664,11 +1661,11 @@ we will get: (cid.
 1853) (cid.
 1878) (cid.
 4593) sh (cid.
-1878), but:on the other hand we have that (cid.
+1878), but on the other hand we have that (cid.
 1877) (cid.
 4593) = sh (cid.
 1878).
- So we get:(cid.
+ Thus, we will get: (cid.
 1853) (cid.
 1878) (cid.
 4593) sh (cid.
@@ -1680,17 +1677,17 @@ we will get: (cid.
 1878) = (cid.
 1876) + (cid.
 1829) (cid.
-1853) 	Returning (cid.
+1853) Returning (cid.
 1877) (cid.
 4593) = sh (cid.
-1878) appointment, we will receive:retroactively (cid.
+1878) appointment, we will get it later (cid.
 1877) = (cid.
 1853) ch (cid.
 1876) + (cid.
 1829) (cid.
 1853) + (cid.
 1829) (cid.
-2869)(cid.
+2869) (cid.
 1877) (cid.
 4593) = sh (cid.
 1876) + (cid.
@@ -1706,7 +1703,7 @@ Problem 6. Calculate (cid.
 2206) = - (cid.
 2184) and (cid.
 2206) = (cid.
-2184) within the limitsare a) around the axis of abscesses, b) around the axis of ordinates [(cid.
+2184) within a) around the axis of abscesses, b) around the axis of ordinates [(cid.
 2781)].
 Solution.
  a) (cid.
@@ -1725,7 +1722,7 @@ Solution.
 1877) (cid.
 4593) = sh (cid.
 3051) (cid.
-3028), respectively(cid.
+3028), then (cid.
 3029) (cid.
 2879) (cid.
 3029)
@@ -1774,15 +1771,15 @@ Solution.
 1853) sh2 (cid.
 1854) (cid.
 1853) (cid.
-3440)(cid.
+3440) (cid.
 2868)
 (cid.
 2868)
-we will get:(cid.
+we will get: (cid.
 3029)
 (cid.
 2868)
-the surface area caused by the rotation of the fallen bow if it is rotatedb) The surface obtained by rotating around the axis of the ordinatesTo calculate the area, we will use a well-known mathematical analysisFrom the following formula: (cid.
+The area of ​​the surface resulting from the rotation of a falling bow, if it rotates.) To calculate the surface area obtained by rotating about the axis of the ordinates, we will use the formula known as mathematical analysis (cid).
 1845) (cid.
 3052) = 2 (cid.
 2024) ∫ (cid.
@@ -1850,7 +1847,7 @@ the surface area caused by the rotation of the fallen bow if it is rotatedb) The
 1854) (cid.
 1853) + (cid.
 1853) (cid.
-3432)= 2 (cid.
+3432) = 2 (cid.
 2024) (cid.
 1853) (cid.
 4686) (cid.
@@ -1882,18 +1879,18 @@ the surface area caused by the rotation of the fallen bow if it is rotatedb) The
 (cid.
 2868)
 .
- We will get:7. Conclusion.
+ We will get: 7. Conclusion.
  Thus, the study is a concise methodological work on hyperbolic և inverse hyperbolic functions.
- Here are the hyperbolic ադարձ reverseProperties of hyperbolic functions և Required theorygrounds, many connections are given.
-  All this is presentedin a way that is accessible to the reader և the student.
+ Here are presented the properties of hyperbolic, anti-hyperbolic functions, the necessary theoretical bases, many connections are given.
+  All this is presented in a way that is accessible to the reader և student.
 Hyperbolic "reverse hyperbolic" functions are also considered from a practical point of view.
-  They are especially interestingpresents the differential equations in terms of integration.
-All problems are given with appropriate solutions in detailwith description.
-Literature 6. Vygodski MI, Handbook of Higher Mathematics.
+  Of particular interest are the differential equations in terms of integration.
+All problems are given with appropriate solutions with detailed descriptions.
+Literature 6. Vygodsky M.Y., Handbook of Higher Mathematics.
  Yes!
-  Luyspublishing house.
+  Luys Publishing House.
  1973.
   948 pages.
 Functions:
-  with Configuration Theorems and Equivalent ant Equidecomposable:Information about the authors:Sargsyan Armenuhi Hakoby - University of Thessaloniki, Higher Mathematics և MathematicsAssociate Professor of the Chair of Teaching, Physics and Mathematics candidate, E-mail.
- armenuhis@mail.ru:Gayane Mkhitaryan Melkonyan - Yerevan State University, master student, E-mail:
+  with Configuration Theorems and Equivalent ant Equidecomposable Information about the authorsSargsyan Armenuhi Hakoby- LLC, Associate Professor of the Chair of Higher Mathematics and Mathematics Teaching, Phys.Math candidate, E-mail.
+ armenuhis@mail.ru Gayane Mkhitaryan Melkonyan - Master's Degree, E-mail.

@@ -1,0 +1,102 @@
+Introduction.
+In the current era of technological development, there is a need to develop and expand the applications of a number of mathematical devices.
+ Such a way of development was adopted by the system of chain fractions, which appeared in the cornerstone position in computational mathematics.
+  In different parts of the world, particularly in Europe, they are currently researching, developing, and using the most obvious applications of chain fractions to replace heavy calculations with simpler ones.
+  In that case, the chain fractions become effective mathematical "hot spots", which we will discover within the framework of the work.
+Multi-spectrum և Chain fractions և some of their properties.
+Any rational number can be represented as a finite chain fraction, where the numbers are analyzed as an infinite chain fraction [1-3, 5].
+- are integers, and the "cut" of an Irrational-Arbitrary, finite or infinite chain fraction is called an adjacent fraction.
+  Let us mention some properties of middle fractions [1-4]. Feature 1.
+1:
+7 In the case of arbitrary, the numerator and denominator of the near fraction are determined by "Recurrent formulas", where the preliminary data are: Feature 2.
+  The quantities are interconnected in the following way: Feature 3.
+ If is a positive, rational number, and is the nearest fraction of 7, then the Evidence of 7 Properties can be found in [1].
+Chain fractions in the calendar.
+  The Gregorian calendar, which we are guided by, is based on the fact that the Earth rotates evenly around its axis, making one rotation in one day.
+  The rotation of the Earth around the Sun is one year, that year is equal to 365.24219878 ... days.
+  According to the Gregorian calendar, the sequence of simple leap years is maintained according to the following rule. If the date ends with two zeros and the number consisting of the other two digits is not divisible by 4, then that year is a simple year (for example, 1700,1800 are prime and 2000 is a leap year).
+  In such a calendar, the average time of year is 365 days 5 hours 49 minutes 12 seconds, which is only 12 seconds longer than the actual length of the year.
+  Such an accuracy is quite acceptable from the point of view of practicality, because in that case one day error will occur once in 3300 years.
+Let us now turn to the problem of the calendar from the point of view of chain fractions.
+  Express the line of the year in days and present it in a chain fraction. This is the sequence of chain fractions. If we choose the fraction, then every fourth year recedes.
+  The third near fraction was the basis of the Iranian calendar, which was proposed in 1079 by the mathematician, astronomer and poet Omar Khayyam.
+  Such a calendar's error is 19 seconds per year, և 1 day error is obtained once every 4500 years.
+In it, all the years are divided into a 33-year cycle, in which 7 times every four years is considered a retreat, and the eighth time is considered a retreat in the fifth year.
+  If we take the fraction, we will get the corresponding calendar with great accuracy, according to which the time in the middle of the year differs from the real one by only one second.
+In such a structure of the calendar, it was necessary to omit 1 leap year every 128 years.
+Chain fractions in physics.
+ Problem.
+  Suppose we have a very large number of resistance groups.
+ Is it possible to make a diagram of them, which has a resistance or in general, where -ն are the chosen natural numbers?
+The answer to this question is unequivocally positive, because for a fraction it is possible to first connect any unit of resistors in parallel, and then get a multiplication of that scheme in the same way by connecting them sequentially.
+  By doing this, we will need a unit of resistance to build a chain with the total resistance given to us (Fig. 1).
+Figure 1 To do this, let us first note that we will use the representation in the form of this chain fraction to construct the necessary electrical circuit, starting with the "bottom floor".
+ First, let's connect 3 points of resistance in parallel with each other և sequential resistance of that block. In sum, we will get a resistance circuit.
+turn on Fig. 2 Now if we connect a block consisting of 3 parallel connected resistors in parallel with the obtained circuit, we will get rid of a circuit with common resistance.
+  It remains to add 2 resistors to this circuit.
+  Thus we constructed a circuit consisting of 9 units of resistance, which is the total resistance (Fig. 2).
+The observed example leads to the following conclusion: suppose that it is necessary to form a chain with resistance, where n են are mutually prime numbers.
+  In that case, let's present the numbers in the form of a final chain fraction:
+From this presentation, it is clear from the above chain construction method that the resistances are sufficient to build the necessary circuit.
+ It should be noted that such a method of constructing an electrical circuit from a unit of resistors with a given resistance does not always lead to the minimum need for unit resistors.
+ Because we can construct the necessary circuit with common resistance, consisting of two consecutive connected blocks, and each block of chain fractions of numbers constructed Jvra, which are given in parentheses (Fig. 3).
+  Thus, an electrical circuit with a total resistance was obtained, in which 8 units of resistors were used (we had used 9 before).
+Fig. The 3 fractions have historically emerged Chain fractions in cogwheels.
+  As we know, from the need to replace fractions with smaller ones with a chain-numerator and a denominator.
+Huygens encountered a unique difficulty in building a model of the solar system through a set of gears. In order for the ratio of the rotation times of two cogwheels to be equal to the ratio of the rotation times of the planets corresponding to those gears around the Sun, the ratio of the gear numbers of the two gears must be the same.
+  However, the relationship is expressed in such large numbers that it is technically impossible to build such "astronomical" number of teeth.
+Therefore, in this approximate model, it is necessary to select constrained numbers of teeth that have the ratio of those numbers to the ratio of the possibilities.
+  This is where the chain fragments come to the rescue.
+  Consider those large numbers, the relationship of which we want to replace with the principle of approximation with the ratio of small numbers. For certainty, suppose that by technical or other condition it cannot be greater than 100.
+ In that case, we will represent the relation in the form of և in the form of a large և chain ոտ fragment և we will count the consecutive adjacent fractions.
+  In that case, it turned out that, but according to.
+  In that case, we will assume that the property of adjacent fractions [property 3], we can find out the mistake we make when substituting -s.
+For example.
+ Consider the fraction և its chain fractional analysis will look like this և if we take the near fractions. then.
+If we were to look for our problem in decimal fraction, not chain, we would have to take a fraction of at least 4 digits after the comma, that is, 10,000 decimal places, but that would not be of any use because the denominator of the initial fraction is larger. It would be 946.
+  Therefore, in this type of problem, the chain fraction apparatus not only has a great advantage over decimal fractions, but in many cases allows you to look for solutions where decimal fractions do not allow you to do anything.
+ The fact is that in the case of chain fractions, any number can be taken as a denominator, not just some degree of 10, it gives a wide choice.
+Let us turn to the problem of Huygens.
+  According to the calculations, he saw that the ratio of the numbers of teeth ends with the following numerator, declaring the irreducible fraction: The construction of gears with such numbers, of course, causes great difficulties in practice, we can even say that it is impossible.
+ Using the algorithm described above, Huygens attempted to find the solution in the nearest fractions of the corresponding chain fragment.
+  He found the fragment as such a close fragment.
+Chain fragments, used in music and music.
+The evenly balanced scale, which contains 12 halftones in each octave.
+  If the longitudinal string emits the "do" sound of the first octave accordingly (512 oscillations per second), then the longitudinal string emits a frequency sound (natural quinta) and the longitudinal string emits a frequency sound (octave).
+ By comparing two sounds, our ear catches not the ratio of their frequencies, but the logarithm of that relationship.
+  It is only necessary to take a logarithm with two bases to measure the interval of one octave as a unit. Why did the division of the 12 intervals of the octave occur?
+In order for the octave և natural quintet to be as accurate as possible, it is best to divide the octave into as many parts as possible at an even rate equal to the fraction with the selected denominator.
+The approximate fractions of the number are: սխալ the approximation error is very large.
+  The approximation corresponds to the pentatonics existing among the peoples of the East, and the approximation is the most successful.
+The error, which is inaudible to the ear.
+Other applications of chain fractions.
+● If we want to get a rectangular sheet of paper by dividing it into two equal parts, we need to get two sheets with the same ratio of sides, then the sides of the original sheet must be equated with the sides like a rectangle, then the long side of each half will be, and.
+  Indeed, if we share the "short side".
+  The ratio of those parties is equal to.
+  Format papers are endowed with this feature.
+  We will be convinced of that if we share the paper (Fig. 4).
+  The standard paper sizes are: mm.
+  Their relationship: Fig. It is the 5th near fraction of 4.
+  Their difference is inconspicuous to the eye: the product of the sides of the sheet (in meters) is slightly different from - It is related to the fact that - is the part of the weft sheet, the area of ​​which is.
+  If we find the chain fractions corresponding to all formats, it is the best approximation.
+  For example, we will see that's is only the 4th nearest fraction.
+Goethe still emphasized the curvilinear tendencies of nature.
+The screw position of the tree owners on the branches was noticed in ancient times.
+  The curl line was observed in the arrangement of flower seeds, pine cones, pineapples, cacti, etc.
+  In botany this phenomenon is known as efillotaxis.
+  The collaboration of botanists and mathematicians shed light on these amazing phenomena of nature.
+If we count the number of coils on each side, we will usually get two Fibonacci numbers, that is, numbers belonging to the following sequence, in which there are 3 rotating coils on one side of the pine cone and 5 coils on the other side.
+ In case of 5 5 և 8, respectively, the cedar cone has 8 և 13 coils, respectively.
+The spider weaves the spider web.
+  The storm is swirling.
+  This spiral arrangement of the hosts allows the plants to receive more of the rays needed for photosynthesis.
+The relations of Fibonacci numbers are converted into very simple chain fractions, for example, These are the so-called near-intersections of the golden ratio. Series whose sums In addition, chain fractions are widely used in mathematical analysis, especially in series theory.
+  As we will show later, there are laws that compute the law according to the theory of multiple series are more time-consuming and inaccurate than when the series is analyzed for the corresponding chain fraction, the values ​​of the near fractions are calculated.
+ In this case, the mistake made is minimized.
+Let us now consider the example below to be sure of the accuracy of the above.
+See the following series with Fourier [8] Table 1 shows the results of the Fourier series calculation.
+Private procedure with Fourieigumareli.
+  The series is a slow converging series. The exact amount of 6 million is provided in Table 1. in the case of Fourier series private sumsTable 1.Calculation of the number of members in the seriesPrivate values ​​of the series sumsError, Table 2 presents the Fourier corresponding results.
+The sum of the value of the Fourier series series by means of the calculation of the corresponding Fourier series.
+  The comparative results of calculating the value of the Fourier series by means of the corresponding chain fraction are really impressive. In the case of 256 rings, chain fractions give almost 300 orders of magnitude less error than counting through direct private sums.
+Thus, it can be concluded that the acceleration of the Fourier series convergence can be completely accomplished by the method of constructing the corresponding chain fractions, as it is clear from the above examples that the apparatus of chain fractions is capable of giving more and more accuracy with little error.

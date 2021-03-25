@@ -1,0 +1,53 @@
+Preface.
+պայմաններում In the conditions of rapid development of information technologies, artificial intelligence systems are widely used in the economy.
+Classical information systems. Artificial intelligence systems have obvious advantages over automated control systems, in particular the ability to solve intellectual problems, the ability to learn from past experience, the ability to build a database, a knowledge base.
+  When designing such systems, it is important to choose the tools for the knowledge-based problem-solving methodology of the structural-methodological architecture.
+In the taxi service system, the taxi companies in the taxi service system offer big data, artificial intelligence, artificial intelligence,
+  The use of machine learning methods in the widely used taxi service software system is considered modern.
+The article considers the prediction of the distribution of orders and the planning of the optimal route based on it as an application of machine learning.
+  Due to the forecast, it is possible to carry out optimal placement of taxis with minimal geographical loss.
+   The article presents the problem of designing an intellectual forecasting software system.
+with coordinates: Chronological service Problem setting.
+  The task is to develop a method և software system solution for forecasting the distribution of taxi orders.
+  The forecast of the distribution of orders is intended for the area with the given geographical coordinates, for the given period.
+It is recommended to use machine learning methods for problem analysis based on the existing data analysis.
+The object of study is the real-time order, which has the characteristics presented in Table 1.
+Table 1.
+ "Order" object descriptors tsankeBnutagrichTvyalneritipNkaragrutyunYurakanchyur patveriezaki nuynatsutsichePatvere start zhamanakePatvere skselukoordinate (longitude) Order skselukoordinate (latitude) Order starting hastsenPatvere avartelukoordinate (longitude) Order avartelukoordinate (latitude) Order avarteluzhamanakePatvere complete hastsenUghevorneri known as patviroghiashkharhagrakan of ordering zhamanakeYurakanchyur order kanakeVarordin trvatsgnahatakanePatveri arzhekeTaksi both order time.
+  According to geographical coordinates, m regions are separated.
+ For the study, k (24) time intervals with 1 hour intervals (1-00) are allocated.
+00-01.
+00,2-01.
+00-02.
+00,…, 24-23.
+00-00.
+00).
+Let us present the proposed mathematical description.
+  Suppose we have Y orders for a certain period of time (n days) according to m pre-defined region և according to k time intervals - problem.
+Required (n + 1) - the number of orders in the և 1-k time intervals of the two-day period, where j = 1, 𝑚 - the region number is predicted, t = 1, 𝑘 - the period number at the given day level, T = {ti}, M = 𝑚 mi}, where i = 1, 𝑛.
+ Thus for n day (m region և k time interval) we get:
+The problem-solving intervals (temporal, և regional) depend not only on the time և region, but also on a number of other discrete parameters, such as method.
+  Where X1 stands out is the set of days of the week.
+where X2 is the set of day types (1: pre-holiday, 2 holiday, 3 post-holiday, 4 working).
+where X3 is the set of air temperature ranges (1: -10 ° C Low, 2: -10 ° C -0 ° C, 3: 0 ° C -10 ° C, 4: 10 ° C -20 ° C, 5 : 20 ° C և high).
+where X4 is the set of precipitation types (1 - no precipitation, 2 - precipitation in the form of rain, 3 - precipitation in the form of snow).
+where X5 is the set of seasons (1: spring, 2: summer, 3: autumn, 4: winter).
+Given ((3) - (7)), we have for the study, which can be (T, M) = fj (T, M, X1, X2, X3, X4, X5), where - at the level of the given day How many parameters to represent discrete functions in the following form is the period number.
+- is the region number, t =
+It is necessary to predict (n + 1) - the number of orders expected per day, taking into account the above: n + 1 = fj (n + 1, X +, X2, X3, X4, X5).
+Given that each parameter affects the value of the output function to a different extent, the weight factor can also be included.
+  Thus, for the predicted function we get the following expression: where the discrete indices, W = {wk}, k = {1,5} - the weight coefficients [2]
+= {1,5} The local prediction functions are as follows: Thus, the prediction of the number of expected orders (n + 1) for the day leads to the optimization of the weighting coefficients (wi).
+  The given problem can be solved both by the experts, taking into account the degree of individual discrete parametricity (value of weight coefficients), as well as mechanically using the artificial neural network model, choosing the probabilistic error function, taking into account the predicted function Yj, t.
+  The algorithm for finding the coefficients of weight at work was carried out on the basis of machine learning.
+Due to the training, suppose we have the following set of tags: f1,…, fn.
+(f1 (x),…, fn (x)), the vector is called the descriptive description of the object x ∈ X.
+  The descriptive description of all selected Xl objects, which can be represented as a l × n matrix, is called an object matrix [1].
+ In the training phase, the µ method, according to the choice Xl = (xi, yi) li = 1, gets the al = a (Xl) algorithm. The training is successful. The data can be predicted using formula (9), but the predictions made can naturally have some error value.
+Software system development.
+  Https was used for software implementation.
+New York Taxi Service Database at //www.kaggle.com [3].
+  Python was chosen as the programming language, which has built-in machine learning libraries և big data processing tools.
+  Below is the software code snippet: def plot_on_map (df, BB, nyc_map, s = 10, alpha = 0.2).
+Conclusion.
+ The algorithm for predicting the distribution of orders based on the machine learning proposed in the article - Software solution will allow the company using the service to increase the productivity of work, based on the data obtained from previous tests, with minimal loss of time.

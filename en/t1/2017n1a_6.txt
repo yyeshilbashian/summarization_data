@@ -1,95 +1,89 @@
 1. Introduction.
-  All destructive և strong earthquakes as:usually accompanied by their intensity yielding to the main shockNumerous repeated shocks (aftershocks), the occurrence of which is due to a sharp increase in redistributed stresses in the epicenter of a strong earthquake.
+  All destructive strong earthquakes, as a rule, are accompanied by numerous repetitive shocks (aftershocks) yielding their intensity to the main shock, the occurrence of which is conditioned by a sharp increase of redistributed stresses in the epicenter of a strong earthquake.
  The aftershock is different according to the grouping of seismic events in space-time.
-Still in 1894 Japanese scientist Omori put forward a hypothesis,
-according to which the intensity of the aftershock process over timeextinguished by hyperbolic law.
- Developing that hypothesis, Eighty demonstrationsshowed that the quenching of the aftershock process is done gradually in a unit of time [13,14].
- The recent development of seismic surveys of aftershocks, based on which the creation of a new modified model of the Omori-Utsu law [10,12], allows the formerTo make the transition from the formal statistical analysis to the physical meaning of the emergence of this natural phenomenonto discover, to shape their patterns. [13]
-The scientific interest in studying the aftershock process is explained by the fact that it provides an opportunity to study how volumes of mountain rocks occurThe processes of fragmentation of the epicenter, their typical spatio-temporal patterns, as well as to reveal the tense-deformation state of the seismically active fault, the physical-mechanical properties of the geological environment and their local inhomogeneity [2,8,15].
+Still in 1894 The Japanese scientist Omori has put forward a hypothesis that the intensity of the aftershock is extinguished over time by a hyperbolic law.
+ Developing this hypothesis, Utsu showed that the quenching of the aftershock process takes place in a unit of time [13,14].
+ The recent development of seismic surveys of aftershocks, based on them, the creation of a new modified model of Omori-Utsu's law [10,12] allow the transition from previously conducted formal statistical analyzes to the emergence of this natural phenomenon, the physical meaning of its development. .
+The scientific interest in the study of the aftershock process is explained by the fact that it provides an opportunity to study how volcanic processes occur in the fossil zone, their typical spatio-temporal patterns, as well as to identify the physiological and geothermal state of the seismically active fault. properties and their local heterogeneity [2,8,15].
 2. Methodical approaches և analysis of results.
- Such studies are very relevant for the seismically active and seismically dangerous Caucasus region, as some of the strongest earthquakes that have occurred here so far have been comprehensively studied in Spitak (December 7, 1988).M = 7.0) և Racha (29.04.1991, M = 7.0) earthquakes [4,5].
+ Such surveys are very relevant for the seismically active and seismically dangerous Caucasus region, as one of the strongest earthquakes to date has been the comprehensive study of the Spitak (December 7, 1988, M = 7.0) and Racha (April 29, 1991, M = 7.0) earthquakes [4, 5].
 The task of the present work is to assess the main characteristics of the aftershocks of strong earthquakes in the Caucasus.
-  The Omori-Utsu law, which is one of the most well-grounded laws in seismology, shows that the quenching of aftershocks per unit time is done by a step-by-step law with the following modified version [10].  In this expression Λ (t) - within the given limits is the frequency of the aftershock, t0 - the moment of the main shock, K, p, c - the values ​​are the main parameters characterizing the aftershock process.
-In general, degree laws are characteristic of many critical phenomena that occur in complex phase systems.during the transitions, characterized as deterministic chaos.
-The main shock of strong earthquakes in the Caucasus, followed byCollection of aftershock baseline data, coordinated աշխարհի global (NEIC, CMT), regional (EMSC), republican (NSSP)From the databases of seismological centers, from various author catalogs [16,17,18], 17 earthquakes with magnitude M> 5.5 were formed։ Combined electronic catalog of the main parameters of their aftershocks.
- The spatial epicenters of these earthquakes are composeddistribution map (Fig. 1).
-Fig. 1 Caucasus region 1966-2012 strong (M> 5.5) earthquakes
-distribution of epicenters, their mechanisms, aftershocksmap:1- Class I deep fractures, 2-II class fractures, 3-I class deep fracturesFracture disorders, 4-II type intracranial fracture disorders, 5-post-shock field outline, stereographic image of 6-focal mechanism.
-The epicenter map shows the Caucasus regionthe seismically active segments on which they are locatedThe focal zones of those earthquakes with stereographic images of the mechanism of their epicenter.
+  The Omori-Utsu law, which is one of the most well-grounded laws in seismology, shows that the quenching of aftershocks per unit time is done by a step-by-step law with the following modified version [10]. In this expression Λ (t) - within the given limits is the frequency of the aftershock, t0 - the moment of the main shock, K, p, c - the values ​​are the main parameters characterizing the aftershock process.
+Gradual laws are generally characterized by a number of critical phenomena that occur during complex transitions in complex systems, characterized as deterministic chaos.
+The initial data of the main earthquake of the strong earthquakes in the Caucasus, followed by aftershocks, were collected and coordinated from the databases of world (NEIC, CMT), regional (EMSC), republican (NSSP) seismological centers, various author catalogs [16,17,18], compiled M> 5.5 Combined e-catalog of 17 earthquakes with magnitude հիմնական main parameters of their aftershocks.
+ A map of the spatial distribution of the epicenters of these earthquakes has been compiled (Fig. 1).
+Fig. 1 Caucasus region 1966-2012 Map of distribution of epicenters of strong (M> 5.5) earthquakes, their mechanisms և aftershock fields 1-I class deep fractures, 2-II class fractures, 3-I type in-fault fractures, 4-II-class in-fault fractures, 5-aftershock stereographic image of the mechanism.
+The epicenter map shows the segments of seismically active faults in the Caucasus region, on which the epicenters of these earthquakes are located, with stereographic images of their epicenter mechanism.
   The values ​​of the main parameters of these earthquakes are given in Table 1.
-  In our գնահատ Table 1 we fill in the dynamic parameters - disconnected voltages (Δσ),Quantitative values ​​of delivered seismic energy (Es), seismic moment (M0) և geometric fault dimensions (L, W), which are post-shockare possible characteristics for the study of the process.
- In Figure 1The stereographic images of the hearth mechanism are given in Table 1Quantitative values ​​of completed scalar seismic moments (M0) takenfrom the Harvard University e-catalog.
-The geometric dimensions of the hearth rupture were estimated by Riznichenkoproposed by the geometry of the magnitude M of the earthquake: epicenterdepending on the size (L, W).
+  In our estimated և Table 1, the quantitative values ​​of the dynamic parameters - disconnected voltages (Δσ), delivered seismic energy (Es), seismic moment (M0) և geometric fault geometry dimensions (L, W), which are relevant for the study of post-earthquake study ացված are filled in և .
+ Figure 1 Stereographic images of the mechanism of a 1-ohmic hearth և Table 1 Quantitative values ​​of scaly seismic moments (M0) are taken from the Harvard University Electronic Catalog [18].
+The geometric magnitude of the epicenter was estimated by the dependencies between the magnitude M of the earthquake and the geometry of the epicenter (L, W) proposed by Riznichenko.
 The delivered seismic energy was calculated by the formula lgES = K = 4 + 1.8 · Ms (Ջ) Round, and the disconnected stresses for each earthquake were estimated by the dependence proposed by Kanamori [11].
-      M0 is the seismic moment,       S is the area of ​​the fracture surface.
-where ∆σ is the delivered voltage,They are accepted as the main characteristics of the post-concussion processThe magnitude of the aftershocks, the area of ​​the aftershock field, is recordedThe number of aftershocks, the magnitude of the strongest aftershock, the total seismic energy delivered during the aftershock process, the ratios of the main earthquake և total seismic energies γ the coefficients γ of the earthquake repetition graphs [3].
-Post-earthquake process (T) և Post-earthquake field (D)Knopov's "spatial-temporal" was used to determine the areawindow "method, which is based on the following criteria [7,9].     where t0 is the time of the hearth, g-g0 |: - is the distance between the observed aftershock and the main shock;
-451,45sM0,410W1,29sM0,4410L Basic parameters of strong earthquakesTable 1:Seismicmoment:Mon. hearth:
-Energyfearful. պարամ.
-Es (Ջ)L (km) W (km)(body · cm)Off.strainΔσ (bar)Earthquake the nameDay / month / yearԺ / r / sGeographycoordinates:թ:
+      M0 is the seismic moment, S is the area of ​​the rupture surface.
+where առաքσ is the delivered voltage. The main characteristics of the aftershock process are the intensity of the aftershocks, the area of ​​the aftershock field, the number of aftershocks recorded, the strongest aftershock magnitude, the sum of the seismic energy delivered during the aftershock, the magnitude of the quake energy; [3]
+The Knopov "spatio-window" method was used to determine the magnitude of the aftershock (T) և surface of the aftershock field (D), which is based on the following criteria [7,9]. where t0 is the time of the hearth, g-g0 | -The distance between the observed "main shock" of the observed aftershock is 1.45 sM0,410W1,29sM0,4410L The main parameters of strong earthquakes Table 1 Seismic moment HearthEnergy. Parameter: Es (Ջ) L (km) W (km) (din · cm) Switching voltage Δσ (bar) Earthquake nameDay / month / yearԺ / min / Geographical coordinates
 ւ:
 o:
 r:
 o:
 Խ:
-  Magnitude:m:
+  Magnitude:
 k:
-Warto12.
+Varto 12.
 22.
-11:Dagestan18.
+11 Dagestan 18.
 12.
-24:Turkey9.
+24 Turkey 9.
 20.
-12:Chaldira12.
+12 Chaldiran 12.
 22.
-16:Norman:4.
+16 Norman 4.
 12.
-37: Krasnavodsk00.
+37 Krasnavodsk 00.
 05.
-49:Parvana08.
+49 Parvana 08.
 44.
-05:White07.
+05 White 07.
 41.
-00:Racha09.
+00 Racha 09.
 12.
-59:Barisakho23.
+59 Barisakho 23.
 09.
-49:Ardebil12.
+49 Ardebil 12.
 57.
-24:Kizilyursk05.
+24 Kizilyursk 05.
 07.
-17:Baku:Bingյl18.
+17 BakuBingyol 18.
 09.
-15:00.
+1500.
 26.
-47:Van16.
+47 Van 16.
 16.
-15:Zakatala04.
+15 Zakatala 04.
 40.
-27:Here it is12.
+27 Ahar 12.
 23.
-18:|: M0 is the magnitude of the main shock.
-T - is the whole period of the post-concussion process,             D is the maximum spatial distance of the entire aftershock field;and the values ​​T և D depend on the magnitude of the main shockwith the following analytical links [9].In addition to the value obtained from the analytical dependence of the D field of the aftershock field, the actual epicenter field area was calculated using the Mapinfo Professional software package [6].
+18 |: M0 is the magnitude of the main shock, T is the whole period of the aftershock process, D is the maximum spatial distance of the whole aftershock field, and the values ​​T և D depend on the analytical relationships after the magnitude of the main shock [9] .Analytical dependence of the surface area D on the aftershock field In addition, the actual epicenter field area was calculated using the Mapinfo Professional software package.
  The delivered cumulative seismic energy was determined by summing the seismic energies released from each aftershock, which was combined with the seismic energy delivered to the major earthquakes.
- By the number of separated aftershocks and their energy classesThe slope angle coefficients γ of the iteration graphs were determined.
-  Characteristics describing the above aftershocksThe quantitative values ​​are given in Table 2.
-The main characteristics of aftershocks of strong earthquakesQuantitative valuesTable 2:ղ:
+ By multiplying the number of separated aftershocks and their energy classes, the coefficients of the slope angle γ of the repetition graphs were determined.
+  The quantitative values ​​of the characteristics describing the above aftershocks are given in Table 2.
+Quantitative values ​​of the main characteristics of aftershocks of strong earthquakes Table 2 p
 a
 t:
 s:
 h:
-Post.Quantity:Ջ:
+Quantity:
 ց:
 h:
-D (km2)T (day)by:analyticaldepends.according to the account.TV.ց:
+D (km2) T (day) depending on the log
 h:
 ց:
 h:
 3. Conclusion.
- The main characteristics of the post-earthquake process assessed by us will be the basis for the next phase of research to implement 17 strong in the Caucasus regionComprehensive analysis of aftershocks of earthquakes in order to reveal the main patterns և characteristic features.
-BOOK: ая Уральская молодежная научная школа по геофифике.
+ The main characteristics of the aftershock process assessed by us will be the basis for the next stage of research to conduct a comprehensive analysis of the aftershock processes of 17 strong earthquakes in the Caucasus region in order to identify the main patterns և characteristic features.
+LITERATURE The Ural Uprising Scientific School of Geophysics.
  сб. science материалов.
 7. Silent Mr. M., Dmitrieva O. E. Identification of aftershocks.
-  review and news:BXXXXX. doi.
+  reviews and newsBXXXXX. doi.
 10.1029 / 2011JB009054. Geophys. J. Int. 2012. 177. P. 481–490. doi.
-10.1111 / j.1365-246X.2009.04145.x:18. http:
+10.1111 / j.1365-246X.2009.04145.x18. http:

@@ -1,10 +1,8 @@
-Contains interesting, interesting information about the administrative-territorial distribution of the population, employment, qualitative composition of the workforce, structure, other socio-economic characteristicsare the results of the census, the analysis of which we use to fully reveal the qualitative-quantitative characteristics of the human factor of production as much as possible, to substantiate the existing assessments of the comparative advantages of the cheap, high-quality labor force of the Republic of Armenia, and finally the potential for the development of territories.in order to assess the existing human capital.
-The studies were conducted in the last two years, 2001 և 2011. Comparison of census results և comparative analysis
-based on.
-Thus, the analysis of the indicators characterizing the educational level of the economically active permanent population of 15 և older people proves that a scientific degree of the republic lives in Yerevan.Postgraduate professional և higher professional education59% of those who have (Table 1, 2).
-  Academic degree, postgraduateProfessional և Higher professional education in Yerevan30.7% of the population.
-Table 1:The educational level of the 15 և senior population of the Republic of Armenia, according to:Administrative division 2011 Census data 3:
-d:
+The results of the census contain interesting and interesting information on the administrative-territorial distribution of the population, employment, the qualitative composition of the workforce, other socio-economic characteristics. to justify the assessments և to finally assess the potential for territorial development in terms of human capital.
+The studies were conducted in the last two years, 2001 և 2011. Based on the comparison of census results և comparative analysis.
+Thus, the analysis of the indicators characterizing the educational level of the economically active permanent population aged 15 և shows that 59% of those with postgraduate professional and higher professional education live in Yerevan (Table 1, 2).
+  30.7% of the population has a scientific degree, postgraduate professional and higher professional education.
+Table 1 Educational level of the 15 և senior population of the Republic of Armenia according to the administrative-economic division 2011 3 d of census data
 r:
 a
 m:
@@ -82,10 +80,10 @@ o:
 թ:
 r:
 k:
-Regions:RA:Yes!AragatsotnAraratArmavirGegharkunikLoriKotayk ShirakSyunikVayots_DzorTavushn:
+RegionsHERJanAragatsotnAraratArmavirGegharkunikLoriKotayk ShirakSyunikVayots DzorTavush
 a
 k:
-Percentage totaln:
+Percentage total
 j:
 ի:
 m:
@@ -276,11 +274,10 @@ n:
 o:
 C:
 3 The table was compiled in 2011. The results of the census are based on the data in Tables 3.1 of the statistical information.
-Between the two censusesThe index improved by 7.9 percentage points.
-  The share of specialists with the mentioned qualification in the permanent population in the regionsIt is about three times less than the corresponding index of the capital.
-There is no information on the number of specialists with postgraduate professional education in the regions in the results of the census, however, in the regions where there areHigher educational institutions (Shirak, Lori, Syunik),they have a scientific degree, postgraduate professional,The share of those with higher professional education in the permanent population is relatively high.
-Table 2:The educational level of the 15 և senior population of the Republic of Armenia, according to:Administrative division 2001 Census data 4:
-և:
+Between the two censuses, the figure improved by 7.9 percentage points.
+  The share of specialists with the mentioned qualification among the de jure population in the regions is about three times less than the corresponding index of the capital.
+There is no information on the number of specialists with postgraduate and postgraduate education in the regions. is relatively high.
+Table 2 Educational level of the 15 և senior population of the Republic of Armenia according to the administrative-economic division 2001 4 տվյալների census data
 c:
 a
 n:
@@ -518,7 +515,7 @@ h:
 d:
 n:
 H:
-Percentage totaln:
+Percentage total
 a
 k:
 a
@@ -548,23 +545,20 @@ n:
 ւ:
 o:
 C:
-Regions:RA:Yes!AragatsotnAraratArmavirGegharkunikLoriKotaykShirakSyunikVayots_DzorTavush4 The table was compiled in 2001. Census results are statistical
-Based on the data in Tables 3.1.
-In all regions, including Yerevan, the share of those with general secondary education is quite high.This indicator shows an upward trend compared to the previous census.
+RegionsHERJanAragatsotnAraratArmavirGegharkunikLoriKotaykShirakSyunikVayots DzorTavush 4The table was compiled in 2001. The results of the census are based on the data in Tables 3.1 of the statistical information.
+In all regions, including Yerevan, the share of those with general secondary education is quite high, and this indicator shows an upward trend compared to the previous census.
  The next impressive group in the system of indicators reflecting the educational level of the population are those with incomplete higher, secondary professional education.
- In any case, if in 2001 those with a general secondary to higher education were 15 ՀՀ in RA59.6% of the elderly permanent population, then in 2011that index reached the level of 71.1%.
- Given the generalThose with secondary education were on the verge of getting the next professional, higher education, then we can say,that in the years following the census of our societyThe level of education has improved even more.
-Thus, in the 2012-2013 academic year in the universities of the republic24,597 specialists were trained and the number of students was made90145 people 5.
-  In all regions without exception, such as YerevanThe share of those who do not have primary education in the city has decreased.
-If in 2001 those who do not have primary education at the time of the census
-The national average was 1.4%, then it is currently 0.5%.is.
- We think this is an indicator that reflects, if possiblesay, the natural level of illiteracy.
- There are different social groups in each countryDue to natural disabilities, various physiological abnormalities, they are not able to get an education, also adults who have not been educated before.had the opportunity to receive an education.
-  For comparisonLet us mention that our neighbor in Turkey in 2005 Those without primary education made up 11% of the population aged 15։.
-At the same time in 2013. Also conducted by experts in the framework of UN development programs
-They showed that in the neighboring countries of the region, the Republic of Armenia has advanced only in the value of the human development indexFrom Turkey (Table 3).
- Compared to neighboring countries in our countryThe life expectancy index is good - 74.4, and human5 Statistical Yearbook of the Republic of Armenia 2013, Yerevan, NSS 2014, pp. 135-136Qualitative indicators that contribute to the development of capital,such as average years of education և expected education, Armenia in one case lags behind Georgia ևAzerbaijan, in the other case, Georgia and Turkey.
-Human Development Indicators in 2012 6:Table 3:h:
+ In any case, if in 2001 those with general secondary education and higher education made up 59.6% of the RA 15-year-old de jure population, in 2011 this figure reached 71.1%.
+ If we take into account that those with general secondary education were on the verge of getting the next professional, higher education, we can claim that in the years following the census, the educational level of our society has progressed even more.
+Thus, in the 2012-2013 academic year, 24597 specialists were trained in the universities of the republic, and the number of students was 90145 people5.
+  In all regions, without exception, as in Yerevan, the share of those without primary education has decreased.
+If in 2001 The national average of those without primary education at the census was 1.4%, then it is currently 0.5%.
+ We think this is an indicator that reflects, if we can say so, the natural level of illiteracy.
+ In every country there are social groups of the society, which for various reasons - natural disability, different physiological deviations - are not able to get an education, also adults who have not had the opportunity to get an education before.
+  For comparison, let us note that our neighbor in Turkey in 2005 Those without primary education made up 11% of the population aged 15։.
+At the same time in 2013. Experts conducted within the framework of UN Development Programs also showed that in the neighboring countries of the region, the Republic of Armenia has surpassed only Turkey in terms of human development index (Table 3).
+ In our country, compared to neighboring countries, the life expectancy index is good - 74.4, and human 5 RA Statistical Yearbook 2013, Yerevan, NSS 2014, pp. 135-136. Georgia, Azerbaijan, in the other case, Georgia, Turkey.
+Human Development Indicators in 2012 6 Table 3
 ղ:
 e:
 t:
@@ -603,7 +597,7 @@ a
 m:
 a
 h:
-AzerbaijanTurkeyArmenia:Georgiaյ:
+AzerbaijanTurkeyArmeniaGeorgia
 n:
 ի:
 a
@@ -746,15 +740,15 @@ n:
 a
 N:
 H:
-As for the employed population under 75 years oldAllocation of highly qualified labor force by regions,then, as evidenced by the data in Table 4, in this caseThis capital has obvious advantages.
- Yerjan has 56.0% of highly qualified specialists of the republic,in which modern, advanced in terms of high technologySpecialists (Natural Engineering, Mathematics, Engineering, Biological Sciences և HealthThe number of specialists reaches 23,136.
+As for the distribution of highly qualified labor force under the age of 75 among the employed population by regions, then, as evidenced by the data in Table 4, in this case, the capital has obvious advantages.
+ Yerjan has 56.0% of highly qualified specialists of the republic, in which the number of advanced specialists in terms of modern, high technologies (natural engineering, mathematics, engineering, biological sciences, health specialists) reaches 23,136 people.
  This is 31.6% of the total number of highly qualified specialists in Yerevan.
- Natural engineering, biological sciences, healthcareThere is a reliable potential of specialists in the field - in Shirak - 1405, in Kotayk -1943, in Armavir - 1469, in Ararat - 1162, in Lori - 1161 people.
-The general structure of high-quality specialists in all regions is that the number of specialists in the field of education is highweight.
- Among the five groups of specialists studied, the share of education in most of the regions, except Kotayk (45.6%),exceeds the 50% level, and in Gegharkunik, Shirak and Loriexceeds 60%.
+ There is a reliable potential of specialists in the field of natural engineering, biological sciences and healthcare - in Shirak - 1405, in Kotayk - 1943, in Armavir - 1469, in Ararat - 1162, in Lori - 1161 people.
+The general structure of high-quality specialists in all regions is that the video weight of education specialists is high.
+ Among the five groups of specialists studied, the share of education in most regions, except Kotayk (45.6%), exceeds the level of 50%, and in Gegharkunik, Shirak and Lori passes more than 60%.
  In Yerevan, that index was 31.1%.
- We think thatit is quite reassuring, optimisticIt is an indicator, if we take into account that the specialists in the field of education are the main ones responsible for the "lifelong education" process, training of new specialists, "reproduction".
-Table 4:Highly qualified up to 75 years old in the employed population of the Republic of ArmeniaDistribution of labor force by regions, person 7:Profession       Regions:H:
+ We think that worms are a very encouraging indicator, which awakens optimistic moods, if we take into account that the specialists in the field of education are the main ones responsible for the "lifelong education" process, training of new specialists, "reproduction".
+Table 4 Distribution of highly qualified labor force up to 75 years old among the employed population of the Republic of Armenia by regions 7 Occupation Regions
 H:
 n:
 a
@@ -830,7 +824,6 @@ o:
 f:
 a
 T:
-Physics,of Mathematics և:Engineering:areas:specialistsBiological:of Sciences և:Health:field:specialistsIn the field of educationspecialistsFinancial and economic,law,Public:sciences,culture և otherareas:specialistsLegislative, executive,Judicial և localselfbodies,political ևPublic:organized. leaders:
-Total:But compared to the previous census in the field of educationNumber of high-quality specialists in Yerevan, Ararat, Armavi 7 The table was compiled in 2011. The results of the census are based on the data in Tables 4.4-1 of statistical information.
-in Lori, Gegharkunik, Kotayk, Syunik decreased, increased in Shirak by 5.8, in Aragatsotn - 11.1, in Vayots Dzor - 2.9 և in TavushBy 1.9%.
-Information about the author:Zoya Aghvan Tadosyan - Doctor of Economics, ProfessorArmenian State University of Economics, E-mail:
+Specialists in Physics, Mathematics, Engineering, Biology, Health, Health Specialists, Education Specialists, Finance, Economics, Law, Social Sciences, Culture, Specialists However, compared to the previous census, the number of high-quality specialists in the field of education in Yerevan, Ararat, 7 Armavi Table was compiled in 2011. The results of the census are based on the data in Tables 4.4-1 of statistical information.
+In Lori, Gegharkunik, Kotayk, Syunik it decreased, and in Shirak it increased by 5.8%, in Aragatsotn - by 11.1, in Vayots Dzor - by 2.9 և in Tavush by 1.9%.
+Information about the author Zoya A. Tadjosyan - Doctor of Economics, Professor, Armenian State University of Economics, E-mail.

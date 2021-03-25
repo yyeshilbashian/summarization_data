@@ -1,16 +1,16 @@
 1. Introduction.
-  Elliptic type differential equationsThey are widely used to describe stable fields [1-3].
-  The method of finite differences (networks) at presentThe most universal application for solving edge problemsis one of the methods [3-7].
- The method of finite differences has developed a great deal, especially in recent times, due towith the development of modern computing technologies [3,8,9].
-  Currently:: is widely used in computer mathematicsMathematica is considered to be the world leader, which:It is also used as a high-quality programming environment [10-16].
+  Elliptic-type differential equations are widely used to describe stable fields [1-3].
+  The finite difference (network) method is one of the most widely used methods of solving edge problems today [3-7].
+ The method of finite differences has undergone great development, especially in recent times, due to the development of modern computing technologies [3,8,9].
+  Currently, Mathematica is widely regarded as the world leader in computer mathematics, which is also used as a high-quality programming environment [10-16].
 This work deals with the method of solving elliptic-type differential equations according to Jacoby և Zeidel differential schemes [3,17].
- They are interpreted with a new methodological approachaccording to Jacob և The processes of solving elliptic-type differential equations by the method of networks of Zeidel differential circuits, presenting corresponding schematic drawings.
-Then the differential of the stationary heat field is consideredequation [1-2].
- The latter is solved first by using standard means of Mathematica environment, then by Jacob և Zeidel methodsby compiling and launching settlement programs.
-Then, the solution of the problem is carried out by the method of networks, the different schemes are presented, the calculation programsIn Mathematica environment, according to each of the above schemes.
- A study is being carried out from the point of view of practical concurrence ևsubstantiated high efficiency method of elliptical networkswhen solving type differential equations.
+ A new methodological approach is used to interpret the processes of solving elliptic-type differential equations by the method of Jacoby եյ Zeidel differential network networks, presenting corresponding schematic drawings.
+Then the differential equation of the stationary heat field is considered [1-2].
+ The latter is first solved by using the standard means of the Mathematica environment, and then, according to Jacob, by "compiling calculation programs of Zeidel methods".
+Then the solution of the problem is carried out by the method of networks, the different schemes are presented, the calculation programs in Mathematica environment, according to each of the above-mentioned schemes.
+ A study is carried out from the point of view of practical coherence և The high efficiency of the network method in solving elliptic-type differential equations is substantiated.
 2 ․ Jacobi's method for solving different schemes obtained for elliptic-type differential equations.
-  Let's have itThe following system of equations:(cid.
+  Suppose we have the following system of equations: (cid.
 3422) (cid.
 1853) (cid.
 2869) (cid.
@@ -64,10 +64,10 @@ Then, the solution of the problem is carried out by the method of networks, the 
 1876) (cid.
 3041) = (cid.
 1854) (cid.
-3041) (1)or (cid.
+3041) (1) or (cid.
 1827) (cid.
 1876) = (cid.
-1828), where:(cid.
+1828), where (cid.
 1827) = (cid.
 3438) (cid.
 1853) (cid.
@@ -110,7 +110,7 @@ Then, the solution of the problem is carried out by the method of networks, the 
 3041) (cid.
 3041) (cid.
 3442),
-The attachments are different from zero, ie (cid.
+The attachments are different from zero, that is (cid.
 1853) (cid.
 3036) (cid.
 3036) ≠ 0, (cid.
@@ -121,7 +121,7 @@ The attachments are different from zero, ie (cid.
 3364) (cid.
 3364) (cid.
 3364).
-  (1) equations(cid.
+  (1) equations (cid.
 1876) = (cid.
 3438) (cid.
 1876) (cid.
@@ -130,11 +130,11 @@ The attachments are different from zero, ie (cid.
 2870)… (cid.
 1876) (cid.
 3041) (cid.
-3442)Suppose in the system of equations (1) from the first, second,…, nth equations of the angular system we get respectively:or (cid.
+3442) Suppose in the system of equations (1) from the first, second,…, nth equations of the angular system we get either (cid) respectively.
 1876) = (cid.
 2009) (cid.
 1876) + (cid.
-2010), where:(cid.
+2010), where (cid.
 1876) (cid.
 2869) = (cid.
 1854) (cid.
@@ -285,7 +285,7 @@ Look for some initial (cid.
 2870), և etc.
 Then it is necessary to choose the solution of the system of equations. The description described above is an iterative process, the completion of which requires obtaining the specified accuracy or interrupting the process.
   The process is interrupted when the number of iterations exceeds the given allowable number, in which case the system does not converge or the given number of iterations is not sufficient to obtain the specified accuracy.
-The system expressing the iteration process is as follows:⎩⎪⎪⎪⎨⎪⎪⎪⎧ (cid.
+The system expressing the iteration process is as follows: ⎩⎪⎪⎪⎨⎪⎪⎪⎧ (cid.
 1876) (cid.
 2869) ((cid.
 3038) (cid.
@@ -393,9 +393,9 @@ The system expressing the iteration process is as follows:⎩⎪⎪⎪⎨⎪⎪�
 2009) (cid.
 1876) ((cid.
 3038)) + (cid.
-2010)or:where the upper index in parentheses represents the iterationnumber:
-Let us now turn to the solution of the differential scheme for elliptic-type differential equations by Jacob's method.
-Consider the general differential scheme obtained for elliptic-type differential equations, moreover, for edge pointsequationsforElliptical typedifferentialhas a different scheme as follows:We will consider Dirichlet's problem (Neumann's problem)in which case the judgments will be made by analogy).
+2010) The upper index given in parentheses represents the iteration number.
+Let us now turn to the solution of the differential scheme for elliptic-type differential equations by the Jacobite method.
+Consider the general differential scheme obtained for the elliptic-type differential equations, moreover, for the edge point equations the elliptic-type differential scheme is as follows:
 (cid.
 1873) (cid.
 3036) (cid.
@@ -469,16 +469,16 @@ Consider the general differential scheme obtained for elliptic-type differential
 3364) (cid.
 3364)
 where (cid.
-1829) տարբեր is constant from zero, (cid.
+1829) տարբեր is constant other than zero, (cid.
 1858) −ը և (cid.
-2030) Given functionsare, the internal nodes of the network are designated ((cid).
+2030) For the given functions, the internal nodes of the network are designated ((cid).
 1861) (cid.
-1862)) with indices, and marginalnodes: ((cid.
+1862) with indexes, and the edge nodes with ((cid.
 1861) (cid.
 4593) (cid.
 1862) (cid.
 4593)).
-In case of using Jacob's method (2) differential scheme(cid.
+In case of using Jacob's method (2) differential scheme (cid.
 1873) (cid.
 3036), (cid.
 3037) (cid.
@@ -631,12 +631,11 @@ in network nodes (cid.
 1876), (cid.
 1877)) the process of calculating a function.
  The essence of the ner-Jacobi method of the network reveals fig. 1.
- It reflectschanges to:The sleeping points are numbered according to the counting sequence.
-The nodes in green in the drawing correspond to the edge conditions of the differential equation, and in redThe nodes where the values ​​of the function are known are shown:according to the previous iteration.
-In this case, first the values ​​of the function at all points of the network are equalized to zero, then they are determined at the edge points of the network.Fig. 1:
-the corresponding values ​​of the function based on the set boundary conditions.
-  The actual iteration calculation starts from the network node (1,1), in which:which are the result of the previous iteration step, then the sameThe value of a function in a network node (2,1) is calculated by the values ​​of the function in its four adjacent nodes, and so on.to the last internal node of the network.
- Internal network functionfunction (cid.
+ It reflects and changes to the following view: the sleeping points are numbered according to the sequence of counting.
+The nodes in green in the drawing correspond to the edge conditions of the differential equation, and the nodes in red where the values ​​of the function are known according to the previous iteration are shown in red.
+In this case, first the values ​​of the function at all points of the network are equalized to zero, then they are determined at the end points of the network. The corresponding values ​​of 1 function, based on the set boundary conditions.
+  The original iteration calculation starts from the network node (1,1) obtained as a result of the previous iteration step, then the value of the function is also calculated in the network node (2,1) with its function values ​​in its four adjacent nodes, and so on until the last internal network the node.
+ Function (cid) in the internal domain of the network.
 1873) (cid.
 2869), (cid.
 2869) the value is determined by the function (cid.
@@ -651,24 +650,22 @@ the corresponding values ​​of the function based on the set boundary conditi
 2870) և (cid.
 1873) (cid.
 2870), (cid.
-2869) with values,The values ​​are calculated in ordinates (cid.
+2869) values, the values ​​are calculated in ordinates (cid).
 1841) (cid.
 1877) with lattice strips in the direction of the axis, first (cid.
 1862) = 0 in layer ((cid.
 1877) = (cid.
 1877) (cid.
 2868)), then և (cid.
-1862) = in 1 layer((cid.
+1862) = in 1 layer ((cid.
 1877) = (cid.
 1877) (cid.
 2869)) և etc.
- In each of these layers, the calculation is performed abscesses (cid.
+ In each of these layers, the calculation of abscesses (cid) is performed.
 1841) (cid.
 1876) in the direction of the axis layers with network layers.
-This iteration process continues for as long asuntil the solution of the given equation is obtained with the necessary accuracy.
-Let's take a look at some of the nodes in the network:Fig. 3:
-Fig. 2:
-specimens consisting of their four adjacent nodes.
+This iteration process continues until a solution with the required accuracy is obtained for the given equation.
+Let's illustrate the patterns of some of the network nodes: Figure ․ Fig. 3 The two patterns, which consist of their four hundred knots.
 For example նկ In 2 և pic ․ 3 are shown (cid.
 1873) (cid.
 2869), (cid.
@@ -681,7 +678,7 @@ For example նկ In 2 և pic ․ 3 are shown (cid.
 3037) are used to determine the step (cid).
 1873) (cid.
 2869), (cid.
-2869) The terms known as edge terms are used to count(cid.
+2869) are used to compute the terms known as (cid).
 1873) (cid.
 2868), (cid.
 2869) −ի և (cid.
@@ -690,22 +687,22 @@ For example նկ In 2 և pic ․ 3 are shown (cid.
 2868) The values ​​of հայտնի are known from the previous step of the federation (cid.
 1873) (cid.
 2870), (cid.
-2869) −ի և:(cid.
+2869) −ի և (cid.
 1873) (cid.
 2869), (cid.
 2870) values.
-  During this whole iteration process of the networkThe values ​​obtained for the function in the four corresponding nodes of the network from the previous step.
-  In particular, iteration dataValues ​​set by edge conditions in edge nodesdo not change.
-  Jacob's method has a slow connotation of thatBecause of this, it is seldom used in solving such tasks.
+  During this whole iteration process, the values ​​obtained for the function in the four corresponding nodes of the network from the previous step of the network.
+  In particular, the values ​​set in the iteration nodes according to the boundary conditions do not change.
+  Jacob's method has a slow connotation, which is why it is seldom used in solving such tasks.
 3 ․ The Zeidel method for solving different schemes obtained for elliptic-type differential equations.
-  The Zeidel method, the essence of which is most often used in practical calculationsTo show the system of equations (1), we present it belowin the form of((cid.
+  In practical calculations, the Zeidel method is most often used, to show the essence of which we present the system of equations (1) in reverse: ((cid).
 1838) + (cid.
 1830)) (cid.
 1876) ⃗ = - (cid.
 1847) (cid.
 1876) ⃗ + (cid.
 1854) (cid.
-4652) ⃗:⎩⎪⎨⎪⎧ (cid.
+4652) ⃗⎩⎪⎨⎪⎧ (cid.
 1853) (cid.
 2869) (cid.
 2869) (cid.
@@ -816,7 +813,7 @@ For example նկ In 2 և pic ․ 3 are shown (cid.
 1854) (cid.
 3041)
 where (cid.
-1862) We moved it to the right-hand side of the equationmembers that contain (cid.
+1862) In the equation we moved to the right of the equation the members that contain (cid).
 1861) <(cid.
 1862) satisfactory (cid.
 1876) (cid.
@@ -824,8 +821,8 @@ where (cid.
 1830) The matrix on which the main diagonal stands (cid) is assigned to the sea.
 1827) the corresponding elements of the matrix, and the remaining elements are zeros, (cid.
 1847) −ն և (cid.
-1838) contains:are (cid.
-1827) the upper and lower triangles of the matrix, respectivelyresolution by selecting the initial (cid.
+1838) contain (cid.
+1827) The upper and lower triangles of the matrix, respectively, whose formula is chosen by choosing the initial (cid).
 1876) ⃗ ((cid.
 2868)) approximation.
 ((cid.
@@ -840,7 +837,7 @@ where (cid.
 3038)) + (cid.
 1854) (cid.
 4652) ⃗, (cid.
-1863) = 0.1.2,…(cid.
+1863) = 0,1,2,… (cid.
 1876) (cid.
 2869) ((cid.
 3038) (cid.
@@ -929,7 +926,7 @@ where (cid.
 2878) (cid.
 2869)) + (cid.
 1856) (cid.
-3041)(cid.
+3041) (cid.
 1855) (cid.
 3036) (cid.
 3037) = (cid.
@@ -954,9 +951,9 @@ where (cid.
 0, (cid.
 1861) = (cid.
 1862)
-In the case of the Zeidel method (2), the differential scheme is solved according to:system:There are zeros on the main diagonals.
-The iteration process is constructed according to the Zeidel method. Thus, by the Zeidel method we get the equationss.
- This performance can be written as follows:where:will look like this:(cid.
+In case of using the Zeidel method (2) the differential scheme is solved according to the system: there are zeros on the main diagonals.
+The iteration process is constructed according to Zeidel's method. Thus, we will get equations with equations by Zeidel method.
+ This representation can be written in the following way, where one will have the following appearance: (cid.
 1873) (cid.
 3036), (cid.
 3037) (cid.
@@ -1107,12 +1104,12 @@ The iteration process is constructed according to the Zeidel method. Thus, by th
 (cid.
 1861) = 1, (cid.
 1866) −1:
-          When using the Zeidel method in network nodes (cid.
+          In case of using Zeidel method in network nodes (cid.
 1873) ((cid.
 1876), (cid.
-1877))The sequence of calculation of the values ​​of the function corresponds to the sequence observed in the case of the Jacobi method (Fig. 1).
- In this case, the function gets zero in all nodes of the networkvalue, then receives values ​​corresponding to the terminal condition in the network nodes, and then the iteration calculation starts from the first internal node of the network.
- The iteration process, as և:In the case of Jacob's method, it is realized in ordinates (cid.
+The sequence of calculations of the values ​​of the function corresponds to the sequence observed in the case of the Jacobian method (Fig. 1).
+ In this case, the function gets zero value in all nodes of the network, then it gets values ​​corresponding to the term condition in the network nodes, and then the iteration calculation starts from the first internal node of the network.
+ The iteration process, as in the case of Jacob's method, is carried out by ordinates (cid.
 1841) (cid.
 1877) with lattice strips in the direction of the axis, first (cid.
 1862) = 0 in layer ((cid.
@@ -1131,7 +1128,7 @@ Internal network (cid.
 1862)) function in each of the nodes (cid.
 1873) (cid.
 3036) (cid.
-3037) costis determined by the function (cid.
+3037) is the value of the function (cid).
 1873) (cid.
 3036), (cid.
 3037) (cid.
@@ -1151,7 +1148,7 @@ Internal network (cid.
 3036), (cid.
 3037) (cid.
 2878) (cid.
-2869) through values, etc.in which (cid.
+2869) through values, acceptance (cid.
 1873) (cid.
 3036), (cid.
 3037) (cid.
@@ -1161,7 +1158,7 @@ Internal network (cid.
 3036) (cid.
 2879) (cid.
 2869), (cid.
-3037) are taken from the current iteration stepthe values ​​obtained, and (cid.
+3037) The current values ​​obtained from the iteration step are taken for, and (cid.
 1873) (cid.
 3036) (cid.
 2878) (cid.
@@ -1171,25 +1168,22 @@ Internal network (cid.
 3036), (cid.
 3037) (cid.
 2878) (cid.
-2869) for the previous iterationthe values ​​obtained from the step.
- Let's draw samples of some nodes:Fig. 4:
-Fig. 5:
-Unlike Jacob's method, Zeidel's method is usedFunction values ​​in nodes during regular iterationBoth current and previous are used for calculationthe values ​​obtained during iteration.
- Fig. Pictured in 4 և 5
-Painted arrows indicate the nodes for which the current isThe values ​​obtained as a result of iteration were taken, and in blue -the values ​​calculated in the previous iteration.
+2869) for the values ​​obtained from the previous iteration step.
+ Let's draw patterns of some nodes: Fig. ․ Fig. 4 5 In contrast to the Jacobian method, in the case of the Zeidel method, both current and previous values ​​are used to calculate function values ​​in nodes during sequential iteration.
+ Fig. The arrows in Figure 4 show the nodes for which the values ​​obtained as a result of the current iteration were taken, and in blue the values ​​calculated in the previous iteration.
 are (cid.
 1873) (cid.
 2869), (cid.
 2869) և (cid.
 1873) (cid.
 2870), (cid.
-2869)'s samples of value calculation, where in orangeCurrent iteration gait (cid.
+2869)'s samples of value calculation, where the current iteration step in orange (cid).
 1873) (cid.
 3036), (cid.
-3037) are used to determinebar, in the given iteration step (cid.
+3037) is used to determine enbar, in a given iteration step (cid.
 1873) (cid.
 2870), (cid.
-2869) are used to calculate the terms known from the term (cid).
+2869) are used to compute the terms known as (cid).
 1873) (cid.
 2870), (cid.
 2868) The value of, known from the current iteration step (cid.
@@ -1201,11 +1195,11 @@ are (cid.
 2870) −ի և (cid.
 1873) (cid.
 2871), (cid.
-2869) as a result of current iteration in the left and lower extremity nodesthe values ​​of the function obtained, and the previous in the right and upper nodesThe values ​​of the function obtained as a result of iteration.
+2869) The values ​​of the function obtained as a result of current iteration in the left and lower nodes, and the values ​​of the function obtained as a result of previous iteration in the right and upper nodes.
   Private shares.
- In the case of the Zeidel method, during the iteration process, the values ​​set by the terminal conditions in the network nodes do not change.
-4․Solution of differential equation of stationary heat fieldby the method of networks.
-Consider the differential equation obtained for a stationary heat field in the presence of a heat source, which is characterized by (cid).
+ In the case of the Zeidel method, during the iteration process, the values ​​set by the terminal nodes in the network nodes do not change.
+4․Solution of stationary heat field differential equation by grid method.
+Consider the differential equation obtained for a stationary heat field in the presence of a heat source characterized by (cid).
 1858) ((cid.
 1876), (cid.
 1877)) = 2 (cid.
@@ -1220,7 +1214,7 @@ Consider the differential equation obtained for a stationary heat field in the p
 1861) (cid.
 1866) (cid.
 2024) (cid.
-1877) through the function համար for the latterSolve (cid.
+1877) through the function ֆ for the latter to Solve (cid.
 2034) (cid.
 2870) (cid.
 1873) (cid.
@@ -1259,11 +1253,11 @@ Consider the differential equation obtained for a stationary heat field in the p
 1876), 0) = (cid.
 1873) ((cid.
 1876), (cid.
-1854)) = 0:Elliptic type differential equationto solve the Dirichlet problem ․0 <(cid.
+1854)) = 0 Let us solve Dirichlet's problem ․0 <(cid).
 1877) <(cid.
-1854)in case of marginal conditions.
-Ումը Problem solving using standard Mathematica environment toolsThe NDSolve operator is provided in the Mathematica environment for the numerical solution of mathematical physics և differential equations as well as their systems.
-  Using that operatorLet's solve the problemPrn = NDSolve [{(cid.
+1854) in case of marginal conditions.
+Լուծ Solution of the problem using standard means of Mathematica environment For NDolve equations of Mathematical Physics ինչպես differential equations as well as their systems, the NDSolve operator is provided in Mathematica environment.
+  Solve the problem using that operator: Prn = NDSolve [{(cid.
 1830) [(cid.
 1873) [(cid.
 1876), (cid.
@@ -1342,12 +1336,11 @@ Consider the differential equation obtained for a stationary heat field in the p
 1850), (cid.
 1851), (cid.
 1852)} (cid.
-4675)Then նենք graphically visualize the results ․Dom ain.
+4675) Then's graphically visualize the results ․ Dom ain.
  0., 1.
 Output.
  scalar:
-Fig. 6:
-Ումը Problem solving by finite difference methodhas a different scheme of the problem observed on the grid ևappearance:According to the same coordinate axes ℎ = (cid.
+Fig. 6 The solution of the problem The finite scheme of the problem observed on the finite difference grid method has the following view: According to the same coordinate axes ℎ = (cid.
 2869) (cid.
 3040) (cid.
 2879) (cid.
@@ -1622,9 +1615,9 @@ In case of using Jacob's method (6) a different scheme will be brought (cid.
 	(cid.
 1861) = 1, (cid.
 1865) −2:
-the solution of which can be found both by accurate and digital (especially iteration) methods.
+the solution of which can be found both by precise and digital (especially iteration) methods.
  Consider some of the iteration methods.
-What does it look like?Problem posed by Jacobi method in Mathematica environmentThe program implementing the solution is as follows:(cid.
+What follows is a program that implements the Jacobian problem proposition in the Mathematica environment (cid).
 1853) = 0; (cid.
 1854) = 1; (cid.
 1858) (cid.
@@ -1632,7 +1625,7 @@ What does it look like?Problem posed by Jacobi method in Mathematica environment
 1866) (cid.
 1855) [(cid.
 1876) _, (cid.
-1877) _]	= (cid:
+1877) _] = (cid.
 1832) (cid.
 1873) (cid.
 1866) (cid.
@@ -1838,18 +1831,17 @@ What does it look like?Problem posed by Jacobi method in Mathematica environment
 1853) (cid.
 1866) (cid.
 1859) (cid.
-1857) -> {{0,1}, {0,1}}](cid.
+1857) -> {{0,1}, {0,1}}] (cid.
 1872) (cid.
 1867) (cid.
 1872) (cid.
 1853) (cid.
-1864) = 0.04733816324863982:(cid.
+1864) = 0.04733816324863982 (cid.
 1861) (cid.
 1872) (cid.
 1857) (cid.
 1870) = 154,
-In the source code, as shown belowValues ​​of function searchable in software code, network nodesFig. 7:
-will mean (cid.
+In the provided software code, as well as in the following software codes, the values ​​of the function to be searched in the network nodes. 7 will mean (cid.
 1873) [(cid.
 1861), (cid.
 1862)].
@@ -1857,15 +1849,15 @@ visualize the results graphically.
   As a result, it is displayed (cid.
 1873) ((cid.
 1876), (cid.
-1877)) The first two lines of the program provide input,then the calculation process starts, the number of iterations in the calculation process is displayed on the penultimate line, the resulting solution error, and the last line allows the obtainedthe area corresponding to the function.
-Figure 8 shows the same coordinate systemStandard tools in the Mathematica package for a given edge problemin the case of jacks obtained by Jacob's method (cid.
+1877)) The first two lines of the program provide the input data, then the calculation process starts, the number of iterations in the calculation process is displayed on the penultimate line, the resulting solution error, and the last line allows the area corresponding to the obtained function.
+Figure 8 shows the Jacobian method (cid) for the standard matrix values ​​of the Mathematica package shown in Figure կո in the same coordinate system.
 1873) ((cid.
 1876), (cid.
-1877) a quarter of the surface area of ​​the various բաժան grid separation steps obtained with the aid of the function բաժան to make the concordance of the resulting solution more visible.
-  The surface obtained with the standard means of the Mathematica package is shown in greenin color, and in the case of the 15, 19, 21 values ​​of the grid division step, JacobiThe surfaces obtained by the method are yellow and blue, respectivelyև in red colors.
+1877)) Quarters of the surface area և the grid separation steps obtained with the aid of the function և to make the convergence of the resulting solution more visible.
+  The surface obtained with the standard means of the Mathematica package is shown in green, and in the case of values ​​15, 19, 21 of the grid separation step, the surfaces obtained by the Jacobi method are yellow, blue and red, respectively.
 (cid.
 1853) = 0; (cid.
-1854) = 1;(cid.
+1854) = 1; (cid.
 1858) (cid.
 1873) (cid.
 1866) (cid.
@@ -2016,7 +2008,7 @@ Figure 8 shows the same coordinate systemStandard tools in the Mathematica packa
 1862)] - (cid.
 1873) [(cid.
 1861), (cid.
-1862)]];(cid.
+1862)]]; (cid.
 1857) (cid.
 1868) (cid.
 1871) 1 = (cid.
@@ -2096,7 +2088,7 @@ Figure 8 shows the same coordinate systemStandard tools in the Mathematica packa
 1859) (cid.
 1857) -> {{0,1}, {0,1}}],	
 {(cid.
-1865), {15,19,21}}];(cid.
+1865), {15,19,21}}]; (cid.
 1842) (cid.
 1870) (cid.
 1866) = (cid.
@@ -2169,7 +2161,7 @@ Figure 8 shows the same coordinate systemStandard tools in the Mathematica packa
 1870) (cid.
 1866) [[1]]], {(cid.
 1876), 0,1}, {(cid.
-1877), 0.1},(cid.
+1877), 0,1}, (cid.
 1842) (cid.
 1864) (cid.
 1867) (cid.
@@ -2211,7 +2203,7 @@ Figure 8 shows the same coordinate systemStandard tools in the Mathematica packa
 1853) (cid.
 1866) (cid.
 1859) (cid.
-1857) → {{0,0.5}, {0,0.5}, {0,1}},(cid.
+1857) → {{0,0.5}, {0,0.5}, {0,1}}, (cid.
 1827) (cid.
 1876) (cid.
 1857) (cid.
@@ -2225,16 +2217,16 @@ Figure 8 shows the same coordinate systemStandard tools in the Mathematica packa
 1877), (cid.
 1873) ((cid.
 1876), (cid.
-1877))}]Export at different values ​​of network partition stepsFigure 8:(cid.
+1877))}] Express in case of different values ​​of network partition steps Fig Ն8 (cid.
 1873) ((cid.
 1876), (cid.
 1877)) graphs of the corresponding curves of the function (cid.
-1877) from the coordinatedepending on և (cid.
-1876) a definite coordinate ((cid.)
+1877) coordinate dependent և (cid.
+1876) certain coordinate ((cid.
 1876) (cid.
-2868) = 0.5) in case of value ․(cid.
+2868) = 0.5) in case of value ․ (cid.
 1853) = 0; (cid.
-1854) = 1;	(cid.
+1854) = 1; (cid.
 1858) (cid.
 1873) (cid.
 1866) (cid.
@@ -2332,7 +2324,7 @@ Figure 8 shows the same coordinate systemStandard tools in the Mathematica packa
 1862)] + (cid.
 1873) [(cid.
 1861), (cid.
-1862) −1]+ (cid.
+1862) −1] + (cid.
 1873) [(cid.
 1861), (cid.
 1862) +1] + (cid.
@@ -2350,7 +2342,7 @@ Figure 8 shows the same coordinate systemStandard tools in the Mathematica packa
 1862)] - (cid.
 1873) [(cid.
 1861), (cid.
-1862)]];(cid.
+1862)]]; (cid.
 1857) (cid.
 1868) (cid.
 1871) 1 = (cid.
@@ -2459,9 +2451,9 @@ Figure 8 shows the same coordinate systemStandard tools in the Mathematica packa
 1865) (cid.
 3432) (cid.
 3424) (cid.
-3432),{(cid.
+3432), {(cid.
 1865), {8,10,12,14,18,20,24}, {(cid.
-1866), {8,10,12,14,18,20,24}}];(cid.
+1866), {8,10,12,14,18,20,24}}]; (cid.
 1842) (cid.
 1870) (cid.
 1866) = (cid.
@@ -2494,7 +2486,7 @@ Figure 8 shows the same coordinate systemStandard tools in the Mathematica packa
 1876), 0] =:
 = 0, (cid.
 1873) [0, (cid.
-1877)] == 0,	(cid.
+1877)] == 0, (cid.
 1873) [1, (cid.
 1877)] == 0, (cid.
 1873) [(cid.
@@ -2558,7 +2550,7 @@ Figure 8 shows the same coordinate systemStandard tools in the Mathematica packa
 1868) [20], (cid.
 1868) [24], (cid.
 1833) (cid.
-1870) 2},	(cid.
+1870) 2}, (cid.
 1842) (cid.
 1864) (cid.
 1867) (cid.
@@ -2567,7 +2559,7 @@ Figure 8 shows the same coordinate systemStandard tools in the Mathematica packa
 1853) (cid.
 1866) (cid.
 1859) (cid.
-1857) -> {{0,1}, {0,1}}](cid.
+1857) -> {{0,1}, {0,1}}] (cid.
 1827) (cid.
 1876) (cid.
 1857) (cid.
@@ -2582,19 +2574,19 @@ Figure 8 shows the same coordinate systemStandard tools in the Mathematica packa
 1876) (cid.
 2868) ", (cid.
 1877)) "}]	
-Figure 9:Figure 9 shows the section of the solution obtained using standard Mathematica package tools in red, and the differentare displayed in shades of different values ​​of network division stepsin this case obtained by Jacob's method (cid.
+Figure 9 Figure 9 shows the cross-section of the solution obtained using the standard means of the Mathematica package in red, and the colors of s are shown in the case of different values ​​of the grid steps obtained by the Jacobi method (cid).
 1873) ((cid.
 1876), (cid.
-1877)) corresponding to the functiongraphs of curves (cid.
+1877)) graphs of the corresponding correspondences of the function (cid.
 1877) depending on the coordinate և (cid.
 1876) coordinate (cid.
 1876) (cid.
-2868) = 0.5 aSo, we got (6) differential using Jacob's methodWith the help of Jacob's method we got a solution for the problem with 0․001 accuracy.
+2868) = 0.5 aSo, using the Jacobi method we got (6) the difference. Using the Jacobi method we got a solution to the problem with 0․001 accuracy.
  In addition, (cid.
 1865) = The results obtained from value 14 almost coincide.
  And the network partition steps (cid.
 1865) = 14 և (cid.
-1865) = 16 values ​​If the Zeidel method is used (6) a differential scheme will be introduced(cid.
+1865) = 16 values ​​Depot In case of using Zeidel method (6) a differential scheme will be brought (cid.
 1873) (cid.
 3036), (cid.
 2868) (cid.
@@ -2766,8 +2758,8 @@ Figure 9:Figure 9 shows the section of the solution obtained using standard Math
 1862) = 0, (cid.
 1866) −2:
 in case of jack.
-as follows:approximate solution of the scheme, moreover as a result of 154 iteration stepsThe difference modulus of the values ​​of the approximated solutions in you is equalOf 0.00196907.
-The sales program is as follows:Solve the problem posed by the Zeidel method in the Mathematica environment (cid.
+The approximate solution of the scheme is as follows: the modulus of the difference of the values ​​of the approximated solutions as a result of 154 iteration steps is equal to 0.00196907.
+The program that implements the problem is the solution to the problem posed by the Zeidel method in the Mathematica environment (cid).
 1858) (cid.
 1873) (cid.
 1866) (cid.
@@ -2865,9 +2857,9 @@ The sales program is as follows:Solve the problem posed by the Zeidel method in 
 1853) (cid.
 1866) (cid.
 1859) (cid.
-1857) → {{0,1}, {0,1}}](cid.
+1857) → {{0,1}, {0,1}}] (cid.
 1853) = 0; (cid.
-1854) = 1;	(cid.
+1854) = 1; (cid.
 1830) (cid.
 1867) [(cid.
 1858) [(cid.
@@ -2881,7 +2873,7 @@ The sales program is as follows:Solve the problem posed by the Zeidel method in 
 1853) + (cid.
 1861) ℎ, (cid.
 1853) + (cid.
-1862) ℎ]];	(cid.
+1862) ℎ]]; (cid.
 1873) [(cid.
 1861), (cid.
 1862)] = 0, {(cid.
@@ -2930,7 +2922,7 @@ The sales program is as follows:Solve the problem posed by the Zeidel method in 
 1868), (cid.
 1857) (cid.
 1868) (cid.
-1871) 1];(cid.
+1871) 1]; (cid.
 1873) [(cid.
 1861), (cid.
 1862)] = (cid.
@@ -2974,24 +2966,24 @@ The sales program is as follows:Solve the problem posed by the Zeidel method in 
 (cid.
 1872) (cid.
 1867) (cid.
-1864) = 0.021280220694221197:(cid.
+1864) = 0.021280220694221197 (cid.
 1861) (cid.
 1872) (cid.
 1857) (cid.
 1870) = 96,
-Figure 10The first two lines of the program provide input,then the calculation process begins, with the penultimate lineThe number of iterations in the computational process is displayed անքը the error of the resulting solution, and the last line allows you to visualize the results graphically.
-  As a result, it is displayed(cid.
+Figure 10: The first two lines of the program provide the input data, then the calculation process starts, the number of iterations in the calculation process is finalized, the resulting solution error, and the last line allows the obtained results to be graphically visualized.
+  As a result, it is displayed (cid.
 1873) ((cid.
 1876), (cid.
 1877)) the surface corresponding to the function.
-Figure 11 shows the same coordinate systemStandard tools in the Mathematica package for a given edge problemIn the case of different values ​​of surface separation ությամբ grids obtained with the help of Jacobian method (cid.
+In Figure 11, for a given edge problem in the same coordinate system, the area obtained from the standard means of the Mathematica package և at different values ​​of the grid separation steps obtained by the Jacobian method (cid).
 1873) ((cid.
 1876), (cid.
 1877) quarters of the corresponding surfaces of the function to make the concordance of the resulting solution more visible.
-  The surface obtained with the standard means of the Mathematica package is shown in greenin color, and in the case of 15, 19, 21 grid separation values, the surfaces obtained by the Zeidel method are yellow, blue, respectively.in red colors.
+  The surface obtained with the standard means of the Mathematica package is shown in green, and in the case of the values ​​of step 15, 19, 21 of the grid separation step, the surfaces obtained by the Zeidel method are yellow, blue and red, respectively.
 (cid.
 1853) = 0; (cid.
-1854) = 1;(cid.
+1854) = 1; (cid.
 1857) (cid.
 1868) (cid.
 1871) 1 = 0;	
@@ -3084,7 +3076,7 @@ Figure 11 shows the same coordinate systemStandard tools in the Mathematica pack
 1853) + (cid.
 1861) ∗ ℎ, (cid.
 1853) + (cid.
-1862) ∗ ℎ]];(cid.
+1862) ∗ ℎ]]; (cid.
 1873) [(cid.
 1861), (cid.
 1862)] = 0, {(cid.
@@ -3150,7 +3142,7 @@ Figure 11 shows the same coordinate systemStandard tools in the Mathematica pack
 1868), (cid.
 1857) (cid.
 1868) (cid.
-1871) 1];(cid.
+1871) 1]; (cid.
 1873) [(cid.
 1861), (cid.
 1862)] = (cid.
@@ -3195,13 +3187,13 @@ Figure 11 shows the same coordinate systemStandard tools in the Mathematica pack
 1872) (cid.
 1877) (cid.
 1864) (cid.
-1857) → {(cid.
+1857) {{(cid.
 1855) (cid.
 1867) (cid.
 1864) (cid.
 1867) (cid.
 1870) [(cid.
-1865)]},(cid.
+1865)]}, (cid.
 1830) (cid.
 1853) (cid.
 1872) (cid.
@@ -3251,7 +3243,7 @@ Figure 11 shows the same coordinate systemStandard tools in the Mathematica pack
 1861) (cid.
 1877)], (cid.
 1873) [(cid.
-1876), 0] == 0,	(cid.
+1876), 0] == 0, (cid.
 1873) [0, (cid.
 1877)] == 0, (cid.
 1873) [1, (cid.
@@ -3284,7 +3276,7 @@ Figure 11 shows the same coordinate systemStandard tools in the Mathematica pack
 1870) (cid.
 1866) [[1]]], {(cid.
 1876), 0,1}, {(cid.
-1877), 0.1},(cid.
+1877), 0,1}, (cid.
 1827) (cid.
 1876) (cid.
 1857) (cid.
@@ -3305,12 +3297,12 @@ Figure 11 shows the same coordinate systemStandard tools in the Mathematica pack
 1872) (cid.
 1877) (cid.
 1864) (cid.
-1857) → {(cid.
+1857) {{(cid.
 1833) (cid.
 1870) (cid.
 1857) (cid.
 1857) (cid.
-1866)}];(cid.
+1866)}]; (cid.
 1845) ℎ (cid.
 1867) (cid.
 1875) [{(cid.
@@ -3345,17 +3337,16 @@ Figure 11 shows the same coordinate systemStandard tools in the Mathematica pack
 1877), (cid.
 1873) ((cid.
 1876), (cid.
-1877))}]Fig. 11:
-Export at different values ​​of network partition steps(cid.
+1877))}] Նկ ․ 11 Express for different network partition values ​​(cid).
 1853) = 0; (cid.
-1854) = 1;	(cid.
+1854) = 1; (cid.
 1873) ((cid.
 1876), (cid.
 1877)) graphs of the corresponding curves of the function (cid.
-1877) from the coordinatedepending on և (cid.
+1877) coordinate dependent և (cid.
 1876) coordinate of a certain (cid.
 1876) (cid.
-2868) = in case of 0.5 value ․(cid.
+2868) = in case of 0.5 value ․ (cid.
 1858) (cid.
 1873) (cid.
 1866) (cid.
@@ -3413,7 +3404,7 @@ Export at different values ​​of network partition steps(cid.
 1853) + (cid.
 1861) ℎ, (cid.
 1853) + (cid.
-1862) ℎ]];(cid.
+1862) ℎ]]; (cid.
 1873) [(cid.
 1861), (cid.
 1862)] = 0, {(cid.
@@ -3451,7 +3442,7 @@ Export at different values ​​of network partition steps(cid.
 1862)] + (cid.
 1873) [(cid.
 1861), (cid.
-1862) −1] +:(cid.
+1862) −1] + (cid.
 1873) [(cid.
 1861), (cid.
 1862) +1] + (cid.
@@ -3482,7 +3473,7 @@ Export at different values ​​of network partition steps(cid.
 1868), (cid.
 1857) (cid.
 1868) (cid.
-1871) 1];(cid.
+1871) 1]; (cid.
 1873) [(cid.
 1861), (cid.
 1862)] = (cid.
@@ -3573,7 +3564,7 @@ Export at different values ​​of network partition steps(cid.
 1865) (cid.
 3432) (cid.
 3424) (cid.
-3432),(cid.
+3432), (cid.
 3419) (cid.
 1865), {8,10,12,14,18,20,24} (cid.
 3423), {(cid.
@@ -3611,7 +3602,7 @@ Export at different values ​​of network partition steps(cid.
 1876), 0] =:
 = 0, (cid.
 1873) [0, (cid.
-1877)] == 0,(cid.
+1877)] == 0, (cid.
 1873) [1, (cid.
 1877)] == 0, (cid.
 1873) [(cid.
@@ -3663,7 +3654,7 @@ Export at different values ​​of network partition steps(cid.
 1868) [20], (cid.
 1868) [24], (cid.
 1833) (cid.
-1870) 2},(cid.
+1870) 2}, (cid.
 1842) (cid.
 1864) (cid.
 1867) (cid.
@@ -3692,56 +3683,52 @@ Export at different values ​​of network partition steps(cid.
 1842) (cid.
 1870) (cid.
 1866) [[1]];	
-Figure 12Using the standard tools in the Mathematica package in Figure 12The section of the resulting solution is shown in red, and this is differentare displayed in shades of different values ​​of network division stepsin case of value.
+Figure 12 Figure 12 shows the section of the solution obtained using the standard tools of the Mathematica package in red, and is shown in different shades at different values ​​of the network partitioning steps.
 in this case obtained by the Zeidel method (cid.
 1873) ((cid.
 1876), (cid.
-1877)) corresponding to the functiongraphs of curves (cid.
+1877)) graphs of the corresponding correspondences of the function (cid.
 1877) depending on the coordinate և (cid.
 1876) coordinate (cid.
 1876) (cid.
-2868) = 0.5:Using the Zeidel method, we obtained an approximate (6) differential schemesolution with 0․001 accuracy as a result of 96 iteration steps.
+2868) = 0.5 Using the Zeidel method we obtained (6) the approximation of the differential solution with 0․001 accuracy as a result of 96 iteration steps.
 Separation steps (cid.
-1865) = From the value obtained from the Zeidel method obtained from 10 values, we conclude that in the case of the observed problem, the solution obtained using the Zeidel methodIt converges faster than that of Jacob's method.
+1865) = From the value obtained from the Zeidel method obtained from the value 10, we conclude that the solution obtained using the Zeidel method in the observed problem converges faster than the one obtained in the case of Jacob's method.
 The results are almost identical.
- And in the case of 14 և 16 values ​​approximatedThe modulus of the difference values ​​of the two solutions is equal to 0.00086.
+ And in the case of 14 և 16 values, the modulus of the difference values ​​of the two approximated solutions is equal to 0.00086.
 7. Conclusion.
-  A new methodological approach is shown in the work, composed of elliptical type differential equationsvisual explanatory schemes of Zeidel և Jacob's methods for solving finite differences, which is very usefulfor learners.
-In addition, calculation programs have been developed, which not only provide the calculation process for solving problems by the mentioned methods:By providing the desired accuracy, they allow graphic visualization of the results, which is valuable from the point of view of "digital methods" and "pedagogical methodological method".
- These programs are quite generalև allow the implementation of solutions to other peripheral problems onlyby changing the input data.
-The work is of great methodological importance է can be appliedin the university educational process, how can he serve scientifically?for researchers.
+  A new methodological approach is shown in the work, compiling և visually descriptive schemes for solving the methods of finite differences of the elliptical type by the method of finite differences equations, which is very useful for learners.
+In addition, calculation programs are developed, which not only provide the calculation process of problem solving with the mentioned methods, ensuring the desired accuracy, but also allow graphic visualization of the results, which is valuable both from the point of view of digital methods and pedagogical methodology.
+ These programs are quite general - they allow the implementation of solutions to other peripheral problems by changing only the input data.
+The work is of great methodological importance; it can be used in the educational process, as it can be used for scientific researchers.
 Literature 9. Litvinenko VP, Litvinenko ZV Cutting of linear electric pipes.
 learn пособие. Воронеж.
- GOUVPO «Воронежскису государственный τεχνчес10. Аладьев В. З., Шишков М. Л. Introduction to the middle package Mathematica 2.2 M osqua.
-13. Sargsyan NAPP Graphic elements of Mathematica package և them
-teaching.
+ GOUVPO «Воронежскису государственный τεχνчес10. Аладьев В. З., Шишков М. Л. Introduction to the middle of the package Mathematica 2.2 M osqua.13. Sargsyan PPP Graphic elements of Mathematica package և their teaching.
  Methodical work.
  Gyumri.
  Հեղ. հրատ.
  2014.
  88 pages.
-14. Manukyan SSSS Computational programs of certain integrals in Mathematica environment according to rectangles, tables և parabolas
-resolutions.
+14. Manukyan SSSS Computational programs of certain integrals in Mathematica environment according to rectangles, tables աբ parabolas formulas.
   Materials of the student scientific session.
   Gyumri.
 Eldorado Publishing House.
  2013.
  Page 10-15.
 15. Sargsyan A. H., Alexanyan V. A. (cid.
-2196) a rod consisting of homogeneous partsthe problem of the heat field.
+2196) The problem of a rod-heat field consisting of homogeneous parts.
   Calculation program in Mathematica environment.
  GSPI "Scientific Bulletin" Journal.
  2015.
  N1, issue A.
 Pages 42-56.
-16. Sargsyan A. H., Sargsyan N. H. The use of step series for the calculation of definite integral integrals.
+16. Sargsyan A. H., Sargsyan N. H. The use of step series for the calculation of definite և integral integrals.
  Computational programs in Mathematica environment.
  GSPI "Scientific Bulletin" Journal.
 2015.
  N1, issue B.
  Pages 128-136.
-17. Sargsyan A. H., Harutyunyan K. A. Application of step series
-in approximate calculations.
+17. Sargsyan A. H., Harutyunyan K. A. Application of step series in approximate calculations.
  Calculation program in Mathematica environment.
  Journal of "Scientific Bulletin".
  2017.

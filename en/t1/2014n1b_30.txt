@@ -1,77 +1,76 @@
-The effectiveness of any educational process is primarily due to the quality control of knowledge ստուգby assessment.
-In the case of e-learning in generalAutomated knowledge testing is used, which provides:Application of flexible և developed test tools.
+The effectiveness of any educational process is first of all conditioned by the evaluation of the quality of knowledge and evaluation.
+In the case of e-learning, automated testing of knowledge is widely used, which ensures the application of flexible, advanced testing methods.
 Automated knowledge testing is based on the use of pedagogical tests, the compilation of which is a scientific and labor-intensive task, based on relevant experience and rational approaches of a psychophysiological nature.
-Pedagogical tests are performed to createnumerous studies aimed at testingprocess automation և to increase its accuracy [1,17 pages].
-In the educational system, using computer testingThe technologies and tests are used in the processes of entrance exams, current knowledge tests, semi-annual tests, distance learning, exams.
-Allows computer testing to take examstests the knowledge of the given subject, ensures the objectivity of the assessment, frees the teacher from laborious tests of written works.
- It should be noted that the objectivity of computer testing ման knowledge assessment greatly dependsfrom the content of the tests և quality.
-  Test development for teachers ևIt is one of the directions of the scientific-methodological works of the lecturers.
-This article discusses the development of pedagogical testspossible components հիմնական their main requirements.
-In the process of compiling tests, there are cognitivefour levels.
-At the first level, information perception takes place,Introduction to the subject.
-  Its purpose (or task) is objects,recognition of phenomena.
-At the second level, not only the perception of information takes place, but also its mechanical representation, the purpose of which is / orThe problem is the transfer / retelling of the received information.
-At the third level, information is perceived and displayed.is analyzed, realized և accepted on its basis.
+Numerous researches are carried out in the direction of creating pedagogical tests, which are aimed at the automation of the testing process and the issues of increasing its accuracy [1,17 pages].
+In the education system, using computer testing technologies, the tests are used in the process of taking entrance exams, current knowledge tests, semester exams, distance learning, exams.
+The computer test of the exams allows to test the knowledge of the given subject, ensures the objectivity of the assessment, frees the teacher from the laborious tests of the written works.
+ It should be noted that the objectivity of computer testing և knowledge assessment largely depends on the quality of the content of the tests.
+  The development of tests is one of the directions of the scientific-methodological work of teachers ախոս lecturers.
+This article discusses the developmental components of pedagogical tests and their basic requirements.
+There are four levels of cognition in the testing process.
+At the first level, information is perceived, the subject is introduced.
+  Its purpose (or task) is the recognition of objects and phenomena.
+At the second level, not only the perception of information is done, but also its mechanical representation, the purpose of which (is the task) is to transfer and retell the received information.
+At the third level, information is perceived, reflected, analyzed, realized and accepted based on it.
   The goal (or task) of the third level is the practical application of the acquired knowledge in various situations.
-The knowledge gained at the fourth level is not only appliednew ones are created on the basis of them.
- Typical of the fourth levelThe hallmark is the creative reproduction of new knowledge.
-According to the levels of cognitive activity:There are four types of test tasks.
+The knowledge gained at the fourth level is not only applied, but new ones are created based on them.
+ The hallmark of the fourth level is the creative reproduction of new knowledge.
+According to the levels of cognitive activity, four types of test tasks can be distinguished.
 The first type includes tasks that facilitate the assimilation of information at the level of familiarity.
- For example,Product warranty period, limit of retentionnorms և etc.
-The second type includes tasks that involve the learner's assimilation of information ումը reproductionat the level of simple logical operations.
+ For example, the warranty period of the product, the retention limits, etc.
+The second type includes tasks that involve the learner mastering information and reproducing it at the level of simple logical operations.
 The third type includes tasks that require relatively complex logical operations to master the information - the ability to act on non-standard provisions.
-  According to the content, such tasks are mainlyThey are problematic ադրում suppose interpretation, argumentation և evaluation actions.
-The fourth type is problem-solving, which develops efficiency, creative activity, thatincluding the tasks of analysis of difficult situations, heuristic search, problem solving.
- Such taskscan be several fundamentally correct վող slightly different from the standardanswers.
- In addition, it is important to know how the learner isto come to this or that solution, to find out the course of his judgments,to get acquainted with his calculations and assumptions.
- Such:They mainly use written works for the performance of problem-solving։ assessment.
-Test formulation of problem tasks ավտոմ Automation of testing of learners' abilities is a complex scientific-methodologicalare a problem, one of the solutions to which is computer simulationis the use of business games [2, 107 pages].
+  According to the content, such tasks are mainly problematic են suppose interpretation, argumentation և evaluation actions.
+The fourth type are problem-solving tasks, which develop efficiency, creative activity, including tasks for analysis of complex situations, heuristic search, problem-solving.
+ Such tasks may be a few fundamentally correct answers that differ slightly from the standard.
+ In addition, it is very important to know how the learner came to this or that solution, to find out the course of his judgments, to get acquainted with his calculations and assumptions.
+ They mainly use written works to evaluate and complete the performance of such problem-solving tasks.
+Test Problem Development ավտոմ Automation of Learner Skills Testing is a complex scientific-methodological problem, one of the solutions to which is the use of computer simulation business games [2, 107 pages].
 And what should the test tasks be like?
-Traditional questions և oral և tests ությունների exam questions և problems, as a rule, can not do withoutchange applied to tests.
-  They are specially developed for themtasks with test eggs.
-  This work can be compared to a new educational one in terms of workload, difficulty or abilitywith the step-by-step development of the subject textbook.
- Experience shows 2 that:Most of the compiled tasks are repeatedly processed and edited.
+The traditional questions և problems used in written և oral tests ությունների exams և problems, as a rule, can not be applied unchanged in the tests.
+  Special tasks are developed for them with a test egg.
+  This work, according to the workload, difficulty։ ability, can be compared with the step-by-step development of the textbook of the new educational subject.
+ Experience shows 2, a significant part of some tasks are repeatedly processed և edited.
  As a result of tests on different groups of learners, the simplest, most complex and poorly formulated tasks are removed.
-According to the content of the activities performed by the learner, the tasks can be divided into the following groups:• Choice of one answer;• Choice of several answers;• "search" for matching between elements of two sets;• Establishing the correct order among the proposed elements;• Targeted arrangement of proposed elements;• filling in the gaps;• installation,• to compile the answer;• to count the answer.
+According to the content of the activities performed by the learner, the tasks can be divided into the following groups: • Selection of one answer, • Selection of several answers, • Search for matching between the elements of the two sets; • fill in the blanks, • post, • compile the answer, • count the answer.
 Test tasks can be interrogative, affirmative, textual, tabular, graphic, etc.
-The choice of horse for the test task depends on the trainingsubject, test assignment ընթացcurrent knowledge checking, passing exams, checking-teaching և etc., established habits, student specialization, computer testingopportunities և other 3.
-By name, the same subject  For example, "Fundamentals of Informatics" for students of different specialtiesFor example, accountants, financiers, managers, etc. passin different volumes.
- Depending on them, the test is different for themthe issue of developing tasks.
-  They usually give preferenceto those tasks in which to guess the correct answerThe probability is close to or equal to zero.
+The choice of the test task depends on the subject, the test assignment ընթաց current knowledge testing, taking exams, test-tutor և etc. , established habits, student specialization, computer testing capabilities և etc. .
+According to the name, the same subject, for example, "Fundamentals of Informatics" for students of different professions, for example, accountants, financiers, managers, etc., is passed in different volumes.
+ The issue of developing different test tasks for them depends on that.
+  They usually give preference to tasks in which the probability of guessing the correct answer is close to or equal to zero.
  It is unlikely to predict the correct answers to tasks that require calculations.
 It is also quite difficult to predict the correct answers to the tasks of confirmation of conformity, correct sequence, sorting and completion according to some mark [3, 24 pages].
 In any case, the developed test assignments must ensure the objectivity ողների և reliability 3 of the students' knowledge assessment.
-    Test assignments must meet the following requirements:• "Subject cleanliness" Do not interfere with educational subjectsThe requirement, that is, the task, must contain only the dataissues related to the educational subject "• Logical accuracy of content;• local independence• efficiency և etc.
+    The test assignments must meet the following requirements: • "Subject cleanliness" չ The requirement that the subjects not intersect, that is, the assignment should contain only questions related to the subject , • Logical accuracy of the content, • Local independence, • Efficiency, etc.
 The test tasks are evaluated with specificity, abstraction, depth of generalization, completeness of knowledge.
 The task should be clear, unambiguous and as short as possible.
 Without a test, the task can not be a test.
- It is not recommended to test questions that require non-uniform answersin.
-The difficulty of the task "complexity" mainly dependsfrom its content և ձ։.
- The complexity of the task can be determinedWrong Answers հարաբեր Wrong Answer Ratiothe total number of answers. "
-There can be different amounts of ներում in test tasksCorrect և wrong answers.
-  It is not recommended to bringClearly incorrect answers that the learner will recognize immediately.
+ It is not recommended to include questions that require non-uniform answers in the test.
+The difficulty of the task "complexity" mainly depends on its content և you։.
+ The complexity of the task can be determined in terms of incorrect answers "ratio of incorrect answers to the total number of answers".
+There may be a different number of "relatively correct" incorrect answers in the test tasks.
+  It is not recommended to bring obvious incorrect answers, which the learner will recognize immediately.
 Incorrect answers must be plausible.
  The short one-line answer is considered the best.
-  Two or threeNo more than a line answer  Large textIt is difficult to read. "
+  An answer option of more than two or three lines is not recommended "large text is difficult to read".
   Lines of words in the task are also not recommended "it makes it difficult to read".
-One of the requirements for test tasks is the minimum amount of information needed to answer withoutloss of meaning.
+One of the requirements of the test tasks is the minimum amount of information needed for the answer - meaningless loss.
   Excessive detail, unnecessary words, characters distract the learner from the main perception.
-  Text elements:Bad layout, careless illustration, use of acronyms that do not have universal recognition make information difficultperception.
-  Automated knowledge testing tasksare made taking into account the limitations of the screen համակարգի computer testing system.
+  The poor layout of the text, careless illustration, the use of acronyms that are not universally recognized make it difficult to understand information.
+  Automated knowledge testing tasks are designed to take into account the limitations of the screen և computer testing system.
  Short answers are placed in the center of the screen.
-  Answer options on the screen from each otherare separated by one or two blank lines.
-  Possible text:It should not be a distraction from the content of the task.
- Test tasks:The content should correspond to the materials of the lectures read, the offered textbooks, the teaching-methodological materials available to the students.
-When developing tests, it is necessary to take into account the following principles in the selection of the content of the educational material:• Selection of the most important, basic elements of knowledge;• Scientific credibility No advice is given in the testto introduce controversial views ",• Completeness of content լինել Sufficiency for verification;• Ability to change the content of the test due to changes in the content of the subject;• Increasing difficulty with 'light' tasks that are done correctlyMost of the learners, even the most difficult ones.
+  The answer options are separated on the screen by one or two blank lines.
+  Text-to-color նշ color marking is possible, but it should not distract the learner from the content of the task.
+ The content of the test assignments should correspond to the materials of the lectures read, the offered textbooks, the teaching-methodological materials available to the students.
+When designing tests, the following principles should be considered when selecting the content of the study material: • Choice of the most relevant knowledge, key elements; In connection with changes in the content of the subject, • the increasing difficulty of "easy" tasks that most learners do correctly, to the most difficult ones.
 It is known that it is impossible to correctly determine the knowledge of students with different levels of preparation with the same test.
- For thatand tests often develop an average level of readinessto test the knowledge of students with disabilities.
-Thus, in the education system, using computer testing technologies, we can say that they enhanceThe effectiveness of the knowledge assessment process, knowledgeLike other means of testing, they identify gaps, encourage learning, and provide feedback on the quality of learning.
-Literature 1. Mikaelyan OSH The new system of current assessment as education
-Stimulus for quality improvement.
+ Therefore, tests are often developed to test the knowledge of intermediate-level learners.
+Thus, in the education system, using computer testing technologies, we can say that they increase the efficiency of the knowledge assessment process, like other forms of knowledge testing, identify gaps, encourage learning, as well as provide feedback on the quality of learning.
+Literature 1. Mikaelyan OSS The new current assessment system as a stimulus to improve the quality of education.
  Teacher's manual / OS Mikaelyan, SO Mikayelyan.
  RA National Institute of Education, 2010, 80 pages.
 3. Сёмочкин, А.Н. Editor of Electronic Tests.
-  Methodical recommendations by:creation and use of electronic tests / А.Н.Сёмочкин. - Blagoveshchensk.
- Изд Information about the authors:Hakobyan Mamikon Zalibek - Candidate of Technical Sciences, Associate Professor, ASPU Mathematics, Physics ևFaculty of Informatics, Informatics և its teaching methods Associate Professor, E-mail.
- hmamik@seua.am:Alvard G. Kirakosyan - PhD, Associate Professor, ASPU Biology, Chemistry և Faculty of Geography, Biology, its teaching Associate Professor of the Chair of Methodology, E-mail.
-kalvard@yandex.ru:Manukyan Varduhi Aramayis - ASPU Mathematics, Physics and InformaticsSpecialist of the Faculty of Informatics, Chair of its teaching methods, Email.
+  Methodical recommendations for the creation and use of electronic tests / A.N.Symochkin. - Blagoveshchensk.
+ Изд Information about the authorsHamobyan Mamikon Zalibek - Candidate of Technical Sciences, Associate Professor, Associate Professor of the ASPU Faculty of Mathematics, Physics, Informatics, Department of Informatics and its teaching methods, E-mail
+ hmamik@seua.am Alvard G. Kirakosyan - PhD, Associate Professor, Associate Professor of the ASPU Faculty of Biology, Chemistry, Geography, Biology, its teaching methods, E-mail.
+kalvard@yandex.ru Manukyan Varduhi Aramayis - Specialist of the Chair of Mathematics, Physics և Informatics, Faculty of Informatics իկայի its teaching methods, ASPU, Email.

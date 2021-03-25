@@ -1,0 +1,64 @@
+The word heuristics is of Greek origin, which literally means "discovery", and is currently an ingenious field that studies creativity.
+  In general, the peculiarities of the activity by scientific-pedagogical-heuristic methods mean the ingenious creative, logical tricks of scientific research. The methodological rules, which can lead to the solution of the problem in a more rational way, avoiding a mathematically based method based on a mathematical method.
+In this context, we will discuss some of the typical atypical problems observed in the school physics course of mathematics, for the solution of which we will propose heuristic approaches, which, we think, can be both for the development of students' logical-creative thinking, objectivity.
+It is noteworthy that there are well-known "traditional" approaches to solving the problems to be discussed, which are difficult to overcome, but the heuristic approaches to be applied enable the creative approach to be taken into account.
+Now let's move on to discuss the problems.
+Problem 1.
+  Simplify the expression where the numbers are.
+Arbitrary Solution.
+  According to the "traditional" approach to the solution of the problem, it is necessary to bring the fractions to a common denominator, open the parentheses, to connect such members, as a result of which we will obviously come to the answer to the problem.
+  We will use a different approach.
+ Let's say:
+It is easy to notice that is in fact a polynomial, the degree of which does not exceed ", will mean that it is either a polynomial of the second degree, or a polynomial of the first degree, or it is fixed.
+ Note that, in fact, accepting a value in three different values ​​of a variable would mean that it could not be a quadratic polynomial (since the latter could accept the same value for a maximum of two different values ​​of the variable) as it could not be a polynomial of the first degree (because of its monotonicity). , the same value can be accepted xaxbxbxcxcxacacbabacbcba ;; abc xaxbxbxcxcxafxcacbabacbcbafx21fafbfc Դեպքում in the case of only one value of the variable fx1xabc), -ը, therefore, is a polynomial of zero, that is, is constant և because, consequently.
+Answer:
+Now let's consider one geometric problem, which was nominated in 2004 in the final stage of the RA schoolchildren's mathematics olympiad.
+Problem 2.
+thus, the degree of size.
+  is selected inside the box.
+  Determine the point angle Solution.
+  According to the "traditional" approach to solving the problem, it is necessary to apply the sine for the ΔAMB և ΔBMC triangles after the necessary changes.
+ We will do it differently.
+cosine theorems ենք Rotate the given square around the point in a counterclockwise direction, resulting in ևthe one of which is a rotating square, resulting in the "image" of the point (see Fig. 1).
+It is easy to see that ΔMBM 'is an equilateral right-angled triangle in which, according to the theorem, if we consider ΔMM'C, we will have Pythagoras.
+  The present angle.
+  We have և.
+  Note, therefore, that.
+A: Now.
+Let's discuss these two issues observed in the school physics course.
+fx1fafbfc1fx1xaxbxbxcxcxacacbabacbcba ABCDM.
+1.
+2.
+3 AMBMCMAMBABCDB090BCDCMM; BMBM0090; 45, MBMBMMBMM2MMBM2BMMCAM32BMMC222MMMCMC090MMCAMBBMC0004590135BMMMMC0135AMB in the middle vessel Problem 3.
+      Mercury is filled in three identical communication vessels (Fig. 2).
+  How high is the mercury level if I pour water in the left vessel and in the right vessel - mm high?
+  The density of mercury is 13,600 kg / m3, that of water is 1000 kg / m3.
+Solution.
+  In the case of the "traditional" approach to problem solving, using the fluid incompressibility feature, they first determine the relationships between fluid level rises in the vessels and then equalize the expressions of the hydrostatic pressures of the columns.
+As a result of the joint solution of the equations, the amount of increase in the middle vessel is determined.
+ We will use a different approach below.
+Due to the addition of the mentioned water, the pressure in the system in the left և left vessels increases - is water.
+  Since at equilibrium established after the addition of liquids, the hydrostatic pressures of all three vessels are equal, the additional pressure is evenly distributed among all the vessels, with the pressure in each vessel increasing by -.
+ From what has been said, it is clear that the middle vessel increases in mm, where is the density of the vessel.
+ mm
+A: It should be noted that compared to the "traditional" approach, problem 3 is generally proposed in the generalized case, when the number of communicating vessels is more than three.
+The approach will be more effective. Problem 4.
+  With a stone from the surface of the earth it is necessary to hit the target on the hill, which is at a distance from the point of throw to the horizontal.
+  At what minimum stone velocity is this possible?
+ Ignore air resistance [5].
+1021H1532H210HHg00123gHH0126,253hHH6,25hhs0v getResolution.
+  In the case of the "traditional" approach to problem solving, the equations of motion of the stone are և expelling the time - the equation of the trajectory.
+  Then, using trigonometric identities, they get a quadratic equation for (
+is the angle of inclination of the stone) վերջ finally the minimum velocity required by the non-negative determinant of that equation.
+Let's use a different approach.
+At the moment of reaching the goal, the acceleration is determined in the following vector formula corresponding to the following formula3.
+The vector height of a triangle is the horizontal component of the velocity, which remains constant throughout the motion. Moreover, now equate the two expressions of the area of ​​the enclosed triangle with the vectors shown in Fig. 3. The resulting velocity will be the least in the case of the fastest, if the search is fast. expressive right angle.
+  Now, using the Jen formula, we get for the minimum value of the initial velocity of the stone.
+uts01sin, 22ugtvv0sin.
+vvgsconstsin1090.
+0202vvgh220.
+vghhs220.
+have vghhs in the school course of mathematics and physics.
+We think that heuristic solutions of mathematical-physical-type-non-type problems are especially expedient to apply during generalizing repetitions, when addressing the problems related to the section separately, we offer both the well-known "traditional" approach to the given problem and the heuristic approach. ար Comprehensive perception and mastery.
+For the benefit of each student, as we hope, the work will be of interest to both students and teachers և, in general, to those interested in mathematics և physics.
+The research was carried out with the funding provided by the State Committee of Science of the Ministry of Education and Science of the Republic of Armenia within the framework of the code topic 18T-5C287.

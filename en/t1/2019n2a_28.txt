@@ -1,0 +1,43 @@
+  It is known that birth rate and mortality are the demographic processes that ensure the generational change of the population, shaping the natural mobility of the population.
+  The processes of population reproduction have their impact on the socio-economic situation of the country.
+The purpose of this study is to analyze the dynamics of natural resources of the population of the Republic of Armenia, to reveal the correlation between the number of divorces registered in the Republic of Armenia and the "total birth rate".
+Any demographic analysis begins with a study of the dynamics of the country's population.
+  As we know, the estimate is obtained on the basis of the current population census և the current census of natural population.
+Articles presented the dynamics of the RA de jure population as of 2008-2017.
+Figure 1. Dynamics of the population of the Republic of Armenia, thousand people [3] The analysis of the data presented in Figure 1 shows that the population of the Republic of Armenia decreased by an average of 11.6 thousand people or 0.4% per year during the study period.
+It should be noted that about 64% of the total population of the Republic of Armenia is the urban population, and 36% is the rural population.
+Mortality is the demographic processes that ensure the generational change of the population, shaping the natural mobility of the population.
+Birth rate, "Natural population of the population", Birth rate, Mortality rate, Natural population movement rate, Infant mortality rate, Life expectancy at birth [5].
+The absolute indicators of the natural movement of the population do not fully characterize the intensity of the phenomena, as they depend only on the absolute number of the population.
+  Indices characterizing natural movement should be analyzed only in relative quantities.
+The work presents the dynamics of natural movement indicators characterizing the population of the Republic of Armenia in 2008-2017. in terms of:
+Figure 2. Dynamics of natural movement of the population of the Republic of Armenia per thousand inhabitants [2, 3] From the data presented in Figure 2, it is obvious that a high level of birth rate in Armenia was registered in 2014. Based on the analysis of the data, we can say that the birth rate in Armenia The total coefficient in 2017 compared to 2014 decreased by about 12.0%.
+ The overall mortality rate in 2017 increased by about 7.1% compared to 2008, in the aftermath it decreased by 7 per 10,000 inhabitants.
+It is known that the natural movement of the population is characterized by marriages and divorces.
+  As we all know, marriages lead to an increase in the number of births.
+  In contrast, divorces reduce birth rates and increase mortality.
+The dynamics of the number of marriages registered in the Republic of Armenia and divorces in 2008-2017 was studied and analyzed in the work. It turned out that the number of registered marriages decreased by an average of 1.8 per thousand per year, and the number of divorces increased by about 3 per thousand.
+Registered marriages և divorces by regions և Yerevan [[3].
+In the article From Armenia in 2017Figure 3. Marriages registered in 2017 by marz city of Yerjan, per 1000 inhabitants From the data presented in Figure 3, it is obvious that the number of marriages registered in Yerjan in 2017 was 5.8 per thousand, which is the highest index The capital is followed by Vayots Dzor region with a coefficient of 5.7.
+The lowest level of registered marriages is in Shirak region - 3.9 marriages per 1000 inhabitants.
+Studies show that the average age of first married women in Armenia in 2017 was 26.6 per cent for men, 29.9 years [3], which is an increase of 2.1 տար 1.5 years compared to 2008.
+Based on the data presented in Figure 4, we can say that the highest level of divorces registered in 2017 was registered in the capital, followed by Lori region with a coefficient of 1.4.
+  The same level of divorce rate was registered in Kotayk, Shirak and Syunik marzes.
+Low divorce rate in Gegharkunik region - 7 cases per 10,000 inhabitants.
+Figure 4. Divorces registered in 2017 by regions of Armenia ՀՀ Yerjan city, per 1000 inhabitants As it is known, one of the demographic factors of divorce is the duration of marriage.
+  Therefore, the work referred to the distribution of divorces registered in the Republic of Armenia according to the duration of the marriage.
+In the Republic of Armenia, according to the data of 2017, divorces with 1-4 years of marriage made 25.9% of the total number of divorces, and divorces with up to 1 year - 6.3%.
+ It should be noted that in 2017, the number of divorces with 1-4 years of marriage has almost doubled compared to 2008, and divorces with 15-19 years of marriage have decreased by 192 or about 35%.
+Based on the distribution of registered divorces by marriage duration, the most common marriage duration before divorce was calculated.
+According to the data of 2008, the fashionable number of marriages in our country before divorce was 21 years, and in 2017 - about 3 years.
+Figure 5. Distribution of Divorces Registered in the RA by Marriage Duration, Year [3] A regression model with lag distribution was constructed to reveal the relationship between the number of divorces registered in the RA and the total birth rate.
+The interdependence between the studied subjects was presented through the correlation field.
+2007-2015 FeatureAnalyzesThe change in the number of divorces in the Republic of Armenia begins to affect the fertility rate two years later, followed by the number of divorces registered as a factor (xt-2), and the productive feature in 2009-2017 (yt).
+It can be seen from the results in Figure 6 that the relationship between the phenomena being studied is inversely proportional to the ուժ average intensity.
+  According to the regression model, the increase in the number of divorces registered in the Republic of Armenia by one per thousand person has reduced the number of births by about two per thousand people.
+Number of births per thousand Chart 6. Correlation between the number of births registered in the Republic of Armenia and the number of divorces in the Conclusion.
+  As a result of the analysis presented in the article, the following conclusions were made: a high level of the RA fertility rate was registered in 2014, the RA total fertility rate in 2017 decreased by about 12.0% compared to 2014.
+  The overall mortality rate in 2017 increased by about 7.1% compared to 2008, the post-diarrheal growth rate decreased by 7 per 10,000 population during the same period.
+  According to the data of 2008, before the divorce in the country was 21 years, and in 2017 - about 3 years.
+In 2017, the number of divorces with 1-4 years of marriage has almost doubled compared to 2008, and the number of divorces with 15 years of marriage has decreased by 192 or about 35%.
+The increase in the number of divorces registered in fashionable RA per thousand people has reduced the number of births by about two per thousand people.

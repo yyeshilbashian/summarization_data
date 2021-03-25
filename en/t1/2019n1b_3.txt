@@ -1,0 +1,96 @@
+Preface.
+  In recent years, significant changes have taken place in the educational system of the Republic of Armenia.
+However, the implementation of reforms is very slow, which has led to the accumulation of many problems that require priority solutions.
+ One of them is the lack of interest of students in the subject of "Physics" observed in recent years in the field of basic education.
+  This circumstance is explained by a number of objective և subjective reasons.
+ However, we will focus on only one of the objective reasons, that is, in the general education school the attention is paid to the practical significance of the knowledge received by the student, to the development of the abilities of use.
+  By the way, the people in charge of the general education sphere do not deny this fact.
+In practical life, we have addressed this issue [1-3] արկել suggested a number of solutions that we think are effective.
+  In this paper we offer one solution to this problem.
+  Thus, in our opinion, another way to increase students' interests is to use the interesting educational material in physics classes at the right time, at the right time.
+Mechanical physics and electromagnetic fluctuations in the 11th grade are studied in the Physics curriculum of the subject "Physics" near the 10th grade.
+  In my opinion, it would be right to combine these two into one section, a system that is supposedly interconnected from a scientific-methodological point of view.
+Such a combination is quite correct and expedient, as the similarities are deepened by the learners only when the issues under study are related to a certain system.
+  Furthermore, various physical studies contribute to the assimilation of such complex concepts as electromagnetic radiation, optical spectra, light wave properties, and so on.
+The simplest of the various types of oscillations occurring in nature is the harmonic oscillating motion.
+ The fluctuations in the oscillating contour of the load depending on the spring and the mathematical pendulum are discussed as typical of such a movement.
+Examples in the course Given the practical importance of plasma in modern science, especially in the field of technology, we consider it expedient in the section "Oscillations։ waves", as an example of harmonious oscillations, to discuss the electronic oscillations in plasma.
+  This discussion in high school is not an end in itself, but follows from the requirements of the curriculum, according to which the results of modern physics, which are of great practical importance, should be included in the school curriculum, which is the purpose of this work.
+Theoretical analysis will be reflected as much as possible.
+ Let's try to briefly present a specific material that allows the teacher to break the logical process of teaching, to introduce students to the phenomenon of electronic fluctuations in plasma ատար to perform a theoretical analysis.
+The electrons in the plasma layer with the thickness to determine the nature of the fluctuations in the plasma are not interested in the cause of the deviation, which can be assumed to have shifted slightly due to random fluctuations, from the point of view of the given problem.
+As a result of such displacement, the plasma layer will be neutralized and negative charges will be generated.
+As a result, the plasma will be confined to the positive և negative-labeled layers, with a flat capacitor-like appearance. The role of the inverters here is performed by the surfaces of the layers in which the neutral plasma is located.
+charges (Fig. 1).
+Fig. 1 Neutralized positive "Negative charge generation on the plasma layer bounded on the surface" An electric field would be generated in the plasma layer as it would be between flat capacitor circuits.
+The electric field, while affecting the ions of electrons, seeks to restore the balance in the plasma.
+Given that the mass of the ion is incomparably larger than the mass of electrons, we can assume that the ions will remain  x.
+xxE is unbalanced, and the electrons will move in the opposite direction to the field.
+At equilibrium, the electrons stop and move in the opposite direction by inertia.
+  Then the picture will be repeated.
+ The result is that under the influence of electric forces, the electrons will oscillate against the ions, that is, free electron fluctuations will occur in the plasma.
+Let us show that these fluctuations are harmonious.
+As we know, the electrons in a homogeneous electric field are affected by the field, where the modulus is.
+The field strength of a capacitor is determined by the charge of the electron, and the international unit of units is the number of charges on the surface, which is a formula we can use to determine the field strength of a plasma layer.
+  Since the electrons in the plasma layer are dispersed by the mass due to charge, their total number on one of the surfaces bounding that layer will be determined by the expression where is the density of the electrons.
+ In that case, we can write for the number of charges on the surface:
+By placing the value of (2) in Equation (2), we will get:
+In this case, according to (1), for the force exerted by the field on the electron, we get, from where, and It turns out that the electric field acts on the electron only with a force that is directly proportional to the equilibrium The deviation from the position 0exnEexenFe02kxF02enke և has the opposite direction of the deviation.
+Such a force, as it is known, will cause harmonizations.
+Finding out the nature of the force acting on electrons in a plasma, we can determine the frequency of the oscillations in it using the formula, where the frequency is a coefficient, the magnitude of which is determined by the expression for the frequency of oscillations in the system's own oscillation ratio.
+  Putting the value of (3) in (4), the electrons are the mass of the oscillating body, and this frequency is called the plasma frequency.
+How the frequency of electrons fluctuates depends on their density in the plasma.
+(5) After this theoretical analysis, we will stop at the application of plasma fluctuations, because it will become an effective way for students to formulate learning motives only if they see the application of this phenomenon in practical life, that is, reveal the practical significance and role in science and technology.
+Discussing plasma fluctuations in high school provides an opportunity to learn about the potential use of plasma frequency.
+  This application refers to the propagation of radio waves, which are given in the current textbook of physics about the reflection (propagation) of radio waves.
+եր Nowadays, radio and television communication is very diverse, it is widely used in various fields of science and technology.
+mk00mkxF / keeemen020 Recently, the space-radio radio-television connection has become very important, which allows to establish distances measured in millions of kilometers.
+  In order to understand the characteristics of radio and television at such vast distances, it is necessary to know the structure of the Earth's atmosphere, its properties.
+Atmospheric Radiation Gas from the Wave Photons of the Waves It is known that the atmosphere around the Earth extends to an altitude of about 3000 km.
+  It is ionized due to ultraviolet radiation from 60-400 km above the Earth's surface.
+  That part of the atmosphere, the ionosphere, is a mixture of electrons and ions ևneutral molecules.
+ The degree of ionization of the atmosphere is unevenly distributed according to altitude, with which four ionized layers are mainly separated in the ionosphere.
+  The least ionized of these layers is the layer located at an altitude of 60-80 km, and the layer at a height of 250-400 km is the most ionized.
+  The ionosphere around the earth is not stable, its nature changes depending on a number of external factors, the main of which are changes in the intensity of the sun և day or time of year.
+Landscape The ionosphere of the Earth has a certain influence on the propagation of radio waves.
+ Between two points on the earth, which are not directly connected to each other, radio communication is carried out by the diffraction of long waves (1-10 km).
+  Long waves are relatively easy to bypass the curvature of the Earth's surface, they are less absorbed by the atmosphere և from the Earth's surface.
+  In case of sufficient power of the transmitting station (100-200 kW) it is possible to communicate with long channels over a distance of about 1000 km, moreover, the changes of the time of year և year have a certain effect on their propagation.
+  In the medium և short wavelength range (100-1000 m) և (10-100 m) radio waves are strongly influenced by the seasons ժամանակը time of day.
+  Medium-wavelengths, bypassing the Earth's surface as much as long-wavelengths, are largely absorbed.
+  For this reason, the waves sent by the transmitting station along the Earth's surface (surface rays) weaken rather quickly.
+ And the redirected rays (spatial rays) can be refracted in the ionosphere և back to the Earth's surface.
+Now let's find out the reason for the breakthrough.
+  It is known that the velocities of radio waves propagate in the ionosphere are different.
+  The phase velocity of radio waves in the ionosphere is determined by the formula in the radio wave ionosphere, where the vacuum and the velocity of the radio waves are, respectively, the plasma են ություններն The oscillation frequencies of the radio waves.
+Given that the frequency is comparable to the density of electrons, we can write plasma as the phase velocity.
+                                            (7) As can be seen from Equation (7), in the case of radio frequency data, the propagation velocity of radio waves increases along with the increase in electron density in the ionosphere.
+ As the electron density in the ionosphere increases with height, the velocity of propagation of radio waves will increase as it passes from layer to layer (Fig. 2).
+  Increasing the propagation speed of radio waves depending on the altitude means that the refractive index decreases from layer to layer, as the refractive index is related to the phase velocity in the following expression:
+                             (8) Fig. Figure 2 shows the ionospheric agents surrounding the Earth, etc.
+  Suppose the radio waves tilted around the corner of the Earth fall first. 2 The propagation of radio waves in the ionosphere at refraction (D, E, F և etc.), the layers of which correspond to the normal angle of inclination of the layer (D) (Fig. 2).
+ Radio waves, passing through optically different environments, are subject to refraction.
+  Radio waves refracted on the first ionized layer ion are refracted from the second ionized layer շարունակ and so on.
+Write the law of refraction for ionized layers:
+Considering that the refractive index decreases with altitude, we can write where is the refractive index of air, which is practically equal to one.
+  The decrease of the refractive index in each layer leads to the increase of the reflection angles by the angles of incidence, therefore:
+Therefore, the refractive index in one of the layers may be of such a value that a full internal reflection, that is, the refraction angle, is denoted by.
+  If the ionization of the next layer rediscovered from the given layer is insignificantly large, the radio waves, referring to that layer of the ionosphere, will be directed to, equal to, 1 n, 2n3n00iinnnnsin ... sinsinsin221100innnn ... 2100ni ... 210io90 to the Earth, from which, in the course of further movement, they can reach the corresponding layer of the ionosphere again ադառնալ return to the Earth's surface և etc.
+ The result is that radio waves, reaching the Earth ionosphere many times, can reach any point on Earth.
+The ionosphere is responsible for the reflection of small wavelength radio waves at an angle.
+ It is obvious that the higher the angle, the greater the angle of incidence of the radio waves falling on the first layer, the faster the angle will reach the full internal reflection of the radio waves.
+If the radio waves fall on the ionosphere, the vertical is equal to 0, then, as per the law, the reflection of the radio waves will be refracted in the case when the refractive index of any of the layers is zero.
+  And this, according to (8), will happen when the oscillation frequency of the radio waves is equal to the -plasm frequency.
+The reflection of the radio channels will take place in the case when, during which the refractive index will turn out to be false.
+If the radio waves pass through the whole layer of the ionosphere, they will propagate in space.
+To maintain the Earth's satellite communications, spacecraft use metric waves that can penetrate the Earth's atmosphere and spread through space.
+  For example, satellites often have a radio transmitter operating at a frequency of 19,995 MHz.
+  This corresponds to a wavelength of about 15 m.
+whose frequency is in the frequency range of about (48-222) MHz, they also penetrate the ionosphere. Provides television communication with spacecraft.
+TV signals in Ezrarang.
+  Scientific-methodological researches done in the work ավագ Shirak State University senior0 պետական0) 90 (00 oio90), 90 (0o02 / sinsin00inni) (in0) (0 The results of the experiments carried out at 0, 0 են school suggest that: 1. The free electron oscillations in the plasma are harmonious.
+2. The frequency of electron oscillations depending on their density in the plasma.
+3. The radio waves will reach a point where the refractive index will be sufficient for full reflection to occur.
+spreading in the ionosphere, 4. Discussion of students' perceptions of electron fluctuations in plasma in practical life contributes to the enrichment and consolidation of their knowledge.
+expanding 5. In the physics school course, this methodological elaboration of the material by the teacher in the right place, if included in the right time, can increase the students' interest in the subject "Physics", and consequently the increase of the teaching efficiency.
+The research was carried out thanks to the financial support provided by the University within the framework of the code topic №01-ShSU-2018.

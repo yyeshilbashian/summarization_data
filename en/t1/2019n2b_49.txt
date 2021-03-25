@@ -1,0 +1,64 @@
+Differential Equations are widely used կայ The stability (lattice) method is used The current (network) method is one of the most effective and widely used methods for solving differential equations at present [3-7].
+  It has become especially popular in recent times due to the development of computer software.
+is also a computer [3,8].
+  In the present work [17], the work of the differential schemes obtained for the elliptical type edge problems using the grid method is presented, the approaches to the solution of the finite differences of the hyperbolic type differential equations according to the obvious differential scheme.
+Jacob և Zeidel's approaches to the solution.
+Equations: In this work, the solution method for a differential differential scheme of elliptic typification is considered [3].
+  The process of differential equations of the elliptical type according to the simple iteration is interpreted by methodical standardization, corresponding schematic explanatory drawings.
+  Such an approach is shown in his [17] և [18] works.
+The Helmholtz equation for the characterization of the electromagnetic field-wave characterization [1, 2] is then considered in the solution method.
+  The problem is first solved by using Mathematica environmentally friendly means.
+  Then the problem is solved using the network method, the different schemes are presented, the calculation programs in Mathematica environment according to the simple iteration method.
+  How is the study of high-differential elliptic efficiency from the point of view of practical concordance in solving equations?
+substantiated ևnetworks method 2. A simple iterative method for solving simplified differential equations of elliptic-type differential equations.
+ Suppose we have the following system of equations [2, 3], or where, Suppose that in the system of equations (1) is angular.
+The n-coefficients are different from zero, that is, from the equations of the equations we get, respectively, the first, second, համակարգի of the system, or, where, then, it is necessary to choose the approximation of the system of equations, using certain pre-obtained equations of the solution, find successively, etc.
+The process described above is an iteration process, the completion of which requires obtaining the specified accuracy. The number of process orbites exceeds the allowable number, in which case the system does not converge or the iteration table is not sufficient to obtain the specified accuracy.
+interruption.
+  The process is interrupted, the system expressing the iteration process is as follows: the upper index given in parentheses represents the iteration number.
+Let us now turn to the solution of the differential scheme for the differential equations by the method of simple iteration.
+elliptic type Consider a general differential scheme obtained for differential equations of the elliptical type, and consider the Dirichlet boundary problem for the endpoints (in the case of the Neumannian problem, the judgments are made in the same way).
+According to the simple iteration method, (1) the system can be represented as follows: n is the current approximation, where is a fixed number called the iteration parameter.
+ Each subsequent approximation will be determined according to the following formula: h, the next one, which is called that approximation error.
+In general, we can state that the solution of equations (1) by the simple iteration method can be represented as follows: to find the solution of the given equation system by the simple iteration method, use the formula to calculate the error in the current step, and then to determine the value in the next formula.
+  In the iteration step, the network parameter is determined by the condition.
+  In the case of the highest value of the latter, the above-mentioned calculation formula coincides with the Jacobian method formula, and the obtained results with the Jacobian method results.
+The diagram of the differential equations of the elliptical type is as follows: the given is a constant other than zero, where are the functions, the internal nodes of the network with assigned indexes, and the terminal nodes with).
+In case of using the simple iteration method, the solution of the differential scheme will look like this: Now let's explain the essence of the simple iteration method and present it schematically (Fig. 1).
+  It reflects the process of calculating the function in network nodes.
+  The points on the network are numbered according to the counting sequence.
+The nodes in green shown in the diagram correspond to the marginal conditions of the differential equation, and the nodes in which the values ​​of the function are known according to the previous iteration are shown in red.
+If this method is used, first the function gets zero value in all nodes of the network, then it gets values ​​corresponding to the edge condition in the network nodes, and then the iteration calculation starts from the first node of the network and continues until the last internal node of the network.
+Fig. In the node allowed in step 1, first the internal error of the network is calculated. The calculation is done as follows: Each network error, through the values ​​in each function, then the approximate value of the function in that node.
+  Let us illustrate the error determination patterns in several nodes of the network: the formula is calculated from the nodes and is determined in the same way. Fig.2 Fig.3 2u2,2u3,2u4,2u1,3u2,3u3,3u4,3u1,4u2,4u3,4u4,4u1,5u2,5u3,5u4,5u5,5u5,1u5,2u5,3u5,4IIIIIIIVVVIVIIVIIIIXXXIXIIXIIIXIVXVXVIXYu1,0u0,1u1,1 2XYr1,1u2,0u3,1u2,2u1,1u2,1XYr1,1 Նկ ․ In 2 և pic ․ Figure 3 shows the error counting patterns, each of which consists of a current node with its four adjacent nodes.
+  Generation PreviousNetworkNeterminationThe current step of the iteration to determine the error is the values ​​obtained for the function in the five corresponding nodes.
+  In particular, the values ​​of the term conditions ի the values ​​known from the previous iteration step are used to calculate the error in this iteration step.
+  The values ​​of the function of calculating the error in the current iteration step in the network nodes are calculated by means of the well-known internal network node after the formula.
+3 ․ Helmholtz equation for electromagnetic field-wave wave process.
+  The solution of the problem by the method of networks.
+  Consider Helmholtz's equation and analyze Dirichlet's problem.
+  The Helmholtz equation can generally be represented by the Laplace operator as follows: where the function describes the density.
+The charge of the electromagnetic field. Suppose the plane is given the Helmholtz equation, for which the constant of the electromagnetic wave propagation was equal, and.
+ Thus it is necessary to solve the elliptic-type differential equation in the case of edge conditions.
+Լուծ Solution of the problem using standard means of Mathematica environment The NDSolve operator is provided for the numerical solution of differential equations in Mathematical Physics ինչպես as well as their systems in Mathematica environment.
+Let's solve the above-mentioned problem by using that operator. Then, let's visualize the results graphically. As a result we will get fig. The surface shown in Figure 4 is shown in Fig. 4 Solving the problem by the method of finite differences.
+  Consider a step-equal network in a rectangular domain.
+  Taking into account the proposed boundary conditions, the differential scheme of the equation will look like this, the solution of which can be found by both precise and numerical (particularly iteration) methods.
+  Consider the simple iteration method of iteration methods.
+If a simple iteration method is used, the differential scheme will look like this: Domain.
+0., 4., 0., 4.Output.
+The program that implements the solution of the problem proposed by the simplification method in the scalar environment is as follows: the first line of the program provides the input data, then the calculation process starts, the penultimate line is displayed in the calculation process.
+As a result, the function-corresponding surface is displayed (Fig. 5).
+The obtained results are graphically shown in Fig. 5 Fig. In Figure 6, for the same boundary problem shown in Fig. 6, in the case of different values ​​of the area Mat the grid-derived area obtained by means of the standard means of the Mathematica package, by simple iteration, the fractional parts of the corresponding surfaces of the function are made more visible.
+  The surface obtained by means of the standard means of the Mathematica package is shown in green, and in the case of the values ​​of the grid step 17, 21, 24, the surfaces obtained by the simple iteration method are shown in yellow, blue and red colors, respectively.
+Fig. In 6 cases, depending on the coordinate, the graphs of the corresponding curves of the function of different values ​​of the Output network division steps have assumed a certain value.
+Figure 7 shows the section of the solution obtained using the Mathematica package means in red, and the graphs obtained by the corresponding curvature method corresponding to the simple iteration function for different values ​​of the grid steps are shown in different shades of gray.
+ depending on the coordinate և coordinate 7 Thus, using the simple iteration method, we obtained the exact solution of the differential scheme, 1234 y123456ux0, y, corresponding to 248 iteration steps.
+  And starting from the value of the number of domain division steps, the solutions obtained by the method of simple iteration of the problem almost coincide.
+  Moreover, in the case of values, the modulus of the difference of the obtained solutions is equal to։.
+according to the method of solution-differential equations 4. Conclusion.
+  The work considers different schemes corresponding to the differences in elliptical finite type.
+ A visual descriptive scheme has been developed to explain this method, which is very useful for learners.
+  Computational programs have been obtained, which not only provide the calculation process of problem solving by the mentioned method, providing the desired accuracy, but also allow graphical representation of the results, which is valuable both from the point of view of digital methods and pedagogical methodological method.
+The resulting calculation programs are quite general և allow the implementation of solutions to other edge problems by changing only the input data.
+The work has an indescribable methodological value, it can be used in the educational process of the university, it can be used for scientific researchers.

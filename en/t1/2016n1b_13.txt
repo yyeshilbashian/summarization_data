@@ -1,9 +1,9 @@
 1. Introduction.
-  Studying related to integral functionsexponential հատկ properties of related special functions anda number of issues related to them.
-The work is of great methodological importance և can be appliedin the university educational process, how can he serve scientifically?for researchers.
-In a single domain obtained by this horse, it is a regular function depending on the subdomain, which is whyFigure 1:is the real axis.
-  The mentioned function is monotonous2. Integral exponential function և its properties.
- The integral exponential function is defined by the following integralthrough.(cid.
+  Examining the properties of exponential հատուկ related special functions related to integral functions and a number of related problems.
+The work is of great methodological importance; it can be used in the educational process, as it can be used for researchers.
+In the unique domain obtained by this equation, it depends on the subunit, it is a regular function, that is why e1 is on the real axis.
+  The mentioned function is monotonous 2. Integral exponential function և its properties.
+ The integral exponential function is defined by the following integral (cid).
 1831) (cid.
 1861) ((cid.
 1878)) = (cid.
@@ -21,10 +21,10 @@ In a single domain obtained by this horse, it is a regular function depending on
 1870) (cid.
 1859) (- (cid.
 1878)) | <(cid.
-2024), (1)which is taken by any L-curve, broken by a real positive half-axis in the plane t.
+2024), (1) which is taken by any L curve, broken by a real positive half-axis in the plane t.
 Tegral expression: (cid.
 1872) the value of a complex integral is not dependent (cid.
-1838) in the form of a curve, except:that (cid.
+1838) from the appearance of the curve, և baccaid (cid.
 1831) (cid.
 1861) ((cid.
 1878)) function according to (cid.
@@ -39,14 +39,14 @@ Note that in formula (1) the integration path can also be taken as և <(cid).
 (cid.
 1835) ((cid.
 1878)) the part of the line that passes through (cid.
-1878) point և paralleldecreases − (cid.
+1878) կետ parallels − (cid.
 1831) (cid.
 1861) (0) = + ∞ from value to և (cid.
 1831) (cid.
 1861) (- ∞) = 0.
-If we represent the integral (−∞, −1) in the range (−∞, z),(−1, (cid.
+If we represent the integral (−∞, −1), (- 1, (cid) in the range (−∞, z) (1).
 1878)) և (0, (cid.
-1878)) in the form of the sum of integrals in the ranges, we get (1)+ (cid.
+1878)) in the form of the sum of integrals in the ranges, we get (1) + (cid.
 3505) ((cid.
 1857) (cid.
 3047) −1)
@@ -76,15 +76,15 @@ If we represent the integral (−∞, −1) in the range (−∞, z),(−1, (cid
 Thus, integral exponential (cid.
 1831) (cid.
 1861) ((cid.
-1878)) for the function				| (cid.
+1878)) for the function | (cid.
 1853) (cid.
 1870) (cid.
 1859) (- (cid.
 1878)) | <(cid.
-2024) (2)Here we are (cid.
+2024) (2) Here we are (cid.
 1864) (cid.
 1866) ((cid.
-1878)) in the expression we understand a functiona one-valued branch defined by the following equation (cid).
+In the expression 1878) we mean the value-equivalent branch of the function, which is determined by the following equation (cid).
 1864) (cid.
 1866) ((cid.
 1878)) = (cid.
@@ -101,7 +101,7 @@ Thus, integral exponential (cid.
 1870) (cid.
 1859) (cid.
 1878) | <(cid.
-2024) ∶:+ (cid.
+2024) ∶ + (cid.
 3505) ((cid.
 1857) (cid.
 3047) −1)
@@ -149,10 +149,10 @@ which is an expedient way to get the analysis in the form of an exponential func
 (cid.
 2879) (cid.
 2869)
-The following is the expression:Here the sum of the first two integrals coincides with EulerWe will have:(2) integrate a sub-member by a member in the last integral to the right of the equation
- So we get:The analysis is true at any point in the plane broken by a real positive half-axis.
-and the bottom edges will be respectivelyIt is possible to present a convergence on the whole planein the form of a series of steps.
-  To get that degree seriesThe integral expression of the z-complex variable is enough to analyze the subintegral function according to the degrees of t և(cid.
+Here is the expression of the expression: Here the sum of the first two integrals coincides with Eulerik.
+ Thus, we get: The analysis is true at any point in the plane broken by a real positive half-axis.
+and at the bottom edges will be respectively, it is tsia, which can be represented on the whole plane in the form of a series of convergent degrees.
+  To obtain this degree series, the whole expression of the z-complex variable is sufficient to analyze the subintegral function in degrees of t և (cid).
 1831) (cid.
 1861) ((cid.
 1878)) = (cid.
@@ -171,7 +171,7 @@ and the bottom edges will be respectivelyIt is possible to present a convergence
 1859) (- (cid.
 1878)) | <(cid.
 2024).
-																	(3)(cid.
+																	(3) (cid.
 2998)
 (cid.
 3041) (cid.
@@ -180,7 +180,7 @@ and the bottom edges will be respectivelyIt is possible to present a convergence
 (3) It follows from the formula that (cid.
 1831) (cid.
 1861) ((cid.
-1878)) values ​​of the function above the crack(cid.
+1878)) values ​​of the function above the crack (cid.
 1831) (cid.
 1861) ((cid.
 1876) ± (cid.
@@ -191,11 +191,11 @@ and the bottom edges will be respectivelyIt is possible to present a convergence
 1876)) ∓ (cid.
 2024) (cid.
 1861) (cid.
-1876)> 0,where (cid.
+1876)> 0, where (cid.
 1831) (cid.
 1861) (cid.
 2869) ((cid.
-1876)) is a real function, determined by the following equation:(cid.
+1876) is a real function, determined by the following equation (cid).
 1831) (cid.
 1861) (cid.
 2869) ((cid.
@@ -219,7 +219,7 @@ and the bottom edges will be respectivelyIt is possible to present a convergence
 1866)
 (cid.
 1876)> 0.
-									(4)(cid.
+									(4) (cid.
 2998)
 (cid.
 1831) (cid.
@@ -241,11 +241,11 @@ through the spiral exponential function.
 1878)) is an arbitrary rational function, expressed in (cid).
 1831) (cid.
 1861) ((cid.
-1878))To get (cid.
+1878)) To get (cid.
 1831) (cid.
 1861) ((cid.
-1878)) asymptotic representation of a function,which will be useful when approximating that function (cid.
-1878) large with modulus(cid.
+1878)) asymptotic representation of a function that will be useful when approximating that function (cid).
+1878) module large (cid.
 2879) (cid.
 2998) (cid.
 1856) (cid.
@@ -300,11 +300,11 @@ In that case we will have: (cid.
 2878) (cid.
 2869)
 cial function.
- Integral exponential function is commonin applications such as antenna radio wavesin theory.
-In the general case, continuing the integration of the parts, for the integral exponential function we will have the following:For values, use formula (1) ենք integrate parts.
+ The integral exponential function is often found in applications such as antenna radio waves.
+In the general case, continuing the integration of parts, for the integral exponential function we will have the following for values, use formula (1) և perform integration of parts.
 (cid.
-3432) +:Many more complex integrals can be expressed as finite forms of function.
-from where?the bottom: The obtained result shows that the integral expo + 1 ∙ 2 ∙… ∙ ((cid.
+3432) + Many more complex-looking integrals can be expressed as finite forms of the function.
+where: the result obtained shows that the integral expo + 1 ∙ 2 ∙… ∙ ((cid.
 1866) +1) (cid.
 3505) (cid.
 1857) (cid.
@@ -336,7 +336,7 @@ from where?the bottom: The obtained result shows that the integral expo + 1 ∙ 
 3041) ((cid.
 1878))
 (cid.
-3433) (5)(cid.
+3433) (5) (cid.
 3041)
 (cid.
 1870) (cid.
@@ -366,7 +366,7 @@ from where?the bottom: The obtained result shows that the integral expo + 1 ∙ 
 1859) (- (cid.
 1878)) | <(cid.
 2024).
-																			(6)(cid.
+																			(6) (cid.
 3053)
 	(cid.
 1870) (cid.
@@ -384,7 +384,7 @@ from where?the bottom: The obtained result shows that the integral expo + 1 ∙ 
 3041) (cid.
 2879) (cid.
 2869)).
-																																									(7)nenceial function | (cid.
+																																									(7) potential function | (cid.
 1878) in case of large values ​​of | allows asymptotic representation: (cid.
 1831) (cid.
 1861) ((cid.
@@ -403,7 +403,7 @@ from where?the bottom: The obtained result shows that the integral expo + 1 ∙ 
 1859) (- (cid.
 1878)) | <(cid.
 2024) - (cid.
-2012) (8)(cid.
+2012) (8) (cid.
 1841) (| (cid.
 1878) | (cid.
 2879) (cid.
@@ -413,7 +413,7 @@ from where?the bottom: The obtained result shows that the integral expo + 1 ∙ 
 3433),
 (cid.
 3041)
-(8) after formula's that is misleading(cid.
+(8) after the formula that is divergent (cid.
 3038) (cid.
 2880) (cid.
 2868)
@@ -449,7 +449,7 @@ Note that if | (cid.
 1878)) ≤0), then (cid.
 1870) (cid.
 3041) ((cid.
-1878)) module| (cid.
+1878)) module | (cid.
 1870) (cid.
 3041) ((cid.
 1878)) | ≤ ((cid.
@@ -458,28 +458,28 @@ Note that if | (cid.
 1878) | (cid.
 3041) (cid.
 2878) (cid.
-2869) (9)(cid.
+2869) (9) (cid.
 1831) (cid.
 1861) ((cid.
 1878)) function when replacing the function with the sum of the finite number of members.
   If (cid.
 1831) (cid.
 1861) ((cid.
-1878)) The argument of the integral function is a false number                      (cid.
+1878) The argument of the integral function is a false number (cid).
 1878) = (cid.
 1876) (cid.
 1861) ((cid.
-1876)> 0), then the observed function can be expressed in twowith real functions: (cid.
+1876)> 0), then the observed function can be expressed by binary functions: (cid.
 1845) (cid.
 1861) ((cid.
 1876)) և (cid.
 1829) (cid.
 1861) ((cid.
-1876)), better known as:The error given in this case does not exceed that of the expelled membersthe size of the first.
-3. Integral sine և cosine functions and their properties will be evaluated more accurately:integral sine և integral cosine.
-These functions, having a large independent value, are commonin this case, as a function of a complex variable, are defined as followsBy formulas:where in the first integral the path of integration is arbitrary, andhas integration, belonging to the plane, which is broken negativein tion.
+1876)), which are better known as the mistaken error in this case does not exceed the size of the first member thrown out.
+3. The integral sine և cosine functions and their properties will give a more accurate estimate: integral sine և integral cosine.
+These functions, having a large self-value, as a function of a complex variable, are determined by the following formulas, where the path of integration in the first integral is arbitrary, possessing the integration, belonging to the plane, which is broken into negation.
 are real և have a fluctuating nature.
-The relative nature follows from the following formulas:(cid.
+The relative nature follows from the following formulas: (cid.
 1845) (cid.
 1861) ((cid.
 1878)) = (cid.
@@ -529,22 +529,22 @@ The relative nature follows from the following formulas:(cid.
 1867) (cid.
 1871) (cid.
 1876) (cid.
-1876),| (cid.
+1876), | (cid.
 1853) (cid.
 1870) (cid.
 1859) (cid.
 1878) | <(cid.
-2024) (10)in the second integral with the limited requirement that (cid.
-1838) the curve by which it occurswith a real half-axis.
+2024) (10) in the second integral with the limited requirement that (cid.
+1838) The curve along which the Eurasian half-axis takes place.
   It is known that (cid.
 1845) (cid.
 1861) ((cid.
-1878)) is the whole function of z, and(cid.
+1878)) is the whole function of z, and (cid.
 1829) (cid.
 1861) ((cid.
 1878)) is a regular function (−∞, 0) of a split plane-real (cid).
 1878) = (cid.
-In the case of the variable 1876)> 0, both functionsWhen (cid.
+In the case of the variable 1876)> 0 the two functions are both When (cid.
 1876) <0, (cid.
 1845) (cid.
 1861) ((cid.
@@ -585,14 +585,14 @@ In the case of the variable 1876)> 0, both functionsWhen (cid.
 1861) (0) = 0,
 (cid.
 1829) (cid.
-1861) (+ 0) = - ∞:(cid.
+1861) (+ 0) = - ∞ (cid.
 1845) (cid.
 1861) ((cid.
 1876)) և (cid.
 1829) (cid.
 1861) ((cid.
 1876)) The graphs of the functions are shown in Fig. In 2.
-between the spiral sinus and cosine functions [2]:(cid.
+between the spiral sinus and cosine functions և [2]: (cid.
 1831) (cid.
 1861) (cid.
 3436) - (cid.
@@ -618,7 +618,7 @@ between the spiral sinus and cosine functions [2]:(cid.
 1870) (cid.
 1859) (cid.
 1878) <(cid.
-2024) (11)(cid.
+2024) (11) (cid.
 1831) (cid.
 1861) (cid.
 3436) - (cid.
@@ -643,7 +643,7 @@ between the spiral sinus and cosine functions [2]:(cid.
 1870) (cid.
 1859) (cid.
 1878) <(cid.
-2024) 2∶ (12)(11) և (12) are followed by the following useful equation (cid).
+2024) 2∶ (12) (11) և (12) are followed by the following useful equation (cid).
 1829) (cid.
 1861) ((cid.
 1878)) = 12 (cid.
@@ -672,7 +672,7 @@ between the spiral sinus and cosine functions [2]:(cid.
 1870) (cid.
 1859) (cid.
 1878) | <(cid.
-2024) 2 (13)(cid.
+2024) 2 (13) (cid.
 1845) (cid.
 1861) ((cid.
 1878)) = (cid.
@@ -703,7 +703,7 @@ between the spiral sinus and cosine functions [2]:(cid.
 1870) (cid.
 1859) (cid.
 1878) | <(cid.
-2024) 2 (14)The limit values ​​of the observed functions are largeև In case of small values ​​there will be:Note that there is a connection between integral exponential interiors:Let's integrate member by member. Figure 2:(cid.
+2024) 2 (14) The limit values ​​of the observed functions will be in the case of large-small values ​​of the argument. Fig.2 (cid.
 3053)
 (cid.
 2868)
@@ -727,12 +727,12 @@ which allow (cid.
 1878)) և (cid.
 1845) (cid.
 1861) ((cid.
-1878)) functions possibleby means of.
+1878) functions with the possibility.
   (cid.
 1845) (cid.
 1861) ((cid.
-1878)) function analysiswe get it if we put in formula (10)sin (cid.
-1872) step series of functions (an (cid.
+1878)) we will get the analysis of the function if we put sin (cid) in formula (10).
+1872) The step series of a function (an (cid.
 1856) (cid.
 1872) = (cid.
 3533) (−1) (cid.
@@ -753,7 +753,7 @@ which allow (cid.
 2870) (cid.
 3041)
 				| (cid.
-1878) | <∞ (15)(cid.
+1878) | <∞ (15) (cid.
 2998)
 (2 (cid.
 1866) +1)!
@@ -763,7 +763,7 @@ which allow (cid.
 (cid.
 1829) (cid.
 1861) ((cid.
-1878)) Obtaining a function analysis requires more complex(cid.
+1878)) Obtaining a function analysis requires a more complex (cid).
 3041) (cid.
 2880) (cid.
 2868)
@@ -779,7 +779,7 @@ More convenient to use (cid.
 3284) (cid.
 3343) (cid.
 3118) (cid.
-3440) between functions (13) from the և (3) equation.
+3440) from the relation և (13) between the functions հավասար from the equation (3).
 According to equation (3): (cid.
 1831) (cid.
 1861) (cid.
@@ -799,7 +799,7 @@ According to equation (3): (cid.
 3284) (cid.
 3343) (cid.
 3118) (cid.
-3440) functionswe will have: (cid.
+3440) for the functions we will have: (cid.
 1831) (cid.
 1861) (cid.
 3436) - (cid.
@@ -871,7 +871,7 @@ According to equation (3): (cid.
 Then (cid.
 1829) (cid.
 1861) ((cid.
-For 1878)) you will have:(cid.
+For 1878)) you will have: (cid.
 3041) (cid.
 2880) (cid.
 2869)
@@ -985,7 +985,7 @@ For 1878)) you will have:(cid.
 3041)
 cos (cid.
 1866) (cid.
-2024) 2 ∶:(cid.
+2024) 2 ∶ (cid.
 3041) (cid.
 2880) (cid.
 2869)
@@ -998,7 +998,7 @@ cos (cid.
 3041) (cid.
 2880) (cid.
 2869)
-The upper and lower edges are determined as follows:(cid.
+The upper and lower edges are determined as follows: (cid.
 1864) (cid.
 1861) ((cid.
 1878)) = (cid.
@@ -1012,8 +1012,8 @@ The upper and lower edges are determined as follows:(cid.
 3053)
 (cid.
 2868)
-Here given that:we get the following equation:4. Integrallogarithm function.
-  Integral exponentialClosely related to the function is another special function that couldhas a role in analysis և known as integral logarithm.
+Here, taking into account, we obtain the following equation: 4. Integral logarithm function.
+  Closely related to the integral exponential function is another special function that has functions in analysis, known as the integral logarithm.
  Nsha cos (cid.
 1866) (cid.
 2024) 2 = (cid.
@@ -1024,7 +1024,7 @@ Here given that:we get the following equation:4. Integrallogarithm function.
 (−1) (cid.
 3041), (cid.
 1866) = 2 (cid.
-1863),(cid.
+1863), (cid.
 1829) (cid.
 1861) ((cid.
 1878)) = γ + ln (z) + (cid.
@@ -1038,10 +1038,10 @@ Here given that:we get the following equation:4. Integrallogarithm function.
 2 (cid.
 1863)! 2 (cid.
 1863)
-(16) after the formula that (cid.
+(16) It follows from the formula that (cid.
 1829) (cid.
 1861) ((cid.
-1878)) values ​​of the function (−∞, 0) of the crack(cid.
+1878)) values ​​of the function (−∞, 0) crack (cid.
 3038) (cid.
 2880) (cid.
 2869)
@@ -1055,21 +1055,21 @@ Here given that:we get the following equation:4. Integrallogarithm function.
 1876)) ± (cid.
 2024) (cid.
 1861) (cid.
-1876)> 0 (17)նակվում է (cid.
+1876)> 0 (17) նակվում է (cid.
 1864) (cid.
 1861) ((cid.
-1878)) և is determined in relation to the following:	| (cid.
+1878)) և is determined in relation to the following: | (cid.
 1853) (cid.
 1870) (cid.
 1859) (cid.
 1878) | <(cid.
 2024), | arg (1− (cid.
 1878)) <(cid.
-2024) (18)where the integral is calculated arbitrarily (cid.
-1838) with a curve that belongs to(−∞, 0) և (1, ∞) on the plane broken by the real axis.
+2024) (18) where the integral is calculated arbitrarily (cid.
+1838) with a curve belonging to the plane broken by the real axis (−∞, 0) և (1,։).
   IntegralIf we introduce a new integration (cid).
 1873) = ln (cid.
-1872) variable, then easywill be (cid.
+1872) variable, then easy (cid.
 1864) (cid.
 1861) ((cid.
 1878)) to express the function integral exponential function (cid.
@@ -1087,7 +1087,7 @@ Here given that:we get the following equation:4. Integrallogarithm function.
 (cid.
 1856) (cid.
 1873).
-																																																	(19)(cid.
+																																																	(19) (cid.
 2879) (cid.
 2998)
 (cid.
@@ -1098,7 +1098,7 @@ Here given that:we get the following equation:4. Integrallogarithm function.
 1861) ((cid.
 1864) (cid.
 1866) (cid.
-1878)) (20) (20) in relation to ալ integral exponential functionFor example, after formula (3) is: (cid.
+1878)) (20) (20) նչ's integral exponential function.
 1864) (cid.
 1861) ((cid.
 1878)) = γ + ln (- (cid.
@@ -1117,15 +1117,15 @@ Here given that:we get the following equation:4. Integrallogarithm function.
 3041) (cid.
 2880) (cid.
 2869)
-Moreover, this domain has an integral exponential functionis part of the decision domain, therefore, given that function aboveAccording to the definition, we will get:where the logarithm has its main value.
-properties are easily followed by a sliding functionproperties.
+Moreover, this domain is part of the domain of integral exponential function, therefore, according to the above definition of this function, we will get where the logarithm has its main value.
+The properties of the sliding function are easily followed by the properties.
 The logarithm is a regular function in the specified fractured plane.
-with light.function:way:asymptotic representationRhythm always means the main value of this function.
+function: the asymptotic representation - rhythm always means the main value of this function.
 where (cid.
 1878) belongs to the plane split by (−∞, 0) և (1, ∞), after the relation և loga (21) follows that (cid.
 1864) (cid.
 1861) ((cid.
-The value of 1878)) (1, ∞) above the crack ևwill be on the lower edges. (cid.
+The value of (1878)) (1, ∞) will be at the top and bottom edges of the crack. (cid.
 1864) (cid.
 1861) ((cid.
 1876) ± (cid.
@@ -1136,11 +1136,11 @@ The value of 1878)) (1, ∞) above the crack ևwill be on the lower edges. (cid.
 1876)) ∓ (cid.
 2024) (cid.
 1861), (cid.
-1876)> 1, (22)where (cid.
+1876)> 1, (22) where (cid.
 1864) (cid.
 1861) (cid.
 2869) ((cid.
-1876) is determined in the following relation as real(cid.
+1876) is defined in relation to the following as real (cid).
 1864) (cid.
 1861) (cid.
 2869) ((cid.
@@ -1152,7 +1152,7 @@ The value of 1878)) (1, ∞) above the crack ևwill be on the lower edges. (cid.
 1864) (cid.
 1861) ((cid.
 1876) - (cid.
-1861) 0)] =:= (cid:
+1861) 0)] == (cid.
 2011) + (cid.
 1864) (cid.
 1866) ((cid.
@@ -1167,7 +1167,7 @@ The value of 1878)) (1, ∞) above the crack ևwill be on the lower edges. (cid.
 1866)! (Cid.
 1866)
 , (cid.
-1876)> 1 (23)(cid.
+1876)> 1 (23) (cid.
 2998)
 (cid.
 1864) (cid.
@@ -1178,11 +1178,11 @@ The value of 1878)) (1, ∞) above the crack ևwill be on the lower edges. (cid.
 3041) (cid.
 2880) (cid.
 2869)
-(4) It follows from Equation that this function is related accordinglymodified integral exponential (cid.
+(4) It follows from Equation that this function is related to the corresponding modified integral exponential (cid).
 1831) (cid.
 1861) (cid.
 2869) ((cid.
-1876)) with the following function(cid.
+1876) with the function (cid.
 1864) (cid.
 1861) (cid.
 2869) ((cid.
@@ -1192,14 +1192,14 @@ The value of 1878)) (1, ∞) above the crack ևwill be on the lower edges. (cid.
 2869) ((cid.
 1864) (cid.
 1866) (cid.
-1876)) (24)(cid.
+1876)) (24) (cid.
 1864) (cid.
 1861) (cid.
 2869) ((cid.
-1876) The modified integrated logarithm is commonUsing formula (5), we can extract (cid).
+1876) The modified integrated logarithm is often found. Using formula (5), we can extract (cid).
 1864) (cid.
 1861) ((cid.
-1878)) function(cid.
+1878)) function (cid.
 1864) (cid.
 1861) ((cid.
 1878)) = (cid.
@@ -1220,7 +1220,7 @@ The value of 1878)) (1, ∞) above the crack ևwill be on the lower edges. (cid.
 1859) (cid.
 1878) | ≤ (cid.
 2024) - (cid.
-2012), (25)(cid.
+2012), (25) (cid.
 3041)
 ((cid.
 1864) (cid.
@@ -1247,7 +1247,7 @@ where | (cid.
 2880) (cid.
 2868)
 in you when | (cid.
-1878) | <1, then: | (cid.
+1878) | <1, then | (cid.
 1870) (cid.
 3041) ((cid.
 1878)) | ≤ ((cid.
@@ -1261,10 +1261,10 @@ in you when | (cid.
 2869).
 (cid.
 1878) = (cid.
-1876)> The function considered for 1 is not defined as equal to (23). Sometimes integrals are stored for this function.the name of the logarithm և meaning using the fact that:In analysis, it plays an important role mainly in number theory.
+The function considered for 1876)> 1 is not determined to be equal to (23).
 թյամբ.
 5. Integral hyperbolic functions.
- They are imported. "Integral hyperbolic sine ոս cosine functionsway:(cid.
+ The integral hyperbolic sine և cosine functions are introduced in the following way (cid).
 1871) ℎ (cid.
 1861) ((cid.
 1878)) = (cid.
@@ -1281,7 +1281,7 @@ in you when | (cid.
 1845) (cid.
 1861) ((cid.
 1861) (cid.
-1878)),(cid.
+1878)), (cid.
 1856) (cid.
 1872) = (cid.
 1829) (cid.
@@ -1289,7 +1289,7 @@ in you when | (cid.
 1861) (cid.
 1878)) - (cid.
 1861) (cid.
-2024) 2,(cid.
+2024) 2, (cid.
 1855) ℎ (cid.
 1861) ((cid.
 1878)) = (cid.
@@ -1311,10 +1311,10 @@ where (cid.
 1878)) is a real function in the case of a real argument, and (cid).
 1855) ℎ (cid.
 1861) ((cid.
-1878))in case of positive real arguments.
+1878)) in case of positive real arguments.
  (cid.
 1878) = (cid.
-1876)> for 0 we have:, (cid.
+1876) for 0 we have: (cid.
 1855) ℎ (cid.
 1861) ((cid.
 1876)) = (cid.
@@ -1370,10 +1370,10 @@ where (cid.
 1861) (cid.
 2869) (ln (cid.
 1876)) (cid.
-1876)> 1:By (cid.
+1876)> 1 According to (cid.
 1871) ℎ (cid.
 1861) ((cid.
-1878)) definition: we have:(cid.
+1878)) definition: we have: (cid.
 1871) ℎ (cid.
 1861) ((cid.
 1876)) = - (cid.
@@ -1392,7 +1392,7 @@ where (cid.
 3036) (cid.
 3051)
 in which placing sin (cid.
-1872) series analysis, you will have:(cid.
+1872) series analysis, you will have: (cid.
 2868)
 (cid.
 1871) ℎ (cid.
@@ -1402,10 +1402,10 @@ in which placing sin (cid.
 1876) (cid.
 2871) 3! 3+ (cid.
 1876) (cid.
-2873) 5! 5 + ⋯:With a similar egg we can show that (cid.
+2873) 5! 5 + և With a similar egg we can show that (cid.
 1855) ℎ (cid.
 1861) ((cid.
-1876)) for the function(cid.
+1876)) for the function (cid.
 1855) ℎ (cid.
 1861) ((cid.
 1876)) = ln (cid.
@@ -1418,8 +1418,8 @@ in which placing sin (cid.
 3051) (cid.
 3120) (cid.
 2872)! (Cid.
-2872) +…Problem 1.
- Prove the equation [4](cid.
+2872) +… Problem 1.
+ Prove the equation [4] (cid.
 1856) (cid.
 1872) = 1 (cid.
 1868) (cid.
@@ -1478,7 +1478,7 @@ in which placing sin (cid.
 2879) (cid.
 2870) (cid.
 1868) (cid.
-2871) + ⋯ +:(cid.
+2871) + ⋯ + (cid.
 1872) (cid.
 3038) (cid.
 1868) (cid.
@@ -1498,7 +1498,7 @@ in which placing sin (cid.
 1863)!
 Proof.
  If (cid.
-1866) = 1, then we have.(cid.
+1866) = 1, then we have. (Cid.
 1835) (cid.
 2869) = (cid.
 3505) (cid.
@@ -1553,16 +1553,16 @@ Proof.
 1868) +1 (cid.
 1868) (cid.
 2870) (cid.
-3440)Assume that equation (27) is true (cid.
+3440) Assume that (27) equation is true (cid.
 1866) = (cid.
-1865) in the case of ևProve that it is true և (cid.
+In the case of 1865, we "prove that it is true" (cid.
 1866) = (cid.
 1865) +1 number.
 Solution.
-  First, let us prove by the method of mathematical inductionthe following equation.The following performance takes place:6. Problems.
+  First, let us prove the following equation by the method of mathematical induction. The following representation is appropriate: 6. Problems.
 When (cid.
 1866) = (cid.
-1865) +1, then:resolution, we will have.What needed to be shown.
+1865) +1, the apology, we will have. What needed to be shown.
 (cid.
 1835) (cid.
 3040) (cid.
@@ -1589,7 +1589,7 @@ When (cid.
 1857) (cid.
 2879) (cid.
 3043) (cid.
-3047))(cid.
+3047)) (cid.
 1835) (cid.
 3040) (cid.
 2878) (cid.
@@ -1613,9 +1613,9 @@ When (cid.
 3043) (cid.
 3047) (cid.
 1856) (cid.
-1872),by inserting in the last integral (cid.
+1872), placing in the last integral (cid.
 1835) (cid.
-3040) presentation, we will have.(cid.
+3040) presentation, we will have. (Cid.
 1835) (cid.
 3040) (cid.
 2878) (cid.
@@ -1646,7 +1646,7 @@ When (cid.
 2879) (cid.
 2869) (cid.
 1868) (cid.
-2870) +:(cid.
+2870) + (cid.
 1872) (cid.
 3038) (cid.
 1868) (cid.
@@ -1660,7 +1660,7 @@ When (cid.
 3040) (cid.
 2878) (cid.
 2869) (cid.
-4679)+ (cid.
+4679) + (cid.
 1865) ((cid.
 1865) −1) (cid.
 1872) (cid.
@@ -1718,9 +1718,9 @@ When (cid.
 3040) (cid.
 2878) (cid.
 2870) (cid.
-4679),(cid.
+4679), (cid.
 1856) (cid.
-1872) applying parts integrationNow, ∫ (cid.
+1872) Applying integration of parts Now, յ (cid.
 1857) (cid.
 2879) (cid.
 3043) (cid.
@@ -1826,7 +1826,7 @@ When (cid.
 1857) (cid.
 2879) (cid.
 3043) (cid.
-3084) = 0,(cid.
+3084) = 0, (cid.
 1835) = 1 (cid.
 1868) (cid.
 3505) (cid.
@@ -1856,11 +1856,11 @@ When (cid.
 2998)
 (cid.
 1856) (cid.
-1872),(cid.
+1872), (cid.
 1872)
 in which placing sin (cid.
 1869) (cid.
-1872) function series analysis և integrating;(cid.
+1872) քի integrating function series analysis ((cid.
 2868)
 (cid.
 2868)
@@ -1936,9 +1936,9 @@ we will have: (cid.
 1872)
 (cid.
 2868)
-Sincethen:what needed to be shown.
-equality, then we will have:Solution.
-  Integrate the integral to the left of the equation into parts,Here, if we mean for each integral (27)(cid.
+Because it was necessary to show.
+equality, then we will have a Solution.
+  Integrate the left-hand integral into parts. Here, if we mean (27) for each integral (cid).
 1869) (cid.
 2870) (cid.
 3041) (cid.
@@ -1970,14 +1970,14 @@ equality, then we will have:Solution.
 3041) (cid.
 2878) (cid.
 2869) + ⋯ (cid.
-4681),Considering (cid.
+4681), Considering (cid.
 1853) (cid.
 1870) (cid.
 1855) (cid.
 1872) (cid.
 1859) (cid.
 3044) (cid.
-3043) step-by-step analysis of the function [5], we can write:(cid.
+3043) Gradual analysis of a function [5], we can write: (cid.
 1856) (cid.
 1872) = 1 (cid.
 1868) (cid.
@@ -1987,7 +1987,7 @@ equality, then we will have:Solution.
 1872) (cid.
 1859) (cid.
 1869) (cid.
-1868)(cid.
+1868) (cid.
 2998)
 (cid.
 1835) = (cid.
@@ -2003,7 +2003,7 @@ equality, then we will have:Solution.
 (cid.
 2868)
 Problem 2.
- Prove the equation [3]- (cid.
+ Prove the equation [3] - (cid.
 1845) (cid.
 1861) ((cid.
 2009) (cid.
@@ -2075,7 +2075,7 @@ Problem 2.
 1829) (cid.
 1861) ((cid.
 2010) (cid.
-1876)))(cid.
+1876))) (cid.
 1835) = sin (cid.
 2009) (cid.
 1876) (cid.
@@ -2112,7 +2112,7 @@ By placing sin (cid) in the last integral.
 2009) (cid.
 1876) - (cid.
 2010) (cid.
-1876))] formula, we will get:(cid.
+1876))] the formula, we will get: (cid.
 1835) = sin (cid.
 2009) (cid.
 1876) (cid.
@@ -2122,7 +2122,7 @@ By placing sin (cid) in the last integral.
 1876))
 −1 (cid.
 2009) (cid.
-3505) sin ((cid.
+3505) sin (cid.
 2009) (cid.
 1876) + (cid.
 2010) (cid.
@@ -2154,18 +2154,18 @@ By placing sin (cid) in the last integral.
 1876))
 (cid.
 1856) (cid.
-1876) +:(cid.
+1876) + (cid.
 2009)
 (cid.
 1876)
 + (cid.
-3505) sin ((cid.
+3505) sin (cid.
 2009) (cid.
 1876) - (cid.
 2010) (cid.
 1876))
 (cid.
-3433)(cid.
+3433) (cid.
 1856) (cid.
 1876)
 (cid.
@@ -2196,7 +2196,7 @@ By placing sin (cid) in the last integral.
 (cid.
 2009)
 Problem 3.
- Prove the equation [3](cid.
+ Prove the equation [3] (cid.
 1835) = (cid.
 3505) (cid.
 1829) (cid.
@@ -2217,9 +2217,9 @@ Problem 3.
 1829) (cid.
 1861) ((cid.
 2010) (cid.
-1876)) +:in that case we will have:what needed to be proved.
+1876)) + in that case we will have what was necessary to prove.
 Solution.
-  Integrate the integral to the left of the equation into parts, We will have:in which, instead of the last two integrals, put in problem 2We will have the obtained results+12 (cid.
+  If we integrate the integral on the left side of the equation into parts, we will have, in which, instead of the last two integrals, by placing problem 2, we will have +12 (cid).
 2009) [(cid.
 1845) (cid.
 1861) ((cid.
@@ -2232,14 +2232,14 @@ Solution.
 2009) (cid.
 1876) - (cid.
 2010) (cid.
-1876))] +:−1 (cid.
+1876))] + - 1 (cid.
 2010) sin (cid.
 2010) (cid.
 1876) (cid.
 1829) (cid.
 1861) ((cid.
 2009) (cid.
-1876)) (29)+12 (cid.
+1876)) (29) +12 (cid.
 2010) [(cid.
 1845) (cid.
 1861) ((cid.
@@ -2259,7 +2259,7 @@ Solution.
 1829) (cid.
 1861) ((cid.
 2010) (cid.
-1876)) -(cid.
+1876)) - (cid.
 1835) = (cid.
 3505) (cid.
 1829) (cid.
@@ -2293,7 +2293,7 @@ Solution.
 1861) ((cid.
 2010) (cid.
 1876)) (cid.
-3439) =:= (cid:
+3439) == (cid.
 1876) (cid.
 1829) (cid.
 1861) ((cid.
@@ -2328,7 +2328,7 @@ Solution.
 2009) (cid.
 1876)) (cid.
 3439) (cid.
-3432) =:= (cid:
+3432) == (cid.
 1876) (cid.
 1829) (cid.
 1861) ((cid.
@@ -2361,7 +2361,7 @@ Solution.
 2009) (cid.
 1876)) (cid.
 1856) (cid.
-1876),(cid.
+1876), (cid.
 1835) = (cid.
 1876) (cid.
 1829) (cid.
@@ -2384,7 +2384,7 @@ Solution.
 2009) (cid.
 1876) - (cid.
 2010) (cid.
-1876))] +:+12 (cid.
+1876))] ++ 12 (cid.
 2010) [(cid.
 1845) (cid.
 1861) ((cid.
@@ -2404,15 +2404,15 @@ Solution.
 1829) (cid.
 1861) ((cid.
 2010) (cid.
-1876)) -−1 (cid.
+1876)) −− 1 (cid.
 2010) sin (cid.
 2010) (cid.
 1876) (cid.
 1829) (cid.
 1861) ((cid.
 2009) (cid.
-1876)),Problem 4.
- Prove the equation [3]= (cid:
+1876), Problem 4.
+ Prove the equation [3] = (cid.
 3436) 1 (cid.
 1876) +1 (cid.
 1854) (cid.
@@ -2421,7 +2421,7 @@ Solution.
 1861) [(cid.
 1853) ((cid.
 1876) + (cid.
-1854))] -(cid.
+1854))] - (cid.
 3505) (cid.
 1871) (cid.
 1861) [(cid.
@@ -2500,14 +2500,14 @@ we will have: (cid.
 1861) [(cid.
 1853) ((cid.
 1876) + (cid.
-1854))])(cid.
+1854))]) (cid.
 3051)
 What needed to be proved.
 						[(cid.
 1853)> 0, (cid.
 1854)> 0] (30).
 Solution.
-  Integrate the integral to the left of the equation into parts,What needed to be proved.
+  Integrate the integral to the left of the equation into parts, What needed to be proved.
 (cid.
 1835) = - lim (cid.
 3002) → (cid.
@@ -2568,7 +2568,7 @@ Solution.
 1876) + (cid.
 1854))] (cid.
 1856) (cid.
-1876),(cid.
+1876), (cid.
 1876) ((cid.
 1876) + (cid.
 1854))
@@ -2595,7 +2595,7 @@ Solution.
 −1 (cid.
 1854) (cid.
 3429) (cid.
-3505) sin ((cid.
+3505) sin (cid.
 1853) (cid.
 1876)) cos ((cid.
 1853) (cid.
@@ -2650,7 +2650,7 @@ Solution.
 (cid.
 1854)
 Problem 5.
- Prove the equation [4](cid.
+ Prove the equation [4] (cid.
 3505) (cid.
 1857) (cid.
 2879) (cid.
@@ -2789,7 +2789,7 @@ sin (cid.
 1872)
 (cid.
 1856) (cid.
-1872) integralsProblem 6.
+1872) Problem of integrals 6.
   Find ∫:
 (cid.
 2878) (cid.
@@ -2800,7 +2800,7 @@ sin (cid.
 2998) (cid.
 2868)
 values.
- [4]= (cid:
+ [4] = (cid.
 1829) (cid.
 1861) (cid.
 1872) ∙ sin (cid.
@@ -2858,7 +2858,7 @@ values.
 2998)
 (cid.
 1856) (cid.
-1872) =:(cid.
+1872) = (cid.
 1872)
 (cid.
 2868)
@@ -2891,7 +2891,7 @@ values.
 1872))
 (cid.
 4679) (cid.
-4698) :0: (cid.
+4698) ∞0 (cid.
 2878) (cid.
 2998)
 + (cid.
@@ -2910,10 +2910,10 @@ values.
 (cid.
 2868)
 Solution.
- Let's change the integral to the left of the equationSolution.
- We will use the partial integration formula:What needed to be proved.
+ Let's change the integral to the left of the equation: Solution.
+ We will use the partial integration formula: What needed to be proven.
 (cid.
-3433)we will get:Then!in which we put the following values: (cid.
+3433) we will get: Then we put the following values ​​in (cid).
 1829) (cid.
 1861) (∞) = 0, (cid.
 1845) (cid.
@@ -2921,7 +2921,7 @@ Solution.
 3095) (cid.
 2870), (cid.
 1845) (cid.
-1861) (0) = 0,(cid.
+1861) (0) = 0, (cid.
 1856) (cid.
 1872) = - (cid.
 2024) 4.
@@ -3010,7 +3010,7 @@ Solution.
 = - (cid:
 2024) 2+ (cid.
 2024) 4 = - (cid.
-2024) 4,(cid.
+2024) 4, (cid.
 2878) (cid.
 2998)
 (cid.
@@ -3040,9 +3040,9 @@ here we also used (cid.
 (cid.
 2868)
 7. Conclusion.
- The work is fully presented in integralexponential, properties of related special functions andnecessary theoretical bases.
- A number of formulas and problems are presentedin the form of equations և integral representations.
-  Detailed solutions to these problems are presented, which are widely availableare of interest from a methodological point of view.
-Literature 7. http:
-//dlmf.nist.gov/6:Information about the authors: Armenuhi Hakobyan Sargsyan - University of Medical Sciences ԲարձրAssociate Professor of the Chair of Mathematics Teaching Methods, PhysMath.candidate, E-mail.
- armenuhis@mail.ru: Margarita Murazyan - Master student of Yerevan State University, E-mail:
+ The paper fully presents the properties of integral exponential, related special functions and the necessary theoretical bases.
+ A number of formulas and problems are presented in the form of equations and integral representations.
+  Detailed solutions to these problems are presented, which are available and are of great interest from a methodological point of view.
+Literature 7. http.
+//dlmf.nist.gov/6 Information about the authors Armenuhi Hakobyan Sargsyan - Yerevan State University, Associate Professor, Chair of Mathematics Teaching Methods, Candidate of Physical and Mathematical Sciences, E-mail.
+ armenuhis@mail.ru Margarita Murazyan - Master student of Yerevan State University, E-mail.

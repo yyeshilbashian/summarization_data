@@ -1,0 +1,45 @@
+Preface.
+  Modern technological advances lead to the creation of large amounts of data in various sectors of the economy, which are used in a variety of analytical [1] և intelligent (intelligent) systematization systems [2].
+At present, taxi services mostly use modern technologies, as a result of which it has become easier for customers to place orders.
+  One major problem, however, is the choice of direction of the driver's parking position after the end of each route, which increases the likelihood of "catching" the next order as much as possible.
+  The observations show that there are problems with the execution and implementation of orders, and the solution of the above-mentioned problem is absent or not envisaged.
+  Therefore, the development of a system of services that mainly solves taxis is relevant and promising.
+The aim of the presented work is to build an intelligent system offering free taxi drivers' guidelines based on the problem-methodology presented in the [12] work, which will increase the likelihood of another customer being "caught" while increasing taxi service sales.
+Related works.
+  At present, there are a number of research studies based on the analysis of taxi services [3, 7, 8], in which the authors tried to minimize the distance between the free taxi driver and the customer, to develop a mechanism to maximize the number of vehicles, to discover different patterns of human movement.
+  The Monte Carlo Search [4], MarkovDecision Process [5] and SARSA reinforcement learning methods were used in these works [6].
+Customer service system building.
+The intelligent system supporting the taxi services offered in the article aims to direct free taxi drivers to the geographical place where the maximum number of orders is possible at the moment.
+  The construction of the system is based on the sequential implementation of the following functions: 1) large-scale data processing, 2) targeted segmentation of processed data, 3) intellectual analysis of segmented data, and 4) proposal formation.
+New York taxi data [9] was used as the input for the display of the system under development, containing each order number, time of receipt և time, initial և route, number of passengers և final order amount.
+coordinates, final When processing large-scale data, only the initial coordinates of the order, date and time of receipt are required.
+At this stage, the mentioned input data have been processed, the inexpedient data have been removed և invalid orders, the initial or final coordinates of which are on the water surface.
+ The Hadoop environment was used for data processing.
+Targeted segmentation of processed data.
+ The data obtained as a result of the development stage are divided according to the time և ևgeographical location.
+  The division according to the geographical position presupposes the division of the city according to the accepted districts, so that any part has a definite intersection with the neighboring part.
+  An algorithm has been developed for the division of time data, for which the input data is the temporal ∆T interval by which the steps must be performed by the end of the day, թույլ ը the allowable deviation of the distance։։.
+The proposed algorithm consists of the following steps.1. Import of allowable deviation of T-time interval µ µ-distance, 2. ∆T intermittent step movement starting from 00.
+00, clustering of data for each range using DBSCAN algorithm, 4. Calculation of the centers of gravity of the obtained clusters by formula (1), 5. Calculation of the difference of the deviations δ of the given previous ranges by Equation (2), 6. creation of a new range in case δ≥µ (combination of ranges in case of δ <)), 7. repetition from the second point to 24.
+00.
+In the algorithm, the center of the i-th cluster in the k-time interval is determined by the following formulas: the corresponding point of the i-points of gravity is the number of total points in the cluster.
+are the coordinates, ,the difference of the deviation δ of the two adjacent intervals is calculated by the following formula: cluster) where the centers of gravity of the i րդ j-th clusters of the time intervals are respectively – and the points of the clusters of the k րդ m-temporal intervals are respectively.
+ The selection of the permissible deviation parameters of ∆T time range և թույլ allows to find the movement of dense ranges of orders of different time intervals on the map.
+ ինտIntellectual analysis of fragmented data.
+  As a result of the second stage, the data of the orders of different time intervals are simplified in each district of the city.
+  The proposed system, displaying the data on the coordinate plane, searches the accumulations of orders by districts.
+  The accumulated orders are the geographical locations where the number of orders in the given time interval is large.
+  Therefore, directing the free taxi drivers to the received polling station will increase the probability of "catching" the order.
+  The DBSCAN algorithm, one of the most efficient density clustering algorithms, was used to detect order accumulations.
+  It detects clusters of random horsepower in mixed data with great accuracy.
+  Algorithm input data Radius of the point being monitored (eps) նվազ The minimum number of points in the given range (m).
+Figure 1 shows an example of clustering with input parameters eps = 0.01 և m = 7 (the resulting clusters are represented in different colors).
+The conditionally satisfactory orders for the creation of a cluster are depicted in this color, which we will call "noise".
+  Figure 2 shows the final image after removing the "noise".
+Figure 1 Figure 2 in case of Offer formation.
+  The data obtained in different time zones of different parts of the city allow the free taxi driver to move in the necessary direction or to park in a convenient geographical position.
+ The free taxi driver gets the opportunity to apply to the offer intelligence system at any time, to get the image of the orders, the densest, closest domains at the moment, in case of moving in the direction of which the probability of "catching" the next orders increases.
+In order to avoid the accumulation of taxis in the discovered dense areas, it is necessary to create a new grouping system, which will be considered in further work.
+ In the conclusion of the proposal submitted later.
+  Thus, in the intellectual system, teaching methods can be used to adapt to the real time environment.
+Using the data of the taxi services, taking into account the existing problems in them, the intellectual offer of supporting the free drivers of the taxi service was built, offering route guides, increases the probability of accepting new trips of the free taxi drivers, thus increasing the efficiency of sales management of taxi services.

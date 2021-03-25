@@ -1,0 +1,42 @@
+The well-known approach used to solve inequalities of two more modular equations discussed in a school of algebra is the interval method [1], which, while simple and easy to overcome, is also time-consuming.
+  In this work, using the two equations of revelation, we will propose another approach to the solution of inequalities for equations with some modulus, which will allow to bypass the method of the above ranges.
+Below we will briefly mention the essence of the proposed approach, after which we will discuss specific examples of two more modular equations (taken from author or well-known petitions), and we will use the proposed approach to solve them.
+It is easy to see that arbitrary "real numbers" are accompanied by the following inequalities: whereas (1) the case of inequality occurs only when the numbers are of different signs, and (2) the case of inequality occurs only if the numbers are of the same sign. are.
+ և ևBesides, let us note that the expressions for arbitrary և for realities դեպքում will be in case of different signs, and in case of the same sign, consequently, meaning ը, for the expression we will have, when, when.
+                  (4) It is easy to see that (3) and (4) make it possible to "solve equations with the modulus of analysis" to bypass the method of the above-mentioned ranges, for which it is necessary to consider the given equation or inequalities for the values ​​of the variable; , then solve the equation, և inequalities for the values ​​of the variable, respectively.
+To substantiate this, let us consider two examples.
+Example 1.
+ Solve the equation [1, 53].
+Solution.
+ According to the above, we have:
+Answer:
+Example 2.
+ SolveSolution.
+  We have the inequality [2, 9].
+Therefore, according to the above, we will have:
+Answer:
+Note that the proposed approach is also applicable to ևequalities of equations with a modulus of appearance, for which it is necessary to bring the last ones to a form where, after which the resulting equations and inequalities are solved separately for the values ​​of the variable, given that, according to the above, when and when.
+As a justification for this, let us consider two examples.
+Example 3.
+ Solve the equation [1, 56].
+Solution.
+  According to the above, we have և, then: 123 xx123123xxxx123xx1; 2213 \ 1 ; 2; 03; \ 1; 2; 03; 2123xxxRxxRxx: 03; 03; x1122axbaxbc1122axbaxbc1122axbaxbc12120; ; ; ; aabbcR1122axbaxbc1122axbaxbc1122axbaxbc1212; ; ; ; aabbcR120; 0aa1212bbaa1212; bbxaa1212 \; bbxRaa121122112212; , bbxaxbaxbaxbaxbaa121122112212 \; bbxRaxbaxbaxbaxbaa31525xx1230; 50aa12121235bbaa31525xx.
+Answer:
+Example 4.
+ SolveSolution.
+We have the inequality [1, 56].
+ So, according to the above, we will get:
+Answer:
+In addition to the above, it should be noted that the multiple approach can be used to solve equations with a module. As a justification for this, consider these two examples.
+(or similar inequalities).
+  և other appearanceExample 5.
+  Solve the equation [author].
+12341212 ;; 3535315252; 30.25; 11212 \; \; 35350,25; 131525xxxxxxxxRxRxxxx: :0: , 25; 1x4535xx45355435xxxx1250; 10aa1212435bbaa5435xx44; 3; 355431; 1.5; 54355213; 43214 \; 34; \; 353551; 254353xxxxxxxxRxxRxxx: : 13; 32x1212xaxaxac1234xaxaxaxac1234; ;;; aaaacR342912xxx Solution.
+We have, according to the above, we will get it later.
+  The equation is retrospective.
+Example 6.
+  Solve [author].
+Solution.
+  We have, according to the above, we will get Pat.
+In conclusion, we can state that the proposed approach makes it possible to bypass the method of known ranges when solving equations or inequalities of solutions containing more than one module.
+  In fact, work is a way of expressing material-material connections, which, we think, will contribute to the development of students' logical-creative thinking, as well as to the increase of teaching efficiency in general.

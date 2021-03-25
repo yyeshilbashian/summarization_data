@@ -1,59 +1,57 @@
 Medical geography is a frontier science between geography "medicine", which is why it is so diverse.
  It studies the nature of the natural and socio-economic factors of the environment that affect human health in order to maintain human health and prevent disease.
- Science has great practical significance, therefore, in addition to theoreticalknowledge that students are required to have to apply itskills.
-The purpose of this methodological article is medical-geographicalis the presentation of different approaches to practical work, as the stability of knowledge depends not onlytheoretically, but practically-practically, and they are a handIt is brought by doing practical work.
- These jobs require university textbooks or a courselectures, maps, statistical materials, drawing and cartographic accessories.
-       Practically every job should have a purpose,Problems, methods used, implementation options - by all meansBasic materials corresponding to the given topic.
-  There is a discussion in the lecture package of the "Medical Geography" courseTheoretical materials on all topics.
-  Getting acquainted with them, the studentshould be able to.• coordinate information about the given event, element;• Assess and explain the impact on human health separatelythe nature of the factors, elements, features,• Compare the factors affecting human health, mapresults,• Describe the medical-geographical conditions of the area.
-The practical work is done according to the following rules:• The student must complete the practical work;• The work is done in a separate notebook, which remains in the chair;• The work is done in one lesson.
-     The "Medical Geography" course is taught differentlystudents receiving specialties, respectively, eachis developed separately for conducting practical workapproach.
- Various practical activities for this courseThere are approaches, for example, G. Osipenko [3, pp. 17-18] on each topic
-raises questions to clarify the material, fill in the tables, place the material on the outline map without textanalysis, ie the student simply places the areas of spread of the disease.
+ Science is of great practical importance, therefore, in addition to theoretical knowledge, students are required to have the skills to apply them.
+The purpose of this methodological article is to present different approaches to the performance of medical-geographical-practical work, as the stability of knowledge is conditioned not only in theory, but also in practical-practical terms, and they are obtained by doing practical work.
+ These activities require university textbooks or lectures, maps, statistical materials, drawing and cartographic accessories.
+       Every practical work should have a purpose, objectives, methods used, options և, starting materials relevant to the subject.
+  The lecture package of the "Medical Geography" course contains theoretical materials on all the topics discussed.
+  By getting acquainted with them, the student should be able to: • coordinate information about the given phenomenon, element, • evaluate and explain the nature of the elements, elements, features of human health, • combine factors affecting human health, mapping results, • describing the medical-geographical conditions of the area.
+The practical work is done according to the following rules: • the student must do the practical work in full, • the work is done in a separate notebook, which remains in the chair, • the work is done during one lesson.
+     The course "Medical Geography" is taught to students of different specialties, therefore, a separate approach to conducting practical work is developed for each.
+ There are different approaches to conducting practical work in this course, for example, G. Osipenko [3, pp. 17-18] asks questions to clarify the material, fill in the tables, place the material on the outline map without text analysis, ie the student simply places the areas of the disease.
      The article offers options for complex practical work for students of different specialties.
-It is very important for the "Geography" profession to discover the territorial differences of the phenomena, the interconnections between the elements, therefore, practical work is needed.should give such direction.
+It is very important for the specialty "Geography" to discover the territorial differences of the phenomena, the interconnections between the elements, therefore, such a direction should be given to the practical works.
 Let's discuss the health significance of one of the elements of the natural environment.
-Practical work 1:Topic: The health significance of climateThe purpose of the work.• find out the interconnected effect of weather elements on the organism;• Determine the EE of several settlements (effective temperature);• Describe the medical and climatic conditions of the settlements in question;• apply medical-geographical research methods.
-Necessary accessories.text material relevant to the topic,notebook,sketchy map,drawing accessories.
-Job type: practicalWork process.provide students with details about the work.The text work is done in a notebook, the page in the given settlements is determined, and the practical work is done in the outline map.
-Students are provided with climate as a starting pointtwo weather elements of settlements in different zones:Air temperature և relative humidity data, pResolution (according to A. Missenard). [1]                               PA = t-0.4 (t-10) (1-f / 100) (1)where t is the air temperature C °, f is the relative humidity%.
-The advantage of this indicator is that it can be applied year roundto describe both hot and cold conditions.
-Based on this, they are provided with average summer and winter temperaturesand relative humidity indices; և the scale for assessing human heat sensitivity and load [2].
-The work includes three key issues. 1. apply the mathematical method, calculate the page,2. Place the settlements on the outline map, make certain analyzes about their geographical location;3. Compare the comfort level of the given settlementsfor man.
+Practical work 1 Topic: The health significance of climate Objective of the work: • to find out the interconnected effect of weather elements on the organism, • to determine the EP (effective temperature) of several settlements, • to describe the medical-climatic conditions of the settlements in question,
+Necessary accessories: relevant textual material, notebook, outline map, drawing accessories.
+Type of work: practical Work process: provide students with details about the work done. The text work is done in a notebook, the page is determined in the given settlements, and the practical work is done on a sketch map.
+As starting materials, students are provided with data on two weather elements of settlements in different climatic zones: relative air temperature և relative humidity, E-determination formula (according to A. Missenard). [1] EJ = t-0,4 (t-10) (1-f / 100) (1) where t is the air temperature C °, f is the relative humidity%.
+The advantage of this indicator is that it can be used to describe both hot and cold season conditions.
+Based on this, the relative humidity indices of summer միջին average winter temperatures are provided, as well as the scale for assessing human heat sensitivity and load [2].
+The work includes three key issues. 1. apply the mathematical method, calculate the page, 2. to place the settlements on the outline map, to make certain analyzes about their geographical location, 3. to compare the comfort of a given area for a person.
 The student must be able to work effectively and correctly with the given starting materials.
- First, the table is filled in the notebook as follows:Table 1. Effective temperature: EJ in settlementsAir:Air relativehumidity f`%summer / winterResidence:ParisTemperature:summer /winterPage: C °:summer /winterHumanHuman overloadsummer / wintercondition:summer / winterhot / coolMexico City:moderatewarm / moderately warmSydney22.2 / 12.9 hot / size Oymyakonwhich is hotcool / extremely coldcomfortable /comfortablecomfortable /comfortablecomfortable /comfortablecomfortable /freezing highprobability:The student enters the data in Table 1 into Equation (1), calculates the page ամ summer և winter ում and compares the results obtained with thatwith the indicator scale (Table 2) [2].
-Table 2. Human Sensitivity Depending on Effectivetemperature - the size of the pageheathotmoderatecoolmoderatea lotheat  Heavy loadComfortablehotcomfortablecomfortablecomfortablewhich:Page:Feeling:condition:Page:Feeling:coldvery coldextremeExtremely coldOverloadmoderatefrostbitehigh riskcoldvery strongfrostbitehigh:probability:After filling in Table 1, the settlements are placed on the outline map.
-  The purpose of this work is for the studentdoing cartographic work around a phenomenon that interests himis to obtain information related to the location of the object.
-  For himIt turns out in which climatic zone the given object is located, what kindThere are conditions, in what geographical position - sea, inland,to be able to compile a medical-geographical descriptionapply them, explain the conditions of human habitation.
- The student conclusions that allow are very important in this analysismake comparisons while acquiring new knowledgeThey are a source.
+ First, fill in the table in the notebook as follows: Table 1. Effective temperature: PA in settlements. Relative air humidity f:% summer / winter. 9 warm / moderateHigh heat / extremely cold comfortable / comfortable comfortable / comfortable comfortable / comfortable comfortable / Freezing tableThe student enters the data in Table 1 (1) into the formula, calculates the page ամ in summer և in winter համեմատ 2 in comparison with the sum obtained from salt (2) ].
+Table 2, page after Efektivjermastichani Human jermazgatsoghutyune depends on metsutyunitsshogtakchapavorzovchapavorshatshog TsanrabernvatsuuzheghchapaharmaravettakharmaravetharmaravetharmaravetvorEJZgatsoghutyuntyunEJZgatsoghutyuntsurtshat tsurttsayraheghtsayrahegh tsurtTsanrabernvatsutyunchapavortsrtaharmanbardzr vtangtsurtshat uzheghtsrtaharmanbardzrhavanakanutyunAghyusak 1 is done by filling in the outline areas on the map.
+  The purpose of this work is to obtain information about a place of interest to the student by doing cartographic work related to the location of the object.
+  He finds out in which climatic zone the given object is located, what are the conditions, in what geographical position - sea, inland, in order to be able to use instructions when compiling a medical-geographical description, to explain the conditions of human habitation.
+ The student's conclusions are very important in this analysis, which allow comparisons to be made, and they are a source of new knowledge.
 The performed works are handed over for inspection.
 For the specialty "Service" it is possible that the students know the peculiarities of the resettlement, lifestyle and work activity of the population of the given area.
-They are of medical-geographical interest. "food, the national cuisine, which is often conditioned bythe spread of many foodborne illnesses.
-Practical work 2:Topic: The health significance of foodThe purpose of the work.• Find out the role of food in maintaining human health• Find out the nature of foodborne illness ևspread,• Introduce the peculiarities of food geographical distribution;• compile and give collections of several national cuisinesmedical-geographical description• apply medical-geographical research methods.
-Necessary accessories.text material relevant to the topic,notebook,sketchy map,drawing accessories.
-Job type: practicalWork process.provide students with details about the work.The work is done in a notebook, answering the nominationquestions.
+Of medical and geographical interest are the food, the national cuisine, which is often conditioned by the spread of many food diseases.
+Practical work 2 Topic: The health significance of food Objective of the work: • to find out the role of food in maintaining human health • to find out the nature of foodborne illness ածdistribution, • to present the geographical features of food, • to compile collections of several national cuisines
+Necessary accessories: relevant textual material, notebook, outline map, drawing accessories.
+Type of work: practical Work process. Provide students with details about the work. The work is done in a notebook, answering the questions.
 1. What are the requirements for food?
-2. What effect do the structure of food have on the human body?composition.
+2. What effect do the structure and composition of food have on the human body?
 3. What is the relationship between food կլ wild climates և?
 The next stage of the work is done on the outline map.
-Place on the map.1. "Nutrition types" (wheat, corn, rice, millet sorghum):using medical geography lectures2. Develop symbols for the presented zones.
+Place on the map.1. "Nutrition types" (wheat, corn, rice, millet-sorghum) using medical geography lectures, 2. Develop symbols for the presented zones.
 Work with a collection of national cuisine, which is compiled with the prior instruction given by the students.
 The performed works are handed over for inspection.
-      The above practical work option has a number of advantages.1. The student answers the questions only if he / she fully masters the teaching material; 2. he formulates the answer himself, choosing the problems that are important for him from his point of view; 3. The student has the opportunity to do a little research work. to collect materials that will make his collection different
-from others, to make a choice in the matter of national cuisines.
+      The above practical work option has a number of advantages.1. The student answers the questions only when he / she has mastered the lecture material completely. 2. he / she formulates the answer himself / herself, choosing the main problems for him / her, 3. the student has the opportunity to do a little research work to collect materials that would make his collection different from others, to make a choice in the matter of national cuisines.
 The nature of the practical work of medical geography for the specialty "Pharmaceutical Chemistry" և the requirements are somewhat different.
- Let's discuss one option.Practical work 3:Topic: The health significance of plantsThe purpose of the work.• Find out the health benefits of different types of plants;• Identify food, poisonous, allergenic plants և herbsgroups և give their health significance,• Get acquainted with the distribution of herbs in Armenia.
-Necessary accessories.text material relevant to the topic,notebook,"National Atlas of Armenia", Yerevan, 2007, page 80drawing accessories.
-Job type: practicalWork process.provide students with details about the work.1. work with lecture material,2. work with atlas maps,3. work with plant collections.
-Due to the first job, the student completes the following assignments in the notebook:1. Separate plants according to fields of application: herbs;Edible plants, ornamental plants,2. Fill in the table.
-Table 3. Health significance of plantsPlantsHerbs:Poisonous plantsDiseased plantsThe nameImpact:Distribution:The second work is done "National Atlas of Armenia", E.2007, page 80 with a map of "Useful wild plants".
- Students do screening work, either by individual regions or byof separate plant species.
+ Let's discuss one option. Practical work 3 Topic: The health significance of plants The aim of the work: • to find out the health significance of different types of plants, • to separate food, poisonous, allergenic plants և herb groups և to give their health significance,
+Necessary items: relevant textual material, notebook, "National Atlas of Armenia", Yerevan, 2007, page 80 drawing accessories.
+Type of work: practical Work process: provide students with details about the work done.1. work with lecture material 2. work with atlas maps, 3. work with plant collections.
+Due to the first task, the student completes the following assignments in the notebook.1. Separate plants according to areas of application: herbs, food plants, ornamental plants, 2. fill in the table.
+Table 3. The health significance of plants Plants Herbs Poisonous plantsPathogenic plantsName Impact DisseminationThe second work is done with "National Atlas of Armenia", E. 2007, page 80 with map "Wild useful plant species".
+ The students carry out research work, either according to separate regions or according to separate plant species.
  They make notes about their prevalence in the notebook.
-The task of compiling plant collections is assignedstudents in advance.
-  They choose the plants, post themdried specimens, write information about the distribution, therapeutic significance պատմության history of use.
+The work of compiling plant collections is assigned to the students in advance.
+  They select the plant species, the dried samples, write information about the distribution, therapeutic significance and the history of use.
   This work helps future professionals to strengthen and enrich their knowledge of herbal medicine.
 The performed works are handed over for inspection.
-Conclusion. 1. Practical works of the medical geography course ևMethodological instructions for implementation are presented for the first time, 2. Practical works, in addition to medical-geographical theoretical knowledge, also include cartographic, mathematical, biological knowledge;3. An appropriate version of the practical work is offered for each profession;4. Practical work enhances the teaching of the courseefficiency,5. This method of practical work can be applied in other higher educational institutions of the republic.
-Literature 2. Isaev A. А. Локологическая климатология. M.
- 2001. 456 С.3. Osipenko G. Л. Medical geography and ecology.
- praktческое руковод Author Info:Valesyan Anahit Parg - work. scientist candidate, Gyumri M. Nalbandyan said State Pedagogical Institute, Assistant, E-mail:
+Conclusion. 1. Practical works of the course of medical geography մեթոդ Methodological instructions for implementation are presented for the first time, 2. Practical works, in addition to medical-geographical theoretical knowledge, also include cartographic, mathematical, biological knowledge, 3. An appropriate version of practical work is offered for each profession, 4. practical work increases the teaching efficiency of the course, 5. This method of practical work can be applied in other higher educational institutions of the republic.
+Literature 2. Исаев А. А. Локологическая климатология. M.
+ 2001. 456 C.3. Osipenko G. Л. Medical geography and ecology.
+ praktческое руковод Author InfoVanahyan Anahit Parg - work. scientist candidate, Gyumri M. Nalbandyan State Pedagogical Institute, assistant, E-mail.

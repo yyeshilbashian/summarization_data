@@ -1,0 +1,187 @@
+The problem of rational numbering has given rise to numerous discussions and can be presented in tabular or graphical ways during research [1-3].
+  The SternBroco tree is used as a graph in the graphic representation [2, 6].
+ It was independently discovered in 1858 by the German mathematician Maurice Stern և in 1860 by the French watchmaker Achille Brock.
+To this day, there are numerous scientific works, monographs and dissertations dedicated to the analysis of this topic from the point of view of both modern mathematics and informatics [1-6].
+In addition to rational numbers, the object of study was irrational numbers [7], the accuracy of which was approximated by fractions in the Stern-Brock tree.
+ The tree shows the way to obtain these approximate values.
+1. Stern-Broco tree.
+ Rational numbers.
+Stern-Broccoli is a representation of all non-shrinking fragments that are regularly located at the top of a regular tree.
+The negative tree is the following: The algorithm for "growing" the Stern-Brock tree is as follows: The first step.
+ Let's take two fractions: չ (an indefinite fraction describing infinity) և Calculate the "average" of those fractions («the" average "of the fractions is called the eco-fraction). Taking the first step, we will have the following look: Second step.
+  At the second level, the corresponding "averages" will be arranged as follows: Third Step.
+Continuing the process "indefinitely", we can construct a whole set of non-negative non-negative fractions, where the numerators are arranged in the same sequence as the denominators written in reverse order.
+levels of fractionsAll. 1. The 6 levels of the Stern-Broco tree. In other words, in the initial step the Stern-Broco tree has two fragments, the first "ancestors" of the future fragments. In the first step, one of them, their "average", is added. In the second step, two fractions, two fractions, appear. In the third step, the "family is replenished" by these four fractions.
+Note that the number of fractions placed at the vertices of the ninth step of the Stern-Broco tree construction increases by.
+As a result, we get a twin tree represented in the form of a graph, on the branches of which are written fragments, "which eventually grow downwards".
+The Stern-Broco tree has a number of interesting properties.1. Irreducibility of fractions, 2. Fractional arrangement (the smallest fragment in a tree occurs once և only once), 3. Existence of all fractions - completeness, 4. At any step in the construction of the Stern-Broco tree, the fractions are arranged in an ascending order from left to right. The "average" of the two fractions lies between those fractions. The "average" of the two fractions "about 1" is "close" to each of them, 7. "Near" fractions are always irreducible.
+The sequence of symbols obtained as a result of simultaneous construction, which is determined by any non-negative rational fraction, is called the Stern-Broco calculation system.
+Stern-Brocko Thus, if we assign the left "son" vertex to 0 or L and the right "son" vertex to 1 or R in the graph for the parent vertex, then we have, for example, the sequence LRRLR or 01101 corresponding to the fraction 8/11.
+  Saturn is represented by Stern-Brock in the "L R" or "0 1" calculation system.
+Computer modeling allows you to determine the rational fraction number, path (representation in the "L R" system) և coordinates (level number և fraction number at that level), as well as ամենամ the nearest fraction number, path, coordinates և generations Stern-Brock.
+For example, the fraction number is 12, the path is RRLL, and the "ancestor" fractional coordinates are [4; 5], that is, the fraction, counted from the root of the tree, is the 12th և occupies the 5th position of the 4th level.
+And the common ancestor of և fractions is the fraction, whose number is 4, the path is LL, the coordinates are [3,1], and the "generations" are և fractions.
+1 If the numerator of the difference between two fractions is equal to one, then such fractions are called "near" fractions.
+Computer modeling is based on the following programs: m1 = 0.
+ n1 = 1.
+ m2 = 1.
+ n2 = 0 n = 1.
+ p = n.
+ q = 2 * np = a * (n1 + n2).
+ q = b * (m1 + m2) If p <q Then m2 = m1 + m2.
+ n2 = n1 + n2.
+ n = 2 * n If p> q Then m1 = m1 + m2.
+ n1 = n1 + n2.
+ n = 2 * n + 1 s = "".
+ y = "" s = c + s.
+  n = n \ 2 m1 = 0.
+ m2 = 1.
+ n1 = 1.
+ n2 = 0 If z = "0" Then m2 = m1 + m2.
+ n2 = n1 + n2 Else m1 = m1 + m2.
+ n1 = q = 1.
+ i = 1.
+ q1 = 1 q1 = q1 + 2 ^ (i - 1).
+ q = q + 2 ^ i.
+ i = i + 1 u = i.
+ v = n - q1 + 1 m1 = 0.
+ m2 = 1.
+ n1 = 1.
+ n2 = 0 If z = "L" Then m2 = m1 + m2.
+ n2 = n1 + n2 Else m1 = m1 + m2.
+ n1 = Computer modeling allows all possible digital transitions of "fruits" on the Stern-Broco tree by fraction, by number, by path և by coordinates.
+Fig. 2. Numerical Transitions on the Stern-Brock Tree On the basis of these other similar subroutines, arithmetic operations can be compiled in parallel with 10 Stern-Brock "LR" programs, which performs these operations in counting systems, using the same fractions.
+Fig. 3. The interface of the arithmetic calculator in the Stern-Broko calculation system2. Irrational numbers.
+As for the irrational numbers, they are presented on the Stern-Broco tree only in the form of their approaches.
+For example, the numbers e թվ π are irrational րանս transcendental numbers, their value can not be represented as a fraction m / n, where m և n are integers.
+  Therefore, their titular performance never ends, it is not periodic.
+The number e is natural, as is the mathematical constant, and the number π indicates the ratio of the length of the circle to the diameter և is also mathematically constant.
+The basis of the logarithm: They have the following representation (to the nearest hundredth). As a result of computer modeling, we will have the following table for the representation of the number e in the Stern-Broko calculation system. Table 1.
+ Analysis of the sequential approximations of the number e
+k:
+a
+r:
+o:
+t:
+o:
+k:
+h:
+h:
+r:
+a
+p:
+a
+n:
+a
+ճ:
+h:
+r:
+a
+m:
+a
+h:
+h:
+r:
+e:
+n:
+t:
+a
+n:
+ի:
+d:
+r:
+o:
+o:
+k:
+h:
+q:
+e:
+h:
+r:
+a
+n:
+ի:
+a
+f:
+թ:
+յ:
+յ:
+h:
+n:
+ւ:
+o:
+թ:
+ւ:
+o:
+t:
+շ:
+ճ:
+It should be noted that Mikhail Minkovsky gave the following representation of the number e for the first time at the International Congress of Mathematicians in 1904. And for the representation of the number we will have the following table of analysis in the Stern-Brock calculation system. Table 1.
+ Analysis of the sequential approximations of π
+r:
+e:
+n:
+t:
+a
+n:
+ի:
+d:
+r:
+o:
+o:
+k:
+յ:
+h:
+n:
+ւ:
+o:
+թ:
+ւ:
+o:
+t:
+շ:
+ճ:
+յ:
+h:
+q:
+e:
+h:
+r:
+a
+n:
+ի:
+a
+f:
+թ:
+h:
+h:
+r:
+a
+h:
+p:
+r:
+a
+a
+m:
+n:
+a
+a
+h:
+ճ:
+h:
+k:
+a
+r:
+o:
+t:
+o:
+k:
+For the representation of the number π, there is no such analytical representation as there was for the number e.
+Let us present the approximations of e, π, irrational numbers, as well as the function according to the Stern-Broco calculation system. The following software part is used during the computer modeling of irrational numbers [4]. ListBox1.Items.Add ("L").
+ a = a / (1 - a) a = a - 1.
+ ListBox1.Items.Add ("R") Conclusion.
+  As a result of computer modeling, the basic features of the Stern-Broco tree become more visible.
+As a result of the tree-growing algorithm, all non-negative non-shrink fractions are obtained, which are arranged in regular, infinitely low-growing binary tree tops.
+For the description of negative rational fractions it is possible to use the mirror image of the Stern-Brock tree structure described above, growing from its root to the "fruits" of which are already the negative fractions.
+Irrational numbers in Stern-Brockoits have their corresponding approximations և can be determined with preset accuracy.
+Computer modeling makes the transformation of parameters from one to another արդյուն the results of arithmetic operations performed on fractions more obvious.

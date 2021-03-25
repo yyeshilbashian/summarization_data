@@ -1,100 +1,78 @@
 The purpose of the work.
- E-business infrastructureOne of the components of the foundation - the study and analysis of the telecommunications sector for the development of e-business in Armeniain the context of possible preconditions.
+ The study and analysis of one of the components of the e-business infrastructure infrastructure, the telecommunications sector, in the context of a number of preconditions for the development of e-business in the Republic of Armenia.
 Timeliness.
-  Today տեղեկատվ information և telecommunicationsTechnology is a key factor in ensuring socio-economic progress for each country, the world economyan indisputable precondition for integration.
-The application of ICT in various sectors of the economy leads to:economic growth, increase of labor productivity, reduction of costs, emergence of new types of economic activity.
+  Today, information and communication technologies are a key factor in ensuring socio-economic progress for each country, an indisputable precondition for integration into the world economy.
+The use of ICT in various sectors of the economy leads to economic growth, increased labor productivity, reduced costs, the emergence of new types of economic activity.
 European Commission 2010 According to the estimates of the report, 19952004. The 50% increase in labor productivity in the EU was due to the use of ICT.
- Moreover, there is also the opposite effect, when the development of other sectors of the economy is promoted by ICTthe progress of the sector, in particular in terms of creating new demand.
-  In general, using new high-tech solutions,The creation of competitive goods and services offers a wide range of ways to solve economic and social problems.
- E-business is a system that includes businessThe classical ideas of management require a certain basis for technological development.
- E-business development in any countryThe establishment of the ICT sector is a basic precondition.
+ Moreover, there is also the opposite effect, when the development of other sectors of the economy contributes to the progress of the ICT sector, particularly in terms of generating new demand.
+  In general, the creation of new, competitive products and services using high-tech solutions offers a wide range of ways to solve economic and social problems.
+ E-business is a system that, including the classic ideas of business management, requires a certain basis for technological development.
+ The establishment of the ICT sector is a basic precondition for the development of e-business in any country.
  Armenia is no exception in this respect.
- Therefore, in the context of a comprehensive study of the problems and conditions of e-business development in our country, the ICT sector, in particular, telecommunications developments, potential opportunities andproblem analysis.
-The development of e-business in each country is due to a number of preconditions, among which are specific ICT ոլոր communication sector, e-business legislation, logistics infrastructure development are important.
-The above can be considered as a wholetalk about e-business infrastructure system.
-  Studied and analyzed in the framework of this article only the telecommunications sector as a component of the e-business infrastructure.
-2017 The annual revenue of communication service providers in Armenia amounted to 145.6 billion drams, which is the previous year
-is about 4% less than the index.
- In general, the index observed during the last 10 years has shown instability. sharp increases
-followed by as sharp declines as the current oneAnnual revenue from communication services is even less thanIt was in 2007 (in the mentioned year the index made 152.3 billion drams).
- The otherTariffs for communication services during the same periodThey are constantly decreasing.
-  2007-2017 Tariffs for communication services
-The change index, on average, compared to each previous year98.4, and the chain index of tariff changes in 2007.compared to 84.3 [1].
-The structure of annual revenue of communication services is dominated by the provision of telecommunication servicesrevenue (93.4% in 2017 [2]).
-  In the field of telecommunications of ArmeniaThere are 33 companies, which, according to NACE rev2, are classified as:Companies providing wired telecommunication systems services (61.10), wireless telecommunication systems services (61.20), other telecommunication services (61.90) և companies operating web portals (63.12).
+ Therefore, in the context of a comprehensive study of the problems and conditions of e-business development in our country, the analysis of the ICT sector, in particular, telecommunications developments, potential opportunities and issues is of paramount importance.
+The development of e-business in each country is conditioned by the existence of a number of preconditions, among which the sphere of ICT-communication, the legal support of e-business, the development of logistics infrastructures have special importance.
+If we consider the above as a whole, we can talk about the e-business infrastructure system.
+  Only the telecommunications sector as a component of the e-business infrastructure infrastructure has been studied and analyzed in the framework of this article.
+2017 The annual revenue of communication service providers in Armenia amounted to 145.6 billion drams, which is about 4% less than the previous year.
+ In general, the index observed during the last 10 years has shown instability. The sharp increases were followed by the same sharp declines as a result: at present the annual revenue from telecommunications services is even less than in 2007 (in the mentioned year the index made 152.3 billion drams).
+ On the other hand, the tariffs for communication services have been steadily reduced during the same period.
+  2007-2017 The index of changes in tariffs for communication services, compared to each previous year, averaged 98.4, and the chain index of changes in tariffs, compared to 2007, was 84.3 [1].
+The structure of annual revenue from telecommunications services is dominated by revenue from telecommunications services (93.4% in 2017 [2]).
+  There are 33 companies in the field of telecommunications in Armenia, which, according to NACE rev2, are classified as wireless telecommunication services (61.10), wireless telecommunications services (61.20), companies providing other telecommunications services (61.90), web portals (63). companies.
  The main services provided by these companies include mobile իք landline, cable մ wireless internet, IT infrastructure (for example, web hosting) և VoIP services.
-  Note that in the field of telecommunicationsExisting companies provide more of their servicesmuch more for the domestic market than for export.
+  It should be noted that telecommunications companies provide their services to the domestic market rather than for export.
 Revenues from telecommunications services are dominated by revenues from mobile services (in 2017 - 62 billion drams or 45.4%), followed by the share of Internet access services (45.1 billion drams or 33.2%).
-  It is interesting that during the last 10 years there are quite remarkable trends in the structure of telecommunication services.observed (Figure 1.3).
+  It is interesting that during the last 10 years quite remarkable tendencies are observed in the structure of telecommunication services (Figure 1.3).
   Thus, during the observed period, the annual revenue from the Internet access service increased 9.2 times, from 5 billion drams to 45.1 billion drams.
- At the same time, the revenue of telephone (wired) service decreased by 4.4 times, reaching 201712.2 billion drams.
- As a result, the share of this service in the structure of telecommunication services has decreased from 1/3 to9%.
-Figure 1.3. The share of individual services
-Annual revenue for telecommunications services structure, 2007-2017, with interest [4]Developments and attractiveness of the telecommunications sector in the Republic of Armenia ևA remarkable assessment of competitiveness can be seen in the dynamics of investments in the sector (Figure 1.4).
- It should be noted that a rather interesting picture is observed here, the volume of investments in the telecommunication sphere has been registered in sharp declines since 2000, until 2005. sustained growth was replaced by a sharp decline next year,
-to almost zero level.
+ At the same time, the revenue of telephone (wired) service decreased 4.4 times, reaching 12.2 billion drams in 2017.
+ As a result, the share of this service in the structure of telecommunications services has decreased from 1/3 to% 9%.
+Figure 1.3. The share of individual services in the structure of the annual revenue of telecommunication services, in 2007-2017, in percentages [4] The dynamics of investments in the telecommunications sector in Armenia, attractiveness ևThe dynamics of investments in the sector can be considered as a remarkable assessment (Figure 1.4).
+ It should be noted that a rather interesting picture is observed here, the volume of investments in the telecommunication sphere has been registered in sharp declines since 2000, until 2005. Stable growth was replaced by a sharp decline to almost zero the following year.
  Next, 2006-2009. A new phase of ascent was registered, which was replaced by a similar sharp decline in 2010.
- That's right,There has been a weak investment boom in the sector since 2012, but it is a question of the situation following the so-called "floor" of the recession, which is far from the beginning of positive qualitative changes.from being considered.
-Figure 1.4. Private investments in the field of telecommunications of the Republic of Armenia
-million USD [11]94% of the total income of the Internet services segment in Armenia is provided by four large Internet companies, one of which is an Armenian company, and the other threeare companies with foreign participation.
-  In 2017, the growth in the field of Internet services (cable, wireless և VoIP) was rather low, and the revenue generated amounted to 152.4 million US dollars.USD (6.8% annual growth rate).
-  In the scope of the mentioned servicesThe share of foreign companies is 86%.
-As a result of the process of development of public mobile communication networks տարածքում coverage expansion in the territory of the Republic of Armenia, in 2018 As of January 1, all settlements of the Republic of Armenia are provided with at least one operator
-with public mobile coverage.
-  Moreover, 4.2% of the settlementsIt is covered by 1 operator, 15.3% by 2 operators և 80.2% by 3 operators with public mobile coverage [6].
+ It is true that there has been a weak investment boost in the sector since 2012, but we are talking about a situation following the so-called "floor" of the recession, which is far from the beginning of positive qualitative changes.
+Figure 1.4. Private Investments in Telecommunications in Armenia, $ 1 million [11] 94% of the total revenue of the Internet services segment in Armenia is provided by four major Internet companies, one of which is an Armenian company, and the other three are foreign-owned companies.
+  In 2017, the growth in the sphere of Internet services (cable, wireless և VoIP) had rather low rates, and the generated income amounted to 152.4 million US dollars (6.8% annual growth rate).
+  The share of foreign companies in the volume of these services is 86% [5].
+As a result of the process of development of public mobile communication networks տարածքում coverage expansion in the territory of the Republic of Armenia, in 2018 As of January 1, 2012, all settlements of the Republic of Armenia are provided with coverage of at least one public mobile operator.
+  At the same time, 4.2% of the settlements are covered by 1 operator, 15.3% by 2 operators and 80.2% by 3 operators with public mobile communication coverage [6].
 43% of companies providing Internet access services are companies with foreign participation.
-Companies providing internet services in ArmeniaThe following services are offered in the domestic market: ADSL, fiber-optic cable internet, WiFi և WiMax wireless access technologies, general-purpose packet radio communication(GPRS), EDGE, CDMA և 3G technologies (UMTS / WCDMA), 4G / LTE.
-All settlements in Armenia are provided with public mobile phoneswith 3G communication technology coverage.
- 2017 mobile by the end of the year
-The number of mobile subscribers was about 3.5 million.
- It is developinghad a mobile network based on 4G / LTE technology, which:It is available in the settlements of the republic.
-  Moreover, in 20184G / LTE network infrastructure is envisaged during the yearExpansion in other settlements as well, as a result of which the RA interstateAt least 88% of highways, as well as settlements, are securedwill be covered by 4G broadband internet coverage.
-2017 International "IP" transit flows as of the end of the year
-The bandwidth in the republic was 379000 Mbps, which in 2016has increased by 12% compared to last year, and more during the last 5 yearsmore than 8 times (Figure 1.5).
-Figure 1.5. International IP transit service flows
-bandwidth 2008-2017 (Mbps) [8]
-International IP Transit Service as a result of competitionDue to the increase in flows, the tariff for that service has also decreased.
- 2017 At the end of the year, the cost of 1 Mbps transit IP flow was 1400
-AMD / Mbit / s in 2016 decreased by about 53% compared to the end of the year,
-and in the last 5 years the index has decreased 6.5 times (drawing1.6).
-Figure 1.6. Tariff dynamics of international IP transit service
-2008-2017 (AMD / Mbit / s) [9]
-Retail of broadband internet access servicesmarket (excluding mobile 3G) is dominated by fiber optic FTTxsubscribers, whose share in 2017 was about 51
-percent.
- Moreover, in 2016 compared to the number of FTTx subscribers
-has increased by about 17%.
- At the same time, there was a decrease of about 12%for subscribers with wired xDSL technology internet accessin number.
-The most fast-growing in the retail market became more fast-pacedtechnology-based Internet access (e.g. FTTH)Tariff packages offered to consumers in terms of both stand-alone service and "Triple Play", including IP TV and telephone.
-  In particular,In the market with the package of "Three in One" services with IP TV և telephone connection is offered from 20 Mb / s internet flowSpeeds up to 100 Mb / s with tariffs from 8500 AMD to 24000 AMD.
-Innovative "Quad Play" offered by operators with fixed mobile connection in the retail marketpackage of services, which includes telephony based on fixed communication technology, internet access, IPtelevision, as well as mobile telephony.
-In general, the number of Internet access service subscribers (including mobile 3G և 2G) in 2017 amounted to 2.62 million
-which increased by about 8.8% compared to the previous year.
- Added:also providing broadband internet access servicesvolumes, the number of subscribers (including mobile 3G) in 2017amounted to 2.27 million, which means that it was registered compared to the previous yearThe number of subscribers has increased by 19%, and during the last 5 years the index has more than doubled (Figure 1.7).
- Broadband belowIncrease in the number of Internet subscribers in 2008-2017dynamics.
-Figure 1.7. Subscribers with broadband internet access
-number, thousand people [10]The volumes of mobile broadband internet access services have increased, the number of subscribers of which in 2016At the end of the year it was 1.96 million, which means that of the previous yearThe number of subscribers increased by 22% compared to the previous year (Figure 1.8).
-Figure 1.8. Mobile broadband internet access
-Number of subscribers in 2012-2017, thousand people [10]Despite the number of internet subscribers և internet usersGiven the rapid growth trends, it should be noted that Armenia's position in the Mediterranean is not so good.
-  Thus, our relative fixed broadband internet subscription rate is oursAlthough the country slightly exceeds the level of middle-income countries, it is significantly behind its main EEU partners, namely the other two countries of the South Caucasus (on average,1.5 to 2.0 times), and with the average of European countriesmore than 3 times (Figure 1.9).
-Figure 1.9. Fixed broadband internet subscriptions (100:
-per capita, 2016) [12]E-business infrastructure system capacityOne of the characteristics is the availability of secure Internet servers.
-With this indicator, Armenia lags significantly behind the world averagelevel, it is somewhat inferior to some of its neighbors, howeveralmost twice the level of middle-income countries(Figure 1.10).
+The companies providing internet services in Armenia offer the following services in the domestic market: ADSL, fiber-optic cable internet, WiFi և WiMax wireless access technologies, general purpose packet radio communication (GPRS), EDGE, CDMA և 3G technologies (UMTS / WCDMA),
+All settlements of the Republic of Armenia are provided with 3G technology of public mobile communication.
+ 2017 As of the end of the year, the number of mobile subscribers was about 3.5 million.
+ The mobile communication network based on 4G / LTE technology has been developed, which is available in the settlements of the republic.
+  At the same time, in 2018, it is planned to significantly expand the infrastructure of the 4G / LTE network in other settlements, as a result of which at least 88% of the interstate highways of the Republic of Armenia, as well as settlements, will be provided with 4G technology broadband internet coverage [7].
+2017 As of the end of the year, the international "IP" transit flow throughput in the country amounted to 379000 Mbps, which increased by 12% compared to 2016, and more than 8 times during the last 5 years (Figure 1.5).
+Figure 1.5. International IP Transit Service Flow Capacity 2008-2017 (Mbps) [8] As a result of the competition, due to the increase in international IP transit service flows, the tariff for that service has also decreased.
+ 2017 At the end of the year, the cost of transit IP flow with a speed of 1 Mbps was 1400 AMD / Mbps in 2016. decreased by about 53% compared to the end of the year, and during the last 5 years the index has decreased 6.5 times (Figure 1.6).
+Figure 1.6. International IP Transit Service Tariff Dynamics 2008-2017 (AMD / Mbps) [9] In the retail market of broadband Internet access services (excluding mobile 3G), FTTx fiber-optic subscribers predominated, whose share in 2017 was about 51 percent.
+ Moreover, in 2016 The number of FTTx subscribers has increased by about 17% compared to last year.
+ At the same time, there was a decrease of about 12% in the number of subscribers with internet access with xDSL technology.
+Tariff packages based on high-speed technologies (for example, FTTH) are widely used in the retail market, which are offered to consumers in both stand-alone and "Triple Play" format, including IP TV and telephony.
+  In particular, in the market, with the package of "Three in One" services, with IP TV և telephone connection, internet flow rates from 20 Mb / s to 100 Mb / s are offered, with tariffs from 8500 AMD to 24000 AMD.
+In the retail market, mobile operators have offered an innovative "Quad Play" service package with a combination of mobile communication, which includes telephony based on fixed communication technology, Internet access, IP TV, as well as mobile mobile telephony.
+In general, the number of Internet access service subscribers (including mobile 3G և 2G) in 2017 amounted to 2.62 million, an increase of about 8.8% over the previous year.
+ The volume of broadband internet access services has increased, the number of subscribers (including mobile 3G) in 2017 amounted to 2.27 million, which means that the number of subscribers has increased by 19% compared to the previous year, and over the last 5 years the figure has increased more. more than 2 times (Figure 1.7).
+ The growth dynamics of the number of broadband subscribers in 2008-2017 is shown.
+Figure 1.7. Number of subscribers with broadband internet access, thousand people [10] The volume of mobile broadband internet access services has increased, the number of subscribers at the end of 2016 amounted to 1.96 million, which means that the number of subscribers increased by 22% compared to the previous year. 1.8).
+Figure 1.8. Number of mobile broadband internet subscribers in 2012-2017, thousand people [10] Despite the growing trend of internet subscribers և internet users, it should be noted that Armenia's position in the Mediterranean is not so good.
+  Thus, the country with a relative ratio of fixed broadband internet subscriptions, although slightly higher than the level of middle-income countries, is significantly behind its main EEU partners, the other two countries in the South Caucasus (on average - 1.5 to 2.0 times), and the average of European countries Let's follow the index more than 3 times (Figure 1.9).
+Figure 1.9. Fixed broadband internet subscriptions (per 100 inhabitants, 2016) [12] One of the key features of the e-business infrastructure system is the availability of secure Internet servers.
+With this indicator, Armenia lags significantly behind the world average, somewhat behind some of its neighbors, but almost twice as high as the middle-income countries (Figure 1.10).
 Ряд1, EU, 996:
-Russia,Ряд1, World,Ряд1, Belarus,Georgia, 63
+Russia, Ряд1, World, Ряд1, Belarus, Georgia, 63
 Ряд1, Average:
-Ряд1, Turkey,with income
+Ряд1, Turkey, with income
 Armenia, 55
 countries, 26
-Kazakhstan,Azerbaijan, 21
+Kazakhstan, Azerbaijan, 21
 Ряд1, Iran, 14:
 Kyrgyzstan, 13:
 Uzbekistan, 6:
-Figure 1.10. Number of secure internet servers (Per 1 million inhabitants), 2016 [13]Conclusion.
- Thus, it is obvious that the Republic of Armenia has significantly improved the electronic system in recent yearsIndicators of one of the key components in the business infrastructure, the telecommunications sector, which, however, are somewhat behindremains one of the world development trends.
-  In this regard, the priorities of e-business development activities in ArmeniaThe system of actions aimed at improving the indicators of the telecommunication sector occupies the most important place among them.
-Literature 1. Source: Author's calculations: Socio-economic situation of the Republic of Armenia in January-December, 2007-2017 monthly:
-Based on the data in the "Prices ակ Tariffs" section of the reports.
-  NSS RA,2008-2018 publications.
+Figure 1.10. Number of secure Internet servers (per 1 million inhabitants), 2016 [13] Conclusion.
+ Thus, it is obvious that in recent years the Republic of Armenia has significantly improved the indicators of one of the key components in the e-business infrastructure, the telecommunications sector, which, however, lags behind the global development trends.
+  In this regard, the system of actions aimed at improving the indicators of the telecommunications sector occupies a key place in the list of priorities for e-business development in Armenia.
+Literature 1. Source: Author's calculations: Socio-economic situation of the Republic of Armenia in January-December, 2007-2017. Based on the data of the "Prices և Tariffs" section of the monthly reports.
+  NSS RA, 2008-2018 publications.
 2. The calculation according to the socio-economic situation of the Republic of Armenia in 2017. January-December, RA NSS report, page 41.
 3. The ICT Sector in Armenia 2015, Information and Communication Technology Sector Survey in Armenia, Enterprise Incubator Foundation, December 2017, p. 18.
 4. Source of data: Socio-economic situation of the Republic of Armenia in January-December, 2007-2017. reports, NSSRA 2008-2018 publications.
@@ -104,9 +82,9 @@ Based on the data in the "Prices ակ Tariffs" section of the reports.
 8. RA Public Services Regulatory Commission 2017 Activity Report, Yerevan, 2018, page 34.
 9. Public Services Regulatory Commission of the Republic of Armenia 2017 Activity Report, Yerevan, 2018, pp. 34-35.
 10. Public Services Regulatory Commission of the Republic of Armenia 2017 Activity Report, Yerevan, 2018, page 36.
-11. Source: World Bank world development indicators, website: http://data.worldbank.org/indicator/IE.PPI.TELE.CD?view=chart, visit date: 28.04.2018.
-12. Source: World Bank world development indicators, website: http://data.worldbank.org/indicator/IT.NET.BBND.P2? View = chart, visit date: 28.04.2018.
-13. Source: World Bank world development indicators, website: http://data.worldbank.org/indicator/IT.NET.SECR.P6? View = chart, visit date: 28.04.2018.
+11. Source: World Bank World Development Indicators, website: http // data.worldbank.org/indicator/IE.PPI.TELE.CD?view=chart, visit date: April 28, 2018.
+12. Source: World Bank World Development Indicators, website: http://data.worldbank.org/indicator/IT.NET.BBND.P2?view=chart, visit date: 28.04.2018.
+13. Source: World Bank World Development Indicators, website: http // data.worldbank.org / indicator / IT.NET.SECR.P6? View = chart, date of visit: 28.04.2018.
 14. https.
 //ec.europa.eu/digitalagenda/sites/digitalagenda/files/european_competitivene
 ss_report_2010.pdf, page 8.

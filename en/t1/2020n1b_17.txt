@@ -1,0 +1,126 @@
+Introduction.
+ Solving systems of linear equations is one of the most common problems in a number of sciences related to mathematics.
+  Since linear functions are the most well-studied models, the most common dependence models are linear models, which in turn lead to the solution of systems of linear equations.
+  Therefore, the rapid solution of systems of linear equations becomes relevant when studying various problems in different branches of science.
+  And their speed can be solved with the help of digital methods.
+then straightforward methods for solving systems of functional linear equations.
+Gaussian method (expulsion of variables).
+ Consider a system of linear equations for an unknown. Let's look at one of the most widely used methods for solving systems of equations, the Gaussian method, also called the variable expulsion method [1-3].
+  With the help of the Gaussian method, the calculations are performed in 2 main stages, which are called straight-reverse steps.
+  The essence of the Gaussian step-by-step method lies in sequential deportation, which results in a system equivalent to the baseline system with a corresponding upper-angle matrix.
+  The determination of variables is done in the reverse step.
+The direct step consists of the expulsion steps.
+In particular. Step 1.
+ The purpose of this step is to exclude the variable from the equations.
+ Let's call it the main element of the first step.
+Find the quantities called 1-step manufacturers.
+ (1) Equations 2, 3,…, -1 of the system of linear equations by subtracting the quantities from the corresponding equations multiplied mentally.
+  With the exception of the Saturn linear equations system, we will expel the system from the equations, the variable.
+  As a result, (1) equivalent to the baseline system և all smsmsssmmmmbxaxaxaxabxaxaxaxabxaxaxaxa ............ 33221122323222121113132121111m1xsi, ... , 3,2011asiaaii, ..., 3,21111s11312 ... ,,, s1x 1131321212123123212211313212111 ............ smsmssmmmmbxaxaxabxaxaxabxaxaxaxa where և quantities are determined by formulas.
+The other steps are taken in the same way.
+  Describe the next step.
+Step.
+ The goal of this step is the system of linear equations, where the variable is expelled from the equations.
+ The coefficient is called the main element of the -th step.
+  Find the step-producers.
+The system-equation of the system of linear equations obtained during the previous step, subtracted from the equations by multiplying them by their quantities, and leaving the equations 1, 2,…,-unchanged.
+  This will allow all the equations of the system, except for the 1st, 2nd,…, -equalities, continuing the expulsion - in the general case of the expulsion - we will get the following system with linear equations. variable.
+Equation like this As we can see, the resulting system (3) already contains, because as a result of the changes, some equations can be thrown there, becoming identities.
+ Moreover, it is assumed that no equation was obtained during the shifts, the coefficients of which are 0 on the left and 0 on the right, because in that case the resulting system, such as the equivalent (1) system of starting linear equations, would be incompatible.
+  And in the case under discussion (3), as in the system of baseline linear equations 1 ija1ibmjsi, ..., 3,2, ... ,, 3,2jiijijaaa111 111bbbiiikkkxski, ..., 101kkka1kkkakk11kkkkikikaikaski, ..., 1 ,Sk, ..., 1kskkkkk, ... ,,, 2,11k1kkx1m 11112123123212211313212111 ............ mtmmtmtmttmmmmbxaxabxaxaxabxaxaxaxatst will be compatible.
+ Moreover, if, then, it is uncertain.
+Example 1.
+ [4], then it will be definite, and the System is definite և has only one solution:
+Example 2.
+ [4]
+The system is compatible և has innumerable multivariate solutions.
+Example 3.
+ [4] The system is incompatible.
+The Gaussian method in the case of LU analysis of the matrix corresponding to the system of the unit division scheme.
+ We will now look at the Gaussimeth method from a more general point of view, which will allow not only a deeper understanding of the method, but also the creation of highly efficient mechanical algorithms, as well as the study of other accurate methods [5, 6].
+Suppose a given system of linear equations, which by means of a matrix equation will have the following appearance: with respect to the variable 010122001518300561003421 ~  00000000000561003421  50560342 ~ 4324321xxxxxxx6560334 ~ 423421xxxxxx 272543 ~ 113214xxxxxx43212523223124321432143214321xxxxxxxxxxxxxxxx 43112121152322311112 ~ 34220713301977011112 ~ ~ 191000052200001977011112 ~ 19105220197712 ~ 444324321xxxxxxxxxxxmm, where.
+                       (4) As we have seen, as a result of calculations of the first straight step of the Gaussian method, the system of (4) linear equations written in matrix form is reduced to the following form, where.
+                        (5) On the other hand, import the following matrix.
+                                                                                  (6) It is easy to verify that the matrix equations are true, that is, the transformation of the system of equations (5) is equivalent in appearance to the multiplication of the matrices corresponding to the right-to-left parts of the matrix.
+The system of linear equations obtained in the penultimate step is performed as a result of performing the straightforward calculations of the straight step of the linear Gaussian method.
+                  (7) bAxmmmmmmaaaaaaaaaA212222111211 ......... xxmxxxxx .. .321mbbbbb ... 32111bxA: 11312131331321212312211312111 ... 0 ...... 0 ... 0 ... mmmmmmmaaaaaaaaaaaaA 1131211 ... mbbbbb1 ... 00 .. .0 ... 100 ... 010 ... 001113121mMbMbAMA1111, 1M1m11mmbxA 31232331213212213121111 ... 000 ...... 00 ... 0 ... mmmmmmmaaaaaaaaaaA 31231211 ... mmmbbbbb On the other hand, let us introduce the following matrix. Here, too, are the true matrix equations, that is, the transformation of the system of linear equations obtained from the penultimate step (7) The multiplication of the matrices corresponding to the appearance of the parts is equal to the right-hand matrix of the introduced system.
+Thus, we can prove that by multiplication of the matrix, we can prove that it is. It is easy to get that.
+with matrices the matrix is ​​obtained sequentially.
+  Similarly, can be derived from-.
+We will make the appointments.
+ Determining the matrix, we will see that it has the following appearance. .
+In that case we will get. matrix.
+  This is the representation of the matrix obtained by the lower triangular analysis, ie 1 ... 00001 ... 000. ..00 ... 01000 ... 0011,1mmmM211211, mmmmmmbMbAMA1mM1mAA121, ... ,, MmMMM AMMMAmm1211 ... bMMMbmm1211 ... AMMMAmm1211 ... 1111211 ... mmAMMMA 1 ... 00 ... 0 ... 100 ... 010 ... 0011131211mM: 1 ... 00 ... 0 ... 100 ... 0100 ... 00122312mM1 ... 00001: ... 000 ... 00 ... 01000 ... 0011,11mmmM1112111 ..., mmMMMLAUL 1 ...... 0 ... 10 ... 010 ... 001321231312mmmLLUAALUA ից from the product of the upper triangular matrices.
+  The straight step of the Gaussian method can thus be considered as a process of calculating the analysis according to the system of linear equations, in the first step of which the elements of the-column of the-matrix line are determined.
+ matrixExample 4.
+ [5]
+determined symmetric The system is definite և has only one solution:
+The method of systematic analysis of linear equations (Holetskumet method).
+ Suppose a system of solution-algebraic algebraic equations (4) is required.
+  The Kholetsky method is often used to solve these typographic systems, which is called the square root method [5, 6].
+  The algorithm underlying the method is the construction of the analysis that results in the transposed matrix of.
+ The matrix is ​​already marked in the analysis of the lower triangular matrix, where the matrix is ​​LUALUkLkUk222625374258261043243214321321xxxxxxxxxxxxxxxx 222602115374215802610 ~ 05.00004.44.54.40034320802610 ~ ~ 05.04.44.54.4343282610 ~ 443432321xxxxxxxxx0101 ~ 4321xxxx, 15.230016.13.00015.00001L, 5.00004.54.400432002610 U, 2,2,7,8b, 385.07112212bbb, 4.083.02113313 bbb, 2802114414bbb.
+2,4.0,3,81b, 4.436.14.012231323bbb, 1133212241424bbb .
+11,4.4,3,82b, 04.45.21123342434bbb.
+0,4.4,3,83b) 0,1,0,1 (ALAALUTLLATLLL does not have to contain only 1s on the main diagonal, as in the Gaussian method.
+  It is only required that the diagonal elements of the matrix be positive. If the analysis has already been obtained, then (4) the solution of the system of linear equations leads to the sequential solution of the following systems with triangular matrices. First find the elements of the matrix.
+  To do this, we determine the elements of the matrix, և equate them with the corresponding system of equations քում as a result.
+  Solve the matrixSolving the system (11) we will find the following: Determining the elements of the matrix with the obtained formulas (12), we will solve first the first system of (10), then the second, as a result of which we will get Liil of the initial (4) linear equations.
+...... 0 ... 0 ... 021221211mmmmllllllLTLLA.
+, yxLbyLTLTLLAmmmmmmkikkkikikikkkkkkiiiiialllmkiallklllalllmiallllallmiallal22221221122221222212122222212111111211 ..... ., ..., 1, ..., ......, ..., 4,3 ,,, ..., 3,2,, .
+...... ,,, ..., 1, ..., ..., ... ,, ..., 4,3 ,,,, ..., 3,2,, 21, 22211,1,221121,22212221122212222211111111mmmmmmmmkkkkkikikikikikikkkkkkkkiiiiilllalmkilllllllallllalmilllallallalmilalalL the square root system.
+  Note that the square root extraction operation is used to determine the diagonal elements.
+  That is why we call the Kholetsky method the positivity of the corresponding root expressions is the result of the matrix being positively determined.
+The Kholetsky method has a number of interesting properties, due to which it is more preferable than the Gaussian method in the case of solving systems of linear algebraic equations with a positively determined symmetric matrix.
+method.
+  Proven, Example 5.
+ [5]
+Numerical methods for systematic analysis of linear equations.
+  As we have seen, the Gaussian algorithm for the systematic analysis of linear equations can be represented as follows: The program corresponding to the presented algorithm in the PASCAL programming language will have the following form: Var n, i, j, k.
+integer; tmp.
+real; b, x.
+array [1..100] of real; a.
+array [1..100,1..100] of real; For i.
+= 1 to n do For j:
+= 1 to n do read (a [i, j]); For i.
+= 1 to n do read (b [i]); For k:
+= 1 to n do For j:
+= k + 1 to n do tmp.
+= a [j, k] / a [k, k]; For i.
+= k to n do a [j, i].
+= a [j, i] - tmp * a [k, i]; b [j].
+= b [j] -tmp * b [k]; For k:
+= n downto 1 do tmp.
+= 0; For j:
+= k + 1 to n do tmp.
+= tmp + a [k, j] * x [j]; x [k].
+= (b [k] -tmp) / a [k, k]; For i.
+= 1 to n do writeln (x [i].
+0.
+5) The program presented in the program environment, we can solve the discussed examples in 3-4 seconds, where the number of unknowns is equal to the number of equations.
+by typingExample 1.
+,) 1 () 1 () (kkkkkjkkjaaa,) 1 () 1 () (kkkkkkkkabb,) () 1 () 1 () (kkjkikkijkijaaaa,) () 1 () 1 () (kkkikkikibaaba;, 1,;, 1nkjink, nnnnabx, 1nijjijiixabx.
+1,1ni Example 4.
+Example 5.
+As we can see, as a result of the program written in PASCAL programming language, the answer coincides with the result solved by the direct method.
+Note, however, that the written program does not allow systems of solvable linear equations whose number of unknowns coincides with the number of equations.
+  Obtaining the algorithm of the mentioned case և the design of the program is connected with rather big difficulties և can be solved in case of serious work by the specialists of the relevant field, the programmers.
+However, in recent years, computer mathematics kits have been developed by relevant specialists, which are a powerful tool for solving systems of linear equations for various mathematical problems [15-18].
+  Such packages are MAPLE, MATHEMATICA, MATLAB, MACSYMA և other computer packages, which allow solving without delving into the nuances of programming.
+  We will use the Mathematica package.
+  The solution of mathematical problems of different nature leads to the solution of systems for determining the roots or equations of different types of equations [15-18].
+  For this purpose, the package provides quite effective means, of which in this case we can mention Solve, Reduce, Eliminate mathematical problems - operators.
+  Using the mentioned operators, let's solve the systems of linear equations solved by direct methods for the purpose of comparative analysis.
+Example 1.
+Example 2.
+Example 3.
+Example 4.
+Example 5.
+As we can see, in the case of all the examples used by both operators, the answer is obtained instantly with the Resolved Result.
+Completely coincides with the comparative analysis of the results of solving systems of linear equations by the direct method.
+  Let us present the comparative analysis of the solutions obtained as a result of the application of direct և numerical methods for solving the systems of linear equations (Table 1).
+As a result of the analysis we can state that .1. The direct և digitally obtained results of the solution of systems of linear equations coincide with the methods.
+using 2. The foremost advantage of digital methods for the analysis of systems of linear equations is the saving of time by applying straight methods.
+  Of course, in order to solve linear equation systems in PASCAL programming language, it is necessary to write the program in advance, but having it, any system can be solved in 4-5 seconds, of course, when the number of unknowns is equal to the number of equations.
+  And in the case of the MATHEMATICA computer package, it is possible to solve a system of arbitrary linear equations instantly by simply importing the appropriate operator.
+3. The advantage of the MATHEMATICA computer package over the PASCAL programming language is that with the latter it is possible to solve a system of linear equations of any kind, and with the help of the PASCAL programming language it was possible to solve only systems of linear equations where the number of unknowns was equal to the number of equations.

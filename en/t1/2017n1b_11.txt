@@ -1,77 +1,75 @@
 1. Introduction.
- Solving algebraic or transcendental equations is one of the most important parts of applied analysis.It is of great importance in the study of various problems in physics, mechanics, natural sciences, technology, and the humanities.
+ Solving algebraic or transcendental equations is one of the most important parts of applied analysis, which is of great importance in the study of various problems in physics, mechanics, science, technology, and the humanities.
 In many cases, it is necessary to approximate the algebraic or transcendental equations.
- It should be notedthat methods are currently being developed that can be obtainedApproximate solutions of these equations with some accuracy.
-Depending on whether algebraic or transcendentalrequires the implementation of approximate methods for solving the equationHuge calculations, so when using such problems, the use of a computer becomes mandatory.
-  This requires mastering modern programming languages, programming problem algorithms (and building blockchains) with a computer.implementation.
+ It should be noted that methods are currently being developed to obtain approximate solutions to these equations with some accuracy.
+Due to the fact that the implementation of approximate methods for solving algebraic or transcendental equations requires large-scale calculations, the use of a computer becomes mandatory when considering such problems.
+  This requires mastery of modern programming languages, programming of problem algorithms (and building blockchains) դրա computer implementation.
 This methodological work describes in detail the method of sequential approximations for determining the roots of algebraic ենդ transcendental equations.
- A program has been developed for this algorithmwith its block diagram.
+ A program blockchain was developed for that algorithm.
   Specific examples show the application of developed algorithms նրանց their implementation through programs (blockchains) on a computer.
 The paper clearly considers the practical issues necessary for the use of currently widely used mathematical software packages (Mathematica, MathCad, Matlab, Maple, Exel, etc.) for practical calculations.
 2. Solving algebraic or transcendental equations
 the method of sequential approximations (iteration).
-Let's say it is givenequation where 𝑓 (𝑥) is a continuous function of some [𝑎, 𝑏] segmenton.
- Equation (1) can easily be replaced by its equivalent in the equation where φ (x) is a continuous function of the same [a, b] segmenton.
-How do we choose a արժեք0 value of x, considering it to be this or that?is close to the root ξ of equation (2), let's put that value տեղադր0(2) to the right of the equation.
- In that case we will get the number 𝑥1Now put the value 𝑥1 to the right of (2), we will get a new number 𝑥2Let's continue this process.
- In the nth step we will get If the resulting sequence 𝑥 1, 𝑥2,…, 𝑥𝑛, լինի is parallel,that is, there must be a limit value for it:in that case, (5) crossing the boundary in equality when 𝑛 → ∞, we will haveThe representation here on the right is related to the continuity of the function φ (x).
- And so we will haveThat is, the boundary of the constructed sequence 𝑥1, 𝑥2,…, 𝑥𝑛,:The value of (6) is the root of equation.
-All we have to do is put conditions on φ (x) on a continuous function such thatthat the constructed sequences 𝑥1, 𝑥2,…, 𝑥𝑛,… are parallel.
-  That's rightthe following theorem.Theorem.
-  Let the function φ (x) be defined և differential (derivative) is a function on the segment [𝑎, 𝑏], where the values ​​of the function φ (x) are: 𝜑 (𝑥) ∈ [𝑎, 𝑏].
- If there is such a positive q value as less than one (q <1),such that:| 𝜑 ′ (𝑥) |: 𝑞 𝑞 <1, when 𝑎 ≤ 𝑥 𝑏 𝑏,
-then:1. 𝑥𝑛 = 𝜑 (𝑥𝑛 − 1) (𝑛 = 1,2,…) process, regardless of 𝑥0 ∈ [𝑎, 𝑏] initialfrom the choice of value, converges,(𝑥𝑛) will be the limit value (2)the only root of the equation on [𝑎, 𝑏].
+Suppose we give an equation where 𝑓 (𝑥) is a continuous function of some [𝑎, 𝑏] segment.
+ Equation (1) can easily be replaced by an equal equation where φ (x) is a continuous function of the same [a, b] segment.
+How can we choose a արժեք0 value of x, considering that it is close to the root ξ of equation (2) in one way or another, տեղադր place that 𝑥0 value to the right of equation (2).
+ In that case we will get the number և1 յ Now put the value 𝑥1 to the right of (2), we will get a new number 𝑥2Continue this process.
+ In the nth step we get If the obtained sequence 𝑥 1, 𝑥2,…, 𝑥𝑛, լինի is parallel, that is, there exists a limit value for it, in that case, (5) crossing the boundary in equation, when 𝑛 → ∞, we will have is related to the continuity of the function φ (x).
+ And so we will have that is, the limit value of the constructed sequence 𝑥1, 𝑥2,…, 𝑥𝑛, ՝ (6) is the root of equation.
+All we have to do is put conditions on the continuous function φ (x) such that the constructed sequence 𝑥1, 𝑥2,…, 𝑥𝑛, լինի is parallel.
+  Exactly the following theorem. Theorem.
+  Suppose the function φ (x) is a definite և differential (derivative) function on the segment [𝑎, 𝑏], and the values ​​of the function φ (x) are 𝜑 (𝑥) ∈ [𝑎, 𝑏].
+ If there exists a positive q value less than one (q <1) such that | ′ ′ (𝑥) | ≤ 𝑞 <1, when 𝑎 ≤ 𝑥 ≤ 𝑏, then 1. The process 𝑥𝑛 = 𝜑 (𝑥𝑛 − 1) (𝑛 = 1,2, պր), regardless of the choice of the initial value 𝑥0 ∈ [𝑎, 𝑏], coincides, (սահման) the limit value will be the only root of equation (2) [𝑎, 𝑏] On.
 Proof.
-  Consider each other in a constructed sequenceWe will have two next members, 𝑥𝑛 + 1 և և𝑥𝑛 = 𝜑 (− − 1) և 𝑥𝑛 + 1 = 𝜑 (𝑥𝑛)We can write from here𝑥𝑛 + 1 - 𝑥𝑛 = 𝜑 (𝑥𝑛) - 𝜑 (𝑥𝑛 − 1).
-Apply for the difference to the right of this relationWe will get the final Langrange growth formulawhere:∈ ∈ (𝑥𝑛 − 1, 𝑥𝑛).
-Using the condition of the theorem (9), we can get from (11)the following inequality: Now if we give n values ​​here, we will have n = 1,2,3,:Consider the following series:for which (n + 1) the private sum will be:(13) by the power of the inequalities, (14) the members of the series are absolutely smaller than the corresponding members of the series of the nature of the geometric progression, where the denominator is 0 <q <1, hence the known analysisBy the power of the theorem (14) the series coincides, and it is absolute.
- Therefore, if:If we cross the border, we will have (15) in equalitywhere lim:
-𝑆𝑛 + 1 exists է is finite, then և exists և𝑥𝑛 the boundary, which is finite.
-If we set that limit :𝑥𝑛 = , where  ∈ [a, b], (17)then in one of the equations (10) crossing the boundary when n → ∞we will get (see (6) - (8))that is, ՝ is the root of the equation (2).
+  Consider two consecutive members of the constructed sequence 𝑥𝑛 + 1 𝑥𝑛 𝑥𝑛, we will have կունեն = 𝜑 (− − 1) և 𝑥𝑛 + 1 = 𝜑 (𝑥𝑛) From here we can write 𝑥𝑛 + 1 - 𝑥𝑛 = 𝜑 (𝑥𝑛) - 𝜑 (𝑥𝑛 − 1 ).
+For the difference to the right of this relation, use Langrange's finite growth formula, we get, ∈ (− − 1, 𝑥𝑛).
+Using the condition of the theorem (9), we can get the following inequality from (11): Now here we give n the values ​​n = 1,2,3,…, we have Consider the following series, for which (n + 1) The sum will be: (13) by the power of inequalities, (14) the members of the series are absolutely smaller than the corresponding members of the series of the nature of geometric progression, where the denominator is 0 <q <1, hence the power of the known theorem of analysis (14) is absolute.
+ Therefore, if we cross the boundary, we will have lim in the equation (15)
+𝑆𝑛 + 1 exists է is finite, then և𝑥𝑛 there exists a limit և𝑥𝑛 which is finite.
+If we denote that limit : 𝑥𝑛 = , where  ∈ [a, b], (17) then crossing one of the equations in one of the 10 (10) equations, when we get n → ((see (6) - (8)) that is  ՝ is the root of the equation (2).
 (2) Equation has no other root in [[, 𝑏].
-Indeed, suppose that տարբեր is different from համար for equation (2)is a root that belongs to [𝑎, 𝑏], ieIn that case we can write̅–  = φ (̅) - φ ().
-Applying Langrange's final growth formula, we get:Where c∈ [, ̅].
- Because according to the theorem, [1-𝜑 ′ (𝑐)] is not equalzero (| (𝜑 ′ (𝑐) | ≤ 𝑞 <1), so ̅–  = 0, ie ՝ = , and this meansis that the  root we found is the only one.
+Indeed, suppose that , different from ՝, էլ is also a numeral of equation (2), which belongs to [𝑎, 𝑏], that is, in which case we can write - φ ().
+Using Langrange's finite growth formula, we get Where c∈ [, ̅].
+ Since according to the theorem condition, [1-𝜑 ′ (𝑐)] is not equal to zero (| (𝜑 ′ (𝑐) | ≤ 𝑞 <1), then ̅–  = 0, ie այսինքն = ̅, and this It also means that the root we have found is the only one.
 Remark 1.
-  If (𝑎, 𝑏) the interval (-∞, + ∞) is an integer,then the theorem is also true in this case if the condition of theorem (9) is true x∈
+  If the interval (𝑎, 𝑏) is (-∞, + ∞) is an integer, then the theorem is also true ճիշտ in this case, if the condition of theorem (9) is true x∈
 For (−∞, + ∞).
 Remark 2.
-  As we have seen, the iterative sequence {𝑥𝑛 ում coincides with any choice of 𝑥0In this case.
+  As we have seen, the sequence ով} կառուց constructed on the iteration principle coincides with any choice of 𝑥0.
 Let us now estimate the approximation 𝑛.
- We can writewhere will we have? | 𝑥1 - 𝑥0 |.
-If we cross the boundary in this inequality when p → ∞, then:we will finally get| x1 - x0 |.
-As we can see from the estimate, the smaller q,the faster the iteration process will approach its limit value.
-The algorithm of the method of sequential approximations for determining the root of the equation 𝑥 = 𝜑 (𝑥) is given inand the block diagram is shown in Figure 1.
+ We can have | 𝑥1 - 𝑥0 |
+If we cross the border in this inequality, when p → ∞, we will finally get | x1 - x0 |.
+As we can see from the obtained estimate, the smaller q is, the faster the iteration process will approach its limit value.
+The algorithm for the sequential approximation method for determining the root of the equation 𝑥 = 𝜑 (𝑥) in the Mathlab environment program is shown below, and the block diagram is shown in Figure 1.
 Figure 1.Example 1.
-  Find the following equation: 𝑥 - 𝑠𝑖𝑛𝑥 = 0.25 real the root 𝜀 = 10−4 accuracy.
+  Find the real root of the following equation: 𝑥 - 𝑠𝑖𝑛𝑥 = 0.25 with accuracy 𝜀 = 10−4.
 Solution.
- By rough estimation or graphic method we canget the approximate value of the root of the equation: x0 = 1.2, moreoverIt is obvious that  <x0.
- We can write the given equation as follows:Taking as the main range (1.1; 1.3), which is justifiedgraphically) և assigning we will have:| 𝜑 ′ (𝑥) |: 𝑐𝑜𝑠 𝑐𝑜𝑠520 ≈ 0.62 = 𝑞 <1.
-We can writeChoosing x0 = 1.2 և giving խնդ = 10−4 according to the condition of the problem, let us construct xn
-successive approximations until two hundred xn − 1 և xnThe difference in approximations will satisfy that accuracy.
-We will get:𝑥8 = 𝑠𝑖𝑛1.1712 + 0.25 = 0.9212 + 0.25 = 1.1712.
-As we can see, the exact value of the root is:In the current program, enter according to this equationdata:we will get:Example 2.
+ By rough estimation or graphical method we can get the approximate value of the root of the equation: x0 = 1.2, and it is obvious that  <x0.
+ The given equation can be written as follows: Taking as the main range (1.1; 1.3), (which is substantiated graphically) by denoting we will have: | 𝜑 ′ (𝑥) | 𝑐𝑜𝑠 𝑐𝑜𝑠520 ≈ 0.62 = 𝑞 <1.
+We can writeElecting x0 = 1.2 և giving ըստ = 10−4 according to the condition of the problem, build xn
+successive approximations until the difference of two hundred xn − 1 և xn approximations satisfies that accuracy.
+We will get: 𝑥8 = 𝑠𝑖𝑛1.1712 + 0.25 = 0.9212 + 0.25 = 1.1712.
+As we can see, the value of the root with this accuracy is: If we enter the corresponding data of this equation in the Now brought program, we will get: Example 2.
  Find the largest positive root of the following equation 𝑥3 + 𝑥 = 1000 with accuracy 𝜀 = 10−4.
 Solution.
  With a rough estimate we can get the approximate value of the root of the equation: x0 = 10, and it is obvious that  <x0.
- We can write the given equation as follows:or:in the form of:
-Taking as the main range (9,10) և assigningwe will have:= 𝑞 <1.
-In this example we can write:.
- If we enter the relevant data of the equation:then we get:3. Use of computer Mathcad system.
-Computational ենդ Transcendental Equation Roots for Problems in Computer Mathematics Systemsuse allows for mathematical calculationsto automate the arduous calculations, as a result of which one can significantly gain in terms of spending time.
- This is very effectivethe use of graphical capabilities of systems.
-   Here are some steps you can take to begin the process of preparation for mediation (see MathCad)his work [6]).
+ We can write the given equation as follows: by will.
+Taking as the main range (9,10) և denoting = 𝑞 <1.
+In this example we can write.
+ If we enter the relevant data of the equation, we will get: 3. Using a computer Mathcad system.
+The use of computer mathematics systems in the problem of approximate determination of the roots of algebraic ենդ transcendental equations makes it possible to automate the complex calculations of mathematical calculations, as a result of which one can significantly gain in terms of time spent.
+ It is also very effective to use the graphical capabilities of these systems.
+   Below we will take the steps required to use the MathCad computer system (see [6] in this regard).
  To do this, use the root function of MathCad.
 For example.
  Find the root of the equation 𝑥 - 𝑠𝑖𝑛𝑥 = 0,25 with the necessary accuracy using the root function.
-         In this case you need to type using the keyboard (see Figure 2):We take the accuracy of the calculation from the corresponding scale (𝜀 =:
+         In this case you have to dial with the help of the keyboard (see Figure 2): We take the accuracy of the calculation from the corresponding scale (𝜀 =
 10−4).
  By adding the sign "=", we get the value of the root:  = 1.1712.
 Figure 2.4. Conclusion.
   The work is methodical, in which:
 The method of consecutive approximation of the roots of algebraic transcendental equations is described in Armenian.
-  The program of this iteration algorithm with its block diagram is being developed ևwith concrete examples it is implemented through a personal computer.
+  The program of this iteration algorithm is developed with its block diagram - with specific examples it is implemented through a personal computer.
  It also shows the application of computer mathematics to the possibilities of approximate determination of the roots of algebraic or transcendental equations.
-BOOK: 6. Hayrapetyan GS, Sargsyan S.H. Algebraic equations
-Numerical methods of solution ումը Using the possibilities of computer mathematics // Scientific Bulletin of the University of Yerevan.
- 2016. N1.Prak B.pp. 106-128.
+REFERENCES 6. Hayrapetyan GS, Sargsyan S.H. Numerical methods for solving algebraic equations օգտագործ Using the possibilities of computer mathematics // Scientific Bulletin of the University of Yerevan.
+ 2016. N1: Prak B. pp. 106-128.

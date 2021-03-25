@@ -1,80 +1,76 @@
-Real crystals are different from ideals in the first placebecause they contain atoms of a crystalline lattice of solid matternumerous regular layout violations.
- These network defects are related to the technical conditions of crystal growth,as well as with further technological processes.
-  However, structural defects in the crystal can also occur on it differentlyExternal influences: heating, plastic deformation, implantation, electric-magnetic fields.
-It has been proved [1,2] that the crystal lattice has a very high velocity(energy) penetrating ions "damage" the network, causingnetwork defects.
-It is known [3,4] that the X-ray diffraction method is quite commonis a delicate և accurate method of structural irregularities in almost perfect crystals ենթարկ subjected to various external influencesfor the study of structural defects in perfect crystals.
-  Thus, work on [5] X-ray interferometerwith the help of ionically demonstrated ion implantationGradual increase in radiation flux over time leads to accumulation of primary point defects, particularly dislocationsoccurrence.
-  Work on [6] dual X-ray interferometerThe transverse deformations in the surface layer of the ion-implanted silicon crystal (interferometer block) were experimentally investigated.
-  Determined based on the results of the experimentare relative deformations և integral stresses dependingfrom the radiation dose.
+Real crystals differ from the ideal in that they contain many irregularities in the regular arrangement of the atomic crystal lattice of the solid.
+ These network defects are related to both the technical conditions of crystal growth and further technological processes.
+  However, structural defects in the crystal can also occur during external influences on it - heating, plastic deformation, implantation, electric-magnetic fields.
+It has been proven [1,2] that ions penetrating the crystal lattice at a very high speed (energy) "damage" the lattice, causing lattice defects.
+It is known [3,4] that the X-ray diffraction method is a rather delicate, accurate method for the study of structural defects in almost perfect crystals, structural defects in perfect crystals subjected to various external influences.
+  Thus, in work [5], X-ray interferometry has been experimentally shown that the gradual increase in the radiation flux during ion implantation leads to the accumulation of primary point defects, particularly dislocations.
+  In paper [6], the transverse deformations of the surface layer of an ion-implanted silicon crystal (interferometer block) were experimentally investigated using a double X-ray interferometer.
+  Based on the results of the experiment, the relative deformations որոշ integral stresses will be determined depending on the radiation dose.
   In [7], X-ray interferometric research methodology was developed for the study of the nanostructure of ion implanted surface layers of silicon crystals, and the relationships of the "swelling" of these layers were obtained.
-  Job [8] has a special structureX-ray three-block interferometer determined by ion implantation in the crystal (interferometer block) caused by ion implantationUsing the expression used to calculate the periodicity of moire images when estimating deformation fieldsconditions.
- In Work [9], an X-ray three-block interferometer first shows that a crystal plate (interferometer block)The temperature gradient applied on the surface can cause dilatations of the crystal lattice (interfacial distanceschange), then a connection is established between the "temperature" period of the moiré image.
-  Worked in [10]The effect of the electric field on polar crystals, in particularon the structure of piezoelectrics և segnetoelectrics.
- Work:In 11, X-ray interferometric study of structural defects in silicon semiconductor crystals under the influence of an external constant magnetic field was investigated.
-During the experiments, the authors obtained X-ray displays at different values ​​of the magnetic field induction vector module ևhave shown that the effect of a magnetic field on an interferometer block causes a change in the periodicity of the moat layers, thenCalculate the relative deformation with the help of experimental dataIn the case of different values ​​of magnetic induction, find that at the value of 1500 Gauss of induction, the Moore image disappears.
-  Based on the above, X-ray interferometric examination of the structural defects caused by different external influences in the crystals in general, and the external constant magneticStudy of transverse deformations caused by fieldsin particular, is one of the modern problems of solid state physicsone to which this work is dedicated.
-As the X-ray interferometric method is extremely sensitive to structural disturbances և has a high solubility, so in this work we have also applied siliconin a crystal under the influence of external constant magnetic fieldsthis method of examining structural defects.
-Silicon semiconductor crystals are used in the workThe results of theoretical research on the effects of fixed magnetic fields on X-ray diffraction method, where a new X-ray proposed by us was used for the theoretical description of the deformation fields of crystals.interferometer.
- The goal is twofold (one interferometer can work as two interferometers, respectively). with reference) with the help of interferometers(Fig. 1), because of structural defects in semiconductor crystalsresearch with such interferometers will allowto obtain a more complete picture of the deformation fields in the crystalfor.
+  In Work [8], the X-ray three-block interferometer with a special structure was used to determine the conditions for the expression used to calculate the periodicity of moire images when estimating the deformation fields caused by ion implantation in a crystal (interferometer block).
+ In Work [9], an X-ray three-block interferometer first shows that the temperature gradient applied to a crystal plate (interferometer block) can cause dilatation of the crystal lattice (change in intermediate distances), then a temperature is established.
+  The effect of an electric field on the structure of polar crystals, in particular piezoelectrics և segnetoelectrics, is studied in Paper [10].
+ The work 11 investigated the structural irregularities in silicon semiconductor crystals under the influence of an external constant magnetic field by X-ray interferometric method.
+In experiments, the authors obtained X-ray maps for different values ​​of the magnetic field induction vector modulus. They showed that the effect of the magnetic field on the interferometer block led to a change in the moiety of the molar layers, and then to calculate the relative deformation at 1500 with the help of experimental data. In case of value, the image of Moore disappears.
+  Based on the above, X-ray interferometric examination of structural defects caused by various external influences in crystals in general, and the study of transverse deformations caused by external fixed magnetic fields in particular, is one of the current problems in solid state physics, to which this work is dedicated.
+Because the X-ray interferometric method is extremely sensitive to structural disturbances և has a high solubility, in this work we have also applied this method to the study of structural defects caused by the influence of external magnetic fields in the silicon crystal.
+The paper presents the results of theoretical research on the effects of fixed magnetic fields on silicon semiconductor crystals by X-ray diffraction method, where a new X-ray interferometer proposed by us was used for the theoretical description of the deformation fields of crystals.
+ The goal is achieved with the help of double (one interferometer can work as two interferometers with reflections, respectively) interferometers (Fig. 1), as the study of structural defects in semiconductor crystals with such interferometers will provide a more complete picture of the deformation fields in the crystal.
  For this purpose, the theoretical results of deformation field studies in crystals in the case of double interferometer (Fig. 1) are presented in the work.
- և:The work clarifies the external constant magneticX-ray interferometer block crystal under the influence of the fieldThe dilatation և mechanisms of dislocation motion, and consequently պատճառ the reasons for the change in Moore's image, on the basis of which the transition from to was chosen.is the coefficient of thermal expansion, T is the temperature,
+ քումThe work explains the mechanisms of change of interfacial distance (dilatation) ում in the block-crystal of the X-ray interferometer և under the influence of an external constant magnetic field և the mechanisms of movement of the dislocations, therefore և the reasons for the change of Moar's image. n temperature
 (where:
-is the modulus of the magnetic field induction vector), since there is a similarity between the temperature gradient and the magnetic field:Among the effects left on the crystal. The magnetic field in the crystal causes such a tense state as thermal expansion
-time.
- Magnetic permeability was first consideredchange of magnetic field և in directions perpendicular to it.
-A connection was made to the latter, the magnetic field induction vectormodulus, relative deformations of the crystal deformation field ևbetween the components of the integral voltages and the Moore period և.
-[12] It is known to occur in the crystal during implantationa tense situation that can be studied just like thatas in the case of thermal expansion, that is, there is a similaritythermal expansion լար stresses arising during implantation022220 BB where:
+is the modulus of the magnetic field induction vector) because there is a similarity between the temperature gradient ազդեց the effects of the magnetic field on the crystal և. The magnetic field in the crystal causes such a tense state as during thermal expansion.
+ For the first time, the change in magnetic permeability of the magnetic field in the directions perpendicular to it was taken into account.
+A connection has been made between the latter, the vector modulus of the magnetic field induction, the "integral stress components of the relative deformations of the crystal deformation field" and the Moirer's period.
+[12] It is known that during implantation an elongated state occurs in the crystal, which can be studied in the same way as in the case of thermal expansion, that is, there is a similarity with thermal expansion լար voltages arising during implantation at 022220 BB, where
 to replace
 between.
-  A similar analogy was suggested by Prussian [13] when:was performed by diffusion ligation in the crystalstudy of stresses.
-  To make such an analogytime he
-is the radiation dose,is the network expansion coefficient.
-  With this approach, we [6] have obtained the following expressions for relative deformations և transverse stress components:    Fig.1. Crystallographic directions և:
-beam course double triple blockin interferometerwhere:և:The components of the Yugi module are, and  It is explained by the special structure of the interferometer.
- It is made of:so that the large area of ​​its blocks is parallel և: twoequivalent to reciprocal crystallographic directions (Fig. 1), և:are Poisson's coefficients for և directions, respectively.- is the thickness of the crystal (interferometer block),It is assumed thatarises, that is, we have work to do
+  A similar analogy was proposed by Prussin [13] when he studied the stresses in a crystal by diffusion ligation.
+  He made such a resemblance at the time
+is the radiation dose, is the lattice coefficient of expansion.
+  With such an approach we [6] have obtained the following expressions for the components of relative deformations և transverse stresses: Fig.1. The crystallographic directions և the ray trajectory in a double triple block interferometer են are the components of the Yuyg module, and are explained by the special structure of the interferometer.
+ It is constructed in such a way that the large area of ​​its blocks is parallel to և two equivalent perpendicular crystalline directions (Fig. 1); we have
 with.
- direction (crystal thickness) are not voltages In this work, the determination of the stresses և relative deformation under the influence of a constant magnetic field in a block of an X-ray interferometer made of silicon monocryst in this workfor we instead of the Prussian [13] analogy where:
-has been replacedhas been replacedis:The coefficient according to [14] is expressed as follows:by formula: We have applied a new analogy:
-where?TDD  (1), 11120yxxxtD (2), 11120xyyytD ) 3 (, 111) 1 (20xyxxxxEt) 4 (, 111) 1 (20yxyyyyEt ՈրտեղyxEEExEyEyxEE011110xyxy0t0ZzxoyT DT ] 011 [where is the magnetic permeability,
- և:are stable,which are subject to calculation (
+ In this work, for the determination of the stress և relative deformation under a constant magnetic field in a block of silicon monocrysts made in the plane (in the thickness of the crystal), where instead of the Prussian [13] analogy, where
+has been replaced by is replaced by the coefficient [14] is expressed by the past participle with, we have applied a new analogy:
+where TDD  (1), 11120yxxxtD (2), 11120xyyytD ) 3 (, 111) 1 (20xyxxxxEt) 4 (, 111) 1 (20yxyyyyEt ՈրտեղyxEEExEyEyxEE011110xyxy0t0ZzxoyT DT ] 011 [where is the magnetic permeability,
+ են are constants that are subject to calculation (
 respectively in the field և in vertical directions).
-are expressedchange և: Then in (1) և (2)instead of և account:Taking (5), you will have:and for integral voltages.
-Given [5] that:, where: և: - accordingly և:
- crystallographic direction ևare network constants before the magnetic field is applied,are the same constants as the crystalline interpolation of the interferometerafter applying a constant magnetic field to it,
- -period of reflecting planes (network in the given direction- is the absolute change of the parallel (dilapidated establishment),
+Express the change of և և Then և, (1) և instead of և (2) և taking into account (5), you will have, and for integral voltages:
+Given [5], that where և - respectively և
+ The lattice constants of the lattice direction before applying the magnetic field are the same constants after applying a fixed magnetic field to the crystal block of the interferometer.
+ is the absolute change of the periodicity of the reflecting planes (lattice-parallel (dilatation) in the given direction),
  և:
-zion) are the paragraphs of the moir layers respectivelyև:In the case of references, then we get from (6) to `(7):.
-  Because the interferometer is double և, so for both cases we will have respectively և:then from (8) to և (9) we have: from where?                   (14).
-As shown in (14), the dilatation molar image period is inversely proportional to the magnetic field induction vectorto the module.
+The periods of the molar layers are respectively during the reflexes, then we get from (6) to (7):
+  Since the interferometer is a double և, for both cases we will have ևreverse (8) և (9), respectively, from where (14).
+As shown in (14), the periodicity of the dilatation morator is inversely proportional to the vector modulus of magnetic field induction.
 Results analysis. To confirm the validity of the above theoretical judgments, let us first present a physical explanation of the mechanism of action of a magnetic field on a crystal.
-  Thus, based on the results of our experiments, there are structural violations in one of the interferometer blocks.(Fig. 2a), because the image of a moire is a community of isopular lines է is conditioned by these very violations.
- If in one of the interferometer blocksIf there is a new defect of some kind (for example, dislocation), then thatThe field of mechanical stresses around the fault will lead to the redistribution of the phases of the waves returning at the entrance of the analyzer (block 3), and consequently to the change of the Moore image.
-a) before applying a magnetic fieldb) after applying the field                      a) Figure 2 b)  Figure 2 X-ray Muar sectional image On the other hand, it is known 15,16 that:The movement of atomic planes in the vicinity of dislocation canto be a critical learner(stacking) voltage less than voltageunder the influence.
-  For example, almostin perfect crystals (the interferometer is made just like thatfrom monocrystal) the size of the elastic limit is slippart of the module, so the external magnetic fields we use on the interferometer (B = 0,075 Tl-0,225 Tl) are fully sufficient,in order to affect the atomic planes to cause a change in inter-plane distances (dilatation).
-  Moreover,It has been confirmed 17 that the state of the dislocation system changes under the influence of the external magnetic field. Dislocations move along the plane of the slide.
- Such small displacements cause additional relative deformation, which leads to:Moore image change (Fig. 2b).
-(12), 1) (1011DxxdBbE (13), 1) (2022DyydBbE) () 1 (1011bBdxD) () 1 (2022bBddyD : Now, using the above theoretical calculations, let's do someestimates.
-  Thus, assuming the magnetic field inductionthe vector is perpendicular to the reflecting planes (experiments are performed for that case) և the axis is parallel crystallographic direction, andby:(see Fig. 1), then according to [18]
+  Thus, based on the results of our experiments, it follows that there are structural irregularities in one of the blocks of the interferometer (Fig. 2a), as the image of the moat is a set of isopular lines է is conditioned by those irregularities.
+ If a new defect (eg dislocation) occurs in one of the blocks of the interferometer, the field of mechanical stresses generated around the interferometer will cause the redistribution of the phases to be returned at the inlet of the analyzer (block 3) and consequently a change in Moore's image.
+a) before applying the magnetic field b) after applying the field a) Fig.2 b) Fig.2 X-ray sectional image of Moar On the other hand, 15,16 is known, the motion of the atomic planes near the oscillation can take place less than the critical stress. under voltage.
+  For example, in almost perfect crystals (the interferometer is made of just such a crystal) the magnitude of the elastic limit is part of the slip module, so the external magnetic fields we use on the interferometer (B = 0,075 Tl-0,225 Tl) are sufficient to affect the distance of atomic planes. (dilation).
+  Moreover, it has been confirmed 17 that the state of the dislocation system changes under the influence of the external magnetic field. Dislocations move along the plane of the slide.
+ Such small displacements cause additional relative deformation, which leads to a change in Moore's image (Fig. 2b).
+(12), 1) (1011DxxdBbE (13), 1) (2022DyydBbE) () 1 (1011bBdxD) () 1 (2022bBddyD Now, using the above-mentioned theoretical calculations, let's make some assessments.
+  Thus, assuming that the induction vector of the magnetic field is perpendicular to the reflecting planes (experiments are performed for this case), the axis is parallel to the crystallographic direction, and - to (, see Fig. 1), then according to [18]
  (for silicon).
-On the other hand, if the magnetic field is vertical reflectingplane, then, and in the case of the fieldis verticalto, then.
-Using the above facts, let's evaluate referring to the parameter
+On the other hand, if the magnetic field is perpendicular to the plane of reflection, then, and if the field is perpendicular to, then.
+Using the above facts, let's evaluate the parameter reference
 in the case of dimensions.
-  Given that, և taking a specific value of B (for example,), and for relative deformation obtained from experiencewhat value (say, for example,
-), We will count from (12) the(In case of the above data, it turns out:
+  Given that և taking a specific value of B (say, for example) and a value derived from experience for relative deformation (say, for example,
+), We will count from (12) (in case of the above data we get:
  ).
-Having:The corresponding component of relative deformation can be calculated using (12)
+Having, we can use (12) to calculate the corresponding component of the relative deformation:
 For any specific value of the induction vector module.
- So, for example, if in (12)installand for the induction vector module For the value obtained above (
-, then we get for relative deformation.
- A similar equation can be made parameter և theoreticallyto countfor the corresponding value of B induction (this:should be used in this casefrom the images).
- Interference from the planes in the conclusion. The evaluation results show that the theoretical-experimental results obtained for relative deformation match quite well, which creates a guarantee.
-for the experimental studies of the above theoretical calculations.
+ Thus, for example, if we insert (12) into the induction vector modulus, we take the value given above for (
+, then we will get for relative deformation.
+ In a similar way, the parameter և can theoretically be calculated for the corresponding value of induction B (in this case, the images must be used).
+ Interference from the planes in the conclusion. The results of the evaluation show that the theoretical-experimental results obtained for the relative deformation match quite well, which is a guarantee for the experimental studies of the presented theoretical calculations.
  By the way, the experimental researches of the problem are going on, և the results will be published after the end.
-x011y110211 / 10689.1ÙÜyxEEE, 262.0011x, 0624.0110y, 92013.19201291.101d 00.200032.202d) 011 (x0zy) 110 (y0zx1b) 011 (ÙÐÝ / 1047îÉ075.0B711015.4экxdd1bÙÐÝ /103257.261b1b1ddx1bÙÐÝ/103257.261bîÉ125.0B711037.4ddx2b2ddy) 110 (Thus, we can confirm that the crystals have different externalExamination of structural defects caused by impacts by X-ray interferometric methods is very effective.
-It allows an external constant magnetic fieldFor the theoretical study of the mechanical stresses of the deformation fields of structural defects in non-polar crystals provides a basis for solving the inverse problem, ie:In the crystalline block of the interferometer, the fields of mechanical stressesRecovery by decoding moiré images.
-  Used:from a change in magnetic field induction to a moire periodThe dependence of the change can be used to calculate the change in mechanical voltage in the crystal block of the interferometer.
+x011y110211 / 10689.1ÙÜyxEEE, 262.0011x, 0624.0110y, 92013.19201291.101d 00.200032.202d) 011 (x0zy) 110 (y0zx1b) 011 (ÙÐÝ / 1047îÉ075.0B711015.4экxdd1bÙÐÝ /103257.261b1b1ddx1bÙÐÝ/103257.261bîÉ125.0B711037.4ddx2b2ddy) 110 (Thus, we can confirm that the examination of structural defects caused by various external influences by X-ray interferometric methods is very effective .
+It provides a basis for the theoretical study of the mechanical stresses of the deforming fields of structural defects in non-polar crystals by external constant magnetic field և, provides a basis for solving the inverse problem, that is, the restoration of mechanical stress fields in the crystal block of the interferometer.
+  The fact that the molar frequency changes from the change in induction of the applied magnetic field can be used to calculate the change in mechanical voltage in the crystal block of the interferometer.
 Literature 3. Iverenova VI, Revkevich GP Theory of X-ray scattering. M.
-  From:14. Stretton J.A. // Theory of Electromagnetism. M.
- Published by GITL. 1948. 539p.
-16. Киттель Ч. Introduction to physically rigid bodies.-M.
- Science, 1978.Information about the author:Henrik R. Drmeyan - Doctor of Technical Sciences, Professor, GSPI, Physics, Technology and theirHead of the Chair of Teaching Methods, e-mail.
+  Izd-vo14. Stretton J.A. // Theory of Electromagnetism. M.
+ Published by GITL. 1948. 539p.16. Киттель Ч. Introduction to physically rigid bodies.-M.
+ Наука, 1978. Information about the authorHenrik Rubeni Drmeyan - Doctor of Technical Sciences, Professor, Head of the Department of Physics, Technology and their teaching methods, e-mail.

@@ -1,141 +1,125 @@
-Switching to a twelve-year education system, changes were made in the school curriculum in different subjects.New sections were added, or the material provided in the existing sections became more comprehensive.
+During the transition to a twelve-year education system, changes were made in the curriculum of different subjects: new sections were added, or the material provided in the existing sections became more comprehensive.
   In particular, a new paragraph was added to the "Elements of Logic" chapter in the 11th grade natural science and mathematics stream algebra school course: "Proof և refutation.
 The main methods of proving and refuting "[1].
-  In this paragraph, iAmong other methods of proof, examples are briefly discussedon the Dirichlet principle, several types are suggestedProblems related to this principle.
+  In this paragraph, through other methods of proving examples, the Dirichlet principle is briefly discussed, as well as some typical problems related to this principle.
 It is well known how widely the Dirichlet principle is used in school mathematics.
-  Mathematics of schoolchildrenMany problems with the evidence encountered in the OlympicsThe solution is based on the application of this principle.
-This work is devoted to some possible aspects of the Dirichlet principlediscussion of applications.
-Usually known in German in mathematical literatureThe principle of the mathematician Peter Hustav Lezen Dirichlet is given by the example of rabbit cages [2], that is, if is in boxesnumber of rabbits, moreoverare:, then there will be a box likein which there will be more than one rabbit.
-  In the truth of this principleOne can easily be convinced by the method of contradictory assumption.
-Dirichlet generalized is also used in various problemsprinciple [2], according to which if:rabbits, moreover are in boxes in number:, then there will be a box in which they will beat least rabbits.
-Note that Dirichlet principle asserts in excess when rabbitsThe number is more than the number of cells.
-  A similar claim can be madeWhen the number of rabbits is less than the number of cages, that is, ifmoreover are in boxes number of rabbits, then there will be a cage in which there will be no rabbits.
-In mathematical literature We find algebraic-geometric differences similar to Dirichlet's principleassertions.
-  We will formulate and prove in the form of sub-theoremsA few statements from the Dirichlet principle, which we will apply laterwhen solving various atypical problems.
+  The application of this principle is the basis for solving many problems related to the proof found in school mathematics Olympiads.
+This paper is devoted to discussing some possible applications of the Dirichlet principle.
+The principle of the famous German mathematician Peter Hustav Lezen Dirichlet is usually given in the mathematical literature by the example of rabbit cages [2], that is, if there are rabbits in one cage, moreover, there will be a cage with more than one rabbit.
+  The truth of this principle can be easily ascertained by the method of contradictory assumption.
+The Dirichlet Generalized Principle [2] also applies to various problems, according to which if there are rabbits with a number of cages, there will be a cage with at least one rabbit.
+It should be noted that the Dirichlet principle asserts when the number of rabbits is more than the number of cages.
+  A similar statement can be made with a deficit when the number of rabbits is less than the number of cages, that is, if there are a number of rabbits in each cage, then there will be a cage in which there will be no rabbits.
+In the mathematical literature we find algebraic-geometric variations similar to Dirichlet's principle.
+  In the form of sub-theorems, we will formulate, prove, several statements based on the Dirichlet principle, which we will then use to solve various atypical problems.
 Theorem 1.
- Any pcs always in natural numbersthere will be two whose difference is divisible by:of.
+ In any natural number there will always be two whose difference is divisible by.
 Proof.
- As we know, an arbitrary natural number is givenThe remainder of dividing by a number can be: natural  or:, that is, the resulting balance can acceptjackets.
- Now suppose we have pieces of rabbits և:Number the cells accordingly  possible cells.
-  և:numbers, and put each of the rabbits in equal proportions  one of the natural numbers,in particular:Let's put it in accordance with the given rabbitnNNnnNNkn1knNNn2; 3; 51n121; ; ; naaann0, 1,, n21nn1nn0, 1,, n21n121; ; ; naaak natural number
-.
-  Let's agree on eachnaturalPlace the rabbit corresponding to the number in the box with the numberis equal  natural numberthe remainder generated when dividing by.
-As a result, we will have: pieces of rabbits that we accommodatedin boxes, by the way, therefore, according to Dirichletprinciple, there will be a cage with more than one rabbit.
-So which of the two rabbits in that cage corresponds? և: numbers: When dividing by, they give the same remainder, respectively
+ As we know, the remainder obtained by dividing an arbitrary natural number by a given number can be natural or, in other words, the resulting remainder can be accepted.
+ Now suppose we have rabbits ևNumber the cells accordingly to the number of possible cells.
+  Let's put one of the given natural numbers in equal proportion to each of the rabbits, in particular put the given nNNnnNNkn1knNNn2; 3; 51n121; ; ; naaann0, 1,, n21nn1nn0, 1,, n21n121; ; ; naaak natural number.
+  Let's agree to place the rabbit corresponding to each natural in the box whose number is equal to the remainder of dividing by a natural number.
+As a result, we will have rabbits, which we have placed in individual cages, and, consequently, according to the Dirichlet principle, there will be a cage with more than one rabbit.
+So when dividing the numbers corresponding to two of the rabbits in that cage by, they give the same remainder, then
 .
 The theorem is proved.
  Theorem 2.
- If given: area: are placed in the imagefew images whose sum of areas.a) is smallfrom then it will be found at least one point belonging to the image,which is given և none image does not belong tob) is largefrom, then will be found given at least one belonging to the imagepoint that belongs to him!to both.
-  at least from the imagesProof.
+ If there are several images placed in an image with a given area, the sum of their areas: a) is less than, then there will be at least one point belonging to the given image, which և does not belong to any given image, b) is greater than, then there will be at least one, which belongs to both.
+  at least from the pictures.
  First, let us prove point "a" of the theorem.
- Let's discuss firstthe case when installed The images do not intersect.
-In this case  the area of ​​the image will be equal  the sum of the image areas համաձայն, according to the problemprovided it will be small from the surface of the image, then we can argue, image, և so will be giventhat: can not be covered by the image  at least one point belonging to the image, which:does not belong to the image.
+ Let us first discuss the case when the posted images do not intersect.
+In this case, the area of ​​the image will be equal to the sum of the areas of the images և, according to the problem condition, will be smaller than the area of ​​the image, then we can say, the image և will be found with the given image, it is impossible to cover at least one point belonging to the image.
  In this case, point "a" of the theorem is proved.
- Now suppose it is installed  Some of the images intersect.
- Given make images that do not intersect with each other  a new set of imageson the following principle: let
-if:և:have no common points,then we will accept, otherwise as:  we will choose itthe set of points that belong tobut do not belong toka1; 1knkakan1NnnNniajanijaanS12,,, nSiS12,,, ni12 n 12,,, n12 nii12,,, n111222 221:
+ Now suppose that some of the posted images intersect.
+ From the given images we form a new set of mutually intersecting images with the following principle: let, if չունեն have no common points, we will accept, otherwise we will choose as the set of points that belong to but do not belong to ka1; 1knkakan1NnnNniajanijaanS12,, , nSiS12,,, ni12 n12,,, n12 n ii12,,, n111222221:
 .
  Note that in this case
-և:andhave no common points (we will agreemark the image area).
- Similarly as: we will select the set of points that belongbut do not belong toin և:to, that is:.
-  We will elect him on the same principle. " images (in particular:).
-As a result, we will have non-mutually intersecting with each other  a new set of images, such that:և:
-Therefore, according to the above, it will be given  at least one point belonging to the image, which:, or the same  does not belong to the image.
-  Point "a" of the theoremit is proved.
+J and have nothing in common (we will agree to denote the area of ​​the image by).
+ In the same way we will choose the set of points that belong to but do not belong to,, that is.
+  We will choose the images (in particular) according to the same principle.
+As a result, we have a new set of images that do not intersect with each other, such that
+Therefore, according to the above proof, there will be at least one point belonging to the given image, which, or which is the same, does not belong to the image.
+  The "a" point of the theorem is proved.
 Now let us prove point "b" of the theorem.
-  Sinceimages posted  in the picture, then it is obvious that  Let's make a contradictory assumption. Suppose
-images do not intersect, it would meanthe sum of their areas is equal  image:on the surface, thenwhich contradictscondition of the theorem, that is, placedThe amount of areas is large  images:from.
- The resulting contradiction is our backassumption that: the images are not reciprocalintersect.
-  And so  at least two of the imagesintersect, and their intersection point is the search point they belong tois given! in the picture.
+  Since the images are placed in the image, it is obvious that we will make a contradictory assumption. Suppose the images do not intersect mutually, it means that the sum of their surfaces is equal to the surface of the image, so it contradicts the condition of the etheorem, that is, the sum of the placed surfaces is greater than the images.
+ The resulting contradiction is due to the meritocracy, according to which the images do not intersect.
+  And so at least two of the images intersect, and their intersection point is the search point that belongs to the given image.
 The theorem is proved.
 221 \ 1211212; SS12ST33123312 \ : 45,,, n121 \ nnn12,,, n1212nn: 1212, nSSSS12n12 n: 12,,, n12.
 nSSS12,,, n12n1212, nnSSSSSS12,,, n: S12,,, n12,,, n Note that Theorem 2 is essentially a two-dimensional domain.
-Similar claims are known in one-dimensional and three-dimensional domains.
+Similar statements are known in one-dimensional and three-dimensional domains.
 Let us now discuss various atypical problems, the solution of which we will use from the above-mentioned theorems.
- We encounter such a problem in the petition. prove that it exists
-Let's prove a more general assertion.
+ We encounter such a problem in the petition. to prove that there is a more general assertion.
 Natural number ending in 1971, which is divisible by 1971.
- Below:Problem 1.
- Prove that:exists in the case of natural numbersMutually simple with anyending in such a naturalnumber that is divisible by:of.
+ Sub-Problem 1.
+ Prove that in the case of an orphan number, there exists a nature ending in a reciprocal with any, which is divisible by.
 Solution.
- Let's sayhas-nish is a natural number.
- Consider the number pcsThe following are natural numbers:
- According to Theorem 1, these numbersThere will be two in which the difference is divisibleto:that is, they exist և: natural numbers such asthat:, but because:և:theare mutually clear, then.
-  We encounter such a problem in the petition. there exists
-whether?Let's formulate և prove a more general statement.
-with a natural index of some degree that endsby.
+ Ditsuk-n-anish is a natural number.
+ Consider the following natural numbers:
+ According to Theorem 1, in these numbers there will be two whose difference is divisible by, that is, there exist և natural numbers such that, but since n-are mutually simple, then.
+  We encounter such a problem in the petition. Is there a way to prove a more general statement?
+with a natural pointer to a degree that ends in.
  Problem 2.
-  Prove that:exists for natural numbersMutually clear with anywith a natural index of such a degreewhich endsby (where:is an arbitrary natural number).
+  Prove that for an orphan number, there exists a degree that ends with-(where-is an arbitrary natural number).
  Solution.
-  Consider the number  The following natural numbers:.
- According to Theorem 1, these numbers will contain:two, the difference of which is divisibleof, that is, existencehave such natural numbers a և b that:but because:
+  Consider the following natural numbers:
+ According to Theorem 1, these numbers will contain two such that their difference is divisible by, that is, there exist such natural numbers a և b as orphans because
 3; 5; 641972101kk1kkpk; ; ; ....
-kkkkkkkÑ³ï k1k1nkabab ... bkkkÑ³ï ...... 101paabakkkkkkkkÑ³ïÑ³ï10pa1k ... 1bakkkkÑ³ï43000110nnk 0001Ñ³ïk1101k1123101; ; ; ; knnnn110k1101, kab1110, baabaknnnn1; 101; 101aknn then thereforeby.
-  և So:is coming to an end  We encounter such a problem in the petition. prove that:
-There is a natural number of 11… 100… 0, which is divisible by 1998.
+kkkkkkkÑ³ï k1k1nkabab ... bkkkÑ³ï ...... 101paabakkkkkkkkÑ³ïÑ³ï10pa1k ... 1bakkkkÑ³ï43000110nnk 0001Ñ³ïk1101k1123101; ; ; ; knnnn110k1101, kab1110, baabaknnnn1; 101; 101aknn so backwards.
+  -so it ends in the petition we encounter such a problem. Prove that orbit has a natural number of the form 11… 100… 0, which is divisible by 1998.
 Let's formulate և prove a more general statement.
 Problem 3.
-  Prove that any  և:  in the case of natural numbersthere exists the natural number of the form that is divisible by:of.
+  Prove that in the case of any և natural numbers there exists a natural number that is divisible by.
  Solution.
-  Consider the number  The following natural numbers:.
-  According to Theorem 1, in these natural numbersThere will be two, the difference of which is divisible by.
- It's easyNotice the difference between any two of these numbers is a natural number of appearance.
- We encounter such a problem in the petition. per unit area
-1975 pictures are placed inside the squareThe amount of areas is large from.
- Prove that there is at least onepoint that belongs to all to the pictures.
- Let's discuss morea general problem.
+  Consider the following natural numbers:
+  According to Theorem 1, these two natural numbers are divisible by two.
+ It is easy to see that the difference between any two of these numbers is a natural number.
+ We encounter such a problem in the petition. There are 1975 images inside the square of the area, the sum of the areas of which is greater than.
+ Prove that there exists at least one point that belongs to all the images.
+ Let's discuss a more general issue.
 Problem 4.
- area: are placed inside the imagepieces of images with a large amount of spaceProve that there exists at least one point that belongs to allimages.
+ Individual images placed inside an image with a large sum of surfaces. Prove that there exists at least one point that belongs to all images.
   from.
- pcsSolution.
- Given the images placed inside the imageto appoint, and each of those images up to!image:Assign complementary images accordingly.
- It is obvious that each in the image rangepoint will belong և: only one of the images.
- Let's sayև:respectively և: are the surfaces of the images1110, bakn11110 101bakbaknttNntbank 0001Ñ³ï5nk000kkkn1nn + 1; ; ; ; ... kkkkkkkkkkkÑ³ïn000kkk5197419750S nnN01nSnn12; ; ; n12; ; ; niiSiSii1; nii1; .
-in Depending on the problem condition:We will have it laterSo  area:  we have inside the image  pcs  images with a small amount of spacefrom,consequently, according to point "a" of Theorem 2, Inside the image will be a dot that:that does not belong to any of the images, and that would meanthat the search item will belong to a given  from images:to each.
+ Solution.
+ Define the images placed inside the given image, and assign each of those images to the pre-imaging images accordingly.
+ It is obvious that each circle in the image range will belong to only one of the images.
+ Ditsuk և համապատասխան respectively և are image areas 1110, bakn11110 101bakbaknttNntbank 0001Ñ³ï5nk000kkkn1nn + 1; ; ; ; ... kkkkkkkkkkkÑ³ïn000kkk5197419750S nnN01nSnn12; ; ; n12; ; ; niiSiSii1; nii1; .
+in According to the condition of the problem, we will have the following: Thus, inside the image with area we have individual images whose area is less than, therefore, according to point "a" of Theorem 2, there will be a point inside the image that պատկ does not belong to any of those images , which means that the search item will belong to each of the given images.
 Problem 5.
- They are inside the square on the unit side length:  different parts.
-  Prove that there are M և N points belonging to two of these segments such that.
+ There are different sections of length inside the square on the unit side.
+  Prove that M և N points belonging to two of these segments will be found such that:
 Solution.
-  Prove more strictlyclaims, that is:.
- Given everythingLet's look at it for a passagethe geometric location of points, of which:the distance each hasclosest to that sectiondoes not exceed the point.
-  It's easynotice that it will present an image,composed of: sized rectangle ևtwo piecesfrom semicircles with radius/ see Figure 1 /.
-The area of ​​that image will be equal to:Building such an image for each section, we will have 9 piecesuniform  images of which:Fig. 1:
- Figure 2:2011201, nSSSnS12nSSS010200120 () nnSSSSSSnSSSSnS 001nSS0Sn12; ; ; n0S12; ; ; n12; ; ; n12914MN610,2484MN0,124r0,5x0,1240,124220,523,140,172.
-rrrr129,,, գումrrrr12ra the sum of the areas exceeds.
-  It is clear that thisIndividual parts of images can be output by a given unitsquare, but it is obvious that they will all be in Fig. Pictured in 2
- in the domain:, which is composed given sizes:square, four pieces  from rectangles of size և four pieces from a quarter of a radius.
- This: image area is equalwill be:        .
-So we have  image:  area in which they are locatedimages such that their surfacesThe amount is largepoint, will be found from the surface of the image, therefore, according to Theorem 2 of "b" such as belonging to the image point that belongs tohe! Let's put at least two of the picturesto և:to.
-According to: In the construction of images, we can say that: the distance to the point
- closest to the part corresponding to the image does not exceed the pointin exactly the same way
- pointdistance: closest to the part corresponding to the image  from the point:does not exceed.
-  In fact  և:, therefore, according totriangular inequality, where:և:is one of the given passages?are points belonging to both.
+  Let's prove more strict, that is.
+ For each given segment, consider the geometric location of the points, the distance of each of which from the nearest point belonging to that section does not exceed.
+  It is easy to notice that it will present an image composed of rectangles with dimensions of two semicircles with two radii (see Fig. 1).
+The area of ​​that image will be equal. By constructing such an image for each segment, we will have 9 individual images, which are shown in Fig. 1 Նկ.21201, nSSSnS12nSSS010200120 () nnSSSSSSnSSSSnS 001nSS0Sn12; ; ; n0S12; ; ; n12; ; ; n12914MN610,2484MN0,124r0,5x0,1240,124220,523,140,172.
+rrrr129,,, rrrr12ra the sum of the areas exceeds.
+  It is clear that individual parts of these images can be subtracted from a given unit square, but it is obvious that they will all be in Fig. In the range shown in Figure 2, which consists of a given square of dimensions, four rectangles of size, and four quadrilateral circles of radius.
+ The area of ​​this image is equal to:
+Thus, we have an image with a surface in which sub-images are placed such that the sum of their surfaces will be greater than the surface of the image, therefore, according to Theorem 2, the point on image "b" belongs to at least two of these images, let's say և- in.
+According to the construction of the images, we can claim the distance of the point
+ does not exceed from the nearest point of the section corresponding to the image, in the same way,
+ The distance from the point closest to the point corresponding to the part corresponding to the image.
+  In fact, consequently, the "where's" of the given equilateral inequality are points belonging to both.
 Problem 6.
-  are placed in a rectangle of dimensions  pcsareas with a radius of one.
- Prove that in a given rectangle you can:to place a circle with a radius of one unitso that the latter does not match the mentioned regionshas no common point.
+  Circles with radius units are placed in a rectangle of dimensions.
+ Prove that in a given rectangle it is possible to place a circle with a radius of one unit so that the latter has no common point with the mentioned circles.
 Solution.
- To score a radiusbethe district is completely located  in a rectangle of dimensions, it is necessary և enough that the center of the latterbe inside a given rectangle, itsat least from the parties  awayFig. 3:
-90,1721,5481; 0,124ar1x11x0,1240,1242211410,12440,124140,1243,150,1241,5454S1,545S129,,,  P129,,, 12iP1M0,124rP2N0,124r0,124PM0,124PN10,2484MNPMPNMN10x12810x121 1 1 1 1MNPQ ie the center of the search circle must be to be found
-sizes:in the rectangular range / see fig. 3 /.
- On the other hand, so that the search area with a radius of one does not have points in common with the eight districts given,it is necessary և enough that the distance to its center is given eightbe larger than the center of each of the districtsfrom.
-  From eight districtssurrounding each with a band with a unit radius as a resultwe will have  with a radius of eight  regions outside of whichthe center of the circle must be located.
-Now let's look  the vertices of the rectangle.
-  It is clear that if:does not belong to any of them  to none of the districts,then that very peak can be chosen as the center of the search area.
-And if: Every vertex of the rectangle belongs to something!district, then it is clear that some part of the district will be left out  rectangularfrom the domain.
-  Let's try to evaluate that outthe rest area / see fig. 4 /.
- It's easynotice that:Fig. 4:
-     In fact, we havesq. per unit area
-  rectangle in which it is located with radius: districts orthe sum of the areas of their individual partsdoes not exceed  sq. unit, respectively, by:
-Theorem of point 2 (a), There will be a point in the rectangular domain that  կետ does not belong to any of the regions, և that pointwill be the center of the circle with a search ninth unit radius.
+ In order for a unit radius to be completely rectangular in size, it must be sufficient that the center of the unit be inside the given rectangle, at least at a distance from the sides. 390,1721,5481; 0,124ar1x11x0,1240,1242211410,12440,124140,1243,150,1241,5454S1,545S129,,,  P129,,, 12iP1M0,124rP2N0,124r0,124PM0,124PN10,2484MNPMPNMN10x12810x121 1 1 1 1MNPQ ie the center of the search circle must in the rectangular range of binoculars / see fig. 3 /.
+ On the other hand, in order for a circle with a radius of one unit not to have points in common with the eight circles given, it is necessary that its distance from the center be greater than the center of each of the eight circles given.
+  Surrounding each of the given eight circles with a band with a unit radius, we have eight circles with a radius, out of which the center of the search circle must be located.
+Now consider the vertices of a rectangle.
+  It is clear that if any of them does not belong to any of the regions, then that very peak can be chosen as the center of the searchable region.
+And if each vertex of the rectangle belongs to a certain region, then it is clear that some part of that circle will be out of the rectangle.
+  Let's try to estimate the area of ​​that protruding part / see fig. 4 /.
+ It is easy to notice that 4 In fact, we have a stone. A rectangle with an area of ​​one square meter, in which the sum of the areas of the regions of the regions or their separate parts exceeds sq. The unit, therefore, according to point 2 (a) of the theorem, will be a point in the rectangular domain that։ does not belong to any of these regions, և that very point will be the center of the circle with a radius of the ninth unit to be searched.
 As we can see, both the Dirichlet principle (surplus-deficit) and the theorems derived from that principle or similar to the one mentioned above can have their most effective application in school mathematics when solving various atypical problems.
 9x11MNPQ22r128; ; ; MNPQ128; ; ; MNPQ 1; 8iiiMNPQ0S202KOEEOLKONNOLrSSSSS221sinsin2,28.
-22RrONr91199MNPQ2r128; ; ; 2208483,1542,2891,6899rSrMNPQ128; ; ; NEKLO2rГ.С. Nikogosyan, V.F. Manukyan:
-Literature 1. Gorgyan GG, Sahakyan AA, Algebra տարր Elements of Mathematical Analysis.
+22RrONr91199MNPQ2r128; ; ; 2208483,1542,2891,6899rSrMNPQ128; ; ; NEKLO2rГ.С. Nikogosyan, V.F. Manukyan Literature 1. Gorgyan GG, Sahakyan AA, Algebra տարր Elements of Mathematical Analysis.
   High school 11th grade textbook (for science and math stream). Yerevan, "Tigran Mets" publishing house, 2010, 208 pages.
 2. Encyclopaedic dictionary юного математика / Сост. A.P. Savin. M.
  Pedagogue4. Babinsky IL Tasks Mathematical Olympiad. Ed. "Science".
- 1975. 111 p.5. N.V. Gorbachev Proceedings of the Olympic Mathematical Task. M.
+ 1975. 111 p.5. Н.В. Gorbachev Proceedings of the Olympic Mathematical Task. M.
  MCNMO, 2004.6. Агаханов Н.Х. et al., All-Russian Olympiads in Mathematics, M.
-Information about the authors:Gagik Seryozha Nikoghosyan - Phys.Math. scientist candidate, ASUE Gyumri branch, E-mail.
- gagonik@mail.ru:Vardan Franz Manukyan - Phys.Math. scientist candidate, GSPI,
-E-mail:
+Information about the authors Gagik Seryozha Nikoghosyan - Phys.Math. scientist Candidate, ASUE Gyumri Branch, E-mail.
+ gagonik@mail.ru Vardan Franzi Manukyan - Phys.Math. scientist Candidate, GSPI, E-mail.

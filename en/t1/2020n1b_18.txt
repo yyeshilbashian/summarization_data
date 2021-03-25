@@ -1,0 +1,92 @@
+"Mathematics traditionally requires students to master the basic concepts of mathematics" [1, 123].
+In order for students to master the basic concepts, it is necessary to develop the teaching method of defining the concepts in advance.
+  For example, a well-known methodologist of teaching mathematics, academician A. A. Stolyar mentions that, in principle, pedagogy is still not able to clearly answer the question of what it means: the student knows the definition of this or that concept, the thematic taste.
+  Despite the fact that prominent many psychologists, pedagogues and methodologists have referred to the definition of this concept, the types of definition այլ other questions related to the definition, but in principle there is no clearly developed methodology in pedagogy that will answer the question whether the student knows this or that definition.
+The following types of definitions of logic: real, nominal, classical, according to gender, type difference, reflection, axiomatic, descriptive, genetic, description, etc.
+Specialists distinguish methodology.
+  However, until now, the methodology of teaching raw materials (according to gender և species difference, real, nominal և classic) on the types of definitions mentioned above has been developed by a well-known pedagogue և Methodist E. I. Ayvazyan.
+Definitions According to this methodology, the learner masters the definition of the concept, if: 1. he knows the wording of the definition of the given concept, 2. he / she is able to solve the following four types of problems or is able to solve the following typical problems in practice: a)
+ c) [1, 124-125].
+ , b), d)
+  (a, b - recognition), (c, d - retrieval search) Methodologies for teaching the concepts of subjects of separate mathematical subjects - elements of geometry, algebra - algebra - mathematical analysis - have not been developed yet.
+Taking into account the existing gap, based on the above-mentioned methodology of teaching the definitions of concepts, a methodology of teaching the definitions of basic school level courses has been developed, which is able not only to formulate the definitions of concepts, but also to apply them in practice.
+Our previous work, [5], was devoted to describing the teaching methodology for defining 7th grade geometric concepts.
+  Below is a description of the teaching methods for defining the concepts of the 8th grade geometry course.
+oooxB xA X, xoooxBxAX, x áã áãoooxA xB X, xoooxAxBX, x áã Ք Because the system of problems in any geometry textbook is not available Due to the lack of an appropriate system for solving standard problems, we will fill that gap in the example of the previous class by selecting standard problems appropriate to the standard problems program we developed.
+  The creation of the system of the mentioned problems tends to partially fill the above-mentioned gap of the mathematics teaching methodology, ապես, finally, to answer clearly the traditional question, which means that the student knows the definition of this or that geometric concept [3].
+From the system of the 8th grade. The mentioned methodological manual has developed two quartet (two versions) problems for each definition.
+The methodology proposed by us is as follows ․ After passing the definition of any concept, when the teacher is convinced that the learners know the wording of the definition, he / she starts working with the students in the classroom to solve one of the four standard problems, explaining everything in detail.
+  And the students should solve the second four problems proposed in the methodological manual independently, using the approaches of the first four.
+ The teacher should be assigned the tasks of the second quartet during the current written or homework assignment [5].
+Only after doing all this can the teacher guess to what extent the students have mastered the given concept of Jdra definition.
+Let us show the definitions of "parallel line" of geometry.
+By the example of the 8th-concrete grade, observing the "triangle" of the concepts of the course. Definition 1. A parallelogram is a square whose opposite sides are parallel to each other.
+After the teacher makes sure that the students know this definition, he / she starts solving the following four problems. The first four: The parallel lines a և b on the plane intersect the parallel lines c և d at points A, B, C, D, respectively. .
+ Prove that the square ABCD is a parallelogram.
+Solution.
+  The opposite sides of AD և BC are parallel because the segments AD և BC lie on parallel lines a և b to define the parallelism of the segments.
+  The opposite sides AB և DC և are parallel because the segments AB և CD lie on the lines c և d respectively և Therefore, by definition, the quadrilateral ABCD is an equilateral line.
+) In the quadrilateral ABCD, the sides AB և CD are parallel.
+Will ABCD be a parallelogram if <BAD = 50 ° and the angle D is equal to 60 °?
+Solution.
+ If the given quadrilateral is a parallelogram, the opposite sides AD և BC will be parallel, so the angle BAD must be equal to the exterior angle D of the angle.
+  We came to the contradiction because <BAD = 50 °, and the exterior angle of the angle D is equal to 60 °.
+ Therefore, the quadrilateral ABCD cannot be a parallelogram.
+) The parallelogram MNPQ is given, then: a) one pair of opposite sides is parallel and the other is not, b) none of the opposite sides is parallel, c) the opposite sides are parallel to pair.
+Choose the correct answer. Solution.
+ Since, by definition, a parallelogram is a rectangle whose opposite sides are parallel to each other, then option c) is true.
+) MNPQ is not a parallelogram, և NP MQ.
+ Prove that MN is not parallel to PQ.
+Solution.
+  Let's make a contradictory assumption. Suppose.
+  But in that case MNPQ will be a parallel.
+  But, of course, it is not a parallel.
+ Then MN PQ.
+After solving the first quartet in the classroom, it is necessary to instruct to solve the second quartet on their own (during current writing or homework).
+Independent work 1 (20-25 minutes) AC base is drawn from the vertex C of triangle ABC to a line perpendicular to AB, and from vertex B to a line parallel to the base.
+ Prove that the resulting quadrilateral is a parallelogram.
+) Given an MNPQ quadrilateral in which MQ is parallel to NP and MN is not parallel to PQ.
+  Prove that this quadrilateral is not a parallelogram.
+The parallelogram ABCD is given.
+ How many parallel segments are there in a quadrilateral? What are they?
+) What does it mean that EFPQ is not a parallelogram?
+ Give a reasoned answer.
+Then it is necessary to check the independent works, summarize the results, find out the degree of mastery of the definition of a triangle.
+Definition 2. The part connecting the midpoints of the two sides of a triangle is called the midline of the triangle.
+) OA = AB are placed on the OE side of the EOF angle, and OC = CD on the OF side.
+  Prove that the segment AC is the midline of the triangle OBD.
+Solution.
+  Since OA = AB, then A is the midpoint of the segment OB.
+  On the other hand, OC = CD, hence C- is the midpoint of the OD segment.
+ Therefore, AC is the part connecting the midpoints of the two sides of the OBD triangle, the arc is the same, the midline.
+) ABC is triangular with the midpoint M of triangular BC calf, which intersects side AB at point K, moreover: BK = 4 cm, AK = 8 cm.
+Will the MK segment be the midline of the triangle?
+Solution.
+  By definition, the midline of a triangle is the segment that connects the midpoints of the two sides of the triangle.
+ Point M is the midpoint of the side BC and K is not the midpoint of the side AB, as AK = 8 cm, KB = 4 cm.
+  Therefore, KM is not the middle line of a triangle.
+) PT is the median (P ML, T LN) in the triangle LMN based on MN.
+ Prove that MP.
+PL = NT.
+TL = 1.
+Solution.
+  Since PT is the midpoint of a triangle, then P is the midpoint of the segment ML and T is the midpoint of the segment LN, so MP.
+PL = 1 (because MP = PL), NT.
+TL = 1 (because NT = TL), hence MP.
+PL = NT.
+TL = 1.
+) In triangle ABC, EF intersects the sides AB և BC, respectively at points E ասխան F և is not a midline.
+Prove that either E is not the midpoint of AB or F is not the midpoint of BC.
+Solution.
+ It is obvious that either E or F are not the midpoints of the sides AB և BC, respectively, otherwise if E և F are the midpoints of the sides AB և BC, then EF is the midline of the triangle ABC, which contradicts the condition of the problem.
+Independent work 2 (20 minutes)) Suppose that the points M և N on the legs of the triangle AB և BC of the triangle ABC on the basis of AC are such that = 1.
+ Will MN be the midline of a triangle?
+) The points K AC L on the sides AB և BC of the equilateral triangle ABC based on AC are such that KB = KA = 3 cm, BL = 4 cm.
+ Find out if KL will be the middle line of a triangle.
+The segments MN = 6 cm are divided into AC equilateral triangle based on AC.
+  the middle line.
+  Find MB, AM, BN, NC2 d) a line intersects the legs of triangle ABC on the basis of AC at points M և N, և MN is not the midline of triangle ABC.
+  Then ………………………………….
+ Keep thinking.
+Only after doing all this can the teacher master the data, whether the students can deduce to what extent the students are understanding, or that they know how to define the concept.
+After all this, it will be possible to move on to the concept of those properties which are formulated in the form of theorems or problems ”[1, 126].

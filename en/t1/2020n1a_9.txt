@@ -1,0 +1,45 @@
+Preface.
+  In the financial literature, the mergers of organizations are examined more and more year by year րանց Their efficiency, which is explained by the number of transactions.
+  According to a 2016 study by the WilmerHale Research Center, the number of so-called M&A transactions worldwide has reached its peak.
+  The total value of such transactions in the world is estimated at $ 3.89 trillion.
+The goals of the mergers may be market growth, diversification, acquisition of many unique features or resources, tax burden reduction, but in the end they are all interconnected under the idea of ​​synergy.
+  Synergy is the surplus value that an entity seeks to obtain as a result of a transaction that is equal to the difference between the gross value received and the individual value of the entity և the surplus paid.
+  That is, the value created will be positive if the organization manages to create a greater value than it paid as a result of the transaction.
+Thus, the main purpose of transactions is to create added value, but it should be noted that most of them do not succeed in creating a positive result.
+  Some authors state that the failure rate is 50% [1], while others state that it is 70-90% [2].
+The question arises why these deals fail.
+  It is believed that the main reason for this is that the leaders of the organization did not succeed in finding an organization that would meet the strategy of merging and create a synergistic result [2].
+In general, General Organizations seek to obtain one or more synergistic results from such transactions.
+ It should be noted that the sum of different types of synergies is the total value of the synergy.
+  Synergies in the institution are divided into two groups: operational ։financial [3] [4] [5].
+Operational synergy includes the positive results that occur in the operational areas of the organization.
+Operational synergies can be obtained in the form of cost reductions, new revenues and new opportunities for growth.
+A good example of operational synergy is the merging of production areas, optimizing the number of employees and gaining a dominant position in the market.
+As a result of the merger, the organization can receive higher tax savings, which are the main results of financial synergy.
+Great debt potential, as it should be noted that both operational and financial synergies are rarely obtained automatically.
+  They require extra effort from managers.
+In order to reduce the likelihood of merger failure, organizations are advised to estimate the outcome of such a transaction և the extent of possible synergy.
+  Synergy has been evaluated by many theorists.
+Synergy evaluation is the problem of all studies.
+  One of the most commonly used models was developed by Damadoran in 2005, according to which the sum of the three target components. these are the individual value of the target organization, the synergy that results from the merger, and the premium that the acquirer is willing to pay for managing the organization.
+The value of the organization is equal to the value of the target organization. The value of the target organization. The individual value of the target organization. The synergy resulting from the merger. Another premise used for the measurement is the idea that managers do not always get all the potential for synergy.
+  Compared to the previous one, this model difference is not big, the choice between them depends on the purpose of the evaluation.
+- Value of the target organization - As a result of the individual organization of the target organization - Synergy that can be obtained in the transaction - Synergy, which was obtained as a result of the transaction.
+possible synergies Figure 1. Types of possible synergies resulting from merging 1 The synergy that can be obtained is the sum of all possible synergies.
+  As already mentioned, they can be classified into two groups: operational-financial.
+where: PV (revenuesyn) - Revenue increase; PV (costsyn) - Cost reduction; PV (growthsyn) - Growth synergy; PV (taxsyn) - Tax synergy; PV (bcsyn) - Debt synergy; PV (drsyn) - Decreasing synergy of discounting; PV (CI) - Gross value of the merger.
+1 Author SummaryOperational Synergy1. Cost reduction - The most common synergistic effect, especially in the case of organizers operating in the same market.
+  An example of this is the reduction in the number of employees at points of sale.
+2. Increase Revenue - Sometimes mergers can generate additional revenue, for example through cross-selling.
+3. Opportunity for Growth - This synergy is based on the idea that enterprises merge to make it easier to penetrate the markets.
+measurable increase due to new Financial Synergy Tax: right 1. Loss Promotion - In many countries around the world, including Armenia, the tax code stipulates that the organization should reduce its profit tax debt due to losses incurred in previous years, while one of the merging companies had large losses in previous years but was unable to use the other due to low profits.
+reduction, there is a profit tax of 2. Tax rate reduction - This can occur when one of the merging companies is located, for example, in a free economic zone.
+Other financial 1. Growing debt potential - as a result of interest rates of financial institutions, the size of the organization increases, allowing to receive funds at a relatively low interest rate.
+For single gauges.
+have a large 2. Decreasing discount rate - as already mentioned, one of the goals of mergers is diversification, which, of course, is the risk.
+The mid-diversification of the CAPM model of the organization's value assessment reduces the β-beta coefficient, reducing the discount rate.
+ As a result, the value of the organization increases.
+Conclusion.
+To sum up, it can be summed up that the mergers of the organizations can become a source of new opportunities, but the majority of the transactions actually realized fail to register a positive result.
+The main reason for this is the low involvement of managers, as well as the problem of awareness of the possible synergistic results, as these results do not often occur spontaneously.
+In order to solve this problem, effective evaluation models were presented in this research, as well as the synergies that need to be monitored.

@@ -1,0 +1,26 @@
+In the current curricula of mathematics classes, it can be clearly seen how much space is given to the approximate methods of algebra (or analysis), approximate calculations, practical (economic, socio-psychological) problems.
+It should be noted that this circumstance has been noticeable since a long time ago, from the early Soviet period (see V. M. Bradis [1]), which states: "Mathematical culture of youth, a limited secondary school."
+It can be said that very little has changed in this sense at present.
+We believe that in school mathematics curricula (from lower grades to upper grades) it is necessary to gradually develop the students' approach to the construction of mathematical models of practical problems, the mastery of accurate (approximate) methods of studying these models.
+  It is very important to study the behavioral problems of the observed problems according to the parameter (or parameters), which participate in the corresponding mathematical models, to find optimal ways of expressing the discussed phenomena, etc.
+In our opinion, the fact that financial problems have recently been included in the school mathematics curriculum, their study in different grades, should be considered a very serious contribution to the Armenian reality.
+  We believe that this approach should be developed by involving other practical problems in mathematics school curricula, such as economics, physics, chemistry, biology, and various problems of a different nature.
+ Before making the necessary textbook-program changes, which, we think, require a certain period of time for serious professional discussions and elaborations, it is possible to use the possibilities of current courses to solve this important issue.
+Social-Psychological Technical-Faculty Satisfied What do we think is the current need to involve practical problems in school mathematics programs by building their mathematical models, approximate methods and approximations, and extensive use of computer capabilities?
+The raised question is relevant in the sense that the problems of applied nature in European and American school mathematics programs are widely involved, in the Russian reality, it can be said, studies in this direction, organization of optional courses in schools, graduation.
+Methods of teaching mathematics and mathematics at universities in the faculties of nature can also include in the curriculum the approaches to the construction of mathematical models of applied problems, the use of the possibilities of approximate methods for solving such models, the analysis of numerical results of problems.
+  We believe that various practical problems can be included in the entrance exams for mathematics universities.
+  It is necessary to conduct serious studies in this direction in advance.
+From the following subjects: Physical-mathematical-pedagogical education, computer Multi-layered, computational-applied problems according to age peculiarities, as well as the introduction of their modeling and computational methods in school courses at the initial stage, at least through facultative work.
+The discussion of approximate methods մոտեց computational-practical problem modeling approaches և computational methods can be conventionally divided into several stages of training.
+Phase I - elementary school, computational problems ներգր Involvement of applied problems (in this case, mainly of a domestic nature), which are based exclusively on this age group, strictly in accordance with this group.
+Phase II - Grades 5-6, where the most serious computational problems, approximate methods, applied, why not, financial problems can be given strong attention, using the apparatus of fractional numbers, linear equations.
+Phase III - Grades 7-8, where the contents of teaching not only mathematical but also natural sciences are deepened.
+  This stage is the most serious, well-founded period of providing the original intellectual methods and interdisciplinary relations with various applications.
+ At this stage, one can also analyze in depth many financial and statistical problems.
+computational-applied, also - IV stage - 9th grade, which summarizes the middle stage of education, opens a wide range of serious applications for the use of approximate computational-applied problems, approximate methods.
+Phase V - High School, in which, we think, a large arena is opened for the study of mathematical problems in the direction of serious study.
+Phase VI - entrance exams, in which the necessary application-computational problems are involved.
+Ենք We think that in accordance with these stages, the involvement of applied calculation problems (financial, natural և spheres), approximate methods ացումը The deepening of the material in the courses is one of the main current priorities in the field of education.
+Mathematics in school. These discussions, multi-layered analysis of problems, choice of methods և applied developments need serious attention.
+  The most important task is to combine all this with the skills of computer "programming tools", their mastery, of course, in accordance with the peculiarities of school age.

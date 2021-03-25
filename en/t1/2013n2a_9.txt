@@ -1,70 +1,67 @@
 Along with the improvement of market economic conditions, Armenian companies need to introduce modern management methods and models aimed at increasing their competitiveness.
   The efficiency of investment management is of special importance for the realization of the long-term goals of the companies և for sustainable development.
-  In practice, investment decision-making is extremethe complexity due to the long use of capitalterm, high uncertainty of investment project resultsdegree ով complex nature of investment processes, especiallysharply puts the limited financial, human ընկերության of the company ևThe need to develop a comprehensive system for managing investment projects aimed at maximizing the efficiency of the use of material resources.
+  In practice, the extreme complexity of investment decision-making due to the long-term use of capital, the high degree of uncertainty in the results of investment projects, the complex nature of investment processes.
   Any decision to invest capital is accompanied by uncertainty.
   In such conditions, regular research on investment attractiveness acquires special importance.
-  Investment attractivenessare the quantitative expression of the means invested in the economyInvestment risks that reflect the probability of loss, which:They arise for many social, political and economic reasons.
- It is possible only as a result of a general risk assessmentbecomes to evaluate the effectiveness of the investment project.
-In economic activity, related to the issue of risk,It should be noted that it is an objective phenomenon, ie if it is implementedWhatever the activity, the risk definitely exists, regardlessfrom it, they take into account that they ignore it {2}.
+  Quantitative expression of investment attractiveness is the investment risks that express the probability of loss of funds invested in the economy, which arise for many social, political and economic reasons.
+ Only as a result of the overall risk assessment is it possible to assess the effectiveness of the investment project.
+In economic activity, in connection with the issue of risk, it should be noted that it is an objective phenomenon, that is, if any activity is carried out, then the risk definitely exists, regardless of whether they take it into account or ignore it {2}.
       We propose to use a general comprehensive criterion in risk assessments, which will describe the amount of possible losses as a result of the implementation of the investment decision.
-  The criterion can be conventionally called the price of risk. C risk = {P, L} where L is the sum of possible losses as a result of the implementation of the investment decision
-P is the probability of an unfavorable outcome (incurring losses).
-        It is advisable to use only to determine the risk priceindicators that are considered unsuccessfulthe probability of the outcome, as well as the magnitude of the losses from it.
+  The criterion can be conventionally called the price of risk. C risk = {P, L} where L is the sum of possible losses as a result of the implementation of the investment decision, P is the probability of an unfavorable outcome (incurring losses).
+        In order to determine the price of risk, it is expedient to use only indicators that take into account both the probability of failure and the amount of losses from it.
  As such indicators, we suggest using first of all dispersion, standard (mean square) deviation և coefficient of variation.
- Moreover, the assessment based on these indicatorsDo not encounter unnecessary complications during the economic interpretation of the results և comparative analysisIt is necessary to bring them to monetary proportions.
-        In world practice, the risk of uncertainty is usedNumerous methods for evaluating the effectiveness of investment project management, which assume the application of two main approaches: quantitative and qualitative.
-       The main problem of the qualitative approach is considered investmentIdentification of possible types of project risks ացումը identification as the risk affecting that typeIdentification of sources and factors ագր description.
- Qualitativean approach that does not allow you to quantify investment project risksize is the basis for further research using quantitative methods.
-As for the quantitative methods of assessing the effectiveness of investment projects in conditions of risk and uncertainty, the most common of them are:1. statistical method,2. Discount risk adjustment method;3. the method of reliable equivalents;4. The method of sensitivity analysis of efficiency criteria;5. Scenario method.
-         Statistical method of risk assessment of investment projectsis based on the use of statistical criteria.
-  By the way,Mathematical expectation, dispersion, mean squared deviation և coefficient of variation are more widely used.
-The method of adjusting the discount rate is practically the simplestէ is the most used method.
+ Moreover, in order not to face unnecessary complications during the economic interpretation of the evaluation results based on these indicators, comparative analyzes, it is necessary to bring them to monetary proportionality.
+        In world practice, many methods are used to assess the effectiveness of investment project management in the face of uncertainty and risk, which assumes the application of two main quantitative and qualitative approaches.
+       The main task of the qualitative approach is to identify the possible types of risks of the investment project under consideration ացումը identification, as well as the identification of sources and factors influencing the given type և description.
+ A qualitative approach that does not allow for the quantification of investment project risk is a basis for further research using quantitative methods.
+As for the quantitative methods of assessing the effectiveness of investment projects in conditions of risk and uncertainty, the most common of them are: 1. statistical method, 2. Discount risk adjustment method, 3. the method of reliable equivalents, 4. The method of sensitivity analysis of efficiency criteria, 5. the method of scenarios.
+         The statistical method of risk assessment of investment projects is based on the use of statistical criteria.
+  Moreover, mathematical expectation, dispersion, mean square deviation և coefficient of variation are more widely used.
+The discount risk adjustment method is practically the simplest and most widely used method.
  Its main idea is to estimate the current value of cash flow expected as a result of the implementation of the investment project using a risk-adjusted discount rate {4}.
-  Moreover, in order to adjust the amount of the discount rate, a certain base amount is taken, which is considered notrisk or minimum acceptable risk, to which is then added the expected risk premium.
- It is self-evident that there is a risk in the case of high-risk projectsThe premium must be high.
+  In order to adjust the amount of the discount rate, a certain base amount is taken, which is considered non-risky or with minimum acceptable risk, to which is added the expected premium for the risk.
+ It is self-evident that in the case of projects endowed with high risk, the risk premium should be as high.
          As already mentioned, the main advantage of this method is the simplicity of performing the necessary calculations.
   At the same time, the method has serious drawbacks that limit its scope of application.
- The disadvantage is that in order to adjust the amount of the discount rate, future cash flows are brought to a higher discount rate at the present time.using value, which, however, is about the degree of riskdoes not provide information, ie it is not so clear for the investor,what possible deviations of the indicators reflecting the effectiveness of the project can be registered.
- In addition to the application of this methodIn this case, a constant coefficient reflecting the risk is used when calculating the current effectiveness of the projectThis is not a good thing, as many projects are characterized by a gradual decrease in the level of risk at each subsequent stage of its implementation.
-  Other:In other words, profitable projects that do not involve an increase in risk over time may be misjudged, which of coursewill lead to decision making.
+ The disadvantage is that in order to adjust the amount of the discount rate, future cash flows are brought to the present time using a higher discount rate, which, however, does not provide any information on the degree of risk, ie it is not clear to the investor that the project is effective. What possible deviations can the indicators show?
+ In addition, in the case of this method, a constant value of the risk factor is used to calculate the current effectiveness of the project, which can not be considered appropriate, as many projects are characterized by a gradual decrease in the level of risk at each subsequent stage of its implementation.
+  In other words, profitable projects that do not involve an increase in risk over time may be misjudged, which will naturally lead to decision-making.
 After all, the effectiveness of a project depends on only one indicator, the risk-adjusted interest rate, severely limiting the ability to consider and model a large number of options.
-Unlike the discount risk adjustment method, reliableIn the case of the equivalent method, it is not the discount rate that is adjusted, but the originalthe amount of cash flow.
+In contrast to the discount risk adjustment method, in the case of the equivalence method, it is not the discount rate that is adjusted, but the magnitude of the bond flows.
   The adjustment is made by means of reliability coefficients for each project implementation period.
-  Reliability coefficients are expressednon-risk իսկ cash flow ratio.
-  Their formula has the following general appearance.where the CCFt project is not risky during the t periodis the amount of net cash flow expected from operations,CFt is the expected net cash flow in period t, at is the reliability coefficient in period t.
+  Reliability ratios express the ratio of non-risk-risk cash flows.
+  Their formula is as follows: where C is the amount of net cash flow expected from non-risky operations during the t period of the CCFt project implementation, where CFt is the amount of net cash flow expected during the t period, at is the reliability coefficient at period t.
           Despite the seeming simplicity of calculating at coefficients, in practice estimating them is not an easy task {5}.
-Most often at quantities are derived by the method of expert estimates, և in which case they reflect cash flowthe trust of experts in obtaining this or that componentdegree.
-at coefficients can be used to obtain the net expected during the entire project implementation periodCash flow risk adjusted.where CF is the cash flow in period t, T is the projectI0 is the amount of initial investment.
+Most often, the quantities at are derived by the method of expert estimates, in which case they reflect the level of confidence of experts in the receipt of this cash flow or that component.
+The coefficients at can be used to obtain the risk-adjusted amount of net cash flows expected during the entire period of the investment project. where CF is the cash flow in period t, T is the projected yield, I0 is the amount of initial investments.
         Preference is given to the project that provides the largest cash flow adjusted for reliability.
        It should be noted that this method is not without its drawbacks.
- Among them:It is possible to indicate the reliability coefficients that fully correspond to the risk inherent in each stage of project implementationthe complexity of the calculation, as well as the probability of the variablesthe impossibility of analyzing distributions.
-       The method of sensitivity analysis of indicators is quite wideIt is used in financial management.
- In the general case itleads to the analysis of the sensitivity of the overall index to changes in component indicators.
-  In other words, an attempt is being madeAssess the fluctuations of the output variable in case of fluctuations of the input variables.
-In the end, the project is selected, the efficiency index of which records the least fluctuations, which is considered asEvidence of minimal risk.
-The main disadvantage of this method is that it is possibleAssess the effect of fluctuations of input variables on the output indicator separately, ie each variable is considered in isolation from the others.
+ Among them are the difficulty of calculating the reliability coefficients that fully correspond to the risk inherent in each stage of project implementation, as well as the impossibility of analyzing the probabilistic distributions of variables.
+       The method of sensitivity analysis of indicators is quite widely used in financial management.
+ In the general case, it refers to the analysis of the sensitivity of the general index to the change of component indicators.
+  That is, an attempt is made to estimate what fluctuations the output variable registers in case of fluctuations of the input variables.
+In the end, the project is selected, the efficiency index of which records the least fluctuations, which is considered as evidence of minimal risk.
+The main disadvantage of this method is that it can be used to estimate the effect of fluctuations of input variables on the output, separately, ie each variable is considered in isolation from the others.
 The scenario method allows the sensitivity index of the output indicator to be combined with the analysis of probabilistic estimates of its deviations.
-In this case, the minimum risk is considered the lowest averagethe investment project with the standard deviation and variation coefficient.
-If the probabilities of creating this or that situation included in the scenario are known, then the expected integral of the projectThe result can be evaluated through mathematical expectation.where NPVi is the integral result of the implementation of scenario iin this case pi is the probability of the implementation of the i-th scenario.
-The risk of the whole project is assessed in negative NPV scenariosthrough the sum of probabilities.In the event of an ineffective project outcome during these appointmentsThe average amount of loss will be estimated as follows:In general, the presented method allows you to get:A complete picture of the individual project implementation options : Provides information on their performance indicatorssensitivity և possible fluctuations.
-In addition to the above, investment project risk assessmentAmong the methods we can mention such no less accurate methods,such as game theory methods, imitation modeling, nomethods based on the theory of definite sets.
- The evaluation of the effectiveness of the investment project endsIt is necessary to determine the level of its profitability in absolute terms.
+In this case, the investment project with the smallest average standard deviation and the coefficient of variation is considered the least risky.
+If the probabilities of creating this or that situation in the scenario are known, then the expected integral result of the project can be estimated by mathematical expectation. Where NPVi is the integral result, in the case of scenario i, pi is the probability of scenario i.
+The risk of the whole project is assessed by summing the probabilities of negative NPV scenarios. In these appointments, in case of ineffective project outcome, the average loss will be estimated as follows: .
+In addition to the above, investment project risk assessment methods include no less accurate methods such as game theory methods, imitation modeling, methods based on fuzzy set theory.
+ The evaluation of the effectiveness of the investment project leads to the determination of its level of profitability in absolute և relative terms.
   A number of quantitative and qualitative indicators are used to assess the effectiveness of investment projects.
-  Most often, interconnected is used for this purposeThe following system of indicators: 1. net income (NI),2. net discounted income (NDI) or, as:it is also called an integral product,3. net present value (NPV);4. profitability index (PI);5. Internal rate of return (IRR);6. payback period (PP);7. Investment efficiency ratio (ARR).
+  The following system of correlated indicators is most often used for this purpose: 1. net income (NI), 2. net discounted income (NDI) or, as it is otherwise called, integral result; 3. net present value (NPV), 4. profitability index (PI), 5. Internal rate of return (IRR), 6. payback period (PP), 7. Investment efficiency ratio (ARR).
 These indicators, despite their significant practical significance, have significant shortcomings.
  Thus, they are mainly partial in nature; they characterize the economic efficiency of investment projects from one point of view or another.
-  For that reasonFor a more comprehensive evaluation of projects, it is necessary to consider these indicators as a systemic whole, each component of which tries to supplement as a result of the use of the others.the resulting gap.
+  Therefore, for a more comprehensive evaluation of projects, it is necessary to consider these indicators as a systemic whole, each component of which tries to fill the gap created by the use of others.
  However, even with the application of all the observed indicators, it is impossible to avoid serious complications.
- So how many?that they are different in nature, so their values ​​can create the opposite picture.
- In this case, the problem of giving preference to one of the indicators arises, which, although very often solved by NPVin favor, but this solution ևs defective և does not have sufficient justification.
-Based on the above, it can be concluded that investmentOne of the common shortcomings of the described project performance indicators is the requirement for baseline data certainty, as an arbitrary investment project is characterized by uncertainty.by a multitude of factors.
-  That is, an arbitrary investment projectanalysis leads to the need to predict the future values ​​of a large number of uncertain variables in the market situation, ևIt is natural that it is impossible to get an absolutely accurate forecast.
-Considering the investment project as a return on profitabilityAssets package with different levels of investment riskIn our opinion, the problem of reduction can be solved by choosing a packagea structure that provides minimal dispersion.
-Literature   3. Èãîìèìà, Ë. Ë. '' Èìâåðòèöèè ''.
- ñ‚åá. ïîðîáèå / ïîä ðåä. ä-ðà íêîí. ,ê, ïðîô.
-Â. À. Ñëåïîâà. - Ì. .
+ Thus, since they are different in nature, their values ​​can create the opposite picture.
+ In this case, the problem of giving preference to one of the indicators arises, which, although often solved in favor of NPV, but this solution is "incomplete" and does not have sufficient justification.
+Based on the above, it can be concluded that one of the common shortcomings of the described indicators of investment project efficiency is the requirement of certainty of the initial data, as an arbitrary investment project is characterized by a set of uncertainty factors.
+  That is, arbitrary investment project analysis leads to the need to predict the future values ​​of a large number of uncertain variables in the market situation. It is natural that it is impossible to obtain an absolutely accurate forecast.
+Considering the investment project as a package of assets endowed with different levels of return, the problem of investment risk reduction, in our opinion, can be solved by choosing a package structure that will ensure minimal dispersion.
+Literature 3. Èãîìèìà, Ë. Ë. '' Èìâåðòèöèè ''.
+ ñ‚åá. ïîðîáèå / ïîä ðåä. ä-ðà íêîí. ,ê, ïðîô.Â. À. Ñëåïîâà. - Ì. .
  Ýêîíîìèñòú, 2004. - 478 ñ.7. × åðìîâ Â.À. '' Èìâåðòèöèîììà ðòðàòåã ðòðàòåãè ‛'. - Ì.:
-  ÞÍÈÒÈ-Äàíà, 2003.– 158:8. http:
-//www.ada.am/arm/for-investors/fdi-statistics/ Armenian developmentThe official website of the agencyInformation about the authors:Tamara Surik Simonyan - Economics scientist Candidate, Associate Professor, Gyumri State University
-Head of the Chair of Economics of the Pedagogical Institute, E-mail:
- Tsimonyan62@mail.ru.Israeli Khachatur Sargsy - Gyumri State Pedagogical InstituteLecturer of the Chair of Economics, E-mail.
+  ÞÍÈÒÈ-Äàíà, 2003.– 1588. http.
+//www.ada.am/arm/for-investors/fdi-statistics/ Official website of the Armenian Development AgencyInformation about the authors Tamara S. Simonyan - Economics scientist Candidate, Associate Professor, Head of the Chair of Economics, Gyumri State Pedagogical Institute, E-mail.
+ Tsimonyan62@mail.ru: Israeli Khachatur Sargsy - Lecturer at the Chair of Economics of Gyumri State Pedagogical Institute, E-mail.

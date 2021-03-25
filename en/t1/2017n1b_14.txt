@@ -1,86 +1,84 @@
 Preface.
-  Problems in mathematical physics, theory of elasticity, hydrodynamics և other fields are usually broughtdifferential equations with partial derivatives or ordinarydifferential equations that need to be integrated into the problemin the presence of appropriate marginal or preconditions.
-  From a practical point of view, these problems are more interestingNumerical methods of solution, even if they are approximate.
- To that endbest served are the so-called direct methods, which, according toSobol definition, theory of differential-integral equationsThese problems lead to the approximate solution of problemsthe finite system of algebraic equations.
-When using direct methods, it is necessary to take into account oneThe most important fact is, in many cases, differential equationsThe problem of integration can be replaced by the problem of determining the function that has the least value equivalent to a given integral.
-  The latteris called a variation problem, and the method by which the problem of integrating the differential equation is brought to it is equivalent to a variationThe problem is the variation method (in the technical literature the variation method is also called the energy method).
- It turns out that direct methodsmost of them are convenient to use not for the integration of the direct differential equation directly, but for the solution of the corresponding variation problem.
-The variational method of solving edge problems is widespreadreceived only after the German mathematician in 1908Ritz suggested a convenient solution to the variation problemfor a solution.
-  Ritz's method establishes a direct connection directly ևbetween variation methods.
-Consider the Ritz method for the following functionality:which is determined by a certain linear set 𝐾 = {𝑢,, դրական is a positive linear setis an operator, and է is a given continuous function.
-  It is supposed that 𝐾The class functions satisfy the following linear boundary condition:where է is a known linear function, տր is a given constant valueor function.
- Let's be linearly independent functions 𝑢0 (𝑃), 𝑢1 (𝑃,)…. , 𝑢𝑛 (𝑃)
-the sequence where 𝑢0 (𝑃) satisfies the following heterogeneousterm condition: and 𝑢𝑖 (𝑃):the homogeneous marginal condition.
-Let's compilelinear combination.
-Sincethen 𝑢 ∈ 𝐾 for any 𝑐1, 𝑐2,…, 𝑐𝑛 constants.
+  Problems in mathematical physics, theory of elasticity, hydrodynamics սովորաբար other fields are usually referred to as differential equations with partial derivatives or ordinary differential equations that need to be integrated if the corresponding terminal or preconditions are present.
+  From a practical point of view, digital methods of solving these problems are more interesting, even if they are approximate.
+ The so-called direct methods serve this purpose better, which, according to Sobol's definition, when solving the problems of the theory of differential-integral equations, these problems lead to a finite system of algebraic equations.
+When using straightforward methods, it is necessary to take into account the fact that in many cases the problem of integrating differential equations can be replaced by the problem of determining the function that has the smallest value equivalent to a given integral.
+  The latter is called the variation problem, and the method by which the problem of integrating the differential equation is brought to its equivalent variation problem is the variation method (in the technical literature the variation method is also called the energy method).
+ It turns out that most straightforward methods are convenient to use not to integrate the differential equation directly, but to solve the corresponding variation problem.
+The variational method for solving term problems became widespread only after the German mathematician Ritz proposed a convenient solution for approximation problems in 1908.
+  Ritz's method establishes a direct connection between "variation methods".
+Consider the Ritz method for a function of the following form, which is defined on a certain linear set {= {𝑢 𝐿, է is a positive linear operator, and է is a given continuous function.
+  It is assumed that 𝐾class functions satisfy the following linear boundary condition, where է is a known linear function, 𝜑 is a given constant value or function.
+ Let's be linearly independent functions 𝑢0 (𝑃), 𝑢1 (𝑃,)…. The sequence (հաջորդ), where 𝑢0 (𝑃) satisfies the following heterogeneous condition, and 𝑢𝑖 (𝑃) satisfies the homogeneous edge condition.
+We will form the line combination.
+Because 𝑢 ∈ 𝐾 for any 𝑐1, 𝑐2,…, 𝑐𝑛 constants.
 (1) - (2) Find the approximate solution of the variation problem in (3).
- Its:Put 𝑢 (𝑃, 𝑐1, 𝑐2,…, 𝑐𝑛) in function (1).
-  In that casewe will get:where ն is a known function depending on the variables 𝑐1, 𝑐2,…, 𝑐𝑛 n.
+ Place the number (𝑃, 𝑐1, 𝑐2,…, 𝑐𝑛) in the (1) function.
+  In this case we get where ն is a known function depending on the variables 𝑐1, 𝑐2,…, 𝑐𝑛 n.
   We will choose the coefficients 𝑐1, 𝑐2,…, այնպես so that 𝐹 [𝑢] is the smallest.
-  From this condition we get the determination of the coefficients 𝑐𝑖 (𝑖 = 1, 2,…, 𝑛)for the following system:= 0.
-The resulting coefficients 𝑐𝑖 (𝑖 = 1, 2,…, 𝑛) by placing the relation (3)In it, we will get the searchable solution.
-Thus, the problem of (1) - (2) variation is approximatedSearch for the extreme of the function Φ (𝑐1, 𝑐2,…, 𝑐𝑛).
-  The accuracy of the solutionincreases with the number of variables in the Φ function.
+  From this condition we will get the following system for determining the coefficients 𝑐𝑖 (𝑖 = 1, 2,…, 𝑛): = 0.
+Putting the obtained coefficients 𝑐𝑖 (𝑖 = 1, 2,…, 𝑛) in relation to (3), we will get the searchable solution.
+Thus, the (1) - (2) variation problem is approximated by the search for the extreme of the function Φ (𝑐1, 𝑐2,…, 𝑐𝑛).
+  The accuracy of the solution increases as the number of variables in the Φ function increases.
 Consider the Ritz method for simple marginal problems.
-Let's say it is given linear differential equationwith simple boundary conditions where 𝑝 (𝑥), 𝑞 (𝑥), 𝑓 (𝑥) ∈ 𝐶 [𝑎, 𝑏], where𝑝 (𝑥)> 0, when 𝑎 ≤ 𝑥 ≤ 𝑏.
-  (5), (6) the term problem is equivalentto the functional variation problem [1], for which եզր 𝐶 [2 [𝑎, 𝑏] (satisfies the term condition (6).
+Suppose a linear differential equation with simple boundary conditions is given, where 𝑝 (𝑥), 𝑞 (𝑥), 𝑓 (𝑥) ∈ 𝐶 [𝑎, 𝑏], and 𝑝 (𝑥)> 0, when 𝑎 ≤ 𝑥 ≤ 𝑏.
+  (5), (6) the terminal problem is equivalent to the functional variation problem [1], for which (𝐶 𝐶2 [𝑎, 𝑏] և the terminal condition (6) is satisfied.
 To solve the variation problem (6), (7) use the Ritz method.
-Choose a system of linearly independent functions:so 𝑢0 (𝑎) = 𝐴, 𝑢0 (𝑏) = 𝐵, and the other functions 𝑢𝑖 (𝑥) (𝑖> 0),satisfy homogeneous marginal conditions:ui (a) = ui (b) = 0 (i = 1, 2,…, n).
-Find the solution to the variation problem as follows:where 𝑐𝑖 (𝑖 =, 1, 2,…, 𝑛) are still unknown constants.
-It is obvious that solution (8) satisfies the given boundary conditions;that is, 𝑦 (𝑎) = 𝐴, 𝑦 (𝑏) = 𝐵.
-Choose the coefficients 𝑐1, 𝑐2,…, այնպես so that the function 𝑦 (𝑥) givesin the extreme (7) functional.
- By inserting relation (8) into formula (7):we will get:where 𝛷 (𝑐1, 𝑐2,…, 𝑐𝑛) is a quadratic function with respect to the variables 𝑐1, 𝑐2,…,։.
- It is known that the function 𝛷 (𝑐1, 𝑐2,…, դի) toIn case of certain values ​​of 𝑐1, 𝑐2,…, ունեն to have in the extreme, it is necessaryto meet (4) conditions.
-(4) the system is linear with respect to the search coefficients 𝑐1, 𝑐2,…,,;and the number of equations is equal to the number of unknowns.
-  Solving:(4) system: find the coefficients 𝑐1, 𝑐2,…, 𝑐𝑛 (𝑖 = 1,2,…, n), after whichPutting the latter in relation to (8), we will find (6), (7) variationssolution of the problem և followed by (5), (6) the solution of the term problem.
- Note that the problemThe accuracy of the solution depends on the choice of linearly independent functions,և it increases with their number.
-Now let's look at some specific problems that we can solve with the Ritz method,then with the exact method միջոցով we will do it accurately through the table ևNumerical comparison of approximate solutions.
-Problem 1. Given:
-functional:in case of marginal conditions.
- You need to find the function 𝑦 = 𝑦 (𝑥),which will give the given functionality a minimum.
-Solutiona) Ritz method.(9), (10) find the solution to the variation problem in (8), where {𝑢𝑖 (𝑥)}From the system of linearly independent functions, select the base functions that will satisfy: 𝑦 (0) = 𝑦 (1) = 0, the homogeneous boundary conditions are:𝑢𝑖 (𝑥) = (𝑥 - 1) 𝑥𝑖, (𝑖 = 1, 2,…).
-In case n = 1, we get:1 (𝑥) = 𝐶1 (2𝑥 - 1).
+Choose a system of linearly independent functions such that 𝑢0 (𝑎) = 𝐴, 𝑢0 (𝑏) = 𝐵, and the other functions 𝑢𝑖 (𝑥) (𝑖> 0) satisfy the homogeneous boundary conditions: ui (a) = ui (b) = 0 (i = 1, 2,…, n).
+Find the solution to the variation problem in the following form, where 𝑐𝑖 (𝑖 = 1, 2,…, 𝑛) are still unknown constants.
+It is obvious that solution (8) satisfies the given boundary conditions, ie 𝑦 (𝑎) = 𝐴, 𝑦 (𝑏) = 𝐵.
+Choose the coefficients 𝑐1, 𝑐2,…, այնպես so that the function 𝑦 (𝑥) is in the extreme (7) of the function.
+ Putting relation (8) in formula (7), we get where ՝ (𝑐1, 𝑐2,…, 𝑐𝑛) is a quadratic function with respect to the variables 𝑐1, 𝑐2,…,։.
+ It is known that in order for 𝛷 (𝑐1, 𝑐2,…, 𝑐𝑛) to have a differential function in the extreme at certain values ​​of 𝑐1, 𝑐2,…,,, the conditions (4) must be satisfied.
+(4) the system is linear, with respect to the search coefficients 𝑐1, ,2,…,,, and the number of equations is equal to the number of unknowns.
+  Solving the system (4), we find the coefficients 𝑐1, 𝑐2,…, 𝑐𝑛 (𝑖 = 1,2,…, n), from which, placing the latter in relation to (8), we will find the solution of the variation problem (6), (7) և respectively: (5), (6) the solution of the terminal problem.
+ Note that the accuracy of the problem-solving depends on the linearly independent selection of functions և it increases with increasing number.
+Let us now consider specific problems that we will solve with the Ritz method, then with the exact method, we will make an accurate numerical comparison of approximate solutions using the table.
+Problem 1. The given functionality in case of marginal conditions.
+ It is required to find the 𝑦 = 𝑦 (𝑥) function that will give the given functionality a minimum.
+Solution) Ritz method: (9), (10) Find the solution of the variation problem in (8), where ից 𝑢𝑖 (𝑥) ից select the base functions that will satisfy: 𝑦 (0) = 𝑦 (1) = 0, homogeneous edge conditions, they are: 𝑢𝑖 (𝑥) = (𝑥 - 1) 𝑥𝑖, (𝑖 = 1, 2,…).
+In case n = 1, we get: 1 (𝑥) = 𝐶1 (2𝑥 - 1).
 By placing 1 (𝑥) in the given functionality, we will get:
 = 𝜙 (𝐶1).
-We find the coefficient 𝐶1= 0 from the equation.
-Therefore:(𝑥2 - 𝑥).
-In case n = 2 we will have:2 (𝑥) = 𝐶1 (2𝑥 - 1) + 𝐶2 (3𝑥2 - 2𝑥).
+We find the coefficient 𝐶1 from the equation = 0.
+Therefore: (𝑥2 - 𝑥).
+In case n = 2 we will have: 2 (𝑥) = 𝐶1 (2𝑥 - 1) + 𝐶2 (3𝑥2 - 2𝑥).
 Putting 2 (𝑥) in the functionality, we get:
-Using:2 = 𝜙 (𝐶1, 𝐶2).
-= 0 conditions, we will get the following system, from which we will determine the coefficients 𝐶1, 𝐶2:Therefore:⇒ 𝐶1 = 0.189, 𝐶2 = 0.175.
+Using 2 = 𝜙 (𝐶1, 𝐶2).
+= 0 conditions, we will get the following system, from where we will determine the coefficients 𝐶1, 𝐶2: Therefore: ⇒ 𝐶1 = 0,189, 𝐶2 = 0,175.
 𝑦2 (𝑥) = 0.189 (𝑥2 - 𝑥) + 0.175 (𝑥3 - 𝑥2).
-b) Accurate solution.We use it to solve the given variation problem in an accurate wayFrom the Euler – Lagrange equation [2]𝜕𝑦 ′) = 0.
-In this case ,Therefore, the Euler-Lagrange equation would be:(2𝑦 ′) = 0 ⇒ 𝑦 ′ ′ + 𝑦 - 𝑥 = 0.
-It turns out that it is necessary to solve the linear heterogeneous equation with constant coefficients 𝑦 ′ ′ + 𝑦 - 𝑦 = 0 𝑦 (0) = 𝑦 (1) = 0in case of marginal conditions.
+b) Correct solution. To solve the given variation problem by the exact method, we use the Euler-Lagrange equation [2]: 𝜕𝑦 ′) = 0.
+In this case, then, the Euler-Lagrange equation would be: (2𝑦 ′) = 0 ⇒ 𝑦 ′ ′ + 𝑦 - 𝑥 = 0.
+It turns out that it is necessary to solve the linear heterogeneous equation with constant coefficients 𝑦 ′ ′ + 𝑦 - 𝑥 = 0 in the case of the boundary conditions 𝑦 (0) = 𝑦 (1) = 0.
  The solution of the latter will be: 𝑦 = 𝑥 -
 .
-c) Comparison of numerical values ​​of "accurate" approximate solutions.Table 1 presents a comparison of approximate solutionswith the correct solution.
- Table 1:Comparison of accurate և approximate solutionsProblem 2. Given 𝐼 [𝑦 (𝑥)] = ∫ 𝑦′2 + 𝑦2 + 2𝑥𝑦 𝑑𝑥 functional, 𝑦 (0) =:
+c) Comparison of numerical values ​​of "exact" approximate solutions. Table 1 presents the comparison of approximate solutions with the exact solution.
+ Table 1 Comparison of Exact լուծ Solutions Problem 2. Given the function 𝐼 [𝑦 (𝑥)] = ∫ 𝑦′2 + 𝑦2 + 2𝑥𝑦 𝑑𝑥, 𝑦 (0) =
 𝑦 (2) = in case of 0 boundary conditions.
-  Find the 𝑦 (𝑥) function that:will give the given functionality a minimum.
-Solution a) Ritz method.As basic functions we take:as the marginal conditions are satisfied.
-In the case of 𝒏 =,, by:We will receive a resolution:1 (𝑥) = 𝐶1 (2𝑥 - 2).
+  Find the 𝑦 (𝑥) function that will give the selected functionality a minimum.
+Solution a) Ritz method. We take as basic functions, since the boundary conditions are satisfied.
+In case 𝒏 =։, according to the formula we will get: 1 (𝑥) = 𝐶1 (2𝑥 - 2).
 By placing 1 (𝑥) in the given functionality, we will get:
 𝑦1 (𝑥) և 𝑦 𝑦
 = 𝜙 (𝐶1).
-We find the coefficient 𝐶1Therefore: 𝑦1 (𝑥) =
-In case 𝒏 = կստ we will get:(𝑥2 - 2𝑥).
+The coefficient 𝐶1 is found by: և1 (𝑥) =
+In case 𝒏 = անք we will get (𝑥2 - 2𝑥).
 = 0 from the equation.
 2 (𝑥) = 𝐶1 (2𝑥 - 2) + 𝐶2 (3𝑥2 - 4𝑥).
 𝑦2 (𝑥) և 𝑦 𝑦
-By placing 2 (𝑥) մեջ in the functionality և using = 0, we will determine the conditions 𝐶1, 𝐶2 coefficients:𝐶1 = 0.204, 𝐶2 = 0.152.
-Therefore:𝑦2 (𝑥) = 0.204 (𝑥2 - 2𝑥) + 0.152 (𝑥3 - 2𝑥2).
-In case 𝒏 = կստ we will get:By placing ′ (𝑥) in the functionality using: 𝑦3 (𝑥) 𝑦 :3:
-= 0 conditions, we get the constants 𝐶1, 𝐶2, 𝐶3:.
-Therefore:(𝑥4 - 2𝑥3).
-b) Accurate solution.In this case, the Euler-Lagrange equation would be:𝑦 ′ ′ - 𝑦 = 𝑥.
-The latter is a linear heterogeneous differential with constant coefficientsequation, which by solving we will get:𝑦 = 𝐶1𝑒𝑥 + 𝐶2𝑒 − 𝑥 - 𝑥.
-Satisfying the term 𝑦 (0) = 𝑦 (1) = 0, we get:.
-Putting the values ​​of the coefficients 𝐶1, 𝐶2 in the solution 𝑦, we will get:- 𝑥.
-c) Comparison of numerical values ​​of "accurate" approximate solutions.Table 2 shows Ռ1 (𝑥), 𝑦2 (𝑥) obtained by Ritz method,
+Putting 2 (𝑥) in the functional և using = 0, we will determine the conditions 𝐶1, 𝐶2 coefficients: 𝐶1 = 0,204, 𝐶2 = 0,152.
+Therefore: 𝑦2 (𝑥) = 0,204 (𝑥2 - 2𝑥) + 0,152 (𝑥3 - 2𝑥2).
+In case 𝒏 = կստ we will get տեղադր (𝑥) by putting տեղադր in the function և using 𝑦3 (𝑥) 𝑦 𝑦3
+= 0 conditions, we get the constants 𝐶1, 𝐶2, 𝐶3:
+Then (𝑥4 - 2𝑥3).
+b) Correct solution. In this case, the Euler-Lagrange equation will be: 𝑦 ′ ′ - 𝑦 = 𝑥.
+The latter is a linear heterogeneous differential equation with constant coefficients, which by solving we will get: 𝑦 = 𝐶1𝑒𝑥 + 𝐶2𝑒 − 𝑥 - 𝑥.
+Satisfying the term condition 𝑦 (0) = 𝑦 (1) = 0, we get:
+Putting the values ​​of the coefficients 𝐶1, 𝐶2 in the solution 𝑥, we will get: 𝑥.
+c) Comparison of numerical values ​​of "exact" approximate solutions. Table 2 shows իտ1 (𝑥), 𝑦2 (𝑥) obtained by Ritz method,
 𝑦3 (𝑥) approximate solutions 𝑦 𝑦 (𝑥) the exact solution.
-Comparison of accurate և approximate solutions Table 2:  Conclusion.
-  Solve the considered simple edge problemsby the exact method, the approximate method (Ritz method), and then thatNumerical comparison for methods in practiceshows that as the number of basic functions increases,The approximate solution of the problem is close to the exact solution.
+Comparison of accurate և approximate solutions Table 2 Conclusion.
+  The simplest boundary problems observed can be solved by the exact method և the approximate method (Ritz method), then the numerical comparison made for those methods shows in practice that as the number of basic functions increases, the approximate solution of the problem approaches the exact solution.
 Literature
 analysis. Moscow.
  Science. 1967. 368 p.

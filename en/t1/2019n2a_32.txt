@@ -1,0 +1,44 @@
+Taking into account the peculiarities of the development of the trade turnover with the economy of Armenia: small, open-importing country, the presence of external economic shocks, imported inflation, unrestrainedness, the problems of the underdevelopment of the market resources of the countries.
+ The purpose of the article is to consider և identify issues that hinder the emergence of monetary policy արդյունավետ during the implementation of monetary policy և hindering the effective implementation of the policy.
+  This problem is always under the study of various theorists, such as the Central Bank of Armenia.
+Depending on the choice of monetary policy strategy in the countries, according to many theorists, the degree of direct discretion or commitment of the central bank.
+Due to the monetary policy, the video-methodological issues are reflected. Frenkel, A. Knobeli, A. Tavadyan, E. In Sandoyan և's other works.
+implementation R. According to Mandel, The ultimate goal of achieving price stability is that the central banks of the countries choose the monetary policy strategy, defining the intermediate goals - nominal anchors.
+Accordingly, the exchange rate plays the role of the nominal anchor of monetary policy, the aggregates of money and the projected level of inflation.
+  [1] According to the nominal anchor chosen, the implemented strategies are respectively called exchange rate, money aggregation և inflation targeting strategy.
+  There is a fourth, without the obvious expression of the only nominal anchor strategy.
+  It can be stated that at present the inflation targeting strategy prevails in the countries. 2019 As of August 2013, 71 countries are implementing inflation targeting strategies, 36 of which are fully targeted.
+The advantages and disadvantages of monetary policy strategies are presented in Table 1.
+Features of Monetary Policy StrategiesFeature Inflation RateCurrency Table 1. Independence of the Central BankRealistic link with the final goalTarget transparencyAccountabilityIntroduction of self-employed rulesControllability Timeliness The targeting of monetary units implies limitations of monetary units for the final purpose [3] to ensure price stability].
+The composition and structure of money units of different countries differ significantly, which is due to the peculiarities of the differences between the economies and systems of countries.
+  For example, in France and Germany there are two such units, in Japan - three, in the USA - four.
+  There are three monetary aggregates in Armenia.
+ Dynamics of monetary aggregates 20032019 (See Figure 1).
+The financial implementation of the Central Bank of the Republic of Armenia in 1994-2005 would ensure the strategy of targeting money units.
+ Stable inflation "intermediate goals of monetary policy" were defined, respectively, the money supply և money base.
+Purpose Operational Chart 1. The structure of money supply in the Republic of Armenia in 20032019 [6] indicators.
+  However, the main point of this strategy is that the Central Bank should achieve its main goal - price stability - by targeting monetary aggregates, ensuring the underdevelopment of the market by the latter, new emerging (financial banking system, fluctuating fluctuating exchange rate Due to the impact of non-monetary factors on it (external shocks, etc. [4]), it became very difficult to ensure the program indicators of money units, խնդիրը the problem of the impossibility of full management of money units by the Central Bank arose.
+The Central Bank of the Republic of Armenia was faced with a new nominal anchoring, either the problem of exchange rate selection, which could be the goal, or the direct goal of inflation.
+As a means of ensuring price stability, exchange rate targeting is the fixation of the latter at the exchange rate of a usually developed, low inflation rate, country with a stable economy and a large trading partner.
+  In the case of a fixed exchange rate policy, the main goal of the Central Bank և strategy is to identify one principle: to ensure a fixed level of the exchange rate.
+0.0500000,01000000,01500000,02000000,02500000,03000000,020032004200520062007200820092010201120122013201420152016201720182019M1M2M2X In the Republic of Armenia, the exchange rate targeting strategy could not be implemented
+ In our opinion, this choice is more difficult not only due to economic but also political factors.
+  Taking into account the above-mentioned, in 2006 the Central Bank of Armenia passed to the strategy of inflation targeting.
+In the case of an inflation targeting strategy, price stability must be accepted as the main goal of monetary policy, նպատակ inflation targets are announced to the public.
+In the context of this strategy, as a monetary policy tool, the refinanced level, the principal interest rate, and the programmatic inflation rate range of 4 ± 1.5% (3% in 2006).
+The transition and the current implementation of the Inflation Targeting Strategy in Armenia are not without problems.
+Proceeding from the logic of the main problem of the Central Bank of Armenia, the inflation rate should be in the range of 4 ± 1.5% not only at the end of the year, but every 12 months.
+  It is clear from Figure 2 that since 2006, after the transition to the inflation targeting policy, the annual inflation rate has been in fact only in 61.5% of cases within the 4 ± 1.5% of the RA state budget.
+Underdevelopment, transfer Among the main problems can be distinguished: the level of financial mechanisms, price gaps, monetization control, etc.
+As a small open economy, Armenia bears the significant influence of the outside world due to the fluctuations of both the world economy and international commodity prices.
+  In addition, in Armenia, due to the weight of the consumer basket (48%), the seasonality of the agricultural sector poses additional problems to ensure price stability in the short term.
+  The main problem of the Central Bank during its implementation is hindered by the high level of dollarization of the economy, the level of monetization, the negative balance of the trade balance, and it can be stated that inflation in Armenia is not a monetary phenomenon.
+Low Chart 2. Actual Inflation Rate in Armenia in 2003-2018 [5] inflation. from the data through the EVIEWS software package (see Table 2).
+Based on the data in Table 2, it can be seen that the participation of the above-mentioned factors in the short-term sector in Armenia is inflationary, in particular, 6.4% of inflation fluctuations in the first month can be explained by changes in the monetary base with և 1.8% money supply.
+    However, starting from the second month, the impact of the monetary base on inflation behavior becomes significant, reaching a maximum in the 2nd-5th months, amounting to 21%, and inflation fluctuations due to changes in the mass, at most, conditioning almost 2% of inflation fluctuations.
+  Turning to the effect of interest rates, it should be noted that due to the change in the repo interest rate ակից in the first half of the refinancing period, inflation fluctuations, although occurring in the first month, conditioned only 0.9 և 0.6% of inflation fluctuations, respectively.
+  If the refinancing rate increases sharply in the second month to 4%, it reaches a maximum in the 10th month due to 6% of inflation fluctuations;
+  This provides an opportunity to conclude that the impact of interest rates in Armenia has a weak contribution to changes in inflation, which is poorly explained by underdevelopment of markets, low level of monetization, high level of dollarization.
+Financial Table in the Republic of Armenia 2. Inflation "deviations" due to money base, refinancing rate, inflation և monetary refinancing rate [7] In particular, to promote the development of the currency derivatives market.
+  It is also possible to pay great attention to the low level of monetization in Armenia, as in such a situation there is a hunger for money, the depth of the market leads to dollarization, in fact it is difficult to regulate the mass of monetization by the Central Bank.
+  And to increase the level of communication with inflation, the opportunity to use the tools, particularly the interest rate as a transfer mechanism, more effectively in connection with inflation, to implement measures that will lead to the improvement of the level of development of financial infrastructure.

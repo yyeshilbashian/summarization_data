@@ -1,77 +1,76 @@
 GSPI organizes two-level university education with a bachelor's, master's, as well as postgraduate, postgraduate study program.
-  Teaching in the first degree և:The most basic of the many forms of learning are lectures, interactive teaching, laboratory, practical, seminar, pedagogical-educational practices, essays, folders, testing and testing, individual, independent-research works [1].
-One or two research projects during the studyPerformance, even in the absence of clear co-institutional requirements, cannot provide the necessary level of learner skills acquisition.
-  Experience shows the quality of research work in the master's degree programsuffers significantly due to lack of required skills.
+  Learning, interactive teaching, laboratory, practical, seminar, pedagogical-internships, essays, folders, testing and testing, individual, independent-research work are the most important of the many forms of teaching in the first degree.
+One or two research assignments during the study, even in the absence of clear co-institute requirements, can not provide the necessary level of learning skills.
+  Experience shows that the quality of research work in the master's level of education suffers significantly due to the lack of required skills.
   Therefore, we think that the issue of raising the level of readiness of students to do research work deserves attention.
-In the work undertaken, we try to offerSequential steps to solve the problem և address some of themto the discussion.
- They are:• For research work by the studentCriteria for knowledge of different skills և their knowledgeDevelopment of requirements and unit values ​​for different levels և Use to evaluate work already donefor, • A questionnaire or test to check the level of knowledge of the requirementscreate• Establishment of a scale for evaluating the results of the test conducted through a questionnaire or test;• Depending on the purpose, knowledge testing through a questionnaire or test;• Use assessment results to develop a subject program that teaches relevant skills;• Introduction of the subject in the curriculum.
-           In our work we will not touch upon the analysis of the last two points մշակ the elaboration of requirements for different levels of criteria,but we will present a sample for one criterion.
+In the undertaken work we try to suggest successive steps to solve the problem և to refer to the discussion of some of them.
+ These are: • Development of criteria for the knowledge of different skills of the student to carry out research work, requirements and unit values ​​for their different levels of knowledge և Use to evaluate the work already done, Depending on the purpose, a test of knowledge through a questionnaire or test, • the use of assessment results to develop a subject program that teaches relevant skills;
+           In our work we will not touch upon the analysis of the last two points մշակ the elaboration of requirements for different levels of criteria, but we will present a sample for one criterion.
 We have chosen the final work from the research work carried out by the student during the university education.
   In addition to academic knowledge, different abilities and skills are required for the independent "successful implementation" of this work.
-  Let's agree on thatcall skills the criteria for student readiness orRequirements ներկայացնել submit them in the following groups:• General literacy skills: GH,• Research skills: RA, • Technical skills և IT skills: IT,• Presentation skills: NH.
-The latter are not checked by a test or a questionnaire, butare revealed during the presentation of the work են have a certain influence on the formation of the overall grade.
-After developing the requirements, we created a questionnaire to check the knowledge of those requirements, we suggested using it for testing.by different means, for example, by conducting a survey or testing.
-During the survey, the learner will be asked to ask questionsextensive answer, and during the test choose the one offeredOne or more answers.
- Each of the test forms:Depending on the purpose, it has advantages and disadvantages.
- Survey:The results will give an idea of ​​the overall development of the studentlevel, master of the mother tongue, connected, logicalon the ability to construct a written word, to analyze, then this test will be more appropriate, especially among students of the humanities.
- However, difficulties will arise because the answers are not technologically verifiable, can not be uniform, և great rolefield will be created for subjective factors, will not ensure the objectivity of the assessment as in the case when the examiner is not the studentrecognition, otherwise.
- And for the test you need each questionnaireAsk a test question by asking the learner a choiceone or more correct answers, prompting the taskin.
- For simplicity, we only included it in the test we compiledTasks with one correct answer.
-  Testing will provide:the technological nature of the test, but the objectivity of the assessment will again not be unambiguous, as such tasks increase the likelihood of accident, in addition to being visible.do not make the level of language literacy, analytical skills, etc., which were the advantages of the survey. [2]
-The evaluation of the two test forms will also differ somewhatmethods.
-  Each test task is graded 0or unsatisfactory, with a specific positive score or excellent.
-  And if:If the test is done with a questionnaire, then different levels of requirements should be developed for the evaluation of each criterion (which:We have not considered the task of this work, but, for example, in order to clarify our logic, we present a sample of one of the different skills requirements)with values.
-  For example, the "Topic Selection" criterion in Table 1The score is 0-8 points.
-  Requirements with different unit values ​​can be conventionally as follows: learner
-- had no idea that he played a role in choosing the topichas - 0 points,- considered the choice of the topic only the case of the head - 1 point,- chose a very "beaten, tortured", non-novel topic - 2 points,- Make a random selection of different ones suggested by the managerbetween topics - 2 points (tried to show selectivity),- substantiated his choice from the topics proposed by the manager - 3points (showed the ability to choose)- suggested a topic, but chosen at random - 4-5points (depending on the topic)- substantiated the choice of topic with the availability of the necessary literature - 6 points,- substantiated the choice of the topic with his own interest in the problems - 7 points,- suggested a topic, substantiating its urgency - 8 points.
-Applying this principle with the assessment of all requirementscan be determined based on the total unit value obtainedlearnerDegree of knowledge.
-  And the evaluationThe student's score on the scale will be insufficient, sufficient,good or excellent, will be decided by both the test and the questionnairein a certain percentage compared to the total unit.
-For example,• 0 - 39% - unsatisfactory• 40 - 69% - sufficient• 70 - 89% - good• 90 - 100% - excellentThis scale is conditional, as any structure can develop if it sees the need to create a scale.its scale.
-In both cases of testing, in addition to determining the total score, it is possible to separate the sums collected from different skills by determining the percentage value of each of them to the maximum intended for those skills.for a cost, get a clear picture of the level of skill of the respondent in each of the required skillsHe knows.
+  Let's agree to call these skills criteria for student readiness and requirements ներկայացնել to present them in the following groups: • general literacy skills - RH, • research skills - RA, • technical skills - information technology - TC, • presentation skills - RH.
+The latter are not checked by a test or questionnaire, they are revealed during the presentation of the work, they have a certain influence on the formation of the general grade.
+After developing the requirements, we created a questionnaire to check the knowledge of those requirements, we suggested using it in different test methods, for example, by conducting a survey or testing.
+During the survey, the learner will be required to give extensive answers to the questions, and during the test, select one or more of the suggested answers.
+ Each of the test forms, depending on the purpose, has advantages and disadvantages.
+ The survey results will give an idea of ​​the general level of student development, mastery of the mother tongue, the ability to construct a connected, logical speech, and analysis, so this test will be more appropriate, especially among students of the humanities.
+ However, difficulties will arise because the answers are not technologically verifiable, can not be uniform, և a large role field will be created for subjective factors, will not ensure the objectivity of the assessment both when the examiner does not recognize the student and otherwise.
+ And for testing, it is necessary to make each question of the questionnaire a test task, offering the learner one or several correct answers, prompting about it in the task.
+ For the sake of simplicity, we have included only one correctly answered task in our test.
+  The testing will ensure the technological nature of the test, but the objectivity of the assessment will again not be unambiguous, as such tasks increase the likelihood of randomness, as well as the level of language literacy, analytical skills, etc., which were the advantages of the survey.
+The evaluation methods of the two test forms will be somewhat different.
+  Each test task is graded 0 or unsatisfactory, with a specific positive score or excellent.
+  If the test is to be done with a questionnaire, then different levels of requirements must be developed for the evaluation of each criterion (which we did not consider a problem in this work, but, for example, to clarify our logic, we present a sample of different skills requirements) with corresponding unit values.
+  For example, in Table 1, the "Topic Selection" criterion score is 0-8 points.
+  Claims with different unit values ​​may be conventionally as follows: The learner - had no idea that he / she would play a role in the choice of the topic - 0 points, - considered the choice of the topic only the supervisor's job - 1 point, - chose a very "beaten, tortured", non-novel topic - 2 points, - made a random choice of the leader - 2 points among the suggested topics (tried to show the ability to choose), - substantiated his choice from the topics suggested by the supervisor - 3 points (showed the ability to choose), - suggested a topic, but chosen at random - 4-5 points (depending on the importance of the topic). - substantiated the choice of the topic with the availability of the necessary literature - 6 points,
+Applying this principle, the level of knowledge of the learner can be determined on the basis of the total unit value obtained from the assessment of all requirements.
+  And the score scored by the learner in the assessment scale will be unsatisfactory, sufficient, good or excellent, it will be determined by a certain percentage in comparison with both the test and the total score of the questionnaire.
+For example, • 0 - 39% - unsatisfactory • 40 - 69% - satisfactory • 70 - 89% - good • 90 - 100% - excellent This scale is conditional, because if you see the need to make a scale, each structure can develop a scale.
+In both methods of testing, in addition to determining the total score, it is possible to separate the sums collected from different skills by determining the percentage value of each of them in relation to the maximum value for those skills, to get a clear picture of the level of proficiency of each skill.
 Table 1 presents the names of the required skills, the criteria or requirements for their knowledge, the conventional comparative points, the results of their testing և Some questions of the work evaluation methodology.
   [3]
- Our workIn order not to increase the volume inappropriately, we first offer the sample of "Test" used for the purpose of testing, and by separating the questions of the test tasks, we will also get the "Questionnaire" questionnaire.
- In:By the way, test discretors can be a guide with a questionnaireto compile inspection criteria (which we have already mentioned is not our job problem).
-If the requirements of the criterion are evaluated with 0-1 points,then they will be considered as unsatisfactory-excellent levels, and ifA range of points is suggested for assessment, then the learner's knowledge is assessed for a specific score, such asWe have already mentioned that there should be requirements assessed at different values, with appropriate points և rating scale, whichIt will be determined what level of knowledge the student's score isInsufficient, sufficient, good or excellent.
-Skilled:condition:երի:groups:GH:RA:RA:RA:RA:RA:RA:RA:RA:RA:Doing research և:Formulation requirements:Research ideasabout the types of works.
+ In order not to increase our workload unnecessarily, we first offer a sample of "Test" for the purpose of testing, and by separating the questions of the test tasks, we will also receive the "Questionnaire" questionnaire.
+ By the way, test discretors can be a guide for compiling questionnaire criteria (which we have already mentioned is not our problem).
+If the requirements of the criterion are assessed with 0-1 points, then they will be considered as unsatisfactory-excellent levels, and if a range of points is suggested for assessment, then in order to assess the learner's knowledge with a specific score, as mentioned, there must be requirements with different values. Assessment scale to determine what level of knowledge a student's score provides is unsatisfactory, satisfactory, good or excellent.
+SkillsGroupsGHHHHHHHHHHHHHHHHHHRTR պահանջRecommendation requirements կերDeceptions about types of research work.
 Topic selection.
 Compilation of work plan.
-Justification of the need for work,setting goals and objectives.
-Sources of related literaturestudy.
-References:Development according to the problems of the chosen topicrelations.
-Logical connection between different materialsDiscovery և Presentation.
-Own research methodology, materialessay.
-Analysis of research results not onlypositive, other incomplete results, indicating ways to improve them.
-Drawing conclusions that address each issue at workTable 1:Requirements:points awarded(total: 100)implementation, contain clear recommendations for further improvement of the problem, as well as the results of the workIndication of areas of application.
-The job must have the type of job accepted by the institutionSections that meet the mandatory requirements:for example, content, introduction, literaturereview, own research material և methods, analysis of research results,Conclusions և Recommendations, list of literature, appendix.
-  Be taken into accountthe remarks of the opponents (critics).
-Sort the list of literature, for example, in alphabetical order, in which case the same authorsArrange the works according to the order of dates or according to the references in the essaysequence or other form as established in that field of science orof the given educational institution or unitwith mandatory norms.
-  Write the full name of the work, put the divisor // sign, bring the place of publication, date, total number of pages orlink page.
-For references in the essay, indicate in parentheses in the literature listjob number, if necessaryput a comma after the number և mark the page from whichThe link is made.
- Existence of a cover page is a formal workin a roof that is not numbered.
-Start numbering from the content page:as the 2nd page.
-The work can also have an application, which:The pages are constantly numbered.
-  Therecan be to get the job doneused orders, normative documents, papers, spreadsheets.
-Save on this type of workfor the norms of the educational institutionnumber of pages expressed, other technical requirements.
-TC:TC:TC:RA:TC:TC:TC:TC:NH:NH:GH:GH:GH:TC:GH:Knowledge of the material, ability to communicate with the audience, reasoning on questionsAbility to respond.
-Prepare a competent, clear, concise, complete, substantiated report and Ability to deliver orally.
-What a stranger!ability.
+Substantiation of the need for work, statement of goals and objectives.
+Study of sources of literature related to the topic.
+Processing of information from literature sources according to the related issues of the chosen topic.
+Logical identification ահայտ presentation in different materials.
+Own research methodology, material.
+Analysis of the research results not only positive, but also the incomplete results, indicating the ways to improve them.
+Formulation of conclusions concerning the implementation of each task at work Table 1 Requirements (total: 100) contains clear recommendations for further improvement of the problem solution, as well as an indication of the areas of application of the results of the work.
+The work should have sections that meet the mandatory requirements for the type of work accepted by the institution, such as content, introduction, literature review, own research material և methods, analysis of research results, conclusions և recommendations, list of literature, appendix.
+  The remarks of the opponents (critics) should be taken into account.
+Arrange the list of literature, for example, in alphabetical order, in which case the works of the same authors are arranged in ascending order of dates or in the order of references in the essay or in another form, as approved by a voluntary educational institution or mandatory norms in the field.
+  Write the full name of the work, put the divisor // sign, bring the place of publication, the date, the total number of pages or the link page.
+For references in the essay, indicate the number of the work presented in the literature list in brackets, if necessary, put a comma after the number և indicate the page from which the link is derived.
+ Existence of a title page in a registered work, which is not numbered.
+Start numbering from the content page as page 2.
+The work can also have an appendix, the pages of which are constantly numbered.
+  There may be orders, normative documents, papers, spreadsheets used to do the work.
+The number of pages expressed in the norms of the educational institution for the given type of work, other technical requirements must be observed.
+Proficiency in the material, the ability to communicate with the audience, the ability to answer questions reasonably.
+Competent, clear, concise, complete, reasoned report preparation and oral presentation skills.
+What an alienation!
  Comprehensible և Ability to express oneself in written or oral form.
 Ability to use dictionaries correctly.
 Ability to use IT correctly.
  Awareness of plagiarism.
-to communicate in a certain languageWeaknesses and strengths of the student being testedIn order to make the assessment more visible, we have presented the results grouped by the skills with their total points and on the assessment scale in Table 2.
-Research:work:Preparation: skills:/ requirements /Names:Research:work:Skills - RA: Specifications:Skills: Submission:Skills - NH: GeneralLiteracy:Skills - GH:Skills:Numbers:in Table 1Skill:of eachgeneralunit:Table 2:Evaluation:scaleSufficient: 40-41.4Good: 42-53.4 Excellent: 54-60                  Sufficient: 4.4-7.59                Good: 7.7-9.79Excellent: 9.9 -11Sufficient: 5,6-9,66Good: 9,8-12,46Excellent: 12,6-14               Sufficient: 6-10,35Good: 10.5-13.35Excellent: 13.5-15                 Specific for each type of skill in Table 2The scores were given as the maximum for each skill requirement in Table 1in the amount of points.
+In order to make the assessment of the weaknesses and strengths of the student's willingness to communicate in a certain language more visible, we have presented the results grouped by the skills, with their total points, by the assessment scale in Table 2.
+Names of Research Preparation Skills / Requirements / ResearchStudy Skills- RA Technical Skills - IT Presentation Skills - FG General Literacy Skills - GC: Skills Numbers in Table 1-The Common Score of Each Skills: 4B7: Good: 7.7-9.79 Excellent: 9.9 -11 Satisfactory: 5.6-9.66Good: 9.8-12.46Excellent: 12.6-14 Satisfactory: 6-10.35Good: 10.5-13 , 35 Excellent: 13,5-15 In Table 2, the specific points for each type of skill were obtained by the sum of the maximum points for each skill requirement in Table 1.
  And the levels of knowledge of the interviewee's skills are determined by the percentage of the student's score compared to the maximum, according to the scale suggested in the work.
- For example, if the maximum of all the requirements of the Republic of Armenia is 60Instead of one point, the student scored 25 points, according to the assessmentto the scale suggested in the methodology, it will be close to the maximum41.7%, ie it will be considered a satisfactory assessment.
-Determining the remaining skill points on the same principle will give a clear picture of the surveyTo what extent does the subject master each of the required skills?
-  And if it is necessary to express by one pointthe initial level of knowledge, then the sum of all skill units is averaged.
-  For example, if the subject has receivedFrom RA - 25, from TC - 6, from GH - 6, then the average of all units will be37 points, which will be considered an insufficient level of training.
-And the three skills mentioned as a result of the workThe performance skill unit will be added and the final grade will be formed.
-Վերջ The final grade of the submitted work can serve as an indicator for the student's rounding ևother circumstances, for example: • Number of literature sources used; • Relative number of publications in recent years;• Compliance of the content և literature listto work, etc.
-If another unit of assessment is accepted at the institutionsystem, then the points can be matched with the appropriate coefficient.
-Adjusting the level of knowledge, as already mentioned above,can be used accordingly in the curriculumWhen substantiating the need to introduce a subject that teaches skills, then when developing a subject syllabus.
-In order not to increase the workload unnecessarily, instead of compiling a separate questionnaire և test, we present it for testingThe sample of the "Test" serving, and separating the questions of the test tasks, the "Questionnaire" questionnaire will be obtained.
- By the way,The test discretes can be used as a guide for compiling questionnaire criteria (which we have already mentioned is not our problem).
- For each of the skills tested in the testThe number of questions provided is relatively adequate in the tablegiven the number of their requirements, therefore, given to the independent taskunit (conditionally we have chosen 5 points), the specific weight of the skill in the total unit will remain the same.
- For each skillThe tasks are grouped by number, indicating himthe total points for that skill.
+ For example, if instead of the maximum 60 points of all the requirements of the Republic of Armenia, the student scores 25 points, according to the scale proposed in the assessment methodology, it will make about 41.7% of the maximum, ie it will be considered a satisfactory grade.
+After determining the skill units remaining on the same principle separately, a clear picture will be given of the level at which the respondent masters each of the required skills.
+  And if it is necessary to express the initial level of knowledge by one point, then the sum of the points of all skills is done.
+  For example, if the test taker received 25 from the RA, 6 from the TC, 6 from the GH, the average of all points would be 37 points, which would be considered an insufficient level of training.
+As a result of the work, the performance skill unit will be added to the mentioned three skills, and the final grade will be formed.
+The final evaluation of the completed work և presented in favor of the student can be used as an indicator for other circumstances, such as: • the number of literature sources used, • the relative number of recent publications, • the relevance of the content ցանկ literature list to the work, etc.
+If another unit of assessment system is adopted in the institution, the units can be matched with the appropriate coefficient.
+Adjustment of the level of knowledge, as already mentioned above, can be used to justify the need to include a subject that teaches relevant skills in the curriculum, and then to develop a syllabus.
+In order not to increase the volume of work unnecessarily, instead of compiling a separate questionnaire - test, we present the sample of "Test" for the test, and by separating the questions of the test tasks, we will also get the "Questionnaire" questionnaire.
+ By the way, test discretors can be a guide for compiling test criteria with a questionnaire (which we have already mentioned is not our problem).
+ The number of questions assigned to each of the skills tested in the test is relatively proportional to the number of their requirements listed in the table, so regardless of the unit given the task (we conventionally chose 5 points), the specific weight of the skill will remain the same.
+ The tasks for each skill are grouped by numbers, indicating the total points for the given skill.

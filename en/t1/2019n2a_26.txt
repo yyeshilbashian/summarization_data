@@ -1,0 +1,40 @@
+Preface.
+  It is known that the development of a methodology for calculating the indicators characterizing the economic development of any country և further improvement is one of the problems of statistics.
+Methods of calculating periodic indicators by various non-governmental organizations and individuals, which comprehensively described the standard of living and presented the economic and social development of the above-mentioned countries.
+  Among these indicators are: • The Gini coefficient (Corrado Gini in 1912), • The Human Development Index (Mahbub al-Haq, Amartya Sen, 1990), • The Index of Economic Freedom (1995, The Heritage Foundation), • Stable economic prosperity (1972). ., W. Nordhaus, James Tobin), • Sustainable Economic Development Index (SEDA) (Boston Advisory Group BCG 2012).
+The purpose of this research is to clarify 2009-2018 in Armenia. The impact of the unemployment rate, GDP per capita on the SEDA, as shown by the latter, on the impact on the well-being of the population of the Republic of Armenia.
+In 2012, the BCG developed the Sustainable Economic Development Assessment Index (hereinafter referred to as SEDA), which aimed to help countries develop national strategic plans based on a comprehensive, objective assessment of the welfare of the population.
+Table 1. Groups of SEDA Indicators [7] CharacteristicsIncome ECONOMYEconomic StabilityInvestmentSustainabilityEmploymentHealthEducationInfrastructureEqualityCivil societyGovernmentEnvironmentEnvironment Growth Sustainable economic development
+ The SEDA index showed that countries can ensure the general welfare of the population only in stable economic conditions.
+  The SEDA index, first calculated in 2012, showed how the wealth of a number of countries is effectively transformed into prosperity.
+The SEDA index is an objective quantity, its calculations do not contain subjectively perceived quantities (such as the "Happiness Index").
+  The SEDA index is calculated on the basis of 10 measurements presented in three groups, which in turn (Table 1).
+ The SEDA integral index is calculated on the basis of the normalization of the indices reflecting the following characteristics.
+The SEDA integral index is estimated on a scale of 0 to 100 (in case of 0 the economic growth in the country does not contribute to the increase of the living standard of the population, in case of 100 the economic growth directly contributes to the increase of the living standard of the population).
+The purpose of this research is to reveal that in Armenia in 2009-2018. Unemployment rate, GDP per capita, how do they affect the SEDA integral index?
+According to the data presented in Table 2 of Unemployment, due to the global crisis of 2009-2011, the highest level in Armenia (19.0% in 2010), the lowest level of GDP per capita (968.5 thousand drams in 2009). and in 20112012. The SEDA integral index decreased by 49.94 points in 2011, the unemployment rate in Armenia decreased by 2.4 percentage points as compared to 2009, the GDP per capita increased by 1054.1 thousand drams.
+ During the same period, the SEDA integral index increased by 1.6 points.
+In 2012, in 2018 alone).
+During the study period, a regression model including the time factor was constructed to assess the level of unemployment's GDP per capita on the SEDA integral index in the Republic of Armenia, where: - the productive factor is the time factor.
+btxaxaayttt22110ˆtttxxy21,, tnt; ..... 3; 2; 1 are the parameters [1].
+Unemployment rate in Armenia, GDP per capita GDP և SEDA integral index 2009-2018 Years Unemployment rate,% GDP per capita SEDA integral GDP, indicator, thousand drams per unit Table 2. Since the indicators under study are interconnected time series, the time factor is included in the model to neutralize their development trends [1].
+The following appointments have been made: - SEDA integral index in year t, unit, - Unemployment rate in year t,%, - GDP per capita in year t, thousand drams.
+A correlation matrix was constructed to estimate the degree of interconnection between the studied phenomena.
+Correlation matrix Integration Index Unemployment Rate Table 3. GDP per capita GDP SEDA Integrated Unemployment Rate հաշվով GDP per capita հաշվով According to the analysis presented in Figure 3
+ An inverse but moderate strength correlation was also established between the SEDA integral index ակի unemployment rate։.
+  There is a direct correlation between the GDP per capita and the SEDA integral indicator of GDP.
+Table 4 presents the results of the regression analysis between the studied phenomena.
+Table 4. Results of Regression Analysis of Unemployment Rate, Per capita GDP in Armenia և SEDA Integral Index 2009-2018 IndicatorsRegression ModelResultsMultiple Correlation CoefficientMultiple Determination CoefficientModern Significance Assessment From the results of the regression analysis presented in Table 4, it is clear that a strong correlation was formed between the studied phenomena (
+).
+  Built according to regression model, 2009-2018. The reduction of the unemployment rate in Armenia by one percent led to the SEDA integral index 0.39).
+ During the same period the increase by RA (
+As the GDP per capita increased by one thousandth of a gram, the SEDA integral index decreased by 0.005 points (
+).
+ During the study period, the SEDA integral index increased by an average of 0.61 points per year due to the influence of other factors, except for the factors included in the model (
+The results of the analysis show that unemployment has a significant impact on the increase of the SEDA integral index, the reduction is more).
+level txxyttt61.0005.039.078.61ˆ21627.0R392.02R29.1F76.462; 31; 05.0kkcritF627.0R39.01a005.02a61.0 b Change in GDP per capita.
+In the studied period, the GDP had an increase, but it almost did not contribute to the increase of the welfare of the population in the Republic of Armenia.
+Done in Conclusion.
+The results of the analysis show that the reduction of the unemployment rate had a more significant impact on the increase of the SEDA integral index than the change in the GDP per capita.
+  During the period under review, GDP showed growth trends, but it almost did not contribute to the increase of the welfare of the population of the Republic of Armenia.
+the regression model, the solution of which showed the following.

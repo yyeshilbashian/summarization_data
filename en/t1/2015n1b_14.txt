@@ -1,68 +1,62 @@
 1. Introduction.
-  Computers are now widely usedMathematica, Matlab, Mathcad և Maple, which provide solutions to scientific and technical problemsproblems without delving into the nuances of programming.
-  Moreover,The Mathematica system has always been regarded as a world leaderin the system of computer mathematics [1-5].
- In Mathematica, most problems are solved in a dialog mode.without traditional programming, using standard operators.
- At the same time, it has a high level of modernityprogramming language.
-Note that the calculation of definite և integral integrals is Mathematicacan be implemented in the environment through the standard operators available in it [3-5].
- Of great interest, however, is the calculation of definite's real integrals by degree series[6,7].
+  At present, the following systems with computer mathematics are widely used: Mathematica, Matlab, Mathcad և Maple, which allow solving scientific and technical problems without delving into the nuances of programming.
+  Moreover, the Mathematica system has always been regarded as the world's leading computer mathematics system [1-5].
+ In Mathematica, most problems are solved in dialog mode, without traditional programming, using standard operators.
+ At the same time, it has a modern high-level programming language.
+Note that the calculation of definite իսկ real-time integrals in the Mathematica environment can be performed by standard operators in it [3-5].
+ Of great interest, however, is the computation of definite finite integrals by degree series [6,7].
  In accordance with the method mentioned in the work, computational programs are developed for the calculation of certain իսկ integral integrals in the Mathematica environment.
-2. The application of step series to the calculation of definite integralsfor.
-  Definite integral integrals of degree seriesThe calculation method is based on the functional series membermember integration theorem [6,7].
- That is, if:The functional series evenly coincides with somein the segment և:The function is the sum of that series, thenfunctional series of integrals (
-  with respect to the variable where:) is also equally parallel in that segment և to itis the amount function.
-Here we will look not at the proof of the theorem, but at itapplication.
-This is how we lookthe integral.
- Analyze the function according to the Taylor series around the point (assuming that: function satisfiesall the required conditions for Taylor series analysis [6,7])...) (...) () (21xuxuxun], [ba) (xs ...) (...) () (21ynyydxxudxxudxxuybya ydxxs) (dxxfba) (L) (xf0x) (xf0x200000) (! 2) (") (! 1) (') () (xxxfxxxfxfxf 100) (000) () (!) () () (!) (Nnnnnxxnxfxfxxnxf In that caseBy integrating, we will get the resultCompute the calculation program to determine the value of the integral sine function in Mathematica environment in 3 pointsAccording to the described method, the calculation program (7)for integral has the following appearance:As a result of the implementation of the program we will get:is the integral value when members of the series are stored.
-Calculating si3 with the help of a standard Mathematica environment operator:We will get 1.84865253 with great accuracy.
-  Comparing we can say that:The above method provides great accuracy.
-  Already 10 memberskeeping the absolute mistake only ...) (! 2) (") (! 1) (') () (200000babababadxxxxfdxxxxfdxxfdxxfL100) (000 ) () (!) () (...) (!) (nbannbabanndxxxnxfdxxfdxxxnxf202000) () (! 2) (')) ((xaxbxfabxfL 10010100) (30300) () ()! 1 () () () (! 3) ("nnnxaxbnxfxaxbxf110100 ) (0) () ()! 1 () () (nnnnxaxbnxfxf30sin3dxxxsi] [nSn.
-It is given in advanceMathematica to ensure accuracyin environment (7) the integral computation program will look like this:As a result of the implementation of the program we will get:Thus,  Accuracy is already provided in Series 8by preserving the members.
-Note that programs allow you to perform calculations in case of any particular integral, it is just necessaryMatch the input data in the first lines.
-We can get it using the theorem above the function with appropriate accuracy և construct the graph.
- So if the aboveAccept in the given programgraphs, we will get (Fig. 1), then we get the function.
- Building:Fig. 1:
-61021.284865474.184865253.10001.0sixxb Color S corresponds to S [1], blue to S [2], red toS [3] and orange to S [4].
-  Note the future members of the seriesThe results obtained by addition match red և orangecurves.
-3. The application of degree series to nonlinear integralsfor counting.
- Now we have it with finite edges the non-integral from an unlimited function.
- Then supposethat:
+2. The application of step series for the calculation of definite integrals.
+  The method of calculating definite integrals by degree series is based on the theorem of integral members of functional series [6,7].
+ That is, if the Functional series evenly coincides in a certain segment, the function is the sum of that series, the functional series of the integrals (
+  with respect to the variable, where) is also equally parallel in that segment և the fraction is the function.
+Here we will refer not to the proof of the theorem, but to its application.
+This is how we have the integral.
+ Analyze the function in the vicinity of the Taylor series point (assuming that the function satisfies all the required Taylor series analysis conditions around the point [6,7]) ...) (...) () (21xuxuxun], [ ba) (xs ...) (...) () (21ynyydxxudxxudxxuybyaydxxs) (dxxfba) (L) (xf0x) (xf0x 000200000) (! 2) (") (! 1) (') () (xxxfxxxfxfxf100) (000) () (!) () ( ) (!) (nnnnnnxxnxfxfxxnxf In that case, by integrating, we will get the result. members of the series have been retained.
+Calculating si3 with the help of the standard operator of the Mathematica environment, we will get 1.84865253 with great accuracy.
+  Comparing, we can say that the given method provides great accuracy.
+  Absolute mistake with keeping 10 members only  ...) (! 2) (") (! 1) (') () (200000 babababadxxxxfdxxxxfdxxfdxxfL 100) (000) () (!) () (...) (!) (Nbannbabanndxxxnxfdxxfdxxxnxf202000) () (! 2) (')) ((xaxbxfabxfL 10010100) (30300) () ()! 1 () () () (! 3) ("nnnxaxbnxfxaxbxf 110100) (0) () ()! 1 () () (nnnnxaxbnxfxf30sin3dxxxsi] [nSn.
+To ensure accuracy, the integral computation program in Mathematica environment (7) will look like this. As a result of the project implementation, we get: Thus, the accuracy is already maintained by the 8 members of the series.
+Note that the programs allow you to perform calculations in case of any certain integral, you just need to match the input data in the first lines.
+We can, using the above theorem, get the function with appropriate accuracy և construct the graph.
+ Thus, if we accept the graphs in the above program, we will get (Fig. 1), then we will get the function.
+ Building Fig. 161021.284865474.184865253.10001.0sixxb The color S corresponds to S [1], blue to S [2], red to S [3], and orange to S [4 ].
+  Note that the results obtained by further addition of the members of the series coincide with the red-orange curves.
+3. The use of step series for the calculation of non-integrals.
+ Now let us have the infinite integral from the infinite function with finite edges.
+ Then suppose that
 The special point of the function corresponds to the lower limit of the integral.
- Note that all other cases can lead to the abovein the case.
- So if a special pointis, then.
- And if:The special point is the point that:, then:.
+ It should be noted that all other cases can lead to the above-mentioned case.
+ Thus, if the special point is, then.
+ And if the special point is the point, then.
 That is, all cases can be led to it when the special point is the lower limit of the integral.
-Suppose he! in the vicinity of the point is analyzed in (4) degree series.
-  Integrating the (4) degree series:We will get the following function member by member. function:Moreover, the function (8) will be parallelin.
- Let's show ithe will be parallel! at the point.
- Consider series (8) when:Since series (4) is parallel to any point, then by:We have the Dallamer mark of the convergence of the series:Let us now apply the Dalber mark to series (9)The first border on the right is less than 1 by (10), the second limitis equal to 1.
- So when? , then (11) the limit will be smallerFrom 1, և subsequently (row 9) will be parallel և point backwardsfunction will be:  generalized initialization of the functionin, so և.
-Then calculate the integral through the step seriesThe described method is applicable in this case as well.
-Consider: integral, where 0 is a special pointfor an integral function.
- According to the described method:settlement program has the following for the integralappearance:𝑎 = 0; 𝑏 = 1 2⁄; x0 = 1 3⁄; 𝑛 = 300; 𝑓 [x_].
- = 𝑥 − 1 2⁄ (1 - 𝑥) −1 2⁄;As a result of the project implementation, we get:Calculating the integral of the standard operator of the Mathematica environmentwith the help of which we will get 1.57079633.
- Comparing we can say the aboveThe given method provides great accuracy և fairly fast concurrenceis.
-100) (200) 1 ()) (()! 2 ()! 1 ()) ((limnnnnnxaxfnnxaxf000) (00) 1 (lim21lim) 1) (()) (( limxxxannnxfxxxfnnnnn100xxxaa) (xF) (xf], [babaaFbFdxxf) () () (xxdxxx 2/102/12 / 11dxxx2 / 102/12/11 Construct a graph that represents the different values ​​of naccordingly the value of the integral.
-PlotLegends → {"S [50]", "S [100]", "S [150]", "S [200]", "exact value"},Fig. 2:
-The graph clarifies from the point of view of practical concurrence:.
-Note that the calculation program can also be usedwith respect to any non-integral integral satisfying the abovethe mentioned conditions.
- You just need a program for thatEnter the corresponding input data in the first line.
-  Except:That is, it is possible to make a program here, which provides a given in advanceaccuracy.
-Now let's look the integral.
- Implementing the program for him, we will get:And the exact value is 1.66179243.
-Xxdxxx2 / 102/12/11] 150 [] 200 [] 100 [] 150 [] 50 [] 100 [SSSSSSdxxx2 / 104 Implementing the program for integral / 32/11, we will get:And the exact value is 1.23370055.
-The obtained results are confirmed by the mentioned method with a finite edgeThe efficiency of calculating non-integral integrals from unlimited functions.
+Suppose that in the vicinity of the point is analyzed a series of (4) degrees.
+  By integrating the (4) degree series, we will get the following function member by member: function In which (8) the function will be parallel to.
+ Let's show that it will be pro-point at this point.
+ Consider row (8) when, since row (4) is parallel at any point, then we have the Dallamber index of the sequence of convergences. is 1.
+ Therefore, when, then (11) the boundary is less than 1, և then (9) the series will be parallel to the point և back և the function will be the generalized initial of the function, hence և.
+Therefore, the above-described method of calculating the integral by degree series is also applicable in this case.
+Consider the integral, where 0 is a special point for the integral function.
+ According to the described method, the calculation program for the integral has the following view: 𝑎 = 0; 𝑏 = 1 2⁄; x0 = 1 3⁄; 𝑛 = 300; 𝑓 [x_].
+ = 𝑥 − 1 2⁄ (1 - 𝑥) −1 2⁄; As a result of the implementation of the program we get: Calculating the integral with the help of the standard operator of the Mathematica environment, we will get 1.57079633.
+ Comparing, we can say that the above method provides great accuracy և rather fast coupling.
+100) (200) 1 ()) (()! 2 ()! 1 ()) ((limnnnnnxaxfnnxaxf000) (00) 1 (lim21lim) 1) (()) (( limxxxannnxfxxxfnnnnn100xxxaa) (xF) (xf], [babaaFbFdxxf) () () (xxdxxx 2/102/12 / 11dxxx2 / 102/12/11 Construct a graph that represents the value of an integral corresponding to different values ​​of n.
+PlotLegends → {"S [50]", "S [100]", "S [150]", "S [200]", "exact value"}, Fig. Graph 2 clarifies from the point of view of practical concurrence.
+Note that the given calculation program can also be applied to any non-integral integral that satisfies the above conditions.
+ For this purpose, you just need to enter the corresponding input data in the first line of the program.
+  In addition, you can create a program here that provides advance accuracy.
+Now consider the integral.
+ Implementing the program for him, we will get: And the exact value is 1.66179243.
+Xxdxxx2 / 102/12/11] 150 [] 200 [] 100 [] 150 [] 50 [] 100 [SSSSSSdxxx2 / 104 Implementing the program for integral / 32/11, we will get: And the exact value is 1.23370055.
+The obtained results confirm the efficiency of the calculation of non-integral integrals from finite finite functions by the mentioned method.
 4. Conclusion.
-  Thus, the approximate observed in the workThe calculation methods are quite effective.
- Moreover, due to the wide possibilities provided by the Mathematica environment, the implementation of the calculation programs of these methods is easier, and the obtained resultsIt is also possible to observe graphically, to carry out further studies in a more observational way, which is done in the work.
- It should be noted that the development of computer mathematics in thisAt this stage, the approximate methods have been developed more widely, in which a largeMathematica environment plays a role as a world leaderin the system of computer mathematics.
-Literature 2. Sargsyan A. H., Graphic elements of Mathematica package և them
-Teaching, Methodical work, Gyumri, Author. ed., 2014, 88 pages.
+  Thus, the approximation methods considered in the work are quite effective.
+ Moreover, due to the wide possibilities provided by the Mathematica environment, the calculation programs of these methods are easier to implement, and the obtained results can be observed graphically, further studies can be carried out in a more observational way, which is done in the work.
+ It should be noted that at this stage in the development of computer mathematics, approximate methods have become more widely developed, in which the Mathematica environment is widely regarded as the world's leading computer mathematics system.
+Literature 2. Sargsyan A. H., Graphic elements of Mathematica package և their teaching, Methodical work, Gyumri, Author. ed., 2014, 88 pages.
 3. Аладьев В. З., Шишков М. Л. Introduction to the middle Mathematica package 2.2. M.
 4. Дьяконов В. P. Mathematica 516.7. Full handbook. M.
- DMK Press. 2010.
-References. M.
- 1970. 800 p.M.
- "Science". Main editorial office of the physical-mathematical literature. 1979.408p.
-Information about the authors:Sargsyan Armenuhi Hakoby- physicist. Ph.D., Associate Professor, GSPI, Higher
-Chair of Mathematics մեթոդ Chair of Mathematics Teaching Methods, Head of postgraduate և additional education department, E-mail.
- armenuhis@mail.ru: Naira Hakoby Sargsyan - "Photon" College of Gyumri, E-mail.
+ DMK Press. 2010.литературы. M.
+ 1970. 800 s.m.
+ "Science". Main editorial office of the physical-mathematical literature. 1979.408.Information about the authorsSargsyan Armenuhi Hakoby- Phys. PhD, Associate Professor, GSPI, Chair of Higher Mathematics իկայի Mathematics Teaching Methods, Head of Postgraduate և Department of Additional Education, E-mail.
+ armenuhis@mail.ru Naira Hakoby Sargsyan - "Photon" College of Gyumri, E-mail.

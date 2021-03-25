@@ -1,0 +1,99 @@
+Preface.
+  Land degradation is a multifactorial process, which leads to a decline in agricultural production, reducing the production of basic necessities.
+Food needs are not met կայուն The sustainable development of human society is disrupted.
+  This is considered a problem for the population of the whole world.
+  The problem is acute especially in countries with small land resources, such as Armenia.
+  The land fund here is 2,974 thousand. Yes, only 48% of which are considered agricultural lands.
+If we take into account the fact that the majority of 48%, 59%, falls on pastures and grasslands, it is easy to notice how important it is to fight not to lose every inch of land.
+  The Republic of Armenia is in a deplorable state in this respect, when, as a result of secondary salinization, swamping, improper cultivation, and other impulses, huge fields of agriculture are coming out of the field of agricultural use every year.
+  The above shows how urgent the solution of the problem is.
+Factors Factors affecting soil degradation are classified into two groups: anthropogenic և natural.
+  And if anthropogenic factors are controllable, the same cannot be said of natural factors.
+ Therefore, the study of natural factors is even more important.
+ For the study area, we have selected hydroponics in soil degradation, which is the main purpose of the work.
+Based on the theoretical propositions of many researchers В. О. 2002, Русанов В. Н. 2004) մոդ The model of factors developed by us in other works (PG Davtyan, TP Davtyan 2019): Using the example of Lorumarz, we assessed the impact of droughts, low precipitation, slopes on land degradation, which together with the assessment of other factors will enable anti-degradation measures.
+Assessment Droughts և rain-free periods are one of the most common, often recurring, dangerous phenomena in the area that cause significant damage to the economy in terms of their intensity, location, and time of occurrence. They are actively involved in land degradation.
+Due to the high temperatures (> 25-300), low relative humidity (≤30%), long-term precipitation և, the low temperatures are relatively low.
+  High relative humidity in the air causes intensive evaporation from the soil surface և enhanced plant transpiration.
+If their size exceeds the amount of atmospheric precipitation, the plants do not regain normal viability.
+  During drought, plants suffer from transphysiological changes due to transpiration, as the above-ground plant organisms are not nourished by upstream water, the turgor weakens, the temperature of the hosts rises sharply, and the passages lose their ability to shrink.
+ The cell is dehydrated, biochemical and physiological processes are abruptly weakened.
+During drought, plants suffer not so much from malnutrition as from poor water supply [3, 7].
+We differentiate between atmospheric and soil droughts.
+  In case of soil droughts, the plants suffer from long-term absence of rain և in the root layer of the soil due to lack of useful moisture.
+  In case of atmospheric drought, some moisture reserves may be present in the soil, but the plants suffer from air temperature ական low relative humidity.
+  In this case, the water requirement of plant organisms significantly exceeds the inflow of water from the root system.
+ Soil drought is usually preceded by atmospheric drought, after which they work together and have a major impact on soil degradation.
+ Erosion phenomena can be observed in the territory of the Republic of Armenia at any time of the year.
+Autumn, winter, and spring droughts usually do not occur at high temperatures (20-250), but in long-term rainless conditions, during summer droughts, the daytime temperature rises to 25-300 [1].
+Very strong droughts are observed when the amount of precipitation during the vegetation period is 40-50% of the norm, the number of dry decades reaches 4.5-5.5, and the average temperature is 2.8-3.80 above normal.
+  The rate of strong drought is 62-70%, respectively, 2.8-3.2 - forty days և 1.1-2.20, and moderate droughts - 70-93%, 2.8-3.2 ten days և 1.1-2 , 10 [8].
+It should be noted that drought rates vary from region to region.
+ It is explained both by the nature of droughts and the level of agriculture.
+  The main indicators of drought monitoring in the CIS countries (Table 1.) [6].
+Criteria for Factors Characterizing Drought Conditions of Different Intensity Tables 1. IndicatorsLessMaximumVigorFamily IntensityStrongMediumWeight is WO-20 (mm) WO-50 (mm) Temperature below -3 ° C * Wt-100% humidity Criteria for the factors that characterize drought intensity intensities. 1. Selyaninov Hydrothermal Coefficient (HFT), which is the ratio of one tenth of the sum of the amount of precipitation during the vegetation period to գումthe sum of temperatures.
+2. The ratio of the annual amount of moisture deficit (Md) precipitation moisture deficit.
+module և3.Natural moisture content (V%).
+Number of days with relative humidity less than 4.30% (N0).
+Number of days with average air temperature (NT) above 5,300.
+6. Effective moisture reserves (W) of different soil layers (0-20, 0-50 և 0-100 cm).
+It should be noted that the above-mentioned indicators can have different effects in the non-description of the region, depending on local conditions, soil type, level of plant development and other characteristics [2].
+The intensity of droughts in the territory of the Republic of Armenia is estimated. և With Md indicators.
+  According to these indicators, droughts are observed in all upward zones.
+  Medium intensity droughts are observed in almost all agricultural regions.
+The duration of the studied intensity intensities is 70-90 days, it is observed up to 1900 altitudes.
+In the territory of the region on average, the reason for which is precipitation.
+ It has been proven that the role of long-term droughts is more important in desertification, and consequently in land degradation, especially as a result of successive years [10].
+Spring droughts are mostly followed by winters with fewer winters, in this case the inertial moisture of the soil decreases, contributing to the intensity of droughts (1965-1966, 1970-1971, 1928-1979, 1980-1981, 1988-1989).
+  It may also be when the tea field occurs.
+  It is more dangerous if it manifests itself in the vegetation period.
+ There were such years in the Republic of Armenia (1932-1933, 1952-1953, 1956-1957, 1961-1962, 1989-1990) [10].
+High temperatures are a sign of dangerous droughts.
+  Studies have shown that in the area of ​​the study area it has the following picture (Table 2).
+Number of days with temperatures of 250, 300, 350 in Lori marzLori marzTable 2. Number of days with dangerously high temperatures ևThe terms of their expression are closely related to the altitude (Figure 1).
+  In the territory of the region they are observed at altitudes up to 1600 m.
+The analysis of the graph shows that the dangerous temperature gradient changes as follows.
+≥250 The number of days with temperature in the lower zone (400-600m) decreases by 10 days / 100m gradient, then in 600-1000m it makes 7 days / 100m, and in the upper 1400-1600m it reaches 5-6 days / 100m.
+  It is conditioned by the temperature of the active surface, that is, by the large amount of heat expended on the equilibrium on evaporation, by the increase of cloudiness at altitude, and consequently by the decrease of the number of days by high temperature.
+ The picture also shows the connections for changing the number of days with a temperature of 300 և 350.
+  In the sports area, the number of days in the lower zone decreases by 300 degrees with a larger gradient than in the middle և upper zones.
+As for the change of days with 350 temperature, it should be noted that they decrease proportionally, as the number of days with 350 temperature in the sports area is relatively small, then here at altitudes of 400-800 m, it changes by 3 days / 100 degrees.
+From the above, it can be concluded that the preconditions for drought formation in the region are high in the lowlands, especially on the southern slopes, where the air և soil temperatures are higher (3-50) than in the northern slopes.
+The altitudes of 400-1100 are distinguished by a high temperature day by a small gradient of decreasing altitude.
+It should be noted that drought in most parts of the region is less than 2 decades. It lasts for 2-4 days only in the lower-middle parts of the Pambak depression, in the lower reaches of the Debed valley in the Alaverdi-Akhtala section, and for 4-6 decades in only a small part of the region, in the Spitak depression, below Akhtala, in the Debedistori stream.
+From the mentioned areas it is observed that 2-4 days of droughts occur in the steppe-post-forest zones, 4-6 days in very small areas of the steppe-partial forest zone [5].
+  From this it can be concluded that the territory of the region is subject to very weak forest impacts of droughts, therefore their role in the degradation of lands is not big.
+Figure 1. The relationship between the number of days with dangerously high temperatures and the absolute altitude. One of the indicators of drought expression is the rain-free period of the vegetation period.
+  Rain-free is the period when it rains for 10 or more days or its quantity does not exceed 1 mm.
+  We studied the timeless period for the period from April to October.
+  Frequency and intensity are conditioned by the general և local circulation of the atmosphere.
+The number of rain-free periods during the vegetation period in the lowlands of the Republic of Armenia usually reaches 3.6-6.0, and in the drier years - up to 10.
+  Only in rare wet years does the number of such periods decrease to 1 (1963).
+  In the territory of the region, the number of periods of 10-15 days without rain reaches 2.5-2.7.
+Long և (16-20 և 20-30 days) rain-free periods are not observed in the region.
+ And the mentioned period, according to the height, decreases with the height of 600-800 m, it is 1.5 և 1.1, and in 1600 m - 1.2-0.8 [9].
+The longest periods of rain-free periods were observed in Spitak - 49, in Stepanavan - 47, in Alaverdi - 33, in Vanadzor - 40 days.
+Thus, the lowlands of the region due to lack of rainfall and intensive evaporation, although weak, are subject to drought.
+The gorge is a dry, hot wind, which quickly upsets the plant-water balance.
+  The combined effect of the following elements of air and ithological observation is considered as the criterion of the curve: relative humidity ≤30%, temperature> 250 և wind speed ≥5 m / s.
+Nurseries in the area in question are most often observed in the warm middle of the year, for several days in a row.
+  The reason is the penetration of dry air masses in the Middle East desert areas with considerable speed.
+  If these processes are more obvious in the southern regions of the republic, the air masses in the territory of the region in question during the invasion are transformed in the north.
+The intensity of the cracks, according to E. A. Uberbiller, is determined by the combination of wind speed պակաս lack of air saturation (at 1300 h) (see Table 3).
+  Minimal dilapidated situations are observed in Lori in the territory of the republic - 15-25 days.
+It should be noted that the crevices observed in the territory of the region are also of weak intensity.
+ There are almost no intensive և very intensive grooves.
+It turned out that in Armenia, if there is enough moisture in the soil - in a layer of 20 mm 0-20 cm, more than 50 mm 0-50 cm - in a layer of about 100 mm 0-100 cm, then the grain sowing can withstand loam for 5 days, in case of medium intensity - 3 -4 days, in case of intensity 2-3 days օր in very intense conditions 1-2 days [3].
+In order to assess the probability of weak ridges in the territory of the region, we have compiled chronoisoplates, where the condition of the region is clearly expressed (Figure 2).
+  The line of weak ridges in the sports area according to the upward zones is presented in Table 3.
+  It can be seen from the table that 90-98% with the highest probability of training in the regions is observed only at the altitudes of 400-800 m (in 4.1% of the area), the duration of which decreases sharply at the altitudes of 800 m, reaching 7 days.
+Estimation of gravity intensity with a combination of wind speed և air saturation deficit indicesTable 3. Saturation deficit values ​​at 13.00 at spontaneous velocityFeature intensityLightLight Intensity ≥ 8 m / s <8 m / sVextensive conditions have a very deep slope.
+  It should be noted that in the territory of the region, in general, water-climatic factors, except for one or two, have an impact on land degradation.
+  Nevertheless, there is a weak but effective impact, so we could not help but reflect on the assessment of these factors.
+Figure 2. Chronoisoplate of probability (%) of weak ridges in Lori marz. Conclusions.
+  From the analysis it can be concluded that the preconditions for the planting of orchards are in the low points of the large terrain in the region, especially on the south-western slopes, where the air և soil temperatures are higher (3-50) than on the north-eastern slopes.
+  The mentioned zones cover 400-1100 altitudes, are distinguished by the number of days with high temperatures, by a small gradient of decreasing altitude.
+The maximum rain-free period in the region was recorded from 33 days (Alaverdi) to 49 days (Spitak), therefore its impact, although weak, has a significant impact on land degradation.
+In the area under discussion, the ridges are of low intensity, և do not have much contribution to land degradation.
+In the territory of the region, in general, water-climatic factors, except for one or two, have a weak impact on soil degradation.
+  Nevertheless, there is a weak but effective impact, so we did not return to the assessment of these factors.

@@ -1,0 +1,78 @@
+1. Introduction.
+ Due to the Omori-Utsu's physiological understanding of the achievements of solid-body fracture theory, the development of the aftershock process made it possible to carry out numerous seismic surveys during the so-called period:
+Geologically oriented Studies dedicated to the prediction of post-earthquake process activity in the mentioned directions have a great scientific-applied significance.
+  The relevance of the latter lies in the fact that the buildings of many buildings damaged by the main earthquake, which became internally damaged, becoming more vulnerable, can collapse during aftershocks with a magnitude lower than the magnitude of the main earthquake.
+Leaving the above, we set a task to make a short-term forecast of the activity of the aftershock process in the aftermath of 2 catastrophic earthquakes in the Vanalj epicenter: Chaldira (November 24, 1976, M = 7.1), Van (October 23, 2011, M = 7.2). .
+Spatial-temporal studies of the aftershocks of more than 17 strong earthquakes in the Caucasus, including the analysis of the strongest earthquakes in the Van epicenter, have been carried out by us [1].
+The parameters of the focal mechanisms of the studied earthquakes were taken from http.
+//neic.usgs.gov, www.emsc.org, www.globalcmt.org seismological centers, and the initial data of aftershocks in 1976. աշխարհի The 2011 World (NEIC, CMT) Regional (NSSP) Individual Baseline Database [11, 12, 13], according to which the aftershock field map was constructed; volume based on known computationally regressive correlation և factual instrumental data [1].
+(EMSC), national The interest in these earthquakes is due to the fact that their epicenters are located in the Gaylatu-Seyamcheshme-Khoy-Maku-Tabriz echelonized fracture system, which forms the south-eastern branch of the North Anatolian fault.
+  This fault system is the frontal zone of the Arabian lithosphere macrosal collision. It is directly adjacent to the territory of Armenia (Fig. 1).
+The active geodynamic processes taking place in this collision zone are accompanied by changes in tectonic stresses and seismic deformation processes conditioned by them, due to which the seismic activity of both regional and Armenian territory is formed.
+2. Methodical approaches և analysis of results.
+Studies of the aftershock activity of a large number of strong earthquakes in the world have recently developed a two-method approach to predicting the aftershock activity [2, 3].
+According to the first approach, the subsequent behavior of the post-concussion-induced post-concussion intensity process is based on the probabilistic method of Monte Carlo.
+  The second approach is based on the predetermination of the aftershock process, the baseline, the predicted periods of the aftershock processes with the transition of the replication model over a period of time by determining the quantitative values ​​of aftershocks of different magnitudes through Gutenberg-Richter law.
+The first approach is applicable when obtaining a probabilistic analytical view of an event predicted by insufficient seismic statistics, the second approach is applied when seismic statistics are available.
+  The presence of a large number of seismic statistics of the aftershocks of the 2 catastrophic earthquakes in the epicenter of Van was an opportunity to carry out our further studies using the second methodological approach.
+(November 24, 1976) անի Vani The research was carried out in 3 stages.
+  In the first stage, a redemption curve was constructed գնահատում Quantitative values ​​of the main characteristics of Omor's law [10] were evaluated.
+ For this purpose, the baseline data of the Chaldiran earthquake and subsequent aftershocks were collected from the databases of the world (NEIC, CMT), regional (EMSC), republican (NSSP) seismological centers, from various author catalogs (23.10.2011).
+  Moreover, the number of aftershocks in case of Chaldiran (November 24, 1976) earthquake was about 348 (8 (k≤14), in case of Van (23.10.2011) earthquake - about 6800 (7≤k≤15) seismic events, and the aftershock process: 1100 days [5].
+  Based on Gutenberg-Richter law, the threshold values ​​of the aftershocks of the aforementioned earthquakes were determined և the coefficients of the law of repetition b.
+According to the obtained data, the number of aftershocks of the mentioned earthquakes according to the time repayment graphs was constructed (Fig. 2 (a), Fig. 3 (a)).
+ The obtained graphs show that the quenching of the aftershock process of the above-mentioned earthquakes is approximated by hyperbolic dependence. curves, which makes it possible to estimate the quantitative values ​​of the parameters A, p, c, λa, λb, parameters of Omor's law (Table 1) (Fig. 2 (b), Fig. 3 (b)).
+Fig. Gradual (a) և sliding (b) graphs of extinction sequence of Chaldiran (November 24, 1976) earthquake. 3 Van (23.10.2011) post-earthquake sequence extinction (a) ոգ sliding (b) graphs The data of the necessary characteristics for further studies are given in Table 1.
+In the second stage of the emanation model, the transfer of the values ​​of the estimated parameters in the base period was carried out to the post-forecast period.
+  For this purpose, the probabilistic dependence of the time-shocks model proposed by Riesenberg-Jones at time t was used. [9]
+Table 1 Quantitative values ​​of the main characteristics of the aftershocks of the studied earthquakes
+r:
+k:
+r:
+E:
+n:
+a
+r:
+ի:
+d:
+l:
+a
+C:
+n:
+a
+V:
+f:
+n:
+a
+շ:
+թ:
+թ:
+According to the Riesenberg-Jonsika forecast, the 1.5 t baseline, time, calculation step was taken for 0.5 days, and for the M0≤Mi≤M base-2 magnitude [9].
+  The step for the magnitude interval was taken as ∆m = 0.5 after each base period, the calculated amounts of aftershock activity flow expected in 5, 10, 20, 30 days, respectively, which are given in Table 2.
+  The maximum time taken is 30 days, after which many buildings and structures damaged by a major earthquake and collapsing, becoming more vulnerable, may collapse almost immediately after the main shock.
+In the third stage, a comparative analysis of the calculated and observed aftershock data was performed.
+  For this purpose, the figures given in Table 2 show a graphical representation of the prediction of aftershock activity, where the axis of the abscissa is the predicted period expressed in days, and the ordinate axis is the number of aftershocks predicted by the magnitude m (Fig. 4, Fig. 5).
+Predicted Estimates Actual Observed Data n (M0≤Mi հիմM basis -2) Table 2 min
+օ:
+r:
+օ:
+n:
+a
+r:
+ի:
+d:
+l:
+a
+C:
+թ:
+թ:
+n:
+a
+V:
+Fig. 4 Chaldiran (November 24, 1976) earthquake M0≤Mi≤M base-magnitude -2 predicted number of aftershocks in 1.5t base period. The analysis was based on factual data, for which the calculated mean squared deviations of the predicted values ​​were calculated. is the actual observed value.
+The confidence interval of the predicted aftershock activity of the Chaldiran (November 24, 1976) and Van (January 23, 2011) earthquakes was estimated as a percentage, which was 76% in the case of Chaldiran and 92% in the case of Van.
+Fig. The number of երկրpredicted aftershocks observed with the magnitude M0 -2Mi≤M of magnitude 5 of the Van (23.10.2011) earthquake: 1.5t. Percentage of interval values ​​during the period 3. Conclusion.
+  From the results we conclude that the short-term predictive effect of aftershock activity, in the case of the almost identical p, c values ​​of Omor's law [10], is the p-degree indicator. c - The time delay is most likely due to the orderly difference in the quantitative value of the A (post-shock sequence efficiency) characteristic.
+  Salt. The following are the characteristics of the aftershock processes of the timeless earthquakes, through which we have obtained the probabilities of the selected groups of magnitudes, which are close to the actual observed data in terms of reliability.
+  The difference in the numerical values ​​of the characteristic A is related to the increase in the representative level of the magnitude ության of the difference n of the total n values ​​of the aftershocks collected in the mentioned earthquakes.
+The results of the studies show that the method of predicting post-concussion activity is applicable for the development of probabilistic models for short-term prediction of post-concussion process activity.

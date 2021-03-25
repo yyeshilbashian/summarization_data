@@ -1,37 +1,36 @@
 1. Introduction.
-  Existing computer mathSystems Mathematica system is considered universalleading [1-4].
-  Solving most problems in the Mathematica systemIt is implemented in dialog mode, without traditional programming, using standard means.
-Much of the theory of construction mechanics and elasticityproblems lead to the solution of differential equations knownin the case of pre-terminal conditions [5,6].
-  In recent times,due to the development of modern computing technologies,Approximate methods for solving differential equations are widely used.
+  One of the existing computer mathematics systems, the Mathematica system is considered to be the world leader [1-4].
+  In Mathematica, most problems are solved in a dialog mode, without the traditional programming, using standard tools.
+Problems of the theory of elasticity of construction mechanics lead to the solution of differential equations under well-known finite edge conditions [5,6].
+  Recently, due to the development of modern computing technologies, approximate methods for solving differential equations are becoming widely used.
  Among these approximate methods, the method of finite differences (networks) has a special place [5,6].
-The work presents three homogeneous partsThe problem of rod temperature distribution, which leads to parabolicof the type differential equation, corresponding to the initial և edgeon terms.
+The work presents the problem of temperature distribution of a rod consisting of three homogeneous parts, which leads to a differential equation of the parabolic type with the corresponding preliminary և terminal conditions.
   The network method is used to solve this problem.
-Different problem solving scheme և calculation program is compiledIn Mathematica environment.
-  Research has been conducted in terms of coherence, resulting in a fairly rapid practiceconcurrence.
-Then the above problem is generalized to homogeneous partsconsisting of a rod.
-  The problem is quite common, ևThe solution is clarified for the general case - arbitrary preliminaryդեպքում in case of marginal conditions.
- In this case, they are made up of problem solvingDifferential scheme ծրագիրը calculation program in Mathematica environment.
-The developed program is universal և allows to solve the problemin case of general conditions.
- In addition, it is interactiveև Available for non-programmers.
- The received program has been implementedFor the problem of a rod consisting of three homogeneous parts, և is shownThe results are in complete agreement with the above solution.
-The problems set մեթոդ the methods of their solution are of great interestThey present.
+Different problem solving scheme և calculation program in Mathematica environment.
+  Research has been conducted from the point of view of concurrence, as a result of which the practical concurrence is confirmed quite quickly.
+Then, the above problem is generalized to a rod made of homogeneous parts.
+  The problem has a rather general formulation, the "solution is clarified for the general case, in case of arbitrary preliminary" term conditions.
+ In this case, the "problem-solving scheme" is compiled in the Mathematica environment.
+The developed program is universal և gives an opportunity to solve the problem in case of general conditions.
+ In addition, it is interactive and available to non-programmers.
+ The resulting program is implemented for the problem of a rod consisting of three homogeneous parts և shows the complete coincidence of the results with the solution obtained above.
+The set problems ները the methods of their solution are of great interest.
 2. The study of the thermal field of a rod consisting of three homogeneous parts.
  The solution of the problem by the method of networks.
- Calculation program Mathematica:in the environment.
+ Calculation program in Mathematica environment.
  Consider a thin rod of length։.
- Straighten the ox axisalong the rod.
+ Straighten the ox along the shaft.
  The 0 𝑥 𝑥 ≤ 𝑙 thin rod consists of three homogeneous parts with different physical characteristics: 0 ≤ 𝑥 ≤ 𝑙1, 0 ≤ 𝑥 ≤ 𝑙2 և 0 ≤ 𝑥 𝑙 𝑙3.
-  Rod:The specific heat capacity, density, thermal conductivity of 0 𝑥 𝑥 𝑙 part 1 are 𝑐1, 𝜌1, 𝜅1, respectively, ≤ 𝑥 ≤ 𝑙2 և0 ≤ 𝑥 ≤ 𝑙3 parts, respectively 𝑐2, 𝜌2, 𝜅2 և 𝑐3, 𝜌3, 𝜅3 (Fig. 1).
-0 ≤ 0 ≤ 𝑙1, 0 ≤ 𝑥 𝑙 𝑙2 և 0 𝑥 𝑥 𝑙 are distributed along the 3 parts of the rod  with capacities  𝑞1 (x, t), 𝑞2 (x, t) 𝑞 𝑞3 (x, t)accordinglyN:
-k. 1:
-temperatures, and the initial temperatures of those parts 𝑢1 (𝑥), 𝑢2 (𝑥)և 𝑢3 (𝑥) are.
+  The specific heat capacity, density, coefficient of thermal conductivity of the 0 𝑥 𝑥 ≤ մաս part of the rod are 𝑐1, 𝜌1, 𝜅1, respectively; .
+0 ≤ 𝑥 𝑙 ,1, 0 ≤ 𝑥 𝑙 𝑙2 և 0 𝑥 𝑥 ≤ 𝑙 are distributed along the parts of the rod with powers 𝑞1 (x, t), 𝑞2 (x, t) 𝑞 𝑞3 (x, t) respectivelyN
+k. 1 heat, and the initial temperatures of these parts are 𝑢1 (𝑥), 𝑢2 (𝑥) 𝑢 𝑢3 (𝑥).
  The temperatures of the left and right ends of the rod are 𝑢1 (0) և 𝑢3 (𝑙), respectively.
  It is required to determine the temperature distribution 𝑢 (𝑥, 𝑡) of the composite rod during the period 0 <𝑡 <։.
 Let's make a different scheme of problem solving.
-Given that the initial conditions of the observed problem ((1, 0) և (𝑛1 + 𝑛2, 0) have nodes, let us assume that𝑢 (𝑛1ℎ1, 0) = 𝑢1 (𝑛1ℎ1), 𝑢 (𝑛1ℎ1 + 𝑛2ℎ2, 0) = 𝑢2 (𝑛1ℎ1 + 𝑛2ℎ2, 0).
- In that case where the following appointments are made:.
-For the stability of the solution it is necessary to ընտրել choose the step so that:the following condition is met: [6]{(1 - 2𝜎1), (1 - 𝜎4 - 𝜎5), (1 - 2𝜎2), (1 - 𝜎6 - 𝜎7), (1 - 2𝜎3)} ≥ 0.
-Solve the heat field of a rod consisting of three homogeneous partsThe problem is with the following conditions:𝑙 = 2.8 m, 𝑙1 = 0.5 m, 𝑙2 = 1.5 m, 𝑙3 = 0.8 m, 𝑐1 = 1 Ջ:
+Given that the initial conditions of the problem under consideration (𝑛1, 0) ունեն (𝑛1 + 𝑛2, 0) have nodes, let us assume that 𝑢 (𝑛1ℎ1, 0) = 𝑢1 (𝑛1ℎ1), 𝑢 (𝑛1ℎ1 + 𝑛2ℎ2, 0) = 𝑢2 (𝑛1ℎ1 + 𝑛2ℎ2, 0).
+ In that case, where the following appointments are made:
+For the stability of the solution it is necessary to ընտրել choose the step so that the following condition is satisfied [6]: {(1 - 2𝜎1), (1 - 𝜎4 - 𝜎5), (1 - 2𝜎2), (1 - 𝜎6 - 𝜎7), (1 - 2𝜎3 )։ ≥ 0.
+Solve the thermal field problem of a rod consisting of three homogeneous parts under the following conditions: 𝑙 = 2.8 m, 𝑙1 = 0.5 m, 𝑙2 = 1.5 m, 𝑙3 = 0.8 m, 𝑐1 = 1 Ջ
 kg ℃ ℃:
 𝑐2 = 4 Ջ:
 kg ℃ ℃:
@@ -47,78 +46,66 @@ m3, 𝜅3 = 0.4 Ջ:
 , 𝜌3 = 0.6 kg
 վ ∙ մ ∙ ℃:
 վ ∙ մ ∙ ℃:
-Note, however, that modifying this input in the program is possibleto get a solution to the problem.
-The problem-solving calculation program has in Mathematica environmentas follows:u1 [x_].
+Note, however, that by changing this input in the program, you can get the solution to the problem.
+The problem-solving calculation program in Mathematica environment looks like u1 [x_].
 = 4√𝑥 -1; u2 [x_].
 = -x ^ 2 + 2; u3 [x_].
 = - (x-2.5) ^ 2 + 1; q1 [t_, x_].
-= Cos [x];q2 [t_, x_].
+= Cos [x]; q2 [t_, x_].
 = Sin [t]; q3 [t_, x_].
-= 10 (Sin [x] + Cos [t]);f1 [i_, j_].
-= q1 [i , j h1]  / ro1 / c1;f2 [i_, j_].
-= q2 [i , n1 h1 + (j-n1) h2]  / ro2 / c2;f3 [i_, j_].
-= q3 [i, n1h1 + n2 h2 + (j-n1-n2) h3]  / ro3 / c3;g1 [i_, j_].
-= q1 [i , j h1]  / rce1;g2 [i_, j_].
-= q2 [i , n1 h1 + (j -n1) h2]  / rce2;The first seven lines of the program provide input, andThe next lines are the calculation process.
-The results can be graphically expressed belowthrough the program: The result is output corresponding to the 𝑢 (𝑥, 𝑡) functionsurface (Fig. 2).
-Figure 2:Graph the dependence of the function և (𝑢, 𝑡) on the coordinate at time t = 0, t = 5𝜏, t = 10𝜏, t = 15𝜏 through the following program(Fig. 3):  Figure 3:Then we present the results differently: h1 = 0.1 (green), h1 = 0.5(blue), h1 = 0.025 (red) in case of steps (Fig. 4).
-  Figure 4:We see that as the step decreases, so does the scheduleHe agrees quickly.
+= 10 (Sin [x] + Cos [t]); f1 [i_, j_].
+= q1 [i , j h1]  / ro1 / c1; f2 [i_, j_].
+= q2 [i , n1 h1 + (j-n1) h2]  / ro2 / c2; f3 [i_, j_].
+= q3 [i, n1h1 + n2 h2 + (j-n1-n2) h3]  / ro3 / c3; g1 [i_, j_].
+= q1 [i , j h1]  / rce1; g2 [i_, j_].
+= q2 [i , n1 h1 + (j -n1) h2]  / rce2; The first seven rows of the program provide the input data, and the next rows provide the computational process.
+The obtained results can be graphically expressed through the following program: The result is the output corresponding to the function 𝑢 (𝑥, 𝑡) (Fig. 2).
+Fig. 2 Graph the dependence of the function և (𝑥, 𝑡) on the coordinate at time t = 0, t = 5𝜏, t = 10𝜏, t = 15𝜏 using the following program (Fig. 3): Fig. 3 Then present the results differently: h1 = 0.1 (green), h1 = 0.5 (blue), h1 = 0.025 (red) in case of steps (Fig. 4).
+  Fig. 4 We see that as the step decreases, the graph coincides quite quickly.
 3. ուսումնասիր The study of the thermal field of a rod consisting of homogeneous parts.
  The solution of the problem by the method of networks.
- Calculation program Mathematica:in the environment.
- Consider n of homogeneous parts of length:thin rod.
+ Calculation program in Mathematica environment.
+ Consider a thin rod consisting of n homogeneous parts.
   Straighten the ox axis along the rod.
-  0 𝑥 𝑥 ≤ 𝑙 thin rod̅̅̅̅̅) is composed of different physical characteristics n: 0 ≤ 𝑥 ≤ 𝑙𝑖 (𝑖 = 1, 𝑛̅̅̅̅̅) part specificfrom the sex parts.
-  Each 0 ողի 𝑥 ≤ of the rod (𝑖 = 1, 𝑛heat capacity, density, thermal conductivity coefficient 𝑐𝑖, 𝜌𝑖, 𝜅𝑖 (𝑖 = 1, համապատասխան̅̅̅̅̅) are.
-Rod 0 ≤ 𝑥 ≤ 𝑙𝑖 (𝑖 = 1, 𝑛̅̅̅̅̅) Heats with corresponding capacities are distributed along the parts̅̅̅̅̅), and that partially այդ (x, t) (𝑖 = 1, 𝑛̅̅̅̅̅) are.
- Left and right ends of the rodinitial temperatures (𝑥) (𝑖 = 1, 𝑛the temperatures are 𝑢1 (0) և 𝑢𝑛 (𝑙), respectively.
- Wanteddetermine the temperature distribution 𝑢 (𝑥, 𝑡) of the composite rod during the period 0 <𝑡 <։.
-Let's make a different scheme consisting of three homogeneous partssimilar to the differential scheme of the rod problem, generalizing̅̅̅̅̅) part so that the network:it.
-  Divide the տեղ part of the rod 𝑛𝑖 (𝑖 = 1, 𝑛according to the coordinate ℎ𝑖 =:
-    the step is relative to the segment 0 ≤ 𝑥 𝑙 :1network ℎ1 =:
+  0 ≤ 𝑥 ≤ 𝑙 thin rod̅̅̅̅̅) is composed of different physical characteristics of n 0 0 ≤ 𝑥 𝑙𝑖 𝑙𝑖 (𝑖 = 1, տեսակ) of the specific sex parts of the part.
+  Each 0 ≤ 𝑥 ≤ 𝑙𝑖 of the rod (𝑖 = 1, երմthe heat capacity, density, thermal conductivity coefficient are 𝑐𝑖, 𝜌𝑖, 𝜅𝑖 (𝑖 = 1, համապատասխան), respectively.
+Heats with corresponding powers հզոր are distributed along the parts 0 ≤ 𝑥 ≤ 𝑙𝑖 (𝑖 = 1, 𝑛̅̅̅̅̅) of the rod, and these are partially 𝑞𝑖 (x, t) (𝑖 = 1, 𝑛̅̅̅̅̅).
+ The initial temperatures of the left և right end of the rod 𝑢𝑖 (𝑥) (𝑖 = 1, 𝑛the temperatures are 𝑢1 (0) 𝑢𝑛 𝑢𝑛 (𝑙), respectively.
+ It is required to determine the temperature distribution 𝑢 (𝑥, 𝑡) of the composite rod in the period 0 <𝑡 <։.
+Let's make a different scheme similar to the different scheme of the problem of a rod consisting of three homogeneous parts, generalizing the part ̅̅̅̅̅) so that it is a network.
+  Divide the տեղ part of the rod 𝑛𝑖 (𝑖 = 1, 𝑛 according to the coordinate ℎ𝑖 =
+    step should be relative 0 0 𝑥 𝑙 ≤1 segment անց1 =:
   step, ie 𝑛𝑖 = [
 ].
-  Based on the fact that:Prerequisites for the problem under considerationIf there are gaps in the nodes, let's assume that 𝑢 (∑ (𝑛𝑗
+  Given the fact that the preconditions of the problem to be adopted are broken in the nodes, let us assume that 𝑢 (∑ (∑
 ̅̅̅̅̅).
- In that case where (𝑖 = 1, 𝑛:̅̅̅̅̅) և the following appointments have been made:For the stability of the solution it is necessary to ընտրել choose the step so that:the following condition is met: [6]{(1 - 2𝜎𝑖), (1 - 𝜔𝑖 - 𝛿𝑖)} ≥ 0.
+ In the case where (𝑖 = 1, 𝑛̅̅̅̅̅) և the following appointments are made, for the stability of the solution it is necessary to choose the step so that the following condition is satisfied [6]: {(1 - 2𝜎𝑖), (1 - 𝜔𝑖 - 𝛿𝑖) ≥ ≥ 0 .
 Now let's present the calculation program in Mathematica environment.
-The first part of the program (Fig. 5) allows you to create input fields:for the input of the given initial data. for example:
-NmbHmgnPrt [z_].
+The first part of the program (Fig. 5) allows you to create input fields for entering the given initial data. for example, NmbHmgnPrt [z_].
  = Row [{TextCell ["Enter n ∶"],
-When the function is called, a homogeneous input field of the rod is createdfor importing the quantity of parts, andFig. 5:
-In the case of a function call, an input field is created for part ողի of the rodfor the introduction of thermal conductivity.
-The second part of the project (Fig. 6) is implemented in the first partFig. 6:
-given NmbHmgnPrt [𝑖], NmbCrdLyrFrstPrt [𝑖], NmbTmprLyr [𝑖] functionscall, respectively, according to the number of homogeneous parts of the rod, the number of homogeneous sites according to the coordinate number, according to the time stepsfor number entry.
- In the third part of the project (Fig. 7) homogeneous parts of the rod are createdFig. 7:
-Fields corresponding to the imported quantity (data entered in the second part of the program) for the input of the length of each homogeneous part of the rod, specific heat capacity, density, thermal conductivity, the initial condition given in that part, the applied heat function.
+In case of a function call, an input field is created for entering the number of rod homosexuals, and Fig. 5 In case of a function call, an input field is created for the input of the pole 𝑖 mass mass coefficient.
+In the second part of the project (Fig. 6) the first part is implemented. 6 given NmbHmgnPrt [𝑖], NmbCrdLyrFrstPrt [𝑖], NmbTmprLyr [𝑖] functions for entering the number of homogeneous parts of the rod, respectively, for the first homogeneous site according to the number of coordinate steps և for the number of time steps.
+ In the third part of the project (Fig. 7) homogeneous parts of the rod are created. Fields corresponding to the 7 imported quantities (data entered in the second part of the program) for the length of each homogeneous part of the rod, the specific heat capacity, density, thermal conductivity, the initial condition given in that part, the applied heat function.
 In the fourth part of the program (Fig. 8) the steps of each rod section are determined according to the coordinates and their quantities.
-In the fifth part of the programappointments to further simplify the program.
-(Fig. 9) some intermediates are madeFig. 8:
-Fig. 9:
-The sixth part of the project (Fig. 10) presents the implementation of the differential scheme, as a result of which the 𝑢 (𝑥, 𝑡) surface is displayed in the seventh part of the project (Fig. 11).
-Fig. 10:
-Fig. 11:
-Fig. 12:
-We apply 𝑛 to the heat field of a rod consisting of homogeneous partsStudy calculation program in point 2, nominated threein the case of the heat field problem of a rod consisting of homogeneous parts.
+Appointments in the fifth part of the program for further simplification of the program.
+(Fig. 9) some intermediate Figs are made. Fig. 8 9 The sixth part of the project (Fig. 10) presents the implementation of the differential scheme, as a result of which the 𝑢 (𝑥, 𝑡) surface is displayed in the seventh part of the project (Fig. 11).
+Fig. Fig. 10 11 Fig. 12 We will apply 𝑛 the calculation program for the study of the thermal field of a rod consisting of homogeneous parts in point 2, in case of the problem of the thermal field of a rod consisting of three homogeneous parts.
 Run the first part of the program (Fig. 5), then the second (Fig. 6) ենք enter the relevant data in the displayed fields (Fig. 12).
-Fig. 13:
-According to the number of imported homogeneous parts (in our case 3):After the launch of the third part of the program (Fig. 7), fields are displayedfor the introduction of the physical properties of homogeneous parts (Fig. 13).
-Then we run the 4th, 5th and 6th parts of the program (Fig. 8, Fig. 9,fig. 10) և, finally, after the operation of the 7th part, the searchable surface is displayed (Fig. 14).
+Fig. 13 In accordance with the number of imported homogeneous parts (in our case 3), after launching the third part of the program (Fig. 7), they are exported to introduce the physical properties of the homogeneous parts of the field (Fig. 13).
+Then we run the 4th, 5th և 6th parts of the program (Fig. 8, Fig. 9, Fig. 10) և, finally, after the launch of the 7th part, the searchable surface is displayed (Fig. 14).
   As a result, we get the same solution as in point 2 (Fig. 2).
 4. Conclusion.
- Thus, we can say that the finite difference method (networks) remains relevant և wide applicationto be found in various fields of science.
- Final differencesThe method is an approximate method for solving differential equations in mathematical physics, but the latter provides great accuracy, whichFig. 14:
-confirm the observed studies.
- At the same time, the network method at this stage of the development of computer mathematicshas developed more widely, in which the Mathematica environment plays a major roleas the world's leading computer mathematics system.
- Using the Mathematica environment as a modern high schoollevel programming language: we get the ability to countSolve a large number of algebraic equation systems in seconds, compile explicit schemes, and interpolate the resulting spreadsheet datawith corresponding functions, making it all graphically observable.
+ Thus, we can say that the method of finite differences (networks) continues to be relevant և widely used in various fields of science.
+ The finite difference method is an approximate method of solving differential equations in mathematical physics, but the latter provides great accuracy, which is shown in Fig. 14 confirm the observed studies.
+ At the same time, at this stage in the development of computer mathematics, the method of networking has become more widely developed, in which the Mathematica environment plays a major role as the world's leading computer mathematics system.
+ Using the Mathematica environment as a modern high-level programming language, we get the opportunity to solve a large number of algebraic equation systems in a matter of seconds, to compute calculations of explicit schemes, to interpolate tabular data with appropriate functions, making it graphically observable.
 The problems observed in the work are of great interest from a practical point of view.
-  The problems are solved in generalin case of nature.
+  The problems are solved in case of general conditions.
   Compiled calculation programs are quite accessible for non-programmers և provide great accuracy.
-Literature 1. Sargsyan A. H. Graphic elements of Mathematica package և them
-teaching.
+Literature 1. Sargsyan A. H. Graphic elements of Mathematica package և their teaching.
  Methodical work.
  Gyumri.
  Հեղ. հրատ.:
  2014. 88 pages.
-Information about the authors:Sargsyan Armenuhi Hakoby - physicist. Candidate, GSPI Higher Associate Professor ամբ Chair of Mathematics Teaching Methods, Head of postgraduate և additional education department, E-mail.
- armenuhis@mail.ru:Varduhi Alexanyan - GSPI, Master, E-mail.
+Information about the authors Armenuhi Hakobyan Sargsyan - Phys. Candidate, Associate Professor of the Chair of Higher Mathematics և Mathematics Teaching Methods, Head of the Postgraduate և Department of Additional Education, E-mail.
+ armenuhis@mail.ru Alexanyan Varduhi - GSPI, Master, E-mail.

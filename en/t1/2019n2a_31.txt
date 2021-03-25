@@ -1,0 +1,59 @@
+The well-being of a two-society society was characterized only by indicators that characterized the economic dynamics of life; it was oriented only towards individual needs.
+  In this case, there was a need to apply a new scale for measuring human well-being with different indicators.
+  To meet these basic requirements, the concept of "quality of life" began to be used, and problematic scientific studies began to operate from the 18th century.
+The study of indicators of life in the Republic of Armenia has been referred to in a number of scientific articles and works, but no reference has been made to the assessment of the quality of life in the Republic of Armenia [1], [2], [3].
+ We propose a new method of assessing the quality of life in the Republic of Armenia, which includes possible factors affecting the quality of life.
+In terms of socio-economic development, the leaders are the countries that have a high level of education, science, health and culture, and not high rates of economic growth.
+ The above justifies the role of the high quality of life բացահայտ the need to identify the impact ությունը the urgency of this work by presenting it through data analysis.
+The standard of living here with its various interpretations has been chosen as the foundation of the spheres.
+The standard of living reflects the volume of consumption ևև production structure, working conditions, level of development of the service sector, the structure of non-working և leisure time, the size of individual property.
+  Such a broad definition of this category describes the socio-economic situation of the population.
+Considered by social people, quality of life is a set of indicators that characterize well-being, which characterizes the level of satisfaction of material and caring needs of people (social, psychological, economic, political, etc.) integral system of factors.
+Quality of life is usually associated with financial security, unity with nature, responsibility to future generations, and other aspects.
+As a series, there is currently no one-size-fits-all approach to assessing the quality of life of the population.
+ In fact, the problem of assessing the quality of life is first of all related to the definition of the quality of life, that is, what is a specific attempt to assess.
+Until the advent of human development concepts in the 20th century, the volume of real GDP per capita was considered to be the main indicator characterizing the living standards of the population.
+However, over time, it became clear that without additional indicators, well-being can accurately describe and present the values ​​of social environments.
+  Development և progress is not so easy, because these concepts do not contain only objective elements.
+ Development is aimed at improving the quality of life of people, then the development goals և the ways to achieve them will differ according to the possible implementation of the country, the regions.
+և Individual progress, well-being are related to indicators such as income, economic ranking, unemployment, education և Human capital, availability of resources և Placement, security, health, crime, happiness, ecosystem values ​​և etc.
+In order to determine whether the quality of life or development is stable, the factors listed above must be combined into one general indicator, the ratio.
+There are many indicators that characterize the quality of life, which տնտեսական combine environmental, economic and social conditions.
+ The choice of this index depends on what it is used for.
+  The analytical և informational side մեթոդ of the method of its presentation determines the degree of its applicability.
+Money expression in monetary expression, dynamics, degree (excellent, good, bad, many).
+  1975 Մ. The Morris Physical Quality Scorecard (PQLI) was developed by a team of scientists, [5] which is often used at the macroeconomic level to assess the level of human health needs met. [6] Index: Problem:
+is the literacy rate, is the infant mortality rate per 1000 live births (166 infant mortality rates) * 0.625, is the life expectancy ratio (infant mortality rate is -42) * 2.7.
+In modern times, the Human Development Index (HDI) has become a better measure of social progress than many other indicators.
+In today's rapidly changing world, human living conditions, lifestyles, and behaviors, as well as perceptions of human development, have become rapidly changing.
+  The Human Development Index measures the country's average progress in human development, clearly shows the development trends of different countries, allows them to be compared with each other, which are reflected in the human development reports of the countries.
+It presents a composite assessment of the following three dimensions of human development. to live a long life (measured by life expectancy), to be educated (measured by egregiousness) և to have a decent standard of living (measured by purchasing power parity, income level).
+The IDA is a summary assessment of three separate indicators.
+These are the life expectancy index, the education index, the gross national income (GNI) index.
+  It is calculated as follows: [8] where: - is the human development index, - is the life expectancy index, - is the education index, - is the gross national income index.
+Figure 1. According to the results of 2018, among the 188 countries in the world, the countries with the highest IDA, ie the most prosperous և non-prosperous countries [9].
+The average life expectancy is the lowest in Sierra Leone - 52.2 years, and the highest in Hong Kong - 84.1 years.
+  Qatar has the highest output per capita - $ 116,818.
+  The Central African Republic has the poorest population. The annual per capita income here does not exceed $ 663.
+Armenia ranks 83rd among 189 countries in the Human Development Index, the IDA is estimated at 0.755 points, which is an increase of 0.006 points compared to the previous year.
+  Armenia's neighbors Iran, Georgia, Turkey - Azerbaijan are in the 60th, 70th, 64th and 80th places, respectively, and Russia is in the 49th place.
+In order to study the quality of life, the assessment is carried out over the years, with the aim of revealing the dynamics of the quality of life over the years.
+  Data methodology assumes evaluation according to 7 areas: 1. Demographic indicators (natural growth, number of marriages), 2. Income (gross product per capita, real wage), 3. social sphere (unemployment rate, poverty level), 4. Education, science, culture (number of children enrolled in state pre-school institutions, number of those enrolled in public schools), 5. Health (life expectancy, number of disabled people), 6. Access to social infrastructure facilities (number of mobile subscribers, number of Internet subscribers), 7. environment (amount of harmful substances emitted into the atmosphere).
+Quantitative estimates of these indicators, taken from the NSSRA website, are necessary for the construction of the quality of life index [11].
+In order to accurately describe the quality of life of the population in Armenia, it must be assessed through general indicators, which in order to obtain it, it is necessary to normalize the indicators that have the most significant impact.
+  We calculate the quality of life index in the following way: COH = 0.20 * EC + 0.20 * SOH + 0.15 * KGMH + 0.10 * PC + 0.15 * JOH + 0.10 * SEH + 0.10 * Where: EC-income index Index of cultural spheres VAT-health index ՀPD-demographic sphere indexSEH-social infrastructure sphere indexHRC-environmental sphere index Consider the dynamics of our quality of life over 10 years.Table 1. The quality of life index of the population of Armenia in the WHO is the WHO of the UNHCR 2009-2018. The quality of life has increased at a high rate, registering a maximum growth of 7% in 2011, 9.5% growth in 2013, only 2.4% growth in 2017, and 4.2% growth in 2018.
+1 Compiled by the authors based on the assessment methodology Figure 2. Dynamics of the quality of life of the population of Armenia during 2009-2018, (%) According to the current data of 22019, in terms of quality of life, Armenia ranks 153rd, ahead of Georgia (156). from Azerbaijan (179th), Iran (203rd) and Russia (171st), with Turkey in 130th place.
+ The quality of life ratios are presented in Table 1.
+Table 2. Classification of countries by quality of life index [12] CountryTurkeyArmeniaGeorgiaRussiaAzerbaijanIndigating the quality of life index in the Republic of Armenia as an integral part of the country's զարգացմանsociety տնտեսական տնտեսական's economic development 2 Compiled by the authors 36,272,59,57,2012016232012232012232012232012 To evaluate the interaction between economic growth և quality of life միջոցով through regression analysis.
+  Regression analyzes to determine the absence of regressions [13].
+  In our analysis, (Y), the quality of life, is a dependent or output variable, and X1 is an independent variable.
+To identify the existence of a service, we will perform a pairwise regression analysis of quality of life և economic growth և.
+  The required data for regression analysis are presented in Table 3.
+Quality of Life և Economic Growth և Economic Growth in Armenia Table 3. Quality of Life Economic Growth (X1) Coefficients for 2009-2018 the interaction between them.
+  In this analysis, (Y) quality of life is a dependent or productive variable, and (X1) economic growth is an independent variable.
+Table 4. Summary Results of Regression Analysis 3 Bottom Bottom Top-Coefficients Top The results of this pairwise regression analysis show that if economic growth increases by one point, quality of life will increase by 0.0513 points and increase by 5.362 points as a result of changes in other factors.
+  Life 3 Compiled by the authors, only 27% of the variation in quality is due to variation in economic growth, followed by 73% due to factors not included in the analysis.
+  The results of the analysis showed that in case of increasing the economic growth by one point, the change in the quality of life is likely to fluctuate in the range (-0.3648; 0.4951).
+in the range, probably in the Conclusion.
+  The new methodological assessment of the quality of life index is the basis for the implementation of analyzes that do not yet exist in the Republic of Armenia, including a summary of 7 sectoral indicators of quality of life.
+The results of studies ումների assessments, which allow to assess the quality of life in Armenia, allow us to conclude that the economic growth has a direct impact on the quality of life, and the provision of sustainable mechanisms for the quality of the Republic of Armenia to ensure sustainable economic growth.

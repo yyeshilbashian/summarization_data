@@ -1,0 +1,71 @@
+Preface.
+  Geoinformation systems (EEC, GIS) are used in various fields to solve the problems of human life.
+ This system is designed to support the creation, management, modeling, and analysis of a spatial data bank. Complete spatial representation by map, cartographic image, model.
+  The article analyzes a number of literatures, where information technology was used in the field of information technology education.
+Peculiarities of their application in the process of teaching technologies և Present relevance of geography, didactic principles, which helps the teacher to prepare for the lesson ել To organize the teaching process more effectively.
+  The modern priority direction of solving the problems of education should be sought in the current methodology of application of information, communication and communication technologies.
+  These approaches should be directed to teaching in the school to promote the correct professional orientation of future students.
+  From here, the goals of using the EECs are outlined.
+Geoinformation systems for improving the quality of technical means emerged in the early 60s of the XX century.
+  It was then that the preconditions and conditions appeared for the modeling of the information-geographical space of the spheres of activity մանը the solution of territorial problems.
+EECs are information systems that provide data collection, input, storage, processing, display, dissemination, as well as the acquisition of new information (information) based on them, knowledge of spatial phenomena.
+EECs are classified according to a number of criteria.1. According to the spatial scope of inclusion, there are global (mainly continental, national, international, regional, subregional, local (local), including urban, multicolored EECs.
+  The EEC is able to model objects that are found not only on land but also in seas, oceans and inland water bodies.
+status), 2. The composition and structure of EEC data are determined by information modeling objects, which can be both natural phenomena (forest, soil, water, population, economy) and various processes (floods, environmental pollution, migration).
+3. EECs differ according to the types of information modeled objects.
+  There are environmental, administrative, political, socio-economic, natural, etc.
+4. The working orientation of the EEC is predetermined by the scientific-practical problems that need to be solved.
+  They can be categorized according to the complexity of the possibilities of managing the objects of the modeled objects: collection, input, storage, analysis, evaluation, planning, management.
+monitoring, 5. The functional classification of the EEC is carried out according to the appropriate software toolkit.
+  Digitization, storage, processing, export (for example, in the form of a map) of the EECs, their use of data, including their basic monitoring and management.
+functions of data retrieval, 6. EECs are also classified according to territorial administration units.
+  For example, depending on the geoinformation system, federal, regional and special purpose EECs, moreover, special purpose EECs are used to meet the information needs of specific sectors of the economy.
+Thus, GIS is used in a variety of areas to solve problems in human life և activities.
+  In other words, the EECs do not simply create maps, but use the map to answer many questions related to the cause-and-effect relationships of the location of objects or elements.
+  Today it is impossible to imagine the EEC without modern software packages and technical means.
+  The vast majority of information retrieval systems rely on data from aerospace, multispectral extraction, and geodetic surveillance systems (GPS).
+With this in mind, we use the application of geo-information technologies and methods in the geographical education system more than modern methods in the teaching process.
+Spatial or geographic information-cartographic data reflecting natural objects and phenomena.
+  Spatial geographical data are presented in the form of a simple (stationary) map, which can be easily printed on paper or viewed with the help of an interactive (mobile) map.
+  Interactive maps make a significant contribution to the modern geographic education system.
+Interactive maps contain a wealth of information, and if necessary, can quickly update new information by connecting to a variety of databases.
+  The main advantage here is the ability to analyze the event, the topic, to get a complete answer.
+  Interactive maps allow you to quickly and accurately calculate: • the distance between geographical objects (in a straight line, on a road network, taking into account the relief factor), • the area, average surface height, slope, etc., • one geographical coverage by a geographical object (a Qualitative (quantitative data) is given, the trajectory of the moving object is detailed, the details of the trajectory are moved, the phenomena are able to move, change their color, move independently with the phenomenon, and change quantitatively depending on the degree of generalization.
+With the introduction of the Global Positioning System (GPS), a new data entry-analysis-map map was created.
+Today's methods of teaching geography are not available in modern technologies Հ EECs.
+  The practical role of the map, especially the electronic map, is used in this process.
+apply the main features of using EECs effectively, which will help the teacher to create favorable conditions during the lesson և to achieve a high level of mastery of the material: use of ready-made software products; • use of Internet resources for class preparation, extracurricular activities, self-education և use; • monitoring the evaluation of educational outcomes;
+The EEC enables the teacher to: • present the material in a visual way, • reinforce the knowledge gained during the transmission of the new material, • regulate the accuracy of the amount of information presented through animation, • stimulate students' cognitive activity [1].
+The use of EECs in the teaching process requires the teacher to develop certain forms of activity, tasks, which will allow interactive methods to use the means to deliver the material more effectively, to analyze, to manage, to control the process of solving educational problems, to stimulate learner activity.
+With the use of EECs, lessons at school become interesting, desirable and expected.
+  Research has shown that equipping classrooms with only technical means is not enough to provide effective teaching with the latest technology [2].
+  There is also a need for methodological, didactic-electronic materials, which increase the students' visual, cinematic and audio presentation capabilities.
+material level of receptivity.
+Describe the learning process using EEC with post-traditional features.
+differ • Transforms the teacher's activities, which implies a higher level of subject knowledge, the development of a technologically realistic scenario of the teaching process, the ability to work with the means of applying the EEC.
+Full knowledge of և Technical teacher • The role of the teacher changes, which implies equalization of students' activity in the learning process: subject-object system of education, substitution of subject-subject system of activity. In this case, the leading role of the teacher is combined with the active educational activity of the students.
+Using the issue of increasing the effectiveness of geography teaching, it should be noted that there are limited opportunities for EECs to facilitate the geographical information by learners.
+ Therefore, taking into account the didactic goals and observations of the given subject, we have singled out such types of computer programs as: many features, such as training programs, demonstration programs, training programs, information programs, modeling programs, software programs, etc.
+The peculiarities of the application of geography teaching are: In the process of introduction of EECs • The introduction and widespread use of EECs, first of all, presupposes a transition from traditional teaching methods to new methodological teaching systems, modern pedagogical technologies.
+ Such an approach will find a way to create a fundamentally new educational information-subjective environment.
+In essence, the information-educational environment developing in the field of geography as a mediated link between the teacher and the "existing e-learning resources".
+The use of it in the process of teaching geography provides opportunities to make it more effective.
+• The objective reasons hindering the introduction and more effective use of EECs in the learning process are: • Insufficient interconnectedness of the educational system եթ E-learning resources of the educational system; • Insufficient level of mastery of the EEC system. , • knowledge of the basics (professionalism), not the transition from knowledge to basic ICT application competence և
+It is necessary for the teacher to know more practically about the possibilities of the mentioned programs, to try to master them.
+Consequently, among the difficulties of using EECs, geography is predominant in the teaching process. • The inability of ICTs to use ICTs effectively; • the proportionality of the received information; the inability of them to think, the inability to orient themselves, the inability to orient themselves.
+Taking into account the mentioned problems and objective obstacles, we consider it necessary to mention that in order to find solutions it is necessary to provide schools with technical means, trainings for program geography teachers on "use" technological methodological training and to develop standards by which more specific and practical methods can be used. The EECs.
+The use of EECs in the learning process provides new content for the implementation of didactic principles.
+Thus, the principle of teaching science is expressed through the reliability of online information material, the use of multimedia իպhypermedia technologies, as well as through the introduction of various teaching technologies [4].
+In the context of the application of the EECs, the principle of learning awareness is realized by enabling students to make conscious choices of their own learning strategy, and in this case the principle of learning stability is maintained by a system based on computerized reflection, construction, interaction-based interaction.
+The principle of connection between the activity of education and the implementation of the educational training carried out by the EECs in the process of self-education.
+  By maintaining the principle of learning activity ության with the principle of life, the teacher gives the students the opportunity to use all the programmatic, technical and didactic possibilities of the EECs, adapting them to their individual characteristics.
+The principle of learning screening in the learning process is provided by multimedia based on the use of EECs, the learning information of which is provided in such a way that learners perceive it through several senses at the same time, which significantly increases the learning efficiency.
+Due to the study of the didactic judgments made in the direction of the introduction and effective application of the EECs, we consider the following principles possible: Classifying research principles • Applicability principle, which is implemented at different levels of education, differentiation of material by volume, content և degree of complexity, using the means of examination.
+• The principle of learning interactivity (interactivity), which is expressed through a pedagogical dialogue between the teacher և student, computer ատ user (learner) in the context of active interaction.
+• The principle of individualization of education, which implies the creation of effective and comfortable conditions by the learners for the purpose of carrying out independent work, which will contribute to the promotion of their educational activities and the basic mastery of the taught material.
+և The principle of integrated use of software means, which presupposes the construction of subject-oriented complex means, taking into account didactic opportunities, educational problems, as well as the specific nature of the learning process, taking into account the use of e-learning resources.
+• The principle of expediency, which implies the methodically justified, pedagogically justified, technologically developed, technically improved application of EECs in situations when they provide such a qualitative result of knowledge formation and skills development, which is almost impossible to achieve in the application of traditional teaching technologies.
+Capacity Building, Intensive Systems Enhancement Benefits of Plateboards
+  Interactive application of technologies and technologies in the process of teaching geography.
+The use of interactive learning "communication software packages" technical means of teaching geography enables the teacher to visualize them on the board in a more efficient way, stimulating learners' presence and pictorial thinking, enabling learners to work both logically, creatively, from simple to creative, from creative to creative. Teacher approaches.
+comment.

@@ -1,0 +1,65 @@
+1. Preface.
+  On the physical principle of Dirichlet.
+  As it is known, if only conservative forces act in a mechanical system, then the minimum state of its potential energy is a state of stable equilibrium.
+ In other words, the mechanical system tends to be in a state with minimal potential energy.
+  This expresses the physical principle of potential energy minimum, or the same, Dirichlet [1, 19].
+It turns out that the latter can be used to solve some static problems.
+  The validity of Dirichlet's principle can be easily ascertained by making a contradictory assumption.
+Indeed, suppose the system can move from a state of potential energy with a minimum of energy and then acquire kinetic energy.
+  As a result, the "kinetic" potential energies of the mechanical system will increase, so the "mechanical" energy will increase.
+  The latter is not possible, because the full mechanical energy of the system of bodies interacting with only potential forces is conserved.
+  The resulting contradiction proves that our initial assumption was wrong - the system can not voluntarily get out of the state of potential energy minimum.
+ Thus, the latter is a state of stable equilibrium.
+2. Examples of application of the principle.
+  Let us now consider some of the atypical problems encountered in the physics school course, in the solution of which we will apply the proposed Dirichlephysical principle.
+Let's discuss an issue below, which O. Ya. It is a generalization of the relevant issue of Savchenko's well-known petition [2, 94].
+Problem 1.
+ The heavy rod bends at an angle and hangs freely from one end (Fig. 1).
+  The lengths of the upper and lower parts of the rod are respectively.
+What angle will the upper part of the rod form with the vertical?
+  ևSolution.
+  If we denote the unit mass (linear density) by the unit of length of the rod, select the horizontal level passing through the point of suspension (Fig. 1), then the potential energy due to the force of the rod weight will be determined by the following formula: zero energy According to the minimum potential energy or Dirichlet principle, the pole will accept the minimum value in the state of stable equilibrium of the rod.
+As a result, the problem is determined by the value of the angle at which the energy function takes the minimum value.
+  Determining the minimum value of a trigonometric function by auxiliary angles is a standard step in the algebra school [3, 171], resulting in the following expression: 090 abcoscossin.
+22abWagbga22cossinfaabbf Of course, this problem can be solved by traditional statistical methods.
+  For example, it is possible to take into account the forces of gravity acting on the rod parts by writing a line մամբ perpendicular to the plane of the moment passing through the point of dependence on the planar plane.
+(Fig. 1).
+  Then, taking into account "Problem 2".
+  The vessel is divided into two equal parts by means of a movable partition.
+  Initially, the septum of the vessel's kidney is filled with fluid of equal magnitude (Fig. 2).
+How much will the partition move after leaving it open?
+  Ignore communication.
+Consider that as fluid flows from the vessel, the septum does not tilt [author].
+processor Solution.
+  According to Dirichlet's principle, in equilibrium, the partition will occupy a position where the potential energy of the fluid system is minimized.
+By selecting the zero level as the horizontal passing through the bottom of the vessel, the total potential energy of the liquids will be: - are the masses of the liquids with refraction, and - and ՝ are their heights (Fig. 3).
+2.
+2btgaabsincossin, 22ababmgmgaambmab; , abmamb2ah1221x1122,22mghmghW1m2m121h2h Given that for potential energy we get. where - is the width of the vessel.
+If the potential energy of a system is at its lowest value, its derivative is equal to zero. It is a function of,.
+  In this case, the latter is written in the following simple form: Then, taking into account the uncomplicated mathematical conditions, changes can be determined by moving the piston.
+method.
+It should be noted that problem 2 in the 10th grade can be solved only during generalizing repetitions, when the students are already familiar with the idea of ​​the derivative from the mathematics course, it becomes possible to discuss our first solution to the observed problem using Dirichlet principle.
+  It is useful not only in terms of the originality of the approach, but also in terms of the expression and development of interdisciplinary connections.
+  In addition, the teaching experience shows that despite the rationality of the traditional method of solving in this case, many learners make a gross mistake նման1, haxha2, haxha2212,2gWhalaxax Xxlxx120.
+axax2121.
+ax112212.
+22ghghlhlh1, haxha2, haxhax consider the equality of pressures instead of the equality of pressure forces.
+Problem 3.
+  Two identical balls hanging in the air from uniformly thin threads of the same length, which are fastened at one point.
+  After giving each of the balls a charge, they parted.
+  Determine each ball mass if the strands form an angle in equilibrium [4, 114].
+Solution.
+  If we choose the zero level of potential energy passing horizontally through the point of suspension of the filaments, the potential energy due to the weight of the ball system will be determined by the formula (Fig. 4).
+ For the potential energy due to the electrostatic interaction of charged spheres, we have the formula where is the distance from the centers of the spheres, the potential expression of energy (Fig. 4).
+  Thus, in the full state of the system, according to Dirichlet, in a state of equilibrium, its potential energy must take the minimum value.
+  The latter will be satisfied if the potential energy derivative is equal to zero in angle, the systemic principle from which we get: The last expression can also be used to determine the mass of the balls: 0.2
+qWmglkr22cos0, qmglkr322sin.
+cos4kqlmg kg.
+As we have seen, the problem was solved without a force analysis of the state of equilibrium.
+  This problem, of course, is traditionally solved by the usual "force" method.
+ Such an approach depicts all the forces acting on one of the spheres (Fig. 4).
+  The latter then projects the search mass of the decision balls as a result of the ratio of the equations obtained and the mathematical elemental transformations on the horizontal-vertical axes.
+3. Conclusion.
+  In conclusion, the proposed approach provides an opportunity to apply a new approach in solving various atypical problems of the statics department considered in the physics school, avoiding the use of the known method of force, which is the main scientific-methodological novelty of the work.
+  In fact, Dirichlet's physical principle, with its simplicity of formulation, can be a very effective "tool" for students in solving various physical problems.
+We think that the work will be of interest to both students and those interested in physics, as it will contribute to the development of logical and creative thinking of students, in general, to the increase of teaching efficiency.

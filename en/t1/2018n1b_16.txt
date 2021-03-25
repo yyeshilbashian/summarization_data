@@ -1,94 +1,83 @@
   Introduction.
-  9th և 10th of Physics School OlympiadsThere are various problems with calculating electrical circuits in almost all class assignments.
-  That's because of itthe fact that the DC circuits it is a bit simpleis one of the topics that is studied in sufficient detail in high school.
- Note that in the high-class Olympic versionsoften raise non-standard chain count problems.
- Thus, for each new Olympiad you need to include:to solve other problems, also the problem of electrical circuits.
- There are many examples of interesting chains in the physics handbooks տարբեր various manuals for preparing for the Olympiads [1 - 4], but it is not expedient during the Olympiadsalways offer the same problems,։ it is desirable to develop new ones.
- OftenAfter creating a new problem, it turns out that it exists in almost the same positionin a previous petition or teaching manual.
- The problems of elementary physics are numerous, and it is difficult to avoid suchfrom coincidences and repetitions.
+  In almost all tasks of the 9th և 10th grades of the Physics School Olympiads, there are different problems related to the calculation of electrical circuits.
+  This is due to the fact that DC circuits are one of the few simplifications that are studied in sufficient detail in high school.
+ It should be noted that in the Olympic versions of the upper classes, non-standard problems of counting chains are often raised.
+ Thus, for each new Olympiad, it is necessary to choose, among other problems, the problem of electrical circuits.
+ There are many examples of interesting circuits in the physics textbooks տարբեր in various manuals for preparing for the Olympiads [1 - 4], but it is not expedient to always offer the same problems during the Olympiads, և it is desirable to develop new ones.
+ After compiling a frequent problem, it turns out that it has almost the same position in a previous petition or teaching manual.
+ The problems of elementary physics are many, և it is difficult to avoid such coincidences and repetitions.
  It is more difficult to create absolutely unique problems.
- Note, however, that it is important in the learning processIt is not only the preparation of new educational materials, but also the development of old onesa new presentation.
- It is possible that during the subject OlympiadAssign tasks that are not directly addressedfrom well-known, albeit very high-level petitions.
+ It should be noted, however, that in the learning process it is possible not only to prepare new educational materials, but also to develop old ones and present them in a unique way.
+ It is possible that during the subject Olympiad, tasks will be nominated that are not taken directly from, even if from very high level petitions.
  In that case, the student will have the opportunity to apply his knowledge and skills in a new situation.
- While working on an unknown problem, he can actively generate ideas, choose solutions, developand try approaches and compare them.
- It should be noted that newly composedThe best weight for the value of the problem can be the attractiveness of the problem and the active interest of the students.
-It is possible that which part of the participants of the Olympiad won?հստակ How clear and comprehensible is the task to the students?
+ While working on an unknown problem, he can actively generate ideas, choose solutions, develop approaches and compare them.
+ It should be noted that the best weight for the value of the newly formed problem may be the attractiveness of the problem and the active interest of the students.
+It is possible that what part of the participants of the Olympiad has overcome the task, how clear and perceptible it is for the students.
 Problems.
- Below we will present about electrical circuitsWe have compiled a number of issues that have been raised over the yearsto the republican subject Olympiads organized by the University.
+ Below we will present some issues on electrical circuits compiled by us, which will be nominated for the Republican Subject Olympiads organized by the University in different years.
  Despite the structural differences, the approaches to solving these chains are close in nature to the ideas used in similar Olympic issues.
 Problem 1.
-  Homogeneous circlewire resistance A և B on the same diameter is between points 1R and between points C և DFig. 1:
-2R (Fig. 1).
- How much is the resistance? the relationship.
+  The resistance of a homogeneous circular wire is 1R between points A և B on the same diameter, and between points C և D - Fig. 12R (Fig. 1).
+ What is the ratio of resistances?
 Solution.
  The resistance of the wire is directly proportional to the length.
- Therefore, if we denote the resistance of the whole loop by R,then the resistance of each half of it will be .
- In the first chainThese halves are connected in parallel, the resistance between points A and B..
- In the second chain, the points C և D are the length of the loopThey are 5.
+ Therefore, if we denote the resistance of the whole loop by R, then the resistance of each half of it will be.
+ The first halves of the chain are connected in parallel, և between the points "A and B".
+ In the second chain, the points C և D increase the length of the loop by 5.
 1:
- ratio և again considering that the wireThe resistance is directly proportional to the length and using parallelFrom the connection formula, we get:
+ Given that the wire resistance is directly proportional to the length and using the parallelization formula, we get:
 .
 So we get the search for the resistance of the circuits
-1R 1 Ohm,2 Ohms, ՕProblem 2.
-Transmitters with 100 ohm resistors are connected in sequence, forming a closed loop(Fig. 2).
+1R 1 Ohm, 2 Ohms,… Problem 2.
+Transmitters with 100 ohm resistors are connected in sequence, forming a closed loop (Fig. 2).
  From which points of the ring should the ohmmeter clamps be connected for maximum resistance?
  What will be the resistance?
 Solution.
-    There are two ohmmeter clampspoints in the resulting chainThe resistance will be:Fig. 2:
-where R և R են are the resistances of two parallel branches.
- Anyin case of connection acceptsthe same value.
-  The latter can be decidedusing the formula for the sum of arithmetic progressionOhm.
+    The chain resistance obtained as a result of connecting the ohmmeter clamps will be: Fig. 2 where R և R են are the resistances of two parallel branches.
+ In case of any connection - accepts the same value.
+  The latter can be determined with the help of the formula for the sum of arithmetic progression - Ohm.
 Thus, the problem is to determine the quantities R և R ունեցող with the maximum product.
- As it is knownFrom a math course, the product of constant quantities is the maximum if:they are equal.
- From the above it becomes clear that the resistance Rwill accept the maximum value if: Ohm.
- It is now necessary to look for the points of connection of the ohmmeter clamps, which consist of increasing resistors with a regularity of arithmetic progression.The sum resistance of the ring is divided into two equal parts.
-This will be the case if we connect the chain to fig. With the egg shown in Figure 3, a clamp
-25R և:76R26R from the connecting wire of the resistors, and the other from 75R ևFig. 3:
-connection:like:from the connecting cord.
+ As is well known in mathematics, the product of constant quantities is the maximum if they are equal.
+ From the above it becomes clear that the resistance R will take the maximum value if Ohm.
+ It is now necessary to look for the points of connection of the ohmmeter clamps, which divide the sum of the resistors of a ring consisting of increments of arithmetic progression into two equal parts.
+This will be the case if we connect the chain to fig. In the figure shown in Fig. 3, one clamp is 25 R և 76 R from the 26 R resistor connection wire and the other is 75R և Fig. From 3 connecting wires.
   In Figure 3, each pair of resistors connected by dots has a resistance of 101 ohms.
- Both parallel branches of the chainThey contain 25 such pairs.
-  Soin the case of:Om և R resistance.
-We get:Problem 3.
-  From the same wire!made of: sides:A fairly large number of frames are connected by the egg shown in Figure 4.
-  Decide receivedThe total resistance of the circuit if a length of wireThe resistance is R.
-Fig. 4:
-Solution.
- If we disconnect it from the chainareas that do not receive electricity(based on chain symmetry), thenthe observed chain will be equivalent to a pictureFigure 5, which is two identicalIt is a parallel connection of branches.
-  Chain:will be the length of each branchFig. 5:
-և using the formula of the sum of infinitely decreasing geometric progression, we will get.
-Since the resistance of a wire is directly proportional to its length, դիմ the resistance of a piece of its length is R, then the chainThe resistance of each branch will be R3, and the total resistance will be:.
+ The two parallel branches of the chain contain 25 such pairs.
+  Thus, in the caseOm և R resist.
+For this we get: Problem 3.
+  Quite a number of frames with sides made of the same wire are connected by the egg shown in Figure 4.
+  Determine the total resistance of the resulting circuit if the wire resistance of length a is R.
+Fig. 4 Solution.
+ If we disconnect the parts of the circuit that do not conduct current (due to the symmetry of the circuit), the monitored circuit will be equivalent to the one shown in Figure 5, which is a parallel connection of two identical branches.
+  The length of each branch of the chain will be Fig. 5 և using the formula for the sum of infinitely decreasing geometric progression, we get:
+Since the resistance of the wire is directly proportional to the length, դիմ the resistance of a piece of its length is R, then the resistance of each branch of the chain will be R3, and the total resistance will be.
 Problem 4.
- The chain consists of four identical rings, each of whichThe resistance is R (Fig. 6).
- How much is a chain?resistance: 1) Between points A և B,2) Between points C և D և.
+ The circuit consists of four identical rings, each of which has a resistance R (Fig. 6).
+ What is the resistance of the circuit 1) between points A և B և, 2) between points C և D և?
 Solution.
   Using the symmetry of the chain և disconnecting the co-potential points, in the case of the first և second connections, the corresponding circuits shown in Figure 7 և 8 can be obtained, respectively.
-Fig. 6:
-Fig. 7:
-Fig. 8:
-Then, with the approach used in Problem 1, the resistances of individual parts of circuits can be determined.
+Fig. Fig. 6 Fig. 7 8 Next, similar to the approach used in Problem 1, the resistances of individual parts of a circuit can be determined.
  This is a process that requires attention, but does not contain any principled difficulty.
-  Already having the resistances of the mentioned separate parts ևusing sequential "parallel connection" formulas, we get:.
+  Having already the resistances of the mentioned separate parts, using the formulas of successive parallel connections, we get.
 It should be noted that the Olympic tasks related to DC power supply are not limited to the types of problems discussed and methods of solution.
- There is no less interest ևother attractive approaches (e.g. overlay, chains)equivalent modification, triangle - star և etc.) through which solubleProblem formulation and presentation can also develop learners' minds, creating an inner drive to seek solutions.new approaches.
+ There are other equally attractive approaches (for example, repositioning, chain-equivalent rotation, triangle-star, etc.), through which the formulation and presentation of problems can also develop learners' minds, generating internal motivation և new approaches to finding solutions.
 Summary.
  The work presented the need for constant elaboration and updating of the Olympic physics tasks.
  For many years, in the process of selecting tasks for the Republican Olympiads of Yerevan State University, we have also tried to create problems with electrical circuits.
-  In this work with solutions andSome of these issues were presented with comments.
-The research was conducted by the UniversityFinancial support: S ShSU 03-SCI-2017 scientific topicwithin.
-Literature 1. Vorobyov II, Zubkov PE, Kutuzova GA, Savchenko O.Y.A.Trubachev AM, Kharitonov V. Գ. Problems of physics.
- Educational:manual / O. Ya. Edited by Savchenko.
+  In this work, some of these problems were presented with solutions.
+The research was carried out due to the financial support provided by the University, within the framework of S ShSU 03-SCI-2017 scientific topic.
+Literature 1. Vorobyov II, Zubkov PE, Kutuzova GA, Savchenko O.Y., Trubachev AM, Kharitonov V. Գ. Problems of physics.
+ Training manual / O. Ya. Edited by Savchenko.
  Yes!
  "Tigran the Great".
 2008.
   528 pages.
-2. Khachatryan AH, Pakhchanyan BA Republican Physics
-Problems of Olympiads. Second edition.
+2. Khachatryan AH, Pakhchanyan BA Problems of the Republican Physics Olympiads. Second edition.
   Yes!
 "Edit Print".
  2007.
 153 pages.
-3. Grigoryan GV, Pakhchanyan BA Republican Physics
-Olympiads (1983-2003).
+3. Grigoryan GV, Pakhchanyan BA Republican Physics Olympiads (1983-2003).
  Yes!
  "Edit Print".
  2003.

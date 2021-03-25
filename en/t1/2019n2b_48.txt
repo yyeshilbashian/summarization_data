@@ -1,0 +1,81 @@
+Developing a student's computing skills is essential to preparing him or her for real life.
+  This problem is as old as humanity, at the same time it remains as relevant as the development of modern means of science and technology.
+  Many well-known methodologists have referred to the formation of computing culture, such as Yu. Մ. Kalyagin [3], V. Մ. Bradis [2], N. Ya. Vilenkin [5], A. D. Alexandrov [4] և others.
+  When determining the purpose of teaching mathematics [4], Alexandrov singled out 2 directions. "The first is the practical application of the subject, the application of the knowledge and skills that a person will need throughout his life.
+  The second is the place of the subject in general education ... The practical significance of most of the sections of school mathematics is obvious. "Everyone should be able to calculate և solve simple practical problems without difficulty."
+According to all Vilenkin, "the mathematics of all fields of science and technology, the rapid development of computer technology, the introduction of computers, microprocessors into production, management, even in everyday life, necessitates comprehensive improvement of students' current mathematical and mathematical requirements."
+In the field of mathematics, the training of economics to apply the course.
+The problems observed in grades 5-6, whether practical or textual in nature, must be closely related to the teaching of sets, arithmetic operations, percentages, fractions, decimal fractions, and simple equations.
+  Digital security in life problems, but also practical, observation of life problems, the ability of approximate calculations, analysis of the obtained results, error assessment.
+In grades 5-6, the application of applied problems and approximate methods should be carried out in parallel with the stages of teaching in the general education, in accordance with the curriculum.
+When teaching natural numbers, the nature of computational problems նդ approximate calculations can be rounding, allowable rounding, small-large rounding, rounding to the nearest tenth (hundreds, etc.) of ideas.
+Example 1.
+  A survey was conducted to accurately quantify the population, քանակ the number of registered people was 64,372.
+Considering that it can be variable for different objective-subjective reasons, it can be said that the population of the city is about 64,000, it should be noted that the rounding was done with an accuracy of less than a thousand.
+Methodology for introducing practical methods related to addition and subtraction operations of natural numbers, methodology.
+  Through fairly simple household tasks, it is possible to quickly bring students to the applied field.
+ At this stage, it is important that the children are instructed to formulate their own calculation problems.
+Example 2.
+  Anna's personal album has 60 MB of memory, she wants to collect a collection of songs, one of which is 5.2 MB. volume, three - 5 MB volume, the other three - 5.3 MB volume, և five - 5.4 MB volume.
+ Can Anna put together a collection of songs she wants on that record?
+Solution.
+ Since 1 + 3 + 3 + 5 = 12 songs have a volume of 5 or more mb, it is clear from the approximate calculations that 12 · 5 = 60, then Anna will be able to collect all the songs on that album.
+Approximate methods related to natural number division operations մեթոդ methodology of implementation of practical problems.
+ Consideration of the problem of approximate applied multiplication of natural numbers multiplication-division operations is of age-appropriate significance.
+At this stage, it is already possible to consistently develop the skills of approximation of practical-applied problems, rounding, to develop the skills of error assessment, whether this error is permissible within the given practical problem (safety error) or not (dangerous error).
+  In a practical way, through the many everyday problems brought to life, the necessary grounds for error assessment are laid out in the most accessible way.
+Example 3.
+ How many beats does a person's heart make during the day, if it makes about 70 beats per minute?
+Solution.
+ First 24 · 60 = 1440 min դեպքում in case of 70 beats in 1 minute: 70 · 1440 = 100800.
+Then we have to consider different values ​​about 70 ․72 · 1440 = 103600.
+The cost of the answer depends on the first manufacturer, so, roughly speaking, we can say about 100,000 beats per day.
+The development of simple geometric problems, problem estimation skills.
+Practical measurement through practical problems. Contribution to practical measurement problems (organization of practical work).
+Assessing computational methods (accurate ոտ approximate) in geometric problems (permissible և impermissible) at this age provides a serious link between real life և math skills perception.
+From this age, computational-practical problems have the significance of literacy և application of mathematical knowledge.
+At this stage, it is possible to develop the skills of measuring skills: length of the segment, size, perimeter, area.
+  Familiarity with their corresponding measuring instruments, assessment of measurement error.
+ In this area, it is more important to teach the student how the problems of ideal geometry differ from the problems of practical geometry, that in solving the latter it is necessary to assess the error և its limits.
+Solve the problem At this stage, students can be asked to solve practical problems where the required data is missing,, the student must be able to fill in the missing data ինքն (make the necessary measurements if the problem is geometric, collect data, if it is statistical և etc.).
+  In the process of data entry, he / she will face the problems of error assessment և using the knowledge he / she will be able to solve those problems և, most importantly, he / she will feel the relevance of that knowledge.
+approximations, the need for rounding, ևkhaskananaExample 4.
+  Measure the length and width of the school corridor.
+  Considering that 1 tile has the shape of a 30 cm square, find out how many tiles will be needed to tile the corridor.
+Consideration of many different types of problems is simply necessary at this stage.
+  Problems of this nature contribute to the development of interests in the future of geometry.
+The method of applying ordinary զ simultaneous approximation ուս decimal problems to practical problems.
+It is necessary to consider the practical methods of approximate methods corresponding to the input of ordinary decimal numbers at this age stage more carefully.
+  The observation of these problems at this stage is not more for the application of specific problem-solving, but for the application of practical skills in order to make the teaching of fractional numbers and their actions more accessible.
+  First of all, the discussion of these issues, their unbreakable application, the need for training in continuous action.
+is the basis of those numbers, their skillsExample 5.
+  Armen has to buy 200 grams of coffee և 100 grams of sugar.
+ 1 kg of coffee costs 3000 drams, and 1 kg of sugar costs 400 drams.
+  The seller tries to fulfill Armen's request, but to specify the quantity so much է weighs 202 g of coffee և 99 grams of sugar.
+ How much should Armen pay for the purchases?
+  Take into account that he has to pay in drams.
+is not able to introduce the methodology of approximate calculations և applied problems in parallel with the teaching of Part և topics.
+In parallel with the teaching of some topics, the consideration of approximate calculation problems is of a very necessary and practical nature.
+  It can have the most financial formulation according to the component.
+How much do you have to pay for a product with a value of 2550 AMD in case of 21% discount in a financially imported store?
+Example 6.
+  Example 4 can be considered here, considering an additional condition that a 5% loss is possible during tiling.
+ Teaching simple equations և Applying practical approximation skills within the topic.
+Teaching simple equations և Applying the skills of practical approximate calculations is important in developing a culture of equations, their solutions (exact և approximate), and the analysis of the results obtained.
+  In 6th grade, students are introduced to data in the form of diagrams or tables.
+  It is based on the statistical data to be able to formulate the child in the form of a simple equation at the same time visible, to demand to understand the meaning of the known member, then we will be able to present the need to solve the equations from another point of view.
+to present.
+  If, for example, diagram, Example 7.
+ Stepan is trying to open his own business.
+ He decided to produce unique lamps և performs business planning.
+    The initial cost is about $ 1000, he calculated the cost of one lamp (the cost of materials required for it) - $ 8.
+  Then he made the following equation.
+ Ask the following questions: Formulation skills 1. What does the number 13 mean in this equation?
+2. What does the variable mean?
+3. What will we find by solving the equation?
+4. What is shown in the diagram… Conclusion?
+  Thus, the 5th-6th grades of the school course are considered to be the approximate stage of practical problems.
+  At this stage, it is more important to discuss other small economic problems from life, everyday life, to make accurate mathematical-approximate calculations, to estimate the permissible limits of error.
+  The formation of an arithmetic culture is extremely important for the development of a culture of application of mathematics, interdisciplinary connections, and practical problem solving in the later stages of schooling.
+  At this stage, the applied problems are more "everyday", they not only focus the students' knowledge on mathematics, but also provide specific practical skills, contribute to the worldview and applied skills. to try to shape.
+development and development.

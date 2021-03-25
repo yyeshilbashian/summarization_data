@@ -1,0 +1,85 @@
+The development of any scientific field, including any mathematical theory, involves the introduction of a certain system of concepts considered in it.
+The school course in mathematics is not free from that.
+New concepts are constantly being introduced in it.
+ This fact is reflected in the form of requirements in the mathematics curriculum of the pre-school.
+Each concept includes a certain set of objects or relations (called the volume of that concept) բոլոր all the elements of that set and only them (content of the concept) [1; 119-120].
+The characteristics of a concept are revealed, so to speak, during a logical operation called the definition of a concept [Qar; 81].
+Many logicians, "Methodists" have referred to the definitions of concepts, the types of definitions, singled out the definition of psychologists, how many ways, considered correct-incorrect definitions Other questions, but in principle there is no clear methodology in pedagogy that will answer the question: to the definition of the concept.
+  As we have mentioned, logicians have distinguished several types of definitions: real, nominal, axiomatic, genealogical, referential or inductive, gender and type difference, abstract definitions, etc. [1; 120-121].
+However, this gap in pedagogy has been partially filled by the well-known methodologist և pedagogue E. I. Ayvazyan, developing a methodology for teaching certain definitions (according to gender և species difference, real, nominal և classic).
+Similar to the previous methodology, let's try to present the methodology of 9th grade definitions with a few examples of definitions.
+and thus, according to E. Ayvazyan [1], the learner knows the definition of the concept, means.3. he knows the wording of the definition of the given concept, 4. he is able to solve the following four types of problems or is able to practice the following types in practice: a)
+ c) [1; 124-125].
+ , b), d)
+, (a, b - recognition) (c, d - retrieval search) Taking into account that no separate mathematical subjects (geometry, algebra, algebra - teaching methods for the definition of mathematical concepts have been developed, we have developed the methodology for teaching the definitions of the basic school level course.
+elements) analysis If a student is able to literally formulate a definition, it does not mean that the student has mastered the definition.
+ Knowing the wording of the definition is oooxB xA X, xoooxBxAX, x áã áãoooxA xB X, xoooxAxBX, x áã áã as long as The student is not able to apply it in practice.
+The methodology proposed by us is as follows: "After passing the definition of any concept, when the teacher is convinced that the learners know the wording of the definition, he starts in the classroom, at the board, [3] handling the solution of the typical problems in detail.
+  The second four problems proposed in this methodological manual should be solved by the students independently, using the approaches of the first four solution.
+ The teacher has to solve the problems of the second quartet during the current thematic written work. ”
+Only after doing all this can the teacher guess to what extent the students have mastered the given concept of Jdra definition.
+Let's show what has been said on a concrete example, considering the definitions of the concepts "co-vectors" of the current 9th grade geometry course.
+vectors "" Equal Definition 1. Non-zero vectors are called a line if they are either on the same line or on parallel lines.
+After the teacher makes sure that the students know this definition, he / she sets out to solve the following four problems յակ First Quarter:) The triangle ABC based on AC is given.
+  Prove that the point vectors are midpoints of the sides AB և BC, respectively.
+if M ագ is aligned, Solution.
+Since M և N are midpoints of the sides AB և BC, then MN is the midline.
+ As we know, the middle line is parallel to the base.
+ Therefore, vectors are contours.
+ և) The triangle ABC is given.
+  Prove that the vectors represented by two sides of a triangle are not a line.
+Solution.
+  By definition, vectors will be congruent if they either belong to the same direction or are parallel.
+ The vectors on both sides of a triangle cannot belong to the same direction, because if we take one of the sides straight, we will see that the other sides go out of that direction.
+ They cannot be found on parallel lines, as either side always has a common vertex.
+) The և contour vectors are given.
+  What is the position of the segments AB և MN?
+  Consider all possible cases.
+Solution.
+    Since the vectors are contours, my backslash either belongs to the same line or is on parallel lines.
+  և) Non-contiguous vectors are given.
+ Therefore, MN և AC segments ․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․․ ․․:
+Justify the answer.
+ ևSolution.
+    Therefore, the segments MN և AC cannot be on the same line or parallel lines, otherwise the vectors will be in line.
+Independent work 1 (20 minutes)) List some obvious co-vectors in the MNPQ diagonal.
+) Given the square ABCD.
+  Prove that any of the quadrilaterals cannot be in line with any of the sides.
+) Let's take the contour vectors.
+  What is the angle of MNCA if the points M, N, C և A do not belong to the same line?
+  և) It is known that ները vectors are non-linear.
+ Prove that the lines AC և KL intersect.
+Definition 2. Vectors are called equal if they are perpendicular եր their lengths are equal.
+The points A, B և C are taken on the line a so that B is the midpoint of the AC vectors of the segment։.
+  Prove that they are equal.
+Solution.
+    Since the segments AB և BC are on the same line և have the same direction, they are then directed.
+As the segments AB և BC are equal (according to condition B - is the midpoint of the segment AC).
+) The equilateral triangle ABC based on AC is given.
+Prove that և vectors are not equal.
+Solution.
+  Since triangle ABC is equilateral, then legs AB և BC are equal.
+  Despite the fact that the segments AB և BC are equal, the vectors cannot be equal because the vectors are not contiguous, so they are not correlated.
+  և) Under what conditions will the given vectors be equal?
+Solution.
+  և Vectors will be equal if they satisfy the two conditions specified in the definition.
+) Prove that the vectors և չեն are not equal, but AB = CD.
+vectors cannot be directed.
+Solution.
+ և Vectors cannot be perpendicular, otherwise the vectors will be equal.
+Independent work 2 (20 minutes)) The ABCD parallelogram is given.
+  Prove that ևVectors are equal.
+) The perimeter of an equilateral triangle ABC is equal to 18 cm.
+Find the sides AB և BC ել prove that they are not equal.
+  և vectors) Given և equal vectors, respectively ․ a) = b) = և those vectors are not correlated, և those vectors are correlated.
+Choose the correct answer.
+J) Unequal vectors are given, moreover, the given vectors are correlated.
+  Prove that the segments MN և PQ cannot be equal.
+Only after completing the mentioned tasks can the teacher conclude whether the students have mastered the definition of the given concept or not.
+In the case of traditional teaching, it is obvious that the teaching of definitions has so far been of a traditional nature.
+The teachers were satisfied only with the fact that the student literally knew the definition of the concept, without taking into account the fact that the student could not apply the definition in practice.
+Then, a quick transition to the study of the characteristics of the և features.
+Thus, it should be noted that geometry textbooks do not have the standard problems of defining and mastering definitions, just as the existing system of problems does not contribute to the development of skills and abilities necessary for teaching the definition of geometric concepts.
+The standard problems offered by us are especially convenient for the students of the included education system.
+This will be a tangible methodological help for teachers working with classes with students involved.
+"After all this it will be possible to move on to the concept of those properties which are formulated in the form of theorems or problems" [1; 126].

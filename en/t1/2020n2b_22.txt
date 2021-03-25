@@ -1,0 +1,63 @@
+1. Introduction.
+  Differential equations play a very important role in applications in modern mathematics [1].
+  The general theory of differential equations includes two basic classes with common partial derivatives.
+  With the development of both accurate (analytical) and digital solutions of differential equations, a number of computer systems (Mathematica, Mathcad, Maple, Matlab, etc.) are now widely available, which enable the solution of both simple and complex problems.
+  However, Wolfram Research's Mathematica multifunctional integrated package is one of the leaders in its computational and graphic visualization capabilities.
+Computer media [2,3].
+This work is devoted to introducing differential possibilities in the Mathematica environment.
+  To this end, a number of interesting problems are considered [13,14], which are solved by their application.
+ At the same time, graphic visualization tools are used, which make the teaching process more effective.
+  The work is of methodological interest. It is based on the teaching experience of the Mathematica package and can be used in the further teaching process.
+standard solutions in Mathematica environment.
+ DSolve և NDSolve operators are available in Mathematica to solve both ordinary and partial differential equations and their systems.
+  DSolve operator with following encoding dimensions [6-8] .2. Analytical solution of ordinary differential equation with unknown function of differential equations - obtains the solution of ordinary differential equation with unknown function [
+- gets in the range], gets the analytical solution of the system of variable equations, ordinary independent differential - gets the solution of the differential equation with partial derivatives, returns the solution of the differential equation with partial derivatives in the domain.
+In all the above cases, the general solutions of the differential equations or their systems containing the constants of c [k] integration are expressed.
+ In the case of finite և / or preconditions, the latter are attached as equations to the differential equation or their system, as a result of which the private solutions are already used.
+Note the DSolve related features: provides solutions for, replacing equations with, we get solutions for.
+• Differential edge terms are entered as <left> == <right>, and the derivatives involved can be written using D or Darivative operators.
+The system of equations participating in's can also contain algebraic equations that act as additional terms, as well as particular edge and / or initial terms.
+differential equations.
+ In the case of decelerating differential equations, the initial functions are given in the form of deceleration.
+can-solve sometimes expresses supposed solutions through Solve.
+The solutions provided by the company sometimes contain integrals for which it is not possible to determine the default functions.
+• WhenEvent [event, action] can be included in the equations, indicating the action that takes place when the event takes place.
+There are some options that apply to the DSolve operator that regulate computing processes.
+  Assumptions - allows you to set conditions with և independent variation of parameters, GaneratedParameters - allows you to change the integration constant by specifying the appropriate identifier.
+The encoding parameters of the NDSolve operator are [6-8]. Normal equation in the range of the differential equation - partial solution of the differential equation in the rectangular domain takes part.
+The solution of a system of differential equations.
+- gets in the partial derivative domain.
+- gets the equation analysis with partial derivatives. Note that:
+  The operator emits a numeric solution, so this operator is only applicable in the case of a private solution, ie when terminal և / or preconditions are given.
+the result in the form of InterpolatingFunction.
+ There are a number of choices that apply to this operator that interfere with the calculation process.
+Return to Operator 3. In the environment of differential equations և their systems.
+Possibilities of solution 3.1. Ordinary differential equations.
+Solve the Riquatilogist equation where:
+, և build the schedule.
+In the Mathematica environment we will solve it as follows: Construct the graph for different initial values ​​by giving a to different values. The graph shown in Figure 1 will be used.
+ 3.1.2 Examine the phase image of a dynamic system. Solve the system of differential equations.
+As a result, we will then display the graphs of the solutions. 2.
+3.2. Hybrid differential equations.
+3.2.1 Consider the problem of correction of the graphs of the sine graph. Let us construct the graph of the result: Fig. Fig. 3.
+3.2.2. Construct the model of a ball jumping down the stairs. Constructing the corresponding graph, we will get fig. 4. Presence of certain elemental inertia (for example, electrical signal), 3.3. Slowing differential equations.
+  Many processes based on mass, energy, information transfer are accompanied by slowing down or delay.
+  This slowdown can have a variety of causes: limitation of the rate of propagation of the interaction, "non-instantaneous" of the "human-machine" nervous-muscular signals (for example, in chains), technological induction, limited speed of processes (eg, combustion), etc.
+  For this reason, some processes cannot be described by ordinary differential equations.
+In connection with this, there is a need to consider equations in which the unknown function appears in the case of different values ​​of the argument.
+  One of such equations is the differential equations with decelerating argument, the solutions of which we will refer to.
+Let's study the beginning of chaos in a dynamic system, which is characterized by a slowing differential equation. The result is Fig. 5.
+3.4. Differential equations with partial derivatives.
+3.4.1 Solve the given condition satisfying the differential equation with partial derivatives: Construct the corresponding 3D graph. 6.
+3.4.2 Solve the given condition satisfying the differential equation with partial derivatives: Construct the corresponding three-dimensional graph. 7.
+3.4.3 Solve the given condition satisfying the differential equation with partial derivatives: Then we get the graph (Fig. 8).
+Let's also show the corresponding contour graph (Fig. 9). 3.4.4 Present an example of a solution of a differential equation with partial derivatives և Construct the graph (Fig. 10). Note that in the Mathematica environment the differential equations with partial derivatives with 4 variables are not solved.
+3.5. Systems of differential equations.
+3.5.1 Present solutions of systems of equilibrium homogeneous differential equations.
+by coefficientsBuilding the graph, we will get fig. 11.3.3.2. Let us present examples of solving systems of linear inequalities.
+differentialLet's build the graph, we will get fig. 13.
+Solution options 4. Conclusion.
+  Mathematica environment is a system of ordinary "partial differential equations" systems.
+The examples presented in the work reveal են present these possibilities in an accessible way և can be applied during the Mathematica package.
+Of particular importance is the fact that graphical visualization capabilities are used in conjunction with the work to make the results of the differential equation analysis more accessible and visible.
+ The work is methodologically valuable.

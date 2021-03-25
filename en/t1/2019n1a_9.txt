@@ -1,50 +1,47 @@
-Useful when searching for minesThe search for the content of the elements has recently begunmore:Extensive use of nuclear geophysical methodsin particular, the X-ray radiometric method (X-ray method).
-  This:method based on the primary radioactive sourcechemical analysisCharacterization obtained as a result of excitation of element atomsX-ray recording without compromising on its accuracysampling traditionalmethods,surpasses the latter in its speed and cheapness.
- RRMAnother important feature is the measurementPossibility of natural installation withoutto take and process samples.
-  X-ray radiometric methodIt has been widely used in a number of mines in Armenia(Alaverdi, Shamlugh, Armanis, Ghapan, Kajaran, Hankasar)under natural conditions of copper, molybdenum, zinc,for lead sampling, during which  developedVarious methodological and practical issues have been clarified, resolved.
-When the method was already developing in Armenia,It had just begun to take its first steps in southern Georgia.
-To support the testing and application of RRMfor the purpose of GeorgiaGeologicalwas at the invitation of the Bolnisi Geophysical Expedition of the DepartmentWe are in a number of mines in Georgia.
-  That cooperationOur first works carried out within the framework ofwere made at the Pitareti copper mine in the Bolnisi region.
- That:Exploration work at the mine was accompaniedby crossing the canal, the further works of which are correct ևThe task was set operatively for effective organizationto sample copper.
- It was clear that the chemical herea slow method of geological sampling involving analysishad to give way to the rapid X-ray radiometric method.
-RepublicThe mining zone where the "Central" was carried outborehole drilling works, cutting the upper chalkVolcanic stratum և is represented by quartz tuffs,with tuff stones, albitofirs.
-  Quartzite-like rocksThe belt is about 250 m wide and extends to the Khrami Rivermore than 1.5 km along the coast [1].
- The rocks of the belt are strongly crackedքերը where cracks of different orientation are filled with pyrite ևchalcopyrite, as well as a very small amount of sphalerite ևwith quartz containing galenite deposits.
-  Modified zone:stand out more or less in the central partthree mineral veins, which are mainly studied Through the "Central" well.
-  Main mine constituentThe minerals are quartz, pyrite and chalcopyrite.
-  ChalcopyriteThe milky-white quartz is quite largein the form of granules այդ is the main mineral of copperin the mine.
-is BRA-6?in the equator"Central"X-ray radiometricmethod experimental work in the initial stagewere carried out in the initial part of the excavation, where about 60 metersGroove sampling was performed in the section և were knownchemical analysis data.
- Measurements were made by drillingwith walls, with traces of grooves crossing the mineral belts.
-Used:as a priorityThe source of radiation was 109Cd of 10 m Curie activitythe isotope.
-forThe CU-6P xenon comparator was usedEnergy tolerance of copper characteristic of radiationin the energy rangemeasurementswere performed with an inversion probe with a step of 10 cm.
-  Inversion probeapplication enabled measurement resultsto reduceunder studywith surface unevennessconditioned effect.
+Nuclear geophysical methods, in particular the X-ray radiometric method (X-ray method), have recently started to be used extensively in the search for minerals ժամանակ in mineral exploration.
+  This method, based on the excitation of the atoms of the elementally determined by the primary radioactive source, recording the characteristic X-rays obtained, not inferior in accuracy to the traditional methods of sampling, surpasses the latter in its speed and cheapness.
+ Another important feature of the RMM is the ability to take measurements under natural conditions to take or process samples.
+  The X-ray radiometric method has been widely used in a number of mines in Armenia (Alaverdi, Shamlugh, Armanis, Ghapan, Kajaran, Hankasar) for sampling of copper, molybdenum, zinc, lead under natural conditions, during which methodological issues have been developed, clarified and solved.
+When the method was already developing in Armenia, it had just started to take its first steps in neighboring Georgia.
+At the invitation of the Bolnisi Geophysical Expedition of the Georgian Geological Survey, we visited a number of mines in Georgia to support the testing and application of the RMS.
+  Our first work carried out within the framework of that cooperation was carried out at the Pitareti copper mine in the Bolnisi region.
+ The exploration work at the mine was accompanied by the passage of a gorge, the further work of which ճիշտ In order to organize it correctly ավետ Effectively, the task was to perform copper sampling operatively.
+ It was clear that the slow method of geological sampling involving chemical analysis had to be replaced by the rapid method of X-ray radiometry.
+The Mining Zone of the Republic, where the drilling works of the "Central" estuary were carried out, crosses the upper limestone-volcanic layer, is represented by quartz tuffs, tuff shales, albitofirs.
+  The 250 m wide strip of quartzite-like rocks extends more than 1.5 km along both sides of the Khrami River.
+ The rocks of the belt are strongly cracked, where the cracks of different orientations are filled with quartz containing pyrite-chalcopyrite, as well as a very small amount of sphalerite-galenite deposits.
+  In the altered zone-centered part, more or less pronounced mineral veins stand out, which are studied mainly through the "Central" well.
+  The main minerals are quartz, pyrite and chalcopyrite.
+  Chalcopyrite in milky white quartz stands out in the form of quite large grains, it is the main mineral of copper in that mine.
+In the BRA-6 basin, the experimental work with the "Central" X-ray radiometric method was initially performed in the initial part of the excavation, where a groove sampling was performed in about 60 meters, the data of the chemical analysis were known.
+ The measurements were made with drilled walls with traces of grooves crossing the mineral belts.
+The 109Cd isotope of 10 m Curie activity was used as the primary radiation source.
+The CU-6P xenon comparator was used, the energy permeability of which was measured in the characteristic radiative energy range of copper by an inversion probe in 10 cm increments.
+  The use of inversion probes made it possible to reduce the effect of the surface of the study surface due to the unevenness of the measurement results.
 (8.05 kV) was 15%.
-raysSecondary:Registration:the devicewhere:hownaturalThus,weather:Sampling:implementation:varietychoice:conditioned by the material composition of the sampled medium,geological structural, mineralization type և otherwith features.
-installation:Under these conditions, minerals come in different sizesyouhaving:In the form of intravenous veins, then such an environment for the use of X-ray radiometric methodis a large grain, a variety.
-  In such conditionsRRM is used for measuring spectral intensity orby means of spectral relations [2, 3].
- But given:the fact that the element to be sampled is the copper analytical lineThere was no characteristic of disturbing elements in the domain orscattering rays, we carried out the measurements technicallyeasier և simple to apply spectral intensity method.
-distribution:"Central"spectralintensityX-ray radiometricAn example of sampling is shown in Fig. 1, where they were already known
-geological sampling data.
-method:content:with wallsKnown for geological furrow sampling dataX-ray radiometric measurements performed at the siteBased on the data, a reference curve was constructed, which was usedis:during copperfor operative determination of the content.
- Note that similarfor further workdrillingFigure 1. In the "Central" content(Pitaret) copperExample of X-ray radiometric sampling, where in advanceGroove sampling data were known.a - geological outline of the trench, b, c - copperContent grooved և X-ray radiometricby sampling (%), 1 - andesite, 2 - tuff, 3 -limonization, 4 - sericitization, 5 - mineralized belt, 6 - copperores, 7 - pyrite (1) և chalcopyrite (2).  to build reference curves while carrying out workstime are usually combined with grooved geologicalsampling և X-ray radiometric measurementsthe average values ​​of the intervals.
-wasև:GeologicalBut for some intervals in our measurementsreceived:X-ray radiometricSignificant difference in sampling data due to:with the unequal distribution of mineralization փաստ on the fact thatthat is geologically sampled from the trenchmass, and X-ray radiometric measurements are performedare on the floor surface of the trench.
-  This means that with each otherare combined, in fact, on two different volumesThe results of the measurement performed, ie it can be stated that:X-ray radiometric in residential conditionsgeological sampling combined oris attached.
-  In such cases to build reference curvesX-ray radiometric measurements with the same marking would be correctdo it twice before taking a groove sample ևafter taking it, through the bottom of the trench.
-  Because of PitarettiWe did not have that opportunity in the mine, it is reliableWe did the following to get the standard curve.
-Geological sampling և X-ray radiometricthese parameters when comparing the measurement resultsWe averaged not in metric intervals, but separatelywith mineralization zones, groups of veins և contours, andin some cases, just the average intervalsincreasing.
-The reference curve constructed with this approach is presented  fig. In 2.
-Figure 2. Characteristic of copper radiation intensitydependence on its content (standard curve)curve:Having:standardX-ray radiometricWe sampled by the method of "Central" contentin parallel with drilling.
-  Measurements takenare short (10 cm) steps that allow diggingReceive data continuously in the marked direction of the wallsthus further clarifying the mineralization distribution ևinstallation features and patterns.
-An example of measurement is shown in Fig. In 3, where copper
-The content was determined at metric intervals in the beginningby X-ray radiometric method, then obtained laterGeological furrow sampling data were comparedWith the results of the RRM.
-Picture:"Central"in the equator with RRMsampling example where geological samplingdone later (the symbols are the same,what fig. In 1).
-accuracySampling:Element to be examined by X-ray radiometric method(in our case, copper) quantificationIt is usually compared to assess accuracywith the data obtained by the geological method, the latteraccepting it as real and correct.
-  However, it should be noted that:Geologicalwhich is permissibleare trying to "fit" the RMM data within the borders,applies only to the last ring of geological samplingchemical analysis data, not the whole process.
- Process:It includes sampling and processing that they havesometimes their big mistakes.
-  If even samplesMaking and processing mistakes will be reduced, it's the same,with mineralization change և unevenly distributedconditioned, geological և X-ray radiometricsampling data will have deviations from each other.
-  That:deviations are particularly significant for metric intervalsduring the comparison of the obtained data.
-  In such cases,as mentioned above, should be magnified for comparisontaken և averaged intervals.
-  And in our opinion, RRMneeded as a criterion for assessing reliabilitytake not the average content of the element to be determined, but twothe overlap of its linear resources determined by the methods [3].
-in the equatordone"Central"Processing of complete X-ray radiometric sampling dataresults:և:the reliability of the approaches.
-are offered:confirmationmethods:Thus, at an interval of 2 meters of copper content sampled in the whole estuary by X-ray radiometric methodThe average square deviation determined by the averaged data was 13%, and the linear stock comparisonin this case, only 6%.
-The obtained data fully satisfy the intelligencenatural installationwork performancethe accuracy of determining the copper content under the conditionsthe requirements presented, which և were the basisFurther application of RMM at Pitareti mine.
+The secondary selection of rays, where the natural selection of the sampling medium is conditioned by the material composition of the sampled environment, geological structure, type of mineralization and other features.
+In the conditions of installation, the minerals are presented in different sizes in the form of veins, with closures, therefore, for the application of the X-ray radiometric method, such an environment is a large, diverse one.
+  Under such conditions, RRM is applied by means of spectral intensity or spectral ratio measurements [2, 3].
+ However, taking into account the fact that in the analytical line of copper of the sampled element there were no characteristic attenuation beams of the disturbing elements, we carried out the measurements in a technically easier way, with a simple spectral intensity.
+distribution An example of X-ray radiometric measurement of "central" spectral intensity is given in Fig. 1, where the geological sampling data were already known.
+Based on X-ray groove sampling data, a reference curve was constructed on the basis of X-ray radiometric measurements made at the site, which was used for the operative determination of copper content during the process.
+ Note that the drilling of similar further works. , 3 - limonization, 4 - sericitization, 5 - mineralized belt, 6 - copper ores, 7 - pyrite (1) և chalcopyrite (2). When constructing reference curves, the average values ​​of the metro-intervals of the X-ray radiometric measurements are usually compared when constructing reference curves.
+However, during our measurements, a significant difference in X-ray radiometric data was obtained at some intervals due to the uneven distribution of mineralization այն the fact that the mass taken from the groove is subjected to geological sampling and X-ray radiometric measurements are made to the groove floor surface.
+  This means that, in fact, the results of measurements performed on two different volumes are compared with each other, that is, it can be stated that in the conditions of orphan installation, X-ray radiometric sampling is combined with geology.
+  In such cases, it would be correct to make X-ray radiometric measurements with the same mark twice before constructing the reference curves, before taking the sample with the groove և after taking it, with the bottom of the groove.
+  Since we no longer had that opportunity at the Pitareti mine, we did the following to get a reliable etalon curve.
+When comparing the results of X-ray radiometric measurements of geological sampling, we averaged these parameters not by metric intervals, but by separate mineralization zones, groups of veins, contours, and in some cases, simply by increasing the averaging intervals.
+The reference curve constructed with this approach is presented in Fig. In 2.
+Figure 2. Dependence of the intensity of the characteristic radiation of copper on its content (standard curve). The curve with the non-metallic X-ray radiometric method was carried out in parallel with the "Central" inlet drilling works.
+  The measurements were made in short (10 cm) steps, which allowed to receive the data in the marked direction of the excavation walls continuously, thus further clarifying the peculiarities and patterns of the mineralization distribution.
+An example of measurement is shown in Fig. 3, where the copper content was determined at metric intervals first by X-ray radiometric method, then later the obtained geological groove sampling data were compared with the RRM results.
+Figure: Example of an RM sampling in the "Central" area where the geological sampling was performed later (the symbols are the same as in Figure 1). with the data obtained by the geological method, accepting the latter as real and correct.
+  However, it should be noted that within the boundaries of the geological permit, they try to "fit" the RMM data, it applies only to the last link of geological sampling, the data of chemical analysis, and not to the whole process.
+ Processes include sampling and processing, which sometimes have quite large errors.
+  Even if sampling and processing errors are reduced, the geological X-ray radiometric sampling data will still be skewed due to the mineralization change due to the uneven distribution.
+  The deviations are especially significant when comparing the simplified data at metric intervals.
+  In such cases, as mentioned above, the considered և averages of comparison should be increased.
+  In our opinion, in order to assess the reliability of the RRM, it is necessary to take as a criterion not the average content of the element to be determined, but the coincidence of its linear reserves determined by the two methods [3].
+Results of processing of complete data of "Central" X-ray radiometric sampling in the area - reliability of approaches
+Thus, the average quadratic relative deviation determined by the average content of copper content sampled in the whole estuary by the X-ray radiometric method at intervals of 2 meters was 13%, and in the case of linear reserves - only 6%.
+The obtained data fully satisfy the requirements for the accuracy of the determination of copper content in the conditions of natural exploration installation works, which։ were the basis for the further use of RMM at the Pitareti mine.

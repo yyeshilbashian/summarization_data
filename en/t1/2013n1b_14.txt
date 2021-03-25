@@ -1,97 +1,91 @@
-The issue of scientific language, that is, the means of scientific expressionis a priority in the natural sciences, especially physicsplaying.
-Based on the issues raised in the natural sciencesby nature, the question of linguistic rational expression arisescertain similarities in the diversity of natural phenomena andthe search for patterns, which can be accomplished only within a logical system with the help of mathematical abstractions.
-  Such problems necessarily ariseare also in the teaching process where the ideas are taughtThe efficiency of delivery և assimilation is conditioned և is dictated by a reasonable choice of scientific language and means of expression.
-  And in general the theory of various physical phenomenaThe fact of the generality of the description shows the application of mathematical abstractions and logical schemes in physics.Necessity և naturally reflects the unified and general nature of nature, the process of its knowledge.
-  Such a generalOne of the most meaningful ideas is physical conditionthe idea.
- As we know, in classical physics the physical systemThe dynamic state is determined at each point in time if:The values ​​of the dynamic variables that characterize the system are known.
+The problem of scientific language, that is, the means of scientific expression, plays a primary role in the natural sciences, especially in physics.
+Due to the nature of the problems posed to the natural sciences, the question of linguistic rational expression leads to the search for certain similarities and patterns in the variety of natural phenomena, which can be achieved only within a clear logical system with the help of mathematical abstractions.
+  Such problems necessarily arise in the teaching process, where the effectiveness of the presentation and mastery of the ideas taught is conditioned by the well-founded choice of scientific language and means of expression.
+  And the fact of the generality of the theory of the description of various physical phenomena in general shows the necessity of the application of mathematical abstractions in physics, logical schemes, naturally reflects the unified and general nature of nature, the process of its knowledge.
+  One of the ideas with such a general meaning is the idea of ​​physical condition.
+ As we know, in classical physics, the physical system dynamic state is determined at each point in time if the values ​​of the dynamic variables that characterize the system are known.
   In particular, to give the state of a mechanical system, it is sufficient to indicate at some point all its generalized coordinates and generalized velocities.
- And classical physics deals essentially only with the study of the change in the state of the system over time, and with the application of the idea of ​​the classical state.although methodological analysis is not usually performed.
-  However, unlike classical physics, in quantum theoryDynamic state of the system և between dynamic variables ևCompliance does not have such a direct nature.
-  Quantum stateThe idea is reminiscent of a vector in real spacethe concept of invariant, and its various representations are equivalentto a system of vector projections in a certain system of coordinates.
-  And the idea of ​​a vector not only simplifies the calculationdifficulties, he և allows to openly take into account its invariant nature և independence from the choice of coordinate base.
-The advantages of this mathematical algorithm for describing the situation make you think of developing the same system as possible.also in some classical conditions (particularly thermal, electric)optical) for presentation.
- Similar experiments for thermal and electrical states and corresponding simulations[1], [2], [3] have already been suggested by us.
-  Condition modelingAll the examples discussed are closely related to another abstractionwith the resulting idea of ​​linearity.
-  The wide application of mathematical abstractions based on the linearity of the course of events under certain conditions clearly provesThe essential role of this idea in the mathematicalization of scientific research, as well as in the introduction of appropriate algorithms in the teaching process.
-  At the heart of quantum theoryThe linearity of the set Hilbert space is, for example, an opportunityallows to form from two arbitrary vectors of quantum statesNew state vectors with infinite set.
-  That is, as the mainprinciple: the assertion that the dynamic state of a quantum system allows a linear superposition that is similar to an arbitrary vector in real space, non-orthogonalthe "rule of parallelism" of component analysis.
-  Such an algorithmIt is also characteristic of our classical states (thermal, electric)for the above mentioned modeling systems.
-Now, summarizing the general judgments made,Let us emphasize the following conclusions, which are considered key for the previous ([2], [3]) works. in the processes of teaching physics, which are largely in line with the development of physical science
-chronological path, teaching, remaining traditionalwithin, it is divided into two non-interconnected phases.a) phase Introduction of classical ideas և classical logic
-schemes based on physical non-quantum theoriesessayb) phase. Contradiction of classical ideas, quantum mechanical
-introduction of provisions.
-A common, more realistic perception of physical science among students about the reality around them, andIn order to form an opinion, in our opinion, it is desirable to carry out the processes related to the classical (non-quantum), a) stage of phenomena by introducing such a mathematical premise (mathematical modeling of the idea of ​​physical condition;state reversal (emphasis on the superposition function), whichis characteristic of quantum mechanical observations of the microcosmfor.
- The work presented below is dedicated to the optical statemathematical modeling of the idea.
-  Recommended:The provisions emphasize the general nature and methodological advantages of the mathematical representation of classical states, althoughIn our opinion, they need further improvement and development.
-As we know, in applied optics there are usually noharmonious, complex spectral light waves when floorThe dependence of the refractive index of the medium on the wavelength (dispersion) is taken into account, and the use of sufficiently large light fluxes forces not to be limited to only paraxial rays.application.
-  From the point of view of geometric optics, such negative factors lead to various defects in the images formed by optical systems, which are thoroughly and comprehensivelyStudies have led to the extreme improvement of modern optical devices.
-Along with the development of optical equipment, it has succeededsignificantly reduce mapping errors.
-  Such achievements are realized mainly in multi-lens systemsusing.
+ And classical physics deals essentially only with the study of changes in the state of the system over time, and even a methodological analysis of the application of the idea of ​​the classical state is usually not carried out.
+  However, in contrast to classical physics, the correspondence between the dynamic state of dynamic systems in quantum theory նման dynamic variables does not have such a direct nature.
+  The quantum state idea is reminiscent of the concept of vector invariant in real space, and its various representations are equivalent to a system of vector projections in a certain system of coordinates.
+  And the idea of ​​a vector not only simplifies the computational difficulties, it also allows to openly take into account its invariant nature և independence from the choice of the coordinate base.
+The advantages of this state-of-the-art mathematical algorithm are to develop the same system for representing some classical states (in particular thermal, electrical, and optical).
+ Similar experiments have already been proposed by thermal and electrical states and corresponding modeling numbers [1], [2], [3].
+  All the examples of situation modeling discussed are closely related to the idea of ​​linearity as an alternative to abstraction.
+  Under certain conditions, the wide application of mathematical abstractions based on the linearity of the course of events clearly demonstrates the essential role of this idea in the mathematicalization of scientific research, as well as in the introduction of appropriate algorithms in teaching processes.
+  The linearity of the Hilbert space underlying quantum theory, for example, allows new vector vectors of the state to be formed from two arbitrary vectors of quantum states.
+  That is, the basic principle is the assertion that the dynamic state of the quantum system allows a linear overlay (superposition), which is similar to the "rule of parallelism" of the analysis of any vector in real space, not orthogonal components.
+  Such an algorithm is typical for the above-mentioned modeling systems proposed by the classical states (thermal, electrical).
+Now, summarizing the general judgments made, let us emphasize the following conclusions, which are considered key for these previous ([2], [3]) works: In the process of teaching physics, which is largely in line with the chronological path of the development of physical science, teaching, remaining in the traditional framework, is divided into two non-interconnected phases. Introduction of classical ideas ադրում Formulation of non-quantum physical theories based on classical logic schemes, b) stage. Contradiction of classical ideas, introduction of quantum mechanics.
+In order to form a common, more realistic perception of physical science among students about the reality around them in general, in our opinion, it is desirable to carry out the processes related to the classical (non-quantum) phase of teaching a) by introducing such a mathematical basis (modeling the concept of physical condition (emphasis on the superposition function), which is characteristic of quantum mechanical observations of the microcosm.
+ The following work is devoted to the mathematical modeling of an optical state idea.
+  The proposed provisions emphasize the general nature and methodological advantages of the mathematical representation of classical states, although, in our opinion, they need further improvement and elaboration.
+As we know, in applied optics there are usually non-harmonious, complex spectral light waves, when it is necessary to take into account the dependence of the refractive index of the medium on the wavelength (dispersion), and the use of sufficiently large light fluxes is not limited to paraxial rays.
+  From the point of view of geometric optics, such negative factors lead to various defects in the images formed by optical systems, the detailed and comprehensive studies of which have led to the extremely high improvement of modern optical devices.
+Along with the development of optical instrumentation, it was possible to intentionally reduce imaging errors.
+  Such achievements are realized mainly through multi-lens system application.
   Most refractory systems used in practice contain at least two or more refractive surfaces.
-That is why centralized complex optics are useddetailed monitoring of systems.
-Developed a general theory of optical systemsGauss dates back to 1841, which was later developed by other scientistsin the works.
-  Gaussian theory establishes correlationscomplex points in the spaces of objects and images,between lines and planes, having a purely geometric nature.
-Let us now try to give another interpretation to this problem of theoretical-practical interest in the formation of a complex optical system from simple systems: physical (in this casein the context of a vector representation of optical states.
+That is why detailed observation of complex optical systems is used.
+The general theory of optical systems was developed by Gauss in 1841, which was later developed by other scientists.
+  Gaussian theory establishes correlations between complex points, lines, and planes in the spaces of objects and images, being of a purely geometric nature.
+Let us now try to give another interpretation to this problem of theoretical-practical interest in the formation of a complex optical system from simple systems in the context of the vector representation of physical (in this case optical) states.
  Let us introduce the idea of ​​the physical state of the optical system with the idea of ​​evaluating the reflection of that state on the behavior of the rays passing through the system.
-  As we know, six guideline planes of the optical system are enough for such a question (two focal points, two main points, two node points)are defined as focal և:and the positions depend on the curvature of the refractive surfaces of the systemfrom radii, distances from each other, refractive indices of media bounded by ff that surface.
-  System:Such comprehensive information on physical characteristicsshould, in our opinion, summarize the very idea of ​​the optical state,to which this observation is devoted mathematically.
-2. Consider the operation of simple optical systemsApproximately geometric optics.
-  Such an approximation when:It is possible to get rid of the wave properties of light completely, it is in line with the corpuscular light photon interpretation, from which one canuse to introduce the idea of ​​optical state, ieAnalyze the operation of the optical system from a quantum mechanical point of view.
+  As we know, for such a question, six reference planes of the optical system (two focal points, two main points, two node points) are sufficient. Six points (focal points, main points, nodes), with reciprocal distances, are defined as focal points. from the radii of curvature of the surfaces, from the distances from each other, from the refractive indices of the media bounded by those surfaces ff f.
+  In our opinion, such comprehensive information on the system-physical characteristics should sum up, in our opinion, the very idea of ​​the optical state, the mathematical rational representation of which this observation is dedicated to.
+2. Consider the operation of simple optical systems with a geometric approximation.
+  Such an approach, when it is possible to completely get rid of the wave properties of light, is in line with the corpuscular, photon interpretation of light, which can be used to introduce the idea of ​​the optical state, ie to analyze the activity of the optical system from a quantum mechanical point of view.
 In particular, consider the breakthrough different (
-) with pointersAn example of a spherical surface separating environments.
-Suppose  from source  the beam on the surfacerefracting, intersects the main optical axis  at the point.
-  In order to:   be:  optical image of the sourceShipped from:, Աք paraxial raysafter breaking onto cross  axis only  at the point.
- Now for geometric opticsLet's analyze the mentioned problem from the quantum mechanical point of view - lightobserving the rays as the simultaneous motion of photons21, nn1SPS1EF2S2S1S1SPS1PS1PS1EFMN2S1S2S1n2nPPP ways of modeling states.
-  point of light point  source:The issue of optical image formation is interconnectedseparatelywith the probability of recording complete photons.
-  And like that?The probability estimate can be made according to [4], as follows:manner.
-  With single photons delivered by a weak point light sourcein case of scientific experimentSimultaneously with the photon delivered fromThe state of the movement includes:
-;… Through photonsstates of simultaneous motion (probability of photon behaviormeaningful reproduction principle [3]).
-in full photonThe fact of registration presupposes:  in ways:of lightEquality of simultaneous transition times.
-  Paraxial… Match each of the paths    complex vector (probability width) where:  angle:is comparable in an appropriate waylight scatteringin time.
- Form complex vectors of all paraxial pathsthe sum of which will determine the square of absolute size from: photonShipping:full probability.
-  Given the timesEquation: It can be argued that light propagation is paraxialpath vectors have the same orientation (
+example of a spherical refractive interface separating environments with pointers.
+Suppose the beam delivered from the source crosses the main optical axis at a point, damaging the surface.
+  In order for the optical image of the source to be transmitted from - the… paraxial rays - after refraction should cross the axis only at the point.
+ Let us now analyze the geometrically optical problem from a quantum mechanical point of view, considering light rays as models that simulate the states of simultaneous motion of photons 21, nn1SPS1EF2S2S1S1SPS1PS1PS1EFMN2S1S2S1n2nPPP.
+  The question of the formation of a point-of-view optical image of a light source is related to the probability of recording individual photons in.
+  And the probability assessment can be done according to [4] in the following way.
+  In the case of a single photon experiment with a single point light source, the state of's photon's inversion states according to
+Վիճ states of synchronous photonimmune motion in paths (principle of reproduction with probabilistic meaning of photon behavior [3]).
+The fact of complete photographic recording in the case presupposes the equality of the times of light-simultaneous passage through the channels.
+  Paraxial; համապատասխան Let each of the paths correspond to a complex vector (probability width), where the angle is relative to the corresponding time path of light propagation.
+ Form the sum of the complex vectors of all paraxial paths, the square of absolute size of which will determine the probability of photonation from.
+  Given the equality of time, it can be argued that the vectors of the light scattering paraxites have the same orientation (
 .).
-So-from the source point of photon delivery (
- point of light the probability of the formation of an optical image of the source) .
-In other words, productive-vector defines a sphere ևOptical (focusing) activity of the surface.
-Formatting an optical image of an object in the same optical system (aggregation of refracting surfaces)is carried out by photons delivered from the source through the whole systemas a result of the reversal of the states of simultaneous motion with respect to whichA similar chain of reasoning can be applied.
-In general, we can say that any optical system Optical activity can be depicted (modeled) in a certain waywith a vector that is interpreted as a refracting optical systemstate vector.
- And the directional output vector of the system state can be represented by the analysis of the composite vectors, which:2S1S2S1S21PSS21SPS21SPS2S21PSS21SPS21SPS21PSS21SPS21SPSie1S2Sconstt ~ S1S2S2S1S2 ~ OWO components in optical condition of individual refractory elements of the systemare the vectors.
- It should be noted that the idea of ​​optical conditiononly imported in different states (different optics)systems (superposition) for the development of a mathematical algorithm, where a separateThe spatial factor of the mutual arrangement of systems (distances between systems of the main optical axisalong).
-In particular, the optical state of the production system(the course of the rays passing through it) depends separatelyoptical states of subsystems, such as the latterfrom mutual arrangements.
-  The possible applications of optical diagrams can be justified not only individuallyto simplify the computational difficulties of forming complex optical systems from subsystems, but to reverse the problem with a system with the required parameters (focal length)in terms of discussing the most possible formulation options.
-  The most objective nature of such observations և clarityIntroduce new ideas to communicateBased on direct solutions to the optical problems presented.
-O3. Problem 1. (according to [5]). Find the curvature
-և: two balls with radiifocal point of a centralized system consisting of surfacesthe distance that separates them from the refractionHomogeneous environments with pointers.
-Solution.The diagram shows two spherical refracting surfaces like himfocal positions of the whole system (focal lengths),respectively, in the spaces of objects և images.
- These are the starting points of the coordinates և: points.
-The focal length of the first surface of objectsin space  and in the image space .
- The focal length of the second surface of objectsin space .
-Below are the letter symbols of all distancesare quantities և are presented as follows:Excessive, -where
-  measured in meters,and:m is the coefficient of size.
-Construct a vector of the optical states of the systemdiagram in the space of objects.
-  According to optical conditionsExpress the optical state of the proposed first surface algorithm, the first surface in the space of objectscomplex plane in vector.
-  Making such a modeling choice makes it easyOptical state vectors with different orientations possiblethe representation.
-  -Vector horizontalThe component is the invariant characteristic of the optical state of the first surface, and:vertical  The component is spliced.
-  And an elementary breakthroughinvariance of the specified characteristic of the optical state of the surfaceProvides and determines the state vector selection algorithmgenerality.
- the absolute magnitude of the vector        , and the direction of the horizontal axis                                           .
-The optical state of the second surface in the space of objectsfor reasons of constructive conveniencevector, for which the invariant characteristic of the optical state(horizontal component):                                   .
-Homogeneous refraction between two refracting surfaces  with indexOptical range, the characteristics of which (direction of light propagation)dimensions, refractive index) are decisive for the optical performance of the whole system in vector diagrams of optical statesis displayed   in vector.
-The latter is defined  with components և:direction where:Existence of optical rangereduces the "optical power" of the system).
- Optical system:characterizing the role of the range    The appearance of the component is predetermined as follows:for physical reasons. it is inversely proportional to the length
-is an optical characteristic that depends only on the composite elements (twooptical invariant characteristics adjacent to the refractive surfaces), as well as from the reciprocal position of the surfaces.
-The whole optical consists of two spherical refractive surfacesThe activity of the system in the space of objects is possibledepictwith an output vector of which:222fnx12y222221fnO222nftg2nerefnfnndi22122212ffdnx 1y221dnfftg2x2212, fnfn2nd211OOfniR1nftg Orientation will allow estimating the focal length (optical power) of the system.
-As is clear from the construction, .
-The observation made gives an opportunity to evaluateThe advantages and expediency of vector modeling of optical systems in the case of practical interest in designing systems with the required parameters.
-21222111ffdnfnfnfn21122121111ffndnfnnff3222121212213211121nnRnnnRnndnRnnnRnnnf21213212213211121RRnnnnnndRnnnnnnnfnnf32123212nn 121OR2O11fn22fn212ffdn Problem 2. [5] In which case a breakthrough?  made of index glass ևThe binocular lens in the air will be scattering.
+So-source point photon delivery (
+ the probability of forming an optical image of the light source at the point:
+In other words, the product vector defines the optical (focusing) activity of the bullet.
+Similarly, in any optical system (aggregation of refracting surfaces), the optical image of an object is generated by reversing the state of motion of the photons delivered from the source through the whole system, to which a similar chain of judgments can be applied.
+In general, we can say that the optical activity of any optical system can be represented (modeled) by a certain vector, which is interpreted as a vector of the refracting optical system.
+ And the directional product vector of the state of the system can be represented by the analysis of composite vectors, of which 2 S1S2S1S21PSS21SPS21SPS2S21PSS21SPS21SPS21PSS21SPS21SPSie1S2Sconstt վիճ վիճ1S2S2S1S2 տարր components of the system are.
+ It should be noted that the idea of ​​an optical state is introduced only for the purpose of developing a mathematical algorithm for superposition of different states (combining different optical systems), where the spatial factor of the mutual arrangement of individual systems (distances between systems along the main optical axis) is essential.
+In particular, the optical state of the productive system (the course of the rays passing through it) depends on the optical states of individual systems, as well as on the reciprocal arrangements of the latter.
+  The possible applications of optical diagrams can be justified not only by simplifying the computational difficulties of constructing complex optical systems from individual subsystems, but also by considering the possible discussion of possible systematization options with the required parameters (focal length).
+  To make such observations more objective նենք to introduce new ideas in order to convey clarity, based on direct solutions to the optical problems to be submitted.
+O3. Problem 1. (according to [5]). Find the focal length of a concentric system consisting of two spherical bodies with radii of curvature, which separate homogeneous environments with refractors.
+Solution: The drawing shows the positions of the focal points of two spheres, as well as the focal points (focal lengths) of the whole system, respectively, in the spaces of objects and images.
+ The starting points of the coordinates are the points։.
+The focal length of the first surface in the space of objects and in the space of images.
+ The focal length of the second surface in the space of objects.
+Below և the letter symbols of all distances are values ​​և are represented as follows: sizeless, -where
+  They are measured in meters, which is the coefficient of size.
+Construct a vector diagram of the optical states of the system in the space of objects.
+  According to the proposed algorithm for vector modeling of optical states, we can plot the optical state of the first surface in the space of objects with a vector of complex plane.
+  Such a choice of modeling makes it easy to represent vectors of different optical states with different orientations.
+  - The horizontal component of the vector is the invariant characteristic of the optical state of the first surface, the vertical component is bent.
+  And the invariance of the mentioned characteristic of the optical state of the elementary refraction surface ensures and conditions the generality of the state vector selection algorithm.
+ the absolute magnitude of the vector and the direction with respect to the horizontal axis.
+To visualize the optical state of the second surface in the space of objects in terms of structural convenience, for which the invariant characteristic of the optical state (horizontal component) is:
+The homogeneous, refractive index-optical range between two refractive surfaces, the characteristics of which (light scattering dimensions, refractive index) are decisive for the optical activity of the whole system, is represented by a vector in vector diagrams of optical states.
+The latter is characterized by Component Orientation, where (the presence of an optical range reduces the "optical power" of the system).
+ The appearance of the component defining the role of the optical range in the system is predetermined by post-physical considerations. it is an inverse length optical characteristic that depends only on the optical invariant characteristics adjacent to the range of the composite elements (two refractive surfaces) as well as the reciprocal position of the surfaces.
+The activity of the whole optical system consisting of two spherical refractive surfaces in the space of objects can be represented by an industrial vector, of which 222 fnx12y222221fnO222nftg2nerefnfnndi 22122212ffdnx1y221dnfftg2x2212, fnfn The 2nd211OOfniR1nftg orientation will allow you to estimate the focal length (optical power) of the system.
+As is obvious from the construction.
+The observation makes it possible to evaluate the advantages and expediency of vector modeling of optical systems in the case of practical interest in designing systems with the required parameters.
+21222111ffdnfnfnfn21122121111ffndnfnnff3222121212213211121nnRnnnRnndnRnnnRnnnf21213212213211121RRnnnnnndRnnnnnnnfnnf32123212nn 121OR2O11fn22fn212ffdn Problem 2. [5] In which case will the binocular lens made of glass with refractive index be scattered in Jod?
 Solution. Use (1) to solve the problem.
  In the case under discussion.
-A binocular lens will be dispersive if it is the product of the optical state assessed in the space of objects.  the vector is oriented in the space of the images, that is, it is displayed in vector.
-In this case  is the orientation of the vector , which is possibleis if:    .
-That is,  BOOK: 1. Margaryan MA, Nikoghosyan HS, Education, reforms, issues. Materials of the Republican Conference. Vanadzor, 2010.
+A binocular lens will be scattering if the productive optical vector of its estimated state in the space of objects is oriented in the space of images, that is, reflected by a vector.
+In this case it is the orientation of the vector, which is possible if.
+That is, LITERATURE 1. Margaryan MA, Nikoghosyan HS, Education, reforms, issues. Materials of the Republican Conference. Vanadzor, 2010.
 2. Margaryan MA, Nikoghosyan HS, Vectors in physics problems.
 Thermal events, "Dpir", Gyumri, 2010.
 3. Nikoghosyan HS, Vectors in physics problems.
- Electricity,"Eldorado", Gyumri, 2011.
-Information about the author:Hrachik S. Nikoghosyan - physicist. candidate, Gyumri M. Nalbandyan
-State Pedagogical Institute, Associate Professor of the Chair of General Theoretical Physics,E-mail:
+ Electricity, "Eldorado", Gyumri, 2011.
+Information about the authorHrachik S. Nikoghosyan - Physicist. candidate, Gyumri M. Nalbandyan State Pedagogical Institute, Associate Professor of the Chair of General Theoretical Physics, E-mail.

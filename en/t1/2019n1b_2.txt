@@ -1,0 +1,60 @@
+Introduction.
+Hyperbolic type-differential equations are widely used [are used [1,2].
+  Finite fluctuation problems are one of the most widely used methods of mathematical differential analysis of differences [2-5].
+It has especially developed along with the development of modern computing technologies [3, 6].
+  At present, computer mathematics kits are widely used, in which Mathematica is the advanced method of physics of equations (networks), which is also used as a high-performance programming environment [7-14].
+This work deals with the method of analyzing the differential equations of the hyperbolic type according to the obvious differential scheme [2,12].
+ The new methodological approach interprets the process of solving hyperbolic equations of different types by means of explicitly differential scheme networks, presenting them through a corresponding schematic diagram.
+  Then the problem of determining the current strength is considered when alternating current is passed through the wire [2].
+The latter is first solved by applying the standard means of the Mathematica environment, then by compiling and launching corresponding calculation schemes according to the network method.
+  A study is carried out from the point of view of practicality և The methodological high efficiency of the networks in solving hyperbolic type differential equations is substantiated.
+is 2. Methods for solving simplified differential schemes of hyperbolic type differential equations.
+The obvious difference scheme has the following appearance [2], where's, և տր are given values, and is a certain function.
+  That is, in the case of an obviously differential scheme, we have the values ​​of the functions in the first and second layers of time.
+For a specific type of hyperbolic type differential equation, the relation will take the following form [2], where.
+Fig. 1. schematically depicts the process of calculating the values ​​of a function in a network node according to an explicit scheme.
+Fig. 1. sequence.
+In the network, the numbering is done according to the calculation of the values ​​of the process function in the internal domain in the direction of time layers, and in each of the layers the calculation is performed in the direction of the coordinate layers of the network.
+  In the diagram, the nodes painted in green correspond to the terminal conditions of the differential equation, that is, the nodes in which the values ​​of the function are already known according to the condition of the problem.
+At point արժեք the value of ստաց is obtained from the grid
+  through function values ​​in nodes according to the formula.
+Fig. Example 2 shows a sample of network nodes.
+  It becomes clear from the diagram through which nodes the value of-is determined.
+u0,0u1,0u2,0u3,0u4,0u5,0u0,1u0,2u0,3u0,4u0,5u1,1u2,1u3,1u4,1u1,2u2,2u3,2u4,2u1,3u2,3u3,3u4,3u1,4u2, 4u3,4u4,4u1,5u2,5u3,5u4,5u5,5u5,1u5,2u5,3u5,4IIIIIIIVVVIVIIVIIIIXXXIXIIXIIIXIVXVXVI Fig.2.3. The problem of determining the current strength when alternating current passes through the wire.
+   Isolated by a length of alternating current.
+  The left end of the cable is insulated, and the right end, the resistance and current loss from its surface, are so small that it can be ignored.
+  Find the current at each point of the wire at any point in time, if at the initial moment the current is equal to 0,, the initial resistance is given grounded.
+  By Laribanadz [2].
+Note that the current strength is sufficient for a hyperbolic type-differential equation.
+u0,0u1,0u2,0u3,0u4,0u5,0u0,1u0,2u0,3u0,4u0,5u1,1u2,1u3,1u4,1u1,2u5,5u5,1u5,2u5,3u5,4 Consider the completely isolated ohmic resistors, where we will see (Fig. ․ 3.).
+In it, the position of an arbitrary curvilinear point ով with a curvilinear coordinate of the point, we will decide, we will consider it equal to.
+Assign the point to move from point to point by one unit of length, then the voltage drop will be due to self-induction of the observed site.
+current ուժ current։ potential.
+  If-by-time 3. From here we get where is self-induction.
+In the same way, the change in current per unit length will be due to the fact that one unit of current is electrically branched by the current at the site in question.
+Hence where is power.
+(3) From the differential equations և (4) we get: We will assume that the current at any point in time is equal to 0: սկզբ At the initial point in time, rt is a known function that satisfies the condition.
+It is easy to see that the solution to the problem can be a combination of solutions to the observed problems, that is, Indeed, the marginal conditions are satisfied, because for values ​​դեպքում in case of values ​​we get a solution.
+  Now that we have already shown that the power of a current satisfies a given hyperbolic equation, let us make the equation that the functions satisfy.
+  և To do this, take the section along the length of the wire.
+  According to the law bounded by ohmic intervals, the voltage drop across the length segment is equal to the sum of the electromotive forces with conditional resistance և by self-induction: in the form և and the marginal conditions in the form.
+Ումը Problem solving using standard Mathematica environment tools.
+The NDSolve operator is provided in the Mathematica environment for the differential equation solution in Mathematical Physics.
+  Solve the above problem by means of Mathematica package means և Visualize the results graphically. The first line of the program provides the input data, the next lines - the calculation process, and the last line allows the graphical visualization of the obtained results.
+As a result, the function corresponding to the function is displayed.
+Outline-time 4. The curves of the function corresponding to the different moments, depending on the coordinate. The curves of the function corresponding to the fixed values ​​of the coordinate. 5.Fig. 6. Now let's display the solution in the domain.
+t0,04t0.070.20.40.60.81.0x0.30.20.10.10.20.3ux, t Fig. 7. ումը The solution of the problem by the method of finite variables, according to the explicit scheme. The explicit differential scheme has the following appearance: where.
+The computational program using the finite difference method in the Mathematica environment can be represented as follows: The result is a function-corresponding surface (Figure 8.).
+Fig. 8. To present the surfaces of the differences corresponding to the steps of the final function of the scheme solved by the method. 9. In case of different values ​​of the network partition step, we plot the graphs of the corresponding time curves fixed at the time, depending on the coordinate.
+  The result is a graph of the corresponding time curves fixed at different instantaneous values ​​of the network partition step, depending on the coordinate.
+ Fig. 10. Let be the graph of the curves corresponding to the function at different points in time in the case of different values ​​of the network division steps, depending on the fixed coordinate: Fig. 10. 11. The values ​​of the values ​​of the values ​​of the explicit differences according to the explicit scheme և the number of divisions conditioned by the corresponding relative equations during the solution և.
+Համեմատ Comparison of the results of the method of finite differences with the standard means of the post-solution of the results Let us present the exact solution of the problem և according to the final coordinate discrepancies of the same results in the graphical system of the method when.
+Fig. 12.NkJ Figure 12 shows the solution surface obtained using the standard means of the Mathematica package in green and the solution surface in red according to the finite differences method according to the explicit scheme.
+4. Conclusion.
+  Thus, we can say that the method of finite differences (networks) continues to be relevant in a wide range of applications in various fields of science.
+The method of finite differences is an approximate method of solving differential equations in mathematical physics, but the latter provides great accuracy, which is confirmed by the observed study.
+The problem observed in the work is of great interest from a practical point of view.
+  The problem is in case of general conditions.
+  In addition, the computational programs not only provide the calculation process of solving the problem with the mentioned methods, ensuring accuracy, but also allow graphical visualization of the results, which is valuable from the point of view of "digital methods" and "pedagogical methodological method".
+  In addition, the programs are quite general են allow other edge problems to be solved only by changing the input data.
+  Simultaneous computational software is quite affordable for the non-programmer մեծ provides great accuracy.

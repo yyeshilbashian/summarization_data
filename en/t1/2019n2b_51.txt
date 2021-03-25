@@ -1,0 +1,58 @@
+The main purpose of the article is to teach mathematics teachers about the planes of spatial bodies in the context of high school geometry and the ways of constructing those parts.
+  Cut the planes with different parameters, with three points not on one line, with parallel intersecting lines, etc.
+The nominee can be introduced for any number of reasons.
+  The transition to the pedagogical system of pedagogical and mathematical specialties envisages a huge part of geometry in the curricula - imaging methods, where students (future teachers) get acquainted with the axonometric projections of spatial bodies or diagrams.
+  Topics were planned at the level of polynomials, smooth sections of smooth surfaces, which the "Bologna" graduate.
+  Students were assisted in developing students' spatial perceptions.
+  At the moment, these topics are hardly touched upon, so the graduates do not know the process related to the topic, as a result of which he also suffers. The future of the high school does not have much idea what exactly the picture is in the section.
+In this respect, the topic is topical և we want to present the process of construction of a section resulting from a prism, a parallelogram հատ intersecting at the base of a pyramid, a parallelogram.
+Analyze the related problems mainly because of the large content.
+  The smooth section of a polynomial is the line or geometric location of points that are common to the intersecting plane և the surface of the polynomial.
+  The plane is delineated by the intersection line, the construction of which can be obtained in two ways: a) determine the intersection points of the ribs of the intersecting plane և of the prism of the polygon (1st a) figuratively և connecting them sequentially, b) determine the intersection lines of the intersecting plane և polynomial.
+Flat sections of polynomials can be constructed in different ways.
+  The most suitable of them are two, which can be used in school geometry. The first is the internal design method, and the second is the trace method.
+  In the case of internal projection, the position of the points belonging to the flat section is used in the case of full imaging, that is, if their rectangular (orthogonal) projections on the image plane are also known.
+  In the case of prisms, one of the bases of the prism is chosen as the pictorial plane, and in the case of the iceberg, the base plane.
+The essence of the trace method is due to the search for the line of intersection of the plane և intersecting plane, which is called the trace of the plane plane on the image plane, in particular, if the plane plane intersects with the plane of intersection, then the line will be on the plane of.
+Consider the examples of flat sections of polynomials, where the intersecting planes are set in different ways, and the intersection lines are determined by both the internal projection and the trace method.
+  Note that these methods can be used to determine the sections of the roller cone.
+Problem 1. Given the "intersecting plane of a triangular straight prism with a nominated path" with the point "where" is the midpoint of the side and the point belongs to the session, it is required to determine the line of intersection of the "prism" surface of the intersecting plane.
+The process of solving the problem Let's solve the problem by the method of traces.
+  To do this, determine the trace of the intersection of the plane, and then the intersection with the side of the prism.
+ Problem solving process: Accept (Fig. 2) as an image plane. is a straight line on.
+is a straight line on.
+ will be the trace of the intersecting plane.
+, and.
+will be the intersection line.
+ The problem had is the intersection line of that session-trivial solution, for, consequently.
+  It is assumed that the diagram of any spatial body (parallelogram, prism, pyramid, cylinder, cone's) is complete.
+    A diagram is called complete if it is a rapper or coordinate system that can be connected in such a way that the positions of all points in the geometric image are known [3, p. 119].
+Problem 2.
+  The quadrangular pyramid is given, and the intersection is nominated by points, which are corresponding.
+  Determine the section.
+101BCCBQPg) 21 (001 (BACQP Problem Solving Process) Select the pyramid-based plane as the image plane.
+ We will use the trace method.
+, because, because և will be the trace of the plane on the pictorial plane.
+  is the point of intersection of the rib.
+  At the intersection of the plane with the other ribs, where the points of the plane intersecting are rapidly constructed: Backwards (Fig. 3).
+ The intersection line is Problem 3.
+ An arbitrary straight pentagonal prism is given և three points.
+arbitrary on the side ribs Required to build (prism)
+ the intersection line.
+0) 1 (1BOBMggAB Problem Solving ProcessTake the base of the prism as a plane plane and the triangular plane as a plane plane.
+  It is assumed that the diagram of a pentagonal prism is complete, that is, the position of all points of the prism և the sides are definite, use the internal projection method և determine the intersection line (the projection is orthogonal) (Fig. 4).
+3) By connecting the points next, the intersection line will be obtained:
+Problem 4. Find the shape of a segment of a cube with a basket եսը The area of ​​a segment passing through the midpoint of a cube և is perpendicular to it [1; Problem 441].
+The problem-solving process is the basket cube.
+In Fig. 5 a) the plane intersecting the diagram passes through the midpoint of the rectangle perpendicular to it, so that the plane intersects that rectangle at the point and -in at the point.
+  It is obvious that the lines of intersection of the plane intersecting the cubes և below նիստ with the sessions անց passing through the points, will be parallel երին to the diagonals.
+The traces of the intersecting plane are։ straight.
+  To construct the points of intersection of the intersecting plane ետ with the ribs it is enough to find the point on the trace և
+and the point is և.
+  Thus the hexagon.
+  Using Fig. 5 (b), determine the length of the segment.
+Rectangular - From the other side.
+Since the point O is the center of symmetry, then the plane is a regular hexagon.
+  It remains to calculate the area of ​​this hexagon, which represents 6 right-angled triangles.
+Conclusion.
+  The students and teachers of the subject of Mathematics, getting acquainted with the process of building smooth sections of polygons, acquire certain knowledge-skills, which will contribute to the development of their spatial perceptions, deepen the acquired knowledge in the process of correctly understanding and solving spatial problems.

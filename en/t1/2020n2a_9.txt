@@ -1,0 +1,57 @@
+The assessment of financial stability presupposes an in-depth analysis of interrelated indicators, taking into account the economic development and external influences in the given country.
+It is known that the largest participant in the financial market of the Republic of Armenia is the e-banking system, which accounts for about 89% of the assets of the financial system, so that system stability is more sectoral than stability.
+The International Monetary Fund defines financial stability as a condition within which economic mechanisms of pricing, financial risk allocation and management are in place to stimulate economic activity [3].
+Ensuring financial stability, as defined by the Central Bank of the Republic of Armenia, is to prevent the financial system from collapsing or failing in such a way that the system continues to provide the required level of liquidity, smooth transactions and transfers, and the ability to invest in the economy.
+  This definition justifies the relevance of the chosen topic.
+Within the framework of the work, the aim is to study the dynamics of the financial stability indicators of the RA banking system, making relevant analyzes, offering improving solutions.
+Ensuring financial stability is one of the primary tasks of central banks in a number of countries.
+This is due to the fact that low inflation, unemployment, high economic growth as problems of monetary և other state bodies, can not be provided in modern economies without the mediation of a developed, stable financial system, through which monetary policy measures are effectively transferred to other sectors of the economy.
+Financial The body responsible for ensuring stability in Armenia is the Central Bank of the Republic of Armenia, as stipulated by the Law of the Republic of Armenia on the Central Bank of the Republic of Armenia.
+According to Article 200, Clause 2 of the RA Constitution, the main goal of the Central Bank is to ensure the financial stability of prices in the country.
+  Prior to this change, financial stability, according to the RA law "On the Central Bank of the Republic of Armenia", was considered one of the problems of the Central Bank, but then it became a constitutional provision "equal to the goal of price stability."
+The Financial Stability Assessment Index (IMF) is a system of financial stability indicators developed by the International Monetary Fund.
+ Indicators of financial stability characterize the financial system of the country, the financial health of households.
+The indicators developed by the IMF in the corporate sector are comparable internationally, as well as provide accessibility for researchers in the field. Table 1. The financial stability of the banking system [2] bnutagroghtsutsanishneri dynamics (%) StandartihamareTsutsanishnerHaraberakansheghume (+ t.k.) H amematNormativayinendhanurkapitaliharaberutyuneriskov kshrvatsaktivnerinNormativayinhimnakan kapitaliharaberutyuneriskov kshrvatsaktivnerinChashkhatogh varkeriharaberutyunnendhanur varkerinShahutaberutyune by aktivneriShahutaberutyune based on equity (ROE) High iratsveliaktivneriharaberutyunnendhanuraktivnerinBardzr iratsveliaktivneriharaberutyunetspahanjpartavorutyunnerinEst 30.12.2014 Central Bank թ. decision of 2017
+The dynamics of financial stability indicators are presented more graphically. Figure 1. Dynamics of financial stability indicators of the Armenian banking system in 2015-2019. [4] Basel, which requires a system capital ratio of not less than 8%.
+  Table 1 և Figure 1 shows that the banking system in the Republic of Armenia և other financial institutions met the size of the Republic of Armenia, in particular, the capital adequacy ratio (RWA) ratio of total regulatory capital to risk-weighted assets) was quite high, although in 2019 decreased by 0.7 percentage points compared to
+In 2018, it increased from 18.6% to 17.7%, the main reason for which is the growth of the loan portfolio, as well as the reduction of long-term loans involved.
+According to the actual requirement of Basel III of the standard, the share capital ratio should be not less than 6%.
+  Six percent պար In case of having high normative capital, the system is considered well-capitalized.
+  During the five years under study, it was in the range of 14-16.4%.
+The index also increases enough: in 2019, the share of non-performing loans in the loan portfolio increased by 14.7% compared to the previous year.
+  According to the distribution of sectors of the economy, the share of non-performing loans is relatively high. The decline in the quality of the loan portfolio provided to consumer, public catering, other services, transport and capitals can be attributed to the use of soft credit assessment tools in recent years.
+in loans.
+  The ROA, which shows the amount of profit per unit of assets, fluctuated over time. In the last year, a profitability of 1.5% has been registered, which is lower in terms of asset compensation, but taking into account the quality of the system, it is at least 0.5% higher than the annual cost of required liabilities, so it can be considered positive.
+ROE in terms of capital return is relatively higher than the return on investment in the banking system.
+  In 2015, there was a sharp decline in the index, which amounted to 4.85% (2014 - 4.5%), which is due to the e-banking system in 2015. With a net loss of 20.7 billion drams, although at the end of 2019 a profit of 10.3% was registered, which is quite an attractive indicator.
+However, it is interesting to note that the profitability indicators of the banking system in 2015 underperformed. According to the capital, the profitability was lower than planned by 9.9 percentage points of profitability, and according to the assets, the index was underperformed by the percentage point compared to the forecast.
+is 2015 Banking activities in Russia have been greatly affected by the current economic problems in Russia, including the US-imposed sanctions on Russia, geopolitical tensions over Ukraine, rising debt payments, lowering Russia's ratings across the country, devaluation of the ruble. . growth throughout.
+During the period under review, the general liquidity ratios were more insignificant, which is not a positive phenomenon, but, in general, the fluctuations were mild. In the worst possible stress scenarios considered by the Central Bank of Armenia, the assets raised in all banks are fully sufficient to cover the simulated outflow of funds.
+Changes in the indicators In order to assess the stability of the banking system, the Central Bank of the Republic of Armenia presents it figuratively with the help of a stability map, which reflects the risks typical of banks during the period.
+  The general picture of banking is given by the dynamic change of interest rate risk, foreign exchange risk, capital adequacy, asset quality, profitability and liquidity ratios.
+Figure 2. Stability map of the financial system of the Republic of Armenia [4] The approach of values ​​to the center of the map indicates a decrease in risk, and the departure from the center indicates an increase in risk.
+Components of the banking system stability map for 2019 At the end of the same period of the previous year, they changed dramatically.
+  Positive changes were registered in foreign exchange, interest rate risks, as well as asset quality and profitability sub-indices.
+  The liquidity risk sub-index has decreased.
+  There will be some change in the capital adequacy sub-index, which is conditionally reduced.
+Capital adequacy Taking advantage of the prospect of a favorable macroeconomic environment and the availability of liquid assets, the banking system in recent years has had the opportunity to expand its loan portfolio, making credit resources more accessible.
+  Increased competition in the credit market պարIn case of maintaining soft monetary conditions, a decrease in interest rates was observed, and with an increase in liquidity ratios, exclusively lending.
+Studying the Armenian banking system in the context of the analysis of financial stability indicators, some competitive advantages of the banking sector can be singled out, including flexibility, strictly regulated control, transparency, stable bases of corporate governance, liquidity, as well as stable macroeconomic indicators of pre-banking assets.
+Despite the above-mentioned advantages, the monitoring of the issues of maintaining and strengthening the financial stability in the Republic of Armenia, the high level, the inflation target, the revaluation of the property not sold in the banks, the conditions of crediting the banks with own resources are urgent.
+In particular, dollarization Armenian commercial banks and credit organizations continue to attract funds from abroad, therefore, in order to avoid foreign exchange risk, they try to place them in the currency in which they are attracted.
+The reduction of the refinancing rate by the Central Bank had a consistent effect on both the interbank securities markets and the credit and deposit markets. Recently, both consumer and mortgage lending rates have decreased.
+interest rate reduction.
+From the point of view of financial stability, the increase in the number of real estate transactions in the real estate market has had a positive effect on the risks arising from the real estate market, but the opportunities for real estate collateral from financial institutions remain limited.
+In order to gain financial independence, the Armenian banking system must fight against dollarization, as the reduction of the monetary level provides the country with a more stable external financial shocks, enables the Central Bank to conduct monetary policy more effectively, effectively managing inflation.
+As the assets of the RA commercial banks are mainly distributed in the form of loans, which may disrupt the banking system's investment portfolio by diversifying the volume of investments in securities.
+Stability, offeredFinancial As for attracting funds, it is possible not only to attract in the form of deposits, but also to offer customers to buy bonds with their free money, as it is less costly from the point of view of banks.
+Cyber-attacks have increased in recent years, and it is possible to consider them as a risk to financial stability.
+  Cyber-attacks can be carried out both for financial purposes and to destroy information from technical systems.
+Conclusion.
+  In conclusion, it can be stated that the Armenian banking system continues to maintain stability and sufficient flexibility, but internal և external impulses require constant backwardness և conceptual approaches to settlement.
+In the context of strengthening banking stability, the primary issue is to ensure the return of non-performing financial systems, which is related to legal bankruptcies.
+In order to ensure the financial stability of banks, it is necessary to pay special attention to changes in the behavior of banks' customers. Under a state of emergency, bank customers often engage in panic-stricken behavior, which can affect financial stability.
+  Effective management of information channels and communications in the strict banking system for the above-mentioned problem, regardless of the current financial stability indicators.
+https:
+//www.cba.am/en/SitePages/fsindicators_FSI.aspx, (04.08.2020) 3. The official website of the International Monetary Fund https.
+//www.imf.org/en/Countries/ARM (04.08.2020) bank page 4. RPA central official https.

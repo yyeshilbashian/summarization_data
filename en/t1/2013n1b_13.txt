@@ -1,62 +1,58 @@
 Due to interdisciplinary connections, the school course becomes complete, and the teaching becomes effective and purposeful.
 The role of algebra in geometry is special.
- In many cases, the impression is that the interdisciplinary relationship between these two subjects is very one-sided, that is, algebraicis the apparatus that contributes to various geometric problems ևdiscussion and solution of problems.
- But such a conclusion seemsis because there is also the opposite connection when different geometricIt is possible to solve some algebraic problems by applying the principles and patterns.
+ In many cases, the impression is that the interdisciplinary connection between these two subjects is very one-sided, that is, it is the arithmetic apparatus that contributes to the discussion and solution of the problems of various geometric problems.
+ However, such a conclusion seems to be due to the fact that there is also the opposite connection, when it is possible to solve some algebraic problems by applying different geometric principles and patterns.
   This work is dedicated to revealing the opposite connection, when, using various facts known from the school of geometry, new approaches to solving some non-typical algebraic problems are proposed.
 Problem 1:
 .
- in case of which parameter values?The modulus of the difference of the roots of the equation will take the largestvalue.
+ For which values ​​of the parameter will the modulus of the difference of the roots of the equation take the largest value?
 Solution 1 (algebraic).
-  If the given equation has roots,then for the root difference modulus we will have:thereforeeasyis:noticethat:, when:.
+  If the given equation has roots, then for the modulus of the difference of those roots we will have to reconsider when.
 Solution 2 (geometric).
- Note that the given equation is equivalentis the following equation:which:  rectangularrepresents in the Cartesian coordinate system circle with an odd radiusրոնով և:equation / fig.1/.
- If the given equation What is the parameter?in the case of a jack has roots, thenthe modulus of difference of these roots will be equal  the length of the cord.
-  So the modulus of the difference of the roots of a given equation will take the largest value when:  The length of the cord will be the maximum.
-  And it will happen only if:is the diameter of the circle, that is, when.
-Problem 2:.
- Determine the value of the expression..
+ Note that the given equation is equivalent to the following equation, which in the rectangular-coordinate coordinate system represents an equation with a circle with an odd radius / Fig.1 /.
+ If the given equation has roots in some value of the parameter ar, then the modulus of difference of those roots will be equal to the length of the string.
+  So the modulus of the difference of the roots of a given equation will take on a maximum value when the length of the string is at its maximum.
+  And this will happen only when - is the diameter of the circle, that is, when.
+Problem 2.
+ Determine the value of the expression.
 Solution 1 (algebraic).
-  Sinceso:, then.
+  For some reason, then.
 1a0218622aaxx21xx4442128222aaa4max21xx4a44322axxOa4; 3S2ra0a21AA21AA21AA4a25132arctgarctg 0513214arctgarctgarctg 251320arctgarctg15132151325132arctgarctgtg45132arctgarctg ÝÏ.1xaOS340a1A2A1x2x Solution 2 (geometric).
-  Consider fifteen pointsconsisting of squares/ նկ.2/.
-  It is easy to notice that  rectangle  rectangleclockwise around the pointwill be returnedThe section will be returnedRotate the rectangle by, and section, thenwe can say that  և:so:.
-  On the other hand:  և:from triangles we will have:, և because:և:are sharp corners, then, և:has.
-So we will have:.
-Problem 3:.
- Prove the equality.Solution 1 (algebraic).
- We have:.
+  Consider fifteen units of squares (Fig. 2).
+  It is easy to notice that when the rectangle is rotated clockwise around the rectangle, the segment will be rotated by the's rotating rectangle, and in the segment, backwards, we insist that Ghurem.
+  On the other hand, we will have from և Triangles-, since են are են sharp angles, then,։.
+So, we will have:
+Problem 3.
+ Prove the equation. Solution 1 (algebraic).
+ We have:
 Solution 2 (geometric).
- Consider: at right anglesthe triangle in which և:.
- That triangle և: on the sidestake accordingly և: points so that: և: / նկ.3/.
- It is easy to notice that, then From the triangle we will have: .
- On the other hand և: from trianglesWe will have: և:.
-ABCDAEFDF090GCFHAFGFGFAF090AFG4GAFAFDABG32ADFDFADtg51ABBGBAGtgFADBAG32arctgFAD51arctgBAGFADGAFBAGBAD245132 32451arctgarctarct 3470sin170cos3000070sin170cos3000070cos70sin270cos2170sin23400000140sin30sin70cos30cos70sin44140sin40sin400090CABC020B3ACBCABDE030C00DE EBDEDBADC221DCDAEDBEDCABCBED0020320ctgctgACBC0020cos420cos2BDBEBDABDHEFCGÝÏ.2 Because, so we will have:where will we get:which required proof.
-Problem 4:.
- Solve the equation:.
+ Consider a right-angled triangle in which և.
+ Let's take the points on the sides of that triangle, respectively, so that և / Fig.3/.
+ It is easy to notice that we will have a triangle later.
+ On the other hand, we will have "triangles".
+ABCDAEFDF090GCFHAFGFGFAF090AFG4GAFAFDABG32ADFDFADtg51ABBGBAGtgFADBAG32arctgFAD51arctgBAGFADGAFBAGBAD245132 32451arctgarctarct 3470sin170cos3000070sin170cos3000070cos70sin270cos2170sin23400000140sin30sin70cos30cos70sin44140sin40sin400090CABC020B3ACBCABDE030C0020A EBDEDBADC221DCDAEDBEDCABCBED0020320ctgctgACBC0020cos420cos2BDBEBDABDHEFCGÝÏ.2 Because, then, we will have where to get what was required to be proved.
+Problem 4.
+ Solve the equation.
 Solution 1 (algebraic).
- The two parts of the equationMultiplying by the lever on the left, we have:Adding the given equation, we get:.
+ Multiplying the two parts of the equation by the lever on the left side, we have, adding the given equation, we get:
  The resulting equation.
-Answer:.
+Answer:
   Solution 2 (geometric).
-  It is easy to see that if:hasis the root of the given equation, thenwill be thatroot of the equation, so it is enough to solve the given equation non-negativefor և receivedadd the opposite numbers to the roots.
-Consider: և: triangles in which և:/ նկ.4/.
- The cosine theoremaccording toFrom the triangles we get: և: և:.
-On the other hand, a triangleaccording to inequality, For triangle we will have:moreover, equalityThe case occurs only when:The equation given later will have only one solutionin case when: item belongs to:.
-Answer:.
-Problem 5:.
- Prove that if: և:, then:Solution 1 (algebraic).
- It is easy to notice that .
-BDCDBC0020cos41203ctg470sin170cos3420cos120sin30000421122xxxxxxxxx112200344142122222xxxxxxxxx0x0x 0xxABDBCD1CDADxBD060ADB0120CDBABDBCD12xxAB12xxBCABC11222xxxxBCABACBAC00xBDDB0x5122ba122 dc1bdacADCB4 ÝÏ.ABCDE3 ÝÏ: occurs տեղի only when և:.
-moreover, the case of equalitySolution 2 (geometric).
-  Consider:in which:the quadrilateral  և:convex/ նկ.5/.
-Easyis:noticethat:, thenThe convex quadrilateral can be inscribed ևPtolemy's theorem foraccording to which inscribed in a circleof any quadrilateralthe product is equal to that squareproducts of opposite partiesfor the money.
-  So we can write:Moreover, the case of equality occurs only when:  և:is rectangular, that is, when և:.
-1222222dbcabdacbdaccadb0abcdABCDaABbBCcCDdDA1AC090ADCABCABCD1BDBDACbdacbdac0abcdABCDcadb0abcdABCD5 ÝÏ. RECOMMENDATION: 1. A.H. Karapetyan, Algebra, set of exercises, Yerevan, Quantum Publishing House, 2000.
-2. K.G. Arakelyan, Collection of Mathematical Problems 6-10, Yerevan, Edith
-Print, 2003.
-3. Գ. Gorgyan, A. Sahakyan, Algebra աթ Mathematical Analysis
-elements for natural science flow, 11th grade textbook, Yerevan,"Tigran the Great", 2011.
-Information about the authors:Manukyan Vardan Franz - Phys.Math. scientist candidate, Gyumri M. Nalbandyan
-State Pedagogical Institute, lecturer, E-mail.
- mvardan_1972@mail.ru:Nikoghosyan Gagik Seryozha - Phys.Math. scientist Candidate, ASUE Gyumri Branch,
-Assistant, E-mail.
+  It is easy to notice that if is the root of the chosen equation, then և will be the root of that equation, բավական so it is enough to solve the given equation for non-negatives ավելացնել add the opposite numbers of the latter to the obtained roots.
+Consider the և triangles in which և / Fig. 4 /.
+ According to the cosine theorem, we get և ներից from triangles.
+On the other hand, according to the equation of triangle, we will have a number for a triangle, moreover, the case of the equation occurs only if the equation given backwards to the segment will have a solution only if the point belongs.
+Answer:
+Problem 5.
+ Prove that if և, thenSolution 1 (algebraic).
+ It is easy to notice that.
+BDCDBC0020cos41203ctg470sin170cos3420cos120sin30000421122xxxxxxxxx112200344142122222xxxxxxxxx0x0x 0xxABDBCD1CDADxBD060ADB0120CDBABDBCD12xxAB12xxBCABC11222xxxxBCABACBAC00xBDDB0x5122ba122 dc1bdacADCB4 ÝÏ.ABCDE3 ÝÏ. it occurs և only when և.
+, moreover, the case of equalitySolution 2 (geometric).
+  Consider the rectangle, Crooked / Fig. 5 /.
+It is easy to see that the rectangular quadrilateral can be plotted. Ptolemy's theorem holds that the product of any quadrilateral at right angles to the circle is equal to the sum of the products of the opposite sides of the quadrilateral.
+  Therefore, we can write that the case of equality occurs only when է is rectangular, that is, when և.
+1222222dbcabdacbdaccadb0abcdABCDaABbBCcCDdDA1AC090ADCABCABCD1BDBDACbdacbdac0abcdABCDcadb0abcdABCD5 ÝÏ. RECOMMENDATION 1. A.H. Karapetyan, Algebra, collection of exercises, Yerevan, "Quantum" publishing house, 2000.
+2. K.G. Arakelyan, Collection of Mathematical Problems 6-10, Yerevan, EditPrint, 2003.
+3. Գ. Gorgyan, A. Sahakyan, Algebra և Mathematical Analyzers for Natural Science Stream, 11th grade textbook, Yerevan, "Tigran the Great", 2011.
+Information about the authors Vardan Franz Manukyan - Phys.Math. scientist candidate, Gyumri M. Nalbandyan State Pedagogical Institute, lecturer, E-mail.
+ mvardan_1972@mail.ru Nikoghosyan Gagik Seryozha - Phys.Math. scientist Candidate, ASUE Gyumri Branch, Assistant, E-mail.

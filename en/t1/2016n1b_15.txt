@@ -1,104 +1,100 @@
-This work is devoted to the description of the energetic method for the determination of the periodicity of one-dimensional small oscillations, to the discovery of the necessary և sufficient condition for its application, as it և no differentto discuss the possible applications of this method in typical problems.
- We think that the topic is quite topical, as the analysis of the results of the Republican Physics Olympiads shows that most of the students find it difficult to solve fluctuations related to the topic.problems.
-  This is mainly due to the fact that:students are either unfamiliar with the study of oscillating motionIn energetic weather, or, not appreciating the latter's capabilities, try to solve any problem in a dynamic way.
- The reason is:is that in high school physics course [1] is presented in detail only for the determination of the period of uniformly harmonious variations onlydynamic weather, and only indirectly about energy weatherIt is hinted at during the solution of a problem.
- While it should be noted thator a significant part of the Olympic problems with fluctuations!It is very difficult to solve in a dynamic way, or it is impossible in principlestaying within the school curriculum.
- Possessing only dynamicIn the weather, students usually do not have such problemsPost-analytically և frequent, allowing typical physicalmistakes lead to wrong results.
-  Below, we will introduce firstenergetic method of analysis of small small fluctuations և thenLet's move on to the discussion of problems, for example.
- As we know, they are observed in the school physics courseonly small variations of spring-loaded mathematical swings [1].
- It is therefore justified that the full mechanical energy of the spring-loaded load (spring-loaded pendulum) is determined as follows:by formula:where m is the mass of the oscillating body, k is:spring stiffness, x is the magnitude (coordinate) of the current position of the body, and x is the derivative of the latter over time.
-The school of physics also proves that the full mechanical energy of a body subject to quasi-tensile forcehas the appearance (1), և in the presence of such force the body performsHarmonious variations:paragraph.
- While it should be noted that the school physics Olympiadin many problems encountered at different stages [2; 3; 4], in which:it is required to calculate the system oscillation period, meetingWe are talking about different mechanical systems with small oscillations, which are not spring springs or mathematical swings at all.
-  In such cases, it is one-dimensionally smallThe energetic method of determining the frequency of oscillations can:to have its useful, inevitable and effective application.
-Consider an oscillation with one degree of freedommechanical system, the current position of which is described by the generalized coordinate q.
+This work is devoted to the description of the energetic method of determining the periodicity of one-dimensional small oscillations, to the discovery of the necessary և sufficient condition for its application, as well as to the discussion of the possible applications of this method in various atypical problems.
+ We think that the topic is quite topical, as the analysis of the results of the Republican Physics Olympiads shows that most of the students find it difficult to solve the problems related to fluctuations.
+  This is mainly due to the fact that the students are either not familiar with the energetic method of studying the oscillating motion, or, not appreciating the possibilities of the latter, try to solve any problem in a dynamic way.
+ The reason is that the high school physics course [1] presents in detail the only dynamic method for determining the period of uniformly harmonic fluctuations, and the energy method is only indirectly mentioned during the solution of a problem.
+ Meanwhile, it should be noted that a significant part of the Olympic problems related to vultures is either very difficult to solve in a dynamic way, or in principle it is impossible, remaining within the school curriculum.
+ Possessing only dynamics, students usually fail to analyze such problems consistently; often, allowing for typical physical errors, they end up with the wrong outcome.
+  Below, we will first present the energetic method of analyzing small-scale fluctuations և decompose, for example, the discussion of problems.
+ As we know, only small variations of spring-mathematical oscillations are observed in the physics school course [1].
+ It is therefore justified that the full mechanical energy of a spring-loaded load (spring pendulum) is determined by the formula where m is the mass of the oscillating body, k is the stiffness of the spring, and x is the magnitude of the current body position (coordinate). , and x is a derivative of the latter according to time [1].
+In the school of physics, it is proved that the appearance of the full mechanical energy of the body under the influence of quasi-tensile force (1), դեպքում in the presence of such force, the body makes harmonious oscillations with periodicity.
+ It should be noted, however, that in the many problems encountered in the various stages of the School Physics Olympiads [2; 3; 4], which require the calculation of system oscillations, we encounter different mechanical systems with small oscillations that are not spring or mathematical oscillations at all.
+  It is in such cases that the energetic method of determining the periodicity of one-dimensional small oscillations can have its useful, inevitable and effective application.
+Consider an oscillating mechanical system with one degree of freedom, the current position of which is described by the generalized coordinate q.
   The latter can be an ordinary Cartesian coordinate, as well as, for example, rotation angle, position, etc.
-To the first-order derivative of the generalized coordinate by time: qis called generalized velocity.
-  In many cases it հեշտ easier ևIt is convenient to make a mechanical system that oscillatesenergy equation rather than dynamic equation.
-  If the system:Kinetic և potential energies have the following forms:Եւm և:Ունk constants can be respectively(where:called effective mass և effective rigidity), then the system as a wholemechanical energy will be:.
-In essence, the full mechanical energy of the system (4)Existence is the necessary և sufficient condition in which the application of the energetic method of determining the periodicity of one-dimensional small fluctuations is justified.
-  Under this method, if successfulselect such a "convenient" generalized coordinate describing the current position of the oscillating mechanical system that the systemif the full mechanical energy has (4) representation, then (4) և (1) will follow from the mathematical identity of equations ից above.that the system performs uniformly uniform oscillations, the periodicity of which can be determined by the analogy of (2) by the following formula:.
-The method described is generally quite simple, ևThis is probably the reason why in a well-known work on this topic[4], as well as in various known petroglyphs [2; 3; 4] in the proposed solutions to the problem of determining the periodicity of uniform small variationsThe energy method is only indirectly hinted at.
- Despite the seeming simplicity of the essence of this method at first glance, its application in specific problems requires someskills.
- In fact, the novelty of the work is that we have tried clearlyto formulate the necessary և sufficient condition, if anyjustified և the use of energy is efficient.
- Besides,We also consider it necessary for learners in the learning processReport the following methodological guidelines, which are useful և orientingThere will be separate problems.
-   Thus, to study one-dimensional variations of the system • It is necessary to find out the generalized convenient coordinate which:fully describes the position of the system in space.
-  For example:The position of the mathematical pendulum can be fixed by giving a weightless ևthe x և y coordinates of a material point attached to a non-stretched thread.
- SinceThe mentioned coordinates are not independent of each other in the given conditions և The system has one degree of freedom, thereforeThe position of the pendulum can be expressed by only one generalized coordinate, the x or y coordinate of the material point.
- However, in most cases it is more convenient and natural to use the pendulum against the verticaldeviation  from the angle.
+The first-order derivative of the generalized coordinate according to time, q, is called generalized velocity.
+  In many cases it հավասար հեշտ հեշտ ավելի ավելի հեշտ հեշտ հեշտ հեշտ։։։։։։։։։։։։։։։։։։։։։։։։
+  If the systemic kinetic էներգ potential energies have the following forms:  m և k constants can be correspondingly (where called effective mass և effective stiffness), then the full mechanical energy of the system will be:.
+In fact, the appearance of full mechanical energy (4) of the system is a necessary և sufficient condition in which the application of the energetic method for the determination of periodicities of one-dimensional small oscillations is justified.
+  According to this method, if we manage to select a "convenient" generalized coordinate describing the current position of an oscillating mechanical system that has that systemic mechanical energy represented by (4), then (4) և (1) from the mathematical identity of equations above, the system makes one-dimensional harmonic oscillations, the period of which can be determined by the similarity of (2) with the following formula:
+The method described is generally quite straightforward, "terrifying" is the reason why in the well-known work on this subject [4] as well as in various well-known petitions [2; 3; 4] the energetic method is only implicitly alluded to in the proposed solutions to periodicity problems. .
+ Despite the seeming simplicity of the essence of this method at first glance, its application in specific tasks requires certain skills.
+ In fact, the novelty of the work is that we have tried to clarify the necessary, sufficient condition, in the presence of which the use of the energy method is justified and effective.
+ In addition, we also consider it necessary to provide the following methodological instructions to the learners in the learning process, which will be useful and orienting in solving certain problems.
+   Thus, in order to study the one-dimensional variations of a system, it is necessary to find the generalized convenient coordinate that fully describes the position of the system in space.
+  For example, the position of a mathematical pendulum can be fixed by giving the x և y coordinates of a material point attached to a weightless և stretch string.
+ Since the specified coordinates are not independent of each other under the given conditions: և the system is endowed with one degree of freedom, the position of the pendulum can be expressed only by one generalized coordinate, the x or y coordinate of the material point.
+ However, in many cases it is more convenient և natural to use the angle of oscillation նկատմամբ with respect to the vertical.
   In fact, the choice of the generalized coordinate is made based on the position of the problem և for reasons of simplicity.
-• The generalized coordinate should be chosen as much as possiblemake it easy to express the potential և kinetic energies of the systemwith that generalized coordinate և its derivative.
- In addition, receivedExpressions must be in (3)appearance, or in case of small fluctuations be brought to that appearance.
-• When expressions of potential և kinetic energies are obtained դեպքում in the case of an arbitrary current position of the system have (3)appearance, then it can be concluded that in the case of any latitude the oscillations are harmonious, տեղադր by putting the resulting rigidity and mass in expression (5) we can obtain the period of oscillations.
-• If at the current position the potential or kinetic energies are not expressed in (3), then the fluctuations are general.are not in harmony, և it is necessary to consider the balancerather small deviations of the system from the position, considering the infinitesimal values ​​of the generalized coordinate և velocity.
-  In that case, by accurately summing the potential energy of the system through simple mathematical boundary crossings, andThe kinetic energy is fully reduced to (3), which again allows for the determination of the periodicity of oscillations.to use formula (5).
-Now, based on the above, let's move on to a fewdiscussion of atypical issues.
- Note that problem 1For the first time he was nominated for GPMI Republicanduring the Olympiad (author: V. Manukyan).
+• The generalized coordinate should be chosen in such a way that it is as easy as possible to express the potential և kinetic energies of the system by the generalized coordinate և its derivative.
+ In addition, the resulting expressions must have the appearance presented in (3), or in case of small variations be brought to that appearance.
+• When the expressions of potential և kinetic energies are obtained և in the case of an arbitrary current position of the system they look like (3), then it can be concluded that the oscillations are harmonious at any latitude և by putting the obtained rigidity and mass in expression (5) we can get the period of fluctuations.
+• If the potential or kinetic energies in the current position are not expressed in expressions (3), then the oscillations are generally not harmonious.
+  In this case, with the precision of a constant summation of the potential energy of a system by means of simple mathematical boundary crossings, the kinetic energy is fully reduced to (3), which again allows the use of Equation (5) to determine the periodicity of oscillations.
+Now, based on the above, let's move on to the discussion of some typical problems.
+ It should be noted that the problem was nominated for the first time during the Republican Olympiad of GSPI (author: V. Manukyan).
 Problem 1.
-  a to the vertices of a weightless circle on the sideFour small balls of mass m are attached.
-The frame is articulated from the midpoint of one of its sideshangs from the ceiling (Fig. 1).
- How small is the system?the period of fluctuations.
-  Contact և resistanceignore the forces.
-fig. 1:
-Solution.
- This problem will be easily solved if the learner knowsThe formula for determining the periodicity of oscillations of a physical oscillation.
+  Attached to the vertices of the weightless circle a are four small balls of mass m.
+The frame is articulated with the ceiling from the midpoint of one of its sides (Fig. 1).
+ What is the periodicity of the system?
+  Ignore the forces of contact.
+fig. 1 Solution.
+ This problem will be easily solved if the learner is familiar with the formula for determining the periodicity of oscillations of a biophysical pendulum.
 The latter, however, is not studied within the framework of the high school course.
- As is well known, the formula for the period of small oscillations of a physical oscillation can be represented by the analogy of the Huygens formula, where the length of the oscillation is the systemthe length given.
- Unaware of all this, most learnersայլ In other similar problems under discussion, try to replace the system with a mathematical pendulum whose length is equal to the distance from the center of mass of the system to the point of dependence.
- This:A physically unfounded approach ultimately leads to the wrong result.
+ As is well known, the formula for the period of small oscillations of a physical pendulum can be represented by the analogy of the Huygens formula, where the length of the pendulum is the systematic length.
+ Unaware of all this, most learners try to replace the system with a mathematical pendulum in other similar problems under discussion, the length of which is equal to the distance from the center of mass of the system.
+ This physically unfounded approach eventually leads to the wrong result.
 Let's move on to the energy analysis of the problem, which can be done without going beyond the knowledge of high school physics.
-Consider the position of the circle when the latter is out of balanceփոքր has an փոքր angular velocity փոքր at a small angle to the position.
-In this position the center of mass of the system is in equilibriumwill be raised relative to the position in size.
- Thus, the kinetic potential of the system in the intermediate position under discussionenergies will be respectively:.
-The full mechanical energy of the system will look like this:The expression obtained with the spring oscillation energy formula for the period of system oscillations is:.
-  Comparing, where: .
- Note that when solving the problem as a generalizedWe chose the coordinate not the magnitude h of the center of mass of the system, but the deviation of the system from the vertical axis man:h to:the corner.
-  The reason is the potential energy of the systemdepends on the linear law և does not have the appearance given in (1).
-  In that casethe dependence of the kinetic energy of the system on the generalized velocitynor does it appear as shown in (1).
-  In this case, another!not resembling a spring pendulum, problemThe solution enters a deadlock.
- Do not overlook these similar issuesabout.
-  If the oscillating system consists of rigid connectionsfrom attached material points, the particles can at any timehave different linear velocities.
-  The latter dependthe distances of the particles from the axis of rotation.
- All the parts of the system, however, obviously have the same angle!speed.
-  That is why the kinetic energy of a system, which is the sum of the kinetic energies of individual particles, depends is expressed as angular velocity as shown in (1);which suggests that the generalized speed should be chosen exactlyangular velocity.
-1S և:Problem 2.
-Communicating vessels with 2S section surfacesare filled with liquid  density և H height.
+Consider the position of the circle when the latter is deviated from the equilibrium position by a small  angle և has an instantaneous angular velocity.
+In this position, the center of mass of the system will be increased by the ratio of the equilibrium position.
+ Thus, in the intermediate position under discussion, the kinetic է potential energies of the system will be respectively:
+The full mechanical energy of the system will look like this: the expression obtained with the spring oscillation energy formula for the period of oscillations of the system is:
+  Comparing where.
+ Note that when solving the problem, we chose not the height h of the center of mass of the system as the generalized coordinate, but the angle  of the deviation of the system  with respect to the vertical axis.
+  The reason is that the potential energy of the system is dependent on the linear law և does not have the appearance given in (1).
+  In this case, the dependence of the kinetic energy of the system on the generalized velocity is also not given as shown in (1).
+  In this case, having no resemblance to a spring pendulum, the problem enters a deadlock.
+ One consideration for such similar issues.
+  If the oscillating system consists of rigidly bonded material points, the particles can have different linear velocities at any given moment.
+  The latter depend on the distances of the particles from the axis of rotation.
+ All parts of the system, however, obviously have the same angular velocity.
+  That is why the dependence of the kinetic energy of a system, which is the sum of the kinetic energies of individual particles, on the angular velocity is expressed in the form shown in (1), which suggests that the angular velocity should be chosen as the generalized velocity.
+1S և Problem 2.
+The communication vessels on the surfaces of the 2S section are filled with տ density  H height liquid.
   Determine the period of small fluctuations of the liquid from the position of equilibrium [2].
-Fig. 2:
-solutions,Solution.
- Even in the private case of communicating vesselsThe surfaces of the sections are equal [4], it is not convenient to solve the problem in a dynamic way, because the liquid in the vessels moves in different directions, չէ it is not so clear how to make dynamic equations.
- Note, however, that this is a specific problem in some manuals1 SS ) are brought dynamicallyfor (
-approachesthoseThey are not strict, howeverdue to the symmetry they giveThe right result.
-  In the general case,1 SS , fluid in both vesselsnot only do they move differentlydirections, but have differentaccelerations, therefore in this case the solution of the problem in a dynamic wayit becomes practically impossible.
- It is not difficult, however, in an arbitrary positiondetermine the expressions of potential և kinetic energies of a liquid.
-Figure 2 shows the current position of the oscillating fluid when:The fluid in the vessel surface is distorted in equilibrium1S section vessel fluid with y.
-  That:from position x by size, and:position compared to the equilibrium position of the fluid obtainedThe potential energy is due to the length y in the left vesselby moving the column to the right vessel, where it has x height.
- In fact,Deviation from the equilibrium position due to the indicated part of the liquidthe center of mass moves from point A to point B ascendingpotential energy where m is the mass of fluid transferred.
-Given that  Using the fluid incompressibility condition, we get the following for potential energyfrom:the expression. to the extent that the system acquires.
-The kinetic energy of the fluid moving in this position will be determined laterin connection with.
-It is clear that it does not have the appearance shown in (1), which proves thatthat variations of arbitrary width are not harmonious.
-  However, if:Consider small fluctuations in fluid (
-), kineticwe get for energyformula, which is already presented in (1).
-  Sohaving expressions of potential և kinetic energies,For the searchable paragraph we get the following expression:.
-Problem:When solving, we chose as a generalized coordinatex is the size of the deviation of the vessel fluid to the right of the equilibrium position.
-  Solution:the procedure would be similar if as a generalized coordinateWe would choose y, which would obviously lead to the same result.
+Fig. 2 solutions, Solution.
+ Even in the special case where the surfaces of the communicating vessels are equal [4], it is not convenient to solve the problem in a dynamic way, because the fluid in the vessels moves in different directions, չէ it is not so clear how to make dynamic equations.
+ Note, however, that in some manuals the specific problem mentioned in 1 SS ) is given as a dynamic number (
+approaches that are not backward և strict, but due to symmetry give the right result.
+  In the general case of 1 SS , the fluid in the two vessels not only moves in different directions, but also has differentiations, so in this case the solution of the problem in a dynamic way becomes practically impossible.
+ It is not difficult, however, to arbitrarily position the expressions of the potential և kinetic energies of a liquid.
+Figure 2 shows the current position of a fluctuating fluid when the fluid in the surface of the vessel is deflected by the fluid in the vessel 1 S of equilibrium.
+  From this position x is the potential energy gained by the fluid relative to the equilibrium position in the upright position due to the longitudinal displacement y in the left vessel to the right vessel, where it has x height.
+ In fact, by deviating from the equilibrium position, the center of the specified mass part of the liquid moves from point A to point B, rising in potential energy, where m is the mass of the transferred liquid.
+Given that պայ using the fluid incompressibility condition for potential energy, we get the following expression: to the extent that the system acquires.
+The kinetic energy of a moving fluid in a given position will be determined by.
+It is clear that it does not have the appearance presented in (1), which proves that the variations of arbitrary width are not harmonious.
+  However, if we consider small fluctuations in fluid (
+), for the kinetic energy we get the formula, which is already in the form presented in (1).
+  Thus, having the expressions of potential և kinetic energies, we get the following expression for the searchable period:
+When solving the problem, we chose as the generalized coordinate the size x of the deviation of the vessel fluid to the right of the equilibrium position.
+  The solution procedure would be similar if we chose y as the generalized coordinate, which would obviously lead to the same result.
 Problem 3.
-  one end of a spring with a stiffness of kis attached to the wall and the other with mass ma wheel that can be rolled without slipping (Fig. 3).
-Determine the frequency of oscillations of the system by assuming that the mass of the wheel is homogeneousdistributed by the belt [3].
-Fig. 3:
-Solution.
- Wheel of variable tensile force և stop friction forceunder the influence of a complex movement that is simultaneously rotationalIt is the sum of movements.
+  One spring with a rigidity k is mounted on the wall and the other on a massive wheel m, which can be rolled without slipping (Fig. 3).
+Determine the frequency of oscillations of the system by assuming that the mass of the wheel is evenly distributed over the belt.
+Fig. 3 Solution.
+ The wheel performs a complex motion under the influence of variable tensile force և pause friction, which is the sum of։ rotational motions.
   Therefore, it is obvious that the dynamic analysis of this problem is quite complicated.
- It is difficult to use forceeven decide where to start solving the problem.
- Instead too muchIt is easy to get the expression of the energy of the system.
+ Trying to use force, it is difficult to decide even where to start solving the problem.
+ Instead, it is extremely easy to get the expression of the energy of the system.
  Indeed, the potential energy of the system is the potential energy due to the force of elasticity of the spring:
-, and the kinetic energy of the wheelis the sum of the kinetic energies of և rotational motions.
-Because rotating և parallel to the points of the rolling belt without slidingThe speeds of motion are equal for kinetic energywe get:.
- From the resulting formulas we obtain the mass համակարգի for the effective stiffness of the system, respectivelyThe following expressions: և taking into account (5) ba.
-We get it for the frequencyAs we can see, the period of one-dimensional small fluctuationsThe energy method of decision can be used effectively and widelyto have a school physics class on variationsduring the solution of various Olympic problems.
-We hope the students will be interested in the work as wellIt will also be useful for teachers at school physics Olympiadsfor those who are preparing.
-Literature 1. Ghazaryan E., Kirakosyan A., Mamyan A., Mailyan S., "Physics-10", Yerevan,"Edit Print", 2010, 272 pages.
+, and kinetic energy is the sum of the kinetic energies of the wheel's rotational motions.
+Since the rotational և velocities of the rolling points of the belt without sliding are equal, we equate kinetic energy to:
+ From the resulting formulas, for the mass համակարգի effective rigidity of the system, we obtain the following expressions, respectively, taking into account (5) ba.
+As we can see, the energetic method of determining the periodicity of one-dimensional small oscillations can be widely used in the school of physics to solve various Olympic problems related to oscillations.
+We hope that the work will be of interest to both students and teachers, and will be useful for those preparing for school physics Olympiads.
+Literature 1. Ghazaryan E., Kirakosyan A., Mamyan A., Mailyan S., "Physics-10", Yerevan, "Edit Print", 2010, 272 pages.
 no one in physics. Mult.
  ISO "Krasico-Print", 2002. 128 p. 3. Vorobyov I. I., Zubkov P. I., Kutuzova GA, Savchenko O. Ya., Trubachyov AM, Kharitonov V. G., Problems of Physics, Educational Manual / O. Ya. Edited by Savchenko /, Yerevan, "Tigran the Great", 2008, 528 pages.
-Information about the authors:Manukyan Vardan Franz - University of Physics, Technology և them Associate Professor of the Chair of Teaching Methods, PhysMath. scientist candidate, E-mail:
- mvardan_1972@mail.ru:Gagik Seryozha Nikoghosyan - "Quantum" College of Yerevan, Phys.Math. scientist candidate,
-E-mail:
+Information about the authors Vardan Franz Manukyan - Associate Professor of the Department of Physics, Technology and their teaching methods, Phys.Math. scientist candidate, E-mail.
+ mvardan_1972@mail.ru Nikoghosyan Gagik Seryozha - Yerjan "Quantum" College, Phys.Math. scientist candidate, E-mail.

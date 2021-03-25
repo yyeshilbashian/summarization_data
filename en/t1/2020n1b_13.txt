@@ -1,0 +1,50 @@
+1. Introduction.
+  Wolfram Research Mathematica is one of the leading computer mathematics kits currently widely available.
+  Mathematica environment is rich with standard functions and operators related to different areas of mathematics, but at the same time it is used as a high-quality programming environment [1-6].
+Differential from equations (grids) ովորThe spreads of finite differences are finite variations, which represent the basics of the method, its applications.
+  Material Resistance Problems Methods with finite derivatives.
+  Approximation of existing elements by the method of only elements is observed in [7-9] works.
+  Work related to problem-solving software packages: ANSIS, COSMOS, CASCADE, SPRINT, MathCad, etc. [10,11].
+This work considers the problem of bending of a bicycle mounted on two supports under the influence of a load distributed by law with a certain integral function.
+  The general problem-solving algorithm using the finite element method is presented, a calculation program is compiled in the Mathematica package, using the wide possibilities provided by the latter.
+  As a result of the program, the pre-rotations at the nodal points, and then, by interpolating that tabular data, the approximate transfer function is obtained.
+  The developed program allows to solve the case of the effect of the load distributed by the law given by the arbitrary integral function, the case of the distribution by the eparabolic law.
+  The functions of solutions transfer by the method of precise "finite element" method are constructed in the same system.
+  The comparison shows the high efficiency of the finite element method.
+The program is of great interest in the teaching process of the Mathematica package, as the latter is a unique way of presenting high-quality Mathematica packages.
+programming as 2. The problem posed by the problem of bicycle deflection under the influence of a load distributed on two supports by a certain law.
+ Consider the ℓ length bicycle placed on the two pillars under the influence of the load distributed by the integral function (Fig. 1).
+It is known from the resistance of the materials [7] that is the displacement of the points of the bicycle, and where is the bending moment.
+ (1) It is necessary to attach the following equations to the differential equation: by law Let us consider the case of parabolic distribution in a concrete way.
+ Suppose it happens. In this case we have և the solution to the problem will be Fig.13. The problem solving algorithm by the finite element method.
+The calculation program in Mathematica environment.
+  It should be noted that in Mathematica environment there are common և partial derivative analysis operators: DSolve, NDSolve, in several dimensional dimensions [3].
+In particular, in the case we are discussing, the problem can be solved using the exact DSolve operator, we will get differential equations.
+The problem can also be solved by using the NDSolve operator, but this operator allows you to specify the method we want to solve, for example, networks, finite elements, etc.
+In this case, the participating parameters need to get numeric values. The result is expressed in terms of IterpolatingFunction, for which you can build a graph, calculate the value at a certain point.
+However, in this paper we will present the general algorithm for solving the finite elements of the above problem կազմել based on that algorithm to create a computationally high-level programming environment.
+Using Mathematica's target program, we will present the Problem Solving Algorithm using the Finite Element method as follows:
+  Suppose it is infested with Jacks of elements called nodes.
+ Let's mean the force-transfer matrices in the nodes: -s are the displacements in the nodes, and -s are the rotations.
+An elastic bar is a displacement in the range [0, ℓ] in the form of a polynomial of degrees that includes a coefficient corresponding to the unknowns in the nodes. In that case the rotation angles θ will be described by the following equation The matrix of the finite element of the bicycle is a matrix consisting of the coefficients of the node-multiple, and (11) is the matrix of the system of equations, the solution of which is -ը is the inverse matrix of the matrix, and the matrix is ​​a regenerating matrix.
+The state of equilibrium of a bicycle is characterized by the equilibrium [7], where is the stiffness matrix.
+  Knowing the stiffness matrix, one can determine the displacements and rotations when the stresses and moments in the nodes are known.
+  In the case of an element, the total stiffness matrix is ​​determined in the following way: where.
+Moreover, they are the matrices.
+Sorted-size square matrices of stiffness - the angles and moments of the nodes will be determined as follows, where with the following formulas: Hermit's polynomials [7] are determined by the above-described algorithmic computational program in the Mathematica environment, using the wide range of possibilities it provides. Basis: Here is the number of elements that is input data.
+The function is entered.
+The values ​​of shifts և rotations in the nodes at the nodes are projected. As a result of the operation, the program is specifically implemented in the case of cargo distribution law (3).
+ The maximum transfer value can be separated when is even.
+Based on the obtained tabular data, it is possible to obtain (8) or its equivalent function according to the formulas.
+We can introduce the variable և function և express the solution graph along with the exact solution.
+Fig. Figure 2 shows the exact solution in red, color corresponds to k = 1, blue to k = 2, and yellow to k = 4.
+  We see how the method provides high accuracy, already in the case of a solution with 2 elements the graphs of the functions coincide.
+  And in the program, a number of possibilities of Mathematica environment were used: cyclic operations, integration of integrals, compilation of tables, grouping of units, attribution of a function, interpolation of table data, graphical visualization, etc.
+Fig. 2 transcripts.
+to confirm the final elements 4 ․ Conclusion.
+   The aim of this work was to use both the one-time method efficiency and the Mathematica environment as a high-quality programming environment.
+  The problem of bending of a bicycle on 2 pillars under the influence of the load distributed by the eparabolic law was considered.
+  The solution algorithm by the finite element method is presented իկները the graphs of the functions of the transformations based on it.
+  The Mathematica environment is rich in differential equation operators.
+At the same time, taking advantage of the wide range of opportunities available, you can create computational programs by viewing Mathematica as a high-quality programming environment.
+  The results can be used when teaching the Mathematica package, as the program allows you to consider a number of features of the Mathematica package.

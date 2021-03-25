@@ -1,119 +1,112 @@
 1. Introduction.
-  Numerical-functional series play a great role in both theoretical and applied mathematics, compiling mathematical analysis of educational institutions specializing in mathematics and physics, higher mathematics.one of the possible components of the course [1].
-Numerical և functional arrays are widely used in approximate calculations: calculating the values ​​of functions, calculating integrals ևin other issues [1,2].
-Digital methods are now quite widespread և softwareare the rapid development of modern science.
+  Numerical-functional series play an important role in both theoretical and applied mathematics, constituting one of the important components of the mathematical analysis of higher educational institutions in the field of mathematics, physics and technology [1].
+Numerical-functional arrays are widely used in approximate calculations for calculating the values ​​of functions and calculating integrals in other problems [1,2].
+Digital methods are now quite widespread և to ensure the rapid development of modern science.
 Mathematica has always been regarded as the world's leading computer mathematics system.
- It provides manySolving multidisciplinary problems in dialog mode while being a modern high-level programming language [3-7].
-However, using it as a programming environment,Computational programs have been developed that allow you to calculate the values ​​of functions at given points, to determine the values ​​of certain integrals,how to solve differential equations.
-Numerical calculations have been made, research has been carried outfrom the point of view of concurrence.
- The resulting methods are effectiveIt is also presented using graphical elements of Mathematica environment, making them more observant.
-Solving these problems using Mathematica environment programming capabilities is relevant, both 'scientific' and 'valuable'.from a methodological point of view.
+ It provides the solution of many, multi-sectoral problems in dialog mode, while being a modern high-level programming language [3-7].
+At the same time, using it as a programming environment, computational programs have been developed that allow you to calculate the values ​​of functions at given points, determine the values ​​of certain integrals, and solve differential equations.
+Numerical calculations have been made, research has been carried out from the point of view of versatility.
+ As a result, the effectiveness of the methods is presented using graphical elements of the Mathematica environment, making them more observational.
+Solving these problems using Mathematica environment programming capabilities is relevant both from a scientific and methodological point of view.
 2. Calculate the values ​​of functions through step series.
 Computational programs in Mathematica environment.
- Given a point in the function:The value is based on a function according to the Taylor series analysis.
- Suppose the function 𝑦 = 𝑓 (𝑥) is given և it is necessary to determine the latterthe value at point 𝑥 =։.
- Suppose that the function 𝑦 = 𝑓 (𝑥) is some of the points 𝑥 = 𝑎(containing () satisfies the conditions of Taylor analysis [1], resulting in:Analysis by function (1) allows in most casescalculate the values ​​of these functions with great accuracy.
-Now let's present the calculation program in Mathematica environment,which allows you to calculate the values ​​of functions at any point:using Taylor analysis.
- It looks like this:The first line of the program provides the input part of the data.
-𝑓 (𝑥) իան is the function, − է is the point at which the value of the function is calculated,կետ is the point around which the function is analyzed according to the Taylor series, andէ քանակ is the number of stored members in the count process.
-  SecondThe line provides the actual calculation process.
-  The last line of the programprovides the output of relevant data.
-The program is presented for the case when 𝑓 (𝑥) = 𝑒 𝑥, 𝑎 = 2, 𝑐 = 2.1, 𝑘 = 5, which allows հաշ2.1 to be calculated to the nearest six digits.
-  As a result of the implementation of the program we will get:Here 𝑛 ն is the number of members in Taylor, and 𝑆 [դրան] դրան to itthe corresponding result.
- Let's visualize the results nowgraphically.
-  The graphic presentation sub-program has the following:appearance:> {Text ["S [1]", {1.0005,8.13}], Text ["S [2]", {1.0017,8.165}], Text ["exactvalue ", {1.005,8.1720537}]}, AxesLabel -> {," S [n] "}, Ticks -> {None, Automatic}]As a result of the project implementation, we will get Figure 1.
-Figure 1:The exact value is presented, as well as some approximate values.
+ At a given point, the basis for determining the value of a function is the function according to the Taylor series analysis.
+ Suppose the function 𝑦 = 𝑓 (𝑥) is given է it is necessary to determine the last value at 𝑐 =։.
+ Assume that the function 𝑦 = 𝑓 (𝑥) at some point around 𝑥 = վերլուծ (containing)) satisfies the conditions of the Taylor series analysis [1], the result is that the function analysis in the series (1) allows in most cases to calculate with greater accuracy the values ​​of those functions.
+Now let's introduce the calculation program in Mathematica environment, which allows you to calculate the values ​​of functions at any point using Taylor series analysis.
+ It looks like this: The first line of the program provides the input part of the data.
+𝑓 (𝑥) իան is the function, 𝑐 է is the point at which the value of the function is calculated, − է is the point around which the function is analyzed according to the Taylor series, and 𝑘 − is the number of stored members in the calculation process.
+  The second line provides the actual calculation process.
+  The last line of the program provides the output of the relevant data.
+The program is presented for the case when 𝑓 (𝑥) = 𝑒 𝑥, 𝑎 = 2, 𝑐 = 2.1, 𝑘 = 5, which allows to calculate 𝑒2.1 with six-digit accuracy.
+  As a result of the implementation of the program, we will get: Այստեղ է is the number of members in the Taylor series, and 𝑆 [𝑛] is the corresponding result.
+ Let's visualize the obtained results graphically.
+  The graphical presentation subroutine has the following view:> {Text ["S [1]", {1.0005,8.13}], Text ["S [2]", {1.0017,8.165}], Text ["exact value", {1.005,8.1720537 }]}, AxesLabel -> {, "S [n]"}, Ticks -> {None, Automatic}] As a result of the program implementation we will get Figure 1.
+Figure 1 presents the exact value as well as some approximate values.
 As it seems, in case of 𝑛 = 4 we have the solution with six-digit accuracy.
 The method is quite effective from the point of view of concurrence.
-Present the calculation program in case 𝒇 (𝒙) = 𝑺𝒊𝒏 (𝒙),𝒂 = 𝟏, 𝒄 = 𝟏. 𝟏, 𝒌 = 𝟓, which allows counting 𝑺𝒊𝒏 (𝟏. 𝟏) to seven digits
-with accuracy.
+Let us present the calculation program in the case when 𝒇 (𝒙) = 𝑺𝒊𝒏 (𝒙), 𝒂 = 𝟏, 𝒄 = 𝟏. 𝟏, 𝒌 =։, which allows 𝑺𝒊𝒏 (𝟏. 𝟏) to be counted with seven digits.
 𝒇 [𝒙_].
- = 𝑺𝒊𝒏 [𝒙]; 𝒌 = 𝟓; 𝒄 = 𝟏. 𝟏; 𝒂 = 𝟏;
-As a result of the implementation of the program we will get:Visualize the obtained results graphically (Fig. 2).
+ = 𝑺𝒊𝒏 [𝒙]; 𝒌 = 𝟓; 𝒄 = 𝟏. 𝟏; 𝒂 = 𝟏; As a result of the project implementation, we will get: Visualize the obtained results graphically (Fig. 2).
  Already 𝑛 =:
 In case of 4 we have the solution with an accuracy of seven digits.
-Figure 2:Present the calculation program in case 𝒇 (𝒙) = 𝑪𝒐𝒔 (𝒙),𝒂 = 𝟏, 𝒄 = 𝟏. 𝟏, 𝒌 = 𝟓, which allows counting 𝑪𝒐𝒔 (𝟏. 𝟏) to seven digits
-with accuracy.
+Figure 2 Present the calculation program in the case when 𝒇 (𝒙) = 𝑪𝒐𝒔 (𝒙), 𝒂 = 𝟏, 𝒄 = 𝟏. 𝟏, 𝒌 = 𝟓, which allows 𝑪𝒐𝒔 (𝟏. 𝟏) to be counted with seven decimal places.
 𝒇 [𝒙_].
- = 𝑪𝒐𝒔 [𝒙]; 𝒌 = 𝟓; 𝒄 = 𝟏. 𝟏; 𝒂 = 𝟏;
-As a result of the implementation of the program we will get:Visualize the obtained results graphically (Fig. 3).
+ = 𝑪𝒐𝒔 [𝒙]; 𝒌 = 𝟓; 𝒄 = 𝟏. 𝟏; 𝒂 = 𝟏; As a result of the project implementation, we will get: Visualize the obtained results graphically (Fig. 3).
  In this case, already in the case of 𝑛 = 4 we have the solution with an accuracy of seven digits.
-Figure 3:Thus, the observed method is quite effective, composedThe program is easy to use and the results are graphicalThe performance is of great observational importance.
+Figure 3 Thus, the observed method is quite effective, the compiled program is easy to use, and the graphical representation of the results is very important from an observational point of view.
 3. Calculate definite integrals using degree series.
  Computational programs in Mathematica environment.
-Ask is requiredthe definite integral.
+Suppose a definite integral is required.
 Moreover, the function 𝑓 (𝑥) can be analyzed according to the Taylor series.
-By integrating member by member, we will get:Let us bring some examples.Example 1.Calculatethe integral.
- The designation √𝑥 = այդ brings this integral to the following form.from where?The row under the integral sign coincides with any ցանկացածin that case, for that reasonև Finally+ ⋯).
+By integrating it member by member, we will get. Let us bring some examples: Example 1. Computational integration.
+ The designation √𝑥 = այդ brings that integral to the following form.
 Such a result of a step series is commonly called a generalized step series.
  Sometimes it is more convenient to present the function in the form of a generalized order array than a regular array.
-Introduce the calculation program that allows you to calculate the value of any given integral according to the presented method [7]:The first line of the program provides the input part of the data.
-𝑓 (𝑥) ընդ is an integral function, − է is the point around which it is analyzedThe function, according to the Taylor series, is the number of members in the շար seriesIn the calculation process, է is the lower limit of a definite integral, and `isthe upper limit.
- The second և third lines provide the original calculationthe process.
- The last line of the program provides relevant datathe way out.
-The program is presented for the case when 𝑓 (𝑥) = 𝑒 𝑥, 𝑎 = 2, 𝑘 = 8,𝐴 = 2, 𝐵 = 3 which allows counting ∫ 𝑒 𝑥𝑑𝑥
-As a result of implementation we will get:with six-digit accuracy.
- Project:Here 𝑛 ն is the number of members in Taylor, and 𝑆 [դրան] դրան to itthe corresponding result.
- Let's visualize the results nowgraphically (Fig. 4).
+Introducing the calculation program, which allows you to calculate the value of any given integral according to the presented method [7]: The first line of the program provides the input part of the data.
+𝑓 (𝑥) ընդ is an integral function, 𝑎 է is the point around which the function is analyzed according to the Taylor series, 𝑘 քանակ is the number of members stored in the calculation process, 𝐴 ին is the lower limit of a definite integral, and 𝐵 ` the upper limit.
+ The second- third lines provide the actual calculation process.
+ The last line of the program provides the relevant data.
+The program is presented for the case when 𝑓 (𝑥) = 𝑒 𝑥, 𝑎 = 2, 𝑘 = 8, 𝐴 = 2, 𝐵 = 3 which allows to calculate ∫ 𝑒 𝑥𝑑𝑥
+As a result of the implementation we will get: with an accuracy of six digits.
+ Program ստեղ 𝑛 է is the number of Taylor members, and 𝑆 [𝑛] is the corresponding result.
+ Let's visualize the obtained results graphically (Fig. 4).
  The exact value is presented, as well as some approximate values.
- As it turns out, in the case of 𝑛 = 7 we have a solution of sixwith the accuracy of the character.
+ As it seems, in the case of 𝑛 = 7 we have the solution with six-digit accuracy.
   The method is quite effective from the point of view of concurrence.
 Present the calculation program in case 𝒇 (𝒙) =:
-Figure 4:  which allows you to count ∫:
-is six digitswith accuracy.
+Figure 4 which allows you to calculate ∫
+with six digits.
 𝒇 [𝒙_].
- = 𝑺𝒊𝒏 [𝒙] / 𝒙; 𝒌 = 𝟏𝟏; 𝒂 = 𝟐; 𝑨 = 𝟎; 𝑩 = 𝟐;
-As a result of the implementation of the program we will get:Visualize the obtained results graphically (Fig. 5).
-  howIf we already have 𝑛 = 9, we have the solution with six-digit accuracy.
-Figure 5:Present the calculation program in case 𝒇 (𝒙) =:
+ = 𝑺𝒊𝒏 [𝒙] / 𝒙; 𝒌 = 𝟏𝟏; 𝒂 = 𝟐; 𝑨 = 𝟎; 𝑩 = 𝟐; As a result of the project implementation, we will get: Visualize the obtained results graphically (Fig. 5).
+  As it is, already in case of 𝑛 = 9 we have the solution with six-digit accuracy.
+Figure 5 Introduce the calculation program in case 𝒇 (𝒙) =:
 𝟐, 𝒌 = 𝟕, 𝑨 = 𝟎, 𝑩 = 𝟏 which allows վել to be counted
-is seven digitswith accuracy.
+with seven digits.
 𝑓 [𝑥_].
  =:
-As a result of the implementation we will get:Let's visualize the obtained results graphically (Fig. 6).
- Already In case 𝑛 = 25 we have a fairly accurate solution.
-Figure 6:4. Approximate integration of differential equations using step series.
+As a result of the implementation we will get: Now visualize the obtained results graphically (Fig. 6).
+ We already have a fairly accurate solution in the case of 𝑛 = 25.
+Figure 64. Approximate integration of differential equations using step series.
  Computational programs in Mathematica environment.
-Now let's have the following differential equation.to which they are nominated the initial conditions where 𝐴, 𝐵, 𝑐, 𝑑 are given numbers.
-  𝑓 (𝑥) is someis a continuous function.
- Assume that the solution is represented by a series of steps:Decide 𝑦′ և,,,, we will getThen let's analyze the function և 𝑓 (𝑥) in Taylor seriesPut (6) - (9) (4) in the differential equation, we getEquating the coefficients of the corresponding degree of `:we will getor:Then from (5) we will get from the preconditions:By analyzing the step series of functions, one can approximateintegrate different differential equations.
-Introduce the calculation program in Mathematica environment, which:allows to solve the set edge problem.The first line of the program provides the input part of the data.
+Now let us have the following differential equation. For which the initial conditions are set, where 𝐴, 𝐵, 𝑐, են are given numbers.
+  𝑓 (𝑥) is a definite function.
+ Assume that the solution is represented by a series of steps: Determine և և 𝑦 ′,, we will getThen we will analyze the function և (Թ) in the Taylor order: Place (6) - (9) (4) in the differential equation, get Equal The coefficients of the corresponding degree of `will be obtained either.
+Introduce the calculation program in Mathematica environment, which allows to solve the set edge problem. The first line of the program provides the input part of the data.
 𝑓 (𝑥) աջ is the right-hand side of the heterogeneous differential equation, 𝑛 է is the number of members stored in the series in the counting process.
- The second line provides:the actual calculation process.
+ The second line provides a quick calculation process.
  The last line of the program provides the output of the corresponding function.
 Now consider the example, the solution of which is presented in the given program.
- Suppose the edge problem has the following appearance.To implement the program, you need to consider the following:appointments., 𝑑 = 1, 𝐴 = −2, 𝐵 = 0.
-The program is implemented for 𝑛 = 10 և we will get the result:Then, giving 𝑛 different values, for example, 2, 4, 6,8, we getthe following series:The set edge problem can also be solved by precise methods, which:as a result we get:Let's visualize the obtained results graphically (Fig. 7).Figure 7:We see that in this case, too, the method used is effective from the point of view of concurrence.
- In the case of 𝑛 = 10 we already have quite accuratesolution.
-Consider also the following marginal problem.To implement the program, you need to consider the following:appointments., 𝑑 = 1, 𝐴 = −2, 𝐵 = 0.
-Implement the program for 𝑛 = 10 և and we will get:Then, by giving տարբեր different values, for example, 2,4, 6, 8, we getThe following functions:The set edge problem can also be solved by precise methods, which:as a result we get:Graphic visualization of the obtained results is given in fig. At 8 p.m.
-Figure 8:We see that in this case, too, the method used is effective from the point of view of concurrence.
- In the case of 𝑛 = 10 we already have quite accuratesolution.
+ Suppose the edge problem has the following form. For the implementation of the program it is necessary to consider the following designations: 𝑑 = 1, 𝐴 = −2, 𝐵 = 0.
+The program is implemented for 𝑛 = 10 և we will get the result: Then և, by giving տարբեր different values, for example, 2, 4, 6,8, we will get the following rows. Let's visualize the obtained results graphically (Fig. 7). Figure 7 We see that the method used in this case is also effective from the point of view of concurrence.
+ Already in 𝑛 = 10 cases we have quite accurate analysis.
+Consider also the following edge problem. For the implementation of the program it is necessary to consider the following designations: 𝑑 = 1, 𝐴 = −2, 𝐵 = 0.
+Implement the program for 𝑛 = 10 և we will get the result: Then և, giving տարբեր different values, for example, 2,4, 6, 8, we will get the following functions. Graphic visualization is given in fig. At 8 p.m.
+Figure 8 We see that the method used in this case is also effective from the point of view of concurrence.
+ Already in 𝑛 = 10 cases we have quite accurate analysis.
 5. Conclusion.
   Thus. The work first lays down the theoretical foundations of the rank series.
- Then a referenceis performed using approximate rows of calculations.
+ Then reference is made to approximate calculations using step series.
 Three applications of degree series are presented: 1) in the point value calculation of a function, 2) in the calculation of definite integrals և 3) solution of differential equations.
 In each case, the method and the calculation algorithm are described in detail.
-  Then, based on the described algorithmsComputational programs are developed in Mathematica environment.
-Computational compiled for calculating the values ​​of functionsThe program allows you to calculate the conditions of analysis in the Taylor seriesthe value of any satisfactory function at a given point.
-The calculation program for the calculation of a certain integralallows you to calculate a given integral, provided that it is an integralThis function satisfies the conditions of Taylor analysis.
+  Then, based on the described algorithms, computational programs are reorganized in Mathematica environment.
+The calculation program for calculating the values ​​of the functions allows to calculate the value of any function that satisfies the conditions of Taylor analysis at a given point.
+The computational program for calculating a given integral allows the given integral to be calculated, provided that the integral function satisfies the conditions of the Taylor series analysis.
 In the case of differential equations, reference is made to the solution of inhomogeneous differential equations with constant coefficients of the second order.
  A settlement plan has been drawn up for this case.
 All these calculation programs are implemented for specific examples ություն a study is conducted from the point of view of concurrence.
  Graphical tools of Mathematica environment are also used, thus making the presentation of the results more observant.
 As a result, the effectiveness of the methods used is substantiated.
-The work is of great methodological importancehas been used to teach degrees in higher education.
+The work is of great methodological importance և can be used in teaching degree series in higher education institutions.
 Power Series Application to the Approximate Calculations.
-BOOK: 6. Sargsyan A. H. Graphic elements of Mathematica package և them
-teaching.
+BOOK 6. Sargsyan Sargsyan. H. Graphic elements of Mathematica package և their teaching.
  Methodical work.
  Gyumri.
  Հեղ. հրատ.:
  2014.
  88 pages.
-7. Sargsyan AH, Sargsyan NH The use of step series is definite
-հաշվ For the calculation of non-integrals.
-  Settlement programs In Mathematica // GSPI Scientific Bulletin.
+7. Sargsyan AH, Sargsyan NH The use of step series for the calculation of definite non-integral integrals.
+  Computational programs in Mathematica // GSPI Scientific Bulletin.
 2015.
 N1.
  pp. 128-136.

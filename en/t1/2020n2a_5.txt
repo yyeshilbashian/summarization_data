@@ -1,0 +1,60 @@
+We analyzed the literature.
+Historical and cultural works have been carried out by many scientists, including N. Ս. Mironenko, O. V. Serovan, Yu. A. Vedenin, L. M. Martirosyan և others.
+  The score of the monuments was more acceptable to us, on which works were published by S. V. Sotnikova, N. A. Kumova, N. P. Rodnikova, L. Մ. Martirosyan և others.
+Various literary sources have been the source of information for the mapping of historical and cultural monuments of Shirak region.
+In order to extract the spatial coordinates of the initial data, we used the Google Earth program, where all the historical and cultural monuments separated for the study area were located.
+  The resulting list, which consists of monuments, is saved in the format of the corresponding output file.
+Most of the cartographic work with 141 historical and cultural figures was done in ArcMAP 10.5 software environment.
+  As a first step, the cartographic basis of the study area was compiled, which includes the territorial boundaries of the Shirak region, the list of road ային traffic և settlements.
+ In order to compile a map of historical and cultural monuments, the above-mentioned .kml file was converted to a layered file, and then automatically, based on their spatial coordinates, the historical and cultural monuments were located in Piles (number 11), castles (number 26), settlements (number 5), caves (number 10) - one bridge - the Kharkov bridge over Akhuryanget.
+  Based on the typology, they were classified and presented with appropriate symbols.
+  Annex 1 shows the names of the separated historical and cultural monuments, the serial numbers according to the compiled map.
+(number 42), sanctuaries.
+  As a result, Shirak, etc. were built, the structures of which are churches, cemeteries, numerous historical and cultural monuments have been preserved in the territory of Shirak region: castles, mausoleums, settlements, houses, economic study, classification and preservation allow their purpose in scientific and tourist, as well as educational use.
+  Taking into account the fact that the monuments are silent witnesses of the history of the area.
+According to the classification, the territory of Shirak region is the eastern part of Shirak province of "Ararat" world.
+  The region is bordered by Chldir from the north, the mountains from the northwest, the Akhuryan River from the west, the Javakhk plateau from Yeghnakhagh to the east, and the northern slopes of Aragats from the south.
+Figure 1 The area of ​​the region is rich in historical monuments related to almost all periods of humanity, which is a good precondition for the development of this type of tourism.
+  The material presented in the article will also be useful in organizing historical and cultural tours of guides.
+for Shirak region in tourism From the middle of the III millennium (2400-1500) the Middle Bronze Age begins, when Indo-European tribes bearing the culture of colored pottery in the "northern regions" of the Armenian Highlands were established.
+The culture created by them covers the whole Armenian Highland.
+The relic fields of the monuments of this era [1, p. 32].
+  Mausoleums dating back to 61 settlements have been excavated in the areas adjacent to 61 settlements in the Shirak region. a. III-I (Artik, Aghin, Kharkov, Gusanagyugh, Lanjik, Lernakert, Kamo, Karmrakar, Haykavan, Harich, (Akhuryan), Saratak, Spandaryan, Katie և etc.) or Q.A. II-I millennia (Maralik, Azatan, Anipemza, Bandivan, etc.) [2].
+Mausoleums were mostly located in the vicinity of castle dwellings.
+Hovit, Marmashen, Musayelyan 70% make up Horom, Armenia is one of the regions of the ancient world where the principles of fortifications originated and were formed.
+The whole territory of Shirak region is covered with a network of fortresses, in the vicinity of which there are mostly settlements and mausoleums.
+ They are spread on rocky, high, fortifications and flat plains կառուց between them [3, p. 28].
+Q.A. In the IX century, a united Armenian state was formed, covering the entire territory of the Armenian Highlands, the Kingdom of Van or Ararat, becoming one of the most powerful states of Central Asia.
+  From this region we have inscriptions, castles, palaces, temples, fortress cities, etc.
+  The kings of Van left written records of their expeditions and construction works - cuneiform inscriptions, of which in the territory of the region.
+One of the inscriptions was found in Spandaryan (Ghulijan) village, on the bank of Karkachun river, on a rock.
+ It was left by Argishti I.
+The other inscription is from the rock-cut inscriptions of Marmashen in Shirak.
+ Once the necessary environment is created, both protocols can be made available to tourists.
+From the IV-VII centuries mainly monumental and religious structures have reached us.
+  On the village edge of Anipemza village of Shirak region is the Yereruyk temple (St. Karapet) of V-VI centuries, which is the largest and most valuable of the early medieval structures known to us.
+  It is semi-standing.
+  A 5th century inscription in Greek has been preserved on the church-south wall.
+ The territory of Shirak region is also rich in developed historical monuments of the Middle Ages (IX-XIV centuries).
+The monastery of the same name (X-XIII centuries) is located in Vahramaberd village of Shirak region.
+  It is mentioned by Grigor Magistros as a fortified city.
+  The fortress was built on the site of a pre-Christian fortress.
+In the village of Gusanagyugh, Shirak region, the ruins of a castle-fortress of the X-XII centuries have been preserved, which the villagers call "Ghula".
+  Such fortresses were usually built by the local rulers, which is a proof of the village being a princely place.
+The best examples of civil buildings built in the Middle Ages are the caravanserais, which were built both on the roads and in the cities and near the monasteries.
+  The ruins of such a caravanserai have been preserved near Ani, on the left bank of the Akhuryan River, in the village of Nerkin Jrapi [5, p.
+  "The Inner Jrapiikaravanat was built on the main road from Georgia, from the northern provinces of Armenia to Ani. It refers to the flourishing period of the city, most probably to the X-XI centuries" [6, p. 38].
+  Jrapi village caravanserai of Shirak region has been moved from Nerkin Jrapi village.
+In order to ensure the tourism of the described classified monuments, it is necessary to use a comparative index, which would show the number of them per unit area.
+  We considered it expedient to use the saturation coefficient.
+  Taking into account the size of the territory of Shirak region, the area occupied by sub-regions, in this article E. Proposed by N. Korchskaya [8].
+  In contrast to Korchskaya, we calculated the saturation of a unit area with the following formula: the formula is the saturation of H-monuments, the number of monuments in a K-unit area, and the area of ​​an S-unit area.
+  We have compiled a table for the calculations (see Table 1).
+historical and cultural monuments in the Shirak region gnahatmanAghyusak 1.№ YentashrjanmakereseEntashrjani 1 Akhurian 2 Amasia 3 Ani 4 Ashotsq 5 Artik (km2) ardyunknereHushardzanMiavor (units) (units) Hushardzannerikhtutyune (pcs / km2) Miavornerikhtutyune (pcs / km2) Table 2.Hagetsvatsutyan assessment sandghakOrakakan gnahatakaneHagetsvatsutyan gortsakitseAravelaguynMijinits bardzrMijinits tsatsrNvazaguynMinchev 0.3 Analyzing assessment The results show that the Akhuryan sub-region has a high index with the saturation of the number of monuments, and Amasia has the lowest.
+  An indicator is obtained when evaluating the points of monuments.
+  In this case, the maximum index is given to the Ani region, which testifies to the diversity of historical and cultural monuments of the region.
+Summing up the scientific article, the following conclusions can be made.1. Shirak region is rich in historical and cultural monuments, which is a good precondition for the development of tourism.
+2. Unequal in the territory of the region. Their highest density is in the southern sub-regions, and the lowest in the northern (Ashotsk) և northwestern (Amasia).
+monuments located 3. Most of the monuments in the region are almost not used for that purpose by unknown travel companies.
+4. By making the necessary investments, as well as increasing the availability of information, the Shirak region can become one of the cultural tourism destinations in Armenia.
+The research was carried out due to the financial support provided by the University within the framework of № 02-SCI-2019 scientific topic.

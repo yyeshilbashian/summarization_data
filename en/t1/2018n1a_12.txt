@@ -1,91 +1,84 @@
-The climate of the area is a natural resource on which they dependhuman comfort and well-being, ability to work and health.
-  Comfortable weather, meteorological elements (temperature, humidity, atmospheric pressure,winds) is a combination when a person feels good, does not existtension.
-[5, 6,7]The most common for comprehensive climate assessmentThe method is EEC (equivalent-effective temperature according to A. Missenard). EEJ = 37— (37— t) / (0,68—0,0014f + t / (1.76 + 1.4v0,75)) - 0,29t (1 — f / 100), it is expressed by three weather elements: air Temperature: t ° C, humidity: f%, շարժ air movement: v m / s.
+The living climate of the area is a natural resource, on which the comfort and well-being of the human being, the ability to work and the state of health depend.
+  Comfortable weather, a combination of meteorological elements (temperature, humidity, atmospheric pressure, winds) is such that a person feels good, not tired.
+[5, 6,7] The most common method of complex climate assessment is EEC (equivalent-effective temperature according to A. Missenard). EEJ = 37— (37— t) / (0,68—0,0014f + t / (1.76 + 1.4v0,75)) - 0,29t (1 — f / 100), it is expressed by three weather elements: air Temperature: t ° C, humidity: f%, շարժ air movement: v m / s.
  In windless և 100% relative humidity, a person's temperature depends only on the air temperature.
-  At the same temperature, but with strong winds and decreasing humidity, a person feels as lowin case of temperature.
-EE takes into account a person's warmth, howeverNEE (normal equivalent-effective temperature according to I. Butt)NEE = 7 ° C + 0.8 EE calculated for the warmth of a person dressed up to the waist. Its negative value has a negative impact on a person's well-being (Sinitsin I., Georgitsa M. և et al.).
-[6, page 280]NES (biologically active temperature) is calculated by NEE. STRENGTH = 9 ° C + 0.8 NE, which assesses the human environment
-The effect of air temperature, humidity, wind speed, total and long-term radiation.
- Comfort or convenienceThe zone is considered to be + 10 ° C to + 20 ° C.
- [4, pp. 222-228]There are different methods for assessing seasonal weather,For example, for the cold weather of the year in Bodman"Weather Severity"       S = (1-0.04t) (1 + 0.27v), Saipley և Passell "Cold Stress Index".
- [7, p. 288] Stressors for the human body are low temperature, high humidity, fog, strong wind.the latter further reduces the feeling of warmth.
+  At the same temperature, but with increasing wind and decreasing humidity, a person feels the same as in the case of low temperature.
+The EEC takes into account the human heat sensation, but the EEU (normal equivalent-effective temperature, according to I. Butt) NEE = 7 ° C + 0.8 EE is calculated for the temperature sensation of a person dressed up to the waist. Its negative value has a negative impact on a person's well-being (Sinitsin I., Georgitsa M. և et al.).
+[6, p. 280] NES (biologically active temperature) is calculated by NEE. STRENGTH = 9 ° C + 0.8 NE, which assesses the effects of ambient temperature, humidity, wind speed, total and long-term radiation on humans.
+ Comfort or comfort zone is considered to be + 10 ° C to + 20 ° C.
+ [4, pp. 222-228] There are different methods for estimating seasonal weather, such as Bodman's "Weather Severity" S = (1-0.04t) (1 + 0.27v), Saipley և Passel "for cold weather conditions of the year. Cold stress index. "
+ [7, p. 288] Stressors for the human body are low temperatures, high humidity, fog, strong winds, the latter further reduces the feeling of warmth.
  The severity and longevity of the winter directly affect the material security of the population, երն the expenses for heating, warm clothes, medicine in the consumer basket are increasing.
-The choice of cities in Shirak, Lori and Tavush regions of Northern Armenia is not accidental. they are 1988 White:
-catastrophic earthquake, deep economic and social crisis,high unemployment rate, relatively large share of emigration,Temporary housing, high poverty ևcities with many other problems.
-Two cities were selected from each region, the regional centerքաղաք one city with a relatively large population.
-  Discussed:There is the following picture of population concentration in six cities.Table 1. Urban population of Northern ArmeniaUrban:Residence:GyumriArtikVanadzorStepanavanThey came downDilijanTotal:Distribution for 2015 [2]Population:Regional citythousand people
-Population share%The share of the population concentrated in the cities listed in Table 1 is 44.9% of the urban population in the region,Climate impact assessment from a bioclimatic and socio-economic point of view becomes important.
-  The harshness of the climate leads to:the increase of the population's disease, the increase of heating costs, the restriction of outdoor work, the emergence of numerous communal-household problems.
-The highest indicator of winter rainfall is in Gyumri - 124 daysThe youngest in Ijan is 21 days.
- 123 of the other cities under discussion in Artik,102 days in Stepanavan, 92 in Vanadzor, and 74 days in Dilijan.
+The choice of cities in Shirak, Lori and Tavush regions of Northern Armenia is not accidental. they are 1988 The catastrophic earthquake, a deep economic and social crisis, high unemployment, a relatively large share of emigration, temporary housing, high levels of poverty - cities with many other problems.
+Two cities were selected from each region: the regional center, a city with a relatively large population.
+  The following picture is discussed with the concentration of population in cities. Table 1. Urban population of Northern Armenia Urban settlementGyumriArtikVanadzorStepanavanJijan DilijanTotal distribution in 2015 [2] Section% of the population The share of the population concentrated in the cities listed in Table 1 is 44.9% of the urban population in the region, and post-climatic impact assessment becomes important from a bioclimatic and socio-economic point of view.
+  The harshness of the climate leads to an increase in the morbidity of the population, an increase in heating costs, a restriction on outdoor work, and the emergence of many communal and household problems.
+The highest indicator of winter rainfall is in Gyumri - 124 days, and the lowest in Ijjan - 21 days.
+ Of the other cities under discussion, 123 days in Artik, 102 in Stepanavan, 92 in Vanadzor, and 74 days in Dilijan.
  The winter is more severe in Shirak, it is also characterized by stable and thick snow cover, which makes the movement of the population more risky.
  The highest snowfall is in Artik - 100 days, the second is in Gyumri - 94 days, and the smallest is in Ijanjan - 37 days.
- [3, pp. 13-19] As a rule, cases of fractures in the winter populationThere is an increase, but the reason for that cannot be considered unequivocallysnow cover, but also insufficient calcium in the human bodyquantity, it is available in all age groups.
-Table 2: Cities of Northern ArmeniaMeteorological characteristics in winter [3, p.]DecembercitiesGyumriArtikVanadzorStepanavanThey came downDilijanf.% V m / sJanuaryf% V m / s:Februarym / s:Table 2 presents the meteorological elements of the three winter months.
- The coldest month is January, not only the temperaturewith an average monthly index, but with an absolute minimum temperature.
-The lowest temperature was observed in Gyumri - -36 ° C, and in other placesIt is relatively high, -31 ° C in Stepanavan, -30 ° C in Vanadzor.
+ [3, pp. 13-19] As a rule, cases of fractures are registered in the population in winter, but the reason for this is not unequivocally the snow cover, but also the lack of calcium in the body, it is present in all age groups.
+Table 2, Aeronautical characteristics of the cities of Northern Armenia in winter [3, p.] DecemberCitiesGyumriArtikVanadzorStepanavanJijanDilijan f.
+ The coldest month is January, not only with the average monthly temperature, but also with the absolute minimum temperature.
+The lowest temperature was observed in Gyumri - -36 ° C, and in other places it is relatively high, in Stepanavan - -31 ° C, in Vanadzor - -30 ° C.
 In winter, positive temperatures are observed only in Ijjan.
- Temperature:is the most important bioclimatic characteristic, depending on its size:The other characteristics change, and its size depends on the absolute height of the settlement, its location, the circulation of the atmosphere, and a number of other phenomena.
- Although the highest of the settlements in question is Artik - 1724 m, the temperature is higherare low in Gyumri (1528 m).
-January cold weather intensifies with strong windsbecause. It leads to a decrease in human sensitivity.
- The highest of the average wind speeds in JanuaryIn Vanadzor it is 4.0 m / s, in Stepanavan և in Artik - 3.9 m / s, in Ijjan - 3.4 m / s, in Dilijan - 2.8 m / s.
- [3, pp. 39-42]Strong winds cause snowstorms, impassability of roads, reduction of human temperature, winter weatherdeepening of stresses.
+ Temperature is the most important bioclimatic characteristic, depending on its magnitude, other characteristics change, and its magnitude depends on the absolute height of the habitat, location, atmospheric circulation, and a number of other phenomena.
+ Although the highest of the settlements under discussion is Artik - 1724 m, but the temperature indicators are too low in Gyumri (1528 m).
+The cold January weather is getting worse due to strong winds. It leads to a decrease in human sensitivity.
+ The highest of the average wind speeds in January in directions is 4.0 m / s in Vanadzor, 3.9 m / s in Stepanavan-Artik, 3.4 m / s in Ijjan, 2.8 m / s in Dilijan.
+ [3, pp. 39-42] Strong winds cause snowstorms, impassability of roads, reduction of human temperature, deepening of winter weather stresses.
 Moisture has no less effect on the organism.
 In most of the settlements the relative humidity fluctuates around 7084%, that is, the winter is moderately humid.
  In moderately humid air, human skin and mucous membranes of the respiratory tract are sufficiently moisturized.
- They also cause low temperatures and high humidityDanger of freezing of the organism, because the heat capacity of water vapor is higher than that of air, consequently more heat is needed to heat cold, humid air.
-  In case of prolonged stay in such conditions the organismloses resistance to colds and infectious diseases.
-Already known for the combinations of these meteorological elementsby methods (Missenard, Butiև, Bodman, Boksha, Osokin և others)The bioclimatic conditions of six cities of Northern Armenia have been calculatedCharacteristics: EE, NEE և "Weather Severity Index".
-Table 3. Cities of Northern ArmeniaSemi-climatic indicatorscitiesGyumriArtikVanadzorStepanavanThey came downDilijanDecemberEE ° ° C NEE ° CS pointsJanuaryEE ° ° C:NEE ° ° C:S point:FebruaryEE ° ° C:ՆԵԵՋ ° CS points:According to the results, the December conditions of EEC in Gyumri, Artik, Vanadzor, Stepanavan, Dilijan are assessed as "moderately cold", and in Ijjan as "very cold".
-  January:conditions are more severe in Artik - "very cold", in Stepanavan -"Cold", and in others the December conditions continue until "the end of winter.
+ Low temperatures and high humidity also pose a risk of freezing the body, as the water vapor has a higher heat capacity than air, so more heat is needed to heat cold, humid air. Խ As moisture condenses, human skin tissues and clothing become more moist. heat exchanger.
+  If it stays in such conditions for a long time, the organism loses its resistance to colds and infectious diseases.
+With the combinations of these meteorological elements և already known methods (Missenard, Buti և, Bodman, Boksha, Osokin, etc.) the bioclimatic characteristics of the six cities of Northern Armenia were calculated: EEJ, NEEԷ Ջ "Weather severity".
+Table 3. Northern Armenia kaghaknerikesaklimayakan tsutsanishnereKaghaknerGyumriArtikVanadzorStepanavanIjevanDilijanDektemberEEJ ° C NEEJ ° CS balHunvarEEJ ° C NEEJ ° CS balPetrvarEEJ ° C NEEJ ° CS balEst the results obtained, WHW in December of Gyumri, Artik, Vanadzor, as estimated in Stepanakert and Dilijan as "moderately cold" and Ijevan "Very cold."
+  January conditions are more severe in Artik - "very cold", in Stepanavan - "cold", and in others the December conditions continue until the end of winter.
 It is obvious that such weather conditions have a negative impact on the health of the population.
-It is clear from Table 3 that the NEE index is significantis higher than the EEC, it is due to the fact that it takes into accountThe warmth of a dressed person և is more informative.
-  January:NEE is negative in all settlements except Ijjan ։ is in conditions of "cold discomfort", "moderate cold discomfort".
- This explains why in winter it is necessary to wear not only warm,other than moisture-insulating exterior, mainly leather orclothes equivalent to it.
-According to Bodman's "Weather Severity Index", Decemberconditions are considered "weak severe weather" from 2 (Stepanavan)up to 1,2 (lower) points.
+It is clear from Table 3 that the NEE index is significantly higher than the EEE, this is due to the fact that it takes into account the heat sensation of the person wearing it, it is more informative.
+  January NEE is negative in all other settlements except Ijjan և it is in conditions of "cold discomfort", "moderate cold discomfort".
+ This explains why in winter it is necessary to wear not only warm, but also clothes that are moisture-insulating from the outside, mainly equivalent to a leather belt.
+According to Bodman's "Weather Severity Index", December conditions are considered "weak severe weather" from 2 (Stepanavan) to 1.2 (Ijan).
  In January and February, the winter gets worse, especially in Stepanavan, reaching 2.2-2.4 points, that is, "moderately severe" weather.
-  Not counted during index calculationabsolute height of the place, relief conditions, humidity, daily temperature range are taken into account in our conditionsThey can cause quite big changes in the image.
+  The calculation of the index does not take into account the absolute height of the place, relief conditions, humidity, daily temperature range, they can cause quite large changes in the image in our conditions.
 The severity of the weather conditions is balanced by warm clothes.
-  The need for thick winter clothes - 3.0-3.5 kgon average 120 days.
- The need for this type of clothing in the regionIt is almost absent in the northeast and is used instead2.5-3.0 kg of winter clothes.
+  The need for 3.0-3.5 kg of thick winter clothes averages 120 days.
+ The need for this type of clothing is almost non-existent in the northeast of the region; instead, winter clothes of 2.5-3.0 kg are used.
 [5] The set of winter clothes will cost 60-100 thousand drams for an adult.
  It is clear that in our socio-economic conditions people do not buy warm winter clothes every year, thus reducing winter expenses.
  Winter is sick. Low temperature leads to compression of blood vessels in the extremities, slowing of blood circulation, irritation of the nervous system, skin, etc.
- It leads to him. "worsening of well-being and reduced ability to work.
+ It leads to a deterioration in self-esteem and inability to work.
 Winter greatly affects the material security of the population.
  In the consumer basket, the costs of heating, purchasing warm clothes, medicine are sharply increasing.
- The cost of the minimum consumer basket in Armenia in 2016 at the prices of the first quarter was 60397
-AMD (on a monthly basis).
-  This indicator represents the RA nationalStatistical service, calculated by the NSSRA according to the composition and structure of food developed by the RA Ministry of Healthև Energy.
- According to the same methodology, the food basketThe cost amounted to 34123 drams, making 56.5%, and the share of services - 43.5%, and the value is 26274 drams per person.
-According to official estimates, about one person per dayIt costs 1,050 drams to live on, using 11 food items, which:provides 2412.1 kcal of energy per day.
-[8] Theoretically developedNot only is the diet unrealistic, and there are few people who follow itIt is difficult to separate the food we eat in grams, or to accept all the foods that are mentioned in the daily diet.
-About 41% of the energy content of the daily diet is bread (0.25 kg of bread, 0.02 kg of flour, 0.015 kg of pasta, etc.), the second isThe share of dairy products is 15.1% (milk - 0.2 l, cottage cheese - 0.01 kg, animal fat - 0.02 kg, cheese - 0.025 kg), and in third place is meat - 10% (beef - 0.1 kg, fish 0.03 kg), and the remaining 34% is the share of other productsis.
-[8] In cold winter weather, the body's energy expenditure increases, ևIt is required to use animal fats and vitamins(particularly group A, BC), protein, but a person 1 kg of potatoescan buy once every four days, 1 kg of fish only once a month, 1kg of meat once every 10 days մեկ Once every five days - 1 kg of fruit - within 600 drams, one bottle of oil should be enough for 50 days, 1 kg of butter - 50 days.
- [8]Non-food items in the consumer basketThe costs involved are also very significant, especially from above5000 AMD is provided for, shoes - 5000 AMD.
- It would be great,that the population did not need to use medicine at all,but 1000 drams is allocated for it.
-  It is clear that the share of expenditure allocations for the above products in winter conditionsIt is growing sharply, the same applies to energy costs (according to the allocation, gas consumption is 4000 drams, electricity - 4000 drams).
+ The cost of the minimum consumer basket in Armenia in 2016 At the prices of the first quarter it made 60397 drams (on a monthly basis).
+  This indicator is presented by the National Statistical Service of the Republic of Armenia, calculated by the NSSRA according to the composition, structure and energy of the food developed by the Ministry of Health of the Republic of Armenia.
+ According to the same methodology, the price of the food basket made 34123 drams, making 56.5%, and the share of services - 43.5%, and the value - 26274 drams per person.
+According to official calculations, a person earns about 1,050 drams a day to live on, using 11 food items, which provides 2412.1 kcal of energy per day.
+[8] Theoretically, the diet is not only unrealistic, and there are few people who follow it, but it is difficult to separate the consumed foods in grams, or to accept all the foods that are mentioned in the daily diet.
+About 41% of the daily energy intake is bread (0.25 kg of bread, 0.02 kg of flour, 0.015 kg of pasta, etc.), followed by dairy products with 15.1% (milk - 0.2 l, cottage cheese) 0.01 kg, animal fat - 0.02 kg, cheese (0.025 kg), and in the third place is the meat product - 10% (beef - 0.1 kg, fish - 0.03 kg), and the remaining 34% from the share of other products.
+[8] In cold winter weather, the body's energy expenditure increases. It is necessary to use animal fats, vitamins (especially A, BC), proteins, but a person can buy 1 kg of potatoes once every four days, 1 kg of fish only once a month 1 kg of meat once every 10 days և Once every five days, 1 kg of fruit within 600 AMD, one bottle of oil should be enough for 50 days, 1 kg of butter for 50 days.
+ [8] In the consumer basket, the cost of clothing from non-food items is also very significant, especially from above, for which 5000 AMD is provided, և shoes - 5000 AMD.
+ It would be very good if the population did not need to use medicine at all, but 1000 drams are allocated for it.
+  It is clear that the share of expenditure allocations for the above-mentioned products increases sharply in winter conditions, the same applies to energy expenditures (according to the allocation, 4000 drams for gas consumption, 4000 drams for electricity).
 Can the minimum size of consumer baskets calculated for one person, therefore food baskets, be provided by the city dwellers, or fluctuations in food prices, unemployment, average family size, and many other circumstances are taken into account or not?
- For example, let's say the average family size is four to five people, three adults, one or two minors,then the consumer basket of the family should be about 240 thousand. AMD, which:
-is hardly accessible to the population of this regionthat in such a family the family budget will be enough for half of it.
+ For example, if the average size of a family is four to five people, three adults, one or two minors, then the consumer basket of the family should be about 240 thousand. drams, which is considered inaccessible for the population of this region, in such a family the family budget will hardly be enough for half of it.
   The problem of unemployment is also very serious.
-In Armenia in 2016 The number of job seekers according to the data
-It was 93,510 people, of which 16,201 in Shirak and 11,858 in Lori.
- The number of unemployed in urban areas has doubledexceeds the rural one.
+In Armenia in 2016 According to the data, the number of job seekers was 93,510, of which 16,201 in Shirak and 11,858 in Lori.
+ The number of unemployed in urban areas is twice as high as in rural areas.
 [8] And if there are only retirees in the family, the picture of security is far from the minimum.
- Therefore, in severe winter conditions, and in case of such a long heating season, in Vanadzor, Stepanavan, Artik, OctoberFrom the second ten days to the third ten days of April, in Gyumri, from the third ten days of October to the third ten days of April, these are the socio-economic problems of the population.
+ Therefore, in severe winter conditions, and in case of such a long heating season, in Vanadzor, Stepanavan, Artik, from the second ten days of October to the third ten days of April, in Gyumri, from the third ten days of October to the third ten days of April, the socio-economic problems of the population are.
   The heating season in Dilijan and Ijjan is relatively short.
-[1]Cold of the year in the urban areas of Northern ArmeniaThe region brings many problems, the solution of which should be in the center of attention of the territorial governing bodies.
-Conclusion.1. It is one of the potential resources of the bioclimatic area, it actsNot only the housing benefit but also the life support factor of the population, but also has a direct socio-economic impact.
-2. Area climate assessment already developedThe most practical and informative of the methods are EEC, NEE"Weather Severity Index", which complement each other.
-3. In the winter of six urban settlements of Northern ArmeniaBioclimatic assessment of conditions may be another basissimilar studies of regions և territorialfor the development of management strategy programs.
-4. Consumer basket analysis medical-geographicalFrom the point of view, taking into account the winter climatic conditions of the settlements, it is done for the first time կարիք it needs to be supplemented.
-5. The length and severity of winter require heating ևwarm clothes, as well as medicines if necessaryincrease costs, which are small in the consumer basket.
-6. The size of the consumer basket needs to be reviewed. it:
-does not correspond to the financial security of the population.
+[1] In the urban areas of Northern Armenia, the cold season of the year brings many problems, the solution of which should be in the focus of the territorial administration bodies.
+Conclusion.1. It is one of the potential resources of the living climate, it is not only a factor of housing benefit, but also a factor of life support for the population, but it has a direct socio-economic impact.
+2. The most applied and topical of the methods already developed for the assessment of the climatic conditions of the area are the EEC, NEE և "Weather Severity Index", which complement each other.
+3. The bioclimatic assessment of winter conditions in the six urban settlements of Northern Armenia may be the basis for similar studies in other regions and for the development of territorial management strategy programs.
+4. Consumer basket analysis from a medical-geographical point of view, taking into account the winter climatic conditions of the settlements, is performed for the first time կարիք needs to be completed.
+5. The length and severity of winter require an increase in the cost of heating warm clothes, as well as, if necessary, medicines, which are small in the consumer basket.
+6. The size of the consumer basket needs to be reviewed. It does not correspond to the financial security of the population.
 Medico-geographical assessment of the climate is multifaceted.
   выяснить стеdifferent goals.
- to find out how favorable the settlement is, what are the opportunities for:Literature 1. National Atlas of Armenia, E., "Center of Geodesy and Cartography".
+ to find out how favorable the settlement is, what are the opportunities for Literature 1. National Atlas of Armenia, E., "Geodesy and Cartography Center".
  Volume A.
  2007.
  Page 62.

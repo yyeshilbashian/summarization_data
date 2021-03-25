@@ -1,121 +1,113 @@
 1. Introduction.
   In the physics textbooks, in the tutorial manuals, the classical problems of determining the minimum time of movement of the body between two fixed points are quite covered.
- The textbook [1] presents Heron's problem and gives an ideaAbout the principle of the farm.
-  [2-4] is mentioned in depth in the worksTheoretical material on the topic և A number of problems are presented.
- Different:Brahistochron presented in university textbooks և are discussedknown problem [5].
- Our work aims to presentև to discuss sliding straight under the influence of gravityproblems with moving bodies in the shortest amount of time.
- That:For the purpose, we will present the problem series to be discussed in advancean assertion that is the basis for analysis.
+ The textbook [1] presents Heron's problem and gives an idea of ​​the Farm principle.
+  [2-4] The theoretical material on the mentioned topic is deepened, մի a number of problems are presented.
+ Presented in various textbooks և the well-known problem of brachistochrony is discussed [5].
+ The aim of this work is to present and discuss the problems of moving bodies directly in the minimum time under the influence of gravity.
+ To this end, we will present in advance a statement that is the basis for the analysis of the problem to be discussed.
 2. Galileo's theorem.
   There are many physics schools and universities
-In petitions we come across different but similar formulationsstatements, which are called Galileo's theorem or Galileo's problem [6-9].
-Let us bring the most general formulation of the above-mentioned theorem.From the upper end of the vertical diameter of the circle with radius, holes are placed in the direction of the different wires of that circle (Fig. 1).
-   from those pointsat the same time they start to slide differently without contactbodies.
+In the petitions we find various but similar formulations, which are called Galileo's theorem or Galileo's problem [6-9].
+Let us bring the most general formulation of the above-mentioned theorem. From the upper end of the vertical diameter of a circle with a radius, holes are placed in the direction of different wires of that circle (Fig. 1).
+   From that point on, different bodies start sliding without contact at the same time.
  Prove that all these bodies will reach the circle at the same time.
-To prove the theorem, let us consider the motion of a body sliding on an arbitrary string in a circle(Fig. 1).
-  Let the angle of the string be perpendicular to the line  who?
-During the movement, the body is affected by the force of gravity. 1:
-the forces of influence.
+To prove the theorem, let us consider the motion of a body sliding on an arbitrary string in a circle (Fig. 1).
+  Let us denote the angle formed by the wire with respect to the perpendicular.
+During the movement, the body is affected by the force of gravity. 1 forces of influence.
  Therefore, according to Newton's second law
 .
-This vector equation of dynamicsprojecting along the axis of the wireto accelerate the body we getThe following expression:.
- Sincethe body performs an accelerating motion without initial velocity, thenThe time of its movement will be determined laterwith the expression:Fig. 2:
- is the length of the string.
- It is clear from Figure 2 that:.
- Last:where:By inserting the expression into the body time motion formula:we get:
+By projecting this vector equation of dynamics to accelerate an axial body directed along a wire, we get the following expression:
+ Since the body performs a uniformly accelerating motion without the initial velocity, the time of its movement will be determined by the expression: Fig. 2 is the length of the string.
+ It is clear from Figure 2 that.
+ Putting the last expression in the formula for the time of the body movement, we get:
 .
-  It becomes clear from the received expression,that the movement time depends only on the radius of the circle and is freedoes not depend on the acceleration of the fall, չէ does not depend on the vertical line drawnfrom a body մարմնի sliding from an angle.
- So what was required wasIt was proved.
- Note that the result obtained is correctly matched, և the body is in part with the particular case whenmakes a free fall along the vertical diameter of the circle.
+  From the obtained expression it becomes clear that the time of movement depends only on the radius of the circle and the acceleration of the release, չէ does not depend on the angle of the string with respect to the vertical և on the mass of the sliding body.
+ Thus, what was required was proved.
+ Note that the result obtained is correctly matched, և the body is in the part with the particular case when it makes a free fall along the vertical diameter of the circle.
  We do not consider it superfluous to draw the reader's attention to the physical qualitative interpretation of the equality of the times of moving through different lines of the line RAAamNgmcosgacos22glaltlcos2RlgRt / 20
- That is, as the angle of the wire with respect to the perpendicular increases, its length decreases, soմարմնի the way the body has gone, but the acceleration of the body also decreases,then the medium speed module.
- The opposite is true of verticality As the angle of the wire decreases, the distance traveled by the body increases, but at the same time the force of gravity increases:Accelerator component և Medium speed module.
-It is clear from Galileo's theorem and his proof for further applicationsThe following statement is very useful.all sliding bars with contact of different inclination points from the point without contactThe geometric location of material points at any point in time with the upper point և շաՆկ. 3:
-It is a circle with a circle (Fig. 3).
+ That is, as the angle of the wire with respect to the vertical increases, its length decreases, hence the distance traveled by the body, but also the acceleration of the body decreases, hence the modulus of the average velocity.
+ On the contrary, as the angle of the wire with respect to the vertical decreases, the distance traveled by the body increases, but at the same time, the component of gravity, which accelerates the body, the modulus of average velocity increases.
+From Galileo թե թե թե թե թե թե թե թե թե թե թե թե թե թե թե թե թե թե լ լ ալի ալի ալի ալի ալի Գ ալի ալի եմ It is a circle with 3 lines (Fig. 3).
 3. Methodical clarifications և problem series.
- Evidence for Galileo's theorem is presented in the Cinematics or Dynamics sections in various physics textbooks and textbooks, whereNo other problems are included that it can solveto have a useful meaning.
-  An exception is [7]the question book, where Galileo's theorem is followed by only one problem,which can be solved using this theorem.
-  As an interdisciplinary,as well as the development of contextual connections and the development of learningare important functions of the modern process aimed at enhancing learningquality and content.
- From the point of view of the development of interdisciplinary relations, we consider expedient assertions and theorems կապpresentation of problems not in isolation, but subsequentlywith the existence of problem series, for the solution of which it is essentialmay have the same starting point.
-  We will present it belowproblems that, although of the same nature, are methodologicalIn the manuals they are solved in completely different ways.
- The latter is notcontributes to the general coverage of these similar problems.
-As a novelty, we present the above-mentioned issuesA unified approach to analysis using the Galileo theorem.
+ In various physics textbooks and textbooks, proof of Galileo's theorem is presented in the sections on kinematics or dynamics, which no longer include problems for the solution of which it may be useful or important.
+  The exception is the questionnaire [7], where Galileo's theorem is followed by only one problem that can be solved by applying that theorem.
+  The development and development of both interdisciplinary and interdisciplinary connections are important functions of the teaching process aimed at improving the quality and content of teaching.
+ From the point of view of the development of interdisciplinary relations, we consider it expedient to present the problems of the theorems and theorems.
+  Below we will present problems that, although of the same nature, are solved in educational methods in completely different ways.
+ The latter does not contribute to the general coverage of these similar problems.
+As a novelty, we present a unified approach to the analysis of the above problems using the Galileo theorem.
 AtA4 / 2gt Problem 1.
- At what angle with the vertical should it be directed?the straight smooth slope protruding from the point (Fig. 4) to:four on it until the plane slidesin the shortest time [7].
+ At what angle to the vertical should the straight, slippery slope protruding from the linket be directed (Fig. 4), so that it is forty inches across the plane in the shortest amount of time. [7]
 Solution.
-  Let's do the physical problem firstanalysis.
- Let's discuss Slabs with possible different directions coming out of the point (Fig. 5).
-According to Galileo's theorem, from:The four who came out at the same time will be at any timeon a perpendicular circle whose radiusIt grows over time.
-  Figure 5 shows the dotted linesSeveral consecutive positions of a circle with increasing radius.
- When all possiblewhich is the geometric place of the four moving in directionscircle, increasingly touching the oblique plane (solid circle), point horizontalFig. 4:
-already the first four  at that point it reaches that plane.
-  Thus:it becomes clear that the top of the circlepoint:The directional curve provides a straight line to the sloping planethe minimum time to reach.
-  from the point of touchBased on the above, let's move on to the mathematical stage of problem solving.
- Thus:is that idiotis moving along the four inclined planesarrives in the shortest time.
-hasbeing a tangent perpendicular to the circle  radius.
-  After that!.
+  First, let's do a physical analysis of the problem.
+ Consider the choruses with possible different directions coming out of the point (Fig. 5).
+According to Galileo's theorem, the quadrilaterals that appear at the same time will be on a circle touching the line at any given time, the radius of which increases with time.
+  Figure 5 shows several consecutive positions of a circle with a rising radius in dotted lines.
+ When the circle, which is the geometric position of the quadrants moving in all possible directions, increases and touches the oblique plane (solid circle), the point is horizontal. 4 The first four already reach that level at the point.
+  Thus, it becomes clear that the upward-pointing curve of the circle also provides the minimum time to reach the sloping plane in a straight way.
+  Based on the above, let's move on to the mathematical stage of problem solving.
+ Thus, is the angle at which the moving four reaches the oblique plane in the shortest time.
+being a tangent is perpendicular to the radius of the circle.
+  After that!
  On the other hand because:
-hasև:the same!
+is the same!
  are tangents from the point to the circle:
-is vasarasrun և so.Yes.
-Fig. 5:
-Thus:
-և searchable for the angle we get:
+is vasarasrun և so yes.
+Fig. 5 Thus:
+համար For the search angle we get:
 .
 AAAAAABCACACABAO090BACABCBBBCABABC290218000BCABAC, 2909000BAC2 /  Problem 2.
   A circle C is given in the vertical plane.
   Same
-in the plane  How to point straight at the point,so that the body slides from that point without initial velocityreach the circle in the shortest time.
+How to direct a straight curve from a point in the plane so that a body sliding from that point without initial velocity reaches the circle in the shortest possible time?
  Ignore communication [10].
 Solution.
- Let us first consider the case when: is from the circleout.
-  Similar to the physical analysis in the previous questionIt is easy to see from the judgments that even nowat the upper point և C
-it is necessary to builda circle with a tangent minimum radius.
-point of touch The time of movement of the body sliding with the rope directed by the wire connecting the point will be the minimum time to reach the circle C (Fig. 6).
- Let's continue the corduntil it intersects the circle C, և
+ Let us first consider the case when - is outside the circle.
+  By analogy with the physical analysis given in the previous question, it is easy to see that now the elver point և C
+It is necessary to build a circle with a minimum radius.
+The time of movement of the body sliding with the rope directed by the cord connecting the point of touch will also be the minimum time to reach the circle C (Fig. 6).
+ Continue the string until it intersects the circle C, և
 by.
- Circles:mark the point of intersectionFig. 6:
-connect the centers  section which:obviously passespoint.
- It is clear from the drawing that:as opposite angles.
- On the other hand, because: - ն և: - ն:are equal to:
+ Let us mark the point of intersection of the circles. Let's connect the 6 centers with a segment, which obviously passes through the equator.
+ It is clear from the drawing that as opposite angles.
+ On the other hand, because - n և - are equal to:
 .
- Received:It is obvious from the equations that:.
-has a vertical direction,SincetheIt will also be vertical.
-  After the last one, that: is the lower point of the circle C.
+ It is obvious from the obtained equations.
+has a vertical direction, Because it will also be vertical.
+  After the latter,'s is the lower point of the circle C.
   Summing up this:
-we all come to the conclusion that outside the circle C The straight path from a point to that circle in the shortest time to which point point C:Enough to peelFig. 7:
+We all come to the conclusion that the straight path from a point outside the circle C to that circle in the shortest time is enough to connect the point in a straight line to the C shell. 7:
 at the lower point of the circle.
-  The search path is the part thatThe point connects to the intersection of a straight և circle to the point.
-In the case of points inside a circle enclosed in a circleThe problem can be solved again in the same way, so we will limit ourselvesonly with the presentation of the final result. The linear motion will be the initial position at the top of the circle C.
-at least if the body slipsalong the straight line connecting the point (Fig. 7) who?
-AAAABABAOOBAOBOABABOOBABAOABOAOOA ||In this case, it is desirable to include a person who sows practical interestproblems.
-  Such tasks allow each student in the class to be activated, to work, to be encouragedThey arouse interest in the subject.
-  Below:We will discuss such a problem.Problem 3.
-  What angle of inclination should the equinox have?a triangular-shaped roof so that water can flow through itin the shortest time.
- Roof width: is.
+  The path to be searched is the part that connects the curve to the point of intersection of a straight և circle.
+In the case of points within a circle enclosed in a circle, the problem can again be solved by a similar equation, so we will limit ourselves to presenting only the end result. The linear motion will be the initial position at the top of the circle C.
+at least if along the straight line connecting the body to the slide (Fig. 7).
+AAAABABAOOBAOBOABABOOBABAOABOAOOA || sowing problems of practical interest.
+  Such tasks give an opportunity to activate and work on each student of the class, stimulate interest in them, arouse love for the subject.
+  Let's discuss such a problem. Problem 3.
+  What is the angle of inclination of the roof with an isosceles angle so that the water can flow through it in the shortest time?
+ It is the width of the roof.
  Ignore communication [8].
 Solution.
- In fact, the bottom of the roof is fixed in this issue և:the ends (Fig. 8), and the apex is located  on the midline.
-On top of the roof քի foundation Let's draw a circle with the points.
- According to Galileo's theorem, there will be time for water to reach from the top to the bottom և:, where:roof cutwhich is an equilateral triangleis the diameter of the outlined circle.
- Roof:at different heights of the peakWe will have circles of different diameters.
- Figure 8 shows some possible roofs և: sections and their outlined circles.
-The water will flow in the shortest timewith a roof to which it is projectedcircle:The diameter is the minimum.
-  Note that:hasfor all the circles under discussionis a wire, and the diameter of the circle is large orFig. 8:
-is equal to the length of the string.
-  From here it becomes clear thatthe minimum diameter is equal - ի.
- Corresponding to this caseroof section fig. At 8 p.m.
-  is the outlined circleIt is depicted in solid line.
-  Drawing:, as a circlediameter angle, from which it becomes clear that  - ն:is an equilateral right triangle.
-  After the latter, thatthe angle to the base of the triangle, which is the angle of inclination of the roof,is equal
+ In fact, the lower ridges of the roof are fixed in this problem (Fig. 8), and the top is on the mid-vertical.
+Let's make a circle on the top of the roof with the edges of the foundation.
+ According to Galileo's theorem, it will be time for water to reach և from the top to the base-, where is the diameter of the equilateral triangle that intersects the roof.
+ In case of different heights of the roof we will have circles with different diameters.
+ Figure 8 shows some possible roof sections and their outlines.
+The water will flow in the shortest time to the point where the outline of the circle is the minimum.
+  Note that all the circles under discussion are numbered, and the diameter of the circle is large. 8 is equal to the length of the string.
+  From here it becomes clear which the minimum diameter is equal to.
+ The section of the roof corresponding to this case is shown in Fig. Is in 8, the outline of which is plotted on a solid line.
+  Draw as an angle based on a circle, from which it becomes clear that - is an equilateral right triangle.
+  After the latter, the angle adjacent to the base of the triangle, which is the angle of inclination of the roof, is equal to
 - ի.
 dBCBCBCgDt / 2DBACCBA1CBA2BCdDdBAC090BACBCBAC0454. Conclusion.
   Thus, in the work we identified a class of similar problems և presented a version of a common approach to solving them.
- It should be noted that the above class of problems is not limited to the examples given, և there are many other problems, many of whichpart can be easily solved with a similar egg.
-  The approach proposed in the work has the feature that all discussedproblems are solved only by the use of elementary geometry.
+ It should be noted that the above class of problems is not limited to the examples given, there are many other problems, most of which can be easily solved with a similar egg.
+  The approach proposed in the work has the feature that all the problems under discussion are solved only by the application of elementary geometry.
  The latter is useful from two points of view.
  On the one hand, the required amount of mathematical knowledge does not go beyond the knowledge of a 10th grade student; on the other hand, being a prominent figure in interdisciplinary communication, it develops students' analytical skills.
 The research was carried out thanks to the financial support provided by the University, within the framework of S ShSU 03-SCI-2017 scientific topic.
-BOOK: 1. Ghazaryan E., Kirakosyan A., Mamyan A., Melikyan G., Mailyan S."Physics-12".
+REFERENCES 1. Ghazaryan E., Kirakosyan A., Mamyan A., Melikyan G., Mailyan S. "Physics-12".
  S..
  "Edit Print".
   2011.
@@ -130,21 +122,18 @@ Naturalist.
  2016.
  № 1.
  pp. 41-47.
-4. Nersisyan BB, Sahakyan LH The symmetry is geometric
-in problems of a practical nature.
+4. Nersisyan BB, Sahakyan LH Symmetry in problems of a geometric nature.
  Naturalist.
  2016.
  № 3.
  Pages 31-34.
 5. Goldstein G. Classical mechanics. M.
- "Science". 1975. 416 p.
-6. Yuzbashyan ES General Physics Course Handbook.
+ "Science". 1975. 416 p.6. Yuzbashyan ES General Physics Course Handbook.
 Technology. S..
  YSU Publishing House.
  1982.
  224 pages.
-7. Vorobyov II, Zubkov PE, Kutuzova GA, Savchenko O. Ya., Trubachyov
-A. M., Kharitonov V. Գ. Problems of physics.
+7. Vorobyov II, Zubkov PE, Kutuzova GA, Savchenko O. Ya., TrubachyovA. M., Kharitonov V. Գ. Problems of physics.
   Educational manual / O.Ya. Edited by Savchenko /, Yerevan.
  "Tigran the Great".
  2008.
@@ -155,14 +144,13 @@ Cinematography.
  "Phil".
  2007.
  136 pages.
-9. Hovhannisyan R., Sharkhatunyan H., Sargsyan E. Physics problems
-և Collection of questions, 9-10th grade. textbook.
+9. Hovhannisyan R., Sharkhatunyan H., Sargsyan E. Problems of Physics "Collection of questions, 9-10th grade. textbook.
  S..
  "Light".
   2004.
  231 pages.
 10. Grigoryan GV About the problem of reaching the circumference of the circle.
-Reports of scientific-methodological conferences of physics teacherscollection-3.
+Proceedings of the scientific-methodological conferences of physics teachers-3.
  S..
  FMD.
  2009.

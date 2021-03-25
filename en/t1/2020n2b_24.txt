@@ -1,0 +1,135 @@
+To find out the actual situation of geometric definition teaching methods in public schools, we conducted a fact-finding experiment, which aimed to find out the current state of definition definition teaching, to find out whether teachers are satisfied with the system of problems in textbooks, know the definition teaching methodology. is the definition of the concept in the textbook or with its own interpretation, but it is not applicable in solving specific problems.
+According to the current methodology, after defining the newly introduced concept, the teachers quickly move on to formulating the properties and characteristics of the latter and proving them and solving the problems by using them.
+  To test the knowledge of self-definition, it is enough to repeat the textbook definition to the student with the question "Which image is called?"
+in the circle.
+  Experiments To find out the actual situation of teaching geometric definitions in public schools, make a factual examination of the current state of teaching definitions out of 100 math teachers in 15 schools, find out whether teachers are satisfied with the system of problems in textbooks Definition of the concept by textbook or personal interpretation, but not be able to use it in solving specific problems.
+Purpose To answer the questions, teachers were given a questionnaire consisting of 8 questions.
+We will analyze the answers to the mentioned question separately, referring to each of them.
+QuestionnaireQuestion 1. What is your method of defining concepts?
+The answers given by the teachers to the mentioned question were very different.
+  Some of the teachers did not understand the content of the question well, because instead of mentioning the methods of definition, they formulated what the concept was or what the definition was.
+Let's make some quotes.
+• "Concept is the elementary form of thought that reflects the object."
+• "Definition is the properties of objects and snow!"
+• "To define means to say what it is."
+There were teachers who understood the content of the question but gave wrong answers.
+  For example, "Geometric Interpretation of Essays on Definition of Concepts".
+  According to most teachers, the axiom, theorem, lemma, sign և properties are the method of definition.
+Let's make a few quotes.
+• "Methods of definition in geometry are different: axiom, theorem, lemma, sign, property."
+• "The rule, the observation, the marking of examples is a method of definition."
+• "Concepts can be defined by describing a theorem, an axiom, auxiliary statements, definitions."
+Both of the teachers mentioned "If…, then…" Another two teachers mentioned that it is a method of definition to know the direct definition by heart.
+• "They say the definition by heart, then explain it by examples."
+• "Definition is a way of defining the definition ելը showing it by drawing".
+Some of the teachers singled out the definitions using word-for-word illustrations.
+ For example, definitionև • "Definition methods are through speech, through diagrams".
+• "Concepts are defined by underlining".
+Some teachers did not give the names of the definitions of the concept, but used examples or explanations to indicate a few cases: • "A diagonal is defined as a parallelogram, a square as a rectangle or a diagonal."
+• "Define the concept as already defined concepts".
+• “Description. In this case, the subject is presented with certain features. ”
+• "The concept is defined by description, by the interconnection of other concepts."
+• "Definition that indicates the origin of the defined object" և etc.
+7 of the teachers did not answer the question, and 5 mentioned it, I do not know.
+Question 1 Frequency PercentageAnalysis of Question 1No AnswerCorrect AnswerNext Answer
+KhanelQuestion misunderstoodWrong answer
+khanelTable 1. To answer: I do not knowFigure 1. Analysis of Question 1Question 2. Are there any geometric concepts that are not defined, if so, list a few.
+Question 2 gave more similar answers to the teachers.
+68 out of 100 pedagogues mentioned that there are geometric concepts.
+Here are some answers: (initial) starting point • "Point, line, plane".
+• "Wave, straight, segment, ray".
+• "Geometric concepts, which are the basis of geometry, are not defined, they are described.
+  One of the basic concepts of geometry is point, line, plane, etc.
+14 out of 100 teachers think that there are some concepts that are not defined.
+ Examples: • "No, the geometry textbook is one of the only textbooks that provides excellent knowledge."
+• "We do not have, all geometric concepts are defined."
+• "No, because in general each concept can be defined according to its characteristics."
+• “Even if there are concepts that do not have a clear definition, it does not mean that it is not possible to define them.
+Any concept can be defined. "
+The other 18 teachers gave different answers, some of them think that all the concepts are defined, but the definitions in the textbooks are difficult to formulate.
+Some teachers think that the only concept that is not defined is the point.
+ Examples: • “In geometry, only the concept of a point has no definition.
+"•" There are no such concepts that are not defined.
+  Even the term is geometrically basic, but it is defined by description. ”
+plane is considered a ray և • “Geometric concepts are very complex, they are not well defined.
+ For example, line, point, plane, radius, etc.Question 2 Frequency PercentageQuestion 2 NoNoTable 2. OtherQuestion 3. If students can literally formulate the definition of a concept, can we assume that they know the definition of a concept?
+Most of the teachers gave short answers to the mentioned question, yes or no, and 10% of the teachers also commented on their answer.
+ Let's make some quotes.
+• "If the wording is done after independent discussions, then it can be assumed that, yes, it is mastered."
+• "The definition of a concept is sufficient to master it, it must be used in problem solving."
+• “Definition is necessary, but not sufficient.
+The use of additional questions or examples can be used to test the mastery of the correct definition of the definition. ”
+• “Among the students who literally formulate the concept, there will be learners who do not fully master the definition, և learners who have the concept.
+ It will be revealed as a result of discussing issues related to the concept. "
+We will present below the digital data on the answers to the third question by the teachers.
+  The purpose of the next question is to clarify how the teachers find out whether the students know the definition of a specific concept or not.
+Table 3. Analysis of Question 3Question 3 Frequency PercentagesYesNoQuestion 4. Please describe how you find out whether students know the definition of a specific geometric concept or not.
+The answers were very different.
+  The interesting thing is that the answer to the fourth question contradicts the third question.
+One third of the teachers answered the question: "If the student can memorize the definition, then it does not mean that he knows the definition of the concept", and the fourth teacher answered that "the student knows the definition of the concept, if he can define the concept", one The educator answered the third question that "if the student literally spells out the definition of the concept, then he knows the definition of the concept", and answered the fourth question. "If the student is able to define the definition, he is able to apply it in solving problems, then the student masters the definition of the concept."
+The discrepancy between the above answers indicates that: 1. The teaching of definitions is of a figurative nature, as no attention is paid to students' ability to apply definitions.
+ For example, students sometimes spell out the definition of "parallelogram", but they can not even choose the parallelogram from the few squares drawn on the board, that is, recognize it.
+2. Some teachers even have a vague idea about concepts.
+The definition of a concept is perceived as the part of the course topic that needs to be memorized և end.
+  The definition of this concept և Properties is often identified.
+The fourth question was answered by one of the teachers. "The student masters the definition of the concept, if he is able to enumerate the properties of the given concept."
+ In this case, the teacher has a clear definition of "concept" մոտ "concept property".
+  Teachers who formulated the answer to the mentioned question, referring to question 3. "If the students literally formulate the definition of understanding."
+ Only 2% of the respondents mentioned that it is necessary to consider mandatory level problems. "I suggest typical problems aimed at the level of compulsion, I give questions with contradictory assumptions about the definition."
+ Teachers gave other, interesting answers.
+ Let's make some quotes.
+To master the definition of definitions, • "In the summary, it becomes clear that the students have mastered the concept of this or that definition."
+• "If students associate the definition of a concept with life, then they will master the definition of a concept."
+3 of the 100 teachers probably did not know how to find out whether their students know the definition or not.
+Table 4. Frequency PercentageQuestion 4 AnalysisKnowingThey can applyScience traitsCanalize․type problem․Can apply traitsOthernot answerQuestion 4 Question 5. If students misinterpret the definition, what steps do you take?
+27 of the teachers think that if the student misinterprets the definition of the concept, it is only necessary to repeat the definition.
+ For example, "I explain the mistake through a diagram."
+help students in the classroom. "I repeat in the classroom until the student who mispronounces it correctly."
+Teachers call In previous questions we have referred to the fact that teachers who identify the definition of a concept ության the properties of a concept և think that if the properties of a concept they know the definition of a concept.
+ The same teachers answered this question: "If the student mispronounces the students, the definition of the concept will be given back.
+All 7 teachers think that it is necessary to consider a contradictory assumption.
+negative examples, or makeExample: 1. "I try to explain the mistake to the students, bring an example that denies its definition."
+2. "We come to the correct definition with the assumption contradicting their mistake."
+5 of the teachers think that each student needs an individual approach. "Individual attitude is needed for each case."
+Sixteen of the teachers think that practical examples (14 teachers) or standard problems (2 teachers) should be considered.
+10 teachers gave very different answers: • "I give the wrong student time to memorize from the textbook."
+• "I correct, otherwise I let it repeat again."
+• "I try to explain the meaning of each word in the definition."
+Question 5 AnalysisTable 5. Individual AttitudeApplied ExamplesDrawingClass Help օգնNegative ExamplesProperty ApplicationOtherQueryFrequency Interests
+Through the next question, we want to find out whether the teachers participating in the survey agree that the textbooks lack mandatory level-specific problems for the adoption of definitions of specific concepts.
+Question 6. Are there any standard problems of compulsory level of education aimed at developing and mastering specific definitions in the current geometry textbooks?
+ If so, list one of them!
+16 teachers or, in other words, only 16% of the respondents agree with us, 64 educators answered that there are such problems, they even brought some specific ones.
+  11 pedagogues did not answer the question, and 9 pedagogues gave incomprehensible answers.
+Let's do numerical analysis. Analysis of Question 6NoNoInsensible AnswersFrequency InterestTable Table 6.NoAnswerPicture 2.Analysis of Question 6We will separately analyze the answers of the 64 teachers who think that there are mandatory definitions of specific definitions in the textbooks.
+  17 teachers claim that there are, but they are many, let's quote one of the answers: • “There are some topics, but in very small quantities.
+In addition, the problems are of medium complexity, which is not for inclusive education. ”
+And 47 teachers think that the system of problems in the textbooks is enough to complete the definitions.
+    Interestingly, those teachers who think that the existing system of problems is sufficient to fully master the definition are those who think that the definition of a concept հատկ the properties of a concept can be equated.
+ Consider a few answers: • "There are, for example, draw a circle և draw its elements, list its properties."
+• "There are, for example, to build triangular midpoints, heights, divisors, write formulas."
+Question 7. Are you satisfied with the system of problems in the current geometry textbooks to be fully mastered by the students?
+The questioner refers only to the mastery of the definition of the concept, but in general refers to the full mastery of the concept, which includes the mastery of the definition of the concept.
+About half of the teachers answered that they are satisfied with the existing system of problems in order to fully master the concepts.
+  About a quarter of the respondents answered that the system of problems is not enough to fully teach the concepts.
+ It is interesting that some of the respondents gave negative answers to the 6th և 7th questions.
+For example, the 6th question was answered that the definitions of the concepts of the problems in the textbooks are fully mastered and applied, but the 7th question was answered that they are satisfied with the system of problems in the geometry textbooks, which contribute to the mastery of the concepts.
+  I wonder what some teachers understand when they say that the concept should not be fully facilitated.
+  Does it include the definition of the concept, or is it enough to know the definition by heart?
+Some of the teachers think that the system of problems in the textbooks is partially satisfactory.
+ One of them noted that "the system of problems is sufficient in the case of several definitions, and most of them are not sufficient, as they involve medium or difficult problems.
+  The system of problems is not easy to guide. "
+  One of the teachers mentioned that in Sharigin textbooks used in flow classes there are no typical problems aimed at mastering concepts at all, as the existing problems are only too complicated.
+  Some teachers think that the existing system of problems is enough to master the concepts, but the little time is allocated for teaching the given concept.
+  One of the teachers thinks that the existence of problems and lack of fluency are not factors influencing the full understanding of the concepts, if the student is capable.
+Below we present the digital analysis.
+Table 7. Frequency PercentageAnalysis of Question 7 NoQuestion 7 PartialQuestion 8. What methodology would you suggest to test whether the learner is proficient in defining this or that geometric concept?
+As expected and expected, more than half of the teachers answered that they would instruct students to define the concept literally, about one third of the teachers answered that they would consider the problems in the textbook, and if students solve the suggested problems, they could definitely say that the students know the definition.
+It is interesting that the latter are the teachers who consider the term "lemma" as one of the ways of defining a concept, moreover, the latter identify the terms "concept definition" and "concept property".
+  Some of the teachers did not answer the question, some of them simply misunderstood the question;
+The results of the surveys proved our concern that the definitions of concepts are not fully implemented in school, as: a) there is no clear methodology, b) the system of problems in the textbooks is not sufficient to fully master the definitions of concepts.
+Table 8. Analysis of Question 8 Definition FormulationQuestion 8 Textbook ․ Problem MonitoringSuggestion:
+FrequencyFrequencyNoAnswer
+Do Figure 3. Analysis of Question 8 Some of the teachers agreed with us that the required textbooks should include standard level mandatory tasks.
+Just as it is necessary to have a clear methodology for teaching the definitions of concepts, which will contribute to the full mastery of the latter, just as knowing the definition of concepts will be a necessary condition, but not sufficient.
+понятий в школе далека от удовлетворительной, поскольку.

@@ -1,79 +1,75 @@
-In depth in school mathThe topic of progression is studied, in the framework of which the finite arithmetic and geometric progressions are discussed.Formulas for calculating the number of consecutive members.
-But in the school of algebra, how different!in petitions are discussed as follows:finite sums whose members are not successive members of arithmetic or geometric progressions.
-1; 234; 5nnS211i In general,One of the most popular methods for calculating sums in elementary mathematics is the so-called "difference" method., according to which an attempt is made to find one  function that:  amount of eachto placeto havethe performance.
- If you can find one function, then: for the money In case of presentation we will get:.
-This work is dedicated to all of it  counting moneyof which:  members by:are polynomials with real coefficients of.
-Below we will first formulate, prove some theorems, and thenusing the latter we will offer new approaches to all of itfor the calculation of sums whose total members are determined by polynomials with real coefficients depending on the number.
+The subject of progression is studied in great depth in the school course of mathematics, in the framework of which the formulas for calculating the sums of the sums of successive members with the end of arithmetic-geometric progressions are discussed.
+However, in the algebra school course, as in various curricula, such sums are discussed, the members of which are not successive members of arithmetic or geometric progressions.
+1; 234; 5nnS211i In general, one of the well-known methods used in elementary mathematics to calculate sums is the so-called "difference" method, according to which: An attempt is made to find a function in which the representation takes place for each sum of money.
+ If we manage to find such a function, we will get:
+This work is dedicated to calculating all the sums whose members are multiples with real coefficients.
+Below we will first formulate and prove some theorems, using the latter to propose new approaches to the calculation of all sums whose total terms are determined by polynomials with real coefficients depending on the order.
 Theorem 1.
-  It exists in rational coefficients  polynomial such that: և:.
+  There is a polynomial with rational coefficients such that և.
 Proof.
-  It is easy to see that if:  with real coefficientsis an arbitrary polynomial, then և: will have multiple membersthe same senior member, thenWe can claim that it is searchable  The polynomial is of the second degree.
-  Let's look for it further indefinitelywith coefficients. Let's do it
-.
- We have: The otherfromWe have:.
-  Thus:We received:16xf1kkfkfk12xf12 21321 11nSfffffnfnfnf31ii11Px100P111PxPxx X4Px1PxPx41Px21 ;; PxaxbxcabcR2211111 PxPxaxbxcaxbxcx 21112 21; 0; .
-2222xxaxabxaababPxc100 0Pc և, really,The theorem is proved.
+  It is easy to see that if is a arbitrary polynomial with real coefficients, then և polynomials will have the same senior member, then we can claim from the following that the search polynomial is of the second degree.
+  Let's look for it with the following uncertain coefficients. Let's do it.
+ We have to take the other side.
+  So we got: 16 xf1kkfkfk12xf12 21321 11nSfffffnfnfnf31ii11Px100P X111PxPxx4Px1PxPx41Px21 ;; PxaxbxcabcR2211111 PxPxaxbxcaxbxcx 21112 21; 0; .
+2222xxaxabxaababPxc100 0Pc և, indeed, Theorem is proved.
 Theorem 2.
  Any.
- for a natural number there is a rationalwith coefficients multiplicity such that it occursequality, moreover.
+ For a natural number there exists a polynomial with rational coefficients such that the equation occurs, moreover.
 Proof.
-  Consider the decision-making relationshipMultiples with the following rational coefficients:We have from:, where will we get:.
-According to:We have:in which placing: նկատ Considering that:we will get:.
-Now let us prove by the method of mathematical induction that: և: determined by reference relations  The polynomials satisfy the conditions of Theorem 2.
-When:, note that:  multiplicity is sufficientThe conditions of Theorem 2. it has rational coefficients,
-  և:2122xxPx22111112222xxxxPxPxxmmPx11mmmmxPxPxP500mP 1121111; 2211; 00.
-iiiixxPxPxiPxdxPPxPiN677100 kPkN00kxPxdx8 71111kkPxkPxdx111kPPx0x110P10111kkxPkPxdx 967mPx1m2122xxPx100P:  .
-Suppose: in the case of:Determined by: The polynomial with rational coefficients satisfies the conditions of Theorem 2,that is:
- և:.
-Prove that: in this caseDetermined by: the polynomial will satisfy the conditions of Theorem 2, that is
- և:.
-We have:.
-  Integrating the two parts of this equation by:We will have: where:is the constant of integration.
-havingandwill get:  by posting in: և ի նկարա.
-from, given that, we will have:, from where, givenand
-, we will get:, on the other hand, according toof,.
-  So we proved thatdetermined by formulasThe polynomial և satisfies the conditions of Theorem 2.
+  Consider the polynomials with the following rational coefficients determined by reference relations: we have from, from where we will get:.
+According to, we have, in which, by placing և in meaning, we get.
+Now let us prove by the method of mathematical induction that բազ polynomials determined by reflection relations satisfy the conditions of Theorem 2.
+When, note that the polynomial satisfies the conditions of etheorem 2. it has rational coefficients, և2122 xxPx22111112222xxxxPxPxxmmPx11mmmmxPxPxP 500mP21111; 2211; 00.
+iiiixxPxPxiPxdxPPxPiN677100 kPkN00kxPxdx8 71111kkPxkPxdx111kPPx0x110P10111kkxPkPxdx 967mPx1m2122xxPx100P.
+Suppose that a polynomial with rational coefficients determined by case satisfies the conditions of Theorem 2, that is:
+ և.
+Prove that in this case the polynomial determined by և satisfies the conditions of Theorem 2, i.e.
+ և.
+We have:
+  By integrating the two parts of this equation by, we will have where is the constant of integration.
+Having ti and u, we will get it by placing a picture in։.
+from, given that, we will have, from where, given and
+, we will get, on the other hand, according to.
+  Thus, we proved that the polynomial determined by orphans satisfies the conditions of Theorem 2.
   The theorem is proved.
 Theorem 3.
- Any with real coefficients  exists for a polynomial with real coefficients multiple դամ real number such that placehas 21111112xPxPxP2211122222xxxx mkkN6,7kPx 11kkkkxPxPxP00kP1mk6,71kPx111111kkkkxPxPxP100kP 11kkkkxPxPxPx1111kkkkxPxPxdxPxck10c100x891111kcPk 111011111xPxPxP1111111kkkkxkPxPxdxPPxPx 11111111kkkPckPxdxPPxkPxdx111kPPxkc 711111111kkkkxPxPxP7100kP71kPx1110nnnnQxaxaxaxa The equation Px0p01QxPxPxp12.
+ For any polynomial with real coefficients, there exists a polynomial with real coefficients և a real number such that տեղի21111112xPxPxP2211122222xxxx  mkkN6,7kPx11kkkkxPxPxP00kP1mk6,71kPx 111111kkkkxPxPxP100kP11kkkkxPxPxPx1111kkkkxPxPxdxPxck 10c100x891111kcPk111011111xPxPxP 1111111kkkkxkPxPxdxPPxPx11111111kkkPckPxdxPPxkPxdx 111kPPxkc711111111kkkkxPxPxP7100kP 71kPx1110nnnnQxaxaxaxaPx0p01QxPxPxp12 equation.
 Proof.
- According to Theorem 2, we have և:determined by formulas  multiples that satisfy  equalitytherefore, according toof, given For multiple members we will have:in which performing: appointment given  we will have for multiple members  the performance.
- Note that according to:to:is a real number, andis a polynomial with real coefficients.
+ According to Theorem 2, we have polynomials determined by "formulas" that satisfy the equation, therefore, according to, we will have for the given polynomial, in which by making the designation, we will have the representation for the given polynomial.
+ Note that according to -i is a real number and and is a polynomial with real coefficients.
  The theorem is proved.
-Now, using the theorems above, let's try to calculate all of itthe amounts in which:  is determined by:with real coefficientsthrough multiple members.
-Let's sayhas many members և
-  in real terms.
-  Let's count  sum.
-  According to:Theorem 3 exists determined by formulas multiple դամ real number such that given occurs for multiple members presentation, then For the money we will have: Now, using the above, let's calculate some finite sums.
-In advance, according toև:  resolutions, let's decide  և:  multiple members.
+Now, using the above theorems, let us try to calculate all the sums in which is determined by the coefficients of with real coefficients.
+Ditsuk has many members և
+  with real coefficients.
+  Let's count the amount.
+  According to Theorem 3, there exist a polynomial determined by formulas - a real number such that for a given polynomial the representation takes place, then for the sum we will have: Now, using the above, let us calculate some finite sums.
+In advance, according to the resolutions, let's determine the polynomials.
 We have:
 X67mPx55Qx011nniiiiiiQxaxaPx00111111nnniiiiiiiiiiiiPxPaaPxaPxaaP 110011; 1nniiiiiiPxaPxpaaP13Qx12130pPx1ii1110nnnnQxaxaxaxa iQiiN1nniiS 13Px0pQx12100002132 111.
-nSPPpPPpPnPnpPnPnp14672Px3Px 2211100; 21PPxPxdxPPx:                                           .
- in the textbook, like him! և: We encounter such problems in petitions. Prove by the method of mathematical induction that:
-any The following equations occur for a natural number: a/b /c /.
-Let's try to calculate these sums according to the above theoremsusing.
+nSPPpPPpPnPnpPnPnp14672Px3Px 2211100; 21PPxPxdxPPx.
+ We encounter such problems in the textbook as in the petitions. Prove by mathematical induction that the following equations occur for any natural number: a / b / c /.
+Let's try to calculate these sums using the above theorems.
 Problem 1.
- Count: sum.
+ Calculate the amount.
 Solution.
-We have:, therefore, consideringև:, according to, we will have:
-  և:For the money we will get:, therefore, according to, searchableProblem 2.
- Count:Solution.
- We have:Answer:.
+We have, therefore, considering և, according to, we will have:
+  For the money we will get, therefore, according to, searchable Problem 2.
+ Calculate Solution.
+ We have "Answer".
  sum.
-therefore, givenև:, according to, we will have:
-32232xxPx153322100; 31PPxPxdxPPx43234244xxxxPx1634 5n22224113213nnn321225311nnnn4222123121321134nnnnnn 52221321nSn22221441441iiiiQxxx0121; 4; 4aaa615131122PxaPxaPx324423xxx0011225113paaPaP14nS 2324144514121423333nnnSnnnn2413nnnS122531nSnn223133iiiiiQxxx 00; a121; 3aa61513 և: , therefore, according to  , searchableFor the money we will get:Problem 3.
- Count:Solution.
+Therefore, given-և, according to,, we will have:
+32232xxPx153322100; 31PPxPxdxPPx43234244xxxxPx1634 5n22224113213nnn321225311nnnn4222123121321134nnnnnn 52221321nSn22221441441iiiiQxxx0121; 4; 4aaa615131122PxaPxaPx324423xxx0011225113paaPaP14nS 2324144514121423333nnnSnnnn2413nnnS122531nSnn223133iiiiiQxxx 00; a121; 3aa61513 և, therefore, according to, for the search amount we will get: Problem 3.
+ Calculate Solution.
  We have:
-Answer:.
+Answer:
  sum.
-, therefore, considering,և:,according to:of,We will have:
-  և:therefore, according to, searchable  For the money we will get:Answer: .
-We think the work will be as interesting as the students,as well as math teachers և it can be used seniorduring extracurricular activities in school mathematics.
+, therefore, given's, և և, according to-, we will have:
+  ևthen, according to, we will get "Answer" for the amount to be searched.
+We think that both the students and the math teachers will be interested in the work, it can be used in the extracurricular mathematics classes of the high school.
 Literature 1. Mikaelyan H., "Algebra-9", Yerevan, "Edit Print", 2008, 304 pages.
 2. Nikolski SM, Potapov MK, Reshetnikov NN, Shkin AV, "Algebra 9th grade textbook", Yerevan, "Antares", 2012, 280 pages.
 3. GGorgyan GG, Sahakyan AA, "Elements of Algebra and Mathematical Analysis", 11th grade high school textbook for natural sciences and mathematics, Yerevan, "Tigran the Great", 2010, 208 pages
 4. Babinskaya IL Tasks of Mathematical Olympiad, M.
- Science. 1975. 111 p.
-gebre, M.
-, "Enlightenment", 1973. 351p.Information about the authors:Nikoghosyan Gagik Seryozha - Phys.Math. scientist Candidate, ASUE Gyumri Branch, E-mail:
-gagonik@mail.ru:Manukyan Vardan Franz - Phys.Math. scientist candidate, associate professor, Gyumri State Pedagogical Institute, E-mail.
+ Science. 1975. 111 s.gebre, M..
+, "Enlightenment", 1973. 351p. Information about the authors Gagik Seryozha Nikoghosyan - Phys. scientist Candidate, ASUE Gyumri Branch, E-mail.
+gagonik@mail.ru Manukyan Vardan Franz - Phys.Math. scientist Candidate, Associate Professor, Gyumri State Pedagogical Institute, E-mail.
