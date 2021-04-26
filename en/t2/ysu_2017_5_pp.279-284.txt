@@ -1,0 +1,81 @@
+SYNTHESIS OF TERPEN-1,2,4-TRIAZOL BY FOOTBALL INTRODUCTION Introduction One of the main tasks of modern organic chemistry and pharmacology is the synthesis of biologically active substances - drugs that are as safe as possible for the organism.
+ The biological activity of the synthesized chemical molecules is conditioned by the different active structural units in them, and why not by some atoms.
+Of great interest from this point of view are the cyclic compounds of the five-membered Chvetsandaman containing one or more heteroatoms.
+  Of course, heterocyclic compounds, their derivatives are of great importance, and are of interest are compounds containing thiodiazole, oxadiazole, diazole, 1,2,4- և 1,2,3-triazole ring, many derivatives of which are used in medicine due to their antibacterial (c) antibacterial properties. Regulating systemic pressure (clofelin, ibresartan), antifungal (econazole, fluconazole), central nervous system (estazolam) և metabolic regulating properties [1,2].
+ Compounds of the listed series are non-protein β-hetero-substituted raw materials for the production of optically active α-amino acids.
+  It should be noted that many of the mentioned compounds are not of natural origin. For example, compounds containing thiazole և triazole ring do not exist in nature, but many of their synthetic derivatives are known to have anticonvulsant, antitumor, analgesic, and other properties [2-5].
+ Having no natural sources for obtaining them, many synthetic methods have already been developed by science [2,6,7], one of which has been used in the construction of a targeted triazole ring.
+ Some well-known antifungal (A), antitumor (B) և antibacterial (C) agents, which are derivatives of 1,2,4-triazole, are presented below: A) B) C) The other important structural unit in the synthesized compound is the terpene ring.
+ Terpenes are hydrocarbons found in nature and are the products of a number of plant activities.
+  They are used in the perfume and food industries as aromatizers, and in aromatherapy as alternative therapies.
+ It is known that compounds of this series have antibacterial properties.
+ Studies have shown the antibacterial effect of limonene և α-pinene on various microorganisms [8].
+It has been scientifically proven that terpenes are involved not only in the metabolism of animals, but also in the metabolism of the human body, they have an effect on the level of nitrogen.
+  The metabolism of bicyclic terpenes has been discovered under the influence of cytochrome P-450 (CYP-450) in the human body, which leads to the formation of carboxy compounds.
+ Of the terpenes found in nature, plant pigments are of interest: carotene, lycopene, pinene (near conifers), limonene (near citrus plants), carvon, karen, etc.
+  It should be noted that terpenes have characteristic odors, some of which are insect repellents - pheromones.
+  All this proves that they are biologically active compounds.
+Results քննարկում their discussion The aim of the work is to combine these two active groups: terpene triazole groups, to synthesize potentially biologically active sulfur bridge terpene-1,2,4-triazole.
+It has been shown that the double bond bonding reaction of limonene is non-stereoselective, resulting in 1.
+A mixture of diastereomers in a ratio of 1 (1).
+  The resultant was subjected to hydrazinolysis, as a result of which the corresponding hydrazide was obtained (2).
+The resulting hydrazide was reacted with phenylisothiocyanate in the manner described in the literature to give the corresponding thiosemicarbazide (3).
+The latter was subjected to further basic cyclic acidification to give 5 - ((2 - ((R) -4-methylcyclohex-3-enyl) propyl) methyl) -4-phenyl-4H-1,2,4-triazole-3-thiol (4) on receipt.
+ The optical rotation of the synthesized triazole was studied.
+  Of the newly synthesized compounds, hydrazide is a good starting point for the closure of a number of heterocycles;
+ Due to the thion-thiol tautomer in the triazole molecule, it is a good starting point for further generation of both S- and N-substituted potentially bioactive derivatives.
+Experimental part 1-4 compounds (DMSO).
+In CCl4-1 / 3) MMR spectra 1Н և 13С were removed at 30oC with "Varian Mercury-300" spectrometer (300 (1Н) և 75 (13С) MHz, internal standard - HMDS).
+  The EC spectra were removed with a "Nikolet FtirNexus" spectrometer in a suspension of Vaseline oil.
+  NSHK was made with "Silufol UV-254" sheets - benzene.
+ethanol.
+hexane-6.
+1.
+With 1 system.
+The discovery was made with iodine vapors.
+ Melting temperatures will be determined by "SMP-10" device.
+ Optical rotation was measured with a "PerkinElmer341" device.
+Methyl 2- (2 - ((R) -4-methylcyclohex-3-enyl) propylthio) acetate (1).
+After mixing 13.6 g (16.2 ml, 0.1 mol) (R) of limonene, 20 ml of CH2Cl2 և 1.36 g (0.01 mol) of ZnCl2 for 30 minutes, add 12.7 g (10.7 ml, 0.12 mol) of methylthioglycollate.
+ After 1 day, the reaction mixture was washed with water and dried over MgSO4.
+ After filtration հետո After removing the solvent under vacuum, it is subjected to fractional distillation (Tr. = 145-147o C / 4 mmHg. 20 = 1.4952.
+  1H MMR spectrum (300 MHz, column).
+  Exit: 26%.
+  Rf = 0.69.
+  nD:
+DMSO / CCl4-1.
+3) δ 0.95 d, 0.97 d (3H, J = 5.4 Hz, CH3CHCH2S), 1.12 - 1.39 m (1H, CHCH2 in carbocycle), 1.42 - 1.60 m (2H, CHCH2 in carbocycle), 1․62 s (3H, CH3C = CH), 1.64 - 2.09 m (6H, CH2 in the carbocycle, CHCH2S), 2.43 ddd (1H, s (2H, CH2S), 3.68s (3H, CH3O), 5.31 br.s (1H, C = CH).
+  13C MMR spectrum (7536.4, 32.8, 32.7, 30.2, 30, 28.8, 26.6, 26.4, 24.5, 23, 15.6, 15.2.
+2- (2 - ((R) -4-methylcyclohex-3-enyl) propylthio) acetohydrazide (2).
+A mixture of 6.34 g (0.026 mol) of ester, 10 mL of C2H5OH և 2.1 g (2 mL, 0.039 mol) of hydrazine hydrate (80% solution) was warmed to room temperature for 2 h after exotherm.
+  After the reaction, the solvent was removed with a vacuum cleaner.
+ Exit: 82%.
+ Rf = 0.54.
+ T hlm. = 53-54 oC (wb. Alcohol.
+water -5.
+3).
+  1H MMR spectrum (3H, CHCH2 in carbocyclic), 1․61 s (3H, CH3C = CH), 1.64 - 2.11 m (6H, CH2 in carbocycle, CHCH2S), 2.37-2.49 m (1H, CH2S), 2.73 dd (1H, J = 12.5, 5.1 Hz, (1H, NH).
+  13C MMR spectrum (75 MHz, DMSO) δ 168.3, 132.7, 120.4, 120.3,23, 15.6, 15.2.
+2- (2- (2 - ((R) -4-methylcyclohex-3-enyl) propylthio) acetyl) -N-phenylhydrazinecarbothioamide (3).
+ A mixture of 1.21 g (0.005 mol) of hydrazide, 10 mL of C2H5OH և 0.75 g (0.66 mL, 0.0055 mol) of phenylisothiocyanate was heated at room temperature until the end of the exotherm was warmed to 2 h with solvent boiling.
+  The output is 96%.
+  Rf = 0.56.
+  T hlm. = 127-128 oC (alcohol).
+water -2.
+1).
+ 1H MMR spectrum (300 MHz, DMSO) δ 0.95 d, 0.97 d (3H, J = 5.8 Hz, CH3CHCH2S), 1.09 - 1.41 m (1H, CH2 in carbocyclic), 1.43 - 1.59 m (2H, CHCH2 in carbocycle), 1 ․ 62 s (3H, CH3C = CH), 1.65 - 2.09 m (6H, CH2 in carbocycle, CHCH2S), 2.50 ddd (1H, J = 12.4, 7.8, 5.0 Hz, CH2S), 2.78 ddd9.58 br.s (1H, NH ), 9.99 br.s (1H, NH).
+  13C MMR spectrum (75 MHz, DMSO) δ36.4, 33.1, 33, 30.1, 30, 28.8, 26.6, 26.4, 24.5, 22.9, 15.6, 15.2.
+5 - ((2 - ((R) -4-methylcyclohex-3-enyl) propylthio) methyl) -4-phenyl-4H1,2,4-triazole-3-thiol (4).
+ The solution of 1.5 g (0.004 mol) of thiosemicarbazide, 3.34 g of 10% KOH was left in a water bath for 4 hours after leaving at room temperature for 30 minutes.
+ At the end of the reaction, the mixture was diluted with water, acidified with a dilute hydrochloric acid solution to a clear reaction.
+  The output is 62%.
+  Rf = 0.66.
+  T hlm. = 124-125 oC (bb. Benzene.
+hexane 20 = + 7.25 (C 0.806 CH3OH).
+ 1H MMR spectrum (300 MHz, DMSO) δ 0.873.
+5).
+ [α] D:
+d, 0.89 d (3H, J = 5.1 Hz, CH3CHCH2S), 1.03 - 1.35 m (1H, CH2 carbocycle), 1.34 - 1.58 m (2H, CHCH2 carbocycle), 1.56 - 1.79 m (2H, CH2 carbocycle), 1 ․ 62 s (3H, CH3C = CH), 1.79 - 2.08 m (3H, CH2 in the carbocycle, CHCH2S), - 7.62 m (3Harom), 13.67 s (1H, SH).
+  13C MMR spectrum (75 MHz, DMSO) δ15.5, 15.1.
+Literature 2. Grigoryan S. V., YSU SSS COLLECTION OF SCIENTIFIC ARTICLES, pages 155-159,2015.
+Hovhannes Adonts TERPEN-1,2,4-TRIASOL SYNTHESIS BY BRIDGE Keywords: terpene-1,2,4-triazole, mercaptoptriazoles, racemic mixture, biological activity Summary.

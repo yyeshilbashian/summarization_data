@@ -1,0 +1,45 @@
+SYNTHESIS AND SITUATION OF FOURTH AMONIUM SALTS AND THEIR SETTING ON INORGANIC CARRIERS
+The reaction was found in N. By Menshutkin in 1890 [1, 3].
+The reaction rate depends on nitrogen և alkyl. (alkenyl, alkynyl) from the nature of halogen hydrocarbon substituents in halogen.
+ The rate of the reaction decreases with increasing volume of the substituents: CH3> C2H5> high molecular weight saturated hydrocarbons> iso-C3H7 ոնի ammonium salt in the following order: I> Br> Cl.
+  The reaction rate increases when the alkyl substituent is replaced by alkenyl և alkynyl groups.
+Tertiary butyl halides are difficult to form quaternary ammonium.
+ Aromatic hydrogen halides, such as dinitrochlorobenzene, 2,4- (NO2) 2C6H3Hal, are capable of such bonding from aromatic halides.
+Menshutkin's reaction with alkyl halides is carried out by the classical mechanism of nucleophilic deposition SN2.
+  Load solvents increase the speed of the process.
+  Such solvents have many advantages with disadvantages: fire hazard or toxicity.
+ This reaction was performed in a water-emulsion medium with intensive mixing to exclude the use of bulk solvents.
+We have previously found [2] that the synthesis of quaternary ammonium salts is accelerated by the addition of 10% of the reaction medium to a water-emulsion medium.
+ Creating a water-emulsion medium makes the nucleophilic substitution reaction process easier.
+  Ammonium salt introduced into the reaction medium becomes responsible for the transfer of a well-dissolved tertiary amine to the organic part, where the alkyl halide is predominantly present.
+ This increases the rate of the alkyl halide substitution reaction.
+ The quaternary ammonium salt obtained as a result of the reaction continues to play the role of emulsifier.
+ In general, the process is carried out by a mechanism corresponding to interphase catalysis, where the added dry ammonium salt NR1R2R3 + R4XNR1R2R3R4X acts as an interphase catalyst.
+  This paper investigates the synthesis of ammonium salts based on dimethylbenzyl-, dimethyldodecyl- և trimethylaminium.
+  The alkylation of these amines was carried out with an alkyl halide with a long hydrocarbon chain, dodecyl bromide, methyl chloride and bromide, resulting in the following NSAIDs: 1. Benzyltrimethylammonium bromide, 2. benzyltrimethylammonium chloride, 3. dodecyltrimethylammonium bromide, 4. didodicyldimethylammonium bromide.
+Synthesized quaternary ammonium agherCHAA in karutsvatskayinbanadzeveElk,% / MrT hectoliters, ˚С LutseliutyuneJur, beverayinorganakanlutsichnerJur, beverayinorganakanlutsichnerJur, beverayinorganakanlutsichnerJur, beverayinorganakanlutsichnerAghyusak 1.Artakinteske, kayunutyuneSpitakbyureghner, hygroscopic yenSpitakbyureghner, hygroscopic yenSpitakbyureghner, hygroscopic powder yenSpitakbyureghayin usually kayunBnakan tseolitnere, which is klinoptilolite, [4] Due to their unique properties - adsorption, catalytic, etc., have found wide application - they are considered mainly cheap raw materials compared to other series of sorbents.
+Quaternaries activated with quaternary ammonium salts are used both in alkylation reactions and for environmental purposes to absorb petroleum oils from aqueous solutions.
+Experimental part.
+ The synthesis of quaternary ammonium salts was carried out in a two-phase system of interphase catalysis, where the corresponding CAA was used as an emulsifier, as mentioned above.
+ The reaction was carried out in a three-way flask, which is equipped with a mixer, a refrigerator and a dripping funnel.
+  First, tertiary amine (0.1 mol) և 10% (0.01 mol) of the intended salt is added to the flask.
+ The alkyl halide is then added at room temperature.
+ The reaction mixture is heated to 60 ° C until the possible completion of the process, which usually takes 10-20 hours.
+  The output of the reaction is 75% (more (Table 1).
+It has been experimentally confirmed that the optimal number of revolutions of a mechanical mixer is 700-800 rpm.
+ The amount of interacting alkyl halide is determined by the titration of chlorine (bromine) anion in a sample taken from one reaction medium every hour.
+Me3NCH2C6H5BrMe3NCH2C6H5ClBrMe3NC12H25BrMe2N (C12H25) 2 Deposition of quaternary ammonium salts on zeolite.
+  100 g of pre-processed zeolite (clinoptilolite from Noyemberyan region) is poured into the above-mentioned well flask, and 31 g (0.1 mol) of dodecyltrimethylammonium bromide dissolved in 50 ml of methanol is added to it under mixing conditions.
+  The reagent mixture was mixed at room temperature for 6 hours, then left for 48 hours.
+  The reaction mixture was later distilled with a water pump.
+ The methanol from the reaction mixture was collected in a freezing coil in Dewar.
+  Weighing in a triple flask, 132 g of solid residue was found.
+The latter was placed in a desiccator containing MgSO4 and left for a week.
+ The flask was weighed again.
+ 131.2 g of substance was found in the flask.
+The mixture of zeolite obtained with CHA is heated for 2 hours at 200 ° C, after which the amount of desorbed salt is determined by titration of bromine anion, as well as by the method of spectroscopy.
+Conclusion.
+  Clinoptilolite of Noyemberyan region was used.
+Dodecyltrimethylammonium bromide was found to adsorb well on the surface of zeolite.
+There is no accumulation of material in the distillery collection, which again speaks of the CHA sitting on the zeolite, being well connected with the zeolite.
+Literature Artashes Aristakesyan, Aramayis Yeritsyan, Gagik Torosyan SYNTHESIS OF THE FOURTH AMMONIUM SALTS AND THEIR SETTINGS

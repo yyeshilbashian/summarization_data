@@ -1,0 +1,121 @@
+Problems with circles and spheres have always attracted the attention of geometers.
+  Although the study of the sphere is already quite interesting, nevertheless many remarkable possibilities arise when considering the configurations of several spheres in relation to each other.
+  The theory of these configurations apparently begins with Descartes' classical problems with the endless chains of Apollonius, the pope's circles, and the four interconnected circles.
+  These seemingly simple problems are, in fact, one of the rather complex problems in Euclidean geometry.
+  A large number of authors, from Pope of Alexandria to J. Steiner and H. Coxter addressed the solution of these problems by proposing the use of both classical and non-classical geometric methods [3, 4].
+ These problems, which are considered classic in the modern period, have entered a new stage of development.
+  Their generalizations and applications are the impetus for obtaining a number of valuable results in various fields of geometry [5,6].
+  The paper summarizes the generalizations of four mutually intersecting circles: Descartes' classical theorem in multidimensional Euclidean space, complex plane, spherical and hyperbolic geometry.
+ Definition 1 (Cartesian configuration).
+  Touching each other in pairs C j, j = 1, 4 The arrangement of four circles is 91 van Cartesian configuration (Fig. 1), if any three of them do not have a common touch.
+ Fig. 1. Cartesian configurations of four circles touching each other in pairs.
+ 1643 In his letter to Queen Elizabeth of Bohemia, R. Descartes mentions a relation equivalent to the following statement: Theorem 1 (Descartes' classical theorem).
+  For the Cartesian configurations of four pairs of tangent circles, the following relation is true: where bj = rj - 1 is the curvature of the circle j j.
+ Descartes considered only the first type of configuration in Fig. 1, but his theorem is true for all types of configurations if we set certain signs only for the curves of the circles.
+  To generalize Descartes' theorem and to give a more rigorous mathematical basis for the further statement, let us introduce the ideas of oriented circle and oriented Cartesian configuration.
+ Definition 2.
+  A circle in a definite direction (inward or outward) of the normal vector of its unit is called an oriented circle.
+ Fig. 2. Inward and outward orientations.
+ Definition 3.
+  Suppose C is a circle oriented by radius r.
+  We will consider that C has a positive curve b => 0, C is oriented inwards.
+  Otherwise the directional circle C is defined by the negative curve b = - <0 and limits the generalized circle.
+  The line is accepted as a circle with zero curvature.
+ Definition 3.
+  Oriented Cartesian configuration is called the Cartesian configuration in which the orientations of the circles are compatible in the following sense. either the inner domains of all the circles do not intersect, or the inner domains do not intersect if the orientations of all the circles are reversed.
+ Fig. Oriented Cartesian configuration.
+ 2. Euclidean generalizations of Descartes' theorem.
+  Let us start the generalizations of the four circuits touching each other, Descartes' classical theorem, from its complex analogue.
+ Theorem 2 (Descartes complex theorem).
+  Suppose an arbitrary C 1 C 2 C 3 C 4 is a Cartesian configuration, where the i-th circle, i = 1, 4, has a curvature bi and zi = xi + iy i center.
+  In this case the following equation occurs. Descartes' theorem looks more beautiful when it is represented by matrices.
+  Consider the square shape of Descartes based on (1).
+  Denoting the matrix consisting of 1 n (1 × n) -measure: (3) For the matrix Q 2 of quadratic coefficients, we get the following representation: where the index Q indicates the size of the observed space.
+ Based on these designations, Descartes equation (1) takes the following form: where b = (b 1, b 2, b 3, b 4) is the vector of the curves of the Cartesian configuration circles.
+  Similarly, the relation of Descartes complex theorem (2) can be represented in the form of a matrix, where c = (b 1 z 1, b 2 z 2, b 3 z 3, b 4 z 4) is the vector of the centers of the configuration circles and the products of the corresponding curves.
+ Note that it is not possible to obtain the geometric positions of these circles from relation (4).
+  The following theorem gives that possibility.
+ Theorem 3 (Descartes' extended theorem).
+  Suppose the arrangement of four oriented circles C i, i = 1, 4, where the ith circle has a curvature bi and O i (xi, yi) center.
+  Let M denote the following matrix of size 4. 3: The given four circles will form an oriented Cartesian configuration if and only if there exists a definition of the matrix M for straight Cartesian configurations that retains the (4 ′) relation truth.
+ Remark.
+  From this theorem follows Descartes' complex theorem, if we apply it to the vector z = x + iy, where x and y are the second and third columns of M.
+ 94 Theorem 3 can be generalized to n -space.
+  For the latter, let us define the ideas of the Cartesian configuration of n -measure spheres and the curvature-central coordinate system.
+ The Euclidean Cartesian configuration oriented in the space n n of the Euclidean dimension n is defined as an arrangement of n + 2 pieces, n-2, touching at different points (n - 1), where the orientations of the spheres are comparable in the sense that not all domains are internal domains. , or internal domains do not intersect if the orientation vectors of all spheres are inverted.
+  In order to avoid the observed and trivial cases, suppose that n ≥ 2.
+  In this case, as a boundary variant of the sphere, we can take hyper-plane, which has zero curvature and orientation, which is given by a unit with a normal vector.
+  Consider the generalized version of Descartes' theorem for the Cartesian oriented configuration oriented in the n-dimension space.
+ Theorem 4 (Descartes' multidimensional Euclidean theorem).
+  The following equation holds for the Cartesian oriented configuration of the spheres S j, j = 1, n + 2 given in R n: where bj is the curvature of the sphere S j.
+ Equation (5) can be written in the following matrix form: where b = (b 1, b 2, ..., bn + 2), and Q n (x) = x Q nx is a Cartesian square form of n -measure whose coefficient Q n has the following form: Definition 4.
+  Euclidean R nn - in the measure of space, we will call the curvature of the S sphere - central coordinates (n + 1) - the vector m (S) = (b, bx 1, ..., bx n), where b is the curvature of the S sphere (no zero), and x (S) = x = (x 1, ..., xn) is the center.
+  In the case of H-oriented hyper plane, we will call the curvature-center coordinates the vector m (H) = (0, h), where h = 95 = (h 1, ..., hn) is the unit normal vector of H, which is directed towards internal domain of the latter 1.
+ Theorem 4 (Descartes' generalized multidimensional Euclidean theorem).
+  Suppose the oriented spheres S 1, S 2, ..., S n + 2 form an oriented Cartesian configuration, and M (n + 2) is a matrix of size × (n + 1) whose first line is m (S i) is the vector.
+  In this case the following equation occurs. The opposite of the theorem is also true: the arbitrary real M solution of (7) corresponds to the only oriented Cartesian configuration, even when it contains hyperplanes, which are uniformly determined by other spheres of the configuration.
+ For the further generalization of Theorem 4, consider the inversion action of n -measure R n in the Euclidean space.
+ According to the definition, the inversion with respect to the unit SI with a center at the origin represents the point x, where | x |: 2 = ∑ i = 1 xi 2.
+  Consider an S-oriented sphere with arbitrary x center and radius r.
+  Its inverse image with respect to the SI sphere will be oriented with center S and r = sphere x = radius.
+  There is the following connection between these spheres. Note that |: x |: In the case of 2> r 2, the sphere S will have the same orientation as S.
+  Using the idea of ​​inversion, let us expand the curvature-center coordinates as follows.
+ Note that the curvature-central coordinate system does not always unambiguously describe the oriented sphere.
+  If the first element of the given center-coordinate curve m ∈ R n + 1 is different from zero, then the sphere is determined uniformly.
+  However, if the first element is zero (in the case of hyperfusion), the vector is determined by the vector m and only when = 1, whereby the m curvature-central coordinates satisfying this condition is used to determine the set of hyperfunctions obtained by parallel displacement.
+ 96 Definition 5.
+  The extended curvature of the S-oriented sphere given at R n is called the vector coordinates of the center (n + 2) -size, where b is the inverse curve of the S sphere with respect to the unit circle placed at the origin.
+  The extended curvature-center coordinates for hyper-plane will look like this: where b is the curvature of the inverse image H of the hyper plane H with respect to the unit circle placed at the origin.
+ Euclidean R nn - extended curvature in space - the central coordinate system unambiguously determines the sphere.
+  Unlike the curvature-central system, hyper-planes are also uniformly determined by their extended curvature-center coordinates.
+ For the S i, i = 1, n + 2 oriented spheres forming the Cartesian configuration, form the matrix (n + 2) × (n + 2) -measure W, the i-th line of which is the vector w (S i).
+  Since inversion retains the tangibility of spheres, another Cartesian configuration corresponds to the observed configuration, the circles of which are obtained from inverse images of the first circle of circles on the sphere.
+  For these two configurations (8) you can get the connection of the matrices W and W inv. Theorem 4 (Descartes' extended Euclidean theorem).
+  The following matrix equation is correct for the W matrix constructed for the Cartesian oriented configuration consisting of the given oriented spheres. (10) The inverse statement of the theorem is also true. (10) Any real solution of the equation determines the only Cartesian oriented configuration.
+ This theorem describes the Cartesian configurations in the most general way observed so far.
+  It includes all the theorems observed so far.
+  His proof follows this theorem from similar theorems in non-Euclidean geometry.
+ 3. Spherical and hyperbolic generalizations of Descartes' theorem.
+  In the standard model of spherical geometry, space is considered to have a center of radius n, measuring S n at the origin of R n + 1.
+  = {y.
+  y 0 2 + y 1 2 + ... + yn 2 = 1 վրա on the sphere.
+ In the standard model, the Riemann metric defined in R n + 1 is chosen as the metric.
+  The distance between the two points given in this model is the angle between the radial vectors having endpoints at those points, which satisfies the condition 0 ≤ α ≤ π.
+ In the case of such a definition of distance, the set of points parallel to a given point (center) in S n spherical geometry is called a sphere (C).
+  The magnitude of the angle α = α (C) formed by the radius-vectors with vertices in the center of the sphere C and at any point is called a spherical or angular radius.
+  Note that for a given sphere, two centers can be selected that are located on the sphere S n diametrically opposite to each other.
+  The choice of the center of the sphere determines its orientation.
+  In this model, the inner domain of a sphere can be considered as a segment separated from a single sphere by the intersection of the sphere S n and the hyper-plane, which we will call a spherical segment (oriented sphere).
+  It is obvious that with a given sphere one can determine two spherical segments whose sum of radial radii is π.
+  For definiteness, select the segment that contains its center as the inner domain of a given sphere.
+ Definition 6.
+  A spherical Cartesian configuration is called (n + 2) an arrangement of spherical segments touching each other in pairs, where either the inner domains of all spherical segments or all of their additions do not intersect.
+ Theorem 5 (Descartes spherical theorem).
+  Let's be a unit of radius - on the sphere S n are given the spheres C i with spherical radii i i, i = 1, n + 2, which form a spherical configuration of Decar 98, in which case the following relation occurs for the radii i: depending on Descartes' spherical theorem is only from the Riemannian metrics of spherical geometry and not from the coordinate system used to describe the given variety.
+  However, it is possible to prove, as a particular case, a more generalized theorem, which depends on the choice of a certain coordinate system.
+ Definition 7.
+  Suppose C is a spherical segment with center y = (y 0, y 1, ..., yn) and angular radius α.
+  In this case, we will call the curve of the C-spherical segment-central coordinates (n + 2) -the following vector of magnitude: Note that this coordinate system uniformly determines the spherical segment.
+  Equivalence follows from the unambiguous determination of α from the first element of the vector w + (C), which in turn uniquely determines the coordinates of the center of the spherical segment from the remaining coordinates of the vector w + (C).
+ For an arbitrary arrangement of spherical segments C i, i = 1, n + 2, define the (n + 2) × (n + 2) -measure W + matrix, whose i-th line is the vector w + (C i).
+ Theorem 6 (Descartes generalized spherical theorem).
+  Let the given spherical segments C i, i = 1, n + 2 form an oriented Cartesian configuration.
+  In this case, the W + matrix of the configuration satisfies the relation where I n is a unit of the matrix, and the inverse statement of the theorem is also true. (11) Any real solution of the equation corresponds to any Cartesian spherical configuration.
+ 99 For a hyperbolic generalization of the Cartesian configuration, consider the hyperboloid model of H n hyperbolic geometry.
+  In H n, the sphere is also defined as a set of points equal to one point (center) (in the sense of hyperbolic metrics).
+ In the hyperboloid model, the space is observed on the upper H + n part of the H ± n two-hollow hyperboloid placed in space R n + 1
+  Suppose the hyperboloid H ± n is determined by the equation u 0 2 = 1 + u 1 2 + ... + un 2, in which case H + n will be determined by the same equation if u 0> 0.
+  The metric in this model is given by the distance between the points u and u։.
+  From the definition of the distance chosen for the hyperboloid model, it follows that the sphere in that model is born from the intersection of the H + n hyperboloid cavities and the plane G (u) = 0, where it is normalized by the condition g 0 2 = 1 + ∑ gi 2, ie g = The point (g 0, ..., gn) is chosen so that it is located on the upper cavity of the hyperboloid H + n.
+  The sphere defined in this way is an ellipsoid in Euclidean geometry, its center is the point g, and the radius d satisfies the equation ch (d) = g.
+  As in spherical geometry, here, as the inner domain of the sphere, let us take the part of the intersection of the upper cavity of the H + n hyperboloid and the plane G (u) = 0, which includes the center of that sphere.
+ Definition 8.
+  H n-oriented Cartesian hyperbolic configuration is called n + 2 a configuration of hyperbolic spheres touching each other in pairs where either their inner domains do not intersect or the inner domains of two arbitrary spheres intersect with a non-empty open set.
+ Theorem 6 (Descartes' hyperbolic theorem).
+  In H n hyperbolic geometry, the radii si, i = 1, n + 2 of the orientation of the set of n + 2 spheres satisfy the following relation: Definition 9.
+  Suppose S is a hyperbolic sphere with center u = (u 0, u 1, ..., un) and radius s at H + n.
+  Let us call the curvature-central coordinates of the hyperbolic sphere S (n + 2) the following vector of magnitude. For the configuration of the hyperbolic spheres S 1, S 2, ..., S n + 2, let us construct the (n + 2) × (n + 2) -metric W - matrix, whose i-th line is the vector w - (S i).
+ Theorem 7 (Descartes generalized hyperbolic theorem).
+ Suppose a Cartesian oriented configuration of the hyperbolic spheres S i, i = 1, n + 2.
+  The W-matrix constructed for these spheres satisfies the following condition: It is noteworthy that there is a reciprocal correspondence between the Euclidean, spherical and hyperbolic oriented Cartesian configurations, in particular for the W, W + and W - matrices constructed for them, respectively. .
+ .

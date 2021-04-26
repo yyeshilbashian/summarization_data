@@ -1,0 +1,67 @@
+DISCOVERY AND STUDY OF GROUNDWATER BASINS OF ARTENI-ARAGATS SITES
+ It is a vast plateau filled with andesites, andesite-basalts, dacitic lavas, covered in places with tuff, tuff, tufodacite alluvial-deluvial-proluvial sediments.
+The main waterfall of the region is the border Akhuryan river.
+  It starts from Lake Arpi and flows into the Araks River.
+  The second river of the area under study is the Mastara floodplain, which originates from the southern branch of Mount Aragats, flowing into the Metsamor River in the region of Lake Akna.
+From the tectonic point of view, the study area (downstream of the Akhuryan River) is located in the southwestern part of the Araks intermountain depression, the structure of which is given by a combination of separate depressions (represented by Neogene, Upper Pliocene-Anthropogenic sediments).
+  In the southwestern part, under the insignificant lava cover, the upper Miocene sedimentary layers are exposed, which separate the Araks fracture.
+In the study area, which is located in the southwestern part of the Aragats massif, we conducted electrical reconnaissance studies using the method of vertical electrical sounding (UEZ).
+  As a result, geological-geophysical sections of max were built regionally.
+maps of waterproof layer relief (paleorelief).
+  As a result of the studies, the groundwater flows in the area were separated.
+ These data can be the basis for the selection of further hydrogeological work [1, 3].
+1963-1964 The geophysical expedition of the Geological Department of the Republic of Armenia (Asatryan RS, Aslanyan SM, Sargsyan LA) within the Ararat concavity և in the adjacent mountainous and arid regions (including Talin and Ani regions) conducted 1.
+100,000 scale electro-exploration works with the purpose of in-depth geological study by electro-probing method և to discover perspective structures from the hydro-geological point of view.
+1967-1972 The geophysical expedition detachment of the Geological Department (Gozalyan YG, Minasyan RS) conducted 1.
+100000 և 1.
+Electrical exploration works on a scale of 50,000 in Talin, Armavir ևAni regions.
+  The data of previous electro-exploration studies has been processed, the results of our researches have been compared.
+According to the data of our electro-exploration methods, a general map of rock resistance has been compiled for the western slope of Mount Aragats, where rt
+Several low-resistance zones with values ​​of 100-600 ohms max, including the Aragats-Karakertyan wide low-ohm belt (Figure 1) [1].
+ This zone is delineated as a common low-basin groundwater basin, the width of which reaches 1-15 km.
+According to the UEZ, geoelectricity was built along the routes, a comprehensive map of the expansive watershed relief was drawn up, and the main routes of groundwater movement were marked (Figure 2) [1].
+Field work methods և technique.
+ Taking into account the studied depth of 300400 meters as the maximum opening of the feeding line, AB = 1500 m is accepted.
+  The terrain of the area intersects with narrow gorges and gorges.
+  The azimuths in AB associated with this are given by the nature of the terrestrial surface relief (field roads and trails were used).
+  Inspection measurements were made during the fieldwork, which make up 5 և 3% of the total number of monitored points.
+ In field work, A-72 type autocompensator, feed-receiving circuit, light-coated copper-steel KPSMLO wire was used as a measuring device, and BAS-80 dry batteries as power sources [5, 6].
+max map (Fig. 1).
+ ρ թ:
+The results of the work.
+  A r
+On the map of max, in the region of Aragats village, in the north-west of the precinct, the resistance value of 750-1000 ohms is observed.
+ According to the electrical intelligence, the strength of the high-pressure layers in the area of ​​Aragats village is in the range of 150-200 meters, and in the north-west it drops to 40-75 meters.
+  The highest resistance values ​​of 1000-1500 ohms are observed in the south-west of the site, in the northwestern direction of Talin canal it reaches up to 25-50 m, near the banks of Akhuryan river - up to 100 m.
+ The high-altitude areas coincide with the subdivided watersheds.
+  The decrease in ρ's values ​​can probably be explained by the fact that the lavas in that layer are more cracked and some intrusives are water-carrying.
+ These two low-lying zones face northeast.
+  In the south-eastern direction, there is a 250-400 ohm low-resistance zone, which is also connected to the map of the cracked water pipe max. with lava with values.
+ ρ թ:
+ρ թ.
+  Such a sharp change in the values ​​of ρ թ throughout the site is explained by the peculiarities of the geological structures of the various ևlava rocks.
+Figure 1. Arteni-Aragats precinct
+max map.
+1․р թ:
+max isogser, Ohm.m, 2. Wells (M.1.
+25000) The relief map of the regional water-repellent layer of Arteni-Aragats site is made 1.
+On a scale of 25,000, we have taken into account the strength of surface sediments, the rock complex above the waterproof horizon, and the absolute heights of the UEZ-ikets.
+ The presented map shows the main lines of the regional waterproof horizon, the absolute heights of the paleorelief, which allows to determine the distribution of possible water accumulations և the direction of groundwater movement (Figure 2).
+The processing and electrical studies of the performed electro-exploration works allow dividing the Arteni-Aragats groundwater basin into three independent water basins, which are separated from each other by regional water bodies.
+It should be noted that the Central water basins of Aragats are delimited at absolute depths of 800-850 m, and the north-eastern basin of Arten at a depth of 750 m.
+According to the electro-exploration materials, we have estimated the Arteni-Aragats low-lying joint basin with the following areas: a) Central (south-west of Arteni village) approximately 18 km2, b) North-western Arteni 5 km2, c) Aragats (Aragats village area) 10 km2.
+  The last two basins are not defined from the north, they are mainly fed from the western slope of Aragatsler mountain massif.
+Figure 2. Map of the relief area of ​​the Arteni-Aragats site.
+ 1. Direction of groundwater flow, 2. Wells (M.1).
+25000) The underground basin of Aragats is fed by a stream flowing west of it, which is fed from the Kars plateau, especially from the Akhuryan river.
+All the watercourses mentioned on the Paleorelief map are of practical interest for the detection of groundwater.
+ Ultimately, the listed groundwater flows are stretched, mainly flowing into the artesian basin of the Ararat concave, which is a region of groundwater discharge [1, 3, 4].
+ The generalizations of the electro-exploration results carried out at the Arteni-Aragats site allow the following main findings to be made:
+• ρ թ:
+The map of max gives a general idea of ​​the change in the nature of the electrical resistance of the whole area under study, which looks like a lava cover.
+• The change in the strength of the rocks exposed above the regional water-repellent layers has been determined.
+  As a result, the regional waterproof layer summary map was presented.
+• According to the electro-exploration materials, we have divided the Arteni-Aragats low-basin joint basin into three independent groundwater basins.
+• The listed deepenings of the watercourses on the relief of the regional water-repellent layer are in the direction of groundwater movement և the most concentrated areas of accumulation.
+  These sites can serve as a basis for selecting further hydrogeological work.
+GRAKANUTYUNTovmasyan Arthur Artenis-ARAGATS AREAS AND EXAMINATION OF UNDERGROUND WATER AVAZANNERIHAYTNABERUME ELEKTRAHETAKHUZUTYANUEZ METODOVBanali words massif, hydrophobic layer of volcanic lava, storerkryajrahosk, ground pool, paleoreliefi map tsatsraohm zone.

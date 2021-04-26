@@ -1,0 +1,57 @@
+SPIRAL-DISTRESSING SYSTEM FOR SLAVE CAMPS Preliminary.
+ Circuit scanning is commonly used in devices with high time resolution, such as slave cameras.
+ The first experiments began in the 1950s.
+  Much work has been done to create a deflector system that will give electrons a "reasonable" deflection using moderate RH (radio frequency) voltage.
+  Currently, different types of deflectors are proposed, designed and still used.
+ H. Rudenberg showed [1] that dynamic losses due to transient temporal effects in parallel plates can be reduced by substituting plates for very narrow curved plates.
+  The deflection system consisted of two helical transmitters.
+ It was used to measure peak v-electron beams [2], where the temporal solubility of the secondary emission was to be less than 6 ppm.
+  1970s A 200MHz circular scanning camera [4] was created, as well as a 320MHz slave scanner [5] designed to perform laser measurements.
+ Using a 320MHz, 13W RH signal with a phase deviation, it created a 6 mm diameter circle on the screen.
+  The line drawing speed was 6-44 · 108 cm / s, which in turn provided 30-35 seconds of solubility.
+  Later, even the flat plate system exceeded this speed.
+  A speed of 2․85 · 109 cm / s was obtained by Sibbet և others [6] using a 300 MHz, 15W RH signal on the deflector.
+ The resulting 30 mm diameter circle allowed to achieve a solubility of up to 6 seconds.
+Higher-frequency devices with different types of deflection systems were studied in the 1970s.
+ The running channel RH scanning system provided 0.7 s of time resolution.
+  It operated in the 3․6GHz band.
+  In addition, the 3GHz narrow-band resonator has been studied in Yerevan.
+  In 2014, at the Yerevan Institute of Physics, research was conducted with the RH slave chamber, which operates in the 500-1000MHz RH band, with a time resolution of 1-2 seconds [9].
+One drawback of the above devices is that their time dynamic range is small, they can not record signals longer than a few nanoseconds.
+Some work has been done to increase this range, in particular, it has been proposed to perform a spiral scan [10], which takes place due to the change in the amplitude of the signal given to the deflector.
+ Here, in the case of high frequencies, the process of rapidly changing the amplitude was a problem.
+This paper presents a mathematical model of a helical deflection system, which is a pair of deflection systems that are given two frequently spaced signals.
+ This is where the biennial phenomenon comes in, which provides the ability to record more long-range signals.
+1 ․ Spiral-deflection system for slave cameras.
+  The deflection system diagram of a spiral is shown in Fig. In 1, it is two consecutive spiral deflectors.
+Picture 1 ․ Spiral aberration system in the 1960s. It has been proposed by Shama to replace the flat plates of the deflector with a shaft, which allows to avoid transit time effects at high frequencies.
+ The shama deflector is two helical electrodes of relative length λ / 4, separated by d (d '= d).
+ The accelerated electrons, detached from the photocathode, pass through an electrostatic lens and enter a deflection system through the Z axis.
+ At the moment of entry, the electron has a constant velocity Vz. Where e և m is the mass և of the charge of the electron, and Ua is the accelerating voltage of the electron.
+  When leaving the first deflection system, the electron has the following velocity components. [9] Given the principle of overlap, the motion of electrons can be represented as the overlap of two independent motions.
+  The electron velocity components will be described by the following expressions: where և են are the angular frequencies of the so-called Shama համապատասխան for the first և second deflection systems: are the wavelengths.
+Are the angular frequencies given to the first and second deflection systems, respectively.
+  There is the following correlation between the wavelength of the angular frequency (c is the speed of light): ω = 2πc / λ.
+  And և! Է is the transition time of electrons through the first TWO deviating systems, respectively.
+ The length of the deflection system is chosen to be a quarter of the length of the comparison. where ն where n = 1,2,3,4.
+  Further calculations will be made for the simplest case n = 4.
+  In order for L = L 'we need λc = λc' or which is the same: = ՛, then = ՛ = L / Vz.
+  In the first deviating system we provide the Shama condition, that is, the angular frequency of the signal given to the system is equal to the angular frequency of the Shama characterizing the system. And in the second deviating system this condition is provided: ենք denote that ratio by k.. or In the case of the above conditions, taking into account (6) - (12) we will have: As it is known [11] the phase of the electromagnetic wave is expressed as: φ ՛ = ω't + φ0 '.
+We will accept φ0 '= φ0 = 0, և taking into account (11) և (12) we will have the input constant V0 = eEdτ / 2m, where Ed is the amplitude of the signal given to the first deflection system, and the amplitude of the signal given to the second deflection system is expressed as Ed: aEd, where a is an integer.
+  Taking into account all the above expressions, Vx / V0 և Vy / V0- will take the following form: The obtained graphs are obtained for k a's of different k's. C) k '= 1.05; a = 1 d) k '= 1.05; a = 2 a) k '= 1.1; a = 1 b) k '= 1.1, a = 2 c) k' = 1.05; a = 1 d) k '= 1.05; a = 2 Figure 2 ․ When leaving the deflection system, the graphs of the perpendicular velocity components, Vx / Vo և Vy / Vo, for different cases. In 3.a) k '= 1,1; a = 1 b) k '= 1.1; a = 2 c) k '= 1.05; a = 1 d) k '= 1.05; a = 2 Figure 3 ․ Graphs rx / ro ry ry / ro of radii-perpendicular components of electrons as they exit the deflection system for different cases. Thus, by interpreting this image on the screen,
+  It in turn contains information about the excitation signal of those electrons.
+This image is repeated periodically, but unlike a circular scan [9], the repetition period is several tens of times longer than in a circular scan.
+  This allows you to record longer signals without significantly altering the temporal resolution.
+  In particular, fig. 3 d) k '= 1.05; at a = 2։ the solubility is 0.5 per second at the largest radius գալ 1.6 per cent at the smallest radius.
+  Or we can say that the average solubility is 1.05 per second, and the resolution of the regional scan is about 1.59 per second.
+  The repetition rate during a spiral scan is 20 seconds, which is 20 times larger than the periodic scan period.
+ This means that we can record a signal from about 1.5 picovarks to 20 nanovars.
+ These values ​​are obtained when the spatial resolution of the screen is 0.1 mm.
+Conclusion.
+ This article introduces a mathematical model of a spiral deflection system that has several advantages.
+  By transforming the temporal characteristics of the bunch of electrons entering the deflection system into spatial coordinates, this model gives inaccurate results.
+  By performing spiral scanning, it increases the scanning frequency of the device by several tens of times, և at the same time maintaining its multi-peak time resolution.
+  This method allows you to avoid transient events.
+A word of gratitude.
+  I express my deep gratitude to Amur Margaryan, Albert Sirunyan, Robert Ayvazyan, Lekdar Gorgyan, Vanik Kakoyan, Vardan Bardakhchyan for their support and valuable advice.
+LiteratureHayk Elbakyan SPIRAL DISTRICTING SYSTEM FOR AUXILIARY CAMINS Keywords: radio frequency spiral և deflection system, slave camera.

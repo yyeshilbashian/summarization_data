@@ -1,0 +1,72 @@
+NG- hydroxy-L- arginine new-stimulated tumors IMPACT 7:12 DIMETILBENZANTRATSENOV EXPERIMENTAL RATS KRTSKAGEGHDZIKAGHTSKEGHI model has long been known that the formation of malignant tumors yevzargatsumn accompanied by a number of metabolic changes voronknpastavor creates conditions for the growth of tumor cells.
+  A detailed study of a number of metabolic pathways in pathology is carried out, which will give an idea of ​​the factors and mechanisms contributing to the development of cancer.
+  A very important compound is arginine amino acid, which undergoes certain changes during the development of metabolic tumors.
+Interest in arginase has increased in recent years, as a number of studies have shown that the enzyme activity of arginase increases in various types of cancer, particularly breast cancer [2, 3, 11].
+  Research in recent decades has shown that arginase is an attractive target for cancer treatment, and that inhibiting arginase can be a promising way to treat cancer.
+ There are natural and synthetic inhibitors of arginase.
+ Of greater interest is NG-hydroxy-new-L-arginine (nor-NOHA), which is a potent inhibitor of arginase.
+  Studies in recent years have convincingly demonstrated the role of arginazic in tumor immunobiology [4, 9].
+  At present, a sharp increase in the amount of polyamines (sperm, spermidine, putrescine) has been found in malignant neoplasms [2, 5].
+ Polyamines are small molecular weight aliphatic amines that occur in L-argininicatabolism.
+  The enzyme arginase catalyzes the hydrolysis of L-arginine to the l-ornithine զ urea.
+  Polyamines are synthesized from the L-ornithine resulting from the arginase reaction by the enzyme decarboxylase [6, 10].
+ Polyamines are present in all eukaryotic cells, in a number of prokaryotes.
+  The aim of this study was to investigate the antitumor effect of argi (a primary enzyme for polyamine biosynthesis) inhibitor NG nazihydroxy-new-L-arginine (nor-NOHA) in 7․12 dimethylbenzanthracene (DMBA) -induced blood in rats with colorectal cancer in rats. In the study groups during the 5th և 13th week after 12-dimethylbenzanthracene injection.
+Materials և methods.
+  Animals. The object of study was 35 female Wistar rats, 8 weeks old, 90-120 g.
+  The studies were carried out in accordance with the rules of the Bioethics Committee.
+ Rats were divided into 5 different groups: 7 rats in each group: control, physical. solution-checker, DMBA checker, nor-NOHA checker DMBA + nor-NOHA.
+  Stimulation of breast cancer was performed by 1 ml of 20 mg7․12-dimethylbenzanthracene (DMBA) (dissolved in olive oil) in a single intramuscular injection with a syringe at the age of 45-60 days in female rats.
+ The inhibitor, NG-hydroxy-new-L-arginine (nor-NOHA), was dissolved in saline.
+  Intravenous injection of this inhibitor was performed at 3 mg / kg / day (nor-NOHA), 12 injections for 5 weeks, every 3 days, starting from 55-65 days of rats, immediately after intramuscular injection of DMBA.
+ Studies have shown that 13 weeks after DMBA injection, the total amount of putrescine and spermidine ևspermin in the blood plasma increases by 11.5% compared to the control groups.
+  The total amount of rat plasma polyamines in the experimental group DMBA + nor-NOHA decreased by 26.2% compared to the DMBA-control group.
+  Tissue pathological analysis (1-3 tumors, 0.2-0.5 cm) in the breasts of rats (13-3 tumors, 0.2-0.5 cm) indicates the development of invasive endocrine cancer.
+  In rats of DMBA + nor-NOHA group (0-1 tumor, 0.1-0.2 cm) only squamous cell carcinoma in situ is observed during the same period.
+Reagents. HClO4, densyl chloride, proline, ethyl acetate, chromatographic plates, chloroform / triethylamine mobile phase were used in the experiment.
+ The mentioned materials were purchased from "Sigma-Aldrich Chemie GmbH" company.
+Delicate aspiration biopsy of rat breasts. Tissue sampling was performed according to Zbinden's method, with some modifications to the breast.
+Histopathological examination. The examined tissues were stained with hematoxylin և eosin dyes (Sigma-Aldrich Co. Ltd, HEMATOXYLIN STAINS, Procedure No. GHS).
+ The dyed tissues were examined with an optical microscope and photographed.
+  Histopathological, microscopic examinations և The type of tumor was determined according to recently published articles [1, 7].
+DENSILATION OF POLYAMINS և Fine layer chromatography. Morgan's method has been used with some modifications.
+Results processing with Statistica 10 (StatSoft) program. The obtained results are presented with mean ± standard deviation (M ± SD) values.
+ Developed with the help of Statistica 10 program.
+ The results were analyzed by Student t-test (singlesample).
+Results և discussion. The aim of this study was to investigate the antitumor effect of NG hydroxy-no-L-arginine (Figure 1) in a 7․12 dimethyl benzanthracene (Figure 2) stimulated experimental model of rat breast cancer by inhibiting arginase activity.
+Figure 1. Stimulation of breast cancer was performed by 1 ml of 20 mg 7․12 dimethylbenzanthracene (DMBA) (dissolved in olive oil) in a single intramuscular injection with the help of a syringe at the age of 45-60 days in female rats.
+Figure 2. Inhibitor NG-hydroxy-new-L-arginine (nor-NOHA) was dissolved in physiological saline.
+ Intravenous injection of this inhibitor was performed at 3 mg / kg / day (norNOHA), 12 injections with 5 weeks of use, every 3 days from rats 55-65 days.
+ During the experimental work, a study of the quantitative change of polyamines in the blood plasma of rats was carried out in all research groups during the 5th (end of treatment with inhibitor) և և 13 (end of the first tumor) treatment after DMBA injection.
+ Quantitative changes in polyamines (nmol / ml blood) during breast cancer in rats are presented in Table 1.
+Table 1. Quantitative changes of polyamines in rat blood plasma in all experimental groups 5 և 13 (x) weeks after DMBA injection (number of repetitions of each polyamine determination 3, rat age = x + 8, n = 7, Experimental
+Following DMBA injection
+GroupSpeakerFiz. solutionDMBA checker nor-NOHA checkerDMBA + nor-NOHA CheckerPhys. solutionDMBA checker nor-NOHA checkerDMBA + nor-NOHA CheckerPhys. solutionDMBA tester nor-NOHA testerDMBA + nor-NOHA weeksPolyamine
+nmol / 1 ml of bloodPutrecinSpermidineSperminDMBA + nor-NOHA blood plasma levels of rat plasmapitrescine decreased by 21.5% և 17.23% in the 5th և 13th համապատասխան week, respectively, compared to the DMBA-control group.
+  The amount of spermidine decreased by 7.77% և 14.49%, and the amount of spermine by 26.2% և 27.08% after 5 և 13 weeks, respectively.
+ Thus, in the 5th և 13th week, under the influence of nor-NOHA, the amount of polyamines decreases compared to the DMBA-control group.
+Breast histopathological examination of tissue samples was performed in all study groups at 13, 16, and 20 weeks after injection of DMBA, as well as monitoring of weight loss, mortality, tumor counts, and size in all experimental groups.
+ 13 (1-3 tumors, 0.2-0.5 cm) և 16 (3-4 tumors, 0.4-0.6 cm) weeks after exposure to DMBA, histological analysis of breast tissue in rats of the DMBA control group indicates the development of invasive endothelial colorectal cancers (Figure 3).
+a
+B:
+C:
+Figure 3. Histological examination of the breast of rats of DMBA group.
+ 13 (A) և 16 (B և C) weeks after DMBA injection (rat's 21 և 24 weeks).
+ Staining with hematoxylin և eosin.
+ Magnification: x400.
+In rats of the DMBA + nor-NOHA group, 13 (0-1 tumor, 0.1-0.2 cm) և 16 (1-2 tumors, 0.2-0.3 cm) weeks later, only squamous cell carcinoma was observed in situ during the same period (Figure 4).
+DMBA + nor-NOHA Figure 4. Histological examination of breast tissue of DMBA + nor-NOHA group.
+ 16 weeks after DMBA injection (rat age 24 weeks).
+ Staining with hematoxylin և eosin.
+ Magnification: x400.
+Tumor quantities և size assessments were performed in the DMBA-control և DMBA + nor-NOHA experimental groups 20 weeks after carcinogen injection (Table 2).
+Table 2. Estimation of tumor size և size in rats 20 weeks after DMBA injection (rat age 28 weeks) DMBA test in DMBA + nor-NOHA groups 20 weeks after DMBA injection in rats
+Experience. group tumor number (item) / size (cm) 1st, 2nd, 5th և 6th pair2nd և6th pair2, 3rd և4th pair2nd pair4 4th pair0 / Armenian
+Tvangangiogen
+Quantitative analysis of tumors in rats showed that the number of tumors in the DMBA + nor-NOHA test group was lower than that of the experimental group in the experimental group.
+  In particular, 20 weeks after the DMBA injection, the number of tumors in the DMBA + nor-NOHA group decreased twice as much as in the first rat compared to the DMBA control group.
+No tumor was found in 1 rat from DMBA + nor-NOHA group ․ permitted angiogenesis has been observed (Figure 3).
+ We conclude that a decrease in the amount of polyamines by inhibiting the activity of arginase may have an anti-tumor effect on the development of cancer, in particular, on the processes of angiogenesis and metastasis.
+LITERATURE [9] Munder M., (2009) Arginase.
+ an Emerging Key Player in the Mammalian ImmuneCells and Tolerance in Cancer.
+ Mechanisms and Therapeutic Perspectives. Immunol Rev., Avtandilyan Elmira, Minister Mary Mamikonyan Anahit, Javrushyan Hayarpi NG- hydroxy-L- arginine new-stimulated tumors IMPACT 7:12 DIMETILBENZANTRATSENOV EXPERIMENTAL RATS KRTSKAGEGHDZIKAGHTSKEGHI MODELUMBanali words, breast cancer, poliamin, arginaz, DMBA, an anti-cancer effect.

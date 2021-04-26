@@ -1,0 +1,63 @@
+GREEN macroalgal PARACHLORELLA KESSLERI- TARBERAGHBYURNERI UNDER THE JRATSNIARTADRUTYAN PECULIARITIES carbon hydrogen (H2) production of a variety of Substrates and waste efficient, environmentally friendly and one of the most promising ways of getting renewable energy source and can play an important role in energy khaghalaylentrankayin H2-.
+ Compared to other methods, the production of biological H2 has a number of advantages, especially the use of inexpensive substrates, processing at low temperatures, lower production costs, particularly in the production of H2 in photosynthetic organisms that use sunlight as an energy source [1, 2, 3 , 4].
+ One of the most important aspects of H2 energy at present is the choice of conditions for H2-producing organisms to ensure a high output of H2.
+The production of H2 in different organisms involves different pathways: atmospheric photosynthesis of organic compounds, direct-indirect biophotolysis of water [1, 2, 3, 5, 4].
+ The production of so-called algae H2 is of great interest due to a number of advantages, such as natural origin, efficiency, use of solar energy and water recovery ability [1, 5, 6].
+It is known that the production of H2 in phototrophs is carried out by the assimilation of stored compounds, և can be stimulated by the addition of carbon substrates.
+ The choice of carbon source for the growth of photosynthetic organisms is a serious problem, as it strongly affects the production of H2 [3, 4].
+ Substrates may be selected that algae can assimilate effectively by stimulating H2 output.
+Hydrogenase enzyme, which belongs to the class of Fe-hydrogenases, is involved in the production of H2 in green microalgae, has a high activity and is synthesized under anaerobic conditions [1, 5].
+This study investigated the effect of various organic carbon sources on the growth of ch H2, a growth of the green microalgae Parachlorella kessleri.
+Object of research և methods.
+ The green microalgae strain P. kessleri RA-002 was used in this work.
+  We grew microalgae in aerobic conditions in the liquid food environment of Tamia (shaking at a speed of 100 rpm), under 2000 lux lighting, with the presence of fructose, glucose acetate as carbon sources.
+  Growth medium pH was maintained at 7.5.
+Microalgae growth was detected by measuring the optical density of the suspension using a Spectro SP-2000 (Hinotek, China) spectrophotometer under a light wavelength of 680 nm (OD 680).
+ The determination of the amount of photosynthetic pigments of P. kessleri was carried out by two-dimensional spectrophotometric method, which allows to determine the concentration of photosynthetic pigments chlorophyll a-b in the total mixture of pigments [8].
+ 96% ethanol was used as a control.
+ In 96% ethanol, the amount of chlorophyll a և b was determined by Wintemans և De Mots, and the number of carotenoids was determined by Wettstein's formula [8].
+The ambient pH was determined using an ionimeter (pH 302, HannaInstruments, Portugal) and adjusted to 0.1 M NaOH.
+ Growth medium pH was maintained at 7.5.
+ The EPV-01 flat-point platinum glass electrode was used to measure the ambient OVP.
+After stabilizing the OVP drop recorded by the platinum electrode, the output of H2 was determined, which in turn was calculated according to the OVP value expressed in mmol / l [9, 10].
+ For the study of H2 production, the microalgae were centrifuged in the stationary growth phase at 2000 rpm for 7 min, then transferred to the Trisacetate Buffer (TAP) medium (pH 7.5).
+ Fructose, glucose and acetate were used as carbon sources at a concentration of 1 g / l.
+Research results և their discussion.
+  In phototrophs, the production of H2 is carried out by the assimilation of stored compounds, և can be stimulated by the addition of external carbon substrates [1, 3].
+ The choice of carbon source is a problem for the growth of photosynthetic organisms, as it can affect their growth և H2 output.
+It is possible to select carbon sources that algae can assimilate effectively, will be available, stimulating the output of H2.
+The growth characteristics of P. kessleri green microalgae և H2 production characteristics were studied under illumination in the presence of various organic sources of carbon: acetate, glucose և fructose.
+It is known that during the phototrophic growth of green microalgae a photosynthetic system is formed, which consists of two light-collecting complexes (photo system II (P680) և photo system I (P700)) [1, 3].
+ Photoreceptor complexes include proteins and pigments such as chlorophyll a (Cl a), Cl b ն carotenoids.
+The pigment composition formed during the growth of P. kessleri was found to be sensitive to the composition of the environment (Table 1).
+  As shown in Table 1, the highest amount of Cl a և Cl b was found in acetate-grown P. kessleri at 15 և 11 mg / l, which was approximately 1.2 times higher than the number of chlorophylls grown in a glucose-containing medium. testifying to the fact that acetate is a more effective substrate.
+  On the other hand, higher levels of carotenoids were observed in P. kessleri grown in a fructose-containing medium, which was 1.2-1.4 times higher than carotenoids in algae grown in the presence of acetate և glucose.
+Carbon sourceCl a, mg / lCl b, mg / lAcetateFructoseGlucoseCarotenoids, mg / lTable 1. Variation in the amount of photosynthetic pigments in P. kessleri by the presence of different sources of carbon. on changes.
+ The OVP medium is an important criterion that can be described as the ability of a biological system to oxidize or reduce various substrates.
+ Positive և negative values ​​indicate the oxidized և reduced state of biological systems.
+Different Organic Carbon Sources ամ The combination of dark and light phases has a different effect on P. Kessleri's environmental OVP.
+ In the presence of acetate, P. Kessleri's GHP grown under 72 h of continuous lighting gradually decreased to 4480 mV (Figure 1).
+ The similarity of OVP indicates the stimulation of regenerative processes, which characterize the production of H2 and the metabolism of algae under aerobic conditions.
+  In P. kessleri grown under fructose և glucose in 72 h of continuous light conditions, a decrease in OVP was observed, respectively, up to -455 mV և -430 mV (Figure 2).
+ Under anaerobic conditions, such a change in OVP is associated with a decrease in oxygen production and a stimulation of H2 production.
+Figure 1. Changes in P. kessleri's environment with the presence of different carbon sources.
+The pH of the environment is one of the important criteria for the growth of microorganisms.
+ In the presence of acetate, the pH of the P. kessleri medium increases anaerobically during growth (up to 72 h) from 7.5 to 8.0 (Figure 2), while in the presence of the other two carbon sources the pH decreases to 7.0, which may be due to be produced by different metabolic products (Figure 2).
+Figure 2. Effect of different carbon sources on the change in pH of P. kessleri (pH was determined by the pH difference of the culture grown at ժ 72 h).
+Production of H2 in P. kessleri by different sources of carbon.
+ The production of H2 in P. kessleri with different carbon sources has been studied.
+  Acetate, glucose and fructose were used as sources of organic carbon.
+  H2 production was observed with the presence of three sources.
+  The concentration of the carbon source is also an important factor that can affect the output of H2.
+ It turned out that the optimal concentration of organic carbon source for P. kessleri is 1 g / l.
+As can be seen from Figure 3, the output of H2 is highest in P. kessleri grown in the presence of acetate under constant illumination.
+ The production of H2 may be due to the absorption of O2 և by the stimulation of Fe-hydrogenase synthesis, which occurs under anaerobic conditions.
+ In the presence of fructose և glucose, a decrease in H2 output is observed, and in the case of glucose, the output of H2 is about 2 times lower than in acetate (Figure 3).
+ It is noteworthy that P. kessleri stored in the dark does not produce H2, which indicates the involvement of the photosynthetic system in the production of H2.
+Figure 3. H2 output in P. kessleri with different carbon sources.
+Thus, the obtained data will help to clarify the mechanisms of H2 production in green microalgae, and acetate can be used as an efficient source of carbon for the production of H2.
+LITERATURE [2] Марков С. А., Biohydrogen.
+ possible use of water and bacteria for Producers of Molecular Hydrogen.
+  an Electrochemical and Bioenergetic Approach. In.
+[9] Trchunyan A., Baghramyan K., Poladyan A., Gabrielyan L. Biophysics of biological membranes, bioenergetics և biochemistry, Yerevan, YSU Publishing House, 2012, p. 128.
+Manoyan Jemma GREEN MINOR SALT WATER FEATURES IN PARACHLORELLA KESSLERI WITH CARBON VARIOUS SOURCES WITH source: bile, Source k

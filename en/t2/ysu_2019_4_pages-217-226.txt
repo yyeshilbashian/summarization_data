@@ -1,0 +1,46 @@
+CONTINUOUS MONITORING OF GLUCOSE DENSITY WITH MICROWAVE SENSITIVITY In the 21st century, there is a great demand for accurate biosensors in both clinical monitoring and biological research, as well as in the food industry.
+  During development, glucose biosensors have adopted several forms of operation based on electrochemical, optical, piezoelectric, thermal, or mechanical principles.
+In order to better characterize the glucose concentration in the solution, the near-field microwave microprobe (NFMM) capability of non-touch penetration was used instead of conventional methods.
+ High-sensitivity MDM has been developed for microwave և millimeter range measurements, the potential of which is to determine glucose-electromagnetic properties, in particular glucose density, in an aqueous solution of glucose without penetration.
+ Continuous monitoring of glucose concentration is of significant clinical significance.
+ In this work, glucose concentration was monitored by MDMM method.
+ The MDMM glucose biosensor consists of a high-quality dielectric resonator to which a metal-edged probe is connected for a working frequency of 4-5 GHz, respectively.
+ Due to the change in glucose density, the change in the dielectric permeability of the solution was studied by measuring the S11 coefficients of microwave reflection of the resonator.
+  As a result of the experiments, a minimum glucose concentration of 0.5 mg / ml was obtained.
+Theory. In the work the glass stand - aqueous glucose solution - air system with three environments was studied.
+ The principle of operation of the phenomenon can be explained by the flat wave model [4].
+  The reflection coefficient S11 with the intermediate wave resistance is interpreted as follows: where S11 is the microwave reflection coefficient, Z0 is the ultra-complex probe wave resistance, Z0 = Z0
+I, Zin is the input-complex wave resistance of the system, which can be written as follows: where KS is the wave vector of the substrate (103 m -1, εS = 5, 2 GHz), t (cid).
+2911) - the air wave resistance (377 ohms) and the wave vector (46 m-1 at 2 GHz, respectively).
+ From the expressions մուտ (3) քային for the input-complex resistance we can write where ε (cid.
+2917) is the dielectric permeability of glucose.
+  (1) The equation has the following final form: the complex resistance is regulated by Z (cid).
+Եւ Theoretical calculations of measurements fit well at the end of the probe. Thus, as the glucose concentration increases, the reflection coefficient decreases according to (4) և (5).
+ The dependence of the dielectric permeability on the concentration of glucose in the solution is linear և is often expressed by the increase of δ molar.
+  The relative dielectric strength of an aqueous solution of glucose can be written as ε (cid).
+4593) increase in dielectric permeability for real աս counterfeits when glucose density increases by one unit (δ (cid).
+Experimental circuit of the device ․ The basic experimental scheme of MDMM used during the experiment is shown in Figure 1.
+  The glucosensor sensor consists of a high-performance dielectric resonator attached to the end of a probe.
+ Using the feedback system via tuning fork, the probe-sample distance is adjusted to a distance of approximately 0.5 μm from the surface of the glucose solution.
+ The diameter of the gold probe used in the experiment is 50 microns and is attached to one of the legs of the tuning fork.
+  Samples with a glucose solution of 20 microns in different densities are placed on an energy scale.
+ To determine changes in glucose densities, the reflection coefficient of the microwave resonator S11 at a frequency of 4.5 GHz was resonated.
+Picture 1 ․ MDMM block diagram used in this research.
+All tests were performed at a temperature of 25 0C.
+ TE01 mode was used, for which the unloaded quality of the resonator is 24000.
+  A network analyzer was used to measure S11 reflectance coefficients.
+Applications ․ Figure 2 shows the dependence of the glucose density on the microwave reflection coefficient of distilled water up to 300 mg / ml at 50 mg / ml.
+  As the glucose concentration increases, an increase in the S11 reflectance of microwave resonators is observed.
+Picture 2 ․ Dependence of S11 microwave reflection coefficient on frequency: (a) distilled water, glucose solution: (b) 50 mg / ml, (c) 100 mg / ml, (d) 150 mg / ml, (e) 200 mg / ml, (f) 250 mg / ml, և (g) at concentrations of 300 mg / ml.
+The change in the S11 microwave reflection coefficient is due to the change in the dielectric permeability of the glucose solution.
+Figure 3 shows the glucose-dependent behavior of the S11 microwave reflection coefficient.
+  In case of distilled water, the value of S11 is -52 dB.
+As the glucose concentration increases, the dielectric permeability increases, hence the reflection coefficient.
+  The reflection coefficient S11 has the lowest value in distilled water.
+Picture 3 ․ The dependence of the S11 microwave reflection coefficient on glucose concentration.
+The maximum value of the reflection coefficient was observed in the case of the sample with the highest glucose concentration, ie 300 mg / ml.
+  To characterize glucose sensitivity, the S11 coefficient was measured at low concentrations up to 5 mg / ml in the range of 0.5 mg / ml.
+  Due to the increase in dielectric permeability of the solutions, the S11 reflection intensity increased (as expected).
+Conclusion. The results show that the reflection coefficient S11 of the microwave resonator at a resonant frequency of 4.5 GHz is definitely dependent on the glucose concentration in the solution, and the MDMM method can be used for continuous glucose monitoring.
+LITERATURE Resonator Biosensor for Aqueous Glucose Solution, Rev. Sci. Instrum, 2008, 79.
+086107.Hovhannisyan CONTINUOUS MONITORING OF MICROWAVE GLUCOSE DENSITY Keywords: glucose, microwave microscope, reflection FACTOR, ripple resistance.

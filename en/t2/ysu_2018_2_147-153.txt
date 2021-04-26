@@ -1,0 +1,84 @@
+CONDITIONING IN INTERNATIONAL PRIVATE LAW A differentiated approach is observed in practice in the theoretical literature on collisional relations in relation to conditional obligations in private international law.
+ Thus, the German lawyer Rape offers the following option for the classification of conditional liabilities.1. Unjust enrichment that arises within the existing relations between the parties.
+ Status of applicable legal relationship: lex causae, 2. Unjust enrichment when there is no legal relationship between the parties. The law of the State where the act of unjust enrichment took place is applied: lex loci actus [1].
+At first glance, such a classification is exhaustive in nature; it includes all possible theories of unjust enrichment.
+ However, it should be noted that a situation is possible when the relations between the parties are presumable by nature.
+ This is particularly the case when, for example, the legal basis for the transfer of property disappears (for example, a transaction).
+ In this case, there is virtually no legal relationship between the parties, but it is, in fact, presumed.
+ Therefore, in such a case, the lex loci actus collision relationship proposed in the above classification should not be limited.
+Due to the logic of further elimination of the foundation, the relevant regulation is defined by the Civil Code of the Republic of Belarus [2].
+  In particular, according to Article 1131, a general norm is envisaged in connection with the lex loci actus collision, which also defines the following: "If the unjust enrichment occurs as a result of the elimination of the basis on which the property was acquired or saved, the law of the country that applies to that basis shall apply."
+It is noteworthy that due to the presumed legal relationship, the choice of the applicable law should not be limited to the elimination of the legal basis.
+ For example, a contingent liability may arise as a result of an erroneous transfer when the victim assumed that he or she was obligated to make such a transfer.
+ In this case, the right that would apply to the alleged relationship must be applied.
+Such an approach has been reflected in the legal regulations of many countries.
+ Thus, for example, RF Civil. According to the second point of Article 1223 of the Criminal Code, “If unjust enrichment took place within the framework of existing or presumed legal relations, in connection with which property was acquired or saved, then the law of the state that applies It could have been applied to that legal relationship. ”
+ Such a regulation, that is, the provision of existing և supposed legal relations, proceeds from the essence of the condition.
+ However, the settlement is not completely acceptable. It is not clear what is the reason for the separation of the forms of enrichment extraction, if we take into account that from a practical point of view, whether enrichment is through savings or acquisition, the regulation will not change.
+The Swiss Code of Private International Law also provides for the regulation of the law applicable to a presumed legal relationship. "Claims arising from unjust enrichment shall be governed by the law applicable to an existing or presumed legal relationship."
+  It is noteworthy that such a conflict settlement is given first, and the right to the place of enrichment is envisaged in the next point in case of impossibility of applying the first one, at the same time offering another, more interesting regulation.
+  Thus, Article 123 stipulates that the conditional claim is submitted to the court of the defendant's place.
+ The second part of Article 124, envisaging the lex loci actus collision norm, in parallel defines the lex fori settlement of the agreement of the parties, which is the de facto right of the defendant.
+ We can state that Swiss law has attempted to extend as much as possible the principle of autonomy of will in the case when there was no prior relationship between the parties.
+  However, the principle of lex voluntais was not directly envisaged, with which we fully agree ․ The condition, by its "unforeseen" nature, cannot in itself have a pre-determined right to be applied.
+Referring to the second group of the above classification, lex loci actus, it should be noted that this regulation is the most common approach, which is interpreted as a general norm of the law applicable to the condition.
+The question of what is considered to be the place of unjust enrichment needs a separate clarification.
+ Consider the following situations.
+ Thus, A makes a wrong money transfer from Germany to B, who is in France.
+  Will the law of Germany apply, where the actual operation on the basis of the origin of the enrichment took place, or of France, where the unjust enrichment took place, the increase of B's ​​assets through the acquisition of property?
+ Another situation.
+ A, who is a resident of France, undertook to transfer a certain amount of money to German resident B under a contract, but he does not make a transfer, that is, he gets rich unjustly, saving his money.
+  In this case, the basis for enrichment, inactivity and increase in assets took place in France.
+ Therefore, in fact, in order to determine the country of unjust enrichment, one must take into account where the enrichment itself takes place directly, the increase of assets in the case of the enriched person.
+ Linking the applicable right to actions that lead to enrichment is not very effective due to the difficulty of localizing that action, for example when the recipient's data is incorrectly filled in during one of the shipments.
+Thus, we can state that the regulations in different countries stand out with certain peculiarities.
+  Unified norms on conditional obligations are absent.
+Such a unification can be considered the model Civil Code of the CIS countries [5], Article 1231 of which proposes the following regulation: 1. Obligations arising from unjust enrichment shall apply to the law of the State in which the enrichment took place.
+2. If the enrichment took place as a result of the elimination of the grounds on which the property was acquired or acquired, the law of the State which applied to that ground shall apply.
+ The concept of unjust enrichment is determined by the law of the [respective] state.
+In fact, this legislation does not envisage a new type of collision connection.
+ The existing imperative requirement on the concept of enrichment is more remarkable.
+ It is difficult to agree with this norm at least because Article 1026 of the Model Code defines the concept of unjust enrichment as defined by our national legislation, ie limited to property, in which case it would be more effective to restrict the interpretation of the concept.
+Speaking of attempts at unification, it is necessary to mention the unification of the collision norms governing the non-treaty relations of the European Union, which was named Rome-II.
+ We can state that this regulation is in a unique system that corresponds to the essence of the most detailed, overloaded foreign relations.
+ It is set out in Article 3 of Chapter 3 of the Regulation, which provides, in particular, for the following regulation: the law of the country governing that relationship.
+2. If the law applicable to the procedure provided for in paragraph 1 may be determined և the place of residence of the parties coincides with the State of the place where the legal fact which led to the unjust enrichment took place, the law of the State of that legal place shall apply.
+3. In case of impossibility to determine the right to be applied by the first two rules, the law of the state where the unjust enrichment actually took place shall apply.
+4. In the event that it becomes clear that the obligations arising from unjust enrichment are more closely linked to another country than that set out in the preceding paragraphs, the law of that State shall apply. [6]
+Theorists call this regulation the "cascade of collision bonds" [7] due to the degree of application of collision norms.
+  As we note, Rome II does not envisage the use of lexvoluntaris collision bonds, instead defining different ways of expressing lex causae cl lecloci actus bonds.
+ Thus, the second point envisages the application of the right to the place of the legal fact, which has led to unjust enrichment.
+  This means that it is not about the place of enrichment.
+ Such a situation would be, for example, when a person makes a wrong transfer from France to an account opened in Germany, and the account belongs to a person who also resides in France.
+In such a case, we think the application of French law will be more effective, so the EU regulation in this regard really provides for optimal regulation.
+The lex causae connection is interpreted in two ways. In one case, the right to an existing or presumed legal relationship is presented, and in the fourth point it is presented as a collision with an advantage over the other three points.
+ The existence of such a regulation is encouraged; it provides an opportunity to provide a more effective solution to the problem in the event of any outages.
+In the case of liabilities arising from unjust enrichment, in case of being encumbered by a foreign element, the regulation on the law to be applied envisages the RA Civil Code. Collision Norms of Article 8190, Chapter 81.
+  It should be noted that the regulation of air conditioning in the international private sector is regulated by national legislation for the first time, "the norms" have not changed.
+RA City Article 1290 of the Code of Criminal Procedure provides the following regulation on the law applicable to liabilities arising from unjust enrichment. "Obligations arising from unjust enrichment shall apply to the law of the State where the unjust enrichment took place, unless otherwise provided by the agreement of the parties."
+As it seems, the Legislator gives preference to the principle of self-government of the will, lex voluntaris. If the parties have agreed on the applicable law, the conditional relations are regulated by the law of that state.
+ We think that such a regulation does not correspond to the essence of the institution of unfounded enrichment.
+ As we have already discussed, condition is a unique economic category, when as a result of incorrect distribution of property values ​​there is a need for their redistribution.
+  In fact, these are mostly relations whose occurrence is not predictable, therefore, it is not very logical to talk about an agreement on the right to a condition.
+ The same can be stated taking into account that conditional liabilities are classified as non-contractual.
+We can talk about the agreement on the applicable law only in the case when the parties have been in a certain obligatory relationship beforehand, have agreed on the right to be applied to them, and later conditional obligations arise within the framework of the same relationship.
+  However, such an option is a special case, "it is possible" that not a lex voluntaris, but another collision norm will be applied to the existing contractual relations between the parties, and since Civil. eg is limited to the use of lex voluntaris collision, the current regulation will lead to the use of lex loci actus collision.
+ Therefore, we think it is more expedient to exclude from the article the possibility of an agreement between the parties regarding the applicable law.
+ Instead, more effective regulation should be provided for cases where contingent liabilities arise in relation to existing or presumed relations between the parties.
+ Therefore, we think that the lex loci actus connection should be considered as a general norm, lex to envisage the lex causae connection with the existing or supposed legal relations as a special connection, as a result of which a unique pandek system of ecological regulation is obtained.
+Summing up the above, it is proposed Article 1290 of the Code of Criminal Procedure shall read as follows: “The law of the State where the unjust enrichment took place shall apply to liabilities arising from unjust enrichment.
+If the unjust enrichment took place within the framework of existing or presumed legal relations between the parties, the law of the state that is or could be applied in relation to that legal relationship shall apply to the obligation arising from unjust enrichment.
+LITERATURE http.
+//grazhkod.ru/chast-tretya/razdel-6/glava-68/statya-1223-gk-rf/kommentarii[1] Haykyants A., Private International Law, Yerevan, YSU Publishing House, 2013, page 400.
+https:
+//www.wipo.int/edocs/lexdocs/laws/ru/by/by027ru.pdf. https:
+//www.hse.ru/data/2012/06/08/1252692468/SwissPIL%20%D0%B2%20%D1%80%D
+URL.
+(date of address.
+ 11.09.2017) .URL.
+ http:
+//docs.cntd.ru/document/901776572 (date of application.
+ 19.07.2017) .prave, subject to application of non-negotiable obligations ("Rome II"), URL.
+http:
+//eulaw.edu.ru/spisok-dokumentov-po-pravu-evropejskogo-soyuza/reglament-864(да General
+ 15.08.2017). Meliksetyan LouisaCONDICTION IN INTERNATIONAL PRIVATE LAW Keywords: unjust enrichment, condition, international private law, collision bond, collision norm.

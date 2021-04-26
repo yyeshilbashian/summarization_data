@@ -1,0 +1,63 @@
+LIMIT TO THE STANDARD PROBLEM AND ITS DOUBLE PROBLEMS The permissible range of optimal decision-making models, when looking for solutions to the latter, often provides useful information as to whether or not a given domain is limited.
+ The existence of an optimal solution immediately follows from being limited, not empty.
+ It is more interesting to consider the problem of linear programming խնդիրը the dual problem of the latter արկել to discuss the case of simultaneous restriction of their allowable domains.
+Consider the standard problem of linear programming և its double problem, where A is a numeric matrix of size mxn, x = (x1, x2,… xn) are called principal variables, y = (y1, y2, ... ym) are binary variables, s = b-Ax = (s1, s2,… sm) ≥0 will be called deficit variables of the main problem, and d = yA-c = (d1, d2,… .dn) ≥0 - surplus variables of the double problem.
+Lemma 1. Suppose that the allowable range X = ({x, s}, Ax + s = b, x≥0, s≥0) is given, which is not empty. In that case, for the variable xj to be limited to X, it is necessary և is sufficient for the vector v≥0 to exist such that vA≥0, vAj> 0, where Aj is the jth column of the matrix A.
+Proof. xj in the finite X means that after Ax + s = b, x≥0, s≥0, there exists such a K number. that xj≤K.
+ According to Farkash lemma1, for such a sequence to occur, և is necessary և sufficient for a vector v to exist such that v (A, I) ≥ (uj, 0), vb≤K, where uj = (0, ... 1, ... 0) is a unit vector, written 1 in the i-th place, and (A, I) is the matrix obtained by adding the columns of the unit I to the matrix A.
+ If the regression occurs for a certain K, that is, xj is finite, then the required v exists.
+  On the other hand, if the required v has a value, it can be changed by dividing by vAj so that the regression takes place, և xj is finite.
+Lemma 2. Suppose x ∊ 𝑋, in which case in order for si to be infinite in X, it is։ sufficient that a vector z exist such that Az≤0, (Az) i <0.
+All solutions of the constraint system can be written as follows: 2 where Aξ + σ = b ξ≥0, σ≥0 և Aη + ζ = 0 η≥0, ζ≥0.
+ Thus, if si is infinite, then there must be a vector (η *, ζ *) in which ζi *> 0, otherwise maxt | σi | t would be the upper edge of si.
+  Now choose the variable z as η *.
+  On the other hand, if such a vector z exists, then for any x∊ x the vector x + θz satisfies the following conditions: A (x + θz) ≤b, x + θz≥0 for each θ≥0.
+ It follows that si = bi- (Ax) i-θ (Ay) i≥θ (-Ay) i, that is, si is unlimited.
+Similarly applying Lemma 2 for a double problem, we get that d will be infinite և only if there exists a vector v≥0 such that vA≥0. (VA) j> 0.
+1 See Fan K., On systems of linear inequalities, Princeton University Press, 1956, p. 108.
+2 See Goldman A., Resolution and separation theorems for polyhedral convex stes, Linear Inequalities and Related Systems (HWKuhn and AW Tucker, eds.), Princeton University Press, 1956, pp. 44-45.
+The proof will be obtained immediately by applying the second term after the constraints -AT yT + dT = -cT, yT≥0, d≥0.
+The following theorem immediately follows Lemmans. Suppose that the standard problem of AP is given, its double problem, whose allowable ranges are not empty.
+ In that case xj will be limited to X և only if dj is unlimited to Y.
+ Fluently for the variable y of the problem և for the variable s of the principal problem.
+The proof immediately follows the lemmas.
+ The results of the theorem can be represented by the following system, where, for example, X is the number of unlimited variables x and X s is the number of variables.
+Hence follows the following theorem: A standard problem with a given non-empty permissible domain's its quadratic limit of variables is the same as the number of unlimited variables m + n.
+Applying all this, we can get a generalization of Clark's theorem: A standard problem of AP is given, the allowable range of which is not empty.
+ In this case, its allowable range will be limited only if all the variables of the double problem, y և d, are unlimited.
+Proof.
+  If the allowable range of the problem is not empty և limited, then the main problem has an optimal solution, then the dual problem also has an optimal solution, just as if the allowable range of the dual problem is unlimited (hence also not empty), then the AP problems will again have an optimal solution.
+ That is, in both cases we can use system (1).
+ From the 1st և 3rd equations of the system we get that X ս = n և S ս = m it և only if D ս = 0 և Y ս = 0.
+Prove the following statement: Theorem 1.
+  If all the si variables of the standard AP problem are unlimited, all the variable xj variables are also unlimited.
+Proof.
+  If S ս = 0, then Y ս = n.
+  However, if Y s = m, then D an = 0, from which it follows that X an = m.
+From this theorem follows the following remarkable fact: given the standard և for its dual problems, the permissible ranges of the variables x և y cannot be both finite or unlimited at the same time.
+Note that the following fact follows from Lemma 2 և Theorem 1: x will be finite in X only if the solution of the homogeneous inequality system corresponding to the standard constraint system, Ax≤0, is a vector of only 0.
+The solutions of the homogeneous system of constraints of the AP problem are the set of so-called recessive directions, where the directions by which we take a step in any given point in the given allowable range are considered recessive2.
+ In other words, the mentioned result shows that after having a homogeneous system of inequalities with only 0 solutions, the permissible range of the problem is limited. This reflects the simple fact that there is no such thing as a non-zero vector that does not go beyond the permissible range when moving indefinitely.
+Consider the case when k of the standard problem variables of AP is restricted to the given allowable range and nk is unlimited.
+  In this case, if we assume that all elements of the matrix A are nonzero, we will have that all the excess variables s will be infinite.
+  However, in this case, according to the theory presented in the paper, all the major variables of the dual problem will be limited to their permissible 1 See Clark F., Remark on the constraint sets in linear programming, American Mathematical Monthly, 68 (1961), pp. 351-352.
+2 See Zorkaltsev B., Kiseleva M., Systems of Linear Inequalities, Irkutsk, 2007, pp. 33-35.
+in the domain followed by the constraint of all d variables on the dual problem.
+ According to the generalized Clark theorem, in that case it is necessary և sufficient that all the variables x be unlimited, or in other words, that the allowable range of the problem GC be unlimited according to all the variables.
+  There was a contradiction. In fact, our assumption that all elements of matrix A are nonzero is incorrect.
+ That is, it turns out that if all the variables are finite, the elements of the matrix corresponding to at least the number of unlimited variables (nk) must be equal to zero.
+The presence of a zero element in the matrix means the absence of a given unlimited domain factor (variable) in a certain process (s).
+ This will happen when not all of the given x variables accept unlimited values ​​in the allowable range.
+Let us now consider the linear model with the least cost, that is, γ h որտեղ min where γi is the unit cost of using the i-th technology, and h is the technology intensity, d is the minimum volume of the required product, and the aij element of the matrix A is shown. gives the release or consumption of product j in case of application of the i-th technology.
+The dual problem of the latter will look like this: In the dual problem xi is the selling price of a given product.
+ Note that here the manufacturer may decide to work at a loss in the short term (this is expressed in the case of Ax <γ).
+In other equal conditions, the production of at least level 0, ATh≥0, can be accomplished not only by direct non-production, hence h is unlimited, hence the limitation of the choice of selling price.
+  If for at least one of the products we only need to provide a value not exceeding a certain level of consumption (d is negative), և we will not be able to provide net output, then it turns out that the solution for a system of homogeneous inequalities is only a vector of 0, ie h will be limited and x will be unlimited.
+In fact, within the framework of this model, we get that either price limitation is possible (in fact, this is exactly the case), or the determination of the intensity of technology application (which will also directly affect the volume of production) is unlimited.
+ In these other similar models, the structural variables of the main problem are the prices or the quantity of production, and the dual ones are the opposite.
+  From all this we can assert that in a competitive market the alternatives of determining prices (so-called shadow prices) և production level cannot be limited at the same time.
+Naturally, the results obtained on the infinity of economic factors are first of all conditioned by the content of the given model, and the introduction of new economically justified restrictions, aiming to make all variables in the limited permissible range, will lead to breaking the connection between dual problems. content.
+ On the other hand, in these other similar models, infinity can be considered as a phenomenon when the business entity can have a very large impact on a given factor at the moment, incurring certain losses, losses or other risks in the short term, while taking into account its long-term benefits. , strategic goals, etc.
+  The results conditioned by the latter are not included in the studied models, և this very absence causes the contradiction between the infinity of the variable և its economic interpretation։.
+  After all, the allowable range represents a mere set of alternatives from which the business entity must make a choice, and the so-called infinitely large values ​​are far from optimal.
+Arman Isajanyan III STANDARD LIMITATION OF PERMISSIBLE PROBLEM AND ITS DOUBLE PROBLEM Keywords: linear programming, standard problem, dual problem, allowable range, limited ընդուն unlimited values

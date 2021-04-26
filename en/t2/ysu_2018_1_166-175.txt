@@ -1,0 +1,78 @@
+CHANGE OF EFF-ACTIVE ACTIVITY In C.GUILLIERMONDII НП-4 DYMONIC CELLS.
+ The cells of microorganisms are characterized by the storage of a large number of storage substances of different composition.
+ At the stationary stage of development, that is, after growth or growth retardation or slowing down, granules that contain high-molecular-weight polyphosphates called volute or metachromate accumulate in these cells.
+Polyphosphates store phosphate ions, such as Ca2 +, Mg2 +, and K + և ions.
+ Macromolecular inorganic polifosfatnern them, presents linear polymers ortofosforakan acid, which phosphoric acid residues are fosfoanhidridayin connections with each other, like AEF-imolekulum relations with the peripheral phosphate residues, ustipolifosfatnere microorganisms cells for energy aylentrankayinaghbyur and can play an important role Poststress verakangnoghakangortsentatsnerum [1].
+Figure ․1 ․ Structure of high molecular weight polyphosphate Fig. 2. Structure of AEF In yeast cells, polyphosphates are involved in the regulation of phosphorus metabolism, nucleation of nucleic acid metabolism, biosynthesis of polysaccharides necessary for cell membrane formation, and the function of vacuoles as a storage cell.
+The strength of phosphate metabolism in yeast cells depends on many factors - the presence of a large number of enzymes.
+ Thus, the study of the increase in the growth rate of the yeast Saccharomyces cerevisiae փոփոխ the change in the concentration of inorganic phosphate showed that there is an accumulation of polyphosphates in the environment, an increase in the activity of the cytosol 2 exopolyphosphates of the yeast.
+  Under conditions of phosphorus starvation, the consumption of the polyphosphate phase in the cell is a signaling factor that determines the concentrated accumulation of these polymers in cells or spheroplasts when 5-20 mmol of inorganic phosphate ավելացնել glucose is added.
+  At the same time, the high activity of the two exopolyphosphatases does not inhibit the accumulation of polyphosphates.
+Yeast cells contain a relatively large amount of inorganic polyphosphates, which are localized in different components, perform energy and regulatory functions.
+ These biopolymers are an important part of inorganic phosphate homeostasis in the cell.
+ In the case of phosphoripacase, their decomposition to inorganic phosphate takes place in the growth medium.
+  In case of excess phosphorus, when the cells are transferred to a complete nutrient medium after phosphorus starvation, the content of polyphosphates increases several times.
+ This phenomenon is called phosphate hypercompensation.
+  One of the most important enzymes involved in the metabolism of polyphosphates in yeasts is exopolyphosphatases (polyphosphate phosphohydrolase 3.6.1.11), which are located in different cellular components.
+  Cytosol contains not less than 60% of the exopolyphosphatase activity of the yeast cell, which is most often represented by an enzyme with a mass of 40 kDa.
+Under conditions of hypercompensation, this component synthesizes denovo high molecular weight exopolyphosphatase, which differs from the previously known yeast exopolyphosphatases by a number of physicochemical properties, including substrate specificity.
+  40 kD Exopolyphosphatase և High molecular weight exopolyphosphatase is encoded by a variety of genes.
+It is known that cytosols, nuclei, vacuoles, mitochondria contain inorganic polyphosphates, and the number of polyphosphates, chain length spectra, and their dependence on these components differ from the growth stage [3].
+The content of polyphosphates in the cell changes under the influence of various stressors.
+  From this point of view, it is of great interest to study the quantitative and qualitative changes of polyphosphates, especially under the influence of the radiation factor, as at present the development of medical equipment իկայի household appliances, astronautics, as well as mobile means of communication, television, wireless internet որոնք types, has led to an increase in the level of radiation to humans.
+The aim of our work was to study the placement of polyphosphate formations in C. guilliermondii NP-4 yeast cells, as well as their change after X-ray irradiation of the cells after post-radiation repair.
+ Under the influence of different types of radiation, we also studied the strength of hydrolysis of polyphosphate-nucleotide AEF in yeast cells.
+Subject of research և methods. The object of research was C. guillermondii НП-4 yeasts, which were stored at a temperature of 2-40 C on agar-agar containing 2% starvation.
+ Every two months, I eradicated the museum culture of echinoderms.
+ Prior to each experiment, yeasts were removed in test tubes containing 2% starvation agar and grown at 300 ° C in a thermostat for 48 hours.
+Obtaining C. guillermondii НП-4 yeast biomass. D-glucose was used as the only source of carbon for the growth of yeast.
+Erlenmeyer flask with a concentration of 200 ml of medium was added to 100 ml of glucose և 3x10-6 g / l biotin.
+ We transferred the overgrown yeast from the solid food medium to the liquid food medium, then we placed the flasks on the shaking device (200-250 ppm), which provided the necessary aeration.
+ The yeasts were grown at a temperature of 000 300 C with 4000 lux of illumination.
+  After 24 hours of incubation, the yeast biomass was separated from the culture medium by centrifugation (4000 rpm, 10 minutes, centrifuge CLR-1).
+ After washing the yeast with distilled water, the weight of the wet biomass was determined.
+Yeast irradiation of yeast cells. C. guilliermondii НП-4 yeast cells were subjected to X-ray irradiation by Dron-3 X-ray machine.
+ The voltage applied to the X-ray tube was 35 kV, the anode current was 15 mA.
+ BSV-25 Cu X-ray tube was used.
+  The wavelength of the radiation was λ = 1.54 * 10-8 cm, the power of the radiation was 1080 kG / h, the duration was 20 minutes.
+ The total dose of radiation was 360 kg.
+  We carried out the irradiation of yeast cells at YSU Faculty of Physics.
+After 24-hour incubation in liquid medium, we separated a part of the wet mass obtained and transferred it to Petri plastic և at YSU Faculty of Physics for 45 minutes in millimeter (λ = 6 mm, υ = 51.8 GHz) or decimetric (λ = 30Hz) to be irradiated.
+Post-radiation repair of yeast cells. Part of the yeast biomass irradiated with millimeter and decimeter waves պայմաններում under conditions promoting post-radiation recovery (temperature 300 C, presence of 100 mmol glucose) was further incubated in the same embryonic nucleus.
+Yeast studies of yeast cells. Irradiated, irradiated, repaired yeast cell suspensions were fixed in a 2.5% solution of glutaraldehyde in 0.1 M cacodylate buffer according to the accepted methodology.
+  After the same buffer wash, the sample was dehydrated at increasing concentrations of ethanol 30, 50, 70, 96 և 100% or at increasing concentrations of acetone and then filled with araldite mixture.
+  After polymerization, ultra-thin incisions were made on the Reichert-Jung ultramicrotome at 37 ° C և 59 ° C.
+  Ultra-thin sections were painted with a 5% solution of uranyl acetate և citric acid վել ևexamined with transmission Tesla BS-500 T scanner Tesla BS-301 and Tescan electron microscopes.
+  The microscopes were scanned at 900 pixels / inch with Draw X511¨Photoshop CS5.
+ The work was performed in the electron microscopy laboratory of the Institute of Molecular Biology of NAS RA.
+Determination of AEF-ase activity in yeast cells was performed in non-cellular extracts of yeast [5].
+The received data և their discussion. Electron microscopic examination of yeast cells has shown that yeast cells have a round, oval or macular shape with a smooth surface.
+The cells have an amorphous cell wall, plasma membrane, granular dense cytoplasm, where the mitochondrial matrix of the same density, peroxisomes, cytoplasmic vacuoles և nucleus are visible (Figure 3).
+There are vacuoles of different origins in the cytoplasm, which also act as a repository for certain nutrients and enzymes.
+ Yeast cells multiply by germination or division.
+X-ray culture reveals giant filamentous cells.
+ In the cells, cell wall dislocation, loss of clarity of plasma membrane configuration, and corrosion-restructuring are observed (Fig. 4).
+  After 24-hour post-irradiation incubation, cells resembling non-irradiated intact cells are found in the culture of yeast cells (Fig. 5A).
+ Elongated fibrous yeast cells were found along with them.
+                               ԱՆՆկ. 3. Electron microscopic image of C. guilliermondii НП-4 yeast cells (see cell wall (BP), nucleus (K), mitochondria (M).
+ԱՆՆկ. 4. Electron microscopic image of irradiated C. guilliermondii НP-4 yeast cells (giant cells are observed (A), the irradiated cell microscope shows the cell wall (BP), the nucleus (K).
+ (n = 5, p <0.05).
+                               Ա ԲՆկ. 5. Electron microscopic analysis of C. guilliermondii НП-4 yeast cells undergoing post-irradiation repair (A: cell filamentous և regenerated eggs are observed.
+ B: Incitoplasmic vacuoles (JVs) are observed.
+ Volutin granules (V) are scattered throughout the whole cytoplasm (n = 5, p <0.05).
+In the cytoplasm of yeast cells subjected to post-radiation repair, an increase in so-called metachromatic granules or volutin is observed, which are scattered throughout the cytoplasm (Fig. 5B).
+We can conclude that polyphosphates compensate for the deficiency of AEF in the cell due to radiation damage.
+In order to confirm this hypothesis, in the next stage of the work we carried out X-ray, as well as the study of the hydrolysis of the nucleotide, a polyphosphate (AEF) in the yeast cells subjected to millimeter-decimetre-wave radiation, post-incubation yeast cells.
+ This nucleotide is involved in a complex network of cellular metabolic processes; its quantitative modification can have a major impact on the regulation of metabolism and, in particular, on the response of cells.
+The millimeter radiation corresponds to the frequency range used by the mobile connection, and the decimetric frequency corresponds to the wireless internet - WiFi, և BlueTooth, the use of which is increasing day by day in our daily life.
+As the data we have obtained have shown, in irradiated yeast cells there is an increase in AEF-ase activity, while the increase in AEF-ase activity in millimeter waves is more pronounced - about 25%.
+In post-irradiated yeast cells, there is a further increase in AEF-ase activity as a result of both X-ray and millimeter wave radiation, but in X-ray repaired cells, the case of AEF-ase activity increased by about 5 cubic meters, and in the case of X-ray, it increased by about 5 cubic meters.
+  As for the yeasts irradiated with waves in the decimetric range, in this case a decrease of AEF-aza activity is observed about 3 times.
+ We assume that X-ray irradiated yeast cells cause a large number of injuries, which require a lot of energy to repair.
+ That is why the hydrolysis of AEF, which is a universal source of energy, is intensifying.
+Line 3. C. Auction activity of C. guilliermondii NP-4 yeast cells by X-ray irradiation, millimeter-decimeter wave radiation, and post-irradiation, at the same time. Cytoplasm is removed during reparation for further use.
+  Radiation damage in waves of millimeter-decimeter bands is likely to cause less damage to yeast cells than to X-ray radiation, and less energy is required for cell regeneration.
+ In this case, the need for energy is more pronounced when the cells are irradiated in millimeter waves.
+ Considering that the millimeter bands correspond to the cellular bandwidth, and the decimeter bands to the BlueTooth և WiFi band, it can be concluded that cell phones do more damage to cells than wireless internet.
+LITERATURE [5] Davtyan M. A., Aghajanyan A. Kh., Hovhannisyan S. P., Chubaryan S. V., Navasardyan L. H., Tumanyan L. R., Educational-Methodological Manual of Laboratory Chemistry, 2003, pp. 74-77.
+Marutyan Susan, GayaneAEF-Petrosyan NATIONAL ACTIVITY CHANGE C.GUILLIERMONDII НП-4 yeast cells INFLUENCE OF DIFFERENT TYPES ELEKTRAMAGNISAKANCHARAGAYTUMNERI Keywords: yeasts, electron microscopy, AEF-azayinaktivutyun, X-ray exposure, Millimetrical yevdetsimetrakan waves.

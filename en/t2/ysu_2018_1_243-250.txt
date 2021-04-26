@@ -1,0 +1,360 @@
+FERHYLISTYMATHEMATICAL MODEL OF CHANGE OF POPULATION FACTORY Mathematical models are often used to describe various objects and phenomena in the world around us.
+ The modeling method consists of constructing a model for the object, process or event to be studied, the study տեղափոխ transferring the results obtained for it to the real object.
+ Mathematical models are widely used in technology, science, economics, cognition of social phenomena, etc.
+Mathematical model analysis allows the researcher to predict the consequences of alternative operations in a logical way, showing which of them should be preferred.
+ Model analysis is easy, fast and does not require large costs.
+The paper will talk about modeling population change թվ, in particular, the Ferhulst model.
+ The model can be used in various diseases, prevention of epidemics, agriculture and other fields.
+Suppose we have a population whose number varies with the rate of births and deaths.
+  The simplest model for changing this population is the equation of Thomas Robert Malthus (1766-1834), introduced in 1798.
+ According to this model, the population growth rate is constant և the number is growing exponentially. (cid.
+2914) (cid.
+2898) (cid.
+4666) (cid.
+2930) (cid.
+4667) (cid.
+2914) (cid.
+2930) (cid.
+3404) μN (cid.
+4666) t (cid.
+4667), N (cid.
+4666) t (cid.
+4667) (cid.
+3404) N (cid.
+4666) 0 (cid.
+4667) exp (cid.
+4666) (t (cid.
+4667), where N (cid.
+4666) t (cid.
+4667) is the population at time t, and μ (cid).
+3404) const - the growth rate per representative of the population [1].
+ Such graphs are called J-graphs.
+  If the growth rate is positive, it increases in population, if it is zero, it maintains its number, if it is negative, it decreases and disappears.
+Of course, there are many factors that prevent the population from growing indefinitely: lack of resources, competition within species և with other species, predators, natural disasters, diseases, parasites, etc.
+Malthus believed that the exponential growth of the Earth's population would exceed the arithmetic growth of the food industry and lead to famine.
+ He insisted that the birth rate should be restricted.
+ In this way he was against the optimistic views of the philanthropists of the late 19th century about the future.
+  According to this model, the population should decrease sharply after reaching a certain value, and then start growing again.
+  As resources will not be able to recover as much as before, in the case of new growth, the same scenario will be repeated before reaching a stable value at a lower value [2].
+1838 Pierre-François Ferhulst (1804-1849) proposed a logistics model in which the growth rate depends on the size of the population.
+ It was later developed by Raymond Pearl (1879-1940), sometimes referred to in the scientific literature as the "Ferhulst-Pearl model".
+It follows that it limits the number of any population.
+where K (cid.
+3398) is the maximum value of the population (power, μ (cid).
+4666) N (cid.
+4667) (cid.
+3404) μ (cid.
+2895) (cid.
+2879) (cid.
+2898) (cid.
+2895), capacity).
+dN (cid.
+4666) t (cid.
+4667) dt (cid.
+3404) μN (cid.
+4666) t (cid.
+4667) (cid.
+3398) μKN (cid.
+2870) (cid.
+4666) t (cid.
+4667) (cid.
+3404) μN (cid.
+4666) t (cid.
+4667) (cid.
+4666) 1 (cid.
+3398) N (cid.
+4666) t (cid.
+4667) K (cid.
+4667) K (cid.
+2914) (cid.
+2898) (cid.
+2898) (cid.
+4666) (cid.
+2895) (cid.
+2879) (cid.
+2898) (cid.
+4667) (cid.
+3404) μdt, (cid.
+4672) (cid.
+2869) (cid.
+2898) (cid.
+3397) (cid.
+2869) (cid.
+4666) (cid.
+2895) (cid.
+2879) (cid.
+2898) (cid.
+4667) (cid.
+4673) dN (cid.
+3404) μdtlnN (cid.
+3398) ln (cid.
+4666) K (cid.
+3398) N (cid.
+4667) (cid.
+3404) μt (cid.
+3397) C ′, ln (cid.
+2898) | (cid.
+2895) (cid.
+2879) (cid.
+2898) | (cid.
+3404) μt (cid.
+3397) C ′ (cid.
+2898) | (cid.
+2895) (cid.
+2879) (cid.
+2898) | (cid.
+3404) (cid.
+2898) (cid.
+3116)
+(cid.
+2898) | (cid.
+2895) (cid.
+2879) (cid.
+2898) | (cid.
+3404) Ce (cid.
+2972) (cid.
+2930), C (cid.
+3404) (cid.
+2898) (cid.
+3116)
+| (cid.
+2895) (cid.
+2879) (cid.
+2898) (cid.
+3116) | e (cid.
+2972) (cid.
+2930) | (cid.
+2895) (cid.
+2879) (cid.
+2898) (cid.
+3116) |, Hence it follows that at first the resources are many և the population grows rapidly, then պակաս there is a lack of resources ինչի competition, as a result of which the growth rate decreases և finally reaches a state of equilibrium when all resources are used և further growth becomes impossible.
+Depending on the time, the equation of the population will have the following form ․ N (cid).
+4666) t (cid.
+4667) (cid.
+3404)
+(cid.
+2895) (cid.
+2898) (cid.
+3116)
+(cid.
+2898) (cid.
+3116) (cid.
+2878) (cid.
+4666) (cid.
+2895) (cid.
+2879) (cid.
+2898) (cid.
+3116) (cid.
+4667) (cid.
+2915) (cid.
+3127) (cid.
+3220) (cid.
+4666) (cid.
+3178) (cid.
+3127) (cid.
+3178) (cid.
+3116) (cid.
+4667), where N (cid.
+4666) t (cid.
+2868) (cid.
+4667) (cid.
+3404) N (cid.
+2868).
+limt → ∞ N (cid.
+4666) t (cid.
+4667) (cid.
+3404) lim (cid.
+2930) → (cid.
+2998)
+(cid.
+2898) (cid.
+3116) (cid.
+2878) (cid.
+4666) (cid.
+2895) (cid.
+2879) (cid.
+2898) (cid.
+3116) (cid.
+4667) (cid.
+2915) (cid.
+3127) (cid.
+3220) (cid.
+4666) (cid.
+3178) (cid.
+3127) (cid.
+3178) (cid.
+3116) (cid.
+4667) (cid.
+3404) K.
+(cid.
+2895) (cid.
+2898) (cid.
+3116)
+dt (cid.
+2870) (cid.
+3404) μ (cid.
+4678) 1 (cid.
+3398) 2N (cid.
+4666) t (cid.
+4667) K (cid.
+4679) dN (cid.
+4666) t (cid.
+4667) dt:
+Let's examine the schedule.
+  dN (cid.
+2870) (cid.
+4666) t (cid.
+4667)
+When N (cid.
+4666) t (cid.
+4667) (cid.
+3407) K2⁄, the graph is convex and the growth is exponential. Ferhulst N (cid.
+4666) t (cid.
+4667) (cid.
+3408) K2⁄, the graph is concave ը growth slows down, tending to asympto Note that if N (cid.
+2868) (cid.
+3408) K, then the population decreases to the value of և recurrent K.
+ Such graphs are called S-dz-graphs.
+strives for the value of K.
+The results of the model coincide with the results of the Maltus model.
+  When the population growth rate increases smoothly with small values ​​of the growth factor, it slowly reaches the maximum value.
+ In the case of higher values, it reaches its maximum value in a very short period of time, fluctuates in its small range and gradually stabilizes.
+And √6 (cid.
+3406) In case of the value 2,449, 2 stabilization values ​​appear և the number doubles with the increase of μ. their number is determined and the periodic fluctuates between them.
+ By the curve of the stabilization value [3].
+H / HKayunatsmanketeri kanakPopulyatsiayi varkeVeratsumSahun arzhekinPokr increase the maximum oscillation maksimalarzheki shurjParberakan tatanumnerParberakan tatanumnerParberakan tatanumnerParberakan tatanumnerParberakan tatanumneritsdepi kaosKaosarzhekitsAghyusak 1. Ferhyulsti domain model results in a change μ- dependence on the growth of the population and range of variation occurs between the values ​​of the same number, smaller in achmanNkarner μ- In 1-4, the population growth curves are given as μ.
+ Their relation tends to the Feigenbaum constant, δ ≈ 4.669 ..., է The description described is a typical example of a bifurcation cascade.
+in case of different values, the scale is K = 1.
+Fig. 1 μ∈ (cid.
+4666) 0; 1 (cid.
+4667) Fig. 2 μ∈ (cid.
+4666) 1; 2 (cid.
+4667) Fig. 3 μ∈ (cid.
+4666) 2,449; 2,544 (cid.
+4667) Fig. 4 μ (cid.
+3408) 2,56994 The work shows the population of the Earth in 2010-2100 using the mentioned model. 10-year forecast calculations based on populations of previous decades: 1980, 1990 և 2000.
+Actually Variable Year:
+N (cid.
+2868) N (cid.
+2869) N (cid.
+2870) N (cid.
+2921) in khan formulas: We put the numbers of the 3 dates known to us in accordance with KN (cid).
+2868)
+N (cid.
+2921) (cid.
+3404)
+N (cid.
+2868) (cid.
+3397) (cid.
+4666) K (cid.
+3398) N (cid.
+2868) (cid.
+4667) e (cid.
+2879) (cid.
+2869) (cid.
+2868) (cid.
+2921) (cid.
+2972) (cid.
+4688) N (cid.
+2869) (cid.
+3404)
+(cid.
+2895) (cid.
+2898) (cid.
+3116)
+(cid.
+2898) (cid.
+3116) (cid.
+2878) (cid.
+4666) (cid.
+2895) (cid.
+2879) (cid.
+2898) (cid.
+3116) (cid.
+4667) (cid.
+2915) (cid.
+3127) (cid.
+3117) (cid.
+3116) (cid.
+3220)
+N (cid.
+2870) (cid.
+3404)
+(cid.
+2895) (cid.
+2898) (cid.
+3116)
+(cid.
+2898) (cid.
+3116) (cid.
+2878) (cid.
+4666) (cid.
+2895) (cid.
+2879) (cid.
+2898) (cid.
+3116) (cid.
+4667) (cid.
+2915) (cid.
+3127) (cid.
+3118) (cid.
+3116) (cid.
+3220), (cid.
+2898) (cid.
+3116) (cid.
+4666) (cid.
+2898) (cid.
+3117) (cid.
+2879) (cid.
+2898) (cid.
+3118) (cid.
+4667), K (cid.
+3404) (cid.
+2898) (cid.
+3116) (cid.
+2898) (cid.
+3117) (cid.
+4666) (cid.
+2915) (cid.
+3117) (cid.
+3116) (cid.
+3220) (cid.
+2879) (cid.
+2869) (cid.
+4667)
+where do we get? μ (cid.
+3404) (cid.
+2869) (cid.
+2869) (cid.
+2868) ln (cid.
+2898) (cid.
+3118) (cid.
+4666) (cid.
+2898) (cid.
+3116) (cid.
+2879) (cid.
+2898) (cid.
+3117) (cid.
+4667)
+(cid.
+2898) (cid.
+3116) (cid.
+2915) (cid.
+3117) (cid.
+3116) (cid.
+3220) (cid.
+2879) (cid.
+2898) (cid.
+3117), μ (cid.
+3406) 0.029, K (cid.
+3406) 11776.
+Putting the values ​​of μ և K in the formula, we will get the forecast of the population of the Earth.
+The growth rate is less than 1, so the population will slide to the maximum value (approximately 11 billion 776 million), in contrast to the value of 15 billion 610 million obtained in [4] work.
+ This means that the population of the country in the 1990s. It has started to grow more slowly since the end of the year, it is moving towards saturation, which, as can be seen from Table 2, will take place in 2100. not too late.
+N / A Annual Reality Forecast by 1970, 1980, 1990 Forecast by 1980, 1990, 2000 data [4] Table 2. Estimation of the country's population based on data from 2100, 1970, 1980 և 1990 shows that the results based on later period data are closer to real values.
+The results for 2000, 2010 և 2017 are very close to the actual numbers.
+The application of the model in the population census of different countries has shown that it gives good results for making forecasts for several decades [5]։ it is more appropriate to use it for short-term forecasting.
+LITERATURE [1] Mikaelyan G., Mikaelyan Z., Mathematical methods in natural science, Yerevan, 2011, pp. 96-101.
+ной экологии, Томск, 2014, с ց. 74-116. [3] Logistic Map, http.
+//mathworld.wolfram.com/LogisticMap.html (Available as of 05.11.2017).
+[4] Mikaelyan G., Azizyan L., Mathematical Model of Expected Changes in the Population of the Earth, "Geographical Science in Armenia", Yerevan, 2006, pp. 260-265.
+Alaverdyan Slavik FERHYULSTYMATHEMATICAL MODEL OF CHANGE OF QUANTITY POPULATION Keywords: population, Ferhulst model, logistical growth, population forecast.

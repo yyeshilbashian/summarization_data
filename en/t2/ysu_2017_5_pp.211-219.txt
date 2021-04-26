@@ -1,0 +1,68 @@
+QUANTUM-DIPOPOLOGICAL RADIATORS CONNECTED WITH METAL PARTICLES EXTERNAL ELECTROMAGNETIC FIELD: Introduction
+ The simplest system in which an entanglement can be obtained is a system consisting of two quantum radiators.
+  Numerous studies have been performed on this system [1-6], but little attention has been paid to the management of entanglement and relaxation processes, which is more interesting in terms of application in quantum informatics.
+  It should be noted that in particular, one of the possible ways to accelerate the formation of the entangled state is the Purcell phenomenon, as well as the process of super-irradiation [6].
+  Remarkable results were obtained in the case of the influence of the resonance element on that process [7].
+  We have considered a similar system և to study the additional effect of the external resonance field on the acceleration of entanglement.
+In the field of optical frequencies, quantum dipole emitters (CPDs), such as molecules or quantum dots, the resonant bond between a surface nanoparticle (LMP) localized in a metal nanoparticle (LMP) allows you to control the radiative electromagnetic energy of the radiative electromagnetic energy.
+  Experiments on the interaction of a single molecule with a metal nanostructure [9-11] provide a basis for continuing the chosen direction.
+  The most discussed feature of the CDD-MNM system is the change in fluorescent radiation (amplification or attenuation), which is determined by the lines of radiative-non-radiative transitions, the latter of which grow in the vicinity of the MNM [10-14].
+In the present work, we show that in the presence of an external resonance electromagnetic field, two resonant-coupled CPSs with MNM can form a stable superposition state faster than the spontaneous transition of a single CPS.
+The following important conditions are met for the resonance system under consideration: the lamp extinction rate is much higher (by 5 orders) than the spontaneous transition speed of a single CPS.
+ This will allow the delay of the MNM response.
+  At the same time, it is assumed that the CDP-MNM-CDP connection is so strong that the relaxation process of that system is faster than that of a separate CDP, which in turn will allow to ignore the spontaneous transition of the CDP.
+It is assumed that the excitation of the LMP is the result of fluctuations in free electrons in the MNM. to consider constantly.
+  These classical currents will later be represented by the quantum coherent states of the LMP.
+It is assumed that only one CDD is excited at the beginning of time, and the external resonance field is so weak that the condition with two excited CDs is excluded.
+We consider that the connection of the external field և MNM is resonant, the direct impact of the external field on the CDCs is incomparably smaller than the influence through MNM.
+The second assumption allows to solve the problem with a semi-class approach.
+  In addition, a study of the resonant-coupled dynamics of the CDP-MNM system relaxation found that quantum [16] և semi-class [17] approaches yield the same result when, in the case of a quantum approach, currents are characterized by coherent states of the LMP.
+  In the present essay, we will use the semi-class approach.
+Overview The schematic view of the CDD-MNM-CDD system under discussion is shown in Fig. In 1, it consists of two identical CPCs located on the line passing through the center of the MNM, on the left and right sides of the MNM, respectively.
+Fig. 1 It is assumed that the external laser pulse on the left side of the CPS, located at a distance of R10 from the center of the MNM, is reduced from zero to the second excited state, then the CPS passes through the non-radial transition to the optically active state 1: E1 with energy.
+  At that moment (at the beginning), the second CDP, located at a distance of R10 from the center of the MNM, is at rest with energy E0.
+  System processing field.
+The → 0 transition is in resonance with the LMF's own frequency, as well as with the external field.
+  The use of a three-tier system allows to keep the process of relaxation from the process of arousal.
+ The wave function of the system is as follows: (E1 + E0) t.
+   (2) Here ϕ00, ϕ10, ϕ01 are the wave functions of the CPS system, respectively, when both are at rest, the first (left) is excited, the other is not և the second (right) is excited, and the first is not, b00, b10 , b01 are the probability amplitudes of the corresponding states.
+  The first (second) dipole moment of the CPS will be where c. c denotes the complex complex և Assume that the distance of the CDs from the MNM is much greater than the radius of the MNM (Fig. 1 a) և all dimensions are less than the wavelength ՝  >> max [R10, R01 ], r << min [R10, R01], so that the field created by them on the MNM can be considered homogeneous.
+  This field will have the following view: 3] = E⃗⃗⃗0e − i𝜔0t + c. c.
+                           (5) Here e0 and e2 are the dielectric constants of the vacuum և external environment, respectively.
+  In addition to this field, the MNM is also affected by an external resonance field. is.
+Using the time-dependent Schrինգdinger equation in terms of the field given in Equation (6), as well as in the approximate limits of the working field, we get the following expressions for the probabilities: ∗ 𝑑⃗) b01.
+                           (9) Point means a derivative according to time.
+  Note that the initial stages are included in b10, b01, b00, as well as in ℰ⃗0.
+  The resulting expressions will look clearer if we consider the case of resonance (Lamp repayments are relatively slow), ie the following relations occur: | e1𝑟 + 2e2 | ≪ e1𝑖 and e2 ≫ e1𝑖.
+Without violating the generality, suppose that all quantities are real.
+ Taking into account the mentioned, we will have where the following appointments are made: 6 ℰ⃗0𝑑⃗ ∗.
+            (13) Multiply (10) by β10, (11) by β01 and add, we get 2.
+                     (14) Thus the system consisting of three differential equations (10-12) was brought to be composed of two (12, 14).
+  Solving the last one, we get here: և և A are constants to be determined b00
+ 𝛾 = √𝑞2𝜒2 - 4𝛼2.
+                                             (16) 2 = 1 from the initial conditions.
+  Suppose the originator, b01 (0) = 0, b00 (0) =
+2.
+  Finally, probability 1, b10 (0) = 1, in these conditions 𝜒 = β10
+For amplitudes we will write: 2.
+                                     (19) Here: A =
+ .
+Before discussing the results, let us turn to a very strong assumption made above, according to which the relaxation of the CDP-MNM-CDP system is faster than that of the isolated CDP.
+ In Equations (17-19) it is stated that the characteristic value of the relaxation rate of the connected system is։.
+  Within our assumptions, the external field is small, so that in the expression of ((16), the second sum under the root, which is conditioned by the field, will be smaller by the first product.
+ Thus, from kazjin, and the value of վի will be largely determined by 𝑞β10
+We use the results of Wigner-Weitzkopf theory [18], where J is the wavelength corresponding to the passage of the CDP.
+For common dielectrics (eg glass or polymer) 𝜀2 = 2.25, the resonance conditions (for slow lamp extinction) are as follows: for gold ∼530 nm for wavelength e1𝑖 ≅2.35 քում for silver ∼400 nm for wavelength e1𝑖 ≅0.22 [19].
+ Considering MNM with radius 5nm and taking max [R10, R01] = 15 nm, we get the ratio for η, in one case ≈17 (gold) և in the other ≈77 (silver), thus fully justifying the above approximation.
+Results և Summary Let's specify the observation, passing to the symmetric CDD-MNM-CDD system, ie in the case when R10 = R01.
+ Figure 2a, b shows the dependence of the squares of the amplitudes of probabilities b00, b10, b01 on time ( points) in the case of the gold nanoparticle.
+ In the presence of a resonant element (without a field), the CPS relaxation studies [7,16,17] showed that the relaxation behavior of the resonant-connected CDD system is no longer characterized by an exponent, as in the case of Wigner-Weitzmann [18 ], but shows gradual behavior, fig. It seems from 2 that, with the presence of the field, this tendency is also maintained.
+։ On the other hand, in the presence of an external field, a stable superpositional, entangled state also arises, which can be controlled by changing the field intensity.
+ In the absence of a field, a strong assumption is made to make the same task feasible [7]. It is assumed that at the beginning of time there is already a superpositional state with a probability other than zero.
+  From the point of view of technical implementation, this condition is quite difficult to implement, while it is noteworthy that in the presence of the field, the superpositional condition arises without such preconditions.
+ In the current rapidly evolving quantum informatics, the transition processes of the CPS, as well as the possible management of the latter, are of practical importance.
+  As shown in Fig. From 2, depending on the field-time time constant (α) and the ratio of the transition time characteristic through the MNC through the MNM, the transition process changes (accelerates or slows down), thus making the above process manageable.
+  It is noteworthy that the α / q ratio can be changed by changing the magnitude of any field, as can be seen from (13), the magnitude of the α / q ratio can be changed by changing the distance of the CDs from the MNM.
+In conclusion, we have analytically studied the dynamics of relaxation of two MRIs resonantly associated with MNM, using the semi-class approach և we have reached the following results: Without preconditions (non-zero superposition state at the beginning) • By changing the field size և CDP-MNM distance, the transition process of the CDP-MNM-CDP system can be controlled (accelerate or slow down).
+Fig. 2. The dependence of the rest amplitudes of the quiescent state 00 excited by the CDD on the squares, respectively b00, b10, b01, normalized according to the relaxation time of the isolated CDD, satisfying the field conditions α = 0.1q (a) and α = 0.22q (b) in the case of values.
+LiteratureTorgom YezekyanQUANTUM DIPOLINE RADIATORS CONNECTED WITH METAL NANO PARTICULARS EXTERNAL ELECTROMAGNETIC FIELDS

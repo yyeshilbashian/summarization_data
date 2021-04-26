@@ -1,0 +1,97 @@
+NEW CONCENTRATION OF CONDENSED PIRIDOTIENOPYRIMIDINES First mentioned in the scientific literature on tieno [2,3-b] pyridines in 1913.
+  As it is known, the compounds of this series have a pronounced anti-shock, antibacterial and antibacterial effect.
+ From a biological point of view, it was interesting to study the new derivatives of the compounds in this series և to study the relationship between their chemical structure աբանական biological activity, as well as their chemical structure։ activity.
+ According to the literature, the development of the chemistry of thieno [2,3 b] pyridines, their combined derivatives, has led to the development of a number of convenient, efficient methods of synthesis.
+  It includes two main approaches. Condensation of the thiophene ring on the basis of pyridine derivatives կառուց Construction of the pyridine ring on the basis of thiophene derivatives.
+ The first approaches will be discussed in the presented work.
+Based on the structure of the reagents considered as starting material, according to Thorpe, several main ways of constructing a thiophene ring can be distinguished.
+ This synthesis approach must first be attributed to the cycling of substituted 2-alkylthio-3-cyanopyridines, which are traditionally obtained by electroceptor substituent containing 3-cyanopyridine-2 (1H) -ions (or corresponding thiolates) ո 1-14 alkylating agents.
+ Advantages of this approach include: (a) the availability and variability of 3-cyanopyridine-2 (1H) ions, (b) the possibility of using the one-pot method, and (c) the possibility of high yields.
+This transformation scheme is presented below: R, R1, R2 = Н, alkyl, aryl, cycloalkyl, amine, Hal; Z = CN, COMe, COPh, CONH2, CONHPh, CON (Ph) 2, CON alkyl, 4-MeC6H4CO, 4-MeOC6H4CO, 4-ClC6H4CO, CO2Et, 3-Cyanopyridine -2 (1H) - is the main factor influencing the cycling reaction of tions is the electroacceptor nature of the Z substituent, which determines the stability of the carbon.
+  It has been experimentally confirmed that the range of activity of Z receptor substituents is as follows: The conditions for this reaction can change over a wide range of conditions.
+  In general, the cycling reaction of 3-cyanopyridine-2 (1H) ions is carried out in the basic medium, acid catalysis is rarely used.
+  The most suitable reagents are 10% aqueous KON / DMFA, as well as KON / ETON, K2SO3 / EtON, K2SO3 / DMFA t EtONa / ETON.
+ Both excess and catalytic bases are used in these reactions.
+The modified version of the above method is often used, ie the cycling of 3-cyanopyridine-2 (1H) ions is carried out without the separation of the intermediate 2 alkylthio-3-cyanopyridines, which in many cases allows to increase the output of the terminals [1-6, 8, 14- 22].
+The next well-known, relatively common method for the synthesis of thieno [2,3-b] pyridines in the literature is based on the use of 2-halogen-substituted 3-cyanopyridines.
+ The latter interact with thioglycolic acid derivatives in the basic medium.
+ In the initial stage of the reaction, nucleophilic substitution occurs, followed by the formation of a thiophene ring under the influence of basic catalysis [3, 20].
+R = alkyl; R1 + R2 = cycloalkyl; Hal = Br, Cl; Z = Me, Et, NH2, ClC6H4NH, Me2C6H3NH.
+The starting material for the synthesis was 2,6-dichloro-3-substituted pyridine, the interaction of which led to the pyridine yield of the corresponding mono-substituted derivative.
+  The latter reaction with the ethyl ether of mercaptoacetic acid և further cyclocondensation in the basic medium gave thieno [2,3-b] pyridines.
+It was interesting to have a condensed pyridine ring in the resulting compound, for which we synthesized the synthesized end product with formamide.
+In order to have a new substituent in the 4th position of the obtained pyrimidine ring, we increased the latter with chlorine-derivative with phosphorus oxychloride.
+Subsequent substitution with ethanolamine resulted in a corresponding amino-substituted derivative.
+Biological studies of the synthesized compounds showed that they also show weak anticonvulsant, antibacterial and antibacterial activity.
+Experimental part.
+ MMR 1H spectra were recorded with a "Varian Mercury 300VX" spectrometer at a frequency of 300 MHz DMSO-d6 / CCl4, 1/3.
+ The spectra were removed with a "Nicolet Avatar 330 FT-IR" spectrometer in a layer of Vaseline oil.
+  The purity was checked by a thin layer chromatographic method, "Silufol UV-254" was used as a sorbent, and I2 vapors were used as a detector.
+2,6-Dichloro-4-methyl-3-cyanpyridine (2).
+A mixture of 2,6-Dihydroxy-4-methyl-3-cyanpyridine (1) (30.08 g, 0.20 mol) և POCl3 (80 mL) was heated in a metal bomb on an oil bath at constant temperature (180 ° C) for 8 h.
+ The reaction mixture was then frozen and gradually added to the ice water.
+  The resulting crystals were filtered, washed with water and recrystallized from ethanol.
+ Yield: 27.75 g (75%), T h = 109‒111 ° C, Rf = 0.63 (ethanol-chloroform, 1).
+2).
+  IC spectrum, n, cm ‒1.
+  2221 (CIN).
+Spectrum MMR 1H, J, m. b.
+ 2.61 (s, 3H, 4-CH3), 7.61 (s, 1H, 5-CH).
+4-Methyl-6-pipiridin-1-yl-3-cyan-2-chlorpyridine (3).
+In a double-bottomed flask with a reciprocating refrigerator-mechanical mixer, the mixture of 21․87 g (0․1 mol) of 2,6-dichloropyridine մլ 2 և 250 ml of absolute methanol was heated until և2 dissolved.
+  The reaction mixture was then cooled to room temperature and 9.18 mL of pipipiride (0.11 mol) was added.
+ The mixture was mixed at room temperature for 2 days, then boiled for 1 hour.
+ After cooling, water was added, the resulting crystals were filtered, washed with water and recrystallized from ethanol.
+ Yield: 20 g (81%), T h = 119‒
+121 ° C, Rf = 0.63 (ethanol-chloroform, 1.
+2).
+ IC spectrum, n, cm ‒1.
+ 2221 (CIN).
+ Spectrum MMR 1H, d, m. b.
+ 1.55-1.80 (m, 6H, 3CH2); 2.40 (s, 3H, 4-CH3); 3.65 (m, 6H, 3CH2); 6.60 (s, 1H, 5-CH).
+Ethyl esters of 3-amino-4-methyl-6-pipyridin-1-yltheno [2,3-b] pyridin-2-carbonic acid (4).
+To the sodium ethylate solution obtained from 2․53 g (0.11 mol) of sodium և 250 mL of absolute ethanol was added 22․17 g (0.1 mol) of 2-chloropyridine 3 և 12.1 mL (0.11 mol) of thioglycolic acid ethyl ester.
+ The reaction mixture was boiled for 8 hours, after which the solvent was removed and ice water was added.
+  The resulting crystals were filtered, washed with water, dried and recrystallized from ethanol.
+ Yield: 18.7 g (85%), T h = 131‒134 ° C, Rf = 0.63 (ethanol-chloroform, 1).
+2).
+ IC spectrum, n, cm ‒1.
+ 2221 (CIN).
+Spectrum MMR 1H, J, m. b.
+ 1.36 (t, 3H, J = 7.0 Hz, CH2 CH3); 1.60-1.80 (m, 6H, 3CH2), 2.61 (s, 3H, 6-CH3); 4.30 (k, 2H, J = 7.0 Hz, CH2 CH3); 4.34 (s, 4H, 2CH2); 6.00 (s, 2H, NH2); 6.61 (s, 1H, 5-CH).
+9-Methyl-7-pipyridine-1-ylpyrido [3 ', 2'.
+4,5] thieno [3,2-d] pyrimidine-4 (3H) -one (5).
+15․27 g (0.05 mol) of thieno [2,3-b] pyridine 4, 100 ml of formamide լց was poured into a round bottom flask connected to a return refrigerator and dried for 4 hours.
+  The crystals formed after freezing of the reaction mixture were filtered, washed with water, dried and recrystallized from DMFA.
+ Yield: 12.2 g (79.8%), T h = 214‒216 ° C, Rf = 0.63 (ethanol-chloroform, 1).
+2).
+ IC spectrum, n, cm ‒1.
+ 2221 (CIN).
+ Spectrum MMR 1H, J, m. b.
+ 1.60-1.80 (m, 6H, 3CH3); 2.80 (s, 3H, 8-CH3); 3.70 (s, 4H, 2CH2); 6.60 (s, 1H, 7-CH); 8.00 (s, 1H, 2-CH); 12.40 (s, 1H, NH).
+9-Methyl-4-chloro-7-pipiridin-1-ylpyrido [3 ', 2'.
+4,5] thieno [3,2-d] pyrimidine (12).
+Pour 14-32 g (0.05 mol) of thieno [3,2-d] pyridin-4-one 5, 100 ml of phosphorus oxychloride, 2 ml of pyridine այում into a round bottom flask connected to a return refrigerator and boil for 4 hours.
+ The excess POCl3 was then removed under vacuum and ice water was added to the residue.
+ The resulting crystals were filtered, washed with water, dried and recrystallized from ethanol-chloroform (2).
+3) from the mixture.
+ Yield: 13.1 g (91.4%), T h = 140-142 ° C, Rf = 0.63 (ethanol-chloroform, 1).
+2).
+ IC spectrum, n, cm ‒1.
+ 2221 (CIN).
+  Spectrum MMR 1H, J, m. b.
+ 1.60-1.80 (m, 6H, 3CH2); 2.80 (s, 3H, 8-CH3); 3.80 (s, 4H, 2CH2); 6.70 (s, 1H, 7-CH); 8.80 (s, 1H, 2-CH) 4-Amino-substituted 9-methyl-7-pipyridine-1-ylpyrido [3 ', 2'.
+4,5] thieno [3,2 d] pyrimidines (13–20) (general method).
+0.61 g (0.002 mol) of 4-chloropyrido [3 ', 2' was poured into a round bottom flask connected to a return refrigerator.
+4,5] thieno [3,2-d] pyrimidine 12, 0.0022 mol corresponding amine, 25 ml absolute ethanol և The mixture was boiled for 5 hours.
+  The reaction mixture was cooled, the solvent was removed under vacuum, and water was added to the residue.
+  The resulting crystals were filtered, washed with water, dried and recrystallized from ethanol.
+ Yield: 0.5 g (81%), T h = 151-154 ° C, Rf = 0.63 (ethanol-chloroform, 1).
+2).
+ IC spectrum, n, cm ‒1.
+ 2221 (CIN).
+ Spectrum MMR 1H, J, m. b.
+ 1.60-1.80 (m, 6H, 3CH2); 2.90 (s, 3H, 8-CH3); 3.58-3.75 (m, 8H, 4CH2); 4.50 (s, 1H, OH); 6.75 (s, 1H, 7-CH); 6.95 (s, 1H, NH); 8.40 (s, 1H, 2-CH).
+LITERATURE S., Krodel A., Heinicke J. Substituted Pyrido [3 ′, 2 ′.
+4,5] thieno [3,2-d] pyrimidines andpyrido [3 ′, 2 ′.
+-4,5] furo [3,2-d] pyrimidines Used as Inhibitors of the PDE-4 and / or the Ghazaryan Melania PRODUCTION OF NEW CONCENTRATED PYRIDOTHYENOPYRIMIDINES OF NEW CONCENTRATES Keywords: thienopyrid

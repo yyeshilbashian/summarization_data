@@ -1,0 +1,83 @@
+THEORETICAL CONFORMATIVE ANALYSIS OF DIETYSULPHON The usefulness of the study of sulphons is due to their unique physicochemical properties, biomedical and practical significance.
+  Dimethylsulfone was found in the human brain (by nuclear magnetic resonance spectroscopy [1]) և in the blood [2].
+In recent years, the possible use of sulphones in lithium batteries as polar aprotic has been extensively investigated.
+Studies of the structural properties of sulphons in the literature are largely limited to studies by the first homolog, dimethylsulfon [9-13].
+solvent The aim of this work is the theoretical analysis of diethylsulfone, the next homologue of dimethylsulfone.
+ Previous work [14, 15] summarizes the computational results of some thermodynamic properties of diethylsulfone, such as the structural-spectral properties of the nalithium chloride / diethylsulfone system.
+ The following research involves the construction of a potential energy surface of diethylsulfon, the identification of transient states of stable diethylsulfon conformers using the Hartrey-Fock և functional density method with a wide range of base sets.
+The construction of a potential energy surface is important because it helps to understand the relationship between potential energy and the geometry of a molecule.
+ The surface energy of a potential energy is the mathematical or graphical dependence of the energy of a molecule (or sets of molecules) on its geometry.
+  This is one of the cornerstones of computational chemistry.
+ One of the main problems of theoretical chemistry is the determination of the energies of the structures of molecules involved in chemical reactions, transient states.
+ The stationary points of the potential energy surface are of interest.
+ A stationary point is a point on a PEM where the surface is flat, that is, parallel to a horizontal line, corresponding to a single geometric parameter (either a plane corresponding to two geometric parameters or a hyperplane corresponding to more than two geometric parameters).
+  Mathematically, a stationary point is a first-order derivative of potential energy, equal to 0 according to each geometrical parameter.
+Stationary points that correspond to real molecules with finite life (as opposed to transient states that exist in an instant) are minima or energy minima, each of which occupies the lowest point on the PAM; each change in geometry results in an increase in energy.
+  PEMs can be characterized by their minimums, which correspond to the configurations, անց by the transient domain connecting those minimums.
+  In small systems with only a few minimums, it is possible to use the exact approach և to describe a complete PAM [17].
+ For systems with a high degree of freedom and a large number of minimums, it is difficult to calculate the exact approximation of the PEM.
+  In recent years, the PEM of small proteins has been studied, as well as topological studies of some peptides [18, 19].
+Settlement part. Quantochemical calculations of the isolated molecule of diethylsulfone were performed using the Gaussian 09 software package.
+ In Gaussian 09, molecular optimization "potential energy" calculations were performed using the Hartrey-Fock method (RHF) և Density Functional Theory (DFT / B3PW91) with 6311 ++ G (d, p) expanded base. functions.
+  The calculations were performed both in the gas phase and in the environment, in water.
+ The self-consistent reaction field (SCRF) method was used to take into account the effect of the solvent on diethylsulfone.
+Discussion of results. Potential energy dependence of diethylsulfone (DESO 2) from celestial angles D1 (C14-C4-S1-C7) և D2 (C10-C7-S1-C4) calculated from B3PW91 / 6-311 ++ G (d, p) և RHF / 6-311 ++ G (d, p) methods, three-dimensional is shown in Figure 1.
+ The nature of the stationary points on the PEM was confirmed by full optimization և oscillation analysis in the gas phase.
+The analysis of the potential energy surface of DESO2 in the RHF / 6-311 ++ G (d, p) gas phase showed the presence of nine stable conformers, from which four different conformers can be distinguished in the structure in one global minimum, when D1 և D2 amphibian angles 180  respectively. և 180,, a quadruple perverted structure, where the amphibian angles are 67   177 համապատասխան, respectively, a double pervert ՝ 64   64 , as a double pervert `71 և  84  (Figure 2).
+Figure 1. Potential energy dependence of a diethylsulfone molecule on a quadrilateral: D1 (C10-C7-S1-C4) և D2 (C14-C4-S1-C7), calculated (a) RHF / 6-311 ++ G (d, p) ( b) By B3PW91 / 6-311 ++ G (d, p) methods.
+According to Boltzmann's law of distribution, the relative population of the above-mentioned conformations of DESO2 has been calculated, taking into account the absolute energies of the mentioned conformations և the degrees of degeneration.
+ The relative population of equilibrium conformers (cid.
+1842) (cid.
+3036) was calculated in the following relation (cid).
+2013) (cid.
+3036) is the potential energy of the i-conformers (cid.
+1859) (cid.
+3036) is the degree of i-th conformity (cid.
+1863) (cid.
+3003) is Boltzmann constant, T is absolute heat (cid.
+1842) (cid.
+3036) (cid.
+3404) (cid.
+1859) (cid.
+3036) (cid.
+1857) (cid.
+2879) (cid.
+3084) (cid.
+3284) (cid.
+3038) (cid.
+3251) (cid.
+3021)
+∑ (cid.
+1859) (cid.
+3036) (cid.
+1857) (cid.
+2879) (cid.
+3084) (cid.
+3284) (cid.
+3038) (cid.
+3251) (cid.
+3021)
+(cid.
+3036)
+degree.
+As can be seen from Table 1, the relative population of stable conformers with 180 և 180 orbital angles of the DESO2 molecule in the gas phase is 31.1%, 67 և 177 - 52.0%, 64 և 64 - 15.9%, and 71 և -84 - 0.1% calculated by RHF / 6311 ++ G (d, p) method.
+  The relative populations calculated by the method B3PW91 / 6-311 ++ G (d, p) are slightly different, in particular, the relative population of stable conformers with 180 180և angles is only 19.2%, and 66 և 66 is 24.9%.
+In addition, the effect of solvent (water) on the relative population of conformers was assessed.
+  In particular, the relative population of 178 և 178 stable conformal molecules of the DESO2 molecule calculated in RHF / 6-311 ++ G (d, p) method was 17.4%, 65 և 175 - 51.8%, 62 և62. 29.3%, and 87 և -64 - 0.15%.
+ The data show that 67 կայուն ներից 177 (RHF) (similarly 69 և 179 (B3PW91)) stable conformers, both in the gas phase and in the aquatic environment, have the highest relative population of the stable conformations of the DESO2-molecule.
+Figure 2. Spatial structures of four stable conformers of DESO2 calculated by RHF / 6-311 ++ G (d, p) method. (a) D1 = 180, D2 = 180, (b) D1 = 67, D2 = 177, (c) D1 = 64, D2 = 64, (d) D1 = 71, D2 = - 84.
+Table 1. DESO 2 conformers (according to D1 (C14-C4-S1-C7) և D2 (C10) calculated by RHF / 6-311 ++ G (d, p) և B3PW91 / 6-311 ++ G (d, p) methods -C7-S1-C4) relative population (Pi), their absolute և relative energies in gas ուկ liquid phases, dipole moments և S = O valence-symmetric-antisymmetric fluctuations.
+Gas E, Hartree E har, kJ / mol!
+ (SO) as, smsm-1
+Due to the water-DESO 2 interaction in the gaseous medium, the relative population of the stable conformers of DESO2 changes, the dipole moment of the DESO2 molecule increases. .
+In the gas phase, the hydration energy of DESO2 (enthalpy) was calculated from the differences between the energies calculated in the aquatic environment (such as enthalpies).
+ According to Hess's law, the temperature of the transition from the crystalline phase to the liquid phase can be considered as the sum of the hydration enthalpies of sublimation: ΔH (solution) = ΔH (subl.) + ΔH (hydr.).
+It is known from the literature that the enthalpy of DESO2 sublimation is equal to 86.2 kJ / mol [21].
+ The theoretically calculated hydration enthalpy of the DESO2 molecule at 298 K is equal to -74.8 kJ / mol by the RHF method and -60.0 kJ / mol by the B3PW91 method.
+  Based on these data, the enthalpy of DESO2 solution was calculated, which in the case of the RHF method is equal to 11.4 kJ / mol, and in the case of B3PW91 - 26.2 kJ / mol.
+  The obtained data show that the crystalline DESO2 solution is endothermic in nature.
+Thus, the study of the potential energy surface of DESO2 was carried out in both gas and liquid phases by B3PW91 / 6311 ++ G (d, p) և RHF / 6-311 ++ G (d, p) methods.
+  According to Boltzmann's law of distribution, the relative population of DESO2 stable conformers in the gas phase և in the aquatic environment has been calculated.
+ The enthalpy of DESO2 solution calculated by the method of density functional theory matches well with the enthalpy of DESO2 solution with the experimental data.
+LITERATURE Surfaces.
+  Theory and Application to Peptide Structure and Kinetics, J. Chem., Phys. Mkhitaryan AshotDETHYSULPHON THEORETICAL CONFORMATION ANALYSIS Keywords: diethylsulfone, potential energy surface, conformity, relative population.

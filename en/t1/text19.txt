@@ -1,0 +1,92 @@
+It is known that the effectiveness of investments in projects is related to project risk management.
+  This is also specific to investment projects involving large-scale construction.
+  It is obvious that the effectiveness of investments in construction projects depends on the effective management of possible risks in the various stages of project implementation, in the design, construction and operation phases, as well as in their intermediate processes.
+ Projects where construction is carried out by several contractors and subcontractors are, in fact, more difficult to manage under other equal conditions.
+  In such projects, too, the general contractor is responsible, but the risks and responsibilities of the contractor and subcontractor organizations, coordination, cooperation, supplies, schedule, budget management, collaboration between groups of individual supervisors, and other issues can pose significant project implementation risks. , as a result of budget violation, as well as financial, good reputation of the project implementing organization, disruption of the normal work of the organization due to legal and other processes and other consequences.
+ Risk management is an integral part of the functions of all parties to the project, including the construction production process (hereinafter referred to as the ROP).
+  RBM risks are distributed among the parties (investor, designer, contractor and other parties) according to the contracts concluded for the implementation of the functions in the project, which implies the possibility of financial compensation in case of violation of the requirements.
+  [3,5] The effectiveness of project investments is linked to coordinated work and risk management at all stages of project implementation.
+  Currently, when making investments both at the scientific level and in organizations, design management is important, considering it as one of the main components of investment success in design.
+  Extensive work on design management is scarce, it is still a poorly studied area.
+ [12] In construction projects, the risks of the construction process are shared between the parties.
+  Some of the risks may arise due to improper organization and management of one of the main parties, as well as due to independent or third party factors.
+  In addition, the risks or probabilities that arise at one stage of the project in managing the risks may create other risks or adverse effects at other stages of the project and ultimately affect the investing entity.
+  It is known that it is not always possible to reduce or prevent the consequences of risks at other stages.
+  Examples of such risks are design, construction, breach of time, reputation and other risks.
+ Violation of the operation schedule of the object at any stage of the EIA can cause a decrease in the efficiency of investments for the investor, etc.
+  Often, fines or penalties under contracts cannot fully compensate for the consequences.
+ Well-known project management approaches involve project management within a given stage and contract responsibility.
+  It is obvious that in such a case the scope of risk management of the investing company is partially limited by contracts according to 237 ECONOMICS.
+  Regardless of the liability and risks shared by the contract, investing companies can bear the potential consequences.
+  Therefore, the effectiveness of the risk management of the investor in multilateral and multi-stage projects also depends on the effectiveness of the risk management of the organizations participating in the project.
+ E. Zavadkas presents the risk management process in projects in the following sequence of steps:  Identification,  Analysis,։ Control.
+ Identification is the identification of external, internal, risks of a project, which is followed by analysis: risk assessment, probability of occurrence, etc.
+ [10] Control measures include the prevention of risks and the likelihood of their occurrence through diversification and mitigation.
+  Risk reduction implies:  Commercial insurance,  Self-insurance  Merger and diversification.
+ [11] А. Yeganyan introduces risk management in construction projects in the following ways:  Refusal,։ Transfer,։ Acceptance,։ Reduction.
+  [4] In enterprise risk management strategies E. Holmes identifies the following methods: խուսափ Risk Avoidance,  Transfer,  Insurance,  Hedging,  Diversification 238 ECONOMICS The next stage of risk management in enterprises and projects is risk monitoring and management, the purpose of which is through external risk control and internal control. is the implementation of appropriate changes in the risk management strategy.
+  These actions, in essence, involve a change in the risk management strategy and individual methods of the party taking the risk.
+  [1] In essence, monitoring and control of risk mitigation and prevention measures is carried out by the party taking the risk.
+  It is obvious that the investing party of the project monitors its functions and the undertaken risks.
+ It is known that risks can arise, both due to the mistake of the project participant, but also due to independent or force majeure factors.
+  It is obvious that the organization responsible for this stage of project implementation is responsible for the financial losses and claims incurred.
+  There are cases for which the reasons are not connected with the failure of one of the parties.
+  For example, some types of political risk, natural or man-made local disasters / accidents (at the supplier organization), etc.
+  These cases can lead to supply disruptions and, consequently, to non-compliance with contract requirements, delays in service life and other consequences.
+  In such cases, the force majeure condition applies to the contracts concluded for the performance of works, which is usually fixed in the contracts.
+  On the other hand, the postponement of the terms of the contract can cause financial problems for the investing company: credit, other currency risks, delay of expected cash flows, decline in investment efficiency, etc.
+  Investigations, investigations and legal proceedings for insurance claims are time consuming.
+  Therefore, they can also affect the efficiency of the project and investments.
+  [14] 239 ECONOMICS At the same time, the undertaking carrying out the work can avoid or minimize similar risks by ensuring that the work is carried out and the appropriate level of risk management is ensured, such as resource management, supply diversification and other measures.
+ The effectiveness of investments is directly related to the effectiveness of risk management.
+  Therefore, one of the key factors in the effective management of investments in multi-stage, multilateral long-term large-scale construction projects is the effective management of risks by all parties involved in the project.
+ The need for effective and systematic risk management is a higher and more important factor, especially in large projects with a large number of contractors and subcontractors.
+  The projects, where the construction is carried out by small organizations, add to the multiplication of the mentioned risks the problems of carrying out mutually agreed, coordinated works.
+  Usually, the limited resources of small organizations also imply a low level of risk management.
+ In mainly developing countries, including Armenia, construction companies, being in the early stages of development, usually do not apply international standards for risk management or use the services of qualified projects, qualified risk management specialists.
+  The risk management qualifications of ISO 31000 and 31010 in Armenia are provided by the National Institute of Standards, but our observations have shown that currently construction companies in Armenia are not provided with any qualifications of international risk management standards.
+ [6] In many countries, construction project investors use qualified professional services to monitor the construction phase, in particular quality and technical conditions.
+  The purpose of quality and technical control is to ensure the compliance of the structure with the defined normative indicators.
+  The practice of construction quality and technical control (hereinafter referred to as SHOTH) is also applied in the Republic of Armenia and is a legislative requirement.
+  [13] It is essentially a monitoring / control process, which ensures compliance with the quality of the structure and the established normative technical requirements.
+  It is obvious that the fulfillment of the mentioned requirements is the responsibility of the contractor organization, on the other hand, it provides control-monitoring for the mentioned risks for the investing party.
+  The purpose of the legislative and normative requirements set by the state regulatory bodies for the NSC is the prevention of risks and accidents in the state, public, human security, environment, territorial administration and other spheres.
+  The control of the inspection bodies is the monitoring of the observance of the mentioned requirements.
+  [7] In practice, in order to ensure the effective risk management of the parties involved in the projects, the contracting party may establish or impose certain guidelines, standards, and requirements for the management of the risks or projects.
+  However, it is necessary for the contractor organization to have specialists with appropriate qualifications or skills who can implement and apply the established requirements.
+  In addition, such requirements may not always be present in the organization.
+  They usually require some experience, more resources, time and can not always guarantee the desired result.
+ Analyzing the above, in our opinion, the best risk management of an investor in large-scale long-term construction projects is to carry out 241 ECONOMICS organization of work, monitoring / controlling and analysis of risk management processes for investment efficiency, risk prevention and management.
+  However, from an impact point of view, the project team or manager of the investing party cannot directly influence the risk management process of the contractor's project.
+ Risk management monitoring undertaken by the project participants involves monitoring the measures taken to prevent and reduce the risks of the parties involved.
+  Monitoring provides an opportunity to assess and prevent the risk of possible error in management decisions.
+  It provides an opportunity to analyze and prevent the risk-taker from risk management, decision-making error, which may ultimately affect the cost and timeliness of the project.
+  It is obvious that the beneficiary of the monitoring is the investor, therefore the payment for the services of the monitoring group or specialist should be made by the investor.
+ The specialist in monitoring risks and project management in large-scale construction projects must, in fact, also have some construction knowledge.
+ During the construction phase, the implementation of some works implies solutions, changes in the preliminary design and non-standard decisions, solutions.
+  The mentioned non-standard solutions and changes are mutually agreed between the designer, the construction, site manager, as well as the quality and technical control specialist (hereinafter referred to as SHOTH).
+  According to the legislation, such an intervention is also within the competence and responsibilities of the SHOTH specialist, up to the cessation of construction, etc.
+  It is obvious that SHOTH specialist participates in the whole process of the project and has a high professional qualification, including the one defined by the legislation.
+  [7,9] In view of the above, in our opinion, in 242 ECONOMICS developing countries, in particular, in the project of large-scale construction in the residential (commercial and commercial real estate market) in the Republic of Armenia, the process of monitoring the RBM and risk management and prevention of possible risks can be done efficiently and at low cost by SHOTH specialists.
+  Normally qualified project managers and risk management professionals do not have the specifics of a PSC on an equal footing; on the other hand, project managers representing the interests of the investing party cannot in fact influence the parties involved.
+ The task of the investor is to increase the risk management efficiency of all SAA participants.
+  The role of SHOT specialists should be to carry out monitoring analysis of work and risk management processes in design, construction and other intermediate processes and to take appropriate measures.
+ The monitoring provided by us does not involve monitoring the risks undertaken by the organization, but monitoring and analysis of the entire project implementation process, the design and risk management process of the design, land, surveying, construction and other intermediate organizations, the results of which should be used. for the implementation of appropriate preventive measures.
+ Based on the above, we suggest that in order to increase the efficiency of risk management, speed up construction, design deadlines and budget deviations as little as possible during project implementation, project and risk management should be carried out through the management of SHOTH specialist.
+  In fact, the proposal may be more applicable and effective, especially when investing in residential and commercial real estate construction projects, where the "main" part of the project implementation is the SHAG phase.
+ 243 ECONOMICS The project management and risk monitoring process by a SHOT specialist in projects can increase the effectiveness of the project, including risk management, and fill the risk management gap of the participating small subcontractors.
+ The main task of the SHOT specialist is to analyze the risk management process by the parties involved in the project implementation and to identify deficiencies in order to prevent possible risks and reduce the impact.
+  The data obtained as a result of the monitoring are passed on to the investor, who re-evaluates the progress of the work, takes appropriate risk management measures, such as revaluation of reserves, revision of contracts, etc.
+  [8] The results of project risk management and work monitoring suggest certain measures.
+  On the other hand, it is obvious that the SHOTH specialist cannot directly influence or influence works and decisions.
+  The main form of influence is in fact consulting and proposing solutions.
+  The consequences of not following them should be borne by the party carrying out the work.
+ Conclusion From the above, it is concluded that the effectiveness of investments in large-scale construction projects depends on the effectiveness of risk management in certain stages of the project.
+  The effectiveness of investments in construction projects is related to the change in the activities of the participants in the whole process of the EIA, monitoring of risk management, risk reassessment and management, including management strategy, by the investment organization's risk management body.
+ The effectiveness of the project investments and risks is conditioned by the monitoring of the actual 244 ECONOMICS and the (risk-taking contractor) risk management process.
+  Appropriate changes in the investor organization's risk and financial management strategy based on the analysis of monitoring results and reassessment of risks can ensure the effectiveness of investments in the project, as well as prevent the risk of managerial and professional decision errors.
+  These cases can have a significant impact, both for the formation of the rating of the organization, as well as for the implementation of analysis and other purposes.
+ The participation of the SHOT specialist in the implementation of the monitoring also implies a change in remuneration due to the change in the objectives of the implementation of the work.
+  As in the case of monitoring activities, the task of the SHOTH specialist is to manage the project and risks at the SHAG stage, as well as to implement the project within the set time and budget.
+  Consequently, the remuneration should be carried out in parallel with the increase of the term extension and the increase of the deviation from the budget, on the principle of decrease.
+ .

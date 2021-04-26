@@ -1,0 +1,54 @@
+Human serum albumin (HSA) is the major protein in blood plasma, the concentration of which is the highest percentage of blood proteins and provides the osmotic pressure of plasma [1].
+  It transports a number of substances, including some proteins and various ions, pigments (bilirubin), hormones (thyroid hormones), steroids, free fatty acids, and synthetic drugs into the body.
+ The third important function of human serum albumin is that albumin is a rich and fast-selling protein storage.
+ Albumin also has conjugating and inactivating properties, so lowering its concentration increases the amount of free, biologically active compounds, including aggressive substances, in the blood plasma.
+  It consists of a chain containing 585 amino acid residues, 35 of which are cysteine, which form disulfide bonds, stabilizing the albino 85 mini tertiary structure.
+  The molecular weight of HSA is 66.5 kDa.
+ Studies [4] have shown that the gene encoding serum albumin is highly polymorphic, and more than 30 genetic variants (alloalbumin) have been identified.
+ In the blood plasma of healthy people, the concentration of HSA reaches 42 ± 3.5 g / l.
+  About 160 g of serum albumin is circulated in the bloodstream at any given time, [5] and its half-life is 19-20 days.
+ Serum albumin is widely used in various fields of practical medicine, in therapeutic practice for the treatment of large burns, hemorrhagic shock, hypoproteinemia and fetal erythroblastosis, as well as ascites caused by cirrhosis of the liver, to restore the osmotic pressure of blood plasma.
+  It is also used as a supplement in vaccines and protein therapies, as well as in the nutrient media used to obtain the latter.
+ Serum albumin is mainly obtained from donor blood.
+  However, there is currently a severe shortage of donor blood worldwide, which is associated with a decrease in the number of donors and an increase in demand for donor blood [4-6].
+  Restrictions on the use of albumin derived from donor blood are due not only to its high cost but also to the fact that it can transmit infectious agents to the recipient through its preparations, particularly immunodeficiency (HIV), hepatitis, and a number of other viruses.
+ From the clinical and economic point of view, the use of protein preparations obtained by modern biotechnological methods is becoming more important.
+  From the current trends in the world, it can be assumed that in the near future there will be a gradual replacement of blood-derived drugs with recombinant protein products.
+ At present, a number of effective production methods have been developed and are being continued to obtain human serum albumin by biotechnology.
+  Thus, in the last decade, 86 new cases have been developed for the production of human serum albumin, based on Escherichia coli [11], Kluyveromyces lactis [12] (patent US 6,686,179, 2004), Saccharomyces cerevisiae [13] (patent US 7,045,318, 2006). ) On the synthesis of this protein by Pichia pastoris microorganisms, transgenic animals [14] and plants [15].
+  Bacteria, being prokaryotic organisms, are not capable of carrying out the post-translational modification typical of proteins in eukaryotic organisms.
+ In addition, recombinant proteins may contain mixtures of endotoxins under the conditional pathogenicity of productive prokaryotic strains, resulting in prolonged use of recombinant proteins of bacterial origin with undesirable side effects and limiting the potential for industrialization.
+ 1981 For the first time, the rHSA gene was successfully expressed in the E. coli expression system by the American company Genentch and patented, but the level of expression was so low that it could not be used for industrial purposes.
+  Later, another American company used the P. pastoris expression system, which gave a result of 4-5 g / l and could be an industrial method.
+  1990 A Japanese company received a license (right) to organize production based on this method, the first product of which entered the international market in 1999. [4-6].
+ The first factory for the production of human recombinant albumin was launched in Japan, which produced 40 tons of products per year.
+  It started operating in 2000 [6].
+  Later, another industrial method based on transgenic rice was developed in China.
+  It is believed that the method of obtaining HSA from transgenic rice is very important for China, as there is a great demand for dietary protein in that country.
+  The HSA gene is inserted into the Oryza sativa gene by specific plasmids of Agrobacterium bacteria.
+  Moreover, the soluble protein contained in transgenic rice grain has a high content of OsrHSA (up to 10.58%).
+  This method makes it possible to obtain 2.75 g of human whey albumin (OsrHSA) with 99% purity from the transgenic version of 1 kg of ordinary rice (Oryza sativa).
+  The resulting OsrHSA is equivalent to pHSA in both biochemical properties and physical structure, function, and immunogenicity (their molecular masses are the same, the amino acid sequence is the same, the N and C ends, the secondary and tertiary structures of the molecule).
+  OsrHSA accumulates in large quantities in the endosperm of transgenic rice seeds.
+  Making human serum albumin in this way is economically profitable.
+ The processing of the resulting albumin involves its separation and three stages of chromatography: Capto-MMC, Q-Sepharose and PhenylHP, which are performed for condensation, desalination and lyophilization, respectively.
+ The cleaning process takes about 48 hours, and as a result, 45-50% of the protein can be recovered, which is equivalent to obtaining 2.75 g of OsrHSA from 1 kg of rice (purity varies from 99.45 ± 0.19% in the range), which indicates the reliability and high productivity of the cleaning technology.
+ One way to obtain recombinant albumin is to synthesize recombinant serum albumin by inserting the human serum albumin gene into the methylotrophic Pichia pastoris yeast cell, first tested in 1993.
+  It is a very convenient, relatively inexpensive and technically affordable method, the convenience of which is also due to the fact that the resulting albumin is released into the intercellular space, which allows it to be easily removed.
+ Pichia pastoris is a methylotrophic yeast that is widely used to make recombinant proteins.
+ Its advantages are: 1. relatively fast growth (takes 3-5 days from sowing to completion of biosynthesis), 2. High target protein yield (up to 40 g / l), 3. Nutrient availability (glycerin, methanol, ammonia), 4. Affordable fermentation price; 5. The possibility of obtaining large polypeptides (> 50 kDa), 6. the possibility of glycolysis, 7. the release of the resulting protein into the medium and the low cost of protease release.
+ The defects are due to the formation of immunogenic oligosaccharides during N-glycolysis.
+  In addition, obtaining not all proteins in these 88 methods is effective, and there are some patent restrictions for industrial production.
+ The use of P. pastoris expression system also offers a number of other advantages related to the ease of genetic manipulation, the presence of an efficient host-vector system that includes a highly regulated and highly adaptable AOX1 promoter, as well as disulfide the possibility of bonds and other eukaryotic post-translational modifications.
+ P. pastoris biomass is grown in BMG (peptone, yeast extract, glycerin) or BMG2 (yeast extract, glycerol) media, and the target material is synthesized by BMM (peptone, methanol, yeast extract, BM2 extract) ) in food media.
+ P. pastoris cells are able to grow in the range of 4-37 0 C, but the optimal growth temperature is 30 0 C.
+  When cells grow under aerobic conditions, the environment is slightly acidic (optimum pH 4.5-4.6).
+  As a source of carbon, cells can use a number of simple compounds: glucose, glycerin, methanol, etc.
+  Aminified mineral salts, amino acids and urea (both aerobic and anaerobic) can be used as nitrogen sources.
+ The most suitable for insertion of the HSA gene is P. pastoris AOX1 promoter, which regulates the expression of the enzyme alcohol oxidase, because when grown in methanol, the content of this enzyme can reach up to 30% of the total protein content of the cell.
+  So far, a number of recombinant proteins have been successfully expressed under the control of the AOX1 prompt.
+ The disadvantage of the AOX1 promoter is related to the growth of biomass in methanol medium, as the latter is highly flammable and toxic.
+ In addition, cells growing in methanol require high oxygen consumption, which requires the addition of pure oxygen to the food, increasing the cost of the process and limiting the possibility of large-scale growth.
+ Alternative promoters, such as the glyceraldehyde dehydrogenase promoter (pGAP), the formaldehyde dehydrogenase promoter (pFLD), etc., can be used as a food medium to circumvent the methanol need.
+ Summing up the above-mentioned, it should be emphasized that the application of biotechnological methods of obtaining human serum albumin is considered a modern, effective, perspective direction, and its investment in the field of practical healthcare in Armenia can have national significance and have great prospects.
+ .

@@ -1,0 +1,34 @@
+FOUR WIND FLIGHT DRAWER CONTROL The four-drone KATS consists of four engines, each of which rotates its propeller.
+  If we start the motors, at the expense of the torque, the CATS will start to rotate in the opposite direction of the rotation of the screws.
+ To avoid this phenomenon, the CATS was built with the following mechanism: the two screws rotate counterclockwise and the other two turn clockwise so that they are mutually balancing moments.
+  In the CATS, the screws are positioned as follows: the left-to-right-to-right-to-left-to-right-to-right-to-left-to-out-to-out-to-out-to-out-to-out-to-out-to-out-out
+  In order for the KATS to remain in the air in the horizontal plane, it is necessary that all four screws rotate at a speed that produces the same traction force.
+  When the traction force of the all-screw balances the gravity of the KATS, it will be in weightlessness.
+  If the force of gravity is dragged by a force of small (or large) gravity, it, while remaining parallel to itself, will fall down (will rise up).
+  If we increase the speed of rotation of the front and rear screws, the CATS will go out of the horizontal plane, will move to the left, and if the speed of the left screws increases, it will move to the right.
+Figure 1. Quadruple drone If we increase the speed of rotation of the screws rotating in a clockwise direction, decrease the speed of rotating the screws counterclockwise, then, at the expense of torque, the KATS will start rotating counterclockwise, counterclockwise, if counterclockwise Subtract those that rotate clockwise, then it rotates clockwise.
+CATS has six degrees of freedom, so we need six independent coordinates to describe the movement.
+To describe the position of the CATS, we introduce two, one fixed, the other mobile portable coordinate systems attached to any part of the body.
+Let us denote the starting point of a real coordinate system by that which lies on the earth's surface.
+  Let's attach the starting point of the mobile system to the center of body mass.
+  The corresponding axes of the mobile-fixed coordinate systems are inclined to each other respectively
+with angles (Euler angles).
+  For example, KATS is affected only by gravity և traction forces.
+Figure 2. The position of CATS in stationary և movable coordinate systems Using Newton's second law ից the theorem of momentum change in momentum, the differential equations of motion will be [1]: rotational angular velocity projections, torque projections, main moments of inertia, free acceleration.
+Consider the linear approximation of (1) in the case of zero preconditions [2].
+ We will have: Do the following assignments: (2) the system will take the following form, where: Thus, (4) we can write the system in the following vector-matrix form [3], where: (5) we use the Kalman theorem [4] to test systematic control.
+It follows that system (5) is completely controllable.
+Getting the KATS flight support along the given trajectory, for example:
+  at the moment
+These are the coordinates of the KATS Mass Center.
+The differential equations of motion are: Obtain conditions that provide the CATS motion in the horizontal plane with velocity և [5].
+  In that case, let's get that.
+ The differential equations will be: Suppose at some point in time the KATS deviates from a given motion.
+ The following functions describe these deviations: Compile the following auxiliary functions: Require that: (11) if the conditions are met, the CATS must maintain its position at all points on the desired trajectory, so it is necessary that (12) conditions can be written as follows: `1xgygzu234xyzuuu (,) deszzxyconst (,) desvvxyconst (,) fxyykxb02340,0,0uuu 100xyzu () ((), ()) () () ((), ()) () () ((), ()) desdesFtfxtytZtztzxtytVtvtvxtyt () () () () () () () () ffzzvdFtStkFtdtdZtStkZtdtStVt () 0, () 0, () 0fzvStStSt2220,0,0fzvdddSSSdtdtdt2222222,2,2fffzzzvvvdddSaSStdSSS ՝ Where: is positive constants and equations (13) provide
+striving for zero functions.
+Thus we have: These equations provide the motion of the CATS with a given trajectory.
+As a result, we get: If we put (8) in equations (15), we will have: Return: Now we get the conditions that will provide the CATS in the horizontal plane with the velocity շարժ trajectory.
+  In that case we will have that.
+The differential equations will be: Suppose at some point in time the KATS deviates from a given motion.
+Making the same judgments as in the previous problem, the equations corresponding to (14) -conditions will take the following form, by placing (18) in equations (19), we will get: Given that in the case of rotational motion, we get: Do the following: We get: LITERATURE multicopter flight apparatus, Theoretical and suitable mechanics.
+ Moscow Zakoyan ABOUT THE FLIGHT FIGHTING OF A FOUR-WIND FLIGHT DEVICE Keywords: four-drone, steering, trajectory, differential equation,

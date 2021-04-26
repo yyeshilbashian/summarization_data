@@ -1,0 +1,31 @@
+APPLICATION AREAS Engineering geophysical methods ANHRAZHESHTUTYUNEURBANIZATSVATS YEVJRAERKRABANAKAN CONDITIONS OF STUDY NPATAKOVKaghakneri urbanization and physical operation caused by multiple technical fields that are, on the grounds interacting territories amend their civil engineering and geological jraerkrabanakanpaymannere, rock physics, mechanical, elastic and jrafizikakanhatkutyunnere [1].
+ Significant ground masses are being moved for the purpose of industrial և civil construction growth և improvement works, ground heat exchange, groundwater level և unloading conditions, slope stability condition.
+  An example of such territorial changes for the city of Yerevan is given in Figure 1.
+Figure 1. Changes in the construction of the city of Yerevan in the period 2000-2014. The mentioned changes mostly contribute to the activation of geological processes: landslides, suffocation, wind, floods, etc. occur (Fig. 2).
+  These changes inevitably have a "negative" effect on the seismicity of the areas.
+The source of artificial physical fields are energy-mining complexes, electrified railways, subway, high-voltage alternating current lines.
+Figure 2. Examples of man-made landslides and landslides in the city of Yerevan. The depth of the mentioned impacts can reach 20-50 m, and taking into account the operation of underground structures (tunnels, metro, etc.), it exceeds 50-100 m [1].
+The geological environment of urban areas is also affected by  high-rise buildings, large factories, garages, transformer substations, etc., the relative density of construction, սահմանափ the limited space, which forces some industrial and civil buildings to be located in unfavorable areas.
+Man-made static stresses affect the topsoil of the geological section, resulting in condensation of the groundwater.
+ These voltages can vary from 0.01 MPa to 0.5 MPa [1].
+Another type of man-made impact is groundwater discharge, which leads to a decrease in the groundwater hydrostatic level, an increase in stresses, a different compression of the soil mineral structure, and the formation of depressed funnels.
+  Dynamic-mechanical effects in ground masses are significant, which cause mechanical oscillations up to several hundred thousand Hz.
+ Vibrating speeds (dB) և frequencies (Hz) within the following limits are characteristic for urban transport [1].
+• Highways: 40-66 dB, 10-20 Hz, • Railway: 110-120 dB, 10-30 Hz, • Metro lines: 75-85 dB, 30-60 Hz.
+The effects of these man-made factors in the application of different geophysical methods should be taken into account in assessing the seismic risk of urbanized areas [3].
+  It is known that a necessary condition for the effective use of these methods is the differentiation of soils depending on their physical-mechanical-hydrogeological properties.
+ For seismic micro-zoning, geophysical methods are used to solve the following objectives: • Separation of engineering-geological section using electro-seismic sensing methods.
+  During these works, the limitation of urban areas and the high level of obstructive fields should be taken into account.
+ It is necessary to choose the methods and equipment that allow to work in conditions of high disturbances.
+As an example, Figure 3 shows the results of the proposed electromagnetic field recovery method in the city of Yerevan.
+a) registered curve b) treatment resultsFigure 3. Results of groundwater level determination by electromagnetic field recovery method
+  It is used to: • Determine groundwater level depths ուսումնասիր to study the geological conditions of areas.
+• For engineering geological section separation, evaluation of soil elastic characteristics.
+According to the results of the studies of the method of restoration of the electromagnetic field carried out in the territory of the city of Yerevan, according to the data of the existing wells, a map of the groundwater installation depths in the territory of the city was drawn (Fig. 4).
+  It shows that the groundwater level has changed significantly, which has an impact on the seismic risk of the area.
+Figure 4. 2014 Map of groundwater installation depths in the city of Yerevan, built for seismic micro-zoning. The velocities of longitudinal waves propagating in the area have been adjusted. քարտեզ For the first time, an image value map has been built, which is presented in Figure 5.
+Figure 5. Map of longitudinal wave propagation velocities in the Yerevan area. A set of geophysical methods has been used to assess the seismic hazard change in the area.
+ A seismic micro-zoning map of the city of Yerevan has been constructed [5], which is shown in Figure 6.
+Thus, the results of geophysical studies conducted for the city of Yerevan prove the necessity of their application for the solution of engineering-geological-hydrogeological problems, including the assessment (reassessment) of the seismic hazard of the area.
+Figure 6. Map of seismic micro-zoning of Yerevan areaLiterature 1. Seismic construction design norms. HHSN II-6.02-2006.
+Gevorg Muradyan geophysical methods ANHRAZHESHTUTYUNEURBANIZATSVATS APPLICATION AREAS Engineering YEVJRAERKRABANAKAN CONDITIONS OF STUDY NPATAKOVBanali words, urbanized areas, man-made physical fields, jermapokhanakutyun, geological conditions fizikamekhanikakanhatkutyunner, seismic hazard, seismic micro-zoning, geophysical methods.

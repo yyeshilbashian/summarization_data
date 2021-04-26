@@ -1,0 +1,37 @@
+NH2 / NH2 EXTREME GROUPS OF ANILINE TRIMERIZATION AND SOME TRANSFORMATION RESISTANCE Polymers are high molecular weight compounds consisting of repeating structural units.
+  The discovery of their practical possibilities is rightly considered the revolution of the 20th century.
+ Organic polymers have long been considered to be good insulators, and because of this property, they have been widely used in many fields.
+ And, unfortunately, there was one area where polymers were inferior to metals, and that was electrical conductivity.
+ However, this was challenged when a class of new polymers emerged that were able to conduct electricity, revolutionizing science and technology.
+ These are conductive polymers (the latter are called synthetic metals [1]) whose electrical conductivity increased as a result of their interaction with certain materials.
+  Such a process is called doping.
+  Note that conducting polymers can come in two different forms: non-conducting polymer (non-doped polymer) and conductive polymer (doped polymer).
+ In addition, transmitting organic polymers are insulators or semiconductors in unbonded state [1].
+Of the conducting polymers, polyaniline (PANI) is the most promising, which is the most promising due to its easy synthesis, low monomer cost, manageable properties, air oxygen and environmental stability [2,3].
+  PANIs are probably the earliest synthetic polymers to be discovered.
+  It was first discovered in 1835, obtained by oxidation of aniline, used as a dye known as "aniline".
+  Interest in PANI has grown over the last decade due to the fact that they have been classified as conductive polymers, which has further expanded the scope of PANI applications.
+The structure of PANI in general can be described as follows: It has been found that PANI can exist depending on the degree of oxidation of three different eggs [3,6].
+1. Leukomeraldine (y = 1) - is a fully restored PANI egg. 2. Pernigroaniline base (y = 0) - is a completely oxidized egg of PANI. 3. Emeraldine base (y = 0,5) - is the average oxidized egg of PANI. , in many biological fields և requires the synthesis of polymers with a certain structure.
+  It is known that the properties of a polymer depend on its microstructure, which is a stimulus for the synthesis of polymers with a chemical structure similar to PANI.
+ It has been found that polymers with such a structure can be synthesized by oxidation of p-phenylenediamine by condensation.
+  In particular, Cataldo [7] found that the polymer obtained by oxidizing PFDA in a hydrochloric medium was similar in its spectral data to the oxidized horse PANI, but he presented the following structure.
+For the first time, as a result of the research carried out in the laboratory of YSU Faculty of Pharmacology and Chemistry, it became clear that the oxidation of p-phenylenediamine in potassium persulfate in hydrochloric acid proceeds with the release of ammonia, but did not have the structure suggested by Cataldo.
+  At the same time, it was found that hydrochloric acid undergoes adverse reactions, the structural units of which affect the properties of the polymer.
+  To reduce the likelihood of these reactions occurring, condensation was performed by oxidation of aromatic amines in an organic medium.
+  Aniline oligomers are important in that they are not only model compounds for one of the most promising conductive polymers, polyaniline, but they can also exhibit interesting properties.
+  Since the reaction is polycondensation, by changing the molar ratio of the oxidizer to the starting material, it is possible to obtain both polymers and oligomers.
+ In particular, we used this method to obtain N, N`-bis (4-aminophenyl) -1,4-benzoquinonodiimine (aniline trimmers with NH2 / NH2 end groups), hereinafter referred to as erythrocytes.
+ Condensation by oxidation of p-phenylenediamine was performed in acetic acid medium, PFDA / K2S2O8 1.
+At a ratio of 0.25 molar.
+The structure of the obtained compound was confirmed by MRI 1H, EC Մ UM spectroscopic methods.
+ According to the literature, sodium thiosulfate և hydrazine hydrate is used as a reducing agent for polyaniline.
+  The interaction of the model trimmer with the above-mentioned reagents was studied from the side.
+  However, our studies have shown that as a result of this interaction, not 1. recovery, but a reaction of hydrazine hydrate-thiosulfate 1.4-connection takes place.
+In particular, it appears from the UV spectrum that, as a result of the interaction of sodium thiosulfate with hydrazine, the quinonodiimin group is converted to phenylenemine.
+Fig.1. WHO spectrum? Dependence of D on λ (nm) As the oligomers mentioned, they իրենքs can show interesting properties.
+ That is why we doped the obtained trimmers with iodine tetrachloride carbon solution.
+  It was shown that at a depth of 2.76 doping, the electrical conductivity of the trimmer increased to 5.97 × 10-7 C / cm.
+ The resulting electrical conductivity is at least 4 orders of magnitude higher than in the case of unpaired trimmers.
+Literature 7. Cataldo F., On the polymerization of p-phenylendiamine. Euro Polym J..1996; 32 (1).
+43.NH2 / NH2 end groups and some of its receipt aniline TRIMERI POJemma Haroyan, Nagharsh Mirakyan Narine DurgaryanBanali words, Mr. fenilendiamin, N, N`- bis (4-aminofenil) -1,4-benzokhinonodiimin, KHARKUMNERI USUMNASIRUTYUNEdopatsum, elektrahaghordakanutyunAmpopum.

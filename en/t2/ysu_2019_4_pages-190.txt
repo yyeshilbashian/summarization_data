@@ -1,0 +1,141 @@
+PROBLEMS RELATED TO THE END OF THE ATTACK IN THE CRIME Abduction is classified as a classic crime, that is, crimes that have been punished at all times.
+ Despite the long history of development, many issues related to embezzlement still do not have a definitive solution.
+  Determining the exact time of the robbery is of great practical importance.
+ The moment of completion is decisive for qualifying the act as an attempted crime.
+Attitudes toward ending abductions have changed dramatically throughout human existence.
+ Of the existing theories, three are the most widespread.
+The oldest of these is the theory of touch or contrectatio.
+  The basic idea of ​​the theory is that the crime ends when the offender illegally touches another person's property.
+ This wording is based on the wording in Roman law given by the philosopher Paul.
+ The theory of touch goes very deep; it considers the crime over at the moment when the property relations are still broken,, even the intent of the criminal is ambiguous.
+  The extreme of this approach has made it unviable; already in the 17th-18th centuries the theory of touch had already been pushed out of practice.
+ In contrast, the other two approaches presented below are still relevant today.
+The eviction theory, or so-called Ablations-theory, considered theft as complete when the offender succeeded in removing the property from the building where the property was located.
+ This theory changed over the years as many theorists considered it flawed, citing two main factors: first, it was not clear how much of the stolen property had to be removed from the building in order for the crime to be completed; second, theorists considered it to be factual A rupture of the connection between the owner and the property is possible in cases when the property is not taken out of the building area.
+At the current stage of development of criminal law, this theory is known as a theory of real possibility, the main content of which was referred to by G. Krieger.
+  He mentions in his work that the perpetrator of embezzlement needs the clarity of two circumstances: causing damage and enriching the criminal at the expense of the abductee.
+  Գ. Krieger argues that embezzlement should be considered terminated not when the property is in the possession of the offender, but when the person begins to actually own the property, having a real opportunity to dispose of it at his own discretion.
+ Occupations-theory was more widespread in the 19th and 20th centuries, according to which embezzlement is considered complete when the property is transferred from the owner to the criminal.
+  In the context of this approach, subtypes are distinguished: withdrawal theory, in which case embezzlement is considered complete from the moment of removal from legal possession, և possession theory, when it is necessary to recognize the crime as complete, the criminal's possession of the property must be confirmed.
+ In earlier times, the theory of possession was interpreted too broadly to mean that the crime was completed not only when the property was taken out of the possession of the owner or other title holder, but also when the offender kept the property in a position that could be considered his. .
+ To express such a position, in particular, the Russian Senate in the case of Turkov.
+ Criminologist L. Belokritz-Kotlyarsky, therefore, considered that the item was stolen not only when the criminal was already carrying it, but also when it was prepared to be carried.
+  As an example, he cited the situation when a criminal puts something in his pocket with the intention of evicting it from the owner's apartment.
+ The same situation I. Foinitsky assessed it differently.
+ According to him, the property has not been stolen as long as it is in the area under the victim's control, therefore, if the offender has seized the property in the structure belonging to the victim, which is a basis for viewing the attempted robbery as a completed crime.
+  It follows from the above example that even the theory of possession does not offer an unambiguous solution to the end of the crime, so in this work our task is to discuss the approach to the end of embezzlement, which, in our opinion, is more in line with the current stage of criminal science and practice.
+ There are many situations when the moment of end of embezzlement is the same, regardless of the theory used.
+  In some cases, the offender gets a real opportunity to dispose of the property at his own discretion when he takes the property out of the victim's possession.
+ The existence of such situations provides a basis for sometimes identifying the real possibilities of mastery.
+  That is why criminologists distinguish several situations when there is a time gap between those two moments.
+• Robbery with a safe, such as a safe, if the offender is unable to remove the property from the safe.
+  In such cases, the crime of possession will be considered completed with the removal of the archive from legal possession, and in the theory of real possibility, with the removal of the property from the storage.
+• Prosecution of a criminal when the offender is caught.
+According to the theory of possession, in the described case the crime is over.
+ Regardless of the fact that the criminal is being prosecuted, the rightful owner or owner has already suffered damage and has been deprived of the opportunity to exercise their property right.
+  The other theory, on the other hand, considers the act to be an attempt to commit a crime.
+• Theft from a protected area, when the offender hides the property without taking it out of the area.
+  From the point of view of possession theory, such cases are more often considered over, on the grounds that the lack of information on the specific location of his property, apparently, does not allow the owner to use the property.
+ From the point of view of the theory of real possibility, the criminal did not have the opportunity to interpret the crime, so the interruption of the act at this stage allows it to be considered an attempt to commit a crime.
+• Theft from a facility or area belonging to the victim when the offender removes the property from such facility / area but remains inside it.
+  There is a similar case when the theft is thrown out of the window.
+  The actual connection is broken between the "property" of the rightful owner, but the criminal still has the opportunity to use or dispose of it.
+The theory currently used in the RA criminal law doctrine and practice is the theory of real possibility.
+  More detailed interpretations of the real possibility are found in the positions expressed by the USSR Supreme Court.
+ The following statement was made in the 1972 work of the Plenum of the Supreme Court of the USSR "On the Practice of Cases of Embezzlement of State and Public Property". "The theft must be considered over, if the property is taken out of legal possession, the criminal has a real opportunity to dispose of it at his own discretion or use it."
+  In our opinion, such an approach is critical.
+  The vulnerability of the theory can be discussed from four main points of view: • it contradicts the notion of embezzlement և the definition of material crimes, • the theory connects the moment of completion with the evaluation category, • it interprets the interpretation of the notion of "real opportunity" of the victim.
+1) In general, in order to correctly understand the moment of the end of the crime, it is first necessary to refer to the differentiation of material and criminal offenses.
+  According to the peculiarity of the method of legislative description of crimes, crimes are material, partial.
+Moreover, if achieving dangerous consequences is a mandatory feature for material crimes, then in the case of criminal offenses, it is sufficient to consider the relevant action or inaction completed.
+  In the basis of such differentiation of crimes, many theorists place exclusively the public danger of the act.
+  V. According to Filimonov, such a variant of crimes is based on the principle of "The more valuable the object of the crime, the more grounded is the fixation of the crime as a crime".
+  However, the differentiation of criminal offenses is not based solely on the value attribute of the object.
+  As O. rightly states. Yermakova, in the case of such an approach, the exceptions to the rule would be more than the regularities.
+  That is why it is proposed in criminal law to condition the differentiation of crimes with the probability of the occurrence of material consequences.
+ No matter how valuable property relations are, it is understandable and logical that they can never surpass the public relations, which are aimed at the protection of the individual, health, constitutional order, etc.
+ In terms of the inevitability of criminal consequences, property relations as the object of embezzlement do not suffer in all cases, as the criminal's attempt to seize another property may be unsuccessful.
+  Therefore, in any of the interpretations of the classification, embezzlement is classified as a material crime.
+The object of the crime shows that the right of a person to dispose, possess or use his property must be restricted by criminal encroachment.
+ Material crime presupposes the existence of certain dangerous consequences, such as property damage borne by the property owner or other lawful possessor.
+The analysis of the object of embezzlement, the nature of the crimes, gives grounds to conclude that the encroachment on property should be considered over from the moment when the owner is harmed, ie the latter violates his constitutional right to dispose of, possess, use the property at his own discretion. bears property damage.
+ And the person bears property damage regardless of whether the criminal had the opportunity to manage or not.
+ Therefore, we think that linking the moment of the end of the crime with the real possibility generally contradicts the definition of material crimes, the nature of the object of theft.
+2) The theft is considered completed from the moment when the criminal had the opportunity to dispose of the stolen property.
+  The interpretation of the concept of possibility is not available in the Code.
+  He did not receive any comments from him in the case-law of the Court of Cassation.
+ The definition of the moment of the end of the crime is conditioned by the evaluation category, which, in our opinion, gives the law enforcer a very wide range of discretion.
+ Naturally, this does not go unnoticed; different, sometimes even contradictory positions expressed in similar cases emerge in different courts, which in some cases lead to abuses.
+  For example, the study of the case law of the Russian Federation shows that the possibility of possessing or using the possession of a criminal is usually confirmed in cases when he is able to hide from the crime scene with the stolen property.
+ Conversely, the act is almost always considered an attempt to commit a crime if the criminal was caught at the crime scene or not far from it.
+  The justification for this is the comments made by the Russian courts, such as "the person was caught at a very great distance from the crime scene, which leads the court to conclude that what happened is an attempted robbery" [11], "the criminals could not carry out the intention, because that they were spotted by police officers 15 to 20 meters from the scene of the crime, not receiving a real opportunity to dispose of the stolen property. "[12]
+  On the contrary, there are other positions.
+ For example, in one case, a P. tried to hide by stealing M.'s bag in the street, but the law enforcement bodies pursuing him stopped him a few minutes later.
+ In any case, the court described the act as a complete robbery, noting that he had a personal opportunity to dispose of the robbery.
+ 3) The RA Civil Code stipulates that the right of disposal is a legally secured opportunity to determine the fate of property.
+Another problem that arises in the realm of the theory of real possibility is the limited interpretation of the word.
+In legal practice, managing is connected with selling.
+ That is, if a security has been stolen, the theft will be considered over when the person has the opportunity to sell, donate, exchange or, for example, exchange it with the equivalent amount in the bank.
+  Meanwhile, in the sense of Article 163 of the RA Civil Code, the management presupposes the fate of the property, that is, the destruction of the property, the abandonment of the property are considered as types of management.
+ The theft of securities and money with paper horses, accordingly, should be considered the finished criminal's hand from the moment it passes, because he can tear it at any time.
+  In our opinion, a more illogical situation arises in the case when when we say to manage, we mean to throw away the property. This is a classic version of management, but the criminal can throw away the property at any time, even in case of persecution.
+  The question arises why in practice these cases are qualified as an attempt at a crime and not a completed crime.
+In this regard, many criminologists argue that throwing away or destroying does not fit into the notion of real possibility.
+ They can be placed only in the abstract possibility.
+ Other criminologists point to the fact that the destruction or disposal of property is not for profit, so it can not be included in the content of the theft.
+  However, the current draft of the RA Criminal Code (22.10.2017) stipulates the possibility of direct disposal, ie, in contrast to the decisions of the Plenum guiding the law of the Russian Federation, which stipulates both the term "real opportunity" and directing for profit, the project does not exclude destruction. or the notion of throwing control, in the context of which the theory of real possibility is somewhat meaningless.
+ Moreover, if we look at the content of a real possibility from a philosophical point of view, it is interpreted as an opportunity that can become a reality in the circumstances of a particular situation.
+ It follows from the interpretation of the concept that in certain circumstances it is realistic to dispose of it by destroying or disposing of the property.
+ In terms of the mercenary goal, we consider it necessary to emphasize that the theory of criminal law refrains from considering that goal as a mandatory feature of the crimes of embezzlement.
+4) The inclusion of the act in the Criminal Code emphasizes the objectivity, the protection of which is aimed at a specific criminal legal norm.
+  Crimes against property encroach on the right to personal property, hence the criminal law is aimed at the protection of the right to property.
+  In case of being guided by this comment, it is obvious that in case of theft, the property rights of the owner are violated, then the norm protecting it is violated.
+  The concept of real possibility artificially delays the moment of completion of the crime, unjustifiably improving the condition of the perpetrator.
+Such an analysis gives reason to claim that real opportunity has many shortcomings և in practice it can lead to conflicting positions rather than accurate situational solutions.
+In this sense, the theory of mastery seems more acceptable.
+  However, the theory of possession has shortcomings, which make its applicability problematic in the RA criminal justice system.
+ In the framework of this research work, we consider it necessary to identify the shortcomings of this theory and give acceptable solutions to them.
+First, the theory of possession, stating that the offense must be deemed to have ended after the property was taken out of the possession of the title holder, gives reason to many theorists to conclude that in such a case the possibility of a criminal offense is ruled out.
+  Meanwhile, in the conditions of such approximation, all the cases when the criminal wants to take the property from the owner, but fails, or in case of taking the property in the apartment, the person fails to leave the apartment, will be qualified as an attempt to commit a crime.
+In the case of theft from an apartment or other area under the control of the rightful possessor, the act should be considered completed theft only if the offender removes the property from the said area, because the presence of the property in that area suggests that the rightful possessor still possesses the property.
+ An exception can be made only when the criminal conceals the property in such a way that the lawful possessor is deprived of information about its location, thus depriving him of the opportunity to dispose of, possess or use the property.
+ The act will be completed if the criminal, being in the area of ​​the apartment, sells the illegally acquired property, as the legal connection between the owner and the property will be actually broken.
+The other problem arises in connection with the cases when the robbery started as a robbery turns into a robbery, or the robbery turns into a robbery.
+ The theory of real possibility qualifies these cases as theft, respectively, which has turned into robbery, that is, robbery in the end, or robbery into robbery.
+  In the case of the theory of mastery, such situations will need to be interpreted in a slightly different way.
+If a person is noticed at the moment when the latter has already managed to get the property out of legal possession, the theft will be over, so it can not be considered a robbery.
+  In such cases, it is possible to use the egg while committing the objective side of the crime.
+ The subsequent behavior can be assessed only in case of committing other crimes.
+In cases where a person uses violence after committing a robbery to keep the stolen property with him, progressive powers describe the act as robbery.
+ This approach is enshrined, for example, in the criminal codes of Japan and Germany.
+  Article 236 of the Criminal Code of Japan stipulates: "A person who, by using violence or threatening to seize his property from another person, is recognized as a robber, is punished with imprisonment accompanied by forced labor for a minimum of five years."
+  Article 238 of the same Code establishes liability for embezzlement as a "robbery offense."
+ The same approach is also present in the German Criminal Code, in particular, Article 252 of the mentioned Code stipulates: "A person who is caught at the scene of a robbery and uses violence or a direct threat to his life or health to keep the stolen items in his possession shall be punished in the same way as a person who has committed robbery."
+  This approach is acceptable, but we think that the second approach in the theory is more acceptable, according to which a person's resistance after the robbery should be assessed according to the crime, for example, causing minor damage to health, causing moderate damage to health. և etc.
+ In such cases, it would be desirable to add a quality type to those crimes - the commission of a crime with mercenary motives, as, for example, in the crime of murder.
+The qualification of theft is a serious problem in cases when the criminal returns the stolen property.
+ It should be noted that no theory offers a solution in such situations.
+  From the point of view of possession theory, it is impossible to voluntarily renounce the act from the moment of taking the property out of legal possession, because the crime is over from that moment, so the return of the stolen property cannot be considered a voluntary renunciation of the crime.
+ Active repentance is possible only in the case of committing a minor և crime, so release from punishment on the basis of active repentance is possible only in certain cases of embezzlement.
+At the same time, it is obvious that the degree of public danger of situations of returning or not returning property varies.
+ Therefore, we think that an incentive norm for embezzlement can be envisaged, with the following content: "A person who, after committing embezzlement for the first time, returns all the stolen property, is released from criminal liability, if the act committed by him does not contain any other corpus delicti."
+In such cases, only the person who committed the crime for the first time can be released from responsibility, otherwise we are afraid that it will lead to abuses.
+ The concept of embezzlement is not explicitly enshrined in the codes of many world powers.
+  However, the concepts of their individual types are so clearly established that the moment of the end of the abduction can be deduced from them.
+ Article 242 of the German Penal Code defines theft. "The removal of another person's movable property from his possession with the intention of selling it illegally is punishable by up to five years of imprisonment or a fine."
+And Article 311-1 of the French Criminal Code stipulates: "Stealing is the deception of another person's property from his possession."
+Now let's talk about domestic regulations.
+  Valuable provisions on the protection of property rights are first of all contained in the Constitution of the Republic of Armenia, in particular, "In the Republic of Armenia, all property rights are recognized and equally protected" (Article 10), "Everyone has the right to possess, use and dispose of property acquired legally" (Article 60).
+ The RA Criminal Code does not define the concept of embezzlement. The fact that a specific crime is a type of embezzlement stems from its disposition, for example, theft is a significant amount of embezzlement.
+  There are no judicial acts interpreting the superior instances.
+  Instead, the draft criminal code gives a general definition of embezzlement. "Theft - making someone else's property illegal, gratuitous criminal or other person.
+ The theft is considered completed if the criminal had the opportunity to illegally dispose of or use that property. ”
+The drafting of the project has removed the real word, conditioning the end of the crime with the mere acquisition of the opportunity to dispose of or use the property, but this, in our opinion, does not solve the problems raised in the scientific work.
+  Although giving a common notion of embezzlement, the removal of the word "real" from the wording should be generally positive, we think it would be more correct to include in the draft the version enshrined in the legislation of Germany, France and other advanced countries.
+ In particular, in the draft of the Criminal Code, the notion of embezzlement can be formulated as follows:
+  The embezzlement is considered completed at the moment when the owner or other holder of the title is deprived of the opportunity to manage, possess or use the property. ”
+We believe that this proposal aimed at improving the legislation can significantly contribute to the effectiveness of law enforcement practice.
+LITERATURE personal and empirical, SPb., 1901, p. 179-80 (cid.
+0) URL.
+ http:
+//www.allpravo.ru/library/doc101p0/instrum7160/item7161.html.

@@ -1,0 +1,56 @@
+MICHAEL CONDENSATION OF ACRYLIC ACIDS IN THE MAIN ENVIRONMENT Micro-condensation reaction enables the addition of different types of α, β-unsaturated carbonyl compounds (acceptors) to new chambers.
+Condensation of acrylic acid derivatives with CH-acids results in the production of multifunctional compounds that form the basis of many biologically active compounds [1], dyes, and antibiotics [5-8].
+ Condensation of α, β-unsaturated carbonyl compounds (acceptor) ե nucleophilic reagents (donor) can be catalyzed in basic or acidic medium.
+ In the first case, the nucleophile is an anion, an enolate is formed as a result of the interaction (the reaction is catalyzed on the basis), which later interacts with acrylic acid and its derivatives.
+ In the second case, the acceptor is activated by an acid catalyst [4].
+At present, the use of acid catalysts is being pushed back due to the formation of hazardous effluents in organic synthesis due to the corrosion hazards of the equipment.
+Basic environment systems have always been used to transform organic compounds.
+ Particularly important is the use of interphase catalysis for the formation of carbanions.
+They act as nucleophiles in Michael's reaction.
+  In the system of organic solvent, base, aqueous solution, the function of the base is to deprotonize the substrate to form the corresponding anionic particles.
+ They are based on alkali-alkaline earth metal alcohols, hydrides, hydroxides, carbonates, as well as naams.
+It is known that the kinetics of the reaction of aqueous N-tri (hydroxymethyl) methyl acrylamide-fatty decylamine in a two-phase water-heptane system in the presence of surface materials (dodecyl, triethyl amide) was studied within the framework of the oil-water model system.
+  It has been shown that by increasing the interphase surface և the mixing speed of the reaction mixture, the reaction speed increases [3].
+  The reaction of soluble diethanolamine with fatty butylacrylate was carried out in the presence of interphase catalysts, quaternary ammonium salts, in a two-phase water-heptane system [2].
+The effect of quaternary ammonium salt (CHA) on the reaction of acrylamide (methacrylamide) ետ acetoacetic acid ester is very significant [5-8].
+ Tetramethylammonium chloride (TMAC), trimethyl, heptyl ammonium chloride (TMAC), trimethyl, cetyl ammonium chloride (TMAC) were used as NSAIDs.
+  It has been shown that the coupling reaction rate increases with increasing size of the hydrophobic portion of the CHA.
+Thus, the reaction rate, which is endowed with greater surface activity, contributes more to the increase of the reaction rate.
+  For example, the reaction rate in the case of TMAC is twice as high as in the case of TMAC.
+It has previously been shown that acrylic methacrylamide interacts with acetic acid ester և a number of other CH acids in the presence of various quaternary ammonium salts in the two-phase catalytic system in the presence of antioxidants suppressing the polymerization of base amides [20-30 ° C].
+Continuing the research in this field, in this work the condensation of butyl acrylate with acetate acetate ester was carried out under basic conditions with the presence of interphase catalysts at a temperature of 20-30 0C.
+ The homogenization of the reaction mixture is facilitated by interphase catalytic conditions, providing milder conditions (20-30 0C).
+It is known that Michael condenses in position 1, 4, then regrouping takes place.
+  The higher the double-bond activity of the acceptor molecule C = C, the higher the positive charge on the β carbon atom - qβc և the negative charge on the carbonyl oxygen - q0.
+ This explains the slowing down of the reaction of acetic acid ester with methacrylamide, while the reaction with acrylamide is faster.
+Attention has been paid to the fact that in case of small production conditions it is necessary to avoid the addition of any reagent in the reaction mixture as much as possible, as they are expensive, their cleaning and return are associated with technological difficulties.
+Table 1 shows the output of reaction product (2) for different catalysts.
+RAcEtO2C + I, IIIII, IVAcEtO2CCONH2RCONH2AcEtO2C + COOBuAcEtO2CCOOBu Butilakrilati interaction atsetakatsakhattvakan air temperature of 20-300C, various interface catalysts depkumAghyusak 1. KatalizatorELK% ammonium chloride without katalizatorTetrametil (TMAK) Trimetil, heptil ammonium chloride (TMHAK) Trimetil, tsetil ammonium chloride (TMTSAK ) Trimethylbenzylammonium chloride (TBMAC) Taking all this into account, the reaction was calculated by reagent at 0 = 105 min, at equimolar ratios of T = 30 0C, CI
+temperature.
+The experimental conversion rate was 0.96 0.02 in four independent experiments with a reaction time of 1.75 hours at a confidence interval of 0.95.
+Comparing the experimental and computational data, it can be concluded that the obtained kinetic equation is reliable, so it can be used for the calculation of production equipment.
+Figure 1 shows the kinetic curve of reaction (2) in the case of the TMCAC catalyst.
+  It is the dependence of the optical density of the system on time.
+  It is clear from the kinetic curve that the acetic acid ether is converted by 25%.
+ The reaction rate is defined as ctgα, where α is the angle of incidence of the tangent to the kinetic curve.
+The reaction rate is described by the following equation: k = W / [²ø E] [´²], resulting in k = 1,9.10-4 l / mol.v [ACE] 0, mol / l W = k [²ø E] [´ ²] Figure 1. Kinetics of reaction Reaction Studies have shown that the use of trimethyl, cetyl ammonium chloride (TCMC) as an interphase catalyst increases the reaction rate by 2-3 times [5-8].
+  t, min EC spectra were obtained on a "Specord 75 IR" device in a thin layer.
+"Silufol UV-1-245" benzene-ethanol plates were used for thin-layer chromatography (2).
+1) solution, spraying was performed with iodine vapors.
+The condensation result of Michael's reaction was 1-acetyl, -1-carboxy-butyric acid butyl ester, the Rf of which is 0.71.
+Kinetic studies were performed by UV spectroscopy on the "Specord-50" spectrometer, the diagrams were extracted with the help of ASPECTPLUS computer program.
+Experimental part.
+ In a flask, served with a mixer, return refrigerator, dripping funnel, on a water bath (25-30 0C), mix 7.48 g (0.0576 mol) of 4.8 mL (0.048 mol) of 10 N KOH acetic acid ester, CHA The mixture of 6.14 g of aqueous solution of 6.14 g of butyl acrylate (25 ml of water) was dripped evenly for 20 minutes.
+ The reaction mixture was stirred for 2 hours.
+The resulting reaction mixtures were dissolved in benzene, and the oil layers were dried over MgSO4.
+ The water part was also extracted with benzene.
+  To the benzene solution was added the mixture obtained after oxidation of the reaction mixture և (5.9 mL of 30% HCl solution).
+ Benzene is distilled under normal conditions.
+  A viscous light brown substance was obtained: 1-acetyl, -1-carboxy-butyric acid butyl ester (Table 1).
+ The following fluctuations were observed in the EC spectra: (v, cm-1) 2960, 2945,2926 (valence asymmetric oscillations of alkyl groups), 1740, 1720,1700 (valent oscillations of COOC2H5 5 COOC4H9 groups), 1680, 1640, 1620 (CO fluctuations), 1470, 1460, 1380, 1350 (symmetric deformation fluctuations of alkyl groups), 1290, 1260, 1140, 1090, 1030 (valence fluctuations of OC group), 770, 730, 640 (CC).
+Conclusion.
+  Condensation of butyl acrylate was carried out with acetoacetic acid ether, interphase catalytic, at 20-30 0C temperature, under basic conditions, in the presence of various quaternary ammonium salts.
+It has been confirmed that high yields are obtained in the case of trimethyl acetyl ammonium chloride.
+As a result of the studies, a sticky light brown substance was obtained: 1-acetyl, -1-carbetoxy-butyl ester butyl ester.
+The rate and intensity of Michael's condensation reaction were determined.
+LiteratureMelanya Khachatryan, Gagik Torosyan MICHAEL CONDENSATION OF ACRYLIC ACIDS IN THE MAIN ENVIRONMENT Keywords: Michael reaction, interphase catalysis, chromium acetate, ammonium chloride, butyl amylate

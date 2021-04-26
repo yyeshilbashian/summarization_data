@@ -1,0 +1,42 @@
+QUANTOCHEMICAL CALCULATION OF ETHYLMETHYSULON PHONE WITH THE HELP OF THE GAUSSIAN 03 PROGRAM The study of sulfur-containing compounds, sulfoxides ֆ sulphons is of great interest.
+  Dimethylsulfone is the result of the oxidation of atmospheric dimethylsulfide.
+  Studies have shown that dimethyl sulfone can interact with water to promote the formation of aerosols in the atmosphere that form the basis of clouds.
+  Dimethylsulfone is also of great biomedical importance [6], it is a transport molecule in the body for elemental sulfur, a source of sulfur for the amino acids methionine and cysteine.
+  The structural and spectral properties of dimethylsulfone have been studied by various authors [1, 3, 4], but there is no data in the literature on subsequent homologues, in particular ethylmethylsulfone.
+ In recent years, ethylmethylsulfone has been widely used in elite batteries as an electrolyte.
+The aim of our work is to calculate the geometric-spectral parameters of ethylmethylsulfone with the help of Gaussian 03 software package.
+ The results were compared with the properties of dimethyl և diethylsulfone.
+Experimental part.
+ Quantochemical calculations of the isolated molecule of ethylmethyl sulfone were performed using HyperChem և Gaussian 03 software.
+In HyperChem, the optimization of the initial geometry of the molecule was carried out by MM + և semi-empirical methods of molecular mechanics AM1, PM3, MNDO.
+  The Z-matrix of ethylmethylsulfone optimized by the semi-empirical method was introduced into the Gaussian 03 program.
+  In Gaussian 03, the optimization was performed using the restricted Hartree-Fock (RHF) method with the following bases: 6-31G (d), 6-311G (d), 6-311G (d, p).
+  The 6-31G (d) loader set used simple Gaussian functions to describe deep orbitals, 3 և 1 functions for valence s- և p orbitals, and a set of six functions for d-orbitals.
+  The next step in increasing base collections is p-
+Addition of functions for hydrogen և helium atoms.
+ To optimize, the following command was given: # RHF / 6-31G (d) opt.
+ The key word Opt means optimization action.
+  In addition to the calculation of geometric parameters, the theoretical oscillation spectra of the mentioned molecule were also calculated.
+  The keyword Freq was added to the command for that action.
+ GaussView software was used for spatial representation of molecules.
+The results և their discussion.
+  In the first stage of the work, the geometry of the isolated molecule of ethylmethylsulfone was optimized by MM + և semi-empirical molecular mechanics methods AM1, PM3, MNDO with the help of HyperChem program.
+  Then, in order to reveal the spatial structure of the stable conformations of ethylmethyl sulfone, molecular-conformational analysis was performed, and the dependence of the potential energy on the amphibian angle was determined.
+ Figure 1 shows the potential energy dependence of ethylmethylsulfone (calculated by the semi-empirical AM1 method) from the binomial S1C5C6H13.
+  As can be seen from the graph, unstable conformers are observed in the case of 69, 129, 250 S1C5C6H13 two-sided angles, and stable conformers are observed in the case of 70, 190, 310 S1C5C6H13 two-sided angles.
+In the next step, the geometrical parameters of ethylmethylsulfone were calculated using the Hartrey-Fock limited method with different bases using the Gaussian03 program.
+  Fig. Figure 2 shows the spatial structure of the most stable conformals of ethylmethyl sulfone optimized by the RHF / 63111G (d, p) method.
+ The calculated geometric parameters (bond lengths, valence և celestial angles, energies, dipole moments և charges) are summarized in salt. In 1.
+Figure 1. Potential energy dependence of the ethylmethylsulfone molecule at an amplitude S1C5C6H13. Figure 2. Spatial structure of ethylmethylsulfone optimized by the RHF / 6311G (d) method. From 1, the most stable conformations of the ethylmethylsulfone molecule (with the lowest energy) are observed with the RHF / 6-311G (d, p) base application.
+  As the base expands, dipole momentum increases, S = O և SC bonds shorten, and the OSO angle decreases.
+It should be noted that the optimization of the geometry of the dimethylsulfone molecule on the basis of RHF / 6-311G (d, p) reproduces the experimental data quite well, in particular, the most accurate value of the bond length S = O is considered.
+  Therefore, to compare the geometric spectral parameters of dimethylsulfone, ethylmethylsulfone և diethylsulfoniometer, the countdown was performed only using the RHF / 6-311G (d, p) base.
+Table 1. Geometrical parameters of the ethylmethyl sulfone molecule, calculated by the Hartrey-Fock method, E, Hartley μ, Dag. Figure 2 summarizes some of the geometric parameters of dimethylsulfone, diethylsulfone, ethylmethylsulfone, calculated on the basis of RHF / 6-311G (d, p), as well as sulfur-oxygen charges.
+  As can be seen from the table, in the series dimethylsulfone, ethylmethylsulfone, diethylsulfone, the bonds S = O երկար SC lengthen, the OSO angle decreases, the sulfur charge increases, and the oxygen charge decreases.
+ The value of dipole momentum is the highest in the case of ethylmethyl sulfone.
+In addition to the geometric parameters, the IC spectra of dimethylsulfone, diethylsulfone և ethylmethylsulfone were calculated by the RHF / 6-311G (d, p) method.
+  Dimethylsulfone has 27 normal fluctuations, diethylsulfone - 45, and ethylmethylsulfone - 36.
+ Fig. 3 presents the theoretical EC spectrum of ethylmethylsulfone.
+Table 2. Geometric և spectral parameters of dimethyl-, ethylmethyl- և diethylsulfone molecules, calculated by the Hartrey-Fock finite RHF / 6-311G (d, p) method E ), cm-1 Figure 3. Theoretical EC spectrum of ethylmethylsulfone, calculated by the Hartrey-Focus-restricted RHF / 6-311G (d, p) method. The antisymmetric և symmetric oscillation frequencies of 13 cm-1 (8 cm-1) compared to ethylmethylsulfone in the case of ethylmethylsulfone move to the low frequency domain due to the more polar nature of the S = O bonds.
+Literature pairs and solvation of Li + ion in sulfones.
+  phase diagrams, conductivity, Raman Spectra, and Ashot Mkhitaryan.

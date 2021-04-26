@@ -1,0 +1,60 @@
+DISCLOSURE OF THE CHARACTERISTICS OF MONETARY VOLINIZATION AND EXPLOITABLE DISTRIBUTION IN THE TERRITORY OF ARMENIA
+ They have not only theoretical but also practical significance.
+  Knowledge of evaporation is necessary to determine the water balance of the area, as water balance is one of the most important elements of the output, and evapotranspiration is used to determine crop irrigation norms.
+ Evaporation values ​​in natural conditions are determined by a number of methods, during which water-heat balances, turbulent diffusion, as well as various complex methods are used.
+The aim of the article is to reveal the peculiarities of total evaporation in the territory of the Republic of Armenia համապատասխան on the basis of the data of the relevant sources և Armenian State Hydrometeorological Multi-year observations և to give the patterns of their spatial-temporal distribution.
+The tables and graphs given in the article will provide an opportunity to determine the value of evaporation with sufficient accuracy in any unexplored area of ​​the Republic of Armenia.
+  The obtained results will be used to compile the regional water balance, to determine the norms of irrigation and irrigation of crops.
+During the work different methods of geographical research were used: cartographic, descriptive, comparative, mathematical, statistical, etc.
+A number of scientists have worked on the creation of computational methods of evaporation from the surface of river basins.
+ Similar methods have been developed in the hydrological literature.
+  An overview of the work done on evaporation և study methods can be found in M. Budiko [6], A. Konstantinov, A. In the works of Budakovsky and others.
+ A number of works are devoted to evaporation, microclimate change in irrigation conditions, physical principles of irrigation regulation.
+  These issues for the territory of the Republic of Armenia have been studied by A. By Mkhitaryan [8].
+The first of his works was to compile an average annual evaporation map for the whole territory of the Republic of Armenia, which was obtained regardless of the water balance method.
+This gave an opportunity to reach the balance of water balance in the territory of the Republic of Armenia on average on an annual basis.
+  As a result, for the first time, the water balance of the whole area և separate river basins was formed, moreover, all the components were determined separately, independently of each other.
+ However, in some cases, in order to calculate evaporation, it is necessary to have more detailed information: their change according to altitude, season, time (during vegetation), etc.
+  Then V. carried out research for the territory of the republic for evaporation. Valesyan [5, 7].
+  He built a summative evaporator based on the monthly values ​​of atmospheric precipitation and air temperature.
+  With the help of this graph, the value of total evaporation can be estimated easily at different altitudes in regions with different conditions, but with some errors.
+  Given this circumstance, the author proposes to use the other two characteristics that characterize the uniqueness of each river basin to determine the average values ​​of total evaporation: wind և atmospheric pressure values.
+  V. The sum evaporation values ​​calculated by the method developed by Valesyan are quite well related to the height of the site (the value of total evaporation decreases from a certain height as the site increases), due to which this method became widely used [7].
+  However, as further studies have shown, the cost of total evaporation obtained by this method is 10-14% less than that of land evaporators.
+  Later H. Pakhchanyan, then A. Mkhitaryan և H. Hakobyan developed new methods, with the help of which the calculated total evaporation value is relatively close to the data obtained through evaporators.
+  A. was especially widely used. Mkhitaryan և H. The method developed by Hakobyan [5, 6].
+ Using data from the GGI-500-50 ground evaporator, as well as data on air temperature, atmospheric precipitation, effective soil moisture, evapotranspiration, etc., the authors developed a new method for calculating total evaporation from land for mountainous conditions.
+ In recent years, V. has been dealing with evaporation issues. Margaryan [4].
+In a country with a complex mountainous terrain such as the territory of the Republic of Armenia, both climatic elements and sum evaporation։ evaporation decreases with altitude.
+ Based on the data of the Armenian State Hydrometeorological Service, graphs were compiled, which show the dependence of the annual sum of evaporation in March-November on the altitude of the site, making the task more obvious [8].
+Studies have shown that during the summer months, evaporation sometimes increases to certain heights, after which it decreases again, which is the opposite of dry areas, and the wetting process is normal, ie it decreases with altitude.
+ The maximum annual evaporation is observed in the northern wetlands և in the south-east - 450-500 mm / year, and the minimum in the Ararat valley - 400-450 mm / year, in the highlands - in the three-lane - 208 mm / year.
+ In March, it decreases in height, but is more active in the Ararat Valley, as it receives more energy than the northeast.
+ It grows up to 30 mm in the center and does not exceed 25 mm in the northeast.
+During April (Fig. 1) the picture remains almost the same, but grows differently, respectively, at altitudes of 1000 m in the center - 42 mm, in the northeast - 35 mm.
+  And during the month of May the graph curves almost get closer to each other, that is, they get the same values ​​in both basins.
+Figure 1. Dependence of total evaporation on altitude in March-April. In the summer months of June-August, the picture changes completely, although the central parts receive more heat but less water, and in the northeast there is an excess of moisture, due to which and the graph clearly shows the larger values ​​at the same heights.
+Starting from September, the picture repeats the same as in the spring months. is larger in the center than in the northeast.
+Summing up, we have compiled a graph representing the annual process, which shows that, despite the Ararat Valley, Shirak receives more energy, but evaporation is higher in the northeast, as there is a corresponding amount of moisture.
+Almost the same picture is repeated in the case of evaporation.
+Figure 2. Dependence of total evaporation on altitude in July ին August Taking into account the climatic conditions of the Republic of Armenia, it can be said that the territory of our country is completely vulnerable to global climate change.
+ It is expected that the increase in temperature, the decrease in the amount of precipitation will accelerate the desertification process, will have a negative impact on the population, on the climate-dependent sectors.
+ Reduction of water resources will directly affect agriculture (reduction of irrigation opportunities, deterioration of irrigated agriculture, decline in crop yields) և a number of other sectors.
+  Climate change will bring about changes in natural ecosystems, which will also affect the biodiversity of the Republic of Armenia, forest, alpine, near-alpine and wetland ecosystems.
+ A study of data from the last 80 years shows that the average annual temperature increase is 0.85 0C, and the annual precipitation has decreased by 6%.
+  However, temperature change has different tendencies in different regions of Armenia տարբեր in different seasons of the year [2].
+Figure 3. Dependence of total evaporation on altitude (November և per year) The spatial distribution of changes in annual precipitation is quite irregular in Armenia. The northeastern central regions of the country (Ararat Valley) have become drier, while in the southwestern parts of the Lake Sanaa Basin, precipitation has increased significantly over the past 70 years.
+  As a result of a number of works done in this direction, a number of scenarios have been developed.
+Figure 4. The process of total evaporation from Lake Sanaa in 1927-2009. If the current trends of global emissions continue, the volume of average annual precipitation in Armenia will increase by about 9% over the next century.
+ Predicted changes in precipitation are very different in the country, but even in regions where precipitation is forecast to increase, high temperatures can reduce soil moisture as a result of increased evaporation և greatly reduce river flow.
+Activation of evaporation will increase the area of ​​irrigated areas, as well as reduce the amount of water needed for irrigation.
+Depending on this, the productivity of agriculture will be reduced. An annual loss of 2-5% of GDP will be registered in the sphere of agricultural products.
+  Groundwater resources will be reduced, the level of Lake Sanaa will be reduced, and water quality will deteriorate.
+ All this will lead to the spread of diseases, damage to ecosystems, etc.
+  High air temperature, intensification of evaporation ավել increase of water vapor concentrations increase the probability of strong storms, which can lead to natural disasters such as floods, mudslides, landslides, etc. [2, 3].
+Literature 1. Baghdasaryan A., Chughuryan A., Ohanyan K., Physical Geography of the Armenian SSR, Yerevan, 1971, p. 470.
+2. "Second National Communication on Climate Change", Yerevan, 2010, p. 112.
+3. "Socio-economic impact of climate change in Armenia", Yerevan, 2009, p. 157.
+4. Margaryan V., Patterns of spatial changes in atmospheric humidity in the Republic of Armenia, Yerevan, 2009.
+5. Mnatsakanyan B., The water balance of Armenia, Yerevan, 2005, p. 184.
+Shoghik Sahakyan DETECTION OF THE FEATURES OF REGIONAL DISTRIBUTION OF MONEY VOLUNTATION AND TRANSPARENCY.

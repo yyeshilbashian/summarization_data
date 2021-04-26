@@ -1,0 +1,57 @@
+Sci. Head: TGD, Prof. E. The main purpose of the e-introduction is to increase the efficiency and quality of services provided to members of the public by the government.
+E-government contributes to the strengthening of democratic elements in the society.
+In parallel with the introduction of e-government it is necessary to assess its level of development.
+Two indicators can be used to assess the level of e-Government development: e-Government Development Index (E-Government) The E-Participation e-Government Index (hereinafter referred to as the E-Government) reflects the e-government entry, technology infrastructure, and educational levels.
+ This index is calculated using 3 indicators: • Index of online services • Telecommunication Infrastructure Development Index • Human Capital Index (Human Capital Index, index (Telecommunication Infrastructure Indexs, TII)) Government Development EGDI = (cid.
+2869)
+(cid.
+2871) (OSI + TII + HCI) According to the e-Government Development Index calculated by the UN in 2016, countries are divided according to 4 levels of e-government development 1: Very high
+EXI.
+ 29 countries
+MediumEXI.
+67 countries
+High EXI.
+658 countries
+Low EXI.
+ 32 countries
+Figure 1.
+ Number of countries according to the level of EXI Very high level, if the EXI is higher than 0.75, high is in the range of 0.50 to 0.75, average is in the range of 0.25 to 0.50, low is below 0.25.
+The top 5 e-government countries with very high ECI: United Kingdom, Australia, Republic of Korea, Singapore և Finland.
+eGovernment Development Index (EGDI): Armenia was included in the top level in 2016, ranking 87th, while Georgia ranks 61st and Azerbaijan 56th.
+Online Services Index (hereinafter referred to as GROWTH). Levels of development needed here: websites are represented by the activities of the governing bodies 1 https.
+//publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2016e-government-provided-expensive-index level (initial) Assess the UN's development According to information, information on legislation.
+ Citizens have access not only to current information, but also to archival materials.
+Level II (developing) - state websites have more access, limited availability of Internet services.
+Level III (practical) - state websites provide two-way enhancement and accessibility between government և citizens։.
+  For example, obtaining an online tax license for questionnaires, accepting payments for public services, etc.
+Level IV - state websites change the process of interaction with citizens by switching to fully electronic services.
+According to the UN Index of Online Services in 2016, countries are ranked according to the Level 4 Index of Online Services Index 2: Reporting, Very High GROWTH.
+32 countries
+High GROWTH.
+56 countries
+MEDIUM.
+52 countries
+Low GROWTH.
+53 countries
+  ArmeniaChart 2. Number of countries according to the level of NDI is included in the average level, Russia, Azerbaijan և Georgia are included in the high level.
+2 https.
+//publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2016 important նայած Although the official information on state websites in our country is provided quickly and efficiently, the portals are not fully developed և do not use e-mail to respond to citizens , involving citizens in discussions.
+  At the same time, Armenia is still far behind the EU countries in terms of provided electronic public services.
+which is calculated as the arithmetic mean of the following indicators: Telecommunication infrastructure tools such as index, • Internet use • Telephony • Mobile communication • Broadband Armenia: Armenia is the most dynamically developing country in the field of telecommunications in the International Telecommunication Union as of the year.
+Improve the ICT development index (IDI) in 2008-2010, rising from 86th to 72nd place.
+ The following results will be registered in the following years ․ In 2011, the 75th place, in 2012, in 2013, respectively, the 73rd և 74th place.
+ According to the NetworkedReadiness Index (NRI), which has been calculated by the INSEAD International Business School's World Economic Forum (NRI) since 2002, Armenia ranked 58th out of 143 countries, up from 65 in 2014. instead of horizontal 3.
+The World Capital Economic Forum (WEF) 4 in 2016 presented a separate report entitled "Human Capital Index".
+4 http:
+//www3.weforum.org/docs/HCR2016_Main_Report.pdf Human Index. Quality անիշ Rating Armenia research report presents human resource characteristics of 130 countries, age composition, level of education, etc.
+The methodology in terms of country classification criteria is based on a scale of 0-100 points, where the highest score indicates the high indicators of human capital of the given country.
+The best result in the 2016 ranking survey is Finland - 85.86, followed by Finland (84.64), Switzerland (84.61) and Japan (83.44).
+It occupies the 37th place in the ranking.
+The e-Participation Index assesses their online services, their frequency of delivery in the following areas: • E-awareness • E-consultation • Citizens' participation in the submission process.
+To indicate the main shortcomings in the RA - the necessary level in the series of decisions, with general dissatisfaction.
+ Such participation presupposes participation in the state decision-making process.
+  It is necessary to include e-participation tools in the e-government development program, such as blogs, online discussion forums, social networks, polls, etc.
+A tool for online submission of offers, which will be taken into account in the decision-making process, informing the given citizen about it.
+Thus, the e-government model pursues the following key goals: time savings, quick and easy submission of possible corruption reports, reports, transparency of procedures, receipt of comprehensive information, retention of citizens, registration, admission.
+simplified search, THE ESSENCE OF E-GOVERNMENT AND DEVELOPMENTTahosyan Anahit INDICATORSIndex, human capitalKeywords - e-government, e-government development index, e-participation index
+.

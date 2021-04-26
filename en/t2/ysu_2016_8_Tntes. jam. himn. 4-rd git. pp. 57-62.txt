@@ -1,0 +1,49 @@
+Sci. Head: Doctor of Technical Sciences, Prof. A. Arakelyan During the transition period, the migration processes in Armenia reached a large scale, leading to the reduction of the intellectual potential of the society and a number of negative socio-economic consequences.
+  At the same time, remittances from abroad are a potential source of income for a part of the population of the Republic of Armenia.
+  2004 In the index of remittances transferred from abroad in Armenia since 2009 an average annual growth of 40% was registered until 2009. The financial and economic crisis.
+  Inflow of remittances from abroad to RA in 2009 It was 769, in 2010 - 996, in 2011 - 1.254 million US dollars 1.
+Research has been conducted to analyze the potential impacts of external financing, in particular remittances, on economic development2.
+ The purpose of this analysis is to assess the impact of remittances on a number of macroeconomic indicators.
+The analysis was carried out based on 1996-2014. Statistical data on a quarterly basis.
+ The following indicators were used in the models: Nominal GDP, million drams (GDP), Gini coefficient of income (GIN), poverty rate,% (POV), current transfers between resident and non-resident households, million USD (TR), household consumption expenditures, million drams (CONS) , settlement exchange rate AMD / USD (NRATE), real effective exchange rate, index (1997 = 100) -RRATEC, real GDP growth rate (GDPGR).
+The main models. Table 1 shows the correlation coefficients of the variables included in the models.
+1 World Bank Yearbook on Migration and Remittances, 2011.
+2 Kochinyan N., Kharatyan A., "Economic growth of the Republic of Armenia և social problems", Bulletin of the Engineering Academy of Armenia, Yerevan, 2013, H 10, N1, pp. 5-11.
+Table 1. Nominal GDP depends on the correlation matrix in Model 1.
+ Remittances և The coefficients of the explanatory variables of consumption are statistically significant at the level of 1% significance.
+ Model specification is: Model 1.Dependent Variable.
+ D (L_GDP) Method.
+ Least SquaresIncluded observations.
+ 59 after adjusting endpointsWhite test, model residues are homoscedastic.
+The Breusch-Godfrey test shows that the hypothesis that the remains of the model are not autocorrelated is not rejected.
+White Heteroskedasticity Test.
+Breusch-Godfrey Serial Correlation LM Test.
+According to the Jarque-Bera test, the remnants of the model have a normal distribution.
+ Thus, the Gauss-Markov conditions are satisfied.
+Figure 1. Jarque-Bera test Equations of regression (2) և (3) represent the effect of poverty և on inequality on remittances և economic growth.
+Model 2. Model 3. According to the Granger causal test, the real effective exchange rate is not the reason for the change in remittances from abroad, and remittances from abroad are the cause of the change in the real effective exchange rate.
+Sample.
+ 1996.
+1 2015.
+3Lags.
+ 2 Null Hypothesis.
+Remittances from abroad, nominal GDP - we have built a VAR model to study the real effective exchange rate interdependence.
+ VAR is stable, has no unit root (Figure 2.).
+02468101214-0.10.00.1Series.
+ ResidualsSample 1999.
+2 2013.
+4Observations 59Mean 3.06E-18Median -0.006911Maximum 0.135449Minimum -0.148232Std. Dev. 0.057705Skewness 0.247762Kurtosis 3.177908Jarque-Bera 0.681438Probability 0.711259 Line. 2. Sample (adjusted).
+ 1996.
+4 2014.
+4VAR model. 3. The effect of shocks on the endogenous variables of the model The effect of shocks on the endogenous variables of the model is as follows. GDP ները Remittances from abroad reacted weakly to the real effective exchange rate shock, the response of GDP և remittances to GDP shock was strong.
+ The impact of the transfer shock on the real effective exchange rate of GDP բավականին is rather weak.
+Conclusion.
+  Remittances from abroad have a significant impact on GDP in Armenia.
+ According to Model 1, a 1% increase in remittances leads to a 0.14% increase in GDP, and a 1% increase in consumption leads to a 0.52% increase in GDP.
+Remittances from abroad contribute to the reduction of poverty and inequality in the Republic of Armenia.
+ Models 2 և 3 gave the following results. A 1% increase in remittances from other factors contributes to the reduction of poverty by 0.35%, while economic growth by 0.2%.
+  A 1% increase in remittances reduces income inequality by 0.21% and economic growth by 0.09%.
+ This does not contradict the reality, as one third of the population of the Republic of Armenia feeds on remittances, and the fruits of economic growth are unequally distributed.
+-3-2-1012345612345678910Response of D (RRATEC) to D (RRATEC) -3-2-1012345612345678910Response of D (RRATEC) to D (GDPSA) -3-2-1012345612345678910Response of D (RRATEC) to D00 (TRSA) -20000020000400006000012345678910Response of D (GDPSA) to D (RRATEC) -40000-20000020000400006000012345678910Response of D (GDPSA) to D (GDPSA) -40000-20000020000400006000012345678910R12 (TR) (D) ) to D (RRATEC) -12-8-40481216202412345678910Response of D (TRSA) to D (GDPSA) -12-8-40481216202412345678910Response of D (TRSA) to D (TRSA) Response to Cholesky One SD Innovations ± 2 SE VAR Model Results According to him, the growth of remittances in the previous period contributes to the growth of the current real effective exchange rate, while the latter does not affect remittances from abroad.
+ The increase in remittances of the previous two periods leads to the growth of current GDP.
+Hayk Hambardzumyan MONEY TRANSFERS OF RA MIGRANTS AND THE ASSESSMENT OF THEIR ECONOMIC CONSEQUENCES Keywords: migration, transfer, GDP, poverty.

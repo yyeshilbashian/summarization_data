@@ -1,0 +1,62 @@
+From the earliest times of his economic activity, man, realizing the risk factor, thought about the introduction of its management methods.
+  1930 is considered to be one of the first insurance companies in history. The German "Insurance Chamber" was founded, which carried out insurance transactions for the property interests of merchants and craftsmen.
+Agricultural insurance is the most risky in the insurance system due to climate risks (hail, drought, flood, frost, etc.).
+ That is why it has always been in the center of attention of the authorities in all countries.
+  The strategic documents for the sustainable development of agriculture in the village of the Republic of Armenia have repeatedly mentioned the assessment of risks in agriculture, the implementation of pilot insurance programs, and even the implementation of the insurance system implementation program.
+The study of international experience. There are many cases in history when peasants in different countries suffered great financial losses due to the "whim" of nature.
+ That is why over the years different countries have developed and introduced their own agricultural insurance models, in each of which there is state participation.
+In international practice today, several models with state support and private-state partnership can be distinguished1.
+In the USA, there is maximum effective cooperation between the state and the private sector.
+  Crop insurance 1 http.
+//agroinsurance.com. The system operates the Federal Cooperative, which determines the rates of insurance premiums, the amount of subsidies և determines the insurance products.
+ Its activities are overseen by the Risk Management Agency under the US Department of Agriculture.
+Federal insurance is provided by private insurance companies, which bear full responsibility for the insured և guarantee the return of insurance premiums to policyholders.
+  The latter receive subsidies, the average level of which is 50% of the sum insured and 70% of the insurance coverage.
+Agricultural production in Israel is 100% insured.
+ A state fund for natural disaster protection has been established, which subsidizes the cattle insurance of all agricultural crops.
+In Spain in 1978 A national state insurance program was created, which was managed by a state organization.
+  The latter creates agricultural insurance products, for which the state sets the amount of subsidies (about half on average).
+  As a result, more than 70% of farmers are insured in this country, about 90% of the crop sector, and cattle breeding.
+The Turkish agricultural insurance model is considered one of the best in the world.
+  2005 A law on agricultural insurance was adopted in the country, which established the Agrarian Insurance Organization, which insures farmers and receives about half of the insurance premiums through state subsidies.
+We think that each of the above models proved the justification of its existence.
+ These types of models allow other countries to develop and develop maximally effective agricultural insurance in any country through proper analysis and implementation.
+The problems of RA agriculture. In the RA in the 1990s. As a result of the privatization (privatization) of land, livestock, agricultural machinery, and other means of production, about 340,000 households and farms are currently operating.
+  On average, they have about 1.4 hectares of agricultural lands, including 1.1 hectares of arable lands.
+In recent years, agriculture has always been declared a priority sector of the RA economy.
+  However, the balanced development of the sector is hampered by dangerous hydrological phenomena, especially droughts, hailstorms, hailstorms, and frostbite.
+  Therefore, for the effective development of the sector, permanent improvement of product quality, state support is needed through the introduction of targeted financing programs, subsidy system, insurance system and other programs.
+  They should be aimed at preventing natural risks in the agricultural sector and mitigating the consequences1.
+The regions of the Republic of Armenia have certain climatic peculiarities; certain risks are more unique in each region.
+ Therefore, it is clear that simultaneous insurance against all risks is not yet realistic and effective. At this stage, it is necessary to assess the necessary risks, budget opportunities, development of relevant normative bases, methodology, study of insurers' wishes.
+Development of insurance methodology by the example of Ararat region of RA. The agricultural lands of Ararat region make 156,962 hectares.
+ The region has a dry և very dry climate.
+ Agricultural production is mainly organized through 52,500 farms.
+As we know, crops and plantations are of strategic importance for the RA agriculture in Ararat region.
+Due to the problems, it is necessary to take into account in this case the weather index, the income index և the yield index.
+An example of insurance based on the weather index is insurance due to the amount of precipitation.
+  For example, in case of deviation from the normal level, the insurer pays for the loss of the crop.
+  Damages caused by weather unfavorable in Ararat region in 2006-2007. amounted to 13,100 million drams, in 2008 - 3,200 million, in 2009 - 929.2 million, in 2014 2517.3 hectares of apricots and 670.9 hectares of grapes were damaged.
+Based on the yield index, the level of insurance yield is calculated as the ratio of the gross harvest to the area over which it is cultivated.
+ A norm is set, the deviation from which is compensated.
+Through the income index, the agricultural insurance product is formed on the basis of regional indicators, and not on the basis of individual economy.
+  It insures against potential loss of income due to reduced yields in the region or lower prices for a particular crop.
+1 Avetisyan S., "Urgent food security issues of the Republic of Armenia", Yerevan.
+ Economist, 2014.
+Below, on the example of Ararat region, we have proposed a methodology that can reveal when and in what case of insurance premium it would be right to invest in an insurance system in this region.
+ In the model, an attempt was made to find the maximum insurance premium that the farmer would be willing to pay, which would be ready to insure the insurance company against risks, by changing the yield indicators due to weather fluctuations.
+Thus, • Cmin, Cmax are the minimum և maximum temperatures at which yields do not decrease; .
+Suppose this period is l.
+ The probability that vortarin will be unfavorable is equal to l / n, where n is the number of all years.
+  The utility of the individual depends on the income of the t year U (Wt).
+Let's say W1, W2,… ..Wn- is the yield, Wi1, Wi2,… Wik is the yield of good years, Wj1, Wj2,… Wjl is the yield of bad years, K is the loss of those years, l + k = n.
+Let P be an insurance premium Q is a subsidy, U (W l-P + Q) = E, where Q 0Ln (W l-P + Q) = EW l-P + Q =
+ hence, P = W l + Q (2) indicates the amount of insurance premium that the insured will pay.
+According to the farmers, 10-23 ° C is considered to be a favorable temperature for potato cultivation.
+ On the other hand, based on the temperature data provided by Haypethydromet, as well as taking into account the level of yield, prices, the model proposed for potato farms will look like Table 1.
+W l.m is the average of good years: W v.m is the average of bad years: Table 1. Model result gindeflyGinbase: W l W v In our example n = 9, l = 3, k = 6.
+According to our data, in 2006-2014. There were unfavorable years for potato farms in Ararat region in 2010, 2011 և 2013, the gross yield does not exceed 24.5 thousand in these years. tons.
+W lm W wm Ln (W lm) Ln (W wm) E sp.use E sp.use = 1/3 Ln (W w) +2/3 Ln (W l.m.) Thus, our model calculations show: that in order to insure the potato farms of the whole Ararat region from complete losses, the farms can pay 175,008,535 drams together, as in that case their usefulness will not decrease.
+ If we divide this number by the potato field in Arart region, which averages 857 hectares, it turns out that in order to insure 1 hectare of farm, it is necessary to pay 204,210 drams.
+We believe that the development and implementation of a local model commensurate with the state-supported agricultural insurance models can significantly contribute to the development of the sector, based on the "state-agricultural cooperatives-insurance organizations" trinity.
+Kristine Antonyan, Shushanik Gyolchanyan OPPORTUNITIES FOR INTRODUCTION OF INSURANCE SYSTEM IN THE FIELD OF AGRICULTURE OF RA Keywords: agriculture, insurance, Ararat region.

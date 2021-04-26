@@ -1,0 +1,478 @@
+Sci. Head: Tech., Prof. A. Arakelyan The paper discusses a behavioral model dedicated to analytics.
+Investment The problem under study can be classified as information deficiencies in the financial markets of the countries.
+The following situation is considered that mimics the investment behavior of an individual. It is assumed that the investor, based on his risk-taking preferences, tries to place his initial wealth (savings) between two risky "non-risk assets".
+  In other words, he makes a choice between financial portfolios (note that the observation of only two assets does not violate the common approach, because according to Sharp-Lintner-Moss 19 Markovitz's problem can be attributed to can be viewed as risky).
+  Suppose at some point there is a change in external conditions (exogenous factors), for example, the wealth of the investor, the yield of a reliable asset.
+ Our task is to find out how, in other equal conditions, the investor will react to those shocks with his decision.
+Holmstrom, B., Milgrom, P., Multitask Principal-Agent Analyzes.
+ Incentive Contracts, Asset We will make the following appointments: 1) (cid.
+1875) (cid.
+2868) - the initial wealth of the investor, 2) (cid.
+1876) - investments in risky assets, 3) (cid.
+1844) - Return on risky assets. it is a random quantity distributed on a numeric axis ⦋(cid).
+1853), (cid.
+1854)⦌ section (cid.
+2011) ((cid.
+1844)) with density function, 4) (cid.
+1870) - the determined return on non-risky assets.
+It is clear that the amount invested in a non-risk asset will be (cid).
+1875) (cid.
+2868) - (cid.
+1876), and the final wealth of the investor (cid.
+1875) (cid.
+2869) = (cid.
+1876) (1+ (cid.
+1844)) + ((cid.
+1875) (cid.
+2868) - (cid.
+1876)) (1 + (cid.
+1870)) = (cid.
+1876) ((cid.
+1844) - (cid.
+1870)) + (cid.
+1875) (cid.
+2868) (1+ (cid.
+1870)).
+Note that the ultimate wealth ևs's accidental greatness.
+  Moreover, it should be emphasized that the rational investor maximizes not his expected income, but his expected utility20.
+  (cid.
+1875) (cid.
+2869) defines the Bernoulli utility function (cid.
+1873) ((cid.
+1875) (cid.
+2869)) = (cid.
+1873) ((cid.
+1876) ((cid.
+1844) - (cid.
+1870)) + (cid.
+1875) (cid.
+2868) (1+ (cid.
+1870))).
+The Neumann-Morgenstern utility function will be: (cid.
+3029)
+(cid.
+1831) (cid.
+3435) (cid.
+1873) ((cid.
+1875) (cid.
+2869)) (cid.
+3439) = (cid.
+1831) (cid.
+4672) (cid.
+1873) (cid.
+3435) (cid.
+1876) ((cid.
+1844) - (cid.
+1870)) + (cid.
+1875) (cid.
+2868) (1 + (cid.
+1870)) (cid.
+3439) (cid.
+4673) =:
+= (cid:
+3505) (cid.
+1873) (cid.
+3435) (cid.
+1876) ((cid.
+1844) - (cid.
+1870)) + (cid.
+1875) (cid.
+2868) (1+ (cid.
+1870)) (cid.
+3439) (cid.
+2011) ((cid.
+1844)) (cid.
+1856) (cid.
+1844)
+(cid.
+3028)
+.
+The investment decision is described by the following optimization problem (cid).
+3029)
+max (cid.
+3051) (cid.
+3001) (cid.
+2868) (cid.
+3505) (cid.
+1873) (cid.
+3435) (cid.
+1876) ((cid.
+1844) - (cid.
+1870)) + (cid.
+1875) (cid.
+2868) (1 + (cid.
+1870)) (cid.
+3439) (cid.
+2011) ((cid.
+1844)) (cid.
+1856) (cid.
+1844)
+In order to get an internal solution, it is assumed that (cid.
+1831) ((cid.
+1844))> (cid.
+1870).
+(cid.
+3028)
+20Markowitz, H., Portfolio Selection.
+ Efficient Diversification of Investments, John Wiley & Observations), Suppose Native Preferences, Digital Examples.
+ Before revealing the equilibrium properties of the problem (2), let us consider some of its specific cases (implemented in MATLAB).
+1) (cid.
+1873) (cid.
+3435) (cid.
+1876) ((cid.
+1844) - (cid.
+1870)) + (cid.
+1875) (cid.
+2868) (1+ (cid.
+1870)) (cid.
+3439) = (cid.
+1827) exp (k (cid.
+3435) (cid.
+1876) ((cid.
+1844) - (cid.
+1870)) + (cid.
+1875) (cid.
+2868) (1 + (cid.
+1870)) (cid.
+3439): expo 2) (cid.
+1827) = 1, (cid.
+1863) = 1 for utility function parameters, 3) (cid.
+1844) ~ (cid.
+1847) (0,1) - equal distribution in the range (0,1) (50004) (cid.
+1870) = 0.4, so satisfied (cid.
+1831) ((cid.
+1844))> (cid.
+1870) condition, 5) (cid.
+1875) (cid.
+2868) = 100.
+Under this data we solve problem (2) with 21 "internal point" algorithm.
+ Then և (cid.
+1875) (cid.
+2868) we add by 10 points, we leave the remaining parameters unchanged և we solve problem (2) again.
+ The simulation continues until (cid).
+1875) (cid.
+2868) accept, for example, the value of 300.
+ The following figure (Figure 1) illustrates the relationship between initial wealth օ optimal risk asset investments.Chart 1. The relationship between optimal risk asset investment և initial wealth է for exponential preferences.
+Absolute magnitude, regardless of Figure 1, can be inferred from a risky investor, but from investment wealth.
+  It is difficult to depend significantly on the type of investment preferences obtained.
+The same exercise for sliding utilization gives the following picture. Figure 2. Relationship between the "initial wealth" of optimal risk asset investments for sliding preferences.
+It is clear from Figure 2 that the higher level of savings in this case leads to an increase in investments in risk assets.
+  Moreover, it is interesting that unlike the first example, in the case of the sliding utility function (cid).
+1831) ((cid.
+1844))> (cid.
+1870) under the precondition all savings are directed to risky assets.
+  It turns out that the fact that the risk-averse asset of a risky asset is below the expected stable return will lead to a complete sliding investment into a non-risky asset in the run-up to the election.
+The following observation is crucial for drawing conclusions from the analysis. It is easy to verify that exponential preferences are characterized by a degree of fixed risk aversion, and that the absolute risk aversion factor for the sliding utility function decreases with wealth.
+  From here, the behavioral mechanism that explains the effect of income on investment behavior becomes obvious. If the investor's propensity for risk increases (decreases, remains unchanged) along with the growth of the initial wealth, then, naturally, the non-risk investments increase (decrease, remain unchanged).
+The application of the theorem of the unknown function.
+  In the numerical examples, we were essentially comparing equilibrium states corresponding to model (2).
+  Note that due to the parameterization, the model offers not a single equilibrium, but a set of equilibrium states that depend on exogenous factors.
+  Understandably, in the general case (2) it is quite a difficult task to obtain the solution of model (2) explicitly (in one of the articles we tried to approach the solution by extending the general view of the utility function to Taylor 22).
+  It turns out, however, that with the help of the explicit function theorem, it is possible to estimate the marginal effects of the return on wealth իսկ non-risky assets without obtaining an analytical view.
+The first order condition of (2) has the following form: (cid.
+2034) (cid.
+1876) = (cid.
+1831) {(cid.
+1873) (cid.
+4593) ((cid.
+1875) (cid.
+2868) (1+ (cid.
+1870)) + (cid.
+1876) ((cid.
+1844) - (cid.
+1870))) ((cid.
+1844) - (cid.
+1870))} = 0, (cid.
+2034) (cid.
+1831) (cid.
+1873)
+and the second-order condition will be. (cid.
+2034) (cid.
+2870) (cid.
+1831) (cid.
+1847)
+(cid.
+2034) (cid.
+1876) (cid.
+2870) = (cid.
+1831) {(cid.
+1873) (cid.
+4593) (cid.
+4593) ((cid.
+1875) (cid.
+2868) (1+ (cid.
+1870)) + (cid.
+1876) ((cid.
+1844) - (cid.
+1870))) ((cid.
+1844) - (cid.
+1870)) (cid.
+2870)} <0.
+The second-order condition is satisfactory to avoid risk Note that equation (3) is unambiguously (cid).
+1876) ∗ - for investors, that is, when (cid.
+1873) (cid.
+4593) (cid.
+4593) () <0.
+expresses as a function (cid.
+1875) (cid.
+From 2868) to և (cid.
+From 1870).
+ By the way. (Cid.
+2034) (cid.
+1876) ∗:
+(cid.
+2034) (cid.
+1870) = -
+(cid.
+2034) (cid.
+1876) ∗:
+(cid.
+2034) (cid.
+1875) (cid.
+2868) = -
+(cid.
+3105) (cid.
+3118) (cid.
+3006) (cid.
+3022)
+(cid.
+3105) (cid.
+3051) (cid.
+3105) (cid.
+3050) (cid.
+3116)
+(cid.
+3105) (cid.
+3118) (cid.
+3006) (cid.
+3022)
+(cid.
+3105) (cid.
+3051) (cid.
+3118)
+(cid.
+3105) (cid.
+3118) (cid.
+3006) (cid.
+3022)
+(cid.
+3105) (cid.
+3051) (cid.
+3105) (cid.
+3045)
+(cid.
+3105) (cid.
+3118) (cid.
+3006) (cid.
+3022)
+(cid.
+3105) (cid.
+3051) (cid.
+3118)
+(cid.
+2034) (cid.
+1875) (cid.
+2868) (cid.
+3440) = (cid.
+1871) (cid.
+1859) (cid.
+1866) (cid.
+4678) (cid.
+2034) (cid.
+2870) (cid.
+1831) (cid.
+1847)
+(cid.
+2034) (cid.
+1876) (cid.
+2034) (cid.
+1875) (cid.
+2868) (cid.
+4679),
+Since the second-order condition is true, then. (cid.
+2034) (cid.
+1870) (cid.
+3440) = (cid.
+1871) (cid.
+1859) (cid.
+1866) (cid.
+4678) (cid.
+2034) (cid.
+2870) (cid.
+1831) (cid.
+1847)
+(cid.
+1871) (cid.
+1859) (cid.
+1866) (cid.
+3436) (cid.
+2034) (cid.
+1876) ∗:
+(cid.
+2034) (cid.
+1876) (cid.
+2034) (cid.
+1870) (cid.
+4679).
+In other words, the direction of the marginal effects of wealth և non-risky asset yield is completely determined by the above-mentioned mixed derivatives.
+(cid.
+1871) (cid.
+1859) (cid.
+1866) (cid.
+3436) (cid.
+2034) (cid.
+1876) ∗:
+On the other hand. (Cid.
+2034) (cid.
+2870) (cid.
+1831) (cid.
+1847)
+(cid.
+2034) (cid.
+1876) (cid.
+2034) (cid.
+1875) (cid.
+2868) = (cid.
+1831) (cid.
+3419) (cid.
+1873) (cid.
+4593) (cid.
+4593) (cid.
+3435) (cid.
+1875) (cid.
+2868) (1+ (cid.
+1870)) + (cid.
+1876) ((cid.
+1844) - (cid.
+1870)) (cid.
+3439) ((cid.
+1844) - (cid.
+1870)) (1+ (cid.
+1870)) (cid.
+3423) The Pratt risk aversion factor is as follows: (cid.
+1827) ((cid.
+1875) (cid.
+2869)) = - (cid.
+1873) (cid.
+4593) (cid.
+4593) ((cid.
+1875) (cid.
+2869))
+(cid.
+1873) (cid.
+4593) ((cid.
+1875) (cid.
+2869)) => (cid.
+1873) (cid.
+4593) (cid.
+4593) ((cid.
+1875) (cid.
+2869)) = - (cid.
+1827) ((cid.
+1875) (cid.
+2869)) (cid.
+1873) (cid.
+4593) ((cid.
+1875) (cid.
+2869)).
+Therefore. (Cid.
+2034) (cid.
+2870) (cid.
+1831) (cid.
+1847)
+(cid.
+2034) (cid.
+1876) (cid.
+2034) (cid.
+1875) (cid.
+2868) = (cid.
+1831) {- (cid.
+1827) ((cid.
+1875) (cid.
+2869)) (cid.
+1873) (cid.
+4593) ((cid.
+1875) (cid.
+2869)) ((cid.
+1844) - (cid.
+1870)) (1+ (cid.
+1870))}.
+If the risk aversion factor is constant, then (cid.
+2034) (cid.
+2870) (cid.
+1831) (cid.
+1847)
+(cid.
+2034) (cid.
+1876) (cid.
+2034) (cid.
+1875) (cid.
+2868) = - (cid.
+1827) ((cid.
+1875) (cid.
+2869)) (1+ (cid.
+1870)) (cid.
+1831) {(cid.
+1873) (cid.
+4593) ((cid.
+1875) (cid.
+2869)) ((cid.
+1844) - (cid.
+1870))} = 0, because (cid.
+1831) {(cid.
+1873) (cid.
+4593) ((cid.
+1875) (cid.
+2869)) ((cid.
+1844) - (cid.
+1870))} = 0 according to (1).
+That is, the investment behavior of a rational investor regardless of what it is about (cid).
+1870) for the marginal effect and then for its savings, the Pratt criterion is fixed.
+The following equation of the Slutsky type is obtained: excessive, risky + (cid.
+2034) (cid.
+1876) ∗:
+(cid.
+2034) (cid.
+1875) (cid.
+2868)
+(cid.
+1875) (cid.
+2868) - (cid.
+1876) ∗:
+1 + (cid.
+1870).
+(cid.
+2034) (cid.
+1870) = (cid.
+1831) {(cid.
+1873) (cid.
+4593) ((cid.
+1875) (cid.
+2869))}
+(cid.
+2034) (cid.
+1876) ∗:
+(cid.
+3105) (cid.
+3118) (cid.
+3006) (cid.
+3022)
+(cid.
+3105) (cid.
+3051) (cid.
+3118)
+(cid.
+3105) (cid.
+3050) (cid.
+3116) ≤ 0, then (cid.
+3105) (cid.
+3051) ∗:
+It is obvious that if (cid.
+3105) (cid.
+3051) ∗:
+(cid.
+3105) (cid.
+3045) ≤ 0.
+  Otherwise, the impact is ambiguous.
+  This means that if a relatively reliable asset becomes more profitable than before, it will always benefit the redistribution of the portfolio structure.
+ABOUT STATIC-COMPARATIVE PROPERTIES OF INVESTMENT DECISIONS Ashot Nanyan Keywords: behavioral model, risk aversion factor, reliability, profitability, preferences.

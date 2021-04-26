@@ -1,0 +1,58 @@
+Historically, until recently, the improvement in the speed of nanoscale integrated circuits was mainly due to their reduction in size.
+  At the same time, the process of reducing the size of circuits has become very difficult due to the physical limitations of reducing their size [1].
+  That is why new factors have emerged to improve the speed of integrated circuits.
+  In this work, two important factors [2], [3] as well as methods for modeling and testing the resulting malfunctions were considered.
+ The first factor is related to the change in the structure of the transistor, the main element of integrated circuits.
+  As a result, a single transistor containing a single gate gate is switched to a three-dimensional transistor structure with more than one gate.
+  The main reason for the change was that in memory devices with a size of 22 nanometers and smaller, two-dimensional transistors were no longer able to perform the tasks set before them.
+ The second factor is that the delay of interconnection signals has started to limit the speed of integrated circuits.
+  For this reason, the two-dimensional (smooth) integrated circuit has shifted from 35's to three-dimensional integrated circuits [3], where the circuit-making layers are stacked on top of each other by vertical connections that allow for shorter connections than horizontal connections.
+ 2. Three-dimensional transistors and the malfunctions encountered in them.
+  The most common three-dimensional transistors widely used in modern nanoscale memory devices are Figure 1. FinFET transistor structure FinFET transistors [4], consisting of a single fin and three gates that line the fin on three sides, thereby increasing the transistor performance. efficiency (see Figure 1).
+ Because three-dimensional transistors have a unique structure, there may be physical defects specific to that technology that are not present in previous technologies.
+  An environment has been created for simulation of three-dimensional transistor malfunctions, through which it is possible to simulate (falsify) physical defects and, based on them, model malfunctions [5].
+  As a result of the research, the types of malfunctions specific to FinFET three-dimensional transistors were modeled based on the following physical defects: opening on the transistor fin, short circuit between the two poles of the transistor fin, short circuit between the transistor gate and the fin.
+ 3. Malfunctions of 3D memory devices.
+  Using the technology of vertical connections, three-dimensional integrated circuits have been created, which allow to ensure high speed while reducing the size of the technology.
+  One of the most common of the three-dimensional integrated circuits are the three-dimensional memory devices, the structure of which is shown in Figure 2.
+  The main components of a three-dimensional memory device are: a) 36 memory device layers, which are connected to each other by vertical connections, and the connection is made with connection points made of special material, b) the logic layer, which also includes the built-in testing system (NMS), which tests the layers of the memory device.
+ Memory device layers Vertical connections Connection points NTH Logical layer Figure 2. Three-dimensional memory device Three-dimensional memory device malfunctions are divided into 4 main classes [6]. a) single connection malfunction, b) two connection malfunction, c) single-cell memory device malfunction, d) two-cell memory device malfunction.
+ 4. Periodic table of malfunctions.
+  [7-8] proposed a new way of presenting memory device malfunctions in the form of a periodic table of malfunctions (see Table 1).
+  In particular, in those works it was suggested: • Introduce the malfunctions into a single common table, called the Periodic Table of Troubleshooting. • Build test algorithms using the MTT (x, S) Test Algorithm Template.
+ In the Periodic Tables column, the columns correspond to the number of cells involved in the malfunction (column C1 contains all single-cell malfunctions, column C2 contains two-cell malfunctions, etc.), and the rows correspond to the number of malfunction actions (FF0 rows contain 0-actuators. that is, state malfunctions, lines FF1 contain a malfunction activated by 1 action (Table 1: Periodic table of malfunctions, etc.).
+  The empty boxes marked in gray in the table correspond to the undiscovered (undetected) malfunctions.
+ In the "Periodic Table of Troubles" boxes, there are groups of malfunctions: FG i (x, S), where i is the number of cells involved in the malfunction, x is the value of the cell before the malfunction is activated, and S is the number of read / write actions that trigger the malfunction. the sequence.
+ For example: FG 2 (0, W1) = {<0W1; 0/1 / ->, <0W1; 1/0 / ->, <0; 0W1 / 0 / ->, <1; 0W1 / 0 / ->}.
+  The malfunctions are described by the well-known designation <S / F / R> [9], where S is the sequence of actions that trigger the malfunction, F is the error value generated in the cell of the memory device as a result of the malfunction, and R is applicable when the S sequence The last action is to read the action, and it returns the result of that read action.
+  For example, <R1R1 / 0/0> means the following: As a result of two consecutive readings of R1, the memory device cell receives a value of 0, and the value returned by the second reading operation is 0.
+ 5. FinFET technology malfunction testing.
+ As already mentioned in section 2 of the article, research has shown that there are types of malfunctions that are specific only to FinFET technology.
+  Table 2 shows the malfunctions of FinFET technology modeled by the method proposed in the work [5].
+  In the table, the malfunctions are ranked from top to bottom, according to the order of increasing the number of 38 actions of the malfunction act.
+  It is easy to notice that there is a certain symmetry and regularity between the malfunctions.
+  For example, dRDF1 is symmetric to dRDF0, ie the malfunctions have the same behavior, and the only difference is in the value of the data. in one case it is 0, in the other case it is 1.
+ And there is a periodicity between dDRDF-x and dDRDF1-y malfunctions, that is, these malfunctions are the same in structure, but by switching from dDRDF-x to dDRDF1-y, the number of malfunctions increases by (yx).
+ The fact that Table 2 malfunctions are recurring in Table 2 FinFET technology malfunctions Name Description Name Description Description Name Description once again confirmed the regularity 1 in [7] - [8], according to which new technology malfunctions have a similar Behavior, what existing malfunctions.
+ The faults in Table 2 could be placed in the "Periodic Table of Troubles", as well as it was possible to build a test algorithm to detect the faults in Table 2 using the "Test Algorithm Template".
+  The built-in test algorithm is March FF, which is a test algorithm that detects defects specific to FinFET technology.
+  It has a complexity of 24N, where N is the number of addresses of the memory device.
+  Through experiments, and then mathematically substantiated that the March FF test algorithm has the least complexity.
+ 6. Testing of 3D memory devices.
+ Periodicity and symmetry were also observed in the malfunctions of the three-dimensional memory devices, and an attempt was made to place these malfunctions also in the "Periodic Table of Advanced Malfunctions in the Periodic Table of Extended Malfunctions".
+  Observations have shown that the malfunctions of classes (c) and (d) listed in Section 3 of the article already exist in the "periodic table of malfunctions", and the malfunctions of classes (a) and b), which describe connection malfunctions, required the addition of a new column in the periodic table. and place those malfunctions in that column.
+  Table 3 presents the extended "periodic table of faults", and the newly added column is C0 (that is, 0 cells are involved in the malfunction), which is intended for malfunctions that are not related to the cells of the memory device and are related to memory device connections, cell circuits (address decoder, read / write control, etc.).
+ [7-8] It has been shown (see Theorem 1) that test algorithms derived from the "test algorithm template" detect groups of defects corresponding to the original (non-extended) "periodic table of faults".
+ Observations have shown that the same statement can be made for the extended "periodic table of defects" 40, which includes three-dimensional technology malfunctions.
+ Insist.
+  The MTT (x, S) "test algorithm template" test algorithm detects all malfunctions of the FG (x, S) and FG (∼x, ∼S) groups.
+ Proof.
+  All possible versions of the test algorithms obtained from the "Test Algorithm Template" are divided into 4 cases depending on the values ​​of x and S (the division is performed in the same way as in [7-8]).
+  Then, for each case, it is shown that the obtained test algorithms detect all the malfunctions of FG (x, S) and FG (∼x, ∼S) groups.
+  This is done as follows: For each malfunction, it is indicated by which operation of the test algorithm it is activated and by which operation the given malfunction is detected.
+ 7. Conclusion.
+  This work examines the structural changes that occur in modern nanoscale memory devices, such as three-dimensional transistors and three-dimensional memory devices.
+  An effective testing method has been developed to model the malfunctions resulting from these changes and to test them.
+  In particular, it was proposed to expand the periodic table of existing malfunctions to include three-dimensional technology malfunctions.
+ The periodic table of received malfunctions has a number of advantages, among them are: • Predict new malfunctions based on recurring malfunction properties; • Build a co-built embedded test processor (for example, by upgrading the processor shown in [10]) to provide programmability of efficient algorithms for testing nanoscale memory devices.
+ .

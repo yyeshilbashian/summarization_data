@@ -1,0 +1,177 @@
+TOURISM ONLINE FIXING SYSTEMS IN THE TOURISM SPHERE In the 21st century, the online promotion of digital marketing and business is considered to be a powerful tool for increasing business visibility and productivity.
+ Over the last twenty years, the development of the Internet և digital technologies has led to the creation of specialized websites և mobile applications of the same name.
+  The latter were created for various spheres of public life, including tourism.
+  Their first fruits are Apple's "App store" and "Google Play Market", which currently include 1․2-1․3 million mobile applications.
+ Recent studies in the field of tourism show that the role of hunting smartphones is growing in this field.
+ The intrusion of smartphones is having a decisive effect on humans, creating new human digital behavior-habits.
+  These habits and customs have not bypassed the requirements of tourism, moreover, applications have been created to promote tourism (services).
+In the App Store Play Play Market's applications, tourism-related applications are in 7th place in terms of download frequency, making 4-61% (according to 2015 data from Statista).
+games
+Education:
+business
+Public life
+Fun:
+Utility services
+tourism
+Books
+Diagram 1. Most downloaded applications according to "Statista" site Sold Currently, the use of information systems is gradually increasing in the field of e-tourism.
+  This is also proved by the fact that today tourism is in the top five sales of goods and services via the Internet, and according to some data, even in the top three.
+Initially, the sale of goods via the Internet was developed by some airlines in order to reduce the cost of communications and booking service staff.
+ Back in the 20th century, there was a problem with the local distribution of vehicles, which would lead to a waste of time, reducing the crowds at the box office.
+  The problem was especially acute in the case of air transport, as at one time each ticket meant incomplete accommodation of the aircraft, and consequently significant financial losses.
+On the other hand, the impossibility of receiving operative information about the available seats during this or that flight did not allow the tour operators to make complicated routes for the ticket in advance with the reservation conditions.
+A mechanized booking system (for a tourist organization or tourist) would facilitate և speed up the choice of the route organization according to the price և other conditions.
+ Definitely at that time it was the international reservation systems, especially that in addition to the possibility of booking tickets, other companies providing services were also integrated.
+  However, for any country, it is possible for foreign organizations to prevent the occupation of the country's internal market and to stop the financial outflow.
+  This is the reason why we have already worked with foreign organizations on the platform [1].
+  The use of the national booking system is effective for the final consumer, as the process is to move the booking system to create a demand for the final ticket from the final consumer1. The services provided are lower than in the case of global systems due to low commissions.
+2. More information is provided for tourists և Variety of service choices.
+Own booking organization է is generally effective for the country, as it creates the following opportunities: coordination o work automation (reporting, automated statistics), o centralization of financial resources, o operational management, o marketing planning, o opportunity to provide their services to other local tourism organizations free of charge , or the demand analysis of that product's tourism [2].
+Speaking of online tourism applications and websites, it should be noted that they were created for different tourism services, therefore, they represent separate elements of tourism product creation (there are quite a few systems that present a common product).
+  The systems are designed for the following components of tourism: Distribution
+Testing:
+Reservation
+Planning:
+Goal setting
+Chart 2․ Cycle of tourism offer presented in online platform, expressed in levels. The first level is related to the inspiration of a person from any online source, website, blogs or applications.
+  These systems and applications are designed to create a tourism need or demand in the human mind.
+  Most often in this series are the travel blogs of Murad Osman, Dan Flying Solon, Lilis Travel Plains, De Blond Abroad and other travelers.
+At the second level are the sites that are designed to guide the future tourist in choosing a service.
+  Their websites.
+The third level is the most diverse air ticket services, hotels այլ other means of accommodation, tours, car rental և other services.
+ It is on the basis of this sector that the mobile applications of the main websites are created (cheapflights, expedia, airtickets, wego, skyscanner, aviasales, booking, hotel.com, trivago, airbnb, agoda, opentable, tablein, etc.).
+is.
+  The fourth level here is the actual verification of the online booking service.
+  And here is the last, fifth level, which is an online platform for sharing impressions, enabling the customer to go through this life cycle.
+ Our main emphasis in this case is on third level systems.
+In general, the introduction of online systems in the tourism market, in other areas of life in general, is an innovation with its end result, which is presented in the form of a newly developed or improved product.
+The use ների use ների of mobile applications և sites in tourism is reflected in the following facts: 1. Today, before traveling, people get 15% of the information by doing some monitoring work online (compare prices, read comments, ask questions on online platforms).
+2. Only 30% of people book airline tickets or hotels online, using sites that have been tried for years or mobile applications of the same name.
+3. Reduces document circulation. Advantage և help especially for people who constantly forget their attached documents.
+ Online system bookings are already being saved.
+Online booking system allows you to collect services under one common roof.
+  Developers և tourism professionals do a lot of work to maximize their websites or mobile applications.
+Existence of network booking systems for tourism, in particular for tourism enterprises, to present the problems of territorial allocation of the competitive site ումReduces distance ((ie does not allow service enterprises to accumulate, for example, in the central part of cities).
+  Thus, some of Yerevan's central streets, including Tumanyan, Sayat-Nova, and Nalbandyan, are known for their large number of travel agencies, while congestion of programming companies is almost invisible.
+After all, everything happens on the online platform, there is no problem with the location.
+Է Reduces the long time allotted for elections (instead of falling from the street to the streets, we can study the proposals of more than 10 tourism enterprises in a matter of hours).
+Են They give an opportunity to present a complete tourism offer on one platform.
+Են Reduce live customer-employee communication, which allows to avoid possible tensions և conflicts.
+Կա There is an opportunity to do marketing work from the administrative department of the website or mobile application, which significantly affects the advertising and potential customers of the package or any other service.
+Ություն Enables employment of at least 3 teams of specialists: tourism, programming, digital marketing (SMM) specialists.
+Presented tourism onlineSite nameServicesLocation (hotel), food (restaurant) Accommodation (hotel, hostel, guest house, B&B, apartment) + mobile applications for Android և IOS systemsLocation (hotel, guesthouse), food (restaurant), transportation (car rental, tour booking) + mobile applications for Android և IOS systemsTour packages + mobile applications for Android և IOS systemsTour packages for accommodation (hotel, guesthouse), transportation (car rental, car ordering), entertainment (events), tour packages.Armenian online tourist booking sites in Armenia և mobile applicationsLet's review և analyze the results of research surveys, first studying the approaches of travel organizations և online booking companies with programming companies.
+  The survey was conducted on the basis of pre-designed questions, with the aim of identifying the motivations and effectiveness of the above-mentioned organizations in creating and applying reservation systems.
+Why did you decide to set up an online booking system?
+• The booking system already existed, we are a subsidiary
+• There was no online booking system in Armenia, which confirms 100% of the booking
+provided at the time of booking
+• Business progress տեսնում we see the future in the online system
+• We wanted to bring a new service to the tourism market to be different
+from competitors, because we are all well aware of what a competitive struggle is today
+among tourists
+Graph 1. Responses of booking site managers Which type of booking prevails in you?
+in the organization
+Through the online system
+With real attendance
+Graph 2. Comparative picture of booking options in organizations with booking sites. Number of bookings to date in the system
+• We cannot provide this information
+• Our programmers can provide clear information, we do not have data at the moment
+Graph 3. Answers of the bookmakers of the booking sites of the tourist organizations about the booking statistics Are there any bookings from other countries?
+Yes
+No.
+Graph 4. Availability of foreign bookings Revenue from bookings already
+Does it exceed the costs incurred?
+Yes
+In part
+No.
+Graph 5. Image of financial efficiency in booking sitesArmenia, being the results of the IT Survey.
+A country that has made great strides in the field of tourism, has made great strides in the field of booking systems, in particular, a number of travel agencies have been set up, which have already established և use their services առցանց online booking systems - websites և mobile eponymous.
+  This is a very big step in the field of tourism, but the question of how effective these systems work will be clarified through the analysis of the research results.
+Online tourism booking systems have been introduced in the Republic of Armenia in the last decade.
+  By their nature, from the point of view of the innovation cycle, 7 out of 10 tourism-related systems are in the "market introduction" phase, or have partially entered the "commercialization-diffusion phase".
+ Meanwhile, during our research, it became clear that only a few companies have succeeded in these two stages, "now very quietly" and "numb" in the routine stage.
+ The human potential in Armenia provides a great opportunity to cooperate with the two spheres that are developing day by day.
+  Taking into account the stable and successful experience of the Republic of Armenia in the IT world, based on the favorable conditions for the tourism of the Republic of Armenia, "smart" IT tourism results are created from each other, one of which is booking systems.
+We divided the respondents into 2 groups: system programmers և administrative staff, and in the other group - internal market consumers.
+  Today, the following companies have their online booking system in Armenia (as 2-3 companies operating with a franchising system, but with an online booking system).
+Three tourism and programming companies participated in the survey conducted within the framework of the research.
+ From the average statistical point of view of the creators of the online system, the reservations have a definite result, but do not fully equal the expenses incurred ևReceived expectations and results.
+  The fact of booking from abroad is a positive result.
+  This means that some Armenian booking brands have preconditions for their future presence in the international market.
+  In any case, in our relations with those who still have mutual distrust.
+  The online booking system requires regular daily checks, especially during hotel room price fluctuations, and requires direct contact with the tour manager, the site or mobile application specialist, the hotel staff, or the online system.
+ Therefore, it is expedient for the relevant website to be dealt with by the relevant qualified specialists and to check the available inquiries at the right time.
+  But since the budget of service companies is not inexhaustible, there is a loss of time և "potential" customers.
+The simplest booking system, which has a simple function, starts from 2000-25000 USD.
+As we need to have a comprehensive picture, for this purpose a survey was conducted among consumers to find out the indicators of using online booking systems, satisfaction, use of travel services, as well as the reasons for refusing this option.
+Gender:
+Male:
+Female:
+Graph 6. Gender image of respondents Age:
+51 և more
+Graph 7. Age picture of the respondents Do you prefer tourism services (tour?
+package, hotel room և etc.) book on the spot:
+visiting a specific organization or online?
+version:
+Make a reservation
+in place
+Online version
+Graph 8. Preference of respondents to use the services Have you used tourism services at all?
+from online booking systems (for example, book online)
+hotel room, tour package, car rental
+Yes
+No.
+Graph 9. Picture of respondents using online booking systems If yes, are you satisfied?
+Yes
+Partial:
+No.
+Figure 10. Results of respondents' use of online booking systems. If not, why not?
+There was no occasion
+We lose as a result of real contact
+extra time, space
+from the time of expensive tourism
+I wasted no time waiting for an answer
+Do you prefer human communication?
+Not all your preferred tourist
+organizations provide
+Online booking option
+You do not have the opportunity at any time
+to make an online reservation
+You do not know how to book online
+to use systems
+Do not trust electronic payment
+systems operation
+Do not trust online booking
+systems operation
+Figure 11. Reasons for respondents not to use online booking systems.
+  Analyzing the results of the survey, we have the following picture: we have a pretty good picture among Armenian consumers regarding the use of online booking systems.
+  This is evidenced by almost half of the respondents who have used the system.
+  In addition, more than half of users were satisfied with the operation of these systems, the rest expressed satisfaction with the "partial" response.
+  However, we can not fail to notice the dissatisfied 15.6% of respondents who point out the problems in this area.
+  The other half of the respondents, who did not use online booking, mentioned the lack of human contact in the case of online booking as the primary reason.
+  Investigation: The human factor is very important for the Armenian consumer.
+The next reason is the inability to make online reservations, which is primarily due to the inability to present the system of these sites in a difficult way և does not provide practical information.
+  It is also available in connection with the operation of trusted systems.
+ From all this we can conclude that the Armenian consumer is still adapting to automated, direct communication systems, therefore, he does not trust the work, in case of problems, the direct feedback.
+Conclusion.
+  A comprehensive analysis of the role of online booking systems in the field of tourism shows that the successful cooperation between tourism and IT can be considered one of the best achievements of the 21st century.
+  Information technologies that are developing day by day ևTourism needs are combined in any country of the world, where there is even the slightest condition for their creation.
+  The latest online systems allow tourism companies, as well as the three components of the hospitality industry, to clarify the services offered, to select potential online marketers with the help of special online tools, without leaving the property (which in real life involves large sums of money).
+ Those who correctly assess the role of the online system already understand that a travel service company does not have to be in the center of the city to be successful (thus creating problems with placement), on the contrary, as a result of well-established online booking systems, digital marketing and public relations. You can achieve an effective, tangible result, reduce the distance between you and the tourist, increase the tourist's free time.
+  In our country, unfortunately, the certain attitude of the society towards the online booking system is obvious.
+  People are afraid of losing money, they can not use it technically, they do not have enough information about the online activities of the organization, etc.
+  To the extent that the use of online platforms helps to reduce direct contact with the employee, however, it leads to a decrease in the demand for specialists in the field.
+  In addition, booking systems set up by many travel agencies simply do not work as a result of poor budgets and inaccurate projects developed by qualified professionals.
+  Therefore, as a result of the research, we conclude that the hypothesis put forward in the framework of our research work is partially refuted.
+To solve the problems that arose as a result of the research work, we offer: 1 ․ Each online booking system should have a maximum of one minute of interactive videos about how to use its features.
+2 ․ To be consistent with the systems, to carry out regular inspections, to be in touch with the company that sells or offers the service, to keep the team of specialists working in the system in a "smart" state.
+3 ․ Allocate a certain budget for public relations, not be satisfied only with creating websites, applications.
+4 ․ Develop the right strategy to bring the unified brand of Armenian online booking to the international market.
+LITERATURE [1] https.
+//works.doklad.ru/view/zXGb-_5tu2Y/3.html(далщщ.
+ 28-03-2019). [4] https.
+//www.academia.edu/35481025/The_implications_of_new_technologies_on_travelhabits(Accessed
+.
+ 09-03-2019).
+TiratsuyanPayluhi, MkrtchyanSedaSOFT TOURNAMENT NETWORKING SYSTEMSBY TOURISM
+SEARCH Keywords: booking, online system, online platform, tourism, business automation, tourism products, IT-smart, information tools.

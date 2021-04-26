@@ -1,0 +1,43 @@
+One of the important stages in the design of large integrated circuits (GIS) is the measurement and verification of characteristic parameters.
+  Both digital and analog circuits are used to ensure the functionality of GMIS.
+  In order to organize their inspection at the design stage, in many cases it is expedient to separate the analog and digital substations 426 INFORMATICS to ensure their unique inspections and measurements.
+  With the development of technology, various tools have been developed for the testing of digital circuits, which allow the measurement of the parameters of digital subunits with a certain accuracy with the help of pre-designed libraries [1].
+  In the case of analog subunits, tests are usually performed using simulation tools through simulations [2-3].
+ Digital nodes and their means of verification.
+  The design of digital nodes is mainly done with the help of automated design tools, because in these nodes, unlike analog circuits, two active levels are used for signals - the logical levels "1" and "0".
+  They are usually described and designed using modeling languages ​​(Verilog).
+  Appropriate schemes are synthesized from these descriptions with the help of automated design tools through pre-designed libraries.
+  As a result, the logic of digital subunits is represented in the form of standard cells and their interconnections.
+ The physical design results in the final design of the design, from which extracts and a valve-level description can be used to perform design inspections.
+ Analog nodes and their means of testing.
+  The design and testing of analog nodes is relatively complex, as all intermediate signal values ​​are taken into account in these circuits.
+  This complicates the formulation of functionality, thus automating pre-design.
+  The design is usually done at the transistor level.
+ With the help of the extracts received after the design, the necessary design parameters are measured and the functionality is checked with the help of modeling tools.
+  Simulations are performed, as a result of which the tests are performed.
+ 427 INFORMATICS The need to differentiate between analog and digital sub-units To ensure the completeness of the functionality of IS, it is necessary to use both analog and digital sub-units in the design, as in many cases it is impossible to solve the problem without using analog sub-units.
+  This complicates the design and design inspection tasks.
+  To check the general scheme, it is necessary to combine the above methods.
+ In order to implement the mentioned combination, it is necessary to somehow differentiate and separate the analog and digital sub-nodes in the project.
+  Differentiation allows you to apply a convenient approach to each subunit.
+ In existing software tools, analog subunits are considered "black boxes" and allow very approximate measurements and checks to be made on them, assuming that more accurate measurements must be made by the designer by hand [1].
+ The proposed approach allows analog substations to be presented as analog substations instead of "black boxes" and later to make accurate measurements typical of analog.
+ The proposed approach makes it possible to distinguish between analog and digital subunits in the project with the help of the projected valve-level verilog description and standard cell libraries, which can then be subjected to individual tests.
+  The approach is performed using the algorithm shown in Figure 1.
+ The first step is to enter the valve-level verilog description and the standard cell library.
+  The valve level description is decoded and all subunits are separated.
+  Libraries are also decoded and all cells are separated.
+ When all the input data is decoded, the system 428 INFORMATICS starts matching all the sub-nodes of the project with the library.
+  The subunits, all components of which are standard cells, are represented as numeric subunits.
+  And those for which it was not possible to find a corresponding cell are analog subunits, as analog subunits are not based on the cells in a standard library.
+ Getting Started Standard Cell Library (.v) 1 Input Data Main Level Name Standard Cell Library (.v) n Connecting All Input Libraries Decoding Valve Level Description Recursively go through all node locks Valve-level verilog description (.v) Node image available In SMP 1 There is a description of the node. Perform typical inspections and measurements for the subunit.
+ Proposed automated approach system.
+ Based on the mentioned algorithm, an automated system was built, with which a graphical environment was designed to facilitate the work.
+  The graphical user window is shown in Figure 2.
+ Figure 2. Graphic window of the proposed approach Figure 3 shows the hierarchical view of the project structure after subdivision.
+ 430 INFORMATICS Figure 3. Graphic window of the proposed approach The complexity of performing inspections and measurements in GMISs using analog and digital subunits in the same scheme has been investigated.
+  It has been shown that in order to facilitate inspections, it is necessary to distinguish between analog and digital subunits in the general scheme.
+  In existing systems, analog subunits are referred to as "black boxes" and are deprived of precise inspection at this stage of design.
+  An algorithm has been developed that distinguishes between project-level verilog descriptions and standard cell libraries in project descriptions and separates digital and analog subunits, making it possible to test each type of subdivision accordingly.
+  Based on the proposed algorithm, an automated system with a graphical environment has been developed, the application of which will facilitate the process of further testing and measurement.
+ .

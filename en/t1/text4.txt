@@ -1,0 +1,43 @@
+The main purpose of working capital formation in any organization is to meet the requirement to acquire the necessary assets and to optimize the capital structure for efficient use.
+  In particular, the following principles are the basis of the capital formation process: Հաշվի Taking into account the prospects for the development of the organization's economic activity; համապատասխան Ensuring the adequacy of the amount of capital involved and the amount of assets formed, security.
+ In accordance with the mentioned principles, the problem of formation of the own working capital of the organizations is practically solved during its formation.
+  The sources of working capital are the sources of working capital, as well as equity.
+ The latter are the funds that do not belong to the organizations, but are constantly in circulation.
+  Such funds serve as a source of working capital formation with their minimum balance.
+ 41 ECONOMICS Traditionally, all sources of working capital financing are subdivided into the following groups:  own and equated,  borrower,։ involved,  other internal sources.
+ Own funds play a key role in the implementation of asset turnover. It is necessary to provide some independence to commercial organizations, which creates an opportunity for profitable activities.
+  In the conditions of market relations, despite the diversity of property and the expansion of opportunities to attract funds in connection with it, the role of bank loans as a source of working capital has significantly increased.
+ Corporate finance, in particular working capital management, being a relatively new economic category for our reality, is currently the object of theoretical and experimental studies.
+  What is the novelty of this category for national economic entities?
+  Prior to the implementation of the reforms, there were numerous enterprises operating in the republic or in the territory of the USSR, most of which could be compared with similar non-governmental enterprises operating in the world market in terms of production, financing and cash flows.
+  The activities of these enterprises were not free from the application of such concepts as financing, management, allocation of funds, etc.
+ So, what are the fundamental or theoretical reasons for the significant problems and key reasons for working capital financing and management in Armenia?
+  To answer the question, consider a number of models of working capital financing and management.
+  In the theory of financial management 42 Due to the choice of sources of financing for the fluctuating part of the current assets by the manager of the company, it is accepted to distinguish several strategies of financing the current assets.
+  It should be emphasized that the mentioned models are simplified and the opportunity to make decisions on the capital structure is reserved for the manager.
+  The following four theoretical models are best known in the field of working capital management. ideal, aggressive, conservative, compromise.
+  The choice of this or that model leads to the determination of the amount of long-term liabilities and the calculation of the amount of net working capital on that basis, which is defined as the difference between long-term liabilities and non-current assets.
+  Therefore, each strategy corresponds to a certain model of equilibrium.
+ Now let's discuss the mentioned models separately.
+ Ideal model.
+  The construction of an ideal model is based on the essence of the category "circulating assets" and "circulating liabilities" and their mutual coincidence.
+  In this model, current assets in size coincide with short-term liabilities, ie in this case the net working capital is equal to zero.
+  There is no such model in real life.
+  In addition, from the point of view of liquidity, this model is more risky, as in case of unfavorable conditions, the enterprise may show insolvency.
+ The essence of this strategy is that long-term liabilities are not defined according to the level of current assets, and the basic balance sheet equation (model) takes the following form: EP = Non-current Assets 43 ECONOMICS CM CMP CMC CMC CMC - Non-current assets CM - System part of working capital CM - Fluctuating portion of working capital CC - Equity CCP - Any long-term borrowing capital required The other three models of the working capital management strategy are more realistic for the enterprise, which is based on the statement:
+  Thus, the difference between the models is determined by the financing sources chosen for the fluctuating portion of the current assets.
+ Aggressive model.
+  In the case of this model, long-term liabilities serve as a source of financing for the systemic portion of non-current and current assets.
+  In this case, the net working capital is the same as the systemic part of the current assets, and the fluctuating part of the current assets is fully financed by short-term accounts payable.
+  From a liquidity point of view, this strategy is also risky, as in practice it is impossible to limit only current assets to a minimum. 44 ECONOMICS.
+  In the case of this strategy, the basic balance equation (model) looks like this: EP = No circle. active. + Approx. active.system part KKP TM HM YPK OSHM SK Conservative model.
+  In the case of this model, it is assumed that the fluctuating part of current assets is also financed by long-term liabilities.
+  In this case, there are no short-term accounts payable, there is no risk of losing liquidity, and net working capital equals working capital.
+  Of course, it is clear that this is possible only theoretically and has an artificial nature.
+ During this strategy, the base equation (model) will look like this: EP = No circle. active. + Approx. active. system part + Approx. active. fluctuating part YPC SHM SK OSH Compromise model.
+  This is a more real model.
+  In this case, non-current assets, half of the systemic and fluctuating part of current assets are covered by long-term liabilities (long-term liabilities and equity).
+  In this case, the net working capital is equal to the systemic part of the floating assets and half of their fluctuating part.
+  Under this strategy, enterprises may have a certain excess of working capital over a period of time, which negatively affects profits, but at the same time is considered a payment for the risk of losing liquidity.
+  In the case of this strategy, the basic balance equation (model) looks like this: Ե.Պ. = Not active. + Approx. active. System part + 0.5 Approx. active. fluctuating part.
+ .

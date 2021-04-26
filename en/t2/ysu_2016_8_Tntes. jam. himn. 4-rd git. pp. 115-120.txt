@@ -1,0 +1,47 @@
+Sci. Head: Ph.D., Ph.D., Assoc. R. The purpose of this analysis is to assess the level of competition in the banking system of the Republic of Armenia based on the characteristics of the financial system of the Republic of Armenia.
+As a peculiarity of the financial system of the Republic of Armenia, it should be considered a priority that the banking system is predominant in the financial system, which accounts for about 90% of the financial system assets.
+ Therefore, in the context of financial stability assessment, the assessment of the level of competition in the banking system is used.
+Numerous studies have been conducted around the world to assess the level of competition in the financial / banking system.
+  The competitiveness of the financial system as a subject of research is conditioned by the direct impact on the quality of financial services provided to the society, on the one hand, and by the impact on the stability of the financial system, on the other hand.
+ In the context of stability, the role of the system's competition became meaningful after the global crisis. In the face of strong competition, financial institutions have had to constantly innovate, as a result of which they have taken unjustified risks, endangering the stability of the system.
+  Different methods were used to assess the level of competition in the banking system: Herfindahl Hirschmann's index, Panzar Ross model / 1987 /, Lerner index / 2007 /, Boone's index / Booneindicator-2008 /, Tobin q / 1990 /.
+In particular, we have chosen և used the Abba Lerner index 1.
+  It shows the bank's ability to set its price above marginal costs.
+  Therefore, the higher the Lernerindex, the greater the market power of the bank.
+i - is the bank index, t - is the time index, Pit is the price of the bank's assets, calculated as the ratio of gross և total assets, MCit is the bank 's marginal cost. MCit = dTCit / dTAit The mountain index changes from 0 to 1.
+  Moreover, the closer the index is to 0, the more competitive the environment is.
+To get the equation of the total expenses of the bank, we use the trans-sliding function of expenses.
+β14xln (W2, it) xln (W3, it), where TC is the total cost of the bank and TA is the total asset of the bank.
+W1, it - is the interest expense of the bank, which is calculated as interest expenses ների funds involved / time deposits of individuals + legal. Time deposits / relationship of persons.
+W2, it - is the price of labor, է calculated as staff costs / salary + business trip costs + social. fees + tuition costs / և total assets ratio.
+W3, it - is the price of fixed capital.
+ Calculated as the ratio of non-interest expenses (excluding staff costs) to fixed assets.
+Total costs are an undisclosed function of the size of the bank's assets միավոր the unit cost of production resources. If we take the sliding form of the cost function (to reflect elasticities): , 1) => (lnTA, lnWi) = (0,0), we will get the above-mentioned cost-sliding function.
+Taking into account the peculiarities of the digital series of the banking system of the Republic of Armenia, in estimating the total cost equation, the regression included variables characterizing the trend, in particular, the following regression was estimated for the Republic of Armenia.
+The results of panel regression are presented in Appendix 1.
+Then, for each bank սահման the marginal costs for time are calculated according to the following formula: Table 1 shows that the medium-small banks of the system have the least market power in the Armenian banking system, which means that the competition between these banks is the largest.
+And the weakest competition is mainly between large banks (Lerner index is high).
+  Also noteworthy is Mellat Bank's position in the system, which is interpreted by the bank's almost zero level of marginal costs due to its strong focus on a specific banking segment.
+Anelik Bank / small / ADB / small / Byblos Bank / small / BTA Table 1. Mountain index for Armenian banks in 2014 Prometeybank / small / Ameriabank / large / Armswissbank / small / Ardshininvest
+Bank / big / Armeconomba
+j / medium / VTB Bank / large / Investbank / small / Armbusinessban
+k / large / Artsakhbank / medium / Unibank / medium / Converse Bank / medium / Areximbank / medium / Inecobank / medium / ACBA Bank / large / ProCredit Bank / small / Araratbank / medium / HSBC Bank / large / Mellat Bank / small / 1 The data of the Central Bank of the Republic of Armenia were used.
+Line 1. The dynamics of the index of the banks with the highest index value in 2005-2014 Figure 1 shows that the banks with the highest value of the mining index showed a monopoly tendency to decrease during the crisis, which was typical for large banks.
+  The exception is Mellat, whose monopoly power has grown as a result of the crisis, which is typical of the group of small banks to which Mellat belongs.
+Then, the average value of the Lerner index for different groups of banks was calculated (Figure 2).
+  It can be seen from the chart that the big banks have the biggest market power.
+  This means that the competition among the big banks is small, so they are able to set their prices above the marginal costs.
+ As for the medium-small banks, initially the medium-sized banks had a larger market power, then due to the crisis the situation changed in favor of small banks; in recent years the market power of medium-sized banks has increased and stabilized, exceeding the market power of small banks.
+The crisis had a negative impact on the monopoly power of large և medium-sized banks.
+  However, after the crisis, their Lerner index gradually increased and equaled the pre-crisis level.
+ The monopoly power of small banks, unlike medium and large banks, remained stable during the crisis.
+Line 2. Mountain index for groups of large, medium and small banks. As for the marginal costs of banks, they are higher for medium-sized banks.
+ And for large and small group banks they are lower.
+ In the case of large banks, it depends on the effect of scale, which makes the banks more efficient.
+  And in the case of small banks, it can be explained by the fact that they have a unique segment of customers.
+Line 3. Marginal Expenditure Dynamics for Large, Medium և Small Banks Groups The dynamics of asset prices in LargeMediumSmallBank has been variable.
+  The price of assets of medium-sized banks mainly exceeded the prices of small and large banks.
+  But this is not a sign of monopoly power, but depends on the fact that the marginal expenses of medium-sized banks have been the largest, so the average banks will raise prices to cover expenses.
+And in the case of big and small banks, the picture is different.
+ Although the big banks had lower marginal costs than the small banks, the price they set was higher than the small ones, which means the monopoly power of the big banks.
+Line 4. P = TR / TA dynamics for large, medium and small groups of banks Anahit Kechejyan ASSESSMENT OF THE COMPETITION LEVEL OF THE RA BANKING SYSTEM Keywords: banking system, competition, marginal costs, asset prices.

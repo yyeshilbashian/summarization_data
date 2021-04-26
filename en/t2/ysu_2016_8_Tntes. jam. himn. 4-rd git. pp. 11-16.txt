@@ -1,0 +1,108 @@
+Sci. Head: Doctor of Technical Sciences prof. A. Zakaryan In the second decade of the 21st century, the means of communication are gradually improving, the communication services in it become more multi-layered.
+In our country, active progress is also observed in the field of telecommunications, due to which today services are provided in all sub-sectors of telecommunications using the latest technical and technological solutions of the board.
+The sector with the largest share of the telecommunications sector is the mobile telephony services sector.
+Cable TV Internet Fixed TelephonyMobile TelephonyLine. 1. Dynamics of structural sub-markets of the RA telecommunications market, according to absolute revenue, 2006-2014. (billion drams) 1 Figure 1 shows that in 2008-2014. Revenue from the mobile telephony sub-sector has not changed significantly, but has always been dominant in the overall revenue structure of the sector.
+1 NSSRA Statistical Yearbook 2015, Transport և Communication, NSSRA Statistical Yearbook 2012, Transport և Communication.
+Line 2. The number of subscribers of the RA mobile telephony services sub-market in 2006-2014.1 According to Figure 2, it is obvious that in 2006-2014. During the period, the number of mobile subscribers increased almost 3 times, from 1.25 million to 3.45 million.
+  It is noteworthy that the decrease in the number of subscribers by about 400,000 in 2008 was due not to economic-migration characteristics, but to changes in the registration mechanisms of the sector, as a result of which HMM started registering only active subscribers of different telephone operators.
+2009 The increase in the number of subscribers by about 750,000 is due to the fact that the two largest operators in the sector, VivaCell MTS and Beeline, have taken steps to attract new customers to prevent the outflow of subscribers after the entry of Orange Armenia. Active maintenance measures (including price reductions ներդր introduction of free on-net airtime packages).
+ On the other hand, the outflow rates of new subscribers attracted by Orange Armenia from November 5 (the day Orange Orange enters the market) to December 31 are reflected to some extent.
+There are 3 companies operating in the RA mobile market: "Armenia Telephone Company" CJSC with its "Beeline" brand, "Telecom" CJSC with its "Vivacell-MTS" brand, "Orange Armenia" CJSC with its "Orange" brand.
+2 PSRC 2011 According to the decision N273 A, an active subscriber is considered to be each subscriber for public mobile mobile communication, for which prepaid or postpaid payment has been made during the previous three months. Market shares Operating incomes. 3. Market shares of RA mobile operators by 2014 (from left) և 2015 From the analysis of the quarterly reports on the technical and economic activities of the companies operating in the RA mobile communication market for the 3rd quarter (from the right) of operating income 1, it becomes clear that in 2014 VivaCell (62%) is the market leader in terms of operating income, Beeline is in second place (20%), and Orange is in last place (18%).
+ On the right side of Figure 3 we see that the image is almost identical to 2015. In the 3rd quarter.
+  The picture is almost the same according to the number of active subscriber numbers. VivaCell is again the absolute market leader with 61%, Beeline is in the second place with 24%, and Orange is in the last place with 15%.
+OrangeBeelineVivaCell 2014 1st 2014 2nd 2014 3rd 2014 4th 4th 2015 1st 2015 2nd 2015 3rd terr. 4. The dynamics of the number of subscribers of mobile operators according to 2014-2015. quarters 1 See http.
+//www.orangearmenia.am/about-orange-armenia/Main-Economic-indicators-for-OrangeArmenia-performance-in-Q2-2015-arm.pdf, http:
+//mts.am/docs/psrc/psrc_report_arm.pdf?sfvrsn=2http.
+//about.beeline.am/am/documents/docs.wbp.
+2 Website of the Public Services Regulatory Commission, http.
+//www.psrc.am/.
+Figure 4 shows that the number of active subscriber numbers of individual operators has not changed significantly.
+  This phenomenon can be attributed to the fact that the market is mature, close to saturation, so the strategies of telecommunications operators need to be developed frequently and changed.
+  All mobile operators try to provide high quality voice, text, multimedia և data transfer services.
+ The source of operators' income has traditionally been voice (text (SMS) transmission services.
+  Today, however, telecom operators have to accept the challenges of the so-called Over TheTop (OTT) services.
+OTT services involve the transmission of audio, video and video through traditional Internet services offered by operators.
+ Because these service providers do not need to have access permissions or use their technological capabilities for their operations, they are called "Over-The-Top" services.
+  "Viber", "Skype", "Volp", which are widely used as examples of similar services. Facebook ձայն voice, video, text messages and calls from other organizations.
+  The world's leading telecommunications operators are paying close attention to the challenges of OTT services.
+  According to the forecasts of the global organization "Informa Telecoms & Media", the global revenues from "SMS" services in 2018 will decrease to 96.7 billion US dollars per year (instead of 120 billion in 2013) due to the greater use of OTT messaging services 1.
+  According to the report "Spirit DSP" published by "Spirit DSP", the global revenues from the voice services of mobile operators by 2020 will fall to 799.6 billion US dollars (instead of 970.4 billion in 2012) 2.
+1 OTT app use undermining SMS revenue, http.
+//telecoms.com/197721/ott-app-use-undermininghttp.
+//www.indjst.org/index.php/indjst/article/viewFile/62238/48529 Table 1. Quarterly Data
+n:
+ի:
+a
+n:
+a
+D:
+յ:
+t:
+e:
+n:
+r:
+e:
+t:
+n:
+ի:
+n:
+ի:
+a
+j:
+j:
+B:
+յ:
+յ:
+n:
+ի:
+a
+n:
+a
+D:
+յ:
+t:
+e:
+n:
+r:
+e:
+t:
+n:
+ի:
+n:
+ի:
+a
+j:
+j:
+B:
+յ:
+յ:
+n:
+ի:
+a
+n:
+a
+D:
+յ:
+t:
+e:
+n:
+r:
+e:
+t:
+n:
+ի:
+n:
+ի:
+a
+j:
+j:
+B:
+յ:
+2013 2nd 2013 4th 2014, 2nd 2014 4th 2015, 2ndTable 3 shows the percentage dynamics of revenues from "Voice", "Short և multimedia messages" և "mobile internet" services in the operating revenues of RA mobile operators.
+  From the study of the indicators we see that the RA mobile communication operators will not be indifferent to the above-mentioned developments.
+ Almost the same picture is noticeable in all 3 organizations.
+ 2013 From the 2nd quarter to 2015 In the second quarter, the share of revenues from voice communication և short messages with operators has been decreasing.
+ Instead, the share of mobile internet revenue has increased.
+  This circumstance can also be explained by the competition.
+Grisha Amirkhanyan CURRENT DEVELOPMENT TRENDS IN THE RA MOBILE MARKET Keywords: telecommunications, mobile communication, market share, active subscribers, OTT competition.

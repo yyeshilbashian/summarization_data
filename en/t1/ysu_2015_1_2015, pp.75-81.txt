@@ -1,0 +1,102 @@
+STUDY OF POLYAMINE QUANTITY CHANGE STUDY DURING INHIBITION OF ARGINASE ISOFERENMS Introduction.
+  Polyamines are indispensable components of the cell that have a wide range of effects.
+  The precursor to their biosynthesis is the amino acid L-ornithine, which is formed from the amino acid L-arginine by the enzyme arginase.
+  From ornithine to ornithine decarboxylase synthesizes eputressin polyamine, after which spermidine վեր is converted to spermidine by sperm synthase, then spermine [13, 15].
+ Polyamines are found in the cells of almost all eukaryotes և prokaryotes.
+  They are polycyclic compounds with small molecular weight, which determines the diversity of their biological effects [9, 11,12].
+  There are unexplained aspects about the mechanism of biosynthesis of polyamines.
+  In particular, the question of which arginase is involved in the biosynthesis of polyamines is not clarified.
+  There are two isotopes of arginase in nature.
+  One is ureothelial arginase, which is found in the liver of urothelial organisms, is the last enzyme in the ornithine cycle, the main mechanism of neutralization of ammonia, and the other is non-ureotelicarginase, which is widespread in biologically present in almost all organisms. in metabolism [5, 8].
+  In particular, it was concluded that non-ureothelial arginase, on the one hand, involves the hydrocarbon structure of arginine in the biosynthesis of proline, polyamines, glutamate, providing the latter biosynthesis processes with arginine hydrolysis; as in the arginine-rich fractions of nystones.
+  The present task is to elucidate the nature of arginase involved in the biosynthesis of polyamines (ureoteric or non-ureteral) [6, 7].
+ It should be noted that the literature on the nature of arginase related to polyamines is scarce, has shortcomings, and in many cases is contradictory.
+ Although a number of scientific articles have been published on the relationship between polyamine and arginase, the isoenzyme arginase that provides ornithine for the biosynthesis of polyamines has not yet been identified [12, 17].
+  We assume that the ornithine required for the biosynthesis of polyamines is produced by the action of non-ureothelial arginase, whereas ureothelial arginase is provided by the ornithine for the synthesis of urea.
+  The intermediate formed from L-arginine to form NO և citrulline is NG-hydroxy-L-arginine [10].
+NG-hydroxy-L-arginine has been shown to inhibit all non-ureoteric isoenzymes չի having no effect on the ureoteric isoenzyme at all [1].
+  Therefore, it has been used to assess changes in the amount of polyamines against the background of changes in non-ureotinase arginase activity.
+Materials և methods.
+  Animals և Reagents.
+  The object of the study was laboratory white male rats (200-220 g).
+ The rats were kept at a temperature of 23 ± 2 ° C for 12 hours. in the conditions of daily illumination, with a standard diet.
+  The animals were anesthetized and then beheaded.
+Sperm tetrahydrochloride, putrescine dihydrochloride, spermidine trihydrochloride, 2,3-butane monoxime և Cellulose (Sigma Aldrich Co. Ltd. (Taufkirchen, Germany)) were used in the experiment.
+Determination of polyamines by thin chromatography.
+ The test tissue is homogenized in a 5% cold solution of HC1O4 at a rate of 100 mg / ml [6].
+ After extraction for 1 day at + 4 ° C, the samples are centrifuged at 15,000 g for 20 minutes at + 4 ° C.
+  To 200 μl of HC1O4 extract was added 400 μl of freshly prepared solution of densyl chloride (5 mg in 1 ml of acetone) 200 a solution of 200 μl of sodium carbonate corresponding to HC1O4.
+ The reaction between the polyamines իլ densil chloride is quenched with 100 μl of proline solution (100 mg / ml) and incubated for 30 minutes.
+  Densilpolyamines are extracted with 0.5 ml of ethyl acetate and mixed for 30 seconds.
+  To prepare the standard, the steps are performed with the same egg: a mixture of polyamines is prepared, taking 20 nM from each.
+  50 μl of densilpoliamine is precipitated in the pre-adsorption section of chromatographic plates (PTSH-AF-B, silica gel KSKG, RF).
+ Chromatography was performed using the chloroform / triethylamine (25/2, V / V) mobile phase.
+ After chromatography, the yellow-brown spots are removed from the plates and dissolved in 2 ml of ethyl acetate.
+  The amount of polyamines is determined spectrophotometrically at a wavelength of 505 nm (Genesys 10, Thermo Scientific, USA).
+  RF values ​​are determined by the following formula: point flight length / phase flight length.
+Isolation of arginase isoenzymes և Purification.
+ A rat liver (0.5 × 50 cm) was added to a tower filled with Sephadex G-150 (Potte - Elvehjem Glass, Germany), obtained after 1500 g of centrifugation in cold conditions (CLP). -1, RF) [2, 3].
+Homogenization was performed in 0.2M glycine buffer (pH-9.5).
+  The tower was equilibrated with phosphate buffer (pH-7.2).
+ 40 factions were gathered.
+ The fractions containing rat liver liver isoenzymes obtained by heli filtration were placed on a CM-filled cell (1.5 × 35 cm).
+The gradient elution was performed with 0.05M, 0.1M, 0.15M, 0.2M և 0.25M solutions of KCl.
+  32 factions were gathered.
+  After collecting the fractions (4 ml), the activity of arginase in each was determined by Archibald method, քանակ Quantitative analysis of proteins was performed at a wavelength of 280 nm (Genesys 10, Thermo Scientific, USA).
+Colorimetric method for determination of arginase activity.
+  A 10% homogenate of the test tissue was prepared, which was centrifuged at 3000 rpm for 10 minutes at 0-4 ° C.
+  The isolated residue serves as a source of enzyme.
+  Experimental and test versions have been prepared.
+ 1.5 ml of glycine buffer, 0.5 ml of supernatant, 0.2 ml of MnCl2 × 4H2O, 0.4 ml of L-argin were added to the test tube.
+ 2.6 ml test-experimental versions were incubated in an ultra-thermostat (Russia, 1982) at 37 ° C for 60 minutes, shaking continuously.
+  Enzyme catalysis was stopped by the addition of 1 ml of 20% YIC.
+ The final product of catalysis was determined in the isolated regeneration by the Archibald method (1949).
+  2.5 ml of acid mixture, 1 ml of supernatant, 0.2 ml of 3% DAMO were added to the test tubes and boiled in the dark for 45 minutes in a water bath.
+  The resulting yellow color intensity was measured with an spectrophotometer (Genesys 10, Thermo Scientific, USA) at a wavelength of 478 nm.
+ Enzyme activity was assessed by micromoles of synthesized urea in 1 ml fraction over 1 minute of catalysis.
+ An enzyme incubation medium was added to 0.2 μM of NG-hydroxy-L-arginine [10].
+Development of results with Statistica 10 (StatSoft) program.
+ The results are presented with mean անդ standard deviation (M ± SD) values.
+  The results were analyzed by Student t-test (single sample).
+Results և discussion.
+  The aim of this study was to investigate փոփոխexamine changes in the amount of polyamines in the liver after retinorma միջոցով after NG-hydroxy-L-arginine (NOHA) inhibition of non-urethral arginase.
+After helfiltration with Cefadex G-150, the spectrum of protein-arginase activity of the liver is represented by two peaks in 13 և 25 fractions.
+  The isoenzyme contained in the 13th fraction is ureothelial arginase, and in the 25th fraction, it is the non-ureotic isoform (non-ureothelial arginase 1).
+ Previous studies have shown that the high molecular weight fraction of rat liver when fractionated by CM cellulose ion exchange chromatography is divided into two distinct peaks. the first with low enzymatic activity, the second with high [1, 6, 7].
+  The latter is a ureothelial isoenzyme of erginase with a number of physicochemical properties (effect of Km, Mn2 +, molecular mass, intracellular location, hormonal induction), and the former is non-ureoteric.
+  Based on the mentioned fact, after hel-filtration, fractionation of high molecular weight isozyme of the liver was performed with KM-cellulose.
+  After ion exchange chromatography, two peaks of arginase are obtained, the 8th և 21st fractions, respectively.
+  The 8th fraction contains the non-ureothelial isoenzyme arginase (non-ureothelial arginase II) and the 21st contains the ureothelial isozyme.
+Incubation medium of non-ureothelial arginase 1 of liver is increased by 8.5% of NOHA in the presence of 0.2 μg of NOHA, inhibition of non-ureothelial arginase 2 is 27.48%, and ureothelial arginase is inhibited by 1.3%. who (Fig. 1).
+  The latter indicates that ureothelial arginase is not inhibited by NG-hydroxy-L-arginine, or that inhibition is negligible, which may be the result of partial clearance of the enzyme.
+Subsequently, the studies aimed to observe the change in the amount of polyamines against the background of non-urethral arginase inhibition.
+The amount of polyamines in the fractions obtained after helion filtration by ion exchange chromatography (normally after NOHA inhibition) was determined by thin-layer chromatography (NCR) (Fig. 2, Table 1).
+Figure 1. Liver ureothelial և non-ureothelial arginase activity is normal և after NOHA exposure, p <0.05; n = 7. * - non-urothelial arginase 1 activity in the norm, ** - non-urothelial arginase 1 activity after NOHA exposure, x - non-urothelial arginase 2 activity in the norm, xx - non-urothelial arginase 2 activity under the influence of NOHA then, + - hepatic ureotellicarginase activity is normal, ++ - hepatic ureothelial arginase activity after exposure to NOHA.
+  The latter suggests that the first enzyme in the synthesis of polyamines, ornithine decarboxylase, is deprived of ornithine, which in turn leads to a decrease in the amount of eputrescine, sperm and spermidine.
+The results confirm that the source of endogenous ornithine required for the synthesis of polyamines in rat liver is ornithine synthesized by non-neurotransmitter arginase.
+A certain deviation from the pattern is observed in non-ureothelial arginase 2 of the liver, in the case of which inhibition no change in the amount of sperm polyamine is observed.
+ In addition, it is observed that the amount of other polyamines decreases to a lesser extent than in the case of non-ureothelial arginase 1 of the liver.
+ This exception is being studied, however, taking into account the results of laboratory work, we can say that the preferred isoenzyme of hepatic non-ureothelial arginase is the preferred source of ornithine for the biosynthesis of polyamines.
+ The results of previous researches allow to make such a conclusion [5, 6].
+  The first isoenzyme of hepatic non-ureteral arginase under the influence of polyamines is inhibited by a mixed inhibition mechanism, and the second isoenzyme of non-ureteral arginase is inhibited by a non-competitive inhibition mechanism.
+  During mixed inhibition, polyamines bind to both non-ureothelial arginase and non-ureothelial arginase-arginine complex, and during non-competitive inhibition, polyamines bind only to the enzyme-substrate complex.
+ This fact gives a certain advantage to the 1st isoenzyme of non-ureothelial arginase of the liver, which can lead to such a result.
+A B Figure 2. Normally normal for Densyl polyamines in the liver և After NOHA exposure. In fraction N 25 (A, after helfiltration by Sephadex G-150) և in fraction N8 (after ion exchange chromatography with CM-cellulose) (p <0.05, n = 5). SPM - sperm, SPD - spermidine, PUT - putrescine, LNUA - non-liver ureothelicarginase, NOHA - NG-hydroxy-L-arginine, RF values ​​for the norm և NOHA.
+In conclusion, in case of inhibition of non-ureothelial arginase isoenzymes in the liver, the amount of polyamines decreases.
+  Based on the results, we can conclude that the source of endogenous ornithine necessary for the synthesis of polyamines in mammalian cells is ornithine synthesized by non-ureothelial arginase.
+Table 1. The amount of polyamines in the liver after helium filtration ion exchange chromatography is normal ազդեց after the effect of NOHA on the isoenzyme activity of non-ureothelial arginase (p <0.05, n = 5).
+ The amount of polyamines is presented in the 50 μl polyester solution of nM. PA: polyamines, SPM - sperm, SPD - spermidine, PUT - putrescine, LOWA - liver non-fibrin arginase, NOHA - NG-hydroxy-L-arginine.
+PALUA 1 normLOWA 1+ NOHA LOUA 2 norm NormalLOWA 2+ NOHA PUTSDPDSPM In addition to the basic value, work can also have practical significance.
+  Alteration of non-ureothelial arginase activity in pathological conditions (cancer, neurodegenerative, autoimmune-viral diseases) can alter the amount of polyamines, thus affecting the course of the disease.
+  In particular, an increase in ornithine decarboxylase activity ը an increase in the amount of polyamines in cancer, where polyamines act as a growth factor [11, 12, 14], can be prevented by inhibition of non-ureothelial arginase.
+ At the same time, in neurodegenerative diseases of the central nervous system, a decrease in the amount of polyamines (maintain the potential difference, participate in the biosynthesis of neurotransmitters վերական neuronal regeneration [16, 17]) can be prevented by the hormone non-ureothelial arginase hormone.
+Literature Archibald R., The colorimetric determination of urea / J. Biol. Chem., 1945, 167.
+ 507.Buniatian H., Davtian M., Urea synthesis in brain. J. Neurochem., 1966, 13.
+ 743-753.biosynthesis, NG-hydroxy-L-arginine.
+  implications for the regulation of nitric oxide biosynBiochem 269.
+ 4317-25, 2002.14. Moinard C., Cynober L., de Brandt J., (2005) Polyamines.
+ metabolism and implications inhuman diseases. Clin Nutr 24.
+184-197.15. Morris S., Recent Advances in Arginine Metabolism.
+ Roles and Regulation of the Arginases.16. Pegg A., McCann P., Polyamine metabolism and function. Am J Physiol 1982, 243.
+C212J 376 (Pt 1).
+1-14.Mariam Sargsyan, Nikolay Avtandilyan, Susanna Karapetyan STUDY OF CHANGE OF POLYAMINS QUANTITY CHANGE OF LYARDIARGINASE ISOFERMENTS TEMPERATURE TIME.

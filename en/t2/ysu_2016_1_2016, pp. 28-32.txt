@@ -1,0 +1,72 @@
+SEISMIC ANALYSIS OF THE TERRITORIAL REGIME AND ESTIMATED EARTHQUAKE ESTIMATION (EXAMPLE OF GEGH RESERVOUR BARRIER) Observations made in some countries
+ A strong earthquake affects a huge area, so many dams can be subject to significant fluctuations, even if they are located quite far from the epicenter.
+ In such cases, there is almost no danger of well-built dams collapsing, but the dams still bear some damage.
+ Prominent examples are 2008. The Wenchuan earthquake in China, which damaged 1803 dams և 403 hydroelectric power plants, four of which were more than 100 meters high, in the Indian state of Gujarat in 2001. The earthquake of January 26, 2008 damaged 245 dams, mostly ground, and rebuilt 134 reservoirs in Japan following the Naikuru earthquake (June 17, 2008).
+Armenia is one of the few countries whose territory is almost entirely in the zone of high seismic danger.
+ The seismic activity of the region, the high seismic hazard of the territory of the Republic of Armenia երկր the earthquakes that have taken place in recent years make us pay attention to the problems of assessing the seismic resistance of the dam.
+In this work, the deformed state Գ seismic resistance of Geghi reservoir in case of seismic impact has been evaluated.
+Geghi Reservoir is located 4 km north of the confluence of the Geghi and Voghji rivers.
+ The reservoir was built in the 1990s. և is intended for water supply of Kajaran city.
+The dam of the reservoir is full of stone and is 70 m high.
+ It is inclined towards the upper stream.
+The inclination of the inner prism 1.
+1.5, the upper one fluctuates 1.
+From 2.25 to 1.
+2.75.
+  The total volume of the reservoir is 15 million cubic meters, the useful - 12 million, the water mirror is located at an altitude of 1402 meters.
+Features of seismic regime.
+ 1962-2013 through the seismological stations of the National Observatory Network of Seismic Protection in the area of ​​Geghi Reservoir. Based on the database of registered earthquakes, a seismic regime analysis within a radius of 50 km from Geghi Reservoir was performed (Figure 1).
+In order to study the spatio-temporal peculiarities of earthquakes, we have built a map of the epicenters of earthquakes within a radius of 50 km from the reservoir (1962-2013) (Figure 1).
+From the geological-tectonic point of view, the reservoir is located in the area limited by active faults of Khustup-Giratagh և Tashtun.
+ In the early instrumental period, Mozi in 735 and Svarants in 915 took place here. earthquakes.
+ One of the historical earthquakes associated with active faults near the reservoir is also known as Zangezur I in 1931, a magnitude 7 earthquake, which was felt in the vicinity of Geghi reservoir with a magnitude of 7, but no major damage was reported.
+From the map of Syunik in 1406, from Tat in 1308 (Figure 1), weak earthquakes are predominant, with a magnitude of 10 recorded in the epicenter in the study area during the Instrumental period, as seen in the epicenter.
+  An earthquake with a magnitude of 50 km from the reservoir, and occurred in 1968. on June 9 and August 1, respectively.
+  2011 were registered in the observed area. June 8, Kapan cherry) և 2012 October 30), Kajaran 2012 August 1 (
+ի (
+significant earthquakes.
+ Geghi ReservoirPicture 1. In the area within a radius of 50 km from Geghi Reservoir 1962-2013. Schematic map of the epicenters of the earthquakes that took place. According to the histogram of the quantitative distribution of the years of earthquakes that took place, there is an increase in the background of earthquakes, especially in 1978-1989. և 2001 until now (Figure 2).
+Figure 2. Graph of Quantitative Distribution of Earthquakes by Years 1962-2013 From the magnitude-temporal distribution of earthquakes, it can be seen that earthquakes of magnitude under study (Fig. 3).
+  In the area in 2010 Then the background value of the magnitudes of the prevailing earthquakes is within the norm.
+According to Gutenberg-Richter theory, the cumulative number of earthquakes in the study area տարածքում the magnitude dependence graph, which is within the norm for the observed period, and the maximum strength of the expected earthquake can reach up to (Fig. 4).
+Line 3. In the area with a radius of 50 km from Geghi reservoir in 1962-2013. Schedule of magnitude-time distribution of earthquakes Fig. 4. In the area with a radius of 50 km from Geghi reservoir in 1962-2013. Graph of the cumulative number և magnitude of earthquakes, (
+The seismic hazard was assessed for the Geghi reservoir with a probabilistic approach.
+ The SEISRISK III computer program was used.
+ It was used both within the framework of the GSHAP program and during the seismic hazard assessment works in the territory of the Republic of Armenia [3].
+  The SEISRISK III project has calculated the maximum horizontal ground acceleration values ​​at each point in the study area over the estimated probability of exceeding the selected annual values ​​[4].
+The seismic impact was determined by parts g of the horizontal ground acceleration.
+  Calculated in the occurrence zones of isolated earthquake epicenters for a period of 500 years with a probability of not exceeding 90%.
+  The following formula [7, 8] was used, where Bur is the maximum horizontal ground acceleration at g, M is the magnitude of the earthquake, R is the epicenter (km), h The depth of the hearth (km) are coefficients [5].
+As a result of the studies, the maximum horizontal ground accelerations have been compiled for the seismic hazard map with a probability of not exceeding 90% in 500 years for the area adjacent to Geghi Reservoir (Figure 5).
+  As a result, Geghi Reservoir is located in the zone with a maximum horizontal movement of 0.28g (8-9 points according to MSK-64 scale).
+Seismic reservoir calculation of Geghi reservoir dam.
+  A calculated section of the dam was constructed, for which a computational model for the stability of the slopes was constructed, using the physico-mechanical properties of the soil obtained from the individual elements of the dam [2].
+  The seismic resistance of the dam was calculated in case of special loading, taking into account the maximum magnitude of the expected earthquake.
+  For seismic calculations, the main parameter is the value of the maximum horizontal acceleration calculated for the Geghijbar Reservoir area - stock coefficients.
+  ևThe allowable value of the speed stability coefficient is calculated according to the construction norms, in case of main load, and in case of special load: [5].
+Figure 5. Schematic map of seismic hazard Գ adjacent to Geghi reservoir լարStress deformation state of the dam due to seismic impact ևTo assess the stability of slopes, it was solved with the help of end elements of forced oscillations.
+  Taken as a model in 2012. Accelerometer of the 6.4 magnitude Ahar earthquake on August 11 (Fig. 6).
+equation: Lines 6. Ahar Earthquake Accelerometer Prior to the assessment of the stress-strain condition of the dam, the stability of the tides in the event of a seismic load was checked by the Morgenstern-Price [6] calculation method (Fig. 7).
+ Acceleration (g) Time (sec) -0.1-0.2-0.3-0.400.10.20.30.40102030 a) b) Line. 7. Evaluation of the stability of the upper (a) և inner (b) slopes of the Geghi reservoir dam in case of special load. As a result of the calculations it was found that the Geghi reservoir dam is not seismically stable.
+  In order to detect the stress-strain state of the dam, we have constructed a flat digital model և solved with the help of smooth finite elements under the influence of the accelerometer of the above-mentioned horizontal accelerations.
+ At the initial stage, the stress field of the epitaph was built in static conditions (Fig. 8 և 9), after which the seismic load was installed, the smooth problem of forced oscillations was solved.
+Line 8. Stress effective field of Geghi reservoir dam from its own weight - vertical. 9. Stress-efficient field field of Geghi reservoir dam with own weight in horizontal direction. The stability of dam dams from seismic load has been calculated.
+  The displacement field is constructed in the event of an earthquake in a vertical-horizontal direction, which helps to form a correct idea of ​​the condition of the dam.
+  Field imaging of shifts from the course of an earthquake allows us to observe the development of oscillating horses, to distinguish the most dangerous periods, to study their tense state.
+The analysis using the stress field shows that the upper part of the dam is unstable and the inner part is stable (the results are significantly different from the data calculated by the classical method).
+ The coefficients are shown in the figure (Fig. 10).
+a) b) Line 10. Evaluation of the stability of the upper (a) և inner (b) slopes of the Geghi reservoir dam due to the dynamic load. Conclusions.
+ The quantitative background of earthquakes in 1978-1989 is observed to increase. "Until 2001".
+  The background value of the magnitudes of the earthquakes is within the norm.
+The graph of the cumulative number քանակ magnitude dependence of earthquakes has been constructed. It turned out that the largest magnitude of the expected earthquake was not greater than.
+The degree of seismic danger in the area of ​​the studied reservoir has been clarified.
+ As a result of the assessment of the potential seismic hazard, it turned out that Geghi reservoir is located in the zone of maximum horizontal movement of 0.28g.
+Checking the stability of the dam shafts in the case of a special load shows that the worms are unstable.
+Quantitative analysis of the stability of the ridges obtained by means of the voltage field obtained under the conditions of forced fluctuations of the Geghi reservoir dam shows that the upper ridge is unstable and the inner one is stable.
+Taking into account the obtained results, it is proposed to carry out similar studies for other reservoirs operating in the territory of the Republic of Armenia.
+Literature 4. Bender B., Perkins D., SEISRISK III.
+ A computer program for Seismic Hazard Estimation, USGS Bulletin, 1992.5. HHSHN.II-6.02-2006. Seismic construction.
+ Design norms.
+ Ministry of Urban Development of the Republic of Armenia, Yerevan, 2006,120.
+American earthquakes.
+  A summuary of recent work. Seismological Research Letters, Vol. 68, Ts1, 1997, pp.

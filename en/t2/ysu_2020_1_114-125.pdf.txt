@@ -1,0 +1,78 @@
+PROBLEMS OF EDUCATION OF CADASTRE MAPS AND NEW CARTOGRAPHICAL LAYERING IN THE REPUBLIC OF ARMENIA The cadastral mapping works in the territory of the Republic of Armenia were mainly carried out during 1998-2004 in different traditional methods of extraction.
+ Initially, cadastral maps were created and maintained on paper, which over time was subject to significant errors and inaccuracies.
+According to the current legislation of the Republic of Armenia, cadastral maps are considered to be one of the main documents of the registration system, in which real estate units are expressed.
+  In addition to the traditional methods, the mapping was carried out using modern geodetic equipment - electronic tachometers, satellite positioning stations (GPS), the use of which allows, without intermediate calculations, to obtain the coordinates of the determined points with high-precision, high-precision software. to obtain electronic cadastral maps with thematic layers in different schemes in systems [3].
+Cadastral maps երը plans are generalized և generalized representations of the appropriate scale ներով with conditional symbols expressing all units of real estate, their location, boundaries, areas, views and types, surface և underground մայր network այլ network of transmissions այլ.
+  Cadastral maps serve for the state registration, assessment of rights to the real estate unit, the creation of a land tax, property tax base, as well as the multipurpose purpose of maintaining the cadastre.
+  Graphic-text legal documents on real estate serve as starting materials for cadastral mapping work.1.
+50-1.
+500, 1.
+1000, 1.
+2000, 1.
+5000, 1.
+10000 և 1.
+Extracts of 25,000 scale, land development և urban planning software documents, master plans, collections of geodetic basis coordinates [4].
+Cadastral mapping is carried out in three stages: o preparatory work, o field work, o office work.
+Input of graphic data on real estate units ացումը digitization is performed on the basis of field extraction data.
+  In order to make electronic maps, it is necessary to enter the necessary cadastral mapping data from the memory card or internal memory of the electronic tachometer or GPS position receivers.
+  According to the entered data, digitization works are carried out with the sketches.
+  Cadastral maps (plans) are compiled exclusively electronically. In settlements: 1.
+50 - 1.
+ 500, 1.
+1000, 1.
+ 2000, outside the settlements: 1.
+2000, 1.
+5000, 1.
+10000, 1.
+ On a scale of 25,000.
+When compiling digital cadastral maps electronically, corresponding software packages are used, the digital data of which must be DivX AutoCAD (.dwg (AutoCad)) or Digit Microstation (.dgn (Microstation)) or Shape ArchGis (.shape) or ArcGis In Mapinfo (.mapinfo (MapInfo)) formats [1].
+During the input and digitization of cadastral maps it is necessary to carry out the following works: 1) preparatory works, during which the quality of materials used as a basis for digital maps should be checked, 2) input works, during which field extraction materials are entered through electronic tachometers and satellite tachometers The received field data, 3) receiving the entered points on the screen, 4) processing of raster images, 5) vectorization of raster images, 6) creation of thematic layers և restoration, 7) topology checking և verification, 8) removal of unnecessary elements, 9) editing of the base map և Verification, 10) Duplication of cadastral digital maps on electronic media և paper.
+After the completion of the digital mapping, the electronic map shows: [1] 1) the coordinate network, 2) the geodetic basis points, 3) the community boundaries, 4) the boundaries of the cadastral districts, 5) the boundaries of the cadastral units, 6) the buildings, 7) Cadastral conditional codes (numbers), 8) linear dimensions of real estate units, areas, 9) communication channels.
+In cadastral plans սխալ errors related to real estate units found in maps are classified as: o errors that do not change the ownership of the property, the nature of its rights, qualitative-quantitative characteristics (permissible deviations defined by normative technical documents), o errors that cause property, property , change of qualitative և quantitative characteristics.
+Corrections of errors found in cadastral plans և maps are made according to the following principle: 1. In order to correct the differences in the areas of the boundaries of the "actually used privatized agricultural lands" mentioned in the state registration certificates, the community leaders may submit to the relevant territorial subdivision the adjusted plans of the changing lands approved by them.
+2. In case of inaccuracies of property subjects during the transfer of lands to the communities (lands owned by citizens as transfer of community property plots or lands owned by communities as transfer of ownership to citizens), the community leaders may submit their subdivisions to the subdivision subdivided. Certificates of registration of ownership (use) of real estate issued to owners, owners' agreements, relevant legal bases for land plots that have not received state registration of rights (state act of land ownership, temporary certificates,Excerpt from the decision of the privatization commission կող approved by the community head).
+3. In order to correct the inaccuracies of land types during the transfer of lands to the communities, the community leaders may submit to the territorial subdivision the amendments made in accordance with the requirements of the Resolution N 1066-N of the Government of the Republic of Armenia of September 17, 2009 .
+4. In case of inaccuracies related to the purpose of the land plots caused during the land transfer to the communities, if previously there are relevant decisions on the change of the purpose of the land, the correction shall be made by the decision of the Prime Minister of the Republic of Armenia on the establishment of an interdepartmental commission on approving temporary use schemes in August 2001. based on [2].
+If previously there were no relevant decisions on changing the purpose of the land plots, the purpose of the land plots is changed in accordance with the RA legislation.
+"Lands13 5. For the correction of inaccuracies related to the lands transferred to the ownership of "unknown" citizens as community property, if there are no documents proving their right to them, the community leaders can submit the decisions of the community councils on recognizing the mentioned lands as community property.
+During geodetic works, due to different circumstances, any measurement is accompanied by certain errors.
+ Taking into account the errors caused by cadastral mapping ժամանակ due to the influence of various factors during digitalization, different surfaces are calculated in the case of geometrical plots, depending on the number of boundaries of the plotted plot (in the case of plots not bounded by boundaries). In the area of ​​the settlement: a. In case of measuring land plots with up to 8 border points, in case of measuring land plots with an area of ​​up to 1000 square meters, accept the maximum permissible error rate of 1.25% (12.5 square meters), and in case of measuring land plots exceeding 1000 square meters, adding 12.5 square meters to each square meter exceeding 1000 square meters. for 0.3%.
+For example, in case of calculating the area of ​​2400 square meters of land, the following allowable error will be obtained: 1000 m2 2 x 1.25% = 12.5 m2 2,2400 m2 - 12.5 m2 + 1400 m2 x 0.3% = 12.5 m2 + 4.2 m2 = 16.7 m2.
+b. In case of measuring land plots with more than 8 սահման boundary points, in case of measuring land plots with an area of ​​up to 1000 square meters, accept the maximum permissible error of 1.5% (15.0 square meters), and in case of land plots exceeding 1000 square meters, add 15.0 square meters to 1000 square meters. for 0.5%.
+For example, in case of calculating the area of ​​3200 square meters of land, the following allowable error will be obtained: 1000 m2 2 x 1.5% = 15.0 m2 2.3200 m2 - 15.0 m2 + 2200 m2 x 0.5% = 15.0 m2 + 11.0 m2 = 26.0 m2 [2].
+2. In areas outside the settlement: a. In case of land plots with up to 8 border points, in case of land plots with up to 10000 square meters, accept the maximum permissible error rate of 1.2% (120 square meters), and in case of land plots exceeding 10000 square meters, adding more than 10000 square meters per 120 square meters. for 0.25%.
+For example, in case of calculating the area of ​​24000 square meters of land, the following allowable error will be obtained: 10 000 m2 2 x 1.2% = 120.0 m2 2.24 000 m2 - 120.0 m2 + 14000 m2 x 0.25% = 120.0 m2 + 35.0 m2 = 155.0 m2.
+b. In case of measuring land plots with more than 8 սահման boundary points, in case of measuring land plots with an area of ​​up to 10000 square meters, accept the maximum permissible error rate of 1.5% (150 square meters), and in case of land plots exceeding 10000 square meters, adding 150 square meters per 100 square meters for 0.4%.
+For example, in case of calculating the area of ​​36200 square meters of land, the following allowable error will be obtained: [1] 10 000 m2 2 x 1.5% = 150.0 m2 2.36 200 m2 - 150.0 m2 + 26 200 m2 x 0.4% = 150.0 m2 + 104.8 m2 = 254.8 m2 [ 2].
+In order to find the errors in the cadastral maps, to work out the ways to eliminate them, the analysis of the cadastral cartographic data was carried out.
+The cadastral maps were combined with the satellite aerial photographs of those areas through the "Arc GIS" software package.
+Below is an excerpt from the cadastral map of the Dzithankov community of the Shirak region, in which many discrepancies were found between the cadastral map and the "actual land use boundaries" (Figure 1).
+Figure 1. Cadastral map ևSatellite imagery առավել In order to obtain more reliable information on the location of the linear dimensions of the plots, an electronic tachometer was taken at the site, the received data were connected to the WGS-84 coordinate system via GPS receiver, as a result of which land plots were formed.
+ Based on the received data, we determined the locations of the land plots in the cadastral map (Figure 2).
+Figure 2. On-site extraction with geodetic equipment.
+The borders of the land plots from the satellite image were digitized by means of Arc GIS software package (Figure 3).
+Figure 3. Digitization of land boundaries from satellite imagery using Arc GIS software package. Then the areas of these land plots were calculated և linear dimensions according to the digitization layer և compared with the area obtained by surveying data obtained by geodetic equipment աղ linear dimensions աղ (1).
+Table 1. Areas of land by actual extraction և Digitization of satellite imagery by means of Arc GIS software packageSurfaceSurfaceSurface by areaDifferentiation of surfaces
+Extraction digitization (ha) (ha) n (ha) As a result of the comparison, it was found that the land areas ամաս Linear dimensions, according to the digitization layer, differ to some extent from the areas obtained by on-site extraction by geodetic equipment և linear dimensions.
+  The reason is that the digitization work was done with a satellite imagery (50 cm) with a low spatial resolution.
+  This means that the digitization accuracy of ultra-high resolution (eg 1 cm) images obtained by modern drones will meet the accuracy required for cadastral mapping, allowing the cartographic layer to be created by digitization using the Arc GIS software package.
+As a result of the analysis of the cadastral cartographic data of the Republic of Armenia, we come to the conclusion that there are many discrepancies between the existing cadastral maps in the territory of the Republic and the actual land use boundaries.
+ The main goal of the work carried out in this direction is to make the correction of cartographic data easier.
+  It is proposed to create a new de facto land use cartographic layer, which will help to correct the cartographic data և will be of great importance.
+ It is proposed to carry out the works of creating a cartographic layer in the non-built areas exclusively in office conditions, and in the areas where the received aerial photographs will be carried out in the field extraction works using modern geodetic equipment.
+  The obtained results will be entered into Arc GIS software package, through which mapping will be performed.
+When correcting cadastral maps, the basis may be the new cartographic layer, the explanation provided by the head of the community or the relevant plenipotentiary, as well as the written consent of the owners of the plots of land to be compared.
+Land-clearing borders of the country's state և local self-government bodies, investors և land users with the data reflected in the new cartographic layer will be able to develop social and economic sustainable development paths, effectively organize land construction work, pursue correct tax policy և exercise state control over land use.
+LITERATURE [1] Order N 51-N of February 26, 2009 of the Chairman of the State Committee of the Real Estate Cadastre under the Government of the Republic of Armenia on approving the order of cadastral mapping, [2] URL.
+ http:
+//www.arlis.am/ (The link was made on 06.04.2019).
+Chairman of the State Committee of the Real Estate Cadastre under the Government of the Republic of Armenia of June 1, 2010 N 186-Order on approving the instruction to correct the errors found in the cadastral plans և maps, URL.
+http:
+//www.arlis.am/ (The link was made on 06.04.2019).
+[3] Decision N 305-N of the Government of the Republic of Armenia of March 25, 2010 on approving the 2010 Comprehensive Development Program of the State Property Development of the Republic of Armenia, URL.
+ http:
+//www.arlis.am/ (The link was made on 07.04.2019).
+[4] Official website of the State Committee of the Real Estate Cadastre of the Republic of Armenia - URL.
+http:
+//www.cadastre.am/ (The link was made on 07.04.2019).
+FINANCED FROM THE BUDGET: IMPROVEMENTS VARAZHADYAN VARADIST CADASTIC MAPS AND NEW CARTOGRAPHICAL LAYERING IN ARMENIA Keywords: cadastral map

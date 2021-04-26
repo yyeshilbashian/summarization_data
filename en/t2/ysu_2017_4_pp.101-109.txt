@@ -1,0 +1,125 @@
+TRANSPORTATION OF INTEREST RATES OF THE BANKING SYSTEM OF THE REPUBLIC OF ARMENIA Net interest income is the most lucrative source of income for most banks.
+  Interest margins are generally calculated as a ratio of net interest income to profitable assets, but often take the volume of total assets.
+  One of the ways to study the interest margin is the accounting separation of the latter components1.
+ Using the income and expense statements of banks, one can obtain the following formula: NI = NII - (nIE –nII) - LLP - T, where: NI - net profit of the bank, NII - net interest income, nIE - non-interest expense, nII - non-interest income, LLP - loan contributions, T - taxes.
+Slightly modifying the equation to represent it as a percentage of total assets where NIM = NII / TA.
+From the above formula, we can assume that the interest margin, hence the net interest income, is affected by non-interest expenses not covered by other income, contributions for non-performing loans (this can be equated with credit risk), taxes, as well as the bank's net profit.
+The first two of these indicators (non-interest expenses և contributions) can also be used in empirical estimation of interest margins.
+Intermediation.
+ Two Studies ”r, 06/44, 1986, Industry and Finance. Series 18. Below we present these components for the banking system of the Republic of Armenia 2003-2014.
+Chart 1. Percentage Margin Components to% Balance Assets Let us present the main observations from the chart.
+• Banks' net profit ratio to total assets decreased in 2014 reaching 0.6%.
+• The volume of net contributions to loan reserves has significantly increased, which clearly reflects the trend of credit risk growth.
+  It should be noted that the income from loans makes more than 70% of the interest income.
+• The part of operating expenses that was not covered by non-interest income reached its peak during the crisis and was generally stable.
+  The net non-interest income of the Republic of Armenia has been negative in all the years, the decrease of the latter is already a tendency.
+ At the same time, other wages and salaries have been reduced.
+The level of taxes is relatively stable, with a tendency to decrease.
+2014 was only 0.3%.
+The study of interest margin determinants was based on the model proposed by Hoy Saunders 2 (1981).
+  In this model, in the subsequent changes of the model, it is assumed that banks are risk averse, acting as direct intermediaries in the drama 2 Ho, T. and Saunders, A., “The determinants of banks interest margins.
+  theory and empirical there are proposals for means և between those who present a demand և.
+  Demand for loans առաջարկ The supply of deposits is asymmetric in terms of time, so the bank has to apply in case of excess demand for money market loans or insufficient deposits.
+  The bank should set optimal interest rates on loans and deposits in order to minimize the risks of money market interest rate uncertainty.
+ For this reason, banks designate their interest rates as money market interest rates / r /. The corresponding margins assigned are նկատմամբ b to the money market interest rate.
+ Therefore, there will be a single spread. The logic of the model is as follows.
+ Suppose a new deposit arrives from the bank earlier than the demand for the loan.
+In that case, the bank will temporarily invest the received funds in the money market at interest rate r will have losses if the money market interest rates decrease.
+ Similarly, when the demand for a new loan reaches the bank earlier than the deposit, the bank is forced to borrow money from the money market - it faces a risk in case of an increase in interest rates.
+  In addition, the repayment of loans is uncertain due to credit risk.
+ Therefore, the bank will apply such margins to loans (b) to deposits (a) to offset interest rate և credit risks.
+Model construction.
+ Using the bank's initial և final wealth և functions և Taylor approximation, the utility function of the bank is removed.
+ Then, the effect of the change in the volume of deposit loans on the bank's profitability is calculated.
+ The model assumes that loans and deposits are a random Poisson process, so the probability of lending և taking a deposit is a decreasing function from the margins applied by the bank. of.
+The result is the following equation with the optimal interest margin. Therefore, according to the theoretical model, the components of the interest margin are: 1. Competitive structure of markets.
+ This depends on the demand for credit և deposit supply elasticity (β).
+  If the demand for loans (deposit supply) is less elastic, β will be smaller, և the bank will be able to apply a higher margin.
+ Therefore, the α / β ratio is an approximation of the monopoly profits in the bank margin.
+The first indicator used in the empirical models is the Herfindaliindex, the second is the Lerner index, the ratio of the price-margin cost difference to the price.
+ Demonstrates the ability of the bank to set a price higher than the marginal cost.
+Opinions on the relationship between the structure of the markets and the interest rate are contradictory.
+ Some even deny the connection between the two variables. "
+2. Average operating costs.
+  This variable shows that even if the bank does not have the power to dictate a high margin, it must set a margin that can cover its operating costs.
+ The coefficient of the variable indicates what part of the operating expenses is transferred to the customers (depositor-borrower).
+  Banks with high unit costs will also have to have high margins to cover their costs.
+  Predicted with a positive bruise margin (Maudos and Fernandez de Guevara 2004; Williams 2007; Hess 2007).
+Empirical models determine operating costs / total assets by a factor.
+3. Risk aptitude expressed as absolute risk aptitude coefficient: U ”(E (W)) / U '(E (W)).
+  Assuming the bank is risk averse, U ”(E (W) <0, the expression will be positive.
+ Therefore, the more the bank avoids risk, the higher the margin.
+ As a variable, the capital / assets ratio is taken here.
+  According to the theory, the positive correlation between the margin և this indicator stems from the fact that, unlike foreign financing banks, they have to set higher margins to cover capital expenditures (Saunders and Schumacher 2000 and Brook and Rojas 2000).
+ However, there is both a positive and a negative correlation with the size of the margin (according to different authors).
+  There is a negative correlation, for example in Armenia (Dabla-Norris and Floerkemeier 2007), և in the Czech Republic (Horvath 2009), which is explained by the fact that banks with a high level of capitalization set a small margin to avoid the risk of bankruptcy.
+4. Money market interest rate volatility (σM) 2.
+The more volatile interest rates are, the higher the margin needed to compensate for market uncertainty.
+  Volatility is measured by annual standard deviations of different daily interest rates.
+5. Credit risk: (σL) 2.
+ The greater the uncertainty or volatility of the loan repayment (default risk), the higher the bank margin.
+  In order to compensate for the losses of non-performing loans, banks will incur additional costs for their customers in the form of high margins.
+  Therefore, there is a positive correlation between credit risk margin (Maudos and Fernandez de Guevara 2004; Angzabo 1997; Maudos and Solis 2009).
+If the relationship is negative (Williams 1997; Hess 2007; Chortareas 2010), then the bank, not taking into account the growth of low-quality loans, takes additional risks to provide new loans with lower interest rates in order to increase market share.
+ This is typical of weak banks.
+On the other hand, the high interest rate on deposits is a response to the increase in the volume of non-performing loans in order to attract additional funds.
+In empirical models, credit risk can be expressed as non-performing loans, contributions to loan և DP reserves with variables.
+6. Interest rate risk և credit risk covariation: σLM.
+  The product of the two risk variables is used as the explanatory variable.
+7. Average size of bank transactions (L + D) ընդհանուր Total volume of loans (L + 2Lo).
+ Deposit market share on loans։ loans.
+ According to the model, unit margins are an increasing function of the average size of transactions, so the larger the volume of transactions for the given credit-market risk levels, the greater the potential loss և banks will need a larger margin.
+ In addition, the greater the share of the bank in the total volume of products, the greater the opportunity to set high margins (Ho and Saunders 1981; Maudos and Solos 2009).
+  In empirical models, the index is represented by a logarithmic variable of the volume of loans given.
+The case of RA.
+ Panel regression was constructed for the Republic of Armenia, Analysis of percentage margin factors for the Republic of Armenia was performed on the basis of a fixed effect model.
+  Money market volatility used in the theoretical model և interest rate risk և risk covariation variables were not included in the RA model, taking into account the fact that the RA money market is in the process of formation չ the existing market interest rate series is not organic.
+ Instead, other factors taken from international experience were used in the RA model, in particular: Hidden interest rate payment.
+  Instead of setting a high interest rate on deposits, the bank provides a number of free services.
+  The result is a large interest income margin.
+  To observe this phenomenon, the following variable is introduced: operating expenses - non-interest income / total assets.
+  A positive connection is expected.
+Alternative reserves costs.
+  Having bank reserves preserves certain means, for which interest will not be received.
+ This in turn is an additional expense for the bank, which must be reimbursed by raising the interest margin.
+ Therefore, there is a positive correlation between the "margin" of this indicator.
+  The larger the liquid reserves, the higher the margin.
+ This ratio is represented by the variable reserves / total assets.
+ The bank's cash and receivables are taken as safeguards.
+Quality of management.
+ Good governance involves combining high-yield assets with low-cost liabilities, so there is a positive correlation between management quality և percentage margin և.
+ This indicator is expressed in the following ratio: cost / income.
+  This is the operating cost required to generate unit revenue.
+ An increase in this indicator implies a decline in efficiency or quality of management.
+ Therefore, the negative sign is more to be expected here.
+Characteristics of Variables և According to the estimated model, the consolidated effects of RA are summarized in Table 1.
+Table 1.
+ According to Ho ունդ Saunders model, description of RA interest margin factors և estimated impacts Positive impact Competitive market structure (Mining index) Risk inclination (capital / total assets) Credit risk (loans / total assets).
+ It is assumed that the higher the interest rate on loans, the greater the credit risk.) Hidden interest rate payment ((operating expenses - non-interest income) / total assets) Expenses (reserves / total assets).
+Bank reserves are required as a reserve. Quality of management (operating expenses / total revenue) Let us consider the variables separately.
+The following variables have the same effect on Armenia as the theoretical model assumed.
+The competitive structure of the markets, expressed by the Lerner index, shows the monopoly power of banks.
+  Therefore, as expected, the positive correlation between the index and the margin is justified and reflects the monopoly profits in the bank margin.
+ The greater the monopoly power of the bank, the greater the margin it has set.
+A positive correlation was also observed between the "margin" of risk inclination.
+  The higher the bank's margin, the more funds the bank needs to cover its costs, so banks have to add a margin.
+With the increase in credit risk, Armenian banks are increasing their margins to compensate for the risks associated with credit losses.
+Hidden interest rates, which assume that banks provide free services to customers, are, on the one hand, operating expenses, on the other hand, increase the bank's potential demand, and, consequently, future income.
+  However, being a non-profit expense in the current period, on other equal terms, they force banks to increase the margin in favor of their disadvantaged customers.
+Quality of management.
+ The growth of the index presupposes a list of efficiency. The increase in operating expenses is not accompanied by a corresponding increase in revenue.
+ Consequently, the margin will decrease, leading to a decrease in the bank's profit.
+ A negative sign was also observed for Armenia.
+The following three factors have shown results for Armenia that deviate from the theoretical model.
+There was a negative correlation between the total "margin" of the loan volume, which indicates the correct use of the scale effect. Large banks reduce margins as a result of the scale effect (Fungacova and Poghosyan 2009; Maudos and Fernando de Guevara 2004; Angbazo 1997).
+Average operating costs.
+  According to the theoretical model, the banks that have high unit costs will have to have high margins to cover their costs.
+ Therefore, the coefficient of the variable indicates what part of the operating costs is transferred to customers.
+  The negative sign indicates that even in case of increasing operating costs, the banks do not change the costs to the customers in order not to lose their segment of customers.
+Alternative reserves costs.
+  According to the theoretical model, having bank reserves presupposes the preservation of certain funds, for which no interest will be received.
+  This, in turn, is an additional expense for the bank, which must be reimbursed by raising the interest margin.
+ Therefore, there must be a positive relationship between the "margin" of this indicator.
+  In the model we evaluated, however, a negative connection was received.
+  Which once again testifies to the prudent policy pursued by our banks.
+Anahit KechejyanRANKING INTEREST RATE COMPONENTS OF THE BANKING SYSTEM RAISING Keywords: Interest margin, components, accounting separation, market interest rate Summary.

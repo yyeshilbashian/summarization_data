@@ -1,0 +1,81 @@
+EVALUATION OF ECOLOGICAL SERVICES IN BREEDING ECOSYSTEM SERVICES (EC) are the benefits that humans receive from ecosystems.
+  The different categories of ecosystem services provided through ecosystems include: 1 ․ Providing Services: Food, Water, Wood և etc., 2 ․ Regulatory Services: Affect Climate, Watercourses, Diseases, Waste և Water Quality 3 3 ․ cultural services: provide recreational, aesthetic և caring benefits, 4 ․ Support services: soil tillage, photosynthesis հոս nutrient flows.
+"Ecosystems" are dynamic complexes of inanimate environments that interact with plant, animal and microorganisms as functional units.
+ "Ecosystem services" are direct direct investments of ecosystems to ensure human well-being.
+  The concept of "ecosystem goods and services" is synonymous with ecosystem services.
+In monetary terms, the valuation of these goods and services is equivalent to the valuation of ecosystem services [4].
+The mountain ecosystems of Gndevaz village are a source of services for the local population (food, fresh water, grass, etc.).
+Meadows and fodder are used by the population as pastures for grazing farm animals, beekeeping or as natural grasslands.
+ The evaluation of these ecosystem services was carried out using the market price method, and the yield was estimated during field studies.
+As a result of the surveys conducted in the village, the quantity of fruits and berries and vegetables actually used by the villagers was found out. The market price.
+  By market price we mean the selling price of agricultural products, at which the farmer sells the product to the reseller or processing company.
+ Experimental plots with an area of ​​1 m2 have been installed to determine the productivity of pastures and grasslands.
+ The yield of 1 pasture or grassland was calculated by the following formula: B = Kt * Gch * 10 000, where B - is the yield, kgKt - is the wet biomass calculated in the test site, kgGH - wet biomass is the conversion coefficient of dry biomass (0.35).
+In the case of the pastures of Gndevaz village, the average yield is approximately. Ba = 0.46 * 0․35 * 10 000 = 1600 kg, Bkh = 0.71 * 0․35 * 10 000 = 2500 kg.
+According to the relief factor ության altitude, the total community grassland areas are spread at three different altitudes (landscape zones): 1. lowland - mountain-steppe subzone, yield - 1200 kg / ha, 2. medium - in the meadow-steppe sub-zone, the yield is 1400 kg / ha, 3. in the high subalpine zone, the yield is 1600-1800 kg / ha.
+As the pastures of the highlands are mostly used, that is why we assume the average yield of the pastures is 1600 kg / ha.
+ The cost of 1 kg of grass is 50 drams (2018).
+ In case of pastures the economic value of 1 hectare is 80,000, in case of hayfields - 125,000 drams.
+Permissible pasture loading was calculated, showing the maximum number of livestock that can be fed on the pasture area (1 ha) throughout the pasture area without adversely affecting pasture efficiency.
+  Determined by the following formula [1]: ATB = B / P x T, where: Permissible pasture load of ATB, yield of B1 ha pasture (kg / ha), requirement of P conventional pastures (kg), T pasture area per day.
+In the case of Gndevaz village, one head of PCU accepted a cow weighing 400 kg.
+The weight of the animal is multiplied by a coefficient of 0․025 (zootechnical) [1].
+100 x 10 = 40 kg).
+ In this case, ATB = 1600 / (10 × 180) = 0.8.
+According to the separated zones, the given index fluctuates in the range of 0.6-0.8.
+  That is, it turns out that 0.8 heads per hectare in the whole pasture region.
+  In case of 3105 ha of pastures in the village, in case of permissible loading of pastures, the number of cattle is equal to 2484 (currently about 160 heads).
+  To calculate the pasture demand of the whole herd, we convert the whole herd (different species եռsegative groups) into large conventional units (PCUs) with conversion coefficients [1].
+Table 1. Calculation of Conversion of a Conventional Large Unit of Animals (PCU )Agricultural Quantity Transformation Animals (Species և Gender Groups) Conditional
+Large Unit (PCU) (Chapter)
+Cows Bulls Horses Pigs The total number of large conventional units
+Sheep and goats Based on the daily feed requirement of a large conventional unit per head, we have calculated the daily feed requirement for the whole head for the entire pasture period (Table 2).
+PCU per capitaMWP (live) average weight (kg) Per capita daily requirementGeneral PCM daily requirement (kg) (kg) Pasture PCM quarter period (day) requirement in pasture range (kg)
+Table 2. Forage requirement of a large conventional unit of the community in the pasture season. The demand for total livestock feed (FD) for the whole grazing period (180 days) is 561 t dry matter or 561x4 = 2244 t green mass (the dry matter conversion ratio is 4).
+ The actual density of the entire livestock population in the entire pasture area of ​​the community is then calculated to determine how much pasture area each large conventional unit (PCU) is actually provided with.
+  The land resources are 3105 hectares.
+Actual population density = PCU population / pasture area (ha) = 312.
+ 3105 = 0.1 g.
+ That is, 1 head of PCM falls to (1 hectare).
+ 0․1) = 10 hectares of pasture.
+ In this case: (cid.
+2869) (cid.
+2874) (cid.
+2868) (cid.
+2868)
+(cid.
+2869) (cid.
+2868) (cid.
+3400) (cid.
+2869) (cid.
+2876) (cid.
+2868) = 0.8 ATB = According to the separated zones, the given index fluctuates in the range of 0.6-0.9.
+ That is, it turns out that 0.8 heads per hectare in the whole pasture period.
+Based on the values ​​of the Pasture Situation Index (PES) ներից the values ​​of the permissible pasture loading norm, the demand for pasture area has been calculated to understand whether the community pastures with their area ավ will meet the demand for existing livestock pastures.
+ The calculation is based on the average pasture yield, the duration of the pasture period և 1 PCM daily feed requirement.
+ According to studies, the average yield of community pastures in different zones is .1200 + 1400 + 1700 = 4300.
+ 3 = 1433 kg / ha (average by different pastures).
+ Pasture area requirement = (PCM x O x T).
+ B = (312 x 40 x 180).
+1433 = 1568 ha.
+That is, the demand for livestock pastures in the community in the whole pasture period can be met with 1568 ha of pasture.
+From the point of view of external nature use, the population of Gndevaz village collects edible vegetables, herbs, fruits and berries.
+ Surveys (113 houses) revealed the annual number of fruits, berries, vegetables and herbs collected by the population.
+Name 1. surplus 2. stress 3. Sibekh 4. Mandak 5. asparagus 6. alagyaz 7. The average market price, market value, in the collection area, thous. coin 8. cash9. lily 10. դանդուռ 11. mushrooms 12. pear 13. Rosehip (dry) 14. thyme (dried) 15. chamomile (dry)
+16. tail 17. hawthornTotal amount:
+Table 3. Annual quantity of fruits-berries, vegetables, herbs collected by the population of the community Average selling price Thus, we can clearly state that as a result of the calculations, Gndevaz community is provided with a great potential of ecosystem services.
+  If the population has appropriate means, it can definitely benefit from the wide prospects of agricultural development of the community.
+Based on the assessment, it becomes clear that almost half of the pastures are not used in the current conditions, moreover, in the case of cattle breeding, it has about 15 times less population than the possible number.
+  All this when there is a data processing plant in the community.
+As for the collection of edible vegetables, herbs, fruits and berries, the calculations show that the cost of ecosystem service is eight million drams (even more).
+ Most of the population (only 15 families are engaged in the sale of collected plants) use the collected plants for personal and household needs.
+LITERATURE [1] Tovmasyan G., Sustainable Biodiversity Management, South Caucasus, Guidelines for the Sustainable Management of Pastures and Grasslands Management Plans, Yerevan, TASK LLC, 2015, pp. 42, 48, 61.
+[2] Report on the availability of land fund in Gndevaz village, Vayots Dzor region (distribution (DZ22).
+[3] The Economics of Ecosystems and Biodiversity, URL.
+  http:
+//www.teebweb.org/(Accessed.
+ 29.03.2019).
+[4] URL.
+ http:
+//armstatbank.am/ (the link was made on 22.04.2019).
+Lusine Khachatryan EVALUATION OF ECOLOGICAL SERVICES IN THE VILLAGE BREEDING Keywords: ecosystem services, provider ecosystem services, pasture yield, allowable load, large unit requirement, conditional service, pasture value

@@ -1,0 +1,55 @@
+REGULATORY CHANGES IN GEOPHYSICAL FIELDS AS AN EARTHQUAKE FORECAST Earthquakes, which are among the most dangerous catastrophes, have occurred throughout the continent throughout history.
+ People have always been afraid of earthquakes, they have tried to give a supernatural explanation to the phenomenon, considering it a punishment of God [1].
+ The ancient Greek philosopher Aristotle put forward the hypothesis of the cause of earthquakes for the first time.
+ He believed that the winds on the earth, entering the earth's crust through cracks and caves, became stronger through fire, and began to search for a way to the earth's surface, causing earthquakes.
+  Although this hypothesis does not contain any scientific explanation, it has been accepted as the main explanation for earthquakes for centuries.
+At the beginning of the 18th century, the English scientist John Mitchell came to the conclusion that earthquakes occur during earthquakes due to the formation of separate waves, եթե if we know the source of these waves, we can understand the cause of their occurrence.
+According to current perceptions, earthquakes occur due to the accumulation of stresses and deformations in a certain mass of earthquake rocks, which in turn is associated with the movement of lithosphere plates.
+  In general, there are two types of earthquakes: natural-artificial, or rather, man-made.
+ Man-made earthquakes can occur in two ways: 1. due to military or industrial explosions, 2. due to the construction of artificial reservoirs.
+Natural earthquakes, as mentioned above, are associated with the movement of slabs, due to which certain stresses and deformations accumulate, causing earthquakes.
+ It turned out that the longer the accumulation of stress և deformations, the stronger the earthquake.
+ These are tectonic earthquakes.
+  There are also natural earth movements associated with the collapse of karst voids in the earth.
+As we know, the Armenian Highlands, which includes the Republic of Armenia, are the frontal part of the collision of the Arab-Eurasian plates in the Alpine Himalayan fold zone, due to which the area is in a stress-stagnant state, therefore, it is considered a seismically active zone.
+This is the reason for the existence of a number of seismic epicenter zones in Armenia, the strongest of which are the epicenter zones of Dvin, Zangezur, Vayots Dzor, Garni, Tsakhkadzor, Sjan, Noyemberyan, Spitak, Gyumri, Armavir, Byurakan and Parakar.
+  The rest are relatively weaker, but their strengthening is not ruled out in the future.
+ Earthquakes associated with the lithosphere plates occur in a certain mass of terrestrial rocks due to the accumulation of stresses and deformations.
+  In case of certain values ​​of stresses and deformations, a fault occurs, energy is disconnected.
+The part of the area where the fracture originates և from which the initial seismic waves propagate is called the hypocenter of the earthquake.
+ The projection of a hypocenter on the earth's surface is called an epicenter.
+The resulting fracture, the part of the surrounding space from which the energy of the accumulated voltages is disconnected, is called the epicenter of the earthquake.
+  The magnitude of the earthquake is proportional to the size of the fracture.
+  The distance from the surface to the hypocenter is called the hearth.
+  Earthquakes whose depth exceeds the earth's boundaries are called deep focal earthquakes.
+ All the earthquakes that took place in Armenia were of crust type, their depth exceeded 1520 km.
+Most of the energy released during earthquakes is spent on altering the physical properties of mountain rocks in the hearth, breaking them, breaking them, and in some cases, seismic dislocations.
+  Along with this process, thermal energy is released.
+Only a small part of the total energy is radiated from the hearth by seismic waves.
+  These waves reach the Earth's surface, causing tremors that humans perceive as earthquakes.
+  Seismic waves are divided into two main groups: 1. Volumetric waves propagating around the earth, such as sound waves in the air; surface waves that propagate across the earth's surface like waves on the surface of water.
+Volumetric waves occur at the epicenter of an earthquake at the time of the fault.
+ They spread in different directions and gradually weaken.
+ Volumetric waves are of two types: 1. longitudinal - P (primory-primary), 2. transverse - S (secondary).
+Longitudinal waves are the result of compression of the particles that make up the earth.
+ They spread in the geological environment, reaching the earth's surface first.
+ Wide waves arise from the sliding of solid particles in the earth.
+ They follow the longitudinal waves, causing a stronger seismic shock at the observation point.
+ Longitudinal waves propagate about √3 times faster than transverse waves.
+  The first is called pre-shock or foreshock, the second - the main shock or shock, which in many cases can be followed by aftershocks or auto-shocks.
+ For example, in the case of the Spitak earthquake, two foreshocks were registered, and the aftershock aftershock phase lasted for about two years.
+Since geophysical fields reflect the physical and mechanical properties of rocks, changes in these properties in turn cause the field to change.
+  Long-term observations of geophysical fields have shown that their stress values ​​with their components are not constant over time, they change periodically և irregularly due to tectonic processes, causing corresponding variations.
+  Since field variations are caused by changes in the physical properties of rocks, field variations can give an idea of ​​the geological processes at the site by predicting a possible earthquake.
+For example, changes in the electrical conductivity of rocks suggest a seismic event, as a study of the electrical properties of rocks in Central Asia has shown that changes in the electrical resistivity values ​​of rocks are observed before some earthquakes.
+During an earthquake, a huge amount of energy is released, which in turn changes the density of mountain rocks, magnetic perception, conductivity, elasticity, radon intensity, etc.
+Studies have shown that due to the energy released by the earthquake, the density of the hearth rocks changes by about 0․2-0․4 g / cm3.
+ On the Earth's surface it can cause a change in gravity of 0․2 ÷ 0․3 ml which can be clearly recorded with modern accurate gravimeters.
+ It was found that the velocity of propagation of seismic waves decreases by 10 պակաս 20% in the 2nd և 3 stages before the earthquake, and during the earthquake it immediately returns to its previous magnitude (Figure 1).
+Figure 1. Seismic survey data immediately before the earthquake (phase 4) The electrical conductivity of mountain rocks changes by about 15% (Figure 2).
+Figure 2. Electrospinning data before և immediately after the earthquake (stage 5) In the 2nd և 3 stages of earthquake preparation, the vertical motion of the earth increases by about a few centimeters, after which it gradually decreases.
+ Groundwater levels in wells are rising (Figure 3).
+Figure 3. Groundwater level in the well before the earthquake Immediately after (stage 5) The number of aftershocks before the earthquake increases, and then the number of aftershocks decreases.
+LITERATURE [1] Balasanyan S. Y., Seismic protection և its organization, Gyumri 2002, pp. 13-9.
+[2] Stepanyan V. A., Earthquakes in and around the Armenian Highlands, Yerevan, 1964, pp. 6-15.
+Pap Khachatryan REGIONAL CHANGES IN GEOPHYSICAL FIELDS AS EARTHQUAKE FORECASTING Keywords: seismically active zone, geophysical, geophysical, modern tectonic fields.

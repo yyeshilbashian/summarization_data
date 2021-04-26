@@ -1,0 +1,94 @@
+EFFECTIVENESS OF MANAGEMENT DECISIONS AND KEY ELEMENTS Increasing the effectiveness of management is the cooperation of the company's employees towards the realization of a common goal, in which case the value obtained exceeds the resources or potential used by the company.
+  In general, the efficiency of the management system is the increase of the annual welfare of the organization by the leaders of the organization1.
+Efficiency is not typical for all types of collaborations. it requires specific purpose.
+  That is why this concept is of a managerial nature, it first of all shows the degree to which the goals are achieved.
+  In contrast to the result, the efficiency is a certain ratio.
+ Management efficiency in foreign literature is characterized by two words: effectiveness և efficiency.
+Effectiveness indicates the degree to which the organization achieves its strategic, operational goals, the success of the company's operations, interaction with the external environment, etc.
+  And efficiency means "savings", which includes the savings of resources and resources used by the organization, for example, the ratio of output to the volume of resources used to produce a product of that volume.
+ The less the use of these resources during the production of the product, the more the organization saves.
+  However, we must not forget about the requirements for the minimum quality of the product, the decline of which can seriously affect the sales volume and reputation of the enterprise.
+Thus, we can conclude that the main goal of management efficiency is to create an organization management system that will best suit the company 1 See Трофимова Л. А., Трофимов В. В., Management solutions (methods of printing and realization). СПб.:
+ Икономика и ფინнсы, 2011, p. 129.
+to the requirements of the internal environment։ will ensure the most efficient use of the external resources of the company's resources.
+Managerial decisions, as a result of managerial activities, can be assessed by simple և complex indicators.
+ The first are the results obtained, time, resources used.
+ Complex indicators are built for deeper assessment.
+  These include efficiency and productivity indicators.
+The results of managerial decisions depend on the quality of the decisions, their timeliness, the relevance of the objectives, the requirements of the clients, as well as their stability, accuracy, internal compliance, development opportunities, etc.
+The costs of making administrative decisions include information, time, technical, labor, and other costs.
+  Efficiency is the achievement of greater goals at the same cost.
+ Factors influencing management decisions are divided into three main groups: resource efficiency, time factor, and management purposefulness.
+The first factor characterizes the quality of the resources used, their savings in the management process, the possibility of accumulation and increase.
+The second factor reflects the timeliness of decisions, the saving of time, the use of new technologies, the potential of the staff, which can solve the problems arising quite quickly and professionally.
+The third factor reflects the realism of the goal և ability.
+ Accordingly, the activities of the manager, his strategy, processes aimed at economic development are considered.
+The intensity of managerial decisions is the ratio of time's effort used, and productivity is the ratio of time's output.
+Such a ratio shows that evaluating the effectiveness of this decision is one of the methods of assessing the internal and external environmental sustainability of the company.
+ All this allows not only to be convinced of the implementation of that decision, but also to work in case of actual deviations to correct the consequences of those decisions and to draft a new decision.
+When choosing alternatives, it is important to note that the final formulation of the decision reflects the method of measuring its effectiveness.
+  When it is not possible to assess or measure the effectiveness of a decision, such a decision should be avoided.
+ The decision is effective if it helps to achieve the goals set by the company.
+  In the case of multiple goals, the decision in which we achieve a positive result can be considered effective և the overall goal takes precedence over a number of secondary goals.
+Thus, the effectiveness of management decisions is the result of the efficient use of resources obtained during the development or implementation of management decisions.
+  The organization's resources include finances, materials, staff health, work organization, etc.
+  Distinguish the organizational, economic, psychological, legal, ethical, technological and social efficiencies of managerial decisions2.
+By organizational effectiveness of managerial decisions we mean the achievement of the goals of the organization with the least number of employees or the least use of time.
+  Organizational goals are related to the following human needs: work organization և security, management և stability.
+ Organizational efficiency որ The quality of management decisions is closely related3.
+The economic efficiency of managerial decisions is the ratio of the additional product received as a result of the implementation of the managerial decision to the cost incurred for the development and implementation of that decision.
+The social effectiveness of managerial decisions is the achievement of social goals, that is, the adoption of impact decisions on employees in a shorter period of time, with minimal use of human and financial resources.
+ Social goals meet the needs of people to be informed, to gain knowledge, self-expression, communication, rest and other needs.
+The technological efficiency of managerial decisions is to achieve certain results envisaged in the business plan. 2 See ibid., P. 131.
+3 See Васильев С. N., Seledkin A. P., Synthesis of Functions Effectiveness in Multiple Criteria Problems Solutions // Technical Cybernetics, 1980, № 3, p. 161.
+in a short period of time with less financial costs.
+The psychological effectiveness of managerial decisions is to achieve psychological goals for a large number of people in a relatively short period of time and with fewer employees and financial resources.
+  Psychological goals satisfy other needs of loving people, starting a family, having free time.
+The legal effectiveness of management decisions is the achievement of the legal goals of the organization in a relatively short period of time, with limited financial resources.
+  Legal purposes meet the need for people to be protected.
+Today, the methods and approaches of managing the effectiveness of the organization are various, from the collection of financial indicators to the modern concept of economic value added (EVA), value-oriented management (VBM), French digital management system (tableau de bord), system of balanced indicators (BSC).
+BSC concept - a balanced system of indicators.
+ The effectiveness of the organization (value added) is viewed in four ways, which reflect the current and long-term plans of the organization in terms of finances, consumers, business processes, training, growth.
+ The strategic goals of the four directions of the organization are divided according to the indicators of separate subdivisions of the organization4.
+EVA concept - economic added value.
+  The efficiency of the organization is correlated with the EVA index.
+  EVA-determining factors underlie the value of an organization.
+  The strategic goals of the organization are related to the optimization of EVA factors.
+  EVA is an efficiency assessment indicator5.
+Tableau de bord concept - digital management system.
+The effectiveness of the organization is viewed from the perspective of different perspectives: shareholders, consumers, society, business processes, partners և staff.
+During the activity of the organization the above-mentioned way is possible 4 See Kaplan R. S., Norton D. P., Balanced system indicator.
+  From Strategies of Literature, M., Olympus-Business, 2003, page 29.
+5 See Brigham EF, Ehrhardt M. C., Financial Management.
+  Theory and Practice. 13th Edition.Mason.
+ South-western Centage Learning, 2011, page 67.
+flexible use of resources.
+  The division of these indicators is based on the organizational structure6.
+VBM Concept - Value Management System.
+  The effectiveness of an organization is viewed in terms of the growth of the company's market value, where valuation, strategy, finances and corporate governance are used.
+ Performance appraisal is performed through a value management system (including EVA).
+7.
+After studying all the above approaches, factors and factors mentioned in the professional literature on the evaluation of the effectiveness of management decisions, we can combine them into a set of certain indicators that reflect the main results of the organization գործունեության enable the evaluation of the effectiveness of management decisions.
+These indicators include: • GPM (Gross Profit Margin) - gross profit margin, • NPM (Net Profit Margin) - net profit margin, • ROCE (Return on Capital Employed) - return on investment, • Current and Acid Ratio - current և Quick Liquidity, Inventory Holding Period - Receivables Collection Period, Receivables Collection Period, Payables Payments Period - Receivables Collection Period.
+Let's try to evaluate the impact of management information systems on the following example by calculating these indicators.
+We have selected two companies for the research, which carry out their activities in the wholesale and retail sector.
+  Company A և Company B operates in the fields of sweets, confectionery, clothing, care products, and wholesale of dairy products.
+ Let's present the main financial indicators of the companies, which reflect the results of their activity8.
+ It should be noted that management information systems have been introduced in both companies since 2015.
+6 See Kaplan R. S., Norton D. P., ibid., P. 191.
+7 See Brigham EF, Ehrhardt M. C., ibid., P. 521.
+At the request of 8 companies, their names have been replaced.
+Company A Performance Indicators Table 1. Index 2013 Q 2014 Q 2015 Q 2015 Q Gross Profit Margin Net Return on Assets Return on Investment Capital Return on Current Liquidity Fast Liquidity Asset Liabilities Consolidation Liabilities Debt Collection Debt Consolidation Liability* P - planned * P - factualIndex Gross profit marginNet profit marginReturns on assetsInvested capital returnCurrent liquidity Rapid liquidity In the period of retention of assets In the event of a collection of accounts receivable Debt Consolidation Debt Consolidation Debt Consolidation Debt Consolidation Debt Consolidation Debt Consolidation System
+  In particular, the liquidity ratios of Company A և Company B և current և increased by 12.9% և 14%, 50.5% և 46%, respectively, compared to the same indicators of 2014.
+  The two companies began to manage their own reserves more efficiently, indicating a reduction in reserves from 274 days to 249 in Company A and from 135 to 109 in Company B.
+ Therefore, we can conclude that the company has increased the efficiency of the use of current assets, is able to meet its short-term liabilities in a timely manner.
+Revenue volumes in both companies have decreased. In Company A - 10%, reaching 1,073,806 thousand drams compared to 1,193,118 thousand drams in 2014, and in Company B - 18%, reaching 1,797,892 thousand drams compared to 2,192,551 thousand drams in 2014.
+  Gross profit also decreased by 3% և 5%, respectively.
+  One of the main reasons for all this is the sharp increase of the dollar-euro against the dram by 20-25% in December 2014, as a result of which in 2015 the trade turnover in Armenia decreased by 8%.
+  In these difficult market conditions, the introduction of a management information system has helped to better manage the company's costs.
+ With the exception of some mandatory cost reductions, expenditures in Company B were reduced by 9.5%, while in Company A the volume of expenditures was significantly reduced compared to 2014, amounting to only 1%.
+  We can not ignore the fact that both companies expected a sharper decline in revenue և gross profit.
+ For comparison, Company A forecast a 20% decrease in revenue 19. a decrease in gross profit of 19.9%, and Company B forecast a decrease in revenue of 20.2% ում a decrease in gross profit of 24.4%.
+Thus, the above-mentioned indicators make it possible to assess not only the activity of the enterprise, but also the effectiveness of the decisions developed, prepared and implemented during that activity.
+  These are the indicators that evaluate the results of strategic decisions.
+EFFECTIVENESS AND MAIN EFFICIENCY OF ADMINISTRATIVE DECISIONS Benjamin Frunjian ELEMENTS Keywords: managerial decisions, efficiency increase, methods of decision effectiveness Summary.

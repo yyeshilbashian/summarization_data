@@ -1,0 +1,55 @@
+Isolated from lithophytic lichen ACINETOBACTER SP. A1 ENDOPHYTIC BACTERIAL STAGE CHARACTERISTICS Lichens are coexisting stable organisms composed of fungal (mycobiont) և photoautotrophic algae (photobiont) components [1].
+Recent scientific studies have shown that in addition to the mycobionate-photobiont component, lichen thallus contains a variety of endophytic bacteria.
+ Endophytic bacteria are of great ecological importance in the biodiversity, especially in terms of providing nitrogen self-sufficiency in coexistence [2, 3].
+  It has been shown that the production of biologically active substances in lichens is conditioned by these endophytic bacteria.
+  Therefore, the isolation and study of these bacteria can be promising for the synthesis of valuable biologically active compounds in biotechnological processes [3].
+ Carcinogens have been used for centuries in traditional medicine as a disinfectant, warming and analgesic for wounds.
+ Lichens are now widely used in biotechnology in the preparation of antibacterial, antioxidant and anti-tumor preparations [4, 2, 5].
+The flora of Armenia is rich in lichens typical of the region.
+ The aim of this work was to isolate and identify endophytic bacteria from the most common lithophytic lichen in the territory of the Republic of Armenia.
+Material և method.
+ The samples of lithophytic lichen collected from Tavush region became the subject of study.
+For the isolation of endophytic bacteria, the following nutrient medium (g / l) was used: glucose 20, KNO3 1, K2HPO4 0.5, MgSO4 x 7H2O 0.5, NaCl 0.5 CaCO3 1, FeSO4 x 7H2O trace, agar-agar 20. pH - 7.0-7.2.
+ In order to sterilize pre-surface contaminants, the lichen thallum was rinsed several times with sterile distilled water and treated on a plate at 1000 C for 1 hour [6].
+ Then, the treated lichen sediment was homogenized under sterile conditions, suspended with sterilized distilled water, and in order to obtain separate colonies, the suspension was spread 103-106 times with a spatula on the surface of a solid medium filled with petri dishes (incubation at a temperature of 300C per day).
+Bacterial colonies were characterized by their external characteristics: egg, size, surface, color, edge structure.
+  Among the morphological features of the cells, the egg, the arrangement, the ability to produce spores were mentioned.
+ To determine the temperature range of the culture, they were incubated at 30'44 և 37 0C, respectively.
+ As a carbon source, ethanolysis of Na citrate, lactate, aspartate, L-phenylalanine, β-alanine, L-arginine, as well as gelatinase և hemolytic activities, will be determined according to commonly accepted methods [7, 8].
+ևPhylogenetic analysis was performed by sequencing of 16S RNA gene sequences.
+  DNA cleavage was performed using acetyltermethylammonium bromide according to the accepted method of bacterial genomic DNA cleavage [9].
+  Genomic DNA (PCR) was used as a template for polymerase chain reaction (universal GAAAGGAGGTGATCCAGCC-3 ') primers to amplify the 16S RNA gene.
+ The amplicons were cleaned using the GenEluteTMPCR Clean-up Kit (Sigma, USA) and sequenced with the ABI PRISM capillary sequencer.
+  The sequencing results were processed և decoded using BioEdit (7.0.5.3) և Chromas Lite (2.1).
+ The sequences obtained for the identification of the strains were analyzed online "BLAST", "NCBI" (http.
+//blast.ncbi. nlm.nih.gov/Blast.cgi) domain.
+  Ephylogenetic tree was constructed with the help of "MEGA 6.06" program, comparing with "Neighbor Joining" method with the sequences available online at GENBANK.
+Results և discussion.
+ A bacterial culture was isolated from lithophytic lichen, which was named A1.
+  The culture forms concentric, flat profile, flat surface, dull, milky, irregular colonies.
+ Cells are rod-shaped, asporogenic, forming chains.
+The 16S RNA gene was successfully amplified by PCR from genomic DNA isolated from A1 culture and then sequenced.
+  The results of "BLAST" analysis are presented in Table 1.
+  As can be seen from the table, culture A1 has the closest correlation with Acinetobacter lwoffii (KX495293) at 97% similarity in 16S RNA gene analysis.
+Table 1 ․ Results of "BLAST" analysis of isolated cultureInsulated
+Culture 16 S RNA igen length (n.z.) Similarity Degree closest match in GenBank
+According to the identification results, a phylogenetic tree was constructed using the similar sequences available online BL in the BLAST and NCBI domains as reference sequences (Figure 1).
+Figure 1. Phylogenetic position of A1 culture in a tree.
+ Pseudomonas aeruginosa was used as a remote phylogenetic indicator.
+ The scale (0.01) corresponds to 1 nucleotide difference for every 100 nucleotides.
+Taking into account the results of "BLAST" analysis, the identified features were compared with the typical species of Acinetobacter lwoffii.
+ The results are summarized in Table 2.
+strain fentypical Table 2 ․ Comparison of phenotypic characteristics of the isolated bacterium CharacteristicsGrowth: 300C CharacteristicsGelatin hydrolysisHemolysis of citrate Lactate Aspartate L-phenylalanine β-alanine L-arginineEthanolThe optimum growth temperature of the isolated culture is 300 ° C, in contrast to the temperature of 300 ° C.
+ Moreover, unlike the typical strain, A1 culture assimilates citrate, L-phenylalanine, β-alanine, L-arginine, hydrolyzes gelatin, but assimilates lactate և ethanol.
+Lichen biofilm Based on the results of phylogenetic analysis of culture phenotypic symptoms կարելի, it can be concluded that the isolated culture belonging to the genus Acinetobacter և is probably a new species.
+That is why we named it Acinetobacter sp. strain A1.
+Isolated ecological significance is due in particular to the assimilation of atmospheric nitrogen in ecosystems in the complete absence of sources of oxidized or reduced nitrogen compounds.
+  The Acinetobacter genus is characterized by diazotrophy, so our isolated bacterium in the lithophytic lichen probably performs a nitrogen fixation function.
+Bacteriology Agents. In.
+ Lichen Secondary Metabolites. Eds. Rankovic B. et al., Springer, pp. 81-104.Anticancer Activity In.
+ Lichen Secondary Metabolites. Eds. Rankovic B. et al., Springer, [4] Crawford SD, (2015) Lichens Used in Traditional Medicine. In.
+ Lichen SecondaryMetabolites. In.
+ Lichen Secondary Metabolites. Eds. Rankovic B. et al., Springer, pp. 1-27.Isolated from Lichens.
+ Evaluation of Their Diversity and Detection of Biosynthetic Gene [9] Брюханов А. L., Rybak K. V., Netrusov A. I., Molecular micro-biology.
+Учебник для вузов., М.
+ Publisher: Московского университета, 2012, 480 pp. Hasmik Hunanyan, Razmik Sargsyan Isolated from lithophytic lichen ACINETOBACTER SP. A1 ENDOPHYTIC BACTERIAL STAIN CHARACTERISTICS Keywords: lithophytic lichens, endophytes, Acinetobacter, 16S RNAs.

@@ -1,0 +1,69 @@
+JURISDICTION OF THE INTERNATIONAL INVESTMENT SETTLEMENT CENTER RATIONE PERSONAE Each court, arbitral tribunal or other dispute resolution body hears a range of cases that may be submitted by a limited number of specific entities.
+ This determines the subjective jurisdiction of the given dispute resolution body, which is accepted in international law as ratione personae.
+ For domestic courts, the scope of subjects is clearly defined by domestic legislation.
+  The situation is different, բարդ slightly complicated, in the case of international arbitration։ tribunals.
+  The International Center for the Settlement of Investment Disputes (hereinafter referred to as the Center or the Tribunal) is no exception.
+The definition of a foreign investor in international investment law can be found in a number of documents, first of all, in the Convention on the Settlement of Investment Disputes between the Citizens of Other States, adopted on March 18, 1965 in Washington (hereinafter referred to as the Convention).
+The definition of a foreign investor is contained in bilateral or multilateral agreements for the promotion of interstate investment (BIT, MIT) (hereinafter referred to as the Agreement).
+ And finally, the definitions of a foreign investor are contained in the domestic laws of each state, where each of the states defines by its legislation the acceptable version of the "foreign investor".
+The diversity of the above definitions makes it difficult to determine the scope of persons entitled to apply to the Center in the event of any investment dispute.
+ Applications to the Center may be submitted only by nationals of States which have ratified the Convention, if there is an agreement between the parties to the dispute to apply to the Center.
+ These agreements are mainly reflected in bilateral or multilateral investment promotion agreements concluded between the states, only in the case of determining the scope of foreign entities, it is possible to find out, in particular, to which entities the rights and obligations defined in the Agreements can be applied.
+In addition, the definition of a foreign investor can be applied to the investor countries that export and accept the investment, to the investors themselves.
+ The country from which the investment capital should be exported can use this definition to understand which part of its citizens need protection when investing in other countries, which framework should be specified in the Agreements to be concluded with other states.
+ As for the state that accepts foreign investments, it is important for the latter to understand through this definition the circle of persons whom the state can attract as an investor.
+  This definition is important for the investor, because only in case of clarity can he understand whether he can expect protection under this or that Agreement or not [1].
+Thus, the definition of a foreign investor can be determined not only in theory, but also in a more practical way, because the degree of protection of the foreign investor depends on that definition, as well as the possibility of involvement of the investing state in the investment dispute.
+  If the rights of a foreign investor have been violated by the host country of the investment, the latter must comply with the requirements set out in Article 25 of the Convention in order to apply to the Center.
+ According to the article, the party must be a citizen of the Contracting State, and there must be a written agreement between the parties to the dispute.
+ The issue of determining the scope of the subjects entitled to apply to the Tribunal should be considered from two perspectives: the applicants և the Tribunal itself.
+ If in the case of the applicants everything seems clear, the situation is different in the case of the Tribunal.
+ Both the courts and the Tribunal must decide on their own jurisdiction over the dispute, which must include an interpretation of the international treaty between the states, the Convention.
+ In this case, it is necessary to understand whether only the interpretation of the text of the Convention is sufficient to give an unequivocal answer to the question raised by the Center regarding its jurisdiction.
+ It is clear from the text of the Convention that it is not.
+Article 25 2 2 կետ համապատասխան (a) համապատասխան (b) provides definitions of natural and legal persons who are nationals of the "other Contracting Party".
+ In particular, they are natural and legal persons considered citizens of the Contracting Party.
+ It is from these definitions that it becomes clear that in each case the Tribunal, in deciding the question of its jurisdiction, cannot be limited to the text of the Convention alone.
+The scope of foreign investors is first of all defined by the states in the international agreements on promotion of mutual investments, which mainly refer to the domestic legislation of the parties.
+ Here it is possible to understand whether the issue of citizenship remains a matter for domestic law or not, or whether the Center should rely on the approval of the competent authority of the state in the context of the applicable law of the state in the case of applying the citizenship test defined by the agreements. .
+There are issues in the relations between the states, which are a matter of internal settlement of each state, but are related to international law.
+ Here, in determining citizenship, the boundary between international "national law" is possible.
+ We can unequivocally claim that the right to grant or deprive citizenship remains the exclusive competence of the state, its procedure is a matter of regulation of internal law.
+ However, when the issue of citizenship between the two states reaches a disagreement, in which case the issue ceases to be considered a matter of domestic law, a decision on it must be made by the international court.
+ However, this does not mean that the decision of the International Court of Justice on nationality may give rise to certain legal consequences for the applicant in a Contracting State.
+ One way or another, the issue of citizenship of the given subject will continue to be regulated by state law.
+ According to Zakari Douglas, the applicant's decision by the tribunal to be a citizen of the United States under the relevant agreement is unlikely to have any significance for US border guards.
+It is possible to find out what is the limit of the international court, in this case the Tribunal, to make its own decision on the nationality of the applicant in accordance with the legislation of the Contracting Party.
+ In order to find out this, it is necessary to refer to the comments made by the Tribunal.
+ And there is an already established precedent in international law on this issue.
+In particular, in the case of Sufraki v. The United Arab Emirates, the Tribunal stated: "It is accepted in international law that citizenship is within the state jurisdiction of the state, which by its own legislation defines the procedure for acquiring and losing citizenship.
+ It was also reflected in the Agreement between Italy and the UAE.
+ When a person's nationality is challenged in international arbitration or judicial proceedings, the international tribunal has jurisdiction to hear the matter.
+ In that case, great attention should be paid to the domestic legislation of the state, the interpretation of that law by its authorities.
+ But, in the end, on the basis of the law of facts, it must decide for itself whether the person whose citizenship is in question is a citizen of the given state or not, or what the conclusion implies.
+ In such cases, as in the present case, the international tribunal must address the issue of citizenship.
+ The International Tribunal has jurisdiction; in fact, it has an obligation to resolve this issue. "[4]
+In the case of Salem (USA v. Egypt), the arbitral tribunal put forward the above principle for a number of reasons.
+ The Arbitral Tribunal noted that the decision to grant the applicant's US citizenship does not preclude the principle of international law that each sovereign State, in general, decides whether to grant citizenship to its subjects, as granting citizenship is a manifestation of international independence.
+ The arbitral tribunal addressed the issue of whether the granting of citizenship in violation of the general principles of international law violates the authority of another State or whether such a grant should be declared invalid because it was obtained through fraud.
+The question of the determination of nationality was raised during the negotiations of the Convention, the parties agreed by consensus that the official document on the nationality of the person being a party should be accepted only as evidence of nationality, and the decision would eventually be made by the Tribunal.
+The efficiency and necessity of the decision of the tribunal on jurisdiction ratione personae is especially evident in the case of dual national applicants.
+ The Convention excludes the possibility of dual citizenship if one of the nationalities belongs to the receiving state.
+ In such cases, either party may assert the citizenship or loss of the citizenship of that State,։ only the Tribunal should make a final decision on the matter.
+  In this case, the Tribunal must examine the procedures for acquiring citizenship, as well as its possible loss in the case of acquiring citizenship of another state [4, 6].
+The fact that the Tribunal conducts its own inquiry into its ratione personae jurisdiction leads to the fact that the domestic law of a Contracting State should be the subject of scrutiny.
+  In this case, another question arises. Can the Tribunal disregard the national law of that State?
+  This question can be answered in the affirmative when the domestic law of the state contains provisions on citizenship which, in essence, do not comply with the principles of international law երին the arbitration procedures of international investment agreements.
+This may be, for example, a norm that contradicts the principle of integrity and stability of the investment contract regime [3].
+  In such cases, the state legislation may establish norms that will grant the status of "foreign investor" to an incomparably large number of persons to ensure their protection.
+ There may be cases where, despite the Tribunal's claim that the applicant is a national of the Contracting Party concerned, it still denies its ratione personae jurisdiction over that applicant.
+ Such jurisdiction of the tribunal is necessary to ensure proper balance and equality in the field of investment agreements.
+Thus, the issues of granting citizenship, deprivation of it են procedures are definitely a matter for the internal settlement of states, but if there is disagreement about them, then the decision must be made by the Tribunal.
+ At the same time, the decision of the Tribunal on the citizenship of any person can not be considered binding on that state, as the decision should apply only to international relations and not to the internal affairs of the state.
+  In any case, the Tribunal must be independent in deciding on its jurisdiction ratione personae.
+Agreements to be concluded between states are diverse, as are the definitions of individual citizenship.
+  The Tribunal shall ensure the necessary balance in this regard, taking into account the definitions contained therein, including the provisions of the domestic law of the Contracting States.
+ In addition, acquiring citizenship under national law or being considered a citizen of this or that state may not always be sufficient for the Tribunal to make a decision on jurisdiction.
+ Finally, in each case, the Tribunal, in resolving the issue of jurisdiction ratione persoane, protects the rights of the foreign investor from the insufficient argument of the Contracting Party that the applicant is not a national of the State concerned.
+LITERATURE [1] Legum B., Defining Investment and Investor.
+  Who is Entitled to Claim ?, Paris, 12 Tovmasyan Nazeli RATIONE PERSONAE JURISDICTION OF THE INTERNATIONAL CENTER FOR SETTLEMENT OF INVESTMENT DISPUTES Keywords: foreign investments, international dispute settlement, international settlement

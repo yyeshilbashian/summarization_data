@@ -1,0 +1,73 @@
+The use of information technologies in the process of governing the country presupposes their use not only in the executive body of the country, but also in the judiciary. by computerization.
+ It is noteworthy to apply the US experience in the judicial system of the Republic of Armenia.
+  US Unified Court System - 94 GOVERNANCE "e-Justice" includes access to courts, access to court information, retrieval of documents, their transfer and receipt in and out of court, parties to the case, document retention and obtaining other information related to the trial [1].
+ The US Judiciary also has Management Case / Electronic Case Files (CM / ECF) and Public Access to Court Electronic Records (PACER) systems.
+  The CM / ECF system performs the following functions: Case Management (CM) and Electronic Case Archiving (ECF).
+  These two subsystems form an integrated system, which in turn is complemented by Open Access Electronic Trial Data technology, which allows users to access electronic data using the CM / ECF system [3], which is easy to search. and find precedents and relevant judgments, depending on the application of this or that legal norm or law, the provisions of the Code, and the corresponding interpretation.
+ In general, the implementation and use of CM / ECF, PACER systems is based on step-by-step, accessibility (free access to the system by any interested party (not just a court or lawyer), as well as ease of use of technology), identification (documents on electronic and paper media should be be the same), accounting (documentation of all circumstances related to the information transmitted through the system), integration with the internal systems of electronic document management and other principles.
+ In most European countries, the use of information and communication technologies in the justice system is aimed at providing legal information to the courts on the receipt and processing of legal information, conducting scientific research through free access to laws and judicial decisions.
+ Thus, it is proposed to introduce the Electronic Benchbook in Law, which is widespread in Ireland, [4].
+ Judgments of the Supreme Court of Ireland have been available on electronic media since 2001 and are also available on the official website.
+  There is currently an interactive litigation system in the regional courts of Ireland, and a unified database of court decisions is maintained.
+  It is also proposed: x to create an e-government function of the Judicial System of the Republic of Armenia "eLis" electronic legal library, through which the Judicial Department of the Republic of Armenia will provide free access to legal data and acts of all judicial institutions of the country [7], x implement the Phenix project other institutions of the judiciary, legal entities, and the Council of Justice to exchange documents electronically or communicate with one another through Internet technologies.
+ It is noteworthy that in 2009-2013. The European e-Justice Action Plan (Council / 2009 / С75 / 01), aimed at establishing a common judicial portal for EU member states [9].
+ The UYAP (National Judicial Network) project, which aims to speed up the work of the judiciary, is considered to be the most important in the field of information technology implementation in the Turkish judiciary.
+  This project created a computer network that included the highest judicial bodies, the central office of the Ministry of Justice, all judicial instances, the prosecutor's offices, forensic institutions, prisons, and executive departments.
+  As a result of the comparative study, it turns out that the electronic judicial system of the Republic of Armenia is far behind the capabilities of the above-mentioned Turkish network.
+ In our opinion, it is expedient to create a common legal portal in the context of the Eurasian Economic Union, based on the data of the relevant national institutions, their decisions, with the aim of joining the resources of the common European legal portal in the future.
+  These resources are used in several areas.
+  Thus, the "e-justice" system is widely used in the practice of the European Court of Human Rights (hereinafter referred to as the ECHR), which is called to ensure the 1950 Strict observance and implementation of the adopted European Convention on Human Rights and Fundamental Freedoms.
+ The ECHR conducts an interactive broadcast of public court hearings, which allows everyone to get acquainted with and participate directly in the work of the ECHR.
+ The application of the advanced experience of the European countries in the field of intensive introduction of e-government in the field of justice, improvement of the judicial system is necessary and modern for Armenia, as it increases the access to justice and its quality, which, in turn, is one of the basic issues for Armenia. The state is the optimal solution to serve the interests of the population.
+ The sources of information law are the normative legal acts of information legislation.
+  Obtaining the necessary normative legal information has a special role during the preparation and adoption of normative legal acts.
+  The governing body of normative legal information is the legal and legislative institutions, all public administration bodies [12].
+ As we have already mentioned, the portals www.court.am, www.concourt.am and www.datalex.am already operate in the Armenian judicial system.
+  The systems, although they provide a large amount of information online, but have many shortcomings: the information presented is incomplete, mostly not available in other languages, there are important systems that are listed, but do not work.
+ Armenia ranked 22nd in 2018 in the Comparative Indicators of Virtual Intellectual Capital Index (QI Arcaler Scorecard) of 57 electronic resource websites of constitutional oversight bodies in the world, while in 2015-2016. His rankings ranged from 15 to 17.
+  It should be noted that Armenia's index (0.07) is quite lower than the average. It is also noteworthy that Armenia is the 4th among the countries of the former Soviet Union, behind the Russian Federation, Moldova and Ukraine.
+ The purpose of the information site www.datalex.am operating in the judicial system is to provide information to interested parties.
+ www.datalex.am is an electronic system, which includes many tools for carrying out actions in the judicial system and carries a large database.
+ In this system, through a simple interface and search engine, it is possible to search for cases, get acquainted, receive complete information related to the given case, as well as get acquainted with the schedules of court hearings, RA laws, ECHR cases, etc.
+ The www.datalex.am system also has many important tools, including a database of precedent decisions of the Court of Cassation, where it is very easy to get the necessary information through simple and advanced search engines.
+ GOVERNANCE The next important tool is the search for similar cases, which is the ability to search for information on the course of similar cases and court decisions by certain factors.
+ Along with many convenient, simple and advanced search engines, the system also has the so-called "Smart Search" tool, which automatically performs "smart" search based on the typed text, which is one of the most modern tools of www.datalex.am.
+ One of the modern tools is Infographics, which is the presentation of certain analytical materials on the judicial system through graphic images.
+ It is also possible to send applications electronically at www.datalex.am, but this system is still in the testing phase.
+  There is also a system of electronic applications, useful references, etc.
+ The www.datalex.am website was developed as part of the Judicial Reform Program, for which the World Bank provided $ 1,230,000 [15] alone, but for many years most of the sections in this public information system either did not work or did not work. are partial.
+  Although many positive changes have been made in the system over the last few years, there are still sections that are not yet fully implemented or, as mentioned, are in the testing phase.
+ 2010 As a result of the joint work of experienced lawyers and programmers, the armlaw.am portal was created [16], which aimed to ensure the access of legal acts that have entered into force for all interested parties.
+ The system allows you to search and find the court's comment on certain issues, as well as the facts that are the basis for that comment.
+ 99 GOVERNANCE The system has developed and introduced the largest five-level case classifier of unprecedented judicial acts in Armenia, which allows you to find the field of interest without much effort and search in that field, according to the reasons in the judicial act and related to that field.
+ It should be noted that e-government in the judicial system can not be considered complete by arming the employees of that system with computers and developing websites.
+  It allows only automating part of the administrative, administrative activity.
+  The introduction of e-government is the transformation of the state system, which requires strategy, planning, political will, necessary resources and professional specialists.
+ The concept of "e-Justice" should include several components, in particular y "Case Management".
+  A prerequisite for the launch of "e-Justice" technologies is the handling of cases both in the traditional paper version and in the electronic version (all documents related to the case are scanned, digitized and included in the database).
+  In this case, there is no need to demand cases from lower courts, as well as to spend money on copying materials.
+  In addition, the storage of case materials in electronic form contributes to their more reliable storage.
+  However, the main problem is the issue of illegal information leakage.
+  At the same time, certain expenses must be made both for archiving and for scanning and digitizing new cases.
+ Filing applications and appeals online reduces court deadlines and costs.
+  However, in this case, there are problems with the authenticity of documents and signatures and then 100 MANAGEMENT, which can be solved by using the electronic signature tool.
+ y Documentation of court proceedings through digital cameras and microphones installed in the courtroom.
+  In this way, everything that happens during the trial is videotaped.
+  With the introduction of special automated equipment, falsification of video results becomes practically impossible.
+  The use of video recording technologies not only solves the use of litigation, but also makes it possible to hold consultations, meetings, seminars between judges of one or more courts and judicial staff.
+  This system is also important in the testimony of the participants of the court session included in the protection program of those present, etc.
+  The above-mentioned systems are partially used in the judicial practice of the Republic of Armenia. They are not used in the RA Court of Cassation, in the Council of Justice.
+ If all the information about the case becomes available to everyone, in some cases the right to privacy of individuals may be violated, the trade secret of the business entity may be published or its business reputation may be discredited.
+  However, the confidentiality of such materials can be guaranteed, for example, by means of encryption of information protection (electronic digital signature, opening and closing of user keys) or by "disclosure" of personal information.
+ Electronic court and justice systems will also facilitate access to case materials for students and researchers, which will also have a positive impact on the training and education of justice system staff.
+ y Conducting a court session without presenting the parties.
+  This is definitely the most advanced but most difficult phase of the introduction of "e 101 GOVERNMENT justice" technologies, which requires significant professionalism and technological material base of both the staff and the litigants.
+  An undeniable advantage is the lack of ability to influence trials, as well as saving time and money.
+ Achieving a high level of transparency and publicity in the judiciary and the judiciary is an important condition for the successful development of judicial reform in the Republic of Armenia and a tool for reducing corruption risks.
+  Full and timely provision of information provides an opportunity to improve the quality of judicial activity, strengthen ties with the population, which contributes to the restoration and increase of the latter's trust in the judiciary.
+ The main principles of access to information on the activities of courts and judges, as well as court presidents should be: y transparency and accessibility of information on courts, except in cases provided by the legislation of the Republic of Armenia; Ensuring freedom of receipt, transfer and dissemination, y protection of the privacy, personal and family secrets, honor and business reputation, protection of the company's business reputation, as well as rights and legal requirements during the provision of information on the activities of the courts;102 GOVERNANCE y not interfere with the administration of justice in providing information on the activities of the courts.
+ Based on these principles, it is proposed to develop a draft law on "Access to Information of the Judicial System of the Republic of Armenia", which will provide for providing complete information on the judiciary and courts, court clerks, employees, as well as judges, time and order of work, court statements and cases. including the provision of basic information on the place and time of their discussion, postponement and suspension, the establishment of a system of general access to judicial acts (decisions, judgments, etc.).
+ The public should receive information not only about the activities of the courts, but also about the selection and appointment of judges.
+ Of course, the introduction of e-government in the judicial system of the Republic of Armenia will significantly increase public access to the justice system, improve its quality, at the same time reduce the time of cases, provide all participants in lawsuits and other media, media and other members of society.
+  Only in this case it is possible to state that the Republic of Armenia is a state governed by the rule of law.
+ .

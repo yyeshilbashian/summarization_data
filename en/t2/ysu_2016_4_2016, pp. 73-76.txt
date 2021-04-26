@@ -1,0 +1,55 @@
+CONCLUSIONS RESULTED AS A RESULT OF PRIVATE EXPERT AS AN EVIDENCE IN CIVIL TRIAL In civil litigation there are sometimes situations when it is necessary to evaluate issues that require special knowledge.
+ In such cases, the court may order an expert examination upon the motion of the party (parties) or on its own initiative.
+  It follows from the wording of the mentioned norm of the Civil Procedure Code that the conclusion obtained as a result of the expertise can be used as an expert opinion in case the expertise is appointed by the court.
+ In this case, the question arises: how to deal with the expert opinion, which is not the result of a court-appointed expertise, but was altered as a result of an expert examination initiated by one of the parties to the trial?
+The Code of Civil Procedure, by defining provisions related to the conduct of expert examination, does not in any way affect the possibility of conducting a private examination.
+  Such an approach is also present in the Civil Procedure Codes of Ukraine and Moldova1.
+ In particular, Article 66 of the Code of Civil Procedure of Ukraine stipulates: "The expert opinion is a detailed description, the clarification of the data obtained as a result of the expert examination carried out by the expert, the answers to the questions posed by the court."
+  Unlike the Code of Civil Procedure of Ukraine, the Code of Civil Procedure of Moldova regulates in more detail the issues related to the appointment and conduct of expertise.
+  In particular, it is mentioned. "In order to clarify issues requiring special knowledge in the fields of science, art, technology, crafts and other fields during the proceedings, the court may appoint an expert examination on the initiative of the parties, and in cases defined by law."
+  Moreover, the parties have the right to submit questions և to request that they be included in the questions referred to the expert, but the scope of the final questions is decided by the court.
+ As we have seen, neither the Ukrainian nor the Moldovan Civil Procedure Codes contain norms on the possibility of appointing and conducting a direct private examination.
+ There is another approach in the German Civil Procedure Code, where private examination is seen as a lever to ensure the principle of competition in the proceedings, in addition to easing the burden on the court2.
+ In German civil litigation, as in almost all countries with a continental legal system, there is a procedure for appointing an expert by a court.
+Experts shall be appointed by the court from among the persons included in the special list of experts, taking into account the views of the parties.
+ The scope of questions put to the expert is chosen by the court, again taking into account the opinions and motions of the parties.
+In addition to providing for this general procedure, the German Civil Procedure Code provides for the possibility of private examination.
+ In cases where the party does not agree with the conclusion of the expert involved in the proceedings, he / she may personally initiate the expertise with another expert, in which case the costs shall be borne personally.
+  Of course, the ox obtained as a result of a private examination 1 Civil Procedure Code of the Republic of Moldova, available at http: // www.
+//lex.justice.md/viewdoc.php?action=view&view=doc&id=286229&lang=2, Civil Procedure Code of Ukraine changes from 04.02.2016, available at http:
+//meget.kiev.ua/kodeks/gpk/. The case is less important to the court than the expert appointed by the court, as it is "sponsored" by one of the parties, but, as the German experience shows, in some cases it can be quite effective.
+  In contrast to the countries of the continental legal system, it is quite different, we can say, a slightly extreme approach in a number of countries of the existing Anglo-Saxon legal system.
+  In the American system, there is an institute of witness-experts, that is, experts act as witnesses with special knowledge, who defend the interests of one of the parties, using their professional knowledge1.
+  In professional jargon, witness-experts are called "saxophones", which means that the lawyer skillfully uses the witness-expert to sound his desired notes.
+  In the case of the mentioned settlement, it turns out that in the same case we can have two completely different conclusions on the same issue, as the experts are financed by the parties, no expert wants to "disappoint" the financier.
+ The American model has been criticized many times by theorists; indeed, it can be considered a slightly extremist approach, as a result of which the cost of expertise decreases.
+Based on the principle that the participants in the trial can defend their rights and interests by any means not prohibited by law, it can be argued that the conclusion reached as a result of a private examination in the RA civil trial can դիտ be considered as evidence.
+ The RA Court of Cassation has expressed such a position in several of its decisions.
+  In particular, in Cases 3-168 (VD) և 3-657 (VD) 2, the Court of Cassation made the following conclusion:
+  However, no article provides for the inadmissibility of the expert examination initiated by the participant of the trial. ”
+  As we see, the Court of Cassation confirms that the conclusion reached as a result of a private examination must be considered as evidence; in no case can it be declared inadmissible.
+  Answering the question of recognizing admissible evidence as a result of a private examination, the Court of Cassation did not refer to the question of what kind of evidence it should be considered in any decision.
+  In this case, there are two possible options: the conclusion obtained as a result of a private examination can be considered either as written evidence or as an expert conclusion.
+ In the conditions of present regulation, the private expertise cannot be considered an expertise, because the procedure of its appointment and conduct does not comply with the procedure established for the expertise by the Civil Procedure Code.
+  Ս. Meghryan states in his work "Evidence in the RA Civil Litigation" that the results of the private examination (conclusion, opinion) are considered as written evidence3.
+ Indeed, in practice the results of private examination are used as written evidence.
+ However, we think that in this case the essence of the expertise is distorted.
+The draft law "On the RA Law on Making Amendments to the RA Civil Procedure Code" circulated by the RA Ministry of Justice addresses the issue of using the result of a private examination as evidence.
+The draft of the new Civil Procedure Code, in an attempt to increase the role of the principle of competition in the proceedings, stipulates that an expert examination may be appointed only through the mediation of a party (parties); otherwise it does not provide for the possibility of appointing an expert examination on the initiative of a court. It also provides for the possibility of using the expert opinion of the person involved in the case as evidence.
+ In particular, according to Article 74: 1. The conclusion of the expert submitted by the person participating in the case is equivalent in its probative value to the conclusion of the expert obtained as a result of the expertise appointed by the decision of the court of first instance, if the expert made it before the end of the preliminary court session. 2008-28.11.2008.
+3 Ibid., P.
+confirms it by being warned about the impunity of giving an obviously false conclusion.
+2. The court of first instance shall take a signature from the expert on the warning, which shall be attached to the minutes of the court session.
+3. The conclusion of the expert submitted by the person participating in the case must comply with the requirements of Article 71 of this Code.
+4. To the conclusion of the expert submitted by the person participating in the case is attached the qualification of the expert who gave it և a document certifying the professional knowledge.
+As we can see, the draft of the new Code has shown a completely new approach - to equalize the conclusion obtained as a result of the private examination with the conclusion obtained as a result of the examination appointed by the court.
+  This approach is somewhat unacceptable, as the forensic examination carried out by a court-appointed expert cannot be equated with an out-of-court examination funded by one of the persons involved in the case.
+ In any case, the person will present to the court such an expert opinion, which will be based on the interests, and the expert appointed by the court, being not interested in the outcome of the case, can provide a more credible conclusion.
+Private examination as a type of examination is used in civil proceedings in several countries (USA, Germany), և is aimed at solving two problems at the same time.1. Strengthen the competitive nature of civil litigation, 2. to facilitate and lighten the work of the courts.
+As the statistics show, our courts have the task of easing the workload, and the legislative regulations are gradually leading to more competitive litigation.
+  Taking into account these circumstances, we suggest considering the conclusion obtained as a result of the private examination not as written evidence, but as a type of expert conclusion, of course, defining such criteria, in case of which only the private examination will be considered a full examination.
+ In this case, for example, the regulation of the German Civil Procedure Code, ie the conclusion of the expert appointed by the court has a higher value than that obtained as a result of a private examination, but the latter is considered an examination if the procedures prescribed by law are followed.
+ In order for a private examination to be considered an examination, we suggest: 1. In the case of forensic examinations that are not subject to licensing, provide evidence to the court with a conclusion that the expert is a specialist in the field;
+2. In case of examinations that are subject to licensing, submit the expert's license to the court after the conclusion; at the end of the conclusion, the expert shall state that he / she is responsible for the latter's impartiality.
+However, it should be borne in mind that the conclusion reached as a result of the private examination is not equivalent to that obtained as a result of the examination ordered by the court, as in the event of such a settlement the examination appointed by the court will lose its significance և purpose.
+Mary Mosinyan CONCLUSION RECEIVED AS A RESULT OF PRIVATE EXPERT AS AN EVIDENCE IN CIVIL TRIAL Keywords: private examination: expert opinion, expert evidence, admissible evidence

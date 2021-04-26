@@ -1,0 +1,73 @@
+IN KAJARAN MINING POLLUTED AREAS BUILDING PLANTS FOR SUBJECT TO PHYTO-REMEDIATION OF COPPER FOR HEAVY DISCOVERY.
+  Various methods of cleaning soils contaminated with heavy metals have been developed.
+ One of those methods is phytoremediation.
+ Practical scientific research includes several basic methods of phytoremediation, two of which are related to the cleaning and rehabilitation of copper-contaminated soils.
+  One of these methods is phytostabilization and phytoextraction.
+    This method is part of the land reclamation technology that uses plants that can be genetically modified.
+  The detection of wild plant species with potential for phytoremediation will enable the treatment of heavy metal-contaminated areas with ecologically clean methods.
+ The aim of our research is to identify the potential of wild plants to phytoremediate copper.
+Study material և methods.
+  Study area և Plant sampling. Based on our previous research, the most risky were selected for the study (QF-01- N 39 ° 09 '36.9' '46 E 46 ° 08' 43 ''; Q-OM-03 - N 39 ° 09 ' 13,5 '' և E 46 ° 07 '87,9' '; QF-11- N 39 ° 09' 24,1 '' և E 46 ° 08 '52,0' ') և one checker (Q-CONT - N 39 ° 13 '01,8' 'և E 46 ° 13' 96,0 '') three regions.
+  The main sampling material was soil հ Plants.
+ Soil sampling was done from the top of the soil layer (0-25 cm) near the plants.
+  All soil samples were dried at room temperature for two weeks, crushed, sieved (0.15 mm) and dissolved in HNO3 + HClO4 + HF solution to determine the total copper content (5).
+ Copper content was determined by Atomic-absorption spectrometer (PG990).
+Heavy metals that dissolve in water, such as carbonates, are called bioavailable.
+  To determine the bioavailability of copper in the soil, use acetic acid, in particular 1 g of already crushed soil sample (as mentioned above) is poured into 50 ml flasks, step by step add 40 ml of 0.11 M CH3COOH, and suspend for ժամ 16 hours at room temperature.
+Then it was filtered, the copper content was determined in the atomic-adsorption spectrophotometer.
+Plant sampling was done during the period of rapid growth (June).
+ 3 samples were taken from each sampled plant from the sampling area.
+Ten separate plants were collected for each sampled area մեկOne common sample was prepared from them.
+  All the sampled plants were thoroughly washed under running water, then twice with distilled water to remove any foreign particles from the plants.
+ The plants were divided into parts, the root և stem, և weighed.
+ The aboveground։ underground parts of the plants were dried at 70 ° C until they reached a constant weight.
+ Dried roots և stems were weighed, after which all samples were crushed և sifted (with 0.15 mm nylon sieves).
+ All of these samples were dissolved in HNO3 և HClO4 solutions (4).
+1) in closed vessels from 150 ° C to և 200 ° C (0.1 gram of plant root or stem in a mixture of 10 ml) [14].
+ The total copper content in the resulting solution was determined by atomic absorption spectrometry.
+Determination of phytoremediation potential of plants. Two indices, the coefficient of root viability (BCF root) and the translocation coefficient (TF), were calculated to determine the phytoremediation potential of plants [8].
+  BCF root can be used to study the copper uptake properties of roots.
+  Root BCF is calculated using the following formula: BCF root = Cu root / Cu soil, where the concentration of Cu root in the roots of the sampled plants և Cu is the concentration of bioavailable copper in the soil.
+TF is calculated using the two numbers above: TF = Cu stem / Cu root, where Cu stem is the concentration of copper in the stems of the plants և Cu is the concentration of copper in the roots of the sampled plants.
+If the BCF root value is higher than 1.0, this indicates that the plant's copper storage potential և can be used for phytostabilization.
+ If the BCF root value is less than or equal to 1.0, the plant directly absorbs the copper.
+  In the case of TF, plants that have a TF value greater than one can be used for phyto-extraction, but not for phytostabilization.
+  Conversely, if the value of TF is less than one, it can be used for phytostabilization, չէ it is not advisable to use it for phyto-extraction.
+Discovering the phytoremediation potential of wild plants. Phytoremediation is considered to be a harmless means of transforming pollutants from the environment, particularly heavy metals, which are not available to other organisms.
+  Plants are used in phytoremediation because their use has a low cost, is environmentally friendly, and is socially acceptable, effectively preventing further air and water pollution.
+  Depending on whether the plant accumulates heavy metals in surface or underground tissues, the phytostabilization and phyto-extraction abilities of the plant are revealed.
+ BCF root և TF are considered important indicators for the detection of phytoremediation potential.
+Demonstration of high half-accumulation of heavy metals in plant roots is essential for phytostabilization.
+If the value of BCF root is less than ˂ 1, then bioavailable copper simply enters the plant from the soil due to different physical forces, and if the value of BCF root is less than ˃ 1, then bioavailability of copper is actively absorbed by appropriate pumps (these plants have the potential to for use).
+ The BCF root values ​​of 16 dominant plant species in the three risk zones are given in Table 3.
+ The highest values ​​of BCF root were observed in the QF-01 period. 3.94) approx.
+  These plant species grow quite well in the mentioned areas և can be used for phytostabilization.
+  As a result, the content of bioavailable copper in the soil will be reduced, which will "reduce both groundwater" and surface water pollution, as well as the passage of toxic copper into the food chain.
+High translocation factor is important for plants used for phyto-extraction, but plants with lower translocation factor are needed for phytostabilization.
+ Higher TF values ​​(from ˃ 1) were observed in the common hypericum (Hyperikum perforatum) (TF = 1.27) and the astrodaucus orientalis (TF = 1.19).
+  This indicates that these plants are actively transporting copper to the surface of the plant (copper can be removed from the soil through harvesting).
+  However, a very small value of BCF root (BCF root = 0.12) has been observed in Astrodaucus orientalis, which և limits the use of this plant for phyto-extraction.
+ In the case of Hyperikum perforatum, the BCF root is equal to 0.65 և Further laboratory studies are needed to identify the potential for phyto-extraction of this plant to identify possible factors that may contribute to the increase in BCF root և TF values.
+ In this way, bioavailable copper can be removed from the soil, preventing it from passing through the food chain, having a toxic effect on living organisms, and human health.
+ And in the Q-F01 period, thyme Kochi (Thymus Kotschyamus), lawn meadow (Phleum pratense) և Achilleamillefolium (Q-OM-03), which had high BCF root values, had low TF values ​​(respectively). min 0.08, 0.35 և 0.16), which are sufficient grounds for the use of the mentioned plant species for the purpose of phytostabilization.
+Plant NameOshindr OrdinaryRosa canina (Roza canina) Lemongrass ևThousands ևUnusual (Achillea Ishruvut apothecaryShymbricum Thyme (Thymus Clover Teucus)
+BCF root
+BCF root
+Grassy meadow Caucasian tadpoleMandy sunTable 3. Values ​​և TF BC of BCF of 16 plants growing in three risk areas.
+  The above-ground tissues of 14 plant species accumulate less copper than the root tissues.
+  Due to the restriction of copper placement in the plant.
+  It is synthesized by binding metallions, phytocelates, organic acids to copper, as well as by accumulation in vacuoles.
+ This speaks to the properties of plants, which in a fairly balanced clan և translocate copper from highly polluted areas.
+Thymus Kotschyamus, Phleumpretense Ach Achillea millefolium (depending on soil characteristics, this trait is different in different regions) show higher levels of copper accumulation than 13 in their roots.
+ Small values ​​of TF have been observed in these plant species, which further improve the phytostabilization properties of these plants.
+  Phytostabilization potential is greater for Thymus Kotschyamus Ph Thyme meadow plants (Phleumpretense), as these plants are perennials and form a strong root system.
+LITERATURE [1] Baker DE, Amacher MC, Nickel, Copper, Zinc, and Cadmium. In.
+ Page AL, Miller, [2] Blaylock MJ, Huang JW, Phytoextraction of Metals. In.
+ Raskin I, Ensley BD (eds) Phytoremediation of Toxic Metals.
+ Using Plants to Clean up the Environment. Wiley, New [4] ICSG International Copper Study Group.
+  the World Copper Factbook 2013. ICSG, using amendments - a review, Waste Manage 28, doi.
+  10.1016 / j.wasman.2006.12.012, Remediation at the Former 'Pertusola Sud' Zinc Smelter.
+ Evaluation of Native Species for [9] Peters TH, Revegetation of the Copper Cliff Tailings Area. In.
+ Gunn J (ed) Restoration [11] Rascio N., Navari-Izzo F., Heavy Metal Hyperaccumulating Plants.
+ How and Why DoThey Do It? And What Makes Them So Interesting? DOI.
+ 10.1016 / j.plantsci.2010.08.016, Antonian SusannaKAJARANI MINING PLANTS contaminated areas ACHOGHVAYRI copper FITOREMIDIATSIAYI YENTARKELUBanali words, mining, pollution, wild plants, copper, potential BATSAHAYTUMEfitoremediatsia.

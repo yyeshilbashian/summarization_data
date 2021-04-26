@@ -1,0 +1,61 @@
+PRODUCTION AND SOME PROPERTIES OF METHYL 2- (3- (2-ACETOXY-3 MORPHOLINOPROPOX) PROPYLTYACETATE AND SOME PROPERTIES One of the most important problems in organic chemistry is now the synthesis of biologically active substances.
+  Many drugs are known to contain morpholine and allyl-phenyl groups.
+Drugs containing the morpholine group are used in cases such as angina, related diseases of the cardiovascular system, inflammation of the large intestine, inflammation of the thin layers of the skin, glaucoma.
+  The morpholine group is part of some antifungal drugs.
+ Phenyl groups, in turn, affect the improvement of memory and metabolism, as they are present in some psychotropic drugs [1].
+Examples of morpholine-containing drugs are Timolol (A), which is used for glaucoma, and Befol (B), which is quite similar in structure to Moclobemide (C).
+  The latter two are classified as antidepressants.
+A. B. Examples of drugs containing the Allyl group are: Allilprodin լ Allobarbital (D), which also belong to the group of psychotropic drugs, Naloxone (E), which is used in case of overdose with various analgesics, Aloxim (Z), a cholinesterase reactivator.
+ Examples of drugs containing the phenyl group are: Fendilin (E), which is used for angina, has antiarrhythmic activity, Fepranone (H), which has an appetite suppressant properties, Phenobarbital (T), which belongs to the group of psychotropic drugs ազ Floz (Ժ), which are well-known antifungal drugs.
+ Z.E. Ժ. H. T. Based on the data in the literature ների of the given examples, the aim of the work is to obtain methyl-2- (3- (2-acetoxy-3-morpholinopropoxy)) propylthioacetate, which contains a morpholine group, synthesizing phenyl by further conversion thereof, or containing phenyl or 1,2,4-triazoles.
+The interaction of allyl glycidyl ether with morpholine has been studied in the manner described in the literature [2-4].
+  The result was propane-2-ol (1) containing allyl և morpholine groups.
+ For further conversions, an OH group protection reaction was performed by reacting it with acetic anhydride, resulting in a high-yield acylated product (2).
+To obtain the target starting material, we studied the interaction of the acylated product under the conditions of radical induction of mercaptoacetic acid with methyl ester, as a result of which the target raw material was synthesized with high output (3).
+ It should be noted that this reaction is against Markovnikov's rule.
+Thus, the radical pathogen interacts with the methyl ester of mercaptoacetic acid to form the S radical, which interacts with the double bond to form a secondary radical.
+  The latter stabilizes by taking hydrogen from the mercapto group.
+Hydrazides are known to be good starting materials for the synthesis of various structural structures [5-9].
+  For this purpose, the synthesized starting material was subjected to hydrazinolysis hydrazine in hydrated ethanol medium, as a result of which we obtained the corresponding hydrazide with a sufficient result 4).
+It should be noted that as a result of this reaction, the protective group is removed and the hydroxyl group is restored.
+The interaction of the synthesized hydrazide with the allyl-phenyl isothiocyanates in ethanol was investigated for the introduction of allyl-phenyl groups, as well as for the construction of the 1,2,4-triazole ring.
+  As a result of the reaction, the corresponding thiosemicarbazides (5a, b) were obtained with sufficient results.
+The thiosemicarbazides synthesized to close the triazole ring were subjected to basic cycling with 10% KOH solution.
+  Subsequent processing yielded the target compounds (6a, b), which contained morpholine, hydroxyl, triazole, allyl or phenyl groups.
+ It follows from the structure that these compounds may exhibit biological activity, particularly antifungal activity.
+ This assumption will be confirmed or refuted by further biological studies of the compounds.
+The purity of the synthesized compounds was demonstrated by the NSC method, and the structures were confirmed by MMR 1H, 13C Կ IC spectral analysis.
+ Experimental part 1-Morpholino-3-allyloxypropanol-2 (1).
+ A mixture of 41.8 g (0.367 mol) of allylglycidyl ether 38.3 ml (0.44 mol) of morpholine և 50 ml of ethanol was mixed at room temperature for 4 h, then the ethanol was removed from the reaction mixture; / 2 mm distillation fraction.
+ Yield 69.16 g (94%).
+ nD:
+20 1.4790.
+1-Morpholino-2-acetoxy-3-allyloxypropane (2).
+  69.16 g (0.344 mol) of 1-morpholino-3-allyloxy-propanol-2 և 15 ml of methylene chloride mixture is mixed at room temperature for 10 minutes, then 45 ml (0.4472 mol) of acetic anhydride is added, the reaction temperature is maintained at 50 ° C.
+ The result was fractional distillation, collecting the 109-119 ˚ / 2 mm distillation fraction.
+  Yield 79.53 g (95%).
+  nD:
+1,467.
+Methyl 2- (3- (2-hydroxy-3-morpholinopropoxy) propylthio) acetate (3).
+  A mixture of 12.3 g (0.05 mol) of 1-morpholino-2-acetoxy-3-allyloxypropane, 5.4 ml (0.06 mol) of methyl ester orthoacetic acid N 0.0025 g AIBN-mixture was mixed for 3 hours at 60-65 ˚C, then AI 0.25 g ։ mixed for 1.5 hours.
+ The result was fractional distillation, collecting the 130-135 ˚ / 5 mm distillation fraction.
+  Yield 11.29 g (64.69%).
+Methyl 2- (3- (2-hydroxy-3-morpholinopropoxy) propylthio) acetic acid hydrazide (4).
+ 11.29 g (32.35 mmol) of methyl 2- (3- (2-hydroxy-3-morpholinopropoxy) propylthio) acetate, 97 mmol of hydrazine hydrate (80% solution) was added to 10 ml of ethanol.
+  The reaction mixture is mixed at room temperature for 5 hours, then for 1 hour at 60-65˚C.
+  The solvent is then removed under acetyl hydrazide.
+ Yield 6.26 g (63%).
+2- (2 - ((3- (2-hydroxy-3-morpholinopropoxy) propyl) thio) acetyl) -N-phenylhydrazine-1-carbothioamide (5a).
+  A mixture of 2.21 g (0.072 mol) of methyl 2- (3- (2-hydroxy-3-morpholinopropoxy) propylthio) acetic acid hydrazide, 0.94 ml (0.00792 mol) of phenylisothiocyanate և 20 ml of ethyl alcohol was mixed under heating for 2 hours.
+ The solvent was then removed with a rotary evaporator.
+ 2- (2 - ((3- (2-hydroxy-3-morpholinopropoxy) propyl) thio) acetyl) N-allylhydrazine-1-carbothioamide (5b).
+  2.3 g (0.0075 mol) of methyl 2- (3- (2-hydroxy-3-morpholino-propoxy) propylthio) acetic acid hydrazide, 15 ml of methyl alcohol was added to the mixture of 0.8 ml (0.00825 mol) of allyl thiocyanate's mixed under heat for 2 hours.
+1- (3 - ((5-mercapto-4-phenyl-4H-1,2,4-triazol-3-yl) methylthio) propoxy) -3-morpholinopropanol-2 (6a).
+  0.85 g (0.002 mol) 2- (2 - ((3- (2 (hydroxy-3-morpholinopropoxy) propyl) thio) acetyl) -N-phenylhydrazine-1-carboxyamide և 16.8 g 10% potassium hydroxide solution filtered և acidified with hydrochloric acid solution.
+ Exit 28%.
+ 1- (3 - ((5-mercapto-4-allyl-4H-1,2,4-triazol-3-yl) methylthio) propoxy) -3-morpholinopropanol-2 (6a).
+  1.44 g (0.0042 mol) 2- (2 - ((3- (2 (hydroxy-3-morpholinopropoxy) propyl) thio) acetyl) -N-allylhydrazine-1-carboxyamide և 3.5 g of 10% potassium hydroxide solution is heated hours, then filtered և acidified with hydrochloric acid solution.
+ Exit 56%.
+Literature 3. Galstyan A. С. , Synthesis of new products of specific amino acids // Armenian Chemical Journal 58, 2005, p. 231.potential of 1,2,4-triazole.
+ Abrief review // Pharmacologyonline 2011, p. 1192.Arusyak HovhannisyanMETHIL 2- (3- (2-ACETOXY-3-MORPHOLINOPROPOXY) PROPILTIO DISASTER և SOME PROPERTIES Keywords: triazole, morpholine, morpholine.
+Summary.

@@ -1,0 +1,132 @@
+INSULATION AND DESCRIPTION OF CHRONATE STABILIZED CHROMATE FROM ARTSVANIK TECHNICAL SEWERAGE SAMPLES. Cr.
+ Hexavalent chromium has a high solubility in all pH ranges, is highly toxic.
+Despite the highly toxic effects of hexavalent chromium, many bacteria thrive in chromium-rich environments due to the presence of hexavalent chromium neutralization mechanisms, such as chromium uptake into the cell wall surface, cell release, chromium accumulation in the intercellular space, hexavalent
+Hexavalent chromium recovery is capable of trivalently performed by a number of aerobes (Bacillus, Caulobacter, Staphylococcus, Streptomyces, Pediococcus, Pseudomonas, Pyrobaculum, Deinococcus, Thermus, Acidiphilium) և anaerobanumberum Desorgaris, Desulgaris 3
+The natural ecotypes of hexavalent chromium-stable bacteria in nature are formed in heavy rocky rocks, in mineral effluents, wastes, acid swamps, wastewater effluents of nuclear power plants, etc. [4, 2].
+  The Republic of Armenia is rich in deposits of various metals, but metal-resistant, including a variety of chromium-stable bacteria, little studied in those ecotopes.
+ The aim of the research is to isolate and identify the chromium-stable bacteria of the Artsvanik tailings dam and to determine the ability of և Cr (VI) to regenerate.
+Sampling և objects of study ․ The object of the research was 5 chromate stable bacteria isolated from the waste sample of Artsvanik tailings dump.
+  Artsvanik tailing dump is located in Artsvanik, Sqakar, Achanan և Syunik communities of Syunik region.
+ The tailings of the rich indicator plant of Zangezur Copper and Molybdenum Combine with a mass of about 300 million tons (pH 1011) are dumped here.
+ Sampling from Artsvanik tailing dump was done with a sterile spatula, transported in sterile containers to the laboratory.
+ The coordinates of the tailings և pH were determined on the spot by a GPS և combined pH / EC / TDS / Temperature (HANNA HI98129 / HI98130) gauge, respectively.
+Isolation of chromium-resistant bacteria. Isolation of chromium stabilizers from the waste sample is carried out by means of accumulator culture using R2A (DSMZ 830) medium with final concentrations of chromium K2Cr2O7 1-3 mm.
+ The pH of the medium was adjusted to 9 by means of NaOH.
+ To obtain a pure culture, the culture fluid was diluted by growing on the surface of the same agar medium.
+Isolation of genomic DNA ացում Amplification of 16S RNA genes (RNA). Isolation of genomic DNA from isolated cultures was performed according to the CTAB Guidelines for Isolation of Bacterial DNA (Bryakhanov, 2012).
+ Isolated genomic DNA was used for PCR amplification of segments 27-1492 of 16S DNA sequences (ARKTIK Thermal Cycler).
+  16SF (5'-GAGTTTGATCCTGGCTCAG-3 ') և 16SR (5'GAAAGGAGGTGATCCAGCC-3') universal oligonucleotide primers were used to replicate bacterial 16S RNA.
+  The 25 μl final reaction mixture consisted of 5-100 ns of DNA, 2.5 μl of 10x butr, 0.8 mM DNA, 0.5 μM of each primer (10 mM final volume), 0.5 M Salsa DNA polymerase (Netherlands).
+ PCR started with initial conversion at 95˚C, 5 minutes, continued for 30 consecutive cycles: transformation (94 բն C, 3 minutes), primer burning (54˚C, 30 seconds), chain synthesis (72˚C, 1 minute).
+ The reaction is completed by the synthesis of end chains at 72 ° C for 10 minutes at, 4 ° C.
+  The resulting amplicons were presented in 1% agarose gel by staining with ethidium bromide.
+Sequencing և phylogenetic analysis. Sequencing of bacterial 16S RNA amplicons was performed by Macrogen (North Korea).
+ The data obtained as a result of DNA sequencing were analyzed by "BioEdit 7.2.6" software.
+ The 16S RNA sequences were compared and compared with other 16S RNA sequences in GenBank using NCBI's local line-finding tool ("BLAST").
+  Lineage required for phylogenetic analysis և The phylogenetic tree was constructed using the ClustalW և adjacent nucleotide fusion method in MEGA 7 [5].
+Growth of crops under different temperature և pH conditions. At different bacterial temperatures տարբեր at different pH values, isolated strains n were grown in the appropriate nutrient medium (R2A) at 25˚C, 30˚C, 37˚C և 55˚C or In R2A food media with pH values ​​6-12.
+The growth intensity of the cultures was determined after 1-3 days by optical density (λ = 595 nm, KFK-3- "ZOMZ").
+Determination of cr (VI) minimum inhibitory concentrations (CR)) Determination of cr (VI) recovery capacity. Determination of the minimum inhibitory concentrations of Cr (VI) for isolated chromium-resistant bacteria was performed in a R2A medium containing 1-250 mM Cr (VI) at 37 ° C for 1–7 days after bacterial growth.
+ To determine the ability of the isolated strains to regenerate hexavalent chromium, the bacteria were pre-cultured in 0.5-2 mM Cr (VI) liquid R2A liquid medium at 37 ° C (150 ° C) for 24 h.
+ After growth, the culture fluid was centrifuged for 5 minutes at 13500 rpm, after which the concentration of Cr (VI) in the supernatant was measured by colorimetric method [6].
+Isolation and identification of chromate stable bacteria. Five chromium-stable, white-transparent aerobic, catalase-oxidase-positive bacteria were isolated from the samples of the eagle tailings with stable, mucous, round, smooth wavy edges.
+ According to Gram, isolated cultures are rod-shaped, endospore-producing cells that are dyed endocrine.
+To identify the isolated bacilli, genomic DNA was isolated, which was used as a template for the PCR amplification of 16S RNA genes.
+ The 16S RNA gene amplitudes were sequenced, and after processing the obtained nucleotide sequences, they were compared with other GenBank 16S RNA sequences using NCBI's Local Batch Search Tool (BLAST).
+ The results are summarized in Table 1.
+Culture of 16 S RNA
+Length (nz) Phylogenetic replication, deposition number Similarity Table 1. Identification of cultures by BLAST analysis of 16S RNA DNA sequences.
+The results show the similarity of NA3-1, NA3-2, NA4 և NA6 strains (98-99%) to Bacillus pumilus, and 99% similarity of NA7 strain to Bacillus nealsonii.
+  The phylogenetic tree of the isolated strains was constructed to determine the lineage of the isolated strains using the 16S DNA sequences of other members of the GenBank genus Bacillus (Figure 1).
+Escherichia coli was used as a distant species to obtain the root phylogenetic tree | NC_018658 | The sequence of strain 16S RNAs.
+Figure 1. Phylogenetic tree of closely related strains according to 16TRNA gene analysis.
+ The scale corresponds to the difference of 2 nucleotides in every 100 nucleotides.
+ The numbers showed the reliability of the branching accuracy, which was determined by "Bootstrap" analysis.
+Although the results of BLAST analysis show the similarity of NA3-1, NA3-2, NA4, NA6, NA6 և NA7 strains to B. pumilus և B. nealsonii, in the phylogenetic tree only NA4 strain is close to B. pumilus.
+ In the tree, the NA3-1 strain is in one branch with B. safensis, the NA3-2 և NA6 strains with B.altitudinis, and the NA7 strain with B. circulans.
+  The data mismatch allows the NA3-1, NA3-2, NA6 և NA7 strains to be considered as new species or subspecies of the genus Bacillus.
+  In order to confirm the mentioned hypothesis, it is necessary to carry out more in-depth research.
+Some Bacillus bacteria, such as B. brevis (isolated from the Unao District Leather Factory in Uttar Pradesh, North India), B. cereus և B. pumilus , 6]), B. subtilis և B. sphaericus (isolated from the coal ores of the Uttar Pradesh state և serpentine soils of the Andaman region of India [9, 10]) have been characterized by high chromate stability, with the ability to restore chromate.
+For the five chromium-resistant bacilli isolated from the Artsvanik tailings sample, the maximum temperature և pH values ​​were determined.
+ The results show that all strains are mesophilic, capable of growing at 25-37 ° C, but show maximum growth at 37 ° C.
+ All strains were able to grow in a wide range of pH values ​​(6-12), but Bacillus sp. NA3-1 maximum growth is expressed in pH 8, B. pumilus NA4 strain - pH 8-9, Bacillus sp. NA6 և NA7 strains: pH 9, and Bacillus sp. NA3-2 strain at pH 9-10.
+Determination of Cr (VI) Minimum Inhibitory Concentrations (MACs) և Ability of chromate recovery from bacilli. To determine the minimum inhibitory concentrations of Cr (VI) for stable chromate stable bacilli isolated from the Artsvanik tailings sample, the bacteria were grown in a 1-250 mM chromate medium at maximum growth temperature (37 ° C) և pH (pH 9).
+ The results show that Bacillus sp. Isolated from tailings waste. For NA3-2, NA6 և B. pumilusNA4 strains the minimum inhibitory concentration of Cr (VI) is 2.5 mM, Bacillus sp. For NA3-1 strain: 9.2 mm, and Bacillus sp. For NA7 strain: 250 mm.
+A number of scientists have shown that the minimum inhibitory concentrations of Cr (VI) for B. brevis, B. cereus, B. pumilus և B. subtilis are 180 μg / ml, 30 mm, 1000 μg / ml և 900, respectively. mg / l [610].
+  Bacillus sp. The NA7 strain exhibits high resistance to high concentrations of toxic chromium compared to the described bacilli.
+It is known from the literature that bacterial resistance to chromate ions may be due to chromate-reductase activity.
+ Recovery of Cr (VI) can occur under both aerobic and elanobaric conditions, associated with cell membrane or cell-soluble fraction [2].
+The most chromatically stable Bacillus sp. NA7 strain, the ability of the last hexavalent chromium to be recovered under aerobic conditions.
+Therefore, this bacterium was pre-grown in 0.5-2 mM Cr (VI) liquid medium containing R2A at 37 ° C for 24 h, after which the optical density of the bacterial suspension and the concentration of the chromate ions in the residue were measured by colorimetric method.
+յ:
+n:
+ւ:
+o:
+թ:
+ւ:
+o:
+t:
+խ:
+n:
+a
+k:
+a
+k:
+ի:
+t:
+p:
+Oh:
+m:
+n:
+chromate
+OK:
+ի:
+t:
+a
+m:
+o:
+r:
+q:
+n:
+ի:
+a
+d:
+r:
+o:
+ց:
+a
+n:
+M:
+յ:
+n:
+a
+ի:
+ց:
+a
+r:
+t:
+n:
+e:
+ց:
+n:
+o:
+k:
+Initial chromate concentration (mM) in food medium
+Figure 2. B. pumilus NA7 strain growth Cr Cr (VI) regenerative capacity in the nutrient medium.
+The results show that increasing the Cr (VI) concentrations in the nutrient medium suppresses both bacterial growth and chromatoreductase activity (Figure 2).
+ Thus, Bacillus sp. NA7 strain recovers up to 50% chromate at 24 h in the case of an initial concentration of 0.5 mM chromate in the medium, and 36% և 25% at 1 և 2 mM.
+Mangayarkas և others have isolated B. chromate stable strain B. Subtilis և Describe its chromate reductase activity [11].
+ They showed that after 144 hours of cultivation, the B. subtilis strain was able to remove 71%, 62% և 27% of hexavalent chromium from a medium containing 0.1, 0.5 և 1 μM chromate [11].
+  Paul և Paul isolated the chromium-contaminated soils of Andaman India և described about 34 chromate-resistant bacterial strains capable of recovering hexavalent chromium trivalent of varying degrees under aerobic conditions.
+Thus, B. sphaericus is able to grow> 80% Cr (VI) in ում 48 hours when grown in a medium containing up to 800 mg / L chromate.
+Bacillus sphaericus was isolated from the serpentine soils of the member region, which recovers more than 60% of the hexavalent chromium in 20 mg / L chromium solution within 48 hours.
+  The ability to recover Cr (VI) has also been described in a number of isolated bacilli from different regions.
+  Thus, B. brevis, B. cereus, B. pumilus և B. subtilis species are able to remove toxic concentrations of 75-80% of chromium at initial concentrations of 0.1-1 mm Cr (VI) in the medium.
+Thus, comparing with the literature data, it can be concluded that Bacillus sp. NA7 strain is promising in terms of application in the process of bioremediation of chromate-contaminated environment.
+LITERATURE of Hexavalent Chromium from Contaminated Soil and Mining / Metallurgical Solid Waste.
+ ANies, DH & Silver S. (eds.) Molecular Microbiology of Heavy Metals. Berlin, Heidelberg.
+Bioremediation of Chromate.
+ Thermodynamic Analysis of the Effects of Cr (VI) on SulfateMicrobiology of Heavy Metals Microbiology Monographs.
+  Springer Berlin Heidelberg, [5] Tamura K., Stecher G., Peterson D., Filipski A., Kumar S., MEGA6.
+  MolecularEvolutionary Genetics Analysis version 6.0, Mol Biol Evol.
+ Volume 12. United States, 2013, Abrahamyan NELLIARTSVANIK TECHNIQUE SAMPLE EXTRACTION AND DESCRIPTION OF VECAVALENT CHROMATE STABILIZED CHROMATE BECOME 16, Keywords:

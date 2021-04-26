@@ -1,0 +1,683 @@
+RESEARCH COMPLEX RESEARCH IN FRAGI SYSTEMS Studies on the complexity of emissions due to evidence automation in different logic systems are particularly relevant in artificial intelligence developments, such as cryptography.
+ In proving the assertions of this or that combinatorial problem, which claim to be difficult to prove, the judgments are of a constructive (intuitionist) nature, and sometimes they are limited to the framework of minimal logic.
+  Due to these circumstances, as well as a number of differences between classical and non-classical logics, the study of the complexity of extrapolations in non-classical logics is no less relevant.
+There are some results proven in logic that do not occur in intuitive Minimal logics.
+System definitions.
+ We will use the Boolean cube.
+ It is proved that certain properties for classical logic, such as the absence of monotony, the possible significant difference in the complexity of the expression of essentially equal identities, occur in intuitionist-minimal logics, but the well-known definition of formulas A v B for A և B identities is E (cid).
+2924).
+ Frege of classical logic (cid.
+2320) in systems where A (cid.
+2869), A (cid.
+2870) ... A (cid.
+2924) և B are formulas (without which a countable number of logical variables are used և finite, complete system of some logical operations.
+ Formulas are defined in the accepted way, from logical variables, logical operations, to parentheses.
+ The export rules are given in the following scheme: in the case of n = 0, the export rules are support schemes).
+Frege systems are indisputable և complete.
+(cid.
+2885) (cid.
+3117), (cid.
+2885) (cid.
+3118) ..., (cid.
+2885) (cid.
+3172)
+(cid.
+2886)
+The output rule is the well-known modus ponens (cid).
+2885), (cid.
+2885) ⊃ (cid.
+2886) (cid.
+2886) (mp).
+The ML system of minimal logic contains only 1-7 henna. Let us denote the following system of classical logic by Frege: the schemes of expressions for each of the formulas A, B և C are: 1) A⊃ (cid.
+4666) BIA (cid.
+4667) 2) (cid.
+4666) A⊃B (cid.
+4667) ⊃ (cid.
+4666) (cid.
+4666) A⊃ (cid.
+4666) B⊃C (cid.
+4667) (cid.
+4667) ⊃ (cid.
+4666) A⊃C (cid.
+4667) (cid.
+4667) 3) A⊃ (cid.
+4666) B⊃A∧B (cid.
+4667) 6) (A⊃C) ⊃ (cid.
+4666) (cid.
+4666) B⊃C (cid.
+4667) ⊃ (cid.
+4666) A∨B⊃C (cid.
+4667) (cid.
+4667) 7) (cid.
+4666) A⊃B (cid.
+4667) ⊃ (cid.
+4666) (cid.
+4666) A⊃ (cid.
+3411) B (cid.
+4667) ⊃ (cid.
+3411) A (cid.
+4667) 8) (cid.
+3411) (cid.
+3411) The system of intuitionist logic A⊃A IL is obtained (cid.
+3411) (cid.
+3411) A⊃A support (cid.
+3411) A⊃ (cid.
+4666) A⊃B (cid.
+4667) replacing with a pillar.
+columns.
+ Imported in ML (cid.
+1635) constant (also false) և (cid.
+3411) A⊃ (cid) is usually written instead of A.
+1635).
+Extraction of the resolution in the letter.
+  As it is accepted, the exponent of formula A in F will be denoted by EF A.
+ After [1], let us note that the formula A is called an intuitionist substance) if ⊢ (cid).
+1783) (cid.
+1786) A (⊢ (cid.
+2897) (cid.
+2896) A).
+   For any formula A, A is expressed in CL (⊢ (cid).
+1777) (cid.
+1786) A) only when (cid.
+3411) (cid.
+3411) (cid.
+1775) is expressed in IL (⊢ (cid.
+1783) (cid.
+1786) (cid.
+3411) (cid.
+3411) (cid.
+1775), which in turn is equivalent (cid.
+4666) (cid.
+1775) ⊃ (cid.
+1635) (cid.
+4667) ⊃ (cid.
+1635) in ML (⊢ (cid.
+1787) (cid.
+1786) (cid.
+4666) (cid.
+1775) ⊃ (cid.
+1635) (cid.
+4667) ⊃ (cid.
+1635) (cid.
+4667).
+| φ |: Who will denote the length of the formula φ, as all logical operations in it, is limited by a linear function depending on | φ | Suppose Φ is an output system with its bases և output rules.
+ The finite sequence of lines, where any line is either a comma, or by a certain output rule of Φ is obtained from the final set of the previous lines, in the Φ system (Ф-output) we will call the number of inputs of the last tubular operation.
+ It is obvious that the total length of the formula, which includes the inputs of all variables ություն logic: I-identity (minimum identity: M-identity և In the above three systems, the relationship between the formulas's exponentiality is known [1] as the exponentiation complexity.
+In the theory of export complexity, the following main characteristics are considered with the complexity of export.
+the sum of the lengths of all the output lines, where the size of the repeated lines is calculated once.
+ F is the number of extraction steps (t-complexity) is the number of applications of the extraction rule հ to the pillars.
+Boundary 1. Ф- output length ((cid.
+1812) -complication) is equal in Boundary 2. Suppose Φ is an output system և φ is a formula output in that system համակարգ.
+ t (cid.
+2957) (cid.
+2982) (l (cid.
+2957) (cid.
+2982)) will denote the minimum value of t-complexes (l-complexes) of all exponentials φ in the Φ system.
+(l-polynomial) equivalent, if in each of the systems given in one of the 3 sets, two output systems called t-polynomial output can be converted to the output of the same formula in the other system by a multiplicative increase in the number (length) of steps.
+Following Mintz [2] և Sayadyan and Chubaryan [3], let us give the following definition.
+Definition 4. A system in which only formulas expressed in IL (ML) that are equivalent to IL (ML) are multiplied by this formula is called the Frege System FIL (FML).
+Key Outcomes Definition 1. Comparison of the expression complexities of essentially equal identities in FIL և FML.
+Following the accepted definitions, we will call the variables և their negations literal.
+ The conjunction K is a set of literals in the Definition of Literals 1.1 for each ψ formula of the word account (the conjunction cannot contain both the variable and the negation of that variable).
+We will call each of the elementary changes a substitution rule, following [6], give the following definitions: 0∧ ψ (cid.
+3404) 0, ψ∧0 (cid.
+3404) 0,1∧ψ (cid.
+3404) ψ, ψ∧1 (cid.
+3404) ψ, 0∨ψ (cid.
+3404) ψ, ψ∨0 (cid.
+3404) ψ, 1∨ψ (cid.
+3404) 1, ψ∨1 (cid.
+3404) 1,0⊃ψ (cid.
+3404) 1, ψ⊃0 (cid.
+3404) (cid.
+3411) ψ, 1⊃ψ (cid.
+3404) ψ, ψ⊃1 (cid.
+3404) 1, (cid.
+3411) 0 (cid.
+3404) 1, (cid.
+3411) 1 (cid.
+3404) 0, (cid.
+3411) (cid.
+3411) ψ (cid.
+3404) q.As a substitution rule, any sub-formula in the formulas that looks like the left-hand side of the substitution rule can be replaced by the corresponding formula in the right-hand mass.
+Suppose φ is the formula for a word count, and P (cid).
+3404) (cid.
+4668) p (cid.
+2869), p (cid.
+2870), ..., p (cid.
+2924) (cid.
+4669) is the set of all variables in that formula.
+ P ′ (cid.
+3404) (cid.
+4668) p (cid.
+2919) (cid.
+3117), p (cid.
+2919) (cid.
+3118), ..., p (cid.
+2919) (cid.
+3171) (cid.
+4669) (cid.
+4666) 1 (cid.
+3409) m (cid.
+3409)
+n (cid.
+4667) denote any subset of P.
+(1 or 0), regardless of the values ​​of the other variables.
+They can be significantly different in captivity.
+For complications, there is the following theorem: they are mountains if each φ-determinant conjunction is also և determinant և vice versa.
+In FIL և The expression of substantially equal identities in FML [11] proves that in the definition of substantially equal identities 1.3. φ և ψ classical identities are essentially equated 1.2 Given σ (cid.
+3404) (cid.
+4668) σ (cid.
+2869), σ (cid.
+2870), ..., σ (cid.
+2922) (cid.
+4669) ⊂E (cid.
+For 2924) K (cid.
+2978) (cid.
+3404) (cid.
+4668) p (cid.
+2919) (cid.
+3117) (cid.
+2978) (cid.
+3117), p (cid.
+2919) (cid.
+3118) (cid.
+2978) (cid.
+3118), ..., p (cid.
+2919) (cid.
+3171) (cid.
+2978) (cid.
+3171) (cid.
+4669) call the conjunction φ -1-determiner (φ -0-determiner) if every p (cid).
+2919) (cid.
+3168) -in σ (cid.
+2920) (cid.
+4666) 1 (cid.
+3409) j (cid.
+3409) m (cid.
+4667) after assigning, applying the substitution rules, we get the value of φ for the φ-1- determinant conjunct և φ-0- decisive conjunctive for φ-determiner for φ.
+The complexities of the expression of Frege's classical logic (cid.
+2320) systemTheorem 1. There are φ (cid.
+2924) (cid.
+2893) (cid.
+4666) φ (cid.
+2924) (cid.
+2897) (cid.
+4667) և ψ (cid.
+2924) (cid.
+2893) (cid.
+4666) ψ (cid.
+2924) (cid.
+2897) (cid.
+4667) I-identities (M-identities), which are essentially equal, | φ (cid.
+2924) (cid.
+2893) | (cid.
+3404) | ψ (cid.
+2924) (cid.
+2893) | (cid.
+3397) c (| φ (cid.
+2924) (cid.
+2897) | (cid.
+3404) | ψ (cid.
+2924) (cid.
+2897) | (cid.
+3397)
+c), but t (cid.
+2890) (cid.
+2893) (cid.
+2896) (cid.
+2982) (cid.
+3172) (cid.
+3141) (cid.
+3409) c (cid.
+2869), t (cid.
+2890) (cid.
+2893) (cid.
+2896) (cid.
+2984) (cid.
+3172) (cid.
+3141) (cid.
+3410) c (cid.
+2870) | ψ (cid.
+2924) (cid.
+2893) |: (t (cid.
+2890) (cid.
+2897) (cid.
+2896) (cid.
+2982) (cid.
+3172) (cid.
+3145) (cid.
+3409) c (cid.
+2869), t (cid.
+2890) (cid.
+2897) (cid.
+2896) (cid.
+2984) (cid.
+3172) (cid.
+3145) (cid.
+3410) c (cid.
+2870) | ψ (cid.
+2924) (cid.
+2897) |) l (cid.
+2890) (cid.
+2893) (cid.
+2896) (cid.
+2982) (cid.
+3172) (cid.
+3141) (cid.
+3409) c (cid.
+2871) | φ (cid.
+2924) (cid.
+2893) |, l (cid.
+2890) (cid.
+2893) (cid.
+2896) (cid.
+2984) (cid.
+3172) (cid.
+3141) (cid.
+3410) c (cid.
+2872) | ψ (cid.
+2924) (cid.
+2893) | (cid.
+2870) l (cid.
+2890) (cid.
+2897) (cid.
+2896) (cid.
+2982) (cid.
+3172) (cid.
+3145) (cid.
+3409) c (cid.
+2871) | φ (cid.
+2924) (cid.
+2897) |, l (cid.
+2890) (cid.
+2897) (cid.
+2896) (cid.
+2984) (cid.
+3172) (cid.
+3145) (cid.
+3410) c (cid.
+2872) | ψ (cid.
+2924) (cid.
+2897) | (cid.
+2870)), where c, c (cid.
+2869), c (cid.
+2870), c (cid.
+2871), c (cid.
+2872) are positive constants.
+(cid.
+4666) p∨ (cid.
+3411) p (cid.
+4667), ψ (cid.
+2924) (cid.
+2893) (cid.
+3404) (cid.
+3411) (cid.
+3411) ... (cid.
+3411)
+φ (cid.
+2924) (cid.
+2893) (cid.
+3404) (cid.
+3411) (cid.
+4666) p∨ (cid.
+3411) p (cid.
+4667) ⊃ (cid.
+3411) (cid.
+3411) ... (cid.
+3411)
+(cid.
+4585) (cid.
+4589) (cid.
+4586) (cid.
+4589) (cid.
+4587) (cid.
+2870) (cid.
+3172)
+(cid.
+4585) (cid.
+4589) (cid.
+4586) (cid.
+4589) (cid.
+4587) (cid.
+2870) (cid.
+3172)
+(cid.
+4666) p∨ (cid.
+3411) p (cid.
+4667), and for FML (cid.
+4585) (cid.
+4589) (cid.
+4589) (cid.
+4589) (cid.
+4589) (cid.
+4586) (cid.
+4589) (cid.
+4589) (cid.
+4589) (cid.
+4589) (cid.
+4587)
+φ (cid.
+2924) (cid.
+2897) (cid.
+3404) (cid.
+4666) (cid.
+4666)… (cid.
+4666) (cid.
+4666) p∨ (cid.
+4666) p⊃ (cid.
+1635) (cid.
+4667) (cid.
+4667) ⊃ (cid.
+1635) (cid.
+4667) ⊃ (cid.
+1635) (cid.
+4667) ... ⊃ (cid.
+1635) (cid.
+4667)
+⊃ (cid.
+4666) p⊃p (cid.
+4667), ψ (cid.
+2924) (cid.
+2897)
+(cid.
+2870) (cid.
+3172)
+(cid.
+4585) (cid.
+4589) (cid.
+4589) (cid.
+4589) (cid.
+4589) (cid.
+4586) (cid.
+4589) (cid.
+4589) (cid.
+4589) (cid.
+4589) (cid.
+4587)
+(cid.
+3404) (cid.
+4666) (cid.
+4666)… (cid.
+4666) (cid.
+4666) p∨ (cid.
+4666) p⊃ (cid.
+1635) (cid.
+4667) (cid.
+4667) ⊃ (cid.
+1635) (cid.
+4667) ⊃ (cid.
+1635) (cid.
+4667) ... ⊃ (cid.
+1635) (cid.
+4667)
+(cid.
+2870) (cid.
+3172)
+[7] shows that in FCL ψ (cid.
+2924) (cid.
+2893) for the following lower t (cid).
+2890) (cid.
+2887) (cid.
+2896) (cid.
+2984) (cid.
+3172) (cid.
+3141) (cid.
+3410) c (cid.
+2870) | ψ (cid.
+2924) (cid.
+2893) |: և l (cid.
+2890) (cid.
+2887) (cid.
+2896) (cid.
+2984) (cid.
+3172) (cid.
+3141) (cid.
+3410) c (cid.
+2872) | ψ (cid.
+2924) (cid.
+2893) | (cid.
+2870), consequently, they also occur in FIL և FML ψ (cid.
+2924) (cid.
+2897) for resolutions.
+On the other hand φ (cid.
+2924) (cid.
+Resolution 2893) is expressed in the FIL in fixed steps.
+ We are pre-producing (cid.
+3411) (cid.
+3411) (cid.
+4666) p∨ (cid.
+3411) p (cid.
+4667) (cid.
+4667) identity, then we use (cid.
+3411) A⊃ (cid.
+4666) A⊃B (cid.
+4667) from the pillar.
+  In FML և we express the p⊃p identity, then (cid.
+4666) p⊃p (cid.
+4667) ⊃:
+φ (cid.
+2924) (cid.
+2897) is derived from the pillar φ (cid.
+2924) (cid.
+2897).
+ The following t (cid) are available for these output.
+2890) (cid.
+2893) (cid.
+2896) (cid.
+2982) (cid.
+3172) (cid.
+3141) (cid.
+3409) c (cid.
+2869), (t (cid.
+2890) (cid.
+2897) (cid.
+2896) (cid.
+2982) (cid.
+3172) (cid.
+3145) (cid.
+3409) c (cid.
+2869)) և l (cid.
+2890) (cid.
+2893) (cid.
+2896) (cid.
+2982) (cid.
+3172) (cid.
+3141) (cid.
+3409) c (cid.
+2871) | φ (cid.
+2924) (cid.
+2893) |, l (cid.
+2890) (cid.
+2897) (cid.
+2896) (cid.
+2982) (cid.
+3172) (cid.
+3145) (cid.
+3409) c (cid.
+2871) | φ (cid.
+2924) (cid.
+2897) |: , which և ends with Proof.
+ Consider the following formulas for FIL: formulas.
+Assessments, conditions, proof.
+1.2 Non-uniformity of FIL և FML systems Definition 2.1 Identity (I-identity, M-identity) will be called minimal if it is not obtained from a shorter location identity (I-identity, M-identity).
+Assign S (cid.
+4666) φ (cid.
+4667) is the set of all formulas obtained from substituting φ for its variables with any formulas.
+Definition 2.2. The φ system is called t-monotone (l-monotone), if φ ψ∈S (cid) of any φ identity.
+4666) φ (cid.
+For 4667) t (cid.
+2957) (cid.
+2982) (cid.
+3409) t (cid.
+2957) (cid.
+2984) (l (cid.
+2957) (cid.
+2982) (cid.
+3409) l (cid.
+2957) (cid.
+2984)).
+[10] shows that FCL is neither t-monotone nor l-monotone.
+Theorem 2.2. FIL և FML systems are neither t-monotone nor l-monotone.
+Proof.
+ Consider the following formulas q∨ψ (cid.
+2924) (cid.
+2893) (q∨ψ (cid.
+2924) (cid.
+2897)), where ψ (cid.
+2924) (cid.
+2893) (cid.
+3404)
+(cid.
+4585) (cid.
+4589) (cid.
+4589) (cid.
+4589) (cid.
+4589) (cid.
+4586) (cid.
+4589) (cid.
+4589) (cid.
+4589) (cid.
+4589) (cid.
+4587)
+(cid.
+4666) p∨ (cid.
+3411) p (cid.
+4667) (ψ (cid.
+2924) (cid.
+2897) (cid.
+3404) (cid.
+4666) (cid.
+4666)… (cid.
+4666) (cid.
+4666) (cid.
+4666) p∨ (cid.
+4666) p⊃ (cid.
+1635) (cid.
+4667) (cid.
+4667) ⊃ (cid.
+1635) (cid.
+4667) ⊃ (cid.
+1635) (cid.
+4667) ... ⊃ (cid.
+1635) (cid.
+4667) (cid.
+4667)
+	(cid.
+3411) (cid.
+3411) ... (cid.
+3411)
+(cid.
+4585) (cid.
+4589) (cid.
+4586) (cid.
+4589) (cid.
+4587) (cid.
+2870) (cid.
+3172)
+).
+  Note that (cid.
+4666) p⊃p (cid.
+4667) ∨:
+ψ (cid.
+2924) (cid.
+2893) ((cid.
+4666) p⊃p (cid.
+4667) ∨ψ (cid.
+2924) (cid.
+2897)) resolutions are obtained by installing them.
+ [10] indicates that q∨ψ (cid.
+2924) (cid.
+2893) has a lower linear t -complication և a less linear l-complexity in FCL.
+ Naturally, the same thing happens with FIL և FML.
+ (cid.
+4666) p⊃p (cid.
+4667) ∨ψ (cid.
+2924) (cid.
+2893) ((cid.
+4666) p⊃p (cid.
+4667) ∨ψ (cid.
+2924) (cid.
+2897) formulas can be expressed in FIL (FML) with constant t-complexity և linear l-complexity.
+  To do this, using A⊃
+A∨B, from the support scheme, express (cid.
+4666) p⊃p (cid.
+4667) ⊃ (cid.
+4672) (cid.
+4666) p⊃p (cid.
+4667) ∨ψ (cid.
+2924) (cid.
+2893) (cid.
+4673) (cid.
+4666) (cid.
+4666) p⊃p (cid.
+4667) ⊃ (cid.
+4666) (cid.
+4666) p⊃:
+p (cid.
+4667) ∨ψ (cid.
+2924) (cid.
+2897))) resolution, then (cid.
+4666) p⊃p (cid.
+4667), from where it will be displayed (cid.
+4666) p⊃p (cid.
+4667) ∨ψ (cid.
+2924) (cid.
+2893) ((cid.
+4666) p⊃p (cid.
+4667) ∨:
+ψ (cid.
+2924) (cid.
+2897)).
+(cid.
+2870) (cid.
+3172)
+In the presence of the upper index of the complexity of the export complexity [4], it is proved that: 2.3 the significant differences between the FCL և FIL and FML systems.
+A. In the FCL, no more than square scores are known for the upper-lower scores of each identity expression complexity, so research on either lower or upper scores is very relevant, with some results [8, 9 ].
+In FIL (FML) Every I-Identity (M-Identity) Claim A. There are φ (cid.
+2924) formulas for which l (cid.
+2890) (cid.
+2893) (cid.
+2896) (cid.
+2982) (cid.
+3172) (cid.
+3410) 2 | (cid.
+2982) (cid.
+3172) |, t (cid.
+2890) (cid.
+2893) (cid.
+2896) (cid.
+2982) (cid.
+3172) (cid.
+3410)
+	2 | (cid.
+2982) (cid.
+3172) |: (l (cid.
+2890) (cid.
+2897) (cid.
+2896) (cid.
+2982) (cid.
+3172) (cid.
+3410) 2 | (cid.
+2982) (cid.
+3172) |, t (cid.
+2890) (cid.
+2897) (cid.
+2896) (cid.
+2982) (cid.
+3172) (cid.
+3410) 2 | (cid.
+2982) (cid.
+3172) |).
+	A (cid.
+2924) և B (cid.
+2924) A (cid.
+2924) ∨B (cid.
+2924) t -complications ևComplications in FCL are significantly less than A (cid).
+2924) և B (cid.
+2924) the resolutions.
+Claim B. If no formula is repeated in the output constructed in FIL (FML), such an output of each A∨B formula contains the output of either A or B.
+ The following statement is proved in [5].
+B. [9] proves that there are homonyms that obviously follow from this statement: Claim 2.3.1 For each A և B I-identities (M-identities) the t և l-complexity of the expression of A∨B In FIL (FML) can not be less than the minimum values ​​of t-complexes A of formulas և B և, respectively, in FIL (FML) the minimum values ​​of l-complexities.
+The proof lies in the fact that t և l-complexities are available in non-repetitive formula expressions.
+LITERATUREPETROSIC EXAMINATION OF COMPLEXES OF GARICA PRODUCTIONS IN FREGE SYSTEMS Keywords: Frege systems, characteristics of export complexity, essentially equal identities, system of export.

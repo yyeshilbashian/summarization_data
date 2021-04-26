@@ -1,0 +1,50 @@
+In recent years, many specialists have been focusing on different types of operator algebra structures combined with non-reversible power systems.
+  The well-known notion of group cross-product, which works perfectly in the inverse case, fails to directly convey the context of semi-group systems.
+  In order to overcome the difficulties, 384 MATHEMATICS approaches the problem from different angles, develops new methods, separates suitable lessons for the groups, each with its own level of generalization.
+ These include measurable or topological endomorphisms (see, for example, [5, 4, 8, 18]) or polymorphisms, ie dynamic systems of multivariate representations (see, for example, [1, 4). , 8, 19]), irreversible representations (e.g. [5, 10, 13]), interactions (see, e.g. [11, 12]), isometric operators (isometries, e.g. [6, 7, 9, 16, 17], and finally, a large number of works are devoted to specially structured subgroups (see detailed work with numerous recent citations [15]).
+ New perspectives open up the inclusion of a graded system and, accordingly, the inclusion of graded algebra ideas (see [14, 2, 3]).
+ The paper discusses a general system where no algebraic structure is required from the subset of the group under consideration.
+  Of course, being a subset of a group is a limitation in itself.
+  The structure and properties of the operator algebra (so-called C * algebra) corresponding to such a set (or rather, a special group accompanying it) are discussed.
+  Some examples are also presented.
+ 1. Definitions and elementary properties. Suppose C is an Abelian group.
+  For an arbitrary γ א Γ, consider l 2 (Γ) The operator of the right displacement of the Hilbert space: ࣯ γ.
+  l 2 (Γ)? l 2 (Γ), determined from ordinary base {e α; on the elements α א Γ գործող with the action ࣯ γ e α = e γ + α.
+  Suppose է is a subset of group C.
+ Let J denote the contribution of the Hilbert space in space l 2 (Γ) by J.
+  l 2 (झ)? l 2 (Γ), and for arbitrary γ define T γ from Γ.
+  l 2 (झ)? l 2 (झ) operator as T γ = J * ࣯ γ J.
+  This operator operates on the basis of: T γ e α = e γ + α, if γ + α א झ, and T γ e α = 0, if γ + α ב झ.
+ 385 MATHEMATICS Let us list some properties of these types of operators, first recalling the idea of ​​regulation in the class of partial isometric operators. V ط W if, and only if VV * W = V.
+ Claim 1. For arbitrary α, β from Γ, the following relations occur: a) Operator T α is a partial isometric operator b) The set of operator T α coincides with - α with the operator corresponding to the opposite element: T α * = T - α c) T α T β ط T α + β , T α + β * T α T β ط T α + β * T α + β, T α T β T α + β * ط T α + β T α + β * d) operator T α ≠ 0 it and only if α + झ? ) ≠ ׎ e) if α + β झ झ, then T α T β T β * = T α + β T β *, and T α * T α T β = T α * T α + β.
+ Proof. The first three properties are checked immediately.
+ Consider the following.
+  If T α = 0, then for arbitrary β from,, we have: where α + झ? झ = ׎.
+  The opposite is obvious.
+ As for the last property, let's bring only the output of the first relation. Now about the basic concept of work - group C,, which corresponds to the arbitrary subset of group C։.
+ Claim 2. ՝: Γ is a subset of the Abelian group, and Γ է is the set of elements of the group for which γ + झ? झ ≠ ׎.
+ That Γ झ set is a comparable group, ie γ א Γ S it and only if - γ א Γ झ.
+ Proof. Note from the beginning that the C չէ group is not empty, since, obviously, 0 א Γ झ.
+  Let, now, γ א Γ झ.
+  Then, there exists s א झ, such that γ + s = t झ झ.
+  So, - γ + t = s, which means - γ א Γ झ.
+ 386 MATHEMATICS Suppose C r * (झ) is an evenly closed algebra l 2 (2) in the class of finite linear operators of the Hilbert space, which is born with operators T α for all αs from Γ झ.
+ Claim 3. Algebra C r * (झ) is non-denotable and contains the identical operator of the space l (։).
+ Proof. It is obvious that the operator J * J is the identical operator of that algebra.
+  If e α and e β are the base elements, and γ = β - α, then the derivatives of the algebra C r * (झ) differ from the base elements of l 2 (झ) Hilbert space, which means that The algebra is not brought.
+ 2. Structure. The following type of element: W = T α1 T α2 · · · T αn is called a unit, and the index of such a W unit (index), ind W, is defined as Claim 4. Suppose ՝ Γ is a subset of the Abelian group. .
+  Then. a) Mon (झ) set of monomials is an inverse semigroup b) arbitrary W א Mon (झ) ind index of W belongs to the group Γ գ c) if W 1, W 2 א Mon (झ) and such , that W 1 W 2 ≠ 0, then ind Proof. The assertion follows from the fact that the WW * operator is a projector. WW * e β = e β, if W * e β ≠ 0, and WW * e β = 0, if W * e β = 0.
+ Recall (see, for example [2, 14]) that the algebra C * is called H with respect to the given group H, if it is the closure of the union of the Banakh spaces numbered by H, the intersection of which by the group is a neutral element, and there is a conditional expectation from algebra C on the central (that is, corresponding to the neutral element of the group ha 387 MATHEMATICS) Banakhian subspace (which, by the way, is a C * algebra).
+ The following result means that the algebra C r * (झ) is like this.
+ Claim 5. Suppose C is an intermittent Abelian group, J is a subset of it, and C համապատասխան is a corresponding group.
+ Let ࣛ γ be a closed linear polynomial born of the unit γ א Γ վի given the algebra C r * (झ).
+  Then. a) The intersection of sub-areas born with different elements of group C է is the neutral element; ࣛ α? ࣛ β = {0}, α ≠ β א Γ झ b) arithmetic C r * (झ) is the closure of the union of Banakhyan ࣛ γ areas, C r * (झ) = closure {ْ γ א Γ झ ࣛ γ} c) there is a conditional expectation from the algebra C r * (झ) on the algebra ࣛ 0.
+ 3. Examples We present some examples that make the observed ideas more transparent and show the dependence of the properties on the choice of the group subset. a. झ = {1; 2; 3} ؿ Ժ, where ՝ is an additive group of integers.
+ The corresponding group Ժ ունի has the form झ झ = {- 2, 1, 0, 1, 2,, and the algebra C r * (झ) is isomorphic to ࣧ 3 (ԧ), the complete algebra of complex matrices.
+  Describe the corresponding analysis (scaling) of the combined algebra. ࣧ 3 (ԧ) = ْ ࣝ ࣽ, ࣽ א झ झ.
+ Here ࣝ 0 is a diagonal C * subunit. ࣝ 1 looks like this: ࣝ 2, respectively, is as follows. 388 MATHEMATICS Finally, ࣝ is a set of ասական matrices for negative ࣝ. Let झ = {5; 8; 9 Ժ ؿ Ժ.
+  Then Ժ झ = {-4, - 3, - 1, 0, 1, 3, 4}, and the algebra C r * (झ) is isomorphic again to the complete algebra of ࣧ 3 (ԧ) of the matrices.
+ Describe the combined algebra gradation. ࣧ 3 (ԧ) = ْ ࣞ ࣽ, ࣽ א झ झ.
+ Here again ࣞ 0 is a diagonal sub-algebra, ࣞ 1 looks like տես 3, respectively, the following. and ࣞ 4 looks like the previous example, the arbitrary ࣻ ࣻ space is a complex matrix for negative ՝: ࣞ - ࣻ = ࣞ ࣻ *, ࣻ = 1, 3, 4.
+ These examples show that, depending on the choice of the set, the same algebra is graded in different ways.
+ .

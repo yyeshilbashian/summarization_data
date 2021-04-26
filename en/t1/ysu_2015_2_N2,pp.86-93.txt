@@ -1,0 +1,61 @@
+THE USE OF GEORADAR IN THE MOST IMPORTANT FOLLOWING IN THE TERRITORY OF PHARAOH III IN ARCHAEOSEISMOLOGICAL RESEARCH Introduction.
+  The temple of Amenhotep III is located on the banks of the Nile River, on the outskirts of the modern city of Luxor.
+  Luxor, formerly known as Thebes (Fiv), has been the capital of Egypt for hundreds of years. It is still one of the most famous archeological sites in the world.
+ The Temple of Amenhotep III is the largest temple ever built in Egypt.
+  385 thousand m 2 area contained a huge number of pylons, chambers, walls and statues.
+  The main axis of the temple was about 1 km long and 550 m wide.
+In the temple of Amenhotep III in 2007-2010. Our research showed clear traces of ancient earthquakes (1200-900 BC).
+2011-2013 As a result of the excavations, the temples of Amenhotep III այլ այլ other temples of Luxor were found to have strong earthquake impact factors.
+  The new data were discovered during the study of the peristyle և III pillar of the temple of Amenhotep III, as well as at the pillar II of the temple of Karnak.
+In the above-mentioned archeological-seismological-archeological researches, georadaric extraction has been used extensively in order to find the zones of underground burial finds, the zones of disturbance caused by the earthquakes that took place in the early times.
+Description of the research և methodology.
+ In the area of ​​the temple of Amenhotep III in 2013 Archaeological-geophysical researches were carried out in separate sites, the location of which is presented on the map of the actual materials intended for Aegean extraction (Fig. 1).
+In order to obtain detailed information on the basis of three-dimensional 3D geodetic extraction in the proposed area, the site was divided into a series of areas in the form of regular geometric images, which consist of separate profiles.
+ The distance between them was 0.5 m, which is due to the size of the structures under study.
+  In some parts of the sites, due to the relief, archeological excavations and the presence of modern communication lines, only profile excavations were carried out.
+The works used the SIR-3000 (USA, 2008) georadar system with a receiver antenna with a frequency of 400 MHz, which allowed scanning the geological section up to 4 m deep.
+Georadar probing is based on the interpretation of electromagnetic pulses, the recording of signals reflected from the boundaries of the probing medium layers, which have different electrophysical properties (Fig. 1).
+  The main goal is to determine the strength of the layer boundaries - the depth of installation.
+Figure 1. A: The plan of the temple of Amenhotep III, B: The plan of the peristyle, which shows the area of ​​soil erosion, the locations of geodetic and geodetic excavations. The input parameters for the use of the geodetic system are the specific extinction. is the electrical characteristics of the environment.
+  At the same time, the extinction characterizes the probing depth and the velocity is the distance to the reflection limit.
+ The speed of propagation of electromagnetic waves in the environment depends on the degree of its dielectric-magnetic penetration.
+The velocity in the medium is inversely proportional to the dielectric constant of the medium, where C is the speed of light in a vacuum.
+In the case of a normal wave fall, the reflection coefficient of two media with different dielectric permeabilities is as follows: The reflected electromagnetic wave propagation scheme is shown in Figure 2.
+(a) (b) Figure 2. Reflected electromagnetic wave propagation scheme (a) և Its amplitude and propagation period (b) followed by density distribution.
+  As a result, at the end of the georadral extraction, the information received from the antennas or a group of large radar graphs is recorded as an e-file as a group of electromagnetic waves, which is then interpolated; visualized as geological sections or three-dimensional (3D) model subtitles.
+The field measurement results were developed using Radan 6.5 computer package.
+Archaeological seismological results.
+  Numerous orthogonal cracks were found in the northern part of the peristyle (Fig. 2), which are 18-20 m long in the east-west direction, and shorter in the north-south direction.
+ The width of the cracks varies from 3-4 cm to 10-12 cm.
+ The cracks cut the floor made of peristaltic limestone (zlat) քերը the bases of several columns, which are filled with fine sand (Fig. 3A).
+ A shovel was dug on one of the cracks, which shows that the crack crosses the floor with stuffed sand and penetrates deeper.
+The use of SIR 3000 georadar allowed the cracks to be traced back to 3 depths, where they intersected with a horizontal layer, which can be described as a layer of sand (Fig. 3B).
+The cracks found in the peristyle are sand dunes են are typical of the process of soil erosion during strong earthquakes.
+The appearance of such cracks leads to the demolition and demolition of the buildings built on them.
+In the western part of the peristyle, a geodetic survey was conducted along the length of the foundations of the preserved pillars with cd profile, where the heights of the foundations of all the pillars and the statues between them were measured.
+  In parallel with the cd profile, many georadar profiles have been implemented.
+ Figure 3 shows the results of these measurements, based on which it was found that the southern part of the peristyle decreased by 1 m compared to the northern part.
+Figure 3. A: Crackers filled with sand; B - georadral extraction profile, where the propagation of cracks up to 3 m depth is separated (possible sand layer indicated by 1); C: Bases of Crackers-Crossing Columns The lowering of the southern part takes place not smoothly, but gradually, with three clear levels, which are shown in the geodetic profile (Fig. 4B).
+ In the areas where there are abrupt changes in height, the cracks are clearly fixed by georadar (Fig. 4. C, D, E).
+ Much more interesting are the pieces of the bases of the columns fixed by the georadar in the form of white և light gray horizontal lines (Fig. 4. 1, 2).
+  In the abrupt settling sections of the peristyle, these pieces are broken and displaced by cracks, especially the southern parts of them, which correspond to the settling deformations observed on the peristyle.
+Archaeological findings.
+  The 12 sites of the 3D georadar extraction և the locations of the individual profiles are presented on the schematic of the factual materials (Fig. 5).
+The area was divided into rectangles, as shown in Figure 4. 3D Georadar 3D extraction was performed, during which the distance between the steps of the profiles was 50 cm, and the depth was 4.2 m.
+Figure 4 shows the anomalous sites detected by georadral extraction.
+Figure 4. А: geodetic profile cd fig. 3, where the heights of all the pillars and the statues between them are shown.
+ В: georadar extraction profile; С - georadar extraction parts. 1: the bases of the columns with their heights; 2: the curve of the heights; 3: cracks on the separated georadar extraction; 4: Segments of abrupt change in height և Relevant cracks that cut the foundations of the columns according to georadic extraction. one (section A), confirmed by archeological excavations.
+  Figure 6 above shows the locations of the excavations in the Memnon area, and the section of the find discussed in this paper (Figure 6, section A), which is the three large fragments of the Memnon statue, is highlighted in bright red.
+  Figure 6 shows the three-dimensional extraction sections from top to bottom on the left side, and the right side shows the anomalous extraction representations in the form of corresponding cross-sections of the three-dimensional extraction.
+Figure 6. Scheme of actual materials of geomorphic extraction of the area of ​​Memnon արձ ացված Results Ե Conclusion.
+  The obtained results show that in peristilitar segments, in at least 8 areas, there are clearly deformations caused by strong earthquakes.
+ The occurrence of cracks in sand dunes, crater sand blows, and 1 m vertical deformation of the expansion peristile նրան has obviously led to the complete destruction of the peristyle.
+The whole studied area is rich in various archeological structures of different degrees of decay, which creates a rather difficult situation for geodetic extraction.
+ In many cases, conflicting results are obtained, depending on the degree of degradation of individual elements of the structure or the density of the material.
+  That is why the archeologically interesting sites in the general field have been separated with reservations.
+ As a result of a comprehensive analysis, sites were selected and mapped, which can later be a guide for archaeologists' research.
+At the same time, we consider it necessary to mention that the anomalies found in those areas, which are located or are connected with underground structures, deserve special attention.
+ Some of the isolated anomalies were confirmed in 2013. Other excavations, according to archaeologists, may be promising areas.
+Literature South Carolina.
+ Science, 1985, vol. 229, p. 379-381.Denksriften der medizinisch-naturwissenschaftlichen.
+ Gesselschaft zu Jean, 1932, vol. 18, 2, Mikael Gorgyan THE USE OF GEORADAR IN THE MOST EASY III IN THE AREA OF PAHRON'S TEMPLE IN ARCHAEOLOGICAL RESEARCH In keywords: amenachos

@@ -1,0 +1,66 @@
+SOME SMALL NIGHTMARKS OF THE REPUBLIC OF ARMENIA ULTRASOUND EFFECTIVE MONITORING OF ECHOLOGICAL SIGNS IS VERY IMPORTANT IN THE STUDY OF HANGER BIOLOGY մշակ DEVELOPMENT OF PROTECTIVE MEASURES.
+  Determining the type of flying glove is possible without catching the animal by analyzing the ultrasound signals emitted by that animal.
+  Ultrasound signals are subject to intra-species variability, and in many cases the determination of species belonging is a rather difficult task.
+  The cause of the variability of the signals can be the age of the animal, the environmental conditions, the hunting strategy - many other conditions.
+ However, through appropriate methods, quality equipment ագրական statistical analysis, it is possible to minimize errors in determining species belonging.
+Ultrasound determination allows the use of ultrasound to obtain information about animal hiding places, hunting grounds, wedding sites, runways, animal hunting behavior, etc.
+Our study refers to the description of ultrasound signals of some tiny bats found in Armenia.
+Materials և methods.
+  The study used the Peterson D230 և Peterson D240x ultrasonic detector.
+ Special tables were compiled, in which the animal և և size, flight egg, type of ultrasound range և prevailing frequency were recorded during field observations.
+  By combining these data, it is possible to determine the species without catching the animal.
+Ultrasound was recorded in the laboratory for further analysis.
+  The analysis of the recordings was performed with the help of Spectrogram7.0 computer program.
+ This method complements the first դարձ makes the determination of species belonging complete (Ahlen 1981, 1982, 1990).
+Results և discussion.
+ Bearded moth (Myotis mystacinus).
+  This species is ecologically very flexible, with a very complex discipline.
+ The composition of the portion of this species is very little studied.
+ In any case, as this species does not have clear forage areas, the composition of this species is more diverse than that of a specialized species such as the water moth (Myotis daubentoni).
+This type of ultrasound signal, despite the relatively small size of the type, is characterized by a large variety of basic frequencies.
+  The initial frequencies vary from 120 to 30 kHz, the maximum density is in the range of 80 kHz.
+The formative frequencies, which are the frequencies that have the maximum signal energy, fluctuate in the range of 64-19 kHz, producing a maximum of 40 kHz.
+  The final frequencies are more compactly grouped in the range of 18-40 kHz.
+  No less variable is the signal strength, which ranges from 1 to 4.2 mV.
+Such variability of the modes of this type of echolocation system is confirmed by the analysis of the internal structure of the ultrasound signals.
+  Amplitude peaks can occur at different locations of the signal, even in the same individual (Simkin G., Patlykevich N., 1969).
+ The curvature of the beetle's FM signal is variable.
+Amplitude modulations are sometimes well developed, which leads to the division of the signal into 3-5 sections.
+  The second harmonic component occurs very rarely, բացառ almost exclusively in low-frequency signals with an initial frequency of not more than 50 kHz (Fig. 1).
+Figure 1. Ultrasound signal of the mustache bat (Myotis mystacinus) և the first harmonic component Table 2 shows the main indicators of the ultrasonic signals of the mustache bat (Myotis mystacinus) for the southern-northern regions of the Republic of Armenia.
+ As can be seen from the table, the average maximum frequency value of animals in the northern regions is 81.47 kHz higher than in the animals of the southern regions.
+ The maximum value of the maximum frequency is higher than that of animals living in the south, and the minimum value is lower.
+  The mean value of the final frequency is lower than the same characteristics of the southern animals, and the minimum-maximum values ​​of the lower frequency are correspondingly lower than the same values ​​of the southern animals.
+ The average values ​​of the signal strength in the animals of the north-south are 4.19 և 4.9 mV, respectively, and the minimum-maximum values ​​of the signal strength are higher in the north than in the south.
+Ultrasound signals of Myotismystacinus, generally living in the north, can be described as FM or FM-sh FM-FM type signals with a frequency range of 24.3-110.4 kHz with a bandwidth of 2.8-7.6 mV.
+For animals living in the south, the frequency range of ultrasound signals is 30.6-50.4 kHz, the type of signals is FM, and the bandwidth is 1.2-7.1 mV.
+Table 1 shows the characteristics of ultrasonic bearded beetles (Myotis mystacinus) for different parts of Europe (Parsons S., Jones G., 2000).
+Table 1. Main Indicators of Ultrasound Signs of the Bearded Nightingale (Myotis mystacinus) in Armenia որոշ In Some European Countries Indicator Name Initial Frequency Impact RangeRegionRecourseItalyUnite Kingdom Commonly Caused
+  The clear difference in the initial frequencies can be explained by the difference in the landscape of the area, as the difference in landscape causes the animal's flight speed to change, which in turn affects the value of the initial frequencies.
+ The final frequency in this case is a more stable indicator.
+ The differences between the lines of influence are not significant.
+Bearded (Myotis mystacinus) հիմնական Main Indicators of Ultrasound Signs of Myotis emarginatus (Tricolor Bats) Table 2. IndicatorNameFrequencyMinimumLight in the AreaPyster անվանումըTybe NameReedRaperedHearHearlyHp
+  The echocardiographic system of Myotisemarginatus is characterized by a high initial frequency of signals, up to 133 kHz, and in most cases ranges from 120-100 kHz, with a maximum density of 111 kHz.
+  Formant frequencies are significantly higher than those of other moths, concentrated in the narrow range of 64-52 kHz.
+ The length of the signals varies from 0.9-2.2 mV.
+These types of ultrasound signals are very uniform.
+  Of the internal structural features of these signals, the presence of a second harmonic component is noteworthy.
+ The amplitude of most of their signals increases slowly.
+ The peak of the form falls on the second half of the signal.
+ The local amplitude modulation, which is clearly expressed in the tricolor bat signals, is sometimes amplified, which leads to the division of the signal into several unequal parts.
+Table 2 shows the indicators of the three main characteristics of the tricolor ultrasound signals for the northern and southern regions of the Republic of Armenia.
+The average, minimum, and maximum frequencies in the north exceed the same as the maximum frequencies found in the south.
+  The same pattern is observed in the case of the lowest frequency.
+The average value of the signal strength is equal in both cases.
+ The minimum values ​​of the signal strength are arranged next to each other.
+  However, the maximum value of this indicator for animals living in the southern region of the Republic of Armenia exceeds the same value for animals living in the north.
+Thus, the ultrasound signals of this species of animals living in the northern regions of the Republic of Armenia can be described as clear FM signals with a frequency of 45.9-104.7 kHz in the range of 0.8-3.6 mV.
+  In the southern regions, the tricolor ultrasound signals are also clear FM signals with a frequency of 35.2-52.7 kHz, 0.5-6.2 MW.
+Table 3 shows the comparison of the main indicators of the tricolor ultrasound signals in the territories of the Republic of Armenia and Italy (Parsons S., Jones G., 2000).
+  The initial frequency in the territory of the Republic of Armenia is smaller than in Italy.
+  Unlike the previous type, there are significant differences in the final frequency here, the final frequency of the hottest night owl living in Armenia is about 10 kHz higher than those living in Italy.
+  The animals of these two regions are close to each other due to the signal line.
+Comparison of the main indicators of the ultrasonic signals of the tricolor bat (Myotis emarginatus) for the territory of the Republic of Armenia and Italy. Table 3. Name of the indicator. Initial frequency. Final frequency. Impact range In the same area, in Italy, in Armenia, in the case of both European species.
+ These differences are primarily related to the landscape, the speed of flight.
+  As a clear, most stable indicator that can be used to determine the species, the final frequency is the line of the hand.
+LiteratureHermine Abelyan SOME LITTLE NIGHTS OF THE REPUBLIC OF ARMENIA ULTRASOUND Keywords: Ultrasound signals, moths, mustache moth, tricolor night.

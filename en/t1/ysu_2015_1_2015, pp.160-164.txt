@@ -1,0 +1,57 @@
+APPLICATION OF SYNERGIC INFORMATION INDEX ARPA RIVER WATER ASSESSMENT ASSESSMENT
+ Comprehensive surface water indexes mean relative numerical quantity, which qualitatively and unambiguously characterizes the chemical composition of surface water according to the combination of compounds of this or that number of different components.
+  As a rule, all complex indexes are highly informed.
+  They are based on a set of hydrological or relative (less modified) hydrochemical indicators, which, having different units of measurement, are first converted to the same sub-index values, and then these sub-indices are combined to obtain one common index of water quality.
+In the study of surface water quality in water chemistry, different types of indices can be developed and used based on the assessment of water use goals, which will reflect the climatic conditions of the area, the types of pollution.
+ In addition, the choice of hydrochemical indicators included in the calculation of the index is very important, which also depends on the purpose of the assessment, the requirements of the field of application of the index, the characteristics of the water body, etc.
+ That is why they have a complex structure, they are special for the given country.
+Comprehensive assessment of the level (or quality) of surface water pollution is a set of sequential actions aimed at obtaining certain information on the level of water pollution or its quality by characterizing water composition, based on the objectives of water use [water consumption [6-10].
+All the schemes of classification of surface water quality developed in the environmental protection system of the EU countries are based on the application of physical, chemical and biological methods and differ significantly in their approaches [10].
+  Currently in Armenia, in particular, at YSU Chair of Ecological Chemistry, a number of indices are used to assess the quality of surface water pollution: the Water Pollution Index (WPI), the Malaysian Water Quality Index (JOMI), the Oregon Water Quality Index (WTO), Index (TSI) և Water Quality Combinatorial Index (TAP) [3-6].
+Index methods make it possible to classify the water quality of a water body by value, to compare different parts of a given watercourse or that watercourse with another watercourse.
+ Water quality is usually divided into 5 classes, depending on the value of the given index այից classification scheme [1, 9, 10].
+Table 1. Water quality classes depending on water pollution index. Category 1, clean 1, clean 2, lightly polluted 3, polluted 4, dirty 5, extremely dirty. information index [11].
+The quantitative aspect of chaos և regulation in the structure of discrete systems is characterized by static thermodynamics or traditional information theory.
+  In both cases, entropy is used as a measure of chaos.
+ In thermodynamics it is L. It is Boltzmann entropy, which statistically expresses the second principle of thermodynamics դեպքում has a theoretical value in the analysis of molecular groupings.
+ And in information theory, K. Shannon entropy, which also serves as a measure of the amount of information that is transmitted through technical communication channels in the form of sign messages.
+  The structural regulation of the system, in turn, is also assessed with the help of entropy, but with the opposite sign.
+ In short, it is accepted that chaos (entropy) and regulation (information) are equal, but are opposite to each other.
+All this speaks to the fact that additive syntropia-I∑ ոպ entropy-S are considered the synergistic means of information chaos of structural regulation և chaos.
+In the synergistic information theory, the so-called R-function is used as such a function, which is the Centropia-Centropion ratio [4].
+That is, the values ​​of the R-function indicate which chaos or regulation prevails in the system.
+ Thus, if R> 1, then the structure of the system is dominated by regulation, and otherwise, when R <1, chaos prevails.
+  In the case of R = 1, chaos և regularities balance each other, և the structural organization of the system is considered balanced.
+The synergistic information index, R, has been used for various systems found in nature և in society, such as mines [3, 4], the electronic structure of atoms of chemical elements, spider webs, literary works such as quartets, and parliamentary elections [4, 5]. proteins [5, 12] և DNA molecules [12] and hydroecological systems [11].
+Ecological systems can undergo both increasing and decreasing entropy processes.
+ Then the ecosystem is distributed in such a way that in one place the entropy increases and in another place it decreases.
+ But in general, the system does not lose its regulation.
+Regulation of the ability to reduce the capacity of the system is explained within itself as the ability to accumulate syntropia.
+ The law of energy և information maximization has a great role in the development of the ecological system: the system always strives to make maximum use of the absorbed energy ֆորմinformation, which ensures its stability և competition.
+  Elements of the system in hydro-ecosystems can be hydrochemical indicators: floor sediments, chemical composition of water, physical parameters, trophic level of the basin, unique physical-geographical conditions of the given basin.
+ Pollution of the water system can be presented as the allowable concentration - a system of hydrochemical indicators exceeding the MAC.
+1. The number of exceedances of the MAC of each indicator is determined: m2. The total number of MAC exceedances is estimated: M = ∑m3. The product is calculated: m log2m4. The amount is determined: ∑ m log2m5. The syntropy is calculated: I∑ = logmlog2m / M6. The entropy of reflection is calculated: S = log2 M - l∑7. The R-function is determined: R = I∑ / S.
+The aim of the work is to use the synergistic information index to assess the water quality of the Arpa River.
+Arpa originates from the overflowing springs of Zangezur և Vardenis.
+In the upper stream, the river is slow-flowing, but before reaching Jermuk sanatorium, it becomes fast-flowing, breaking through the mountain slopes of Vardenis, and falling into a deep forested gorge.
+  Inside Jermuk, Arpa flows in coils; the process sometimes continues fast, sometimes slowly, until the village of Areni.
+ In the lower reaches, the Arpa is divided into many large and small streams, and during the summer months it is fully used to irrigate fields and gardens.
+ It flows into Araksimej in the territory of Nakhichevan Autonomous Republic.
+  It is 126 km long, flows 36 km through the territory of Sharur province and flows into the Araks River.
+  The water of this left tributary of the Araks mainly irrigates the agricultural areas of the Sharur plain.
+  The length of the river is 128 km.
+Water consumption is 21.2 cubic meters per second.
+  The location of the Arpa River observation points is given in Table 2.
+Table 2. Location of Arpa River Observatory Location of Observatory Number Location of Observatory 0.5 km 0.5 km above Jermuk. 0.5 km above Vayk. 0.5 km below Vayk. 0.5 km above Yeghegnadzor. 0.5 km below Areni. Below Shatin և For example, at 85 observation points on the Arpa River, the concentrations of V, Al, Mn, NO2 և Se exceeded the MAC 11, 11, 2, 2 և 1, respectively.
+In this case, the number of indicators exceeding the MAC will be N = 5, and the total number of exceeding the MAC will be M = 27.
+Corresponding calculations և The values ​​obtained are given in Table 3.
+Table 3. Synergistic information index of pollution of 83 points of Arpa river. Polluter IΣ = Σmlog2m / M = 80.
+27 = 2.9627 S = log227-3.22 = 4.76-2.9627 = 1.7973R = 2.9627.
+1,797 = 1,6484 Synergistic information index of Arpa River pollution Table 4. Observatory As can be seen from the data in Table 4, the value of the synergistic information index in all observation points of Arpa River is greater than one, which indicates that the water of Arpa River is not polluted.
+Literature 1. Margaryan L., Pirumyan G., Index-electronic models for complex determination of surface water quality, teaching-methodological work, Yerevan, 2011, 40 pages.
+2. Chilingaryan L., Mnatsakanyan B., Aghababyan K., Tokmajyan H., The hydrography of the lakes of the rivers of Armenia, Yerevan, 2002, 49 pages.
+4. Vatkin V., Synergetic theory of information.
+  General Characteristics and Examples47 (1), http.
+//ej.kubagro.ru/2009/03/pdf/8.pdf.гия.
+ Problems and Solutions, 2008, № 3, p. 57-64. "Ecological safety and natural use.
+  science, innovation, management ", Sirvard Hakobyan SYNERGY INFORMATION INDEX APPLICATION OF ARPA RIVER WATER QUALIFICATION Keywords: Arpa River, synergistic information index, water quality.

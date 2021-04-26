@@ -1,0 +1,102 @@
+CHARACTERISTICS OF CRIMINAL RESPONSIBILITY OF LEGAL ENTITIES IN THE FORM OF DISSOLUTION AND DETERMINATION CASES
+The Republic of Armenia is one of the few countries in the world that has not fixed not only the criminal, but also its administrative responsibility of a legal entity by domestic legislation.
+ In particular, Article 23 of the current Criminal Code of the Republic of Armenia stipulates: "Only a sane natural person who has reached the age defined by this Code at the time of committing a crime is subject to criminal liability."
+It is obvious from the above that the criminal liability of a legal entity was not envisaged by the legislator, based on the whole of the traditional notions of guilt in criminal law.
+ International practice, on the other hand, proves that prosecuting individuals within legal entities not only does not in any way affect the legal person, but also does not reduce the public's trust in the legal person1.
+In any case, many crimes that are widespread in the modern world, such as corruption crimes, money laundering, even make it imperative to criminalize legal entities.
+  The issue of criminal liability of legal entities becomes imperative 1 See OECD- LIABILITY OF LEGAL PERSONS FOR CORRUPTION IN EASTERN EUROPE ANDCENTRAL ASIA (2015).
+It is also related to international treaties, which require states that ratify them to enshrine the liability of legal entities at the level of domestic law.
+Let us bring some examples.
+Article 2 18 of the Convention on Corruption, adopted by the Council of Europe, stipulates that each party must adopt such legislative and other measures as are necessary to ensure that legal persons are held accountable for active bribery and abuse of money under the Convention. for money laundering crimes committed in their favor.
+Article 3 26 of the Convention against Corruption, adopted by the United Nations, also lays down rules on the liability of legal persons, in particular that each State Party shall take measures which, in accordance with its legal principles, may be necessary for offenses covered by this Convention. To establish the liability of legal entities in case of participation, moreover, the liability of legal entities can be civil, criminal or administrative.
+ Each State Party shall ensure that effective, proportionate and restrictive criminal or non-criminal sanctions, including judicial sanctions, are imposed on the responsible legal entities.
+Similar provisions are laid down in Article 4 2 of the Convention against Corruption of Foreign Officials in International Business Transactions, according to which each party must take measures in accordance with its legal principles to establish legal persons liable for bribery of a foreign official.
+2 See Criminal Law Convention on Corruption (27 January 1999, Strasbourg).
+ It entered into force for Armenia in 2006. since May 6.
+3 See Anti-Corruption Convention (December 14, 2005, New York), entered into force in Armenia in 2007. on April 7.
+4 See Convention on Combating Bribery of Foreign Public Officials in International Business Transactions, (Adopted by the negotiating conference 21 November 1997).
+  Internet link: http.
+// www. oecd.org/dataoecd/4/18/38028044.pdf.
+Realizing the clear necessity of criminal responsibility, the draft of the RA Criminal Code envisages criminal liability for a legal entity as well, defining the peculiarities of criminal liability of legal entities in separate articles.
+  According to the draft version of the RA Criminal Code, a comprehensive solution has been provided to many issues identified in international practice, related to the model of criminal responsibility, the circle of responsible persons, the means of responsibility, etc.
+In any case, in our opinion, both in international practice and in the draft Criminal Code of the Republic of Armenia, there are several issues related to the dissolution and division of a legal entity that need to be discussed.
+ Thus, the draft Criminal Code of the Republic of Armenia stipulates the following: Article 137. Restrictions and prohibitions related to criminalizing a legal entity1. Upon the entry into force of the court verdict, the voluntary liquidation or reorganization of the legal entity is prohibited.
+  Execution of such a transaction or several related transactions by such a legal entity (except for those transactions, the execution of which is mandatory according to the legislation of the Republic of Armenia), which may lead to the acquisition of more than twenty-five percent of assets determined directly or indirectly. alienation of property in that amount can be carried out only with the permission of the relevant state body executing the punishment.
+The prohibition of liquidation or reorganization within the framework of the above-mentioned regulations is envisaged from the moment the indictment enters into force.
+  In our opinion, in the presence of such a provision, certain problems may arise in cases where the legal entity is dissolved or reorganized before the indictment against the legal entity enters into force.
+The German model can be considered internationally accepted, in case of which the legal successor of several legal entities created as a result of division is responsible, which is economically identical to the previous one (Gasselschafts-identität) 5.
+  The existence of this criterion is always decided by the court, showing an individual approach.
+  Certain factors, such as the legal succession, the composition of its former shareholders, etc., are not essential.
+ The peculiarity of this approach is that instead of paying attention to specific circumstances, the latter focuses more on economic content.
+ In any case, the terms "economically identical", "economically similar" այլ other terms in this series do not have a specific interpretation in domestic law և in international law, which not only contradicts the principle of certainty of a legal act, but also allows for a wide range of interpretations.
+  It is natural that depending on the criteria underlying these concepts, the solution of the issue of liability of the legal entity will be different.
+Commenting on this issue, the Chamber of Civil Cases of the Supreme Court of Estonia noted that in the context of the interpretation of concepts, first of all, the concept of "organization" can be revealed, as a set of money, related rights and responsibilities.
+ When an organization commits a crime, it is necessary to find out who has benefited from it.
+ Accordingly, it is clearly decided that the organization should be held accountable.
+It is quite reasonable to envisage the identity of the organization as a criterion of responsibility.
+  But what matters most is what underlies the identity.
+  Often the activities carried out are based on identity.
+ That is, if a legal entity has several successors, one of them is liable, who continues to carry out the type of activity that the former legal entity.
+  This settlement, no matter how progressive it may seem, raises a number of questions.
+  What should be done in case none of the legal successors իրական carries out the activities of the previous one?
+ Is it possible to claim in this case that the subject of responsibility is absent due to the lack of identification criteria?
+  Or how fair is it that one of the successors should be held accountable and not the one who passed? 5 See link: http.
+//www.juridicainternational.eu/public/pdf/ji_2010_1_243.pdf.
+most of the capital of the former, but one that is less connected with the former, but carries out the same activity.
+It is obvious that in case of such a settlement it becomes easier to avoid criminal responsibility.
+  It is enough that the legal successor organization refrains from carrying out the activities as the previous one, չի it will not be possible to identify the latter.
+The largest group of theorists proposes to choose capital as a criterion, that is, to hold accountable one of the legal successors to whom most of the previous capital has passed.
+  In this case, the legal entity is liable on the basis of the following formula.1. There is a legal succession.
+2. The capital of the legal entity that committed the criminal act was transferred to the legal successor.
+3. The amount of transferred capital is clearly determinable.
+4. The transferred capital constitutes the share of the successor's capital.
+Point 4, which seems strange at first glance, is actually designed to ensure the effectiveness of a legal entity's criminal liability.
+  How expedient is it to prosecute the legal successor, in whose capital the transfer of a criminal legal entity is a small part?
+Moreover, each of the forms of division brings with it its own problematic questions.
+  There are two main types of division in the legal literature.
+1. A legal entity ceases to exist, կամ 2 or more legal entities appear in its place.
+  In patriotic law, the concept of "division" corresponds to this horse.
+2. The dividing organization is preserved, one or several new organizations are separated from it.
+ In domestic law, this form of reorganization is defined as "separation."
+The peculiarity of the first horse is that the legal entity that committed the crime ceases to exist.
+ In case there is only one legal successor, the issue is very easy to solve ․ In the sense of patriotic law, this is not even a division, but a reorganization.
+ If in the case of a natural person the transfer of criminal responsibility in the order of his succession seems absurd, the same cannot be asserted in the case of a legal person.
+ A legal entity is an organization with separate property, which is responsible for that property, so when the property is transferred, the responsibility is also transferred.
+ The division into 2 մաս parts is a bit problematic.
+ If we apply the identification model to this case, the legal successor who received the largest share of the capital should be prosecuted, but if the legal entity is divided into tens or even hundreds of parts, each of which receives an equal share of the capital, it becomes inexpedient to prosecute them.
+ This method can be used effectively as a way to avoid responsibility.
+In case of separation, joint and several liability is usually envisaged, and the relations between the legal entity and its separate parts related to liability are regulated by their internal agreement.
+ In the case of segregation, the implementation of a compulsory solution as a form of punishment becomes more controversial.
+  The question arises as to which legal entity should be forcibly liquidated.
+  The fact that the issue is not regulated by law is, in fact, left to the discretion of the court in each specific case.
+Let's try to clarify the issues raised in the context of the proposed regulations in the RA Criminal Code.
+ First, Article 64 of the RA Civil Code stipulates.3. In case of division of a legal entity, its rights ևThe responsibilities pass to the newly emerged legal entities in accordance with the dividing balance sheet.
+4. In case of separation of one or several legal entities from the legal entity, the rights and responsibilities of the reorganized legal entity shall be transferred to each of them in accordance with the dividing balance sheet.
+In line with this, the above-mentioned point 2 of Article 137 of the draft Criminal Code of the Republic of Armenia defines the following.2. In case of voluntary liquidation or reorganization of a legal entity before the court verdict is rendered, the court imposes a penalty on it; the property of the legal entity or a part of it, in proportion to the amount of the received property, if it is proved that the legal successor of the legal entity or the mentioned persons knew or should have known about the crime committed by the reorganized or liquidated legal entity or, if it is proved,
+The draft Criminal Code of the Republic of Armenia proceeded in the way that provided for the liability of a legal entity based on a dividing balance sheet.
+ The approach is fair և much more promising than the internationally accepted model of holding only one of the legal successors accountable.
+  Moreover, liability is envisaged not only for legal successors, but also for other persons, to whom property has passed from a legal entity.
+ The following questions may give rise to controversy here.
+1. If the property belongs to a natural person, is not criminalizing the latter a violation of the principle of subjective guilt?
+ Of course, if a person realizes that by acquiring such property, he contributes to avoiding the responsibility of a legal entity, then, in fact, there is a certain corpus delicti in his act.
+  But in our opinion, causing a conviction for a natural person who negligently cooperated with a legal entity who committed a crime is not based on the principle of humanity at all.
+2. How should it be proved in practice that a legal entity has been liquidated in order to avoid punishment?
+3. If a person has been liquidated for that very purpose, but in circumstances where none of the legal successors knew or owed to be unaware of the previous offense, which entity should be prosecuted for the purpose of restoring social justice?
+4. If a person is divided into several successor organizations, և according to the dividing balance sheet, a small part of the capital is transferred to each of them, can their criminal liability ensure the realization of the goals of the punishment, especially the positive deterrent goal?
+Summarizing the difficulties in liquidation or division, both at the "international level" and in the domestic legislation, we offer the following option with the solution of the raised problem.
+  According to him, the legal entity, as a special subject of criminal liability, presupposes the specificity of the precautionary measures to be applied to it.
+  In other words, the provision of precautionary measures in line with the essence of the legal entity will not cause confusion, will contribute to a simpler and more comprehensive settlement of the issues related to the latter.
+ It is not difficult to notice that at the root of all these problems is the fact that the dissolution of a legal entity is possible before the verdict enters into force.
+  If we move the ban on liquidation of a legal entity to earlier stages of the proceedings, it will be possible to avoid all the problems that arise in the event of liquidation or reorganization of a legal entity.
+ Since the restriction of the exercise of the rights of the suspect / accused to the entry into legal force of the judgment made by the court is possible through the application of precautionary measures, let us try to consider the solution of the problem from that point of view.
+Article 135 of the Criminal Procedure Code gives the concept of a precautionary measure. "Precautionary measures are coercive measures applied to a suspect or accused person in order to prevent their misconduct during criminal proceedings and to ensure the execution of a sentence."
+ This means that, if necessary, the restriction of certain rights is allowed at other stages of the proceedings.
+We propose to envisage the following precautionary measures for a legal entity: 1. dissolution ban, 2. Seizure on the separated property of a legal entity.
+The first option makes it possible to exclude any problem related to legal succession պահ from the moment of initiating the case ունենալ to having the same suspect / accused.
+ This, in fact, excludes the emergence of all the issues that have been raised within the framework of this work.
+ The second option does not preclude the dissolution of the legal entity, but makes it inexpedient, as the seized property will serve the purpose of the sentence in one way or another; the legal entity or its successors will use only the means that will remain after the execution of the sentence.
+ The peculiarity of this measure is that it does not become possible to get rid of the property that should serve the purposes of punishment.
+ The need to find out to whom the property passed, in what way, whether the person is a bona fide acquirer or not, disappears every time.
+ In this connection, the situations when the rights of the bona fide acquirer are threatened with violation are eliminated.
+We believe that envisaging such solutions will significantly facilitate the work of the body administering justice, speed up the trial process, ensuring a speedy investigation and efficiency.
+Marianna Grigoryan CHARACTERISTICS OF CRIMINAL RESPONSIBILITY OF LEGAL ENTITIES IN ORDER OF DISSOLUTION AND DIVISION Keywords: legal entity, criminal liability, classification

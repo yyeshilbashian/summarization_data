@@ -1,0 +1,61 @@
+METHODS OF SYMMETRIC DEFINITION OF ELECTRONIC SYSTEMS IN ELECTRONIC SYSTEMS INTRODUCTION Introduction.
+Various current noises in semiconductors and semiconductor devices are conditioned by random processes.
+ Despite many years of theoretical and experimental studies, the common mechanism for the occurrence of low-frequency current noise remains undiscovered (eg [1]).
+The main causes of noise are fluctuations in the mobility of conducting electrons (
+model), which is a reversal of the quasi-pulse relaxation time of the electron (
+-source) էներգ saturation of the energy levels of the communication zone (
+-source) of fluctuations [2-5].
+-fluctuation consists of thermal (inbound dispersions) Gaussian և non-thermal (generation-recombination և etc.) non-Gaussian components [3].
+  It is this duality that allows us to find a connection between the "noise" of mobility fluctuation, which also has Gaussian-non-Gaussian dual properties.
+The unbalanced distribution function of the electronic system.
+Symmetric և Asymmetric Deviations A quasi-classical but և more general approach to the study of random processes is the study of the distribution function of a multiparticulate system.
+An electron system deviating from the equilibrium state is described by the particle unbalanced distribution function 1 / f1 / f% k% nk% nk% 1 / f, where time is, - is the quasi-wave vector of the electron, - is the radius vector.
+ Considering that does not depend on, let's write it in the form.
+ In case of small deviations (fluctuations) from the equilibrium state, the unbalanced distribution function can be represented as the sum of the fluctuation function of the equilibrium distribution function և the equilibrium function.
+is generally the Fermi-Dirac distribution function;
+ Fluctuation can be represented by the sum of symmetric և asymmetric components:
+[4] The work shows that the asymmetric fluctuation of the distribution function is due to the fluctuation of the current density, and the fluctuation of the mobility is due exclusively to the symmetric fluctuation of the distribution function.
+In the case of the study of the fluctuation of electron mobility, in fact, in the case of symmetric deviation from the equilibrium state, the equilibrium distribution function can be represented as the sum of the symmetric component of the equilibrium distribution function շ the equilibrium distribution function.
+Obtaining the temporal dependence equation of symmetric fluctuation of the equilibrium distribution function in the case of electron-acoustic phonon scattering scatterings
+  In this case we have the well-known dispersion relation, where is Planck's constant constant, where is the effective mass of the electron, and given is the modulus of the quasi-wave vector.
+  Given the dependence on (3.1), (2.5) can be represented as follows:
+Suppose that the electronic system of communication is fluctuating from the state of equilibrium by the influx of inbound electrons.
+To obtain the temporal dependence equation of the symmetric fluctuation of the equilibrium distribution function, let us use Boltzmann's quasi-classical kinetic equation.
+  As is well known [6-8], the scattering integrals of the Boltzmann equation are given as follows, where են is the rate of transition from state to state of the electron corresponding to the quasi-wave vector, respectively.
+ Such transitions take place by the absorption or release of phonons.
+ In particular, in the case of the electro-acoustic phonon scatterings we observe, the transition rates are given in the following ways: potential, is the quasi-wave vector of the phonon (
+is the modulus of the latter), is the function of the balanced distribution of phonons, is the Cronaker deltas, which express 222 nkmekhhnmk () ek00, sfffeeekkk%  (,) (1) (,) (1) collffPffPft (Kkkkkkkkkkk (,) Pkk (,) Pkkkkkk200,, 0200,, 02 (,) ( ) (1) (), 22 (,) () (1) (), 2acqqqqacqqqqDPqggVvDPqggVvpeeeepeeee kkkkqkkkkqqkkkkqkkkkkqqkkkkhhhhhhhhhV0vacDqq0qg, kkq are the law of conservation of the quasi-pulse, - the frequency of the phonon, and the members of the Dirac delta functions are absorbed or energized respectively.
+ The law of conservation of energy is given by direct delta functions.
+The phonons are distributed by Bose-Einstein.
+By placing the expressions (3.4) in (3.3), then considering the relation (3.1), using the known transition [6-8], the Boltzmann equation will be written as follows: where the assignment was made.
+ Note that when writing transition (3.6) in this way, we ignored the phenomena caused by the change in the electron spin due to scattering.
+ The integration is done according to Brulene's first zone.
+Perform a linearization of equation (3.7), assuming that the condition is local.
+ In this case (3.7) will be written as the unbalanced distribution function as (3.2).
+We have: qqmh10exp1qqBgkTh3 (...) (...) 2BZVdpkk 00,00, (1) (1) (1) () (1) (1) (1) (), qqqBZqqqfBdqgffgfftqgffgffeeeeeeeeeeeeee 30kkkkkkkkkkkkkqqkkkkqkhh2302acDBvpp1,1kfffeeekk% == 0,0, () () ().
+qqBZqqfBdqgffftqgfffeeeeeeeeeeekkkkkkkkkkkkqkkkkkhhh00, s0, sfffftttteeee kkkk %% and in the subintegral expression on the right-hand side of equation (3.10) the following transformations take place. .
+                       (3.15) To perform the integration, let's analyze the delta functions in a series:
+ (3.17) Here the suffixes are made according to.
+Accepting the condition, let us analyze the series [7].
+We have it: 0000, s00, s00, s, 000000, s0, s0, s000000, s0, s0, s00111 %Kkkkqkqkkkqkqkqkkqkkkqkqkkqkkqkkkkq %%%%%%%%%  0000, s00, s00, s, 000000, s0, s0, s000000, s0, s0, s00 () 1111qqqqqqqqqgfffgffffffgfgfgffffggfgfffgfeeeeeeeeeeeeeeeeeeee %Kkkkkkqkkkkkkqqkkqkkqkkkkkkkkk% %%%%%%%%% 00exp, expqBBFFffkTkTeeeekkqkkmh0000000011101qqqqffgggfgfeeee kqkqkk0, s00, s0, s0, s, 00, s0, s0, s, () ().
+qqBZqqfBdqgffftqgfffeeeeeeeeeeekkkkkkkkkkkkkkkkkkkk %%%% h %%% h21 ( ) () () () 2qqqeeeeeeeeeekkkkkkkkkkhmhmhhekqBkTh = 0qg012BqqkTgh (3.17-19) By placing the expressions in (3.16), performing the corresponding mathematical operations, we get:
+Given the relation և (3.1), let's go from the integration according to the integration according to the -նHereWe alsoև է is the angle between the և vectors։.
+            (3.22).
+   (3.23) By placing the expressions (3.21-23) in (3.20) we get .0 qvq0, s0, s0, s020, s0, s020, s0, s02 () () () .
+BBZBZBBZfkTBdfftvBvdqffBvkTdqffeeeeeeeeeeeeeeeeekkkkkkkkkkkkkkkkkk %%% h %% h %% h2200sinBZBZdkdkddpp kkek3 / 2230002sin2nBZmddddppeekkkhkk222222cos2cosnmqkkkkeeee kkkkh3 / 20, s20, s0, s300005 / 22050000, s0, s5 / 20522sin () 222cos2sin () 22c2nBnnBfmkTBffdddtvmBvffdddmBvkTppeeeppeeeeeeeeeeeeee eeeekkkkkkkkkkkkkkkkkkkkkk %%% hhhh %% hh 20000, s0, sossin ().
+ffdddppeeeeeeekkkkkkkk %% It is obvious that the first integral of the right part of the equation in expression (3.24) is equal to zero.
+ To perform the other two integrations, we use the following property of the delta derivative property. As a result of the integration, we get:
+                  In the expression (3.25) (3.26) we mean to replace the variable:
+As a result, for the temporal change of the equilibrium fluctuation-symmetric component of the distribution function, the following equation is obtained:
+   (3.29) As we see, the obtained equation is a differential equation with parabolic type-variable coefficients.
+  It is a special case of the Fokker-Planck equation.
+It is obvious from the basic physical notions that the following condition occurs: It is obvious that the equation (3.29) obtained in the case of inward scattering must also satisfy the condition of maintaining the electron concentration.
+  The analysis shows that what has been said will happen.
+ () () () () 1nnnxnxyfxfxxydxx5 / 20, s0, s0, s055 / 20, s20, s0522822282.
+2nnBffmBvftffmBvkTeeeeepeeepeeeekkkkkkkkkkkk %%% hh %% hh5 / 22422nacBmDkTphBxkTeekk 0, s20, s0, s3 / 23/21/21/20, s2 (,) 22fxtffxxxxftxx %%%% 0, s, (, ) 0xtfxt % In case of small symmetric deviation from the state of thermal-thermal equilibrium with intrinsic scattering on acoustic phonons For the temporal variation of the symmetric component of the equilibrium fluctuation of the function, we obtain Equation (3.29).
+ The symmetric component of fluctuation expresses the energy fluctuation of electrons [4], and the resulting equation is a special case of the Fokker-Planck equation.
+It should be noted that the above approach is applicable in the case when the small deviation from the balance of the electronic system is conditioned by generation-recombination processes.
+Obtaining the analytical solution of equation (3.29) satisfactory to the physical conditions is a rather difficult task from a mathematical point of view.
+ The solution of the equation will further reveal the temporal patterns of the transition from the unbalanced state of the electronic system to the equilibrium state, as well as to obtain a number of results for the quantities characterizing the electronic system.
+The resulting equation is important, in particular, in the study of electron mobility ության mobility fluctuations.
+Literature Tigran Zalinyan REMOVALS OF BALANCING OF SYMMETRIC DEFINITIONS IN ELECTRONIC SYSTEMS IN SEMICONDUCTORS Keywords: semiconductor

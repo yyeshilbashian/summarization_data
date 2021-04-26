@@ -1,0 +1,65 @@
+Sci. Head: Ph.D., Ph.D., Assoc. R. Gorgyan 2009 The aftermath of the global financial crisis forced changes to Basel 2.
+  As a result, Basel 3 was created, one of the main features of which is the use of anti-crisis buffer.
+  It is proposed to increase the capital reserves of banks in the run-up to crises in order to deal with crises in the future.
+  The pre-crisis period is mainly marked by the growth of loans, which can serve as a signal to recognize crises.
+The main purpose of the anti-cyclical capital buffer is not only to ensure the financial stability of individual banks during crises, but also to enable the maintenance of lending to the real economy during the crisis without endangering the financial stability of banks.
+As capital is considered to be a relatively expensive way of financing the bank's assets, the creation of capital buffers in non-crisis conditions will lead to an increase in lending costs, an increase in loan prices, which in turn can curb growth in lending during a period of rapid economic development.
+Basel 3 proposes to take loans / GDP gap 1 as a signal indicator, which is calculated as (loans / GDP) * 100%-loans / GDP trend.
+ The trend is calculated using the Hodrick-Prescott filter with a smoothing parameter of 400,000.
+  The indicator does not exceed the 2 threshold value, the buffer size is set to 0.
+ The buffer is calculated as the risk weighted assets.
+  If the credit / GDP gap is in the range of 2-10, the buffer size fluctuates linearly between 0-2.5%.
+  In the case of a value greater than 10, the buffer size is 2.5%.
+ It is supposed that the crisis starts 2-3 years after the signal appears.
+  Naturally, the buffer should be used within 712 quarters after the signal appears, to strengthen the banks' ability to withstand expected fluctuations before the onset of the crisis.
+In the work, an attempt was made to estimate the size of the buffer for the Republic of Armenia and measure its efficiency in case of using different indicators.
+  The results show that the Loan / GDP gap proposed by Basel 3 cannot serve as a predictor of crisis situations for Armenia.
+ Let's discuss the indicators separately.1. Loans / GDP gap calculated according to the methodology proposed by Basel 3.
+  According to Figure 1, the crisis in Armenia should have started in 2003, as the credit / GDP gap exceeded the threshold of 2 values ​​in 1996-2001.
+  Meanwhile, in 2003 The financial system of the Republic of Armenia has been stable.
+ The shocks took place in 2009, but the model did not register an increase in the credit / GDP gap 7-12 months ago.
+As a result, there are both first-class (non-alarm crisis) and second-class (false crisis alarm) errors in the model.
+Line 1. Loans / Quarterly GDP gap for Armenia 1996-2014.2. Loans / GDP gap, where instead of the HP trend, the equilibrium level of loans / GDP calculated by us through the ARDL model is taken as a long-term trend.
+With some deviations / see line. 2, blue և red line comparison /, the results repeat the results obtained in the case of the HP filter, so the above conclusions are correct in this case as well. The indicator cannot be used as an indicator for calculating the anti-cyclical buffer.
+3. Then an attempt was made to take the 12-month credit growth gap as a factor predicting crises.
+ The credit growth gap was calculated using the HP trend.
+  Figure 2 shows that the growth rate of loans begins to sharply exceed the trend 7 quarters before the onset of the crisis.
+  However, the growth rate of loans (or to a lesser extent than before the crisis) exceeded the trend in other periods as well.
+  Which proves that the growth rate of loans can also not be used to calculate the anti-crisis buffer.
+Line 2. Deviations of more than 2% from the trend of the indicators selected for the calculation of the anti-crisis buffer.
+4. The 12-month credit growth gap from the long-term trend was also calculated by taking the 12-month growth rate of the optimal level of loans calculated by us through the ARDL model as the long-term trend instead of the HP trend.
+  Figure 2 shows (purple line) that the model shows the largest deviation from the trend during the crisis, predicting a crisis after the actual crisis, which does not correspond to reality.
+ Therefore, this indicator can also not be used to calculate the anti-cyclical buffer.
+The above analyzes showed that loans / GDP և loan growth rate gaps could not be used as indicators for calculating Armenia's anti-crisis buffer.
+This phenomenon can be interpreted by the fact that Armenia is not connected with the global financial markets, therefore the impact of the global financial and economic crises on the Armenian financial system can not be expressed by a biased change of internal variables.
+However, when predicting crises from abroad, the factors that directly depend on foreign countries can be a signal for Armenia.
+ Transfers have been considered as such in the present work.
+  The retrospective analysis of the crisis situation shows that the volume of loans is growing in the country of origin of the pre-crisis situation.
+ As the financial and economic systems of developed countries are interconnected, the emergence of a crisis in one country leads to a chain of crisis situations in other countries, and therefore to the growth of loans in those countries on the eve of the crisis.
+In turn, the growth of foreign loans leads to an increase in the current well-being of borrowers.
+  In the conditions of the large-scale Diaspora of Armenia, this is equivalent to the short-term enrichment of our compatriots abroad (Armenians who have taken loans abroad), which also leads to an increase in remittances sent home.
+  Therefore, it is logical to expect that the sharp increase in remittances can be a signal of a crisis.
+Figure 3 confirms our assumption.
+Line 3. Deviation of RA transfers from the trend in 2003-2015. On a quarterly basis, the European Central Bank proposes to use a combination of a number of signal indicators to predict the crises threatening the financial system1.
+  The indicators are divided into two groups: local և global.
+ They include both credit sector (credit growth, loans / GDP gap) and macroeconomic monetary (nominal GDP growth, CPI, real estate prices), banking sector profitability and liquidity variables.
+B200 Log-1
+Prob (Yt = 1) means that the country is in an unstable state, և the crisis can occur 7-12 quarters after the period t.
+ We give one value to the dependent binary variable 7-12 quarters before the beginning of the crisis և 0, otherwise.
+  Xt is the vector of independent variables predicting the onset of the crisis.
+It is supposed that the crisis appears 7-12 quarters after exceeding the threshold.
+2 models have been built for the Republic of Armenia. In the first case, loans projected by the ARDL model (GDP gap և monthly inflation / 5th lag) were taken as explanatory variables.
+From here, by putting the value of the explanatory moment t in the equation, we will get the probability that the Republic of Armenia is in a pre-crisis state at the moment t.
+  Results in Appendix 2.
+Then the threshold value of the probability is selected, which minimizes the first and second orders, from which the highest probabilities are given the value of 1, and the lowest - 0.
+ As a result, the periods with a value of 1 according to the model predict a crisis after 7-12 quarters.
+  From that period, the buffer must be used in the banking system of the country.
+In the second model, real estate prices were taken as explanatory variables րանս transfers (seasonally leveled, 2nd lag was taken).
+The value of the probability threshold value for Armenia was conditionally given 0.2; The value is 0.4 or 0.8.
+ The probability exceeding the threshold value is given one value, otherwise 0.
+Appendix 2 shows that the second model can predict the risks to the financial system at any probability threshold.
+  And the first model more accurately predicts the crises of the financial system of the Republic of Armenia in case of 0.4 or 0.8 threshold values, and in case of 0.2 threshold value repeats the results of the second model.
+ These models do not allow for second-degree errors, predicting crises where they have not occurred.
+ Therefore, both models can be used to predict the threats to the financial system of the Republic of Armenia, taking into account that the first model is milder and the second more severe.
+In Armenia, as a crisis forecast indicator, it is recommended to use remittances from abroad to Armenia (unlike developed countries, where crisis forecast loans / GDP gap index) or multidisciplinary models are used.
+Anahit Kechejyan THE NEED FOR USING ANTI-CRISIS CAPITAL BUFFER IN RA Keywords: anti-crisis capital buffer, HP filter, transfers, Binary Logit model.

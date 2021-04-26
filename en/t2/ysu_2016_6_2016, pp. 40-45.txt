@@ -1,0 +1,129 @@
+THE ECONOMY OF THE REPUBLIC OF ARMENIA IN THE FRAMEWORK OF THE CUSTOMS UNION Currently, the most thoroughly studied term within the framework of the neoclassical theory of economic integration is the customs union (hereinafter referred to as the Customs Union).
+  The main features of the CU are: վեր Elimination of customs duties against member states, սահմանումը Establishment of import duties on the rest of the world, բ Distribution of customs revenues between member states հի on the basis of an agreement reached in advance.
+ The orthodox theory of the Customs Union analyzes the impact of CU formation on the distribution of resources through the effects of trade creation and trade diversion.
+The creation of a trade defines the transition from the consumption of relatively expensive domestic goods to the consumption of relatively less expensive goods in a partner country.
+The above change should be viewed from two perspectives: կրճատ reduction of domestic production of goods due to increased consumption of similar և homogeneous goods imported from a partner country; մեծ increase of consumption of goods imported from the partner country փոխարին replacing domestic production due to lower import costs.
+The first leads to the effect of production, which implies a reduction in the real cost of production of goods previously produced in the country.
+  In other words, the country spends less on acquiring a certain volume of goods imported from partner countries compared to the option of producing the same volume of the given product with its own means.
+ The second leads to the effect of consumption, which represents the surplus of the consumer due to the choice of a less costly option to meet the needs.
+ The effect of trade creation is calculated by the following formula: ε = import price demand, T = percentage change in import prices due to the abolition of customs duties, the relative value of goods imported from MCU = CU countries in Armenia's total imports.
+Trade deviation characterizes the change of the source of import within the CU, the transition from another low-cost external source to the most costly source of the partner country.
+ This effect should be viewed from two perspectives: • an increase in the cost of purchasing goods compared to the previous one due to the replacement of less expensive external sources of import with more costly sources of a partner country (ies);
+The trade deflection effect is calculated by the following formula: MROW = import level from the rest of the world, s = replacement elasticity coefficient.
+ Partial equilibrium model 2.
+ There are only 3 countries: A, B և C, և The relatively small country A forms a customs union with country B.
+ Customs Tariffs 1 See Robson P., The Economics of International Integration, 4th Revised Edition, New York, 1998, p.
+2 See Jovanovic M., The Economics of International Integration, Northampton, 2006, pp. 32-42.
+are the only tool of the policy. There are no non-tariff barriers.
+  Customs duties are levied on an ad valorem basis in all the above countries, so the price of the imported goods (Pmt) for the consumers of any country consists of the price of the imported goods (Pm) և the customs duty (t). Pmt = Pm (1 + t), where t The markets for goods, services and resources are perfectly competitive.
+  All goods։ services are homogeneous և Consumers make purchasing decisions based on price differences.
+  The country produces this or that product based on the differences in the prices of its own resources (relative abundance) in comparison with other countries.
+ There are no commercial expenses.
+The partial equilibrium model considers a single product market.
+ Suppose 3 countries produce the same product, but with different levels of efficiency. Their production functions are different from each other.
+  Country C has the lowest cost per unit of product, so in the hypothetical world we observe, it will become the global supplier of the product in free trade.
+ For example, country A is trying to protect its less efficient domestic producers from external competition.
+ Customs duties are the only restrictions that allow the country to trade freely with autarky.
+  The profit from specialization in this case is "sacrificed" as resources are taken out of the field in which the country had a comparative advantage in specialization.
+  In addition to reducing potential consumption, customs duties redistribute revenue in favor of the factors used in the output of a country that has adopted a foreign trade policy, thereby reducing the potential for more efficient use of these resources.
+ If country A wants to protect its domestic production, it must impose an import duty.
+  This customs duty will lead to an increase in the price of goods imported to country A, and consumption will move from imports to domestic production.
+  Under these conditions, country A can increase its domestic consumption if it joins a customs union with any model country.
+In Figure 1, SS represents the domestic supply curve of country A, similarly showing DD the domestic demand curve.
+ The supply curve of country B is BB, that of country C is CC.
+ The supply curves of B և C countries are perfectly elastic, which is a consequence of A being a small country.
+ This countryman can influence trade conditions, although this circumstance may change in the customs union.
+  Prior to the imposition of customs duties at 0C, the domestic demand of country A is 0 Q6.
+  Domestic producers produce quantity 0Q1, while country C provides quantity Q1Q6.
+Figure 1. Impact of customs և CU formation on country արտադր և և consumption և Suppose country A imposes an import duty և the price of imported goods is 0T for consumers.
+ In this case, country A can increase domestic production from 0Q1 to 0 Q3 և meet domestic consumption from 0Q4 to 0Q6.
+  Government customs revenues will amount to CT X Q3Q4.
+Suppose country A forms a customs union with country B.
+ Given that goods imported from country C are worth 0T (including ad valorem import duty), country B will betray the A market.
+ Inefficient production of country A decreases from 0Q3 to 0Q2, consumption increases from 0Q4 to 0Q5 (trade expansion within the Customs Union), Government A of the country has no customs revenue. No customs duty is levied on goods imported from country B.
+ The expansion of trade inevitably leads to the rationalization of production in country A through the more efficient distribution and use of the resources available in the country.
+Consumers in country A benefit when their country joins a customs union with country B.
+ Consumer surplus increases by 1 + 2 + 3 + 4.
+ However, this situation is less favorable for consumers than the conditions of free trade, where country C was the supplier.
+  This loss is indicated by the ranges 5 + 6 + 7 + 8 + 9 + 10.
+  Domestic producers lose some of their surplus after joining the customs union.
+ This is shown in 1 domain.
+  From country A point of view, area 1 is the size of both the increase in consumer surplus and the reduction in producer surplus.
+ Country A customs duties are reduced by 3 points compared to the previous situation.
+  Therefore, the benefit of country A is the 2 + 4 range.
+The formation of the Customs Union increases the trade և consumption of country A compared to the initial situation (non-discriminatory import duty).
+  During the latter, country A pays Q3Q4 X 0C for the quantity of goods imported from C և receives customs revenues in the amount of 3 + 8.
+  After the formation of the Customs Union, zone 3 is returned to consumers in the form of relatively low prices, while zone 8 represents the highest price charged by a partner country within the CU, compared to country C.
+  The "return" of domain 3 to the consumer is defined as Hicks compensation, that is, when customs duties change, the compensation is almost never paid directly.
+ Note that country A pays partner B more for quantity Q3Q4 of the product in question than it would pay C before the CU was formed.
+ The full impact of the formation of the Customs Union on the welfare of country A depends on the relative magnitude of the effects of trade creation and trade diversion. [trade creation effect (2 + 4) - trade diversion effect (8)].
+If we try to make this model more dynamic by using the scale of increasing returns, then country B, which is the supplier of the product in the customs union, must meet greater demand.
+  Production will become more efficient, և the price can go down from 0B to 0B!
+  The latter, in turn, increases the effects of trade creation and reduces the effects of trade diversion.
+General Equilibrium Model 1.
+  The overall equilibrium model includes all markets.
+  The prices of all commodities are variable, և the competitive equilibrium implies that all markets are empty.
+ The above markets depend on the means of production և substitutes ապրանք substitutes, information technology, factors of production և product mobility, revenue (which increases the cost of acquiring a product / service implies a reduction in the cost of acquiring the remaining product (s)), etc.
+ There are 3 countries in the model: A, B և C, և two products: X և Y.
+  Country A imports product X from country C (the latter is the importer of product X at the lowest price in free trade).
+In Figure 2, country A trades with country C and reaches curve II of indifference.
+ Suppose country A imposes an import duty.
+ The new relative price is now the AT line.
+Suppose the above-mentioned import duty is not a sufficient incentive for entrepreneurs in country A to start producing product X.
+  Country A thus reaches the I1I1 indifference curve, and equilibrium is established at point G.
+ If the government "returns" customs revenues to consumers or spends them in the same proportion as consumers would, the balance goes back to AC.
+  The equilibrium point is thus K, where T2 (which is parallel to AT, which indicates consumer compensation (Hicks compensation)) intersects the line of the AC trading conditions.
+ The shift in the terms of trade is due to the fact that the economyFigure 2. Prosperity in a customs union coupled with a trade deviation 1 See Jovanovic M., 2006, pp. 56-63.
+How many of them are ready to import at the mentioned prices, from which the amount of their returned customs revenues comes directly.
+  T2 is drawn so that the points K և L are on the same indifference curve.
+ Customs duties change the structure of production and the relative prices of goods.
+  Consumption of domestic goods in country A is increasing, while imports and exports are declining.
+ Now suppose country A forms a customs union with country B with the effect of trade diversion.
+ The line representing the new terms of trade is AB.
+ Suppose that points K և L are on the same I2I2 indifference curve.
+ The formation of the Customs Union in this case does not change the welfare of country A, although it does change the structure of consumption.
+ Assuming that the best situation is point E, then the formation of a customs union for country A moves from a sub-optimal point K to an equivalent sub-optimal point L.
+ Country A is indifferent to this change.
+ Conclusion: If country A acquires trading conditions as a result of forming a customs union that provide relatively little utility compared to 0B / 0A, then country suffers.
+  Otherwise, the customs union leads to an improvement in the welfare of country A with the effect of trade diversion.
+ It has been proved that trade deviation does not always lead to negative results.
+Let us now consider the case where country A produces both products.
+ This situation is relatively closer to reality, as the substitution of imports with own production is allowed within the Customs Union.
+Figure 3. Production և consumption before customs duty in country A և In Figure 3, QQ is the ADS curve of country A.
+ In Austria, A produces at point Qa առում consumes at point Ca.
+ The relative price touches both the AHS and the I indifference curves.
+ Suppose the country opens up for international trade.
+ Country A is small, therefore it cannot affect the international relative price (the international relative price is the given value).
+ A now produces at point Q1 and consumes at point C1.
+ Country A exports FG quantity of product Y և imports JK quantity of product X from country C.
+ Suppose country A imposes an import duty.
+  Under the new relative price, A will produce at point Q2 և at the end of C2.
+  Note that both the points representing production and consumption are approaching the state of autarky.
+ If consumers are compensated in country A (customs duties are "refunded"), imports increase to some extent.
+  This is shown in the graph by RR, which is parallel to TT (the distance between the two lines indicates the amount of customs revenue).
+  Consumption is now at point C3.
+  For example, country A forms a customs union with country B, which is a relatively more inefficient importer (the price of imported goods is higher than in country C).
+ If country A achieves a higher indifference curve than I3 as a result of forming a customs union, the formation of a customs union with a trade diversion effect increases the country's prosperity.
+Calculate the price elasticity of imports through regression analysis.
+ We will use the LnMt = a0 + a1LnCEt + a5LnRPPt + Ut model (LnMt - import service-services logarithm, LnCEt - household expenditure logarithm, LnRPPt - relative price logarithm Ln [import price index], [domestic price index], [domestic price index].
+ Based on the relevant data for 1997-20131, the following significant results were obtained, where the value of {-1,455} is the price elasticity of imports.
+1 Source: www.unece.org.
+Taking all this into account, we come to the following conclusions:  how small is the demand for the export of a third country (s) (in theory, country C) և correspondingly, the demand for the import of a partner country (ies) (B) within the CU is high. , the greater the probability of increasing the level of prosperity of the given country due to the expansion of the effect of trade creation.
+Բարձր The higher the trade barriers in the rest of the world, the greater the effect of creating a barrier in the customs union.
+ The lower the customs duties on exports of country A in country C (the rest of the world), the smaller the deviation of exports of country A to country B (replacement by country B) will be.
+  The lower the customs duties imposed on the rest of the world in country A, the less likely it is that a partner country within the CU will replace the most efficient (least costly) importer, country C.
+  We conclude that the lower the customs duties in a given country before the formation of the CU, the smaller the expected benefits of economic integration.
+  Taking into account that Armenia is a member of the World Trade Organization, the customs duties in our country are among the lowest in the world, as a result of joining the Customs Union, the effect of creating trade will be small.
+ the more elastic the supply և the demand curves (E> 1), the larger the 2 և 4 domains that "embody" the creation of trade.
+ The larger the number of CU countries, the less likely it is that a trade-off will have a negative effect on well-being.
+  The stimulus for the integration of new countries by the CU will be maintained until the whole world becomes a single customs union.
+ In the case of the customs union covering all the countries of the world, only the effect of creating trade would work.
+Մ The geographical proximity of the CU member states reduces transport costs ացնումIncreases the benefits of integration.
+ The less elastic the import from the rest of the world, the more those countries will suffer, instead the CU partner countries will benefit.
+Ապրանք Goods produced in different countries are competitive if these countries have the same structure of production costs for the production of the same product.
+The integration of such countries brings the maximum possible benefits.
+  If the same countries have different production costs of producing the same product, they say that they have a complementary economic structure.
+  In this case, the benefits of integration will be smaller than in the previous case.
+ The larger the number of small firms operating in the sector, the smaller the level of potential anti-integration resistance shown by the emonopoly ուժերի oligopoly "forces" which may hinder the integration process.
+ The less developed the national economies are before economic integration, the greater the potential for prosperity expected from the planned specialization.
+Arman Asryan RA ECONOMY WITHIN THE CUSTOMS UNION Keywords: orthodox theory of the Customs Union, effect of creating trade.

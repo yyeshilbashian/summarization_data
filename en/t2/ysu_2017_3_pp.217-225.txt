@@ -1,0 +1,89 @@
+PROPOSALS OF DISTRIBUTION ON THE PROPERTY'S PROPERTY PROPERTY In the framework of the presented work in the Republic of Armenia, the issues related to the issue of confiscation on the property of the debtor organization, as well as the legal field regulating the related issues.
+ It should be noted that the study of the topic leads to the conclusion that a number of issues related to the confiscation of the property of the debtor organization seem to be left out of the scope of foreign-domestic scientific studies.
+ As a result, a number of both legislative and practical gaps have emerged, which need to be filled.
+ In the framework of the work we have tried to address some of them և to offer possible solutions to the latter.
+First of all, it is necessary to understand what confiscation of property is.
+  Thus, according to Article 43, Part 1 of the RA Law on Compulsory Enforcement of Judicial Acts (hereinafter referred to as the Law on Compulsory Enforcement of Judicial Acts), confiscation of a debtor's property with monetary obligations includes seizure of property, confiscation, compulsory sale through auction or direct sale1.
+ The key element of the seizure of the debtor's property is the prohibition to dispose of it.
+The RA Civil Code envisages different volumes of responsibility for individuals and legal entities.
+The procedure and conditions for confiscation of the debtor's property are different depending on the subject characteristics of the debtor, անձն these features primarily refer to the limits of the debtor's liability.
+1 See RA Law on Compulsory Execution of Judicial Acts, 24.03.2011.
+Article 27 of the Civil Code of the Republic of Armenia encumberes 2 property liabilities of all the property of individuals, except for the property on which, in accordance with the law, confiscation is not carried out.
+According to the general rule, a legal entity is responsible for its obligations with all its property.
+The legal entity that created it is responsible for the obligation of the institution.
+  The legislator has limited the responsibility of the legal entity and its founders-participants.
+ The founder-participant of a legal entity, as a rule, is not responsible for its obligations.
+  At the same time, in cases provided for by the RA Civil Code and the charter of a legal entity, the founder-participant may also bear responsibility.
+ 3 The members of a full partnership, as well as a partnership based on trust, bear joint and several liability with their property for the obligations of the association.
+The participants of the additional liability company bear joint and several liability for the liabilities of the company with their property, in the amount of multiples of the value of their deposits determined equally for everyone for the company, unless otherwise provided by the charter.
+Meanwhile, the members of the limited liability company և joint-stock company are not responsible for their obligations.
+  Article 43 of the Law on Compulsory Enforcement of Judicial Acts stipulates that confiscation of the debtor's share in the statutory capital of an economic company is allowed, but only if his other property is not sufficient to pay off the debts.
+The parent company, which has the right to give mandatory instructions to the subsidiary, bears joint responsibility with the subsidiary for the execution of transactions concluded according to its instructions.
+ 2 See Civil Code of the Republic of Armenia, N HO-239 05.05, 1998.
+3 See Petrosyan R. G., RA Civil Procedure, Yerevan, YSU Press, 2012, pp. 575581.
+In the event of bankruptcy, the parent company is liable for its debts.
+In case of reorganization of a legal entity, confiscation by writ of execution shall apply to the cash միջոց property of the organization to which the obligations of the reorganized debt organization pass in accordance with the transfer deed.
+The differences between the confiscation of the property of natural and legal persons are most vividly reflected in the rules, which define the order of confiscation of the debtor's property, according to the types of property subject to confiscation.
+ The rules defining the order of confiscation are first of all aimed at protecting the debtor's interests. The sequence is designed in such a way that the confiscation causes as few negative consequences as possible for the living conditions of the debtor individual և the activity of the debtor legal entity.
+According to Article 43 of the RA Law on Compulsory Enforcement of Judicial Acts, confiscation by writ of execution first of all applies to the debtor's funds.
+  If the necessary funds are not available to satisfy the claimant, the confiscation shall be extended to other property belonging to the debtor, except for the property on which confiscation is not permitted by law.
+If the debtor is a legal entity, the confiscation of the property applies in the following order: a) fixed assets not directly involved in production, b) finished products, c) unfinished products, including raw materials, semi-finished products, d) other property (including real estate).
+And if the debtor is a natural person, then the confiscation is applied first to the debtor's movable, then to the real estate.
+As we know, confiscation of the property of each subsequent queue is spread only after the confiscation of the property of the previous queue.
+ Without the foreclosure on the property included in the previous queue, the property of the next queue may be confiscated if it is obvious that the value of the property of the previous queue is insufficient to meet the requirements.
+The current legal regulations of the Judicial Acts Compulsory Enforcement Service do not define the right of a natural debtor to propose the order of confiscation of his property.
+ Earlier it was envisaged by the mentioned law, but later it was recognized as invalid.
+ We believe that such a regulation is necessary in the case of both individuals and debtor legal entities.
+ The funds of the latter are unconditionally subject to priority confiscation, while the funds in free circulation are a necessity for the activity of a legal entity.
+  However, in case the order of confiscation is defined by law, a problem arises, which we can conditionally call the "rigidity" of the order of confiscation.
+ It has already been mentioned about passing from one turn to another. The law allows such a transition to take place when it is obvious that the property value of the previous queue is insufficient to meet the requirements.
+ However, in practice there may be situations when it is preferable for both the debtor and the claimant to confiscate the property of the next queue, regardless of whether the value of the previous queue is sufficient to satisfy the claim or not.
+  Meanwhile, the current legislation does not allow changing the established order of confiscation.
+In connection with this issue, some theorists argue that the power to change the order of confiscation should be reserved for the court4.
+ We believe that in cases when there is no dispute between the claimant and the debtor of the subjects with material legal interest in the enforcement proceedings regarding the change of the order of confiscation, then burdening the court with the solution of the given issue is not justified.
+ In the same way, changing the order of confiscation is one of the issues where, based on the principle of disposition, it is necessary to give priority to the joint discretion of the parties, as no other entity has a material legal interest in that issue.
+ There is nothing else, including the public interest, for the protection of which it can be prohibited 4 See Натахина Е. Mr. G. … Candidate Irid. science, M., 1999, pp. 117,150.
+to change the order of confiscation by joint mediation based on the agreement of the parties.
+ 5 As part of our work, we also studied foreign experience.
+  For example, under the law of the state of Pennsylvania, the debtor has the right to submit to the sheriff, who is a law enforcement official, a list of his property on which he does not want the confiscation to be extended.
+ If, as a result of the calculation, the sheriff indicates that it is possible to confiscate the creditor's property in full as a result of the sale of the remaining property, the confiscated property will not be confiscated6.
+Analyzing both the existing domestic legal regulations and the foreign experience, we propose to supplement Article 43 of the RA Law on Compulsory Enforcement of Judicial Acts with a provision, which will provide for the possibility of changing the order of confiscation with the consent of the debtor-claimant.
+ It should be emphasized here, however, that in the case of more than one claimant, such an agreement may violate the rights of other claimants, so in those cases the consent of all claimants should be required.
+Agreeing with V. K. From Dallakyan's point of view, we find that from the point of view of the economic impact of the law, the issues of legal protection of the debtor's business activities when confiscating the property of the debtor are very relevant.
+  In particular, the application of the current rules on the collection of cash and working capital of legal entities in practice often calls into question the future activities of the business entity, even when the debtor is insolvent and has sufficient property to enforce the obligation.
+One of the problems for the investigation in the field of enforcement proceedings is the development of means that will create the least possible obstacles for the activity of the debtor economic entities, at the same time not contradicting the primary goal of the enforcement proceedings - satisfying the claimant's claim.
+In the framework of the work under discussion, it is necessary to refer to the institution of bankruptcy.
+  Bankruptcy reached by the court 5 See Dallakyan V. K., Distribution of confiscation on the debtor's property as a means of compulsory execution of court acts, Yerevan, YSU Publishing House, 2015, pp. 110-126.
+6 See Pennsylvania Legal Aid Network, Inc., in conjunction with Neighborhood Legal ServicesAssociation http.
+//www.palawhelp.org/about-us.
+It is the inability of the indebted debtor to fully satisfy his creditors' claims with monetary obligations or to fulfill his obligations with obligatory payments within the timeframes provided by law7.
+ According to the current legislation of the Republic of Armenia, a mandatory feature of starting a bankruptcy process is the 60-day period of fulfillment of monetary obligations exceeding one thousand times the minimum wage.
+  We think that recognizing a small entrepreneur who has not fulfilled its obligations may be expedient, but not for a company with a large economic activity.
+ The latter may pursue a policy of achieving certain far-reaching economic goals in such a way that non-payment of that amount, taking responsibility for it, is more profitable than timely fulfillment of obligations.
+ Naturally, in such a case, going to court to file for bankruptcy will have a negative impact on the reputation of the legal entity, which in turn can lead to major industrial losses.
+We believe that the right of the debtor's employees to go to court to declare the debtor bankrupt should be specially defined.
+ Preference should be given to the claims of employees owed by the debtor for compensation for damage caused to the health of life, including in the event of a breach of the statutory limit, not in the list of unsecured claims, but in the queue of claims, which generally include 8.
+He also referred to the role of enforcement of judicial acts in civil proceedings in one of the positions expressed by the RA Court of Cassation, according to which the structure of enforcement of judicial acts completes the proceedings, ensures the satisfaction of the claims of the interested person.
+In this regard, the RA Court of Cassation in the case VD6 / 0076/05/12 referred to the legal position enshrined in the European Court of Human Rights, according to which Article 6 of the European Convention for the Protection of Human Rights and Fundamental Freedoms 7 See http.
+//iravaban.net/1685.html © iravaban.net Armine Avetisyan.
+8 See http.
+//iravaban.net/1685.html © iravaban.net Armine Avetisyan.
+The right to a fair trial guaranteed by Article 9 9 9 would have become an essential right if the legal system of the State had allowed final, binding judicial decisions to remain incomplete10.
+ Therefore, the enforcement of a judgment rendered by any court should be regarded as an integral part of the 'trial' within the meaning of Article 6 "11.
+In order to receive clarifications on the issues related to certain issues related to the topic in practice, we have made a request to the Judicial Acts Compulsory Enforcement Service of the RA Ministry of Justice.
+  In response to our letter, it turned out that in practice there are certain problems related to distributing the overdraft of the company's share at the request of creditors for the debts of the participant.
+ Thus, according to Article 12 of the RA Law on Limited Liability Companies, at the request of creditors, a share may be confiscated for the debts of the company's participant only in case of insufficiency of other property to repay those debts, based on a court decision.
+  But there is no legislative regulation on who should file a lawsuit in court to separate the share or distribute confiscation.
+ In legal practice, the development of this issue has gone in the direction that in such cases the compulsory executor terminates the proceedings և submits a proposal to the creditor to file a lawsuit in accordance with Article 200 of the RA Civil Code.
+  There are two main problems here.
+First of all, concluding the proceedings ոշ in some cases, when presenting such an offer to the creditor, it even extends the compulsory execution period by several months, especially for banks, credit and other similar organizations, which submit numerous lawsuits to the court demanding confiscation of property, current legislation provides additional financial and significant resources. They demand labor.
+ The second problem arises when there are several creditors, the enforcement agent submits a proposal to all of them. Article 9 See Part 1 of Article 6 of the European Convention for the Protection of Human Rights and Fundamental Freedoms.
+10 See the decision of the RA Court of Cassation of May 24, 2013 in case VD6 / 0076/05/12.
+11 See Hornsby v. Greece, Case No. 18357/91, judgment of 19 March 1997, paragraph 40.
+12 See RA Law on Limited Liability Companies, HO-455N, 04.11.2002, claiming to apply to court, but there is disagreement among creditors regarding submitting the claim to court.
+ To avoid such problems, we propose to amend Article 20 of the RA Law on Limited Liability Companies, Article 41 of the RA Law on Compulsory Enforcement of Judicial Acts, to stipulate that in case the debtor's property is not sufficient to satisfy the claimant Opportunity to file a lawsuit against the compulsory executor on his / her own initiative in court, to separate the debtor's share in the common joint or common share property, and to confiscate it.
+  Of course, it is possible to meet opponents here, who, naturally, will claim that the Judicial Acts Compulsory Enforcement Service is not a state body applying to the court to protect the interests of other persons, in which case it will exercise the rights of the claimant.
+ However, we think that such a problem cannot arise, as a person applies to the court with a claim for protection of his violated right, receives the protection of his subjective right, and the compulsory enforcement service is only the body executing the court.
+ Moreover, the claimant, handing over the writ of execution to the Judicial Acts Compulsory Enforcement Service, agrees in advance that the creditor's property will be confiscated and sold in his favor.
+Thus, combining the above, we believe that in order to avoid possible problems in applying the existing legal regulations, to distribute the collection of its property for the civil liability of the organization, in order to secure both the creditor and the bondholders, we propose to make appropriate changes to the issues discussed in this paper. Article 43 of the RA Law, the RA Law on Bankruptcy, Article 20 of the RA Law on Limited Liability Companies և Article 41 of the RA Law on Compulsory Enforcement of Judicial Acts.
+Samvel Jabaghyan FEATURES OF DISTRIBUTION ON PROPERTY ORGANIZATION'S PROPERTY IN RA Keywords: legal entity, organization, confiscation, business activity, sequence of confiscation.

@@ -1,0 +1,47 @@
+SPECTROSCOPIC EXAMINATION OF HIGH-RANGE ALBUMINUM ALUMINUM ALUMINUM EXPERIENCE IN THE PRESENCE OF LITHIUM PERCLORATE.
+  When most proteins are dissolved in aqueous solutions, the hydrophobic bonds that support the tertiary structure of the protein are rapidly transformed into hydrophobic, ionic interactions at high temperatures [1].
+  Thermal transformation of these biomolecules is a serious problem not only for their preservation, distribution, but also for the production of drugs and food.
+ Stabilizers (such as dimethylsulfoxide (DMSO), which increase the structural stability of water, are often used to minimize heat transfer.
+ Inorganic salts, sugars, amino acids - the presence of water-soluble organic solvents leads to changes in the physicochemical properties of protein solutions.
+ As shown in [3], the presence of such additives selectively affects ionization (the cation is greater than that of anions), which in turn affects the stability of the protein.
+In this work, we present a spectroscopic study of high-temperature bovine serum albumin (LSA) in the presence of LiClO4.
+ Albumin is the most common protein in blood serum.
+  They can bind և transport substances of different nature, small molecules ions.
+  One of these proteins is RNA, which consists of 583 amino acid residues and forms one polypeptide chain.
+ The's structure (88%) is similar to that of human serum albumin (IA) է consists of 3 domains (I-III), which in turn are 2 subdomains (A և B).
+  It contains 2 tryptophan residues (Trp-134 և Trp-213), of which Trp-134 is located on the ույ spiral surface and Trp-213 is located in the hydrophobic pocket [45].
+Materials used և methods.
+ Used SGma ('Sigma Chamical'Co. (USA), fatty acid content <0.005%), DMSO (' Sigma '> 99.5% (USA)) և LiClO4 (REAHIM ք sq. M.' Brand).
+ The concentration of DMSO remained constant at 25% (v / v).
+ The concentration of LCA was 4 mg / ml, and LiClO4 - 0.9%.
+  Electron absorption spectra were recorded in the range of 200-500 nm using a SPECORD50PC spectrophotometer (Germany).
+ The temperature was raised to 1 ° C / min at 36-83 ° C.
+  The temperature in the Kuwait department was regulated with the help of a 'Lauda 100' thermostat.
+  EC spectra were recorded using a NICOLET Fourier transform IC (ATR attachment) spectrophotometer.
+Results և discussion.
+  The electron absorption spectra of the ACM were recorded in the 200-500 nm wavelength range.
+ Fig. Figure 1 shows the electron absorption spectra of DC at temperatures of 36, 70 և 830 C.
+ The electronic absorption spectrum is characterized by two absorption maxima: 230 nm և 280 nm.
+ Absorption at a wavelength of 230 nm produces the CO and NH groups of all-amino acid residues, and the observed absorption at a wavelength of 280 nm is due to the aromatic groups of the amino acid tryptophan, tyrosine (Pyr) and phenylalanine (Phe).
+ To study the structural changes in the AC, we followed the change in the intensity of the absorption signal at a wavelength of 280 nm.
+ As you can see. From 1, as the temperature rises, an increase in the intensity of the absorption signal is observed, which is due to the fact that the protein-chromophore groups become more accessible to the light beam.
+  Based on the change in the values ​​of the intensity of the absorption signal depending on the temperature, the normalized transformation (melting) curve of the DCM was constructed, which is shown in Fig. In 2.
+Fig. 1. Electronic clan spectra of WFD. 1. 360 C, 2. 700 C, 3. 830 C.
+Fig. 2. The melting curve of the DCM. C (LCA) = 0.4 mg / ml, C (DMSO) = 25%, C (LiClO4) = 0.9%.
+The melting curve of the AC is characterized by a single sigmoidal flight, which indicates that the process is in one phase և has a cooperative nature.
+ The irreversible transformation temperature of the MW was determined by the midpoint of the sigmoid flight: mT = 69.2 ° C.
+We used the MIC spectroscopic method to study changes in the secondary structure of the protein as a result of high temperature transformation.
+  The peptide group, which is a repeating structural unit of the protein, gives 9 characteristic layers in the EC spectra, the so-called amides A, B, I, II… VII, of which amide I (1600-1700 cm -1) is the most intensive absorption.
+ It is related to C = O valence fluctuation (7085%) և is directly related to the main chain conformational changes, and amide II is related to NH deformation fluctuation (40-60%) և C-N valence fluctuation (18-40%) [6]
+  As a result of spectral dissolution of amide I of unchanged WFD, 5 layers are observed (see Fig. 3 (a)).
+The first absorption (1686 cm-1) is attributed to the parallel β-structure, the second component is observed at 1651 cm-1, which corresponds to the α-spiral, the third (1627 cm-1) random coil, the fourth (1604 cm-1) β- structure և last fifth (1551 cm -1) aromatic rings.
+Fig. 3. Fourier transform spectra of the Fourier transform of the amide I absorption layer of CCA: C (CCA) = 0.4 mg / ml, C (LiClO4) = 0.9%, C (DMSO) = 25%, a-25, b-65, c -85o C:
+During the transformation, at 65o C, 6 dissolved spectra appear in the dissolved spectrum of the AC, and at 85o C, which are shown in Figs. In 3 (b) և fig. In 3 (c).
+ The absorption at 1670 cm-1 may be due to the α-β transition in the protein structure [7].
+ The results of quantitative analysis of some types of secondary protein structure (α-spiral, β structure) based on the surfaces of these spectra are given in the table.
+Amide I clan layer Unmodified GHM Modified GHM Modified GHSm-1 Content,% cm -1 Content,% cm-1 Content,% structure α-spiral Fourier transform analysis of IC spectra.
+  In aqueous solution of dimethyl sulfoxide in the presence of lithium perchlorate, the electron absorption spectroscopy of the Fourier transform's high-temperature transformation of the AC revealed that the protein is transformed in a single phase (structure α to α μ կառուց structures) quantitatively measurable change.
+LITERATURE [1] Reginald GH, Grisham CM, Biochemistry (3rd ed.), Belmont, Calif.
+ Brooks-ColeDiego, CA.
+ Academic Press, 1996, p. 432. Serum Albumin in Solution.
+ a Combined Phosphorescence Depolarization - Hydrodynamic Yeganyan TigranTSULI serum albumin BARDZRJERMASTICHANAYINBNAPOKHMAN Spectroscopic Study bovine serum albumin Keywords: LITIUMIPERKLORATI PRESENCE, bnapokhum, electronic klanmanspektroskopia, infrared spectroscopy Fourier transformation.

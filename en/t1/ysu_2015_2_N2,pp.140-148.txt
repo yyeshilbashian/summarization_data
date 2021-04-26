@@ -1,0 +1,91 @@
+INVESTIGATION OF ELECTROPHYSICAL PROPERTIES OF INAsSbP COMPOSITE POINTS GROWED ON THE N-INAs (100) SUBSTRATE Introduction.
+  In recent years, numerous studies have been conducted on quantum line և points, which provide ample opportunities to create important optical-electronic devices, such as semiconductor lasers, photodetectors, thermophotovoltaic cells, etc.
+ Of great importance in the production of quantum dots is the Stransky-Krastan method of cultivation, which produces quantum dots without dislocations, which significantly improve the properties of photoreceptors and lasers designed for the medium infrared range.
+This article presents the n-InAs (100) substrate for liquid epitaxy with InAsSbP three-component quantum dots (CC) infrared photovoltaic photovoltaic և volt-farad characteristics և at room temperature (size 300 k) և at room temperature (300 ° C) the results obtained.
+  The photoreceptor is designed to be used in a wavelength range of 3-5 μm.
+Sample description with InAsSbP quantum dots.
+ The sample is an InAsSbP-based photoreceptor based on InAs (100) pads grown by modified liquid epitaxy technology, using thermal vacuum vaporization (LV2) technology to make the contacts.
+Contacts InAsSbP KKERF-1 FS-2 Fig. 2 Fig. 1 The first photoreceptor (PH-1) is a traditional photoresistor based on the n-InAs (100) monocrystalline substrate.
+  The second photoreceptor (PV-2) is also a photoresistor, just in the photoconductor surface there are peninsulas with InAsSbP composition (Fig. 2).
+The formation of ohmic touches of the sample.
+  Thermo-vacuum spraying process is carried out 10510-6 mm. s. s. under pressure in a special vacuum chamber.
+  The heating of the evaporating (powdered) material is carried out directly by direct conduction of electric current, or indirectly by induction currents (magnetron), high-energy electron bombardment, with the help of powerful pulsed laser radiation, etc.
+  The "principle of work" is as follows. The evaporating material 4 is placed in 5 heaters, and the stand on the corresponding holder-heater (Fig. 3).
+  If necessary, a suitable mask is placed on the surface of the stand.
+ Then a vacuum is created in the working chamber, after which the process of pulverization is carried out by releasing electric current through the heater.
+ As a rule, the substrate is heated to ensure good adhesion.
+ In modern WVP devices, the pre-spraying process is performed in a high vacuum ionic coating of the substrate surface to obtain a clean atomic surface.
+This technological method is mainly used for obtaining thin layers of metal materials, in particular, for forming ohmic contacts on semiconductor devices.
+The mentioned technological method was carried out by means of VUUP-5 vacuum dusting equipment.
+ The sample is placed in a special place in the oven ացվում fastened by a special handle.
+ The pad on which the sample is attached immediately touches the tip of the thermocouple, through which the temperature is measured.
+  After the above operations, the furnace is rotated and moved so that the furnace sample placement area is directly on the hole for dusting the material.
+ Gold (Cr / Au) was sprayed on the samples to make ohmic touches using thermal vacuum spraying technology.
+  For good adhesion, the samples were heated to 2000C prior to spraying.
+The active surface area between the metal layers is 1 mm2.
+  Photoreceptors made with such structures are, in fact, photoresistors.
+Volt-ampere profile.
+  Measurement methodology.
+  The simplest circuit used to measure volt-ampere characteristics is shown in Figure 4 (A-ammeter, V-voltmeter, PV-photoreceptor, HA-DC power source).
+  The Keithley 6514 electrometer was used to measure current, and the 7В7-38 voltmeter was used for voltage.
+The obtained results.
+ The volt-ampere-specimen specimen of InAsSbP quantum dots grown on n-InAs (100) pads obtained at room temperature is shown in Fig. In 5.
+Fig. Graph 5 shows that FC-2 has a peculiarity. In the range of 35-70V voltages, a deviation from the linearity was observed, which is due to the influence of equant points.
+ It can be expected that the nonlinearity will increase at lower temperatures in the InAsSbP / InAs penitentiary system.
+The value of the resistance of the photoreceptor was estimated by the degree of inclination of the straight line obtained by the mathematical approximation of VAB. R average = 3,622 Ohms.
+Compared to a sample without quantum dots with a resistance of about 2,572 ohms, it is not difficult to see that due to the presence of quantum dots, the resistance of the sample increases.
+  The behavior of a sample with quantum dots can be explained by its energy diagram (Figure 6).
+ For the InAsSbP system bandwidth, if we use a linear approximation by component component, the above system will be a second-sex backend.
+  Here a potential well is created for the cavities, ները the cavities can be localized at quantum points, which leads to an increase in resistance, և consequently the VAB deviates from the linear one.
+Fig. 6 ․ InAs և InAsSbP structure energy diagramVolt-Faraday profile.
+  Measurement methodology.
+  A device designed to accurately measure the inductance, capability and resistance of the 1920 Precision LCRmeter was used for photovoltaic studies of the photocopiers (Fig. 7a).
+ It allows the amplitude of the alternating voltage used for the measurement to be reduced to մ 20 mV.
+  The frequency of this signal can be varied in the frequency range from 20 Hz to և 1 MHz, and the measurement error does not exceed 0.1%.
+The capability of photoreceptors made on the basis of is measured by the resistance coupling mode in parallel with the capacity.
+  This mode is used when the sample size չափ active resistance can be represented by an equivalent parallel connection diagram (Fig. 7b).
+In this work, volt-farad characteristics of 3 different samples were measured.
+Fig. 7 Volt-capable characteristics of 2 different samples with n-InAs pad and InAsSbP quantum dots were measured.
+  The difference between the last two samples with quantum dots lies in the size distribution of the penitentiaries.
+ In the case of samples with larger quantum dots, measurements were made at liquid nitrogen (77K).
+Measurement results.
+  Figure 8 shows the volt-farad characteristics measured at room temperature for the experimental n-InAs համար for the above-mentioned relatively larger quantum dot sample (hereinafter referred to as sample A, and the smaller quantum dot sample for sample B).
+ As can be seen from Figure 8, in the case of n-InAs (blue line), the capacity does not change with voltage; it is a straight line with precision.
+ This result was to be expected, since n-InAs here is a separate transmitter from its InAs, the capacity of which does not depend on the applied voltage.
+ The picture is different for sample A with quantum dots.
+ As we can see, in the case of the red curve, there are two ranges of power drop at voltages of 0.28 V և 0.54 V, and in general the dependence is not linear.
+ It can be seen from the picture that the capacity decreases with increasing voltage.
+ The existence of two zones of sharp decline in the above capacity can be explained on the basis of the energy diagram of this structure.
+Fig. 8 ․ n-InAs (blue line) վ Volt-farad characteristics of samples with InAsSbP quantum dots (red line).
+Fig. 9 ․ InAs, InAsSbP system power diagram under the influence of an electric field As shown in Figure 9, in the presence of an electric field, when the energy bands of the semiconductor are bent, a triangular potential barrier arises for the holes in the valence band.
+  The cavities can overcome the barrier through a tunnel passage, the probability of which is determined by the following formula: Therefore, the two sites of capacity decline can be explained as the discharge of charge from the quantum points, which occurs through the tunnel passage.
+  Examination of the optical properties of the specimen revealed these two levels of cavities in the valence band, which were recorded by the generation of two maxima in the absorption spectrum in the range of long wavelengths from their own absorption edge.
+The volt-farad characteristic of the same sample measured at 77 K (liquid nitrogen) at 106 Hz at variable voltage is shown in Figure 10.
+  Here the sample capacity is measured in cases of decreasing voltage amplitude.
+ As can be seen from the picture, there are oscillations in the volt-farad characteristic of the sample at a temperature of 77 K.
+  In addition, when the voltage amplitude decreases, the capacity does not accept the values ​​it received when increasing it.
+  At a minimum voltage of 0.02 V we have a power difference of 0.483 pF.
+Fig. 10 ․ Volt-Faraday Characteristics of InAsSbP Quantum Points at Liquid Nitrogen Temperature Similar results have been obtained for the B sample at room temperature.
+  Volt-Faraday characteristics were measured for this sample at 102,103,104,105 և 106 Hz.
+  Here ուն this capacity is measured to increase or decrease the voltage.
+Figure 11 shows the volt-farad characteristics of Model B, measured for the frequencies 102, 103, 104, 105 Hz, respectively.
+ The dependencies were obtained with the help of Origin program, sp the spline method was used during the interpolation.
+ For these 4 frequencies, as can be seen from the figure, the sample capacity increases with increasing voltage.
+ 106 In the case of frequency results, the capacity increases with both voltage increase and decrease.
+The results obtained for sample B at 106 Hz are similar to those obtained for sample A at the same frequency, except that in this case, too, the capacity value decreases with both voltage increase and decrease (Fig. 12).
+ Figure 11 shows that as the frequency increases, the noise decreases.
+  However, the oscillations shown in Figure 12 in both this and the previous sample can not be noisy, as the experimental sample did not show such properties.
+As can be seen from the measurements, at a frequency of 106 Hz, the specimen falls by almost 1 order, and the "residual" ∆C capacity changes its sign (Fig. 12).
+Apparently, there is a critical frequency ω1, in which case there is an inversion of the ∆C sign.
+Fig. 11 ․ Volt-Faraday characteristics of model B with InAsSbP quantum dots at frequencies of 102, 103, 104, 105 Hz, respectively. At a frequency of 12-106 Hz, the volt-farad characteristic of model B.
+Fig. 13 ․ Dependence of ∆C on frequency.
+Explaining the behavior of such samples with quantum dots is a complex task.
+  We anticipate several hypotheses about their similarity.
+  In Figure 6 we can see that the electrons are pushed out of the quantum points, and the holes, on the contrary, are localized in them, resulting in a local field.
+In our opinion, ∆C is conditioned by the existence of that local field.
+Conclusion.
+  During the work, electro-liquid epitaxy was obtained on InAsSbP quantum dots on the InAs (100) factory stand by the Stransky-Krastanov method.
+ Experimental studies have shown that photodetector contacts are good ohmic contacts for both volt-ampere and volt-farad measurements.
+ The volt-ampere characteristic of the sample with InAsSbP quantum dots grown on InAs (100) pads at variable voltage at MHz was investigated.
+  It turned out that in the sample with InAsSbP quantum dots, effects already appeared at room temperature, which usually appear at lower temperatures.
+GrakanutyunLilit Yeranyan, A. Margaryan n-InAs (100) substrates grown InAsSbP composition KVANTAYINKETERI Electrophysical Properties HETAZOTUMEBanali words, liquid epitaksia, quantum dots Polyethylene poshetsrum, fotoendunich, cloud-voltage characteristic using capacitance - voltage characteristic.

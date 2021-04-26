@@ -1,0 +1,55 @@
+In Armenia, as in all developing countries, one of the main preconditions for economic development is financial stability, one of the main guarantees of which is the "normal" effective operation of "credit organizations" of commercial banks.
+ It follows from the above that the financial stability of commercial banks is one of the key issues of the Armenian economy.
+  The problems of the stability of the banking system, the identification of risks in the latter, are always in the center of the Basel Committee's attention, as evidenced by the requirements for 5 predominant commercial banking banking stability in Basel II.
+  The norms related to the capital adequacy of commercial banks of the Central Bank of the Republic of Armenia are aimed at banking system stability6, "Classification of loans and receivables classification of banks operating in the Republic of Armenia, regulation of possible loss reserves", etc.
+ However, despite the implementation of the above-mentioned joint measures to ensure the stability of commercial banks, the share of non-performing assets of commercial banks in Armenia in 2016 mainly had an upward trend8.
+According to the data of the Central Bank of the Republic of Armenia, the operating assets of commercial banks have a greater specific weight.
+7 www.cba.am, regulations.
+8 Central Bank of Armenia, credit investments, share of non-performing assets in commercial banks by sectors: www.cba.am loans.
+    Many factors affect the above, but the most influential are the following: • Deficiencies in the models of comprehensive credit assessment of borrowers through internal rating by commercial banks; interest rates և etc.
+The terms of lending to potential borrowers should depend on the rating given to potential borrowers by the commercial bank.
+ The shortcomings in the creditworthiness models of potential borrowers lead to incorrect definition of the credit terms (credit resource limit և interest rate) applied to the latter.
+ The high interest rates on borrowing resources by borrowers, mostly taking into account the unstable socio-economic situation of the latter, further contribute to the increase in the share of non-performing assets.
+Determining the optimal, effective amount of the loan resource interest rate is one of the most important tasks of a commercial bank or a credit organization.
+The purpose of this article is to analyze the components of the borrowed interest rate of the borrowed resource involved, as well as to reveal the relationship between the interest rate և borrower's rating։.
+Each commercial bank has a range of credit products offered by it (consumer credit, mortgage, etc.) 9.
+Credit products offered by commercial banks depend on a number of factors: types, quantity, direction of commercial banks (specialization: universal, agricultural, construction, industrial, credit purchase of goods, etc.), size of the latter, each of the same.
+  From commercial banks in Armenia, as in the rest of the world, different interest rates can be set for the loan product, the above-mentioned is a reflection of both the above-mentioned priority direction of the commercial bank and its risk appetite.
+The interest rate of the credit resource provided by the commercial banks on the basis of the comprehensive assessment of the potential borrowers' solvency risk depends on the internal credit rating provided by the latter, which should be equal to: TBR = TB + TSH + TRV (1) - Profit interest rate, TRV - risk payment interest rate (additional interest rate).
+The base interest rate, the refinancing rate, is the interest rate at which commercial banks, if necessary, attract credit resources from their country's central banks.
+  The base interest rate in the Republic of Armenia is set by the RPA during the implementation of monetary policy.
+  The base interest rate of the Central Bank of Armenia is reviewed approximately once a month and a half.
+  The refinancing rate has been declining steadily over the last one and a half years (Figure 1).
+Refinancing rate dynamics 2015-2017
+q:
+յ:
+ւ:
+o:
+r:
+d:
+a
+s:
+o:
+k:
+o:
+T:
+date
+Figure 1. The steady decline in the refinancing rate is due to a number of factors.
+ When the inflation rate is low, low interest rates in the financial market can stimulate lending to the economy, lead to business activity, and at the same time stimulate purchasing power without high inflation.
+ Recently, the inflation rate in Armenia was lower than the target of the Central Bank of Armenia, which was the reason for the stable reduction of the refinancing rate.
+For comparison, the refinancing rate in Russia until the end of December 2015 was 8.25%, and in June 2016 it became 10.5%, which was due to the high inflationary environment created as a result of sanctions against Russia.
+ In 2017, Russia's refinancing rate began to fall to 9.25 percent.
+It is clear from Figure 1 that the base interest rate has decreased by 3.75% during the last year and a half.
+That is, on other equal terms, if the remaining components of Equation (1) remained stable, the interest rates on credit resources provided by the commercial bank would have been reduced by 3.75 points.
+Profit interest rate depends on a number of factors: commercial bank reputation, reliability, quality and range of banking services provided, competitiveness, etc.
+ The operating expenses incurred in the commercial bank depend on the level of the above, which together with the commission payments, by and large, increase the interest rate.
+Base interest rates are generally the same for all borrowers, and the amount of the interest rate directly depends on the borrower's internal rating.
+  The risk payment calculated by the commercial bank or credit organization increases with the lowering of the rating, and vice versa.
+  For example, if the maximum rating is AAA, the risk payout may be 0%, and the average rating for BB may be [0.5% -1%], and so on.
+In the context of the above discussion, it is necessary to refer to the concept of "risk appetite" of the commercial bank or credit organization (the opposite of which is risk avoidance).
+ The latter is a desire to take a certain level of risk in order to earn a certain income.
+  In other words, "risk appetite" is the shift of focus from risk reduction to profitability / risk optimization in risk management.
+ Financial institutions need to define their "risk appetite" for different types of risk-taking, taking into account such organizational capacity.
+  Thus, for example, in case of a rating below a certain rating, to reject the borrower in cooperation.
+However, if the commercial bank or credit organization has a high appetite for risk, the latter even use the above-mentioned ratings as partners.
+CREDIT RESOURCES INTEREST RATING FOR BORROWERS Mirzoyan Narine's management has no RISKING FACTORS - RISK - RESOLUTION

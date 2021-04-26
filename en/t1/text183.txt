@@ -1,0 +1,43 @@
+The side effects of existing chemical radioprotectants and the short duration of exposure to natural radioprotectors have been the basis for the study of the radioprotective properties of compounds of biological origin.
+  A number of plant-based radioprotectants, such as Aloe Vera, curcumin, have side effects, particularly with allergic reactions and gastrointestinal disorders [1-3], and the use of chemical radioprotectants is often limited to their high toxicity. , due to its side effects, which have been reported in a number of prestigious journals.
+  Natural radioprotectors are the materials that have the greatest protective effect when imported some time before radiation.
+  Recent decades of research in the field of biologically active substances have revealed the extremely important role of Ca-ds RNA in regulating the body's resistance to adverse effects and correcting immunodeficiency conditions.
+  These effects are based on the mechanisms of active stimulation of interferon in the body [5, 6].
+  They are able to act as 252 immunomodulators, in the case of vaccines, immunoadjuvenants, antimutagens and compounds with radioprotective properties [7,8].
+  The development of preparations based on biologically active substances, which are able to increase the body's radioresistance without leaving a toxic effect, is a promising direction in the search for effective means of radiation protection.
+  Since immune dysregulation plays a crucial role in the pathogenesis of radiation stress, it was of theoretical and practical interest to study the high-efficiency R-modified model of the highly effective R-modipad-doped RH-modd c-type, a product of our laboratory (Institute of Molecular Biology, Laboratory of Molecular Enzymology) established by our laboratory.
+ Materials and methods.
+  Ca-ds RNA can be obtained from sodium nucleinate (Biosynthesis OJSC, Penza, Russia) or separated from the killer yeast Saccharomyces cerevisiae by further modification by Ca [6].
+  The preparation is a yellow-gray powder easily soluble in water.
+  It contains 13.6% nitrogen (N), 7.8% phosphorus (P), 01 g of protein by dry mass, N / P ratio is 1.74.
+  The Ca modification was performed by adding a sterile solution of calcium chloride until a stable opalescence occurred within 40 minutes.
+  The preparation is active in the solution for 30 days at a temperature of 4-10 ° C.
+  An interferon inducer (conditionally called an immunomodulator) containing the Ca-modified RNA derivative of double-stranded RNA isolated from the chilli yeast Saccharomyces cerevisiae has been used by us in the past as a preventive measure against cattle and cattle. .
+  The aim of this study was to investigate the radioprotective properties of Ca-ds RNA during 630 R single ionizing radiation.
+ The experiments were performed on 40 male rats weighing 200-220 g.
+  The animals were kept on a standard diet, their daily diet contained proteins, fats, carbohydrates and vitamins.
+  24 hours before ionizing radiation in the experimental group, Ca-ds RNA dissolved in 1 ml of sterile distilled water at a dose of 40 mg / 200 g was injected intraperitoneally, and calcium chloride solution was administered to the animals of the corresponding control group.
+ 253 Ionizing radiation was performed at the Scientific Center of Radiation Medicine and Burns of the RA Ministry of Health.
+  The animals evenly distributed in the groups (n = 20) were exposed to a single general radiation "RUM-17" X-ray machine with 630 R sublet dose, LD 50/30 ═630 R (dose power: 178 R / minute, voltage: 200 kV, current : 20 mA, Cu-Al filter, focal length: 50 cm).
+  The viability of the animals was observed within 30 days after ionizing radiation (observation period).
+  Kaplan-Meyer viability model of SPSS STATISTICS 16 software package was used for statistical data processing.
+  Data were considered reliable at p <0.05.
+ The obtained results and their discussion.
+  Ca-modified ds RNA has high biological activity. This advantage is due to its increased membrane penetration properties and resistance to endonucleases due to the presence of Ca 2+ ion [9–13].
+  Due to the high permeability of Ca-ds RNA due to Ca-modification, the dose of the imported preparation is also more efficient.
+  The extremely important role of ds RNA in the regulation of the body's resistance is due to the active stimulation of its endogenous β-interferon.
+ The radioprotective effect of Ca-ds RNA has been demonstrated for the first time in ionizing radiation.
+  Statistics from Kaplan-Meyer viability model are presented in the table and figure.
+ Survival of experimental and experimental groups of animals within 30 days after irradiation 254 As can be seen from the table and figure showing the results of the experiment during the 30-day observation period after irradiation, the mortality of animals in the control group after irradiation begins on the 7th day. in the case when the fall of the animals in the experimental group starts 2 days later, from the 9th day, which testifies to the resistance of the animals of the experimental group to radiation.
+  Moreover, the mortality of the animals in the control group continues until the 28th post-irradiation day, while in the experimental group their decline stops on the 18th day after irradiation.
+  From the 19th day, the vitality of the animals stabilizes, physical activity is restored, normal vital activity, that is, the physical condition of the animals is stabilized.
+  These data suggest that Ca-ds RNA-adapted rats are more adaptable to the stress factor than the corresponding control group.
+ The most frequent mortality after radiation was observed in both groups on the 13-17 post-radiation days.
+  In the control group, where only 4 out of 20 rats lived, the mortality exceeded the experimental group, where 11 out of 20 rats survived.
+ The viability of animals receiving Ca-ds RNA (experimental group) and calcium chloride solution (control group) within 30 days after irradiation (observation period).
+ 255 According to Kaplan-Meyer viability model, Cads RNA exhibited a 40% radioprotective effect, significantly exceeding the efficiency of some natural radioprotectants, which averaged 15-30% radioprotective effect.
+  Various radioprotective agents are currently known to be tested on rat viability models, including genistein.
+  It is an organic substance belonging to the class of isoflavones of plant origin, which has a high radioprotective effect, but, according to the literature, it also has a negative side effect, particularly on the digestive system and has a stimulating effect on the growth of tumors in the body.
+ Thus, Ca-ds RNA can be described as an effective, fast-acting, and long-term radioprotective agent.
+  It has pronounced radioprotective properties and can increase the body's resistance to ionizing radiation.
+ .

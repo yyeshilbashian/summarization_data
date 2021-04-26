@@ -1,0 +1,159 @@
+ABOUT THE SUPPLEMENTATION OF THE SUPERCOMES DETERMINED BY THE GROUP Arbitrary "defined for the subgroup" determined for the group.
+ The nucleus of ոմ → ոմ homomorphism is (with isomorphic accuracy) in the corresponding exact product է is the normal subset of the subgroup.
+As a consequence, the "hypergroup" assigned to the group is complemented only if the normal subset of the subgroup is trivial in the corresponding exact product.
+1. Introduction և Preliminary information about group-oriented hypergroups The concept of group-defined hypergroup has been introduced in [1], then improved in [4] և [5].
+  This concept generalizes և unites the concepts of group space, field նկատմամբ field to field.
+  The grouped hypergroups have a number of applications: generalization of Schreier's theorem on group extensions [5], results on group cohomologies, and so on.
+In [5], the concept of a (right) hypergroup defined by a group is defined as follows.
+  Let's be an arbitrary group.
+  The (right) hypergroup assigned to a group is called 𝑀 the set 𝛺 = (𝛷, 𝛹, 𝛯, 𝛬) together with the system of structural representations, where: • (𝛷) 𝛷.
+ 𝑀 × 𝐻 → 𝑀, 𝛷 (𝑎, 𝛼) ∶ = 𝑎𝛼, • (𝛹) 𝛹.
+ 𝑀 × 𝐻 → 𝐻, 𝛹 (𝑎, 𝛼) ∶ = 𝛼 • (𝛯) 𝛯.
+ 𝑀 × 𝐻 → 𝑀, 𝛯 (𝑎, 𝑏) ∶ = [𝑎, 𝑏], • (𝛬) 𝛬.
+ Արտ × 𝐻 → 𝐻, 𝛬 (𝑎, 𝑏) ∶ = (𝑎, 𝑏) the expressions satisfy the following conditions: P1) է is a double operation 𝑀 on a set such that (i) for an arbitrary 𝑎, 𝑏 ∈ 𝑀 elements in the equation [𝑥, 𝑎] = ում in a unique solution 𝑀, (ii) (𝑀, 𝛯) has left neutral element, that is, there exists 𝑜 ∈ 𝑀 elemental such that [𝑜, 𝑎] = 𝑎 for an arbitrary 𝑎 ∈ 𝑀 element.
+P2) 𝛷 mapping 𝐻 is a group operation 𝑀 on a set, ie (i) (𝑎𝛼) 𝛽 = 𝑎𝛼 ∙ 𝛽 for arbitrary 𝛼, 𝛽 ∈ և 𝑎 ∈ 𝑀; elements; (ii) 𝑎𝜀 = 𝑎 for arbitrary ∈ ∈, element; where ը is the neutral of the 𝐻 group.
+P3) For the arbitrary element 𝛽𝑜 ∈ գոյ there exists an element 𝛽 ∈ պիս such that 𝛼 = 𝛽𝑜.
+P4) The following identities occur: This subgroup assigned to a group is denoted by։.
+ When considering the 𝑀𝐻 hyper group determined by grouping, let us assume that 𝛺 =
+(𝛷, 𝛹, 𝛯, 𝛬) is its system of structural representations, 𝐻 𝐻 is the neutral element of the group, and 𝛯 ձախ is the left neutral element of the double action.
+ We will use the designation և 𝜃 = 𝛬 (𝑜, 𝑜) −1.
+(Note that in algebra the term "hypergroup" is used for another object.
+  This notion of a hypergroup was introduced independently by F. Martin ([6]) և H. Ս. Wall ([9]) (see also [3]).
+ The notion of this hypergroup used in this article will be confusing if we call the hypergroups defined for the group abbreviated as hypergroups.
+In this article we will use the following properties of hypergroups (see [5] page 9). • (𝐴11) (𝑎, 𝑜) = (𝜃 − 1).
+Suppose և և են are hypergroups, respectively 𝛺 =
+(𝛷, 𝛹, 𝛯, 𝛬) և 𝛺 ′ = (𝛷 ′, 𝛹 ′, 𝛯 ′, 𝛬 ′) with structural mapping systems.
+ A morphism of hypergroups is called a pair of representations 𝑓 = (𝑓0, 𝑓1), where 𝑓0 ∶ 𝐻 → է is a group homomorphism, 𝑓1 ∶ 𝑀 𝑀′ ՝ is a set in the representation of sets, that is, the structural representations are preserved, ie The following equations: • (𝑀𝛬) Λ◦𝑓0 = (𝑓1 × 𝑓1) ◦Λ ′.
+The condition (𝑀𝛯) means that 𝑓1 is a homomorphism from (𝑀, 𝛯) (𝑀 ′, ′ ′).
+The simplest example of morphism is identical morphism. 1𝑀𝐻 = (1𝐻, 1𝑀) ∶:
+ 𝑀𝐻 → 𝑀𝐻.
+ For arbitrary morphisms of hypergroups, their combination 𝑓◦𝑔 = (𝑓0𝑓0, 𝑓1◦𝑔1) և is a morphism of hypergroups.
+  𝑓 = (𝑓0, 𝑓1) morphism is inverted (hence isomorphism) if 𝑓0 𝑓 𝑓1 the expressions are inverted.
+  In that case − − 1 = (𝑓0
+−1) is the inverse morphism of 𝑓 = (𝑓0, 𝑓1) morphism.
+[5] (page 3) describes the standard hypergroup formation path defined for a group as follows:
+ Suppose (𝐺, 𝐻,։) is an arbitrary trio consisting of 𝐺 group, its 𝐻 subgroup 𝐺 𝐺 group 𝐻 subgroup աջ (right) transversal.
+  Recall that in 𝐺 group 𝐻 the subgroup (right) of the subgroup is called the 𝑀 subset of, for which | 𝑀 ∩ (𝐻 ∙ 𝑎) | = 1 for any arbitrary element։ ∈։.
+𝐺 group 𝑀 subset 𝐺 in group աջ subgroup to the right of the transversal և only if է is an additional set to the right of 𝐻, that is, for an arbitrary 𝑥 ∈ 𝐺 element there exist only 𝛼 ∈ 𝐻 և𝑎 ∈ ∈ elements such that 𝑥 = 𝑎 ∙ 𝑎 (see, for example, [8] p. 178).
+ Therefore, if ում in the 𝐺 group աջ is the right transverse of the ախ subgroup, then for the arbitrary 𝑏, 𝑏 𝑀 և 𝛼 ∈ 𝐻 elements 𝑎 ∙ 𝛼 և 𝑎 𝑎 միակ the elements are represented by a single egg as the product of the elements of ի և 𝑀։.
+ Therefore, the expressions 𝛷, 𝛹, 𝛯, կարելի can be defined according to the conditions (𝑆𝑡1) և (𝑆𝑡2). • (𝑆𝑡2) 𝑎 ∙ 𝑏 = (𝑎, 𝑏) ∙ [𝑎, 𝑏] = 𝛬 (𝑎, 𝑏) ∙ 𝛯 (𝑎, 𝑏).
+These representations satisfy the conditions P1) -P4) (see [5], pp. 3-5), և the corresponding իպ hypergroup is called a hypergroup derived from the standard (𝐺, 𝐻, 𝑀) triad.
+Construction in a standard way has the following universal feature. any 𝑀𝐻 hypergroup with isomorphic accuracy is obtained in a standard way from one of the triplets (𝐺, 𝐻, 𝑀) ([5], pp. 11-12).
+ [5] in which the trio is constructed as follows.
+  Suppose է is an arbitrary hypergroup, consider ությունը the set whose elements are 𝛼𝑎 two letter words where ն և են տարր are elements from ից to և համապատասխան respectively.
+  In [5] (page 9) վրա defines a double action as follows: ∙ (𝑎𝛽, 𝑏)) [𝑎𝛽, 𝑏].
+It is proved ([5], pp. 9-10) that հետ together with the defined double action is a group with 𝜃𝑜 a neutral element.
+Definition 1.
+  The 𝐺 group is called the exact product of the 𝐻 group 𝑀 ՝ related to the 𝑀𝐻 hypergroup.
+Considering the subsets of,, it is proved ([5], p. 11) that է is a subgroup of, and ում is a transversal of the subgroup ում in the 𝐺 group.
+ It is also proved ([5], pp. 11-12) that the "hypergroup" isomorphically obtained from the trio (𝐺, 𝐻, 𝑀) is a isomorph to the hypergroup.
+2. A complete hyper group related to a hypergroup.
+Suppose է is an arbitrary hypergroup with a system of structural representations 𝛺 = (𝛷, 𝛹, 𝛯,։).
+  According to the definition of a hypergroup P2), ն n 𝐻 is an action of the group (right) 𝑀 on a set.
+ It is well known (see, for example, [8], p. 55) that any group action exerts a homomorphism from that group to the symmetric group of that set in the following way.
+ 𝐻 → 𝑆𝑀, 𝛷 (𝛼).
+ 𝑀 → 𝑀, 𝛷 (𝛼) (𝑎) = 𝛷 (𝑎, 𝛼) = 𝑎𝛼.
+Definition 2.
+  𝑀𝐻 A hypergroup is called a complete hypergroup, if միջ the nucleus of homomorphism is trivial: 𝑘𝑒𝑟𝛷 = {𝜀}.
+Since է is a normal subgroup of 𝐻, we can consider the expressions 𝐻 ′ = 𝐻 / 𝑘𝑒𝑟𝛷 որդ 𝑘𝑒𝑟𝛷, ′ ′, ′ ′, 𝛬 𝛬. ′ ′.
+ 𝑀 × 𝐻 ′ → 𝑀, 𝛷 ′ (𝑎, 𝛼 ′) ∶ = 𝑎𝛼, 𝛹 ′.
+ 𝑀 × 𝐻 ′ → 𝐻 ′, 𝛹 ′ (𝑎, 𝛼 ′) ∶ = 𝑘𝑒𝑟𝛷 ∙ 𝛼 𝛯 ′.
+ 𝑀 × 𝐻 ′ → 𝑀, 𝛯 ′ (𝑎, 𝑏) ∶ = [𝑎, 𝑏], 𝛬 ′.
+ 𝑀 × 𝐻 ′ → 𝐻 ′, 𝛬 ′ (𝑎, 𝑏) ∶ = 𝑘𝑒𝑟𝛷 ∙ (𝑎, 𝑏).
+Lemma 1.
+ ′ ′ Եւ ′ ′'s representations are set correctly.
+Proof.
+ The correctness of և և 𝛹's representations means that ′ ′ (𝑎, 𝛼 ′) և ′ ′ (𝑎, 𝛼 ′) do not depend on the choice of the ′ ′ adjacent class 𝛼 representative.
+  Suppose 𝛼, 𝛽 ∈ 𝛼 տարբեր are different representatives of the same adjacent class.
+  In that case 𝛼 ′ = 𝛽 ∙ 𝛼 = 𝑘𝑒𝑟𝛷 ∙ 𝛽, so there exists an element 𝜅 ∈ այն such that 𝜅 ∙ 𝛼 = 𝛽.
+  Since 𝜅 ∈ 𝑘𝑒𝑟𝛷, then 𝑎𝜅 = 𝑎author 𝑀 ∈ համար for the element.
+To show the correctness of է, it is necessary to show that 𝑎𝛼 = համար for an arbitrary 𝑎 րի element.
+  We will get it according to the conditions P2) (i) և 𝜅 ∈ ՝: 𝑎𝛽 = 𝑎𝛼 ∙ 𝜅 = (𝑎𝛼) 𝜅 = 𝑎𝛼.
+To show the correctness of անհրաժեշտ, it is necessary to show that 𝑎 for an arbitrary ∈ 𝑀 element.
+  For that, show 𝑎 for an arbitrary 𝑎 𝑀 𝑀 element.
+ We will give (𝐴1) that 𝛽 ∈i և 𝜅 ՝ ՝, so it suffices to show that 𝜅 ∈ ∈
+This is the same as for 𝑀 𝐴 𝐴 (𝐴2) = = 𝑏 arbitrary 𝑎, 𝑏 ∈ 𝑀 elements.
+ According to the arbitrary element 𝑎 ∈։.
+where, according to P1) (i), we get 𝑏 = 𝑏 𝜅 for the elements.
+  arbitrary 𝑎, 𝑏 ∈ 𝑀Theorem 2.
+  𝑀 set և 𝐻 ′ = 𝐻 / 𝑘𝑒𝑟𝛷 number-group 𝛺 ′ =
+(′ ′, ′ ′, ′ ′, 𝛬 ′) together with the system of representations satisfy (𝛷 ′, ′ ′, ′ ′, ′ ′) is a hypergroup of the system of structural representations of the group որոշ որոշ.
+to the conditions, the crowd is proof.
+ Consider 𝑝0.
+ ′ → 𝐻 ′ natural epimorphism և 𝑝1 = 1𝑀.
+ → →:
+𝑀 Identical representation.
+According to the definition of 𝛷 ′, 𝛹 ′, ′ ′, 𝛬 ′ expressions (𝑝0, 𝑝1) the expression pair holds 𝛺 = (𝛷, 𝛹, 𝛯, 𝛬) և ′ ′ =
+(′ ′, ′ ′, ′ ′, 𝛬 ′) expression systems, ie the (() - (𝑀𝛬) relations occur.
+ It is proved (see [5], pp. 14-15) that in that case, if 𝑝0 is an epimorphism and 𝑝1 is a longitudinal representation, then 𝛺 համակարգը the representation system satisfies the conditions P1) -P4).
+Thus, the arbitrary 𝑀𝐻 hypergroup is regularly associated with the 𝑀𝐻′hypergroup, determined with respect to the խմբի ′ = 𝑘𝑒𝑟𝛷 / 𝑘𝑒𝑟𝛷 coefficient group (see [2]).
+Theorem 3.
+ Է is a complete hypergroup.
+Proof.
+ Suppose համար ′ (𝑎, 𝛼 ′) = համար for an arbitrary element 𝑎 ∈։.
+ Let us show that 𝛼 ′ = 𝑘𝑒𝑟𝛷.
+  Suppose 𝛼 ′ = 𝑘𝑒𝑟𝛷 ∙ 𝛼, in which case, according to the 𝛷′ definition, 𝛷 ′ (𝑎, 𝛼 ′) = 𝑎𝛼, then for an arbitrary 𝑎 ∈ 𝑀 element.
+  It will follow from the latter that 𝛼 ∈ 𝑘𝑒𝑟𝛷, therefore 𝛼 ′ = 𝑘𝑒𝑟𝛷.
+Definition 3.
+  The ′ ′ hypergroup is called the լր hypergroup related to the whole brought hypergroup.
+Now suppose է is an arbitrary group, է նրա is its subgroup.
+Definition 4.
+  𝐶𝑜𝑟𝑒𝐺 (𝐻) = ⋂ 𝑥 − 1 ∙ 𝐻 ∙ 𝑥:
+  Is called a normal subgroup of the Centgroup in group։.
+It is known (see, for example, [7], p. 16) that 𝐶𝑜𝑟𝑒𝐺 (𝐻) is the maximum normal group subgroup 𝐺 contained in subgroup։.
+Suppose the 𝑀𝐻 hyper group is obtained in a standard way from the trio (𝐺, 𝐻, 𝑀).
+Theorem 4.
+  The nucleus of ոմ homomorphism in 𝐺 group է is the normal subset of subgroup, ie 𝑘𝑒𝑟𝛷 = 𝐶𝑜𝑟𝑒𝐺 (𝐻).
+Proof.
+ According to the standard way of constructing hypergroups, ում is a transversal of the 𝐻 group 𝐻 subgroup, therefore it is an additional set, that is, for an arbitrary element գոյ գոյ գոյ there exist only 𝛼 կամ և և ∈ 𝑀 elements such that 𝑥 = 𝛼 𝑎 𝑎.
+ Consider 𝜌.
+ 𝐺 → 𝑆𝑀, 𝜌 (𝑥).
+ Արտ → 𝑀, 𝜌 (𝑥) (𝑏) = [𝑏𝛼, 𝑎] mapping.
+Lemma 5.
+1) For arbitrary elements 𝛼 ∈ 𝐻, 𝑎 ∈ 𝑀 𝜌 (𝛼 ∙ 𝑎) is an extension.
+2) J is a group homomorphism.
+Proof.
+  1) According to P1) (i), the equation [𝑥, 𝑎] = ունի has a single solution in ((for arbitrary elements 𝑎, 𝑏 ∈)).
+  If we denote the solution by 𝑏 /,, it is not difficult to see that the expression 𝑦 ↦ (𝑦 / 𝑎) −1 is the inverse of 𝜌 (𝛼 ∙ 𝑎).
+  Therefore 𝜌 (∙ ∙:
+𝑎) is an extension.
+2) Suppose 𝑥 = 𝛼 ∙ ն և և 𝑦 = 𝛽 𝑏 ն are arbitrary elements of։.
+ According to (𝑆𝑡1), (𝑆𝑡2), P2) (i), (𝐴4) և (𝐴2) we get 𝑏) (𝜌 (𝛼 ∙ 𝑎) (𝑐)) = (𝜌 ( 𝛼 ∙ 𝑎) ◦𝜌 (𝛽 ∙ 𝑏)) (𝑐) = (𝜌 (𝑥) ◦𝜌 (𝑦)) (𝑐).
+for an arbitrary։ ∈ 𝑀 element.
+Lemma 6.
+  𝛷 mapping is the constraint of վրա on the subgroup այսինքն, ie 𝜌 (𝛼) = 𝛷 (𝛼) for an arbitrary 𝛼 ∈ րի element.
+Proof.
+  Since է is obtained in the standard way, then, according to (𝑆𝑡2) և P1) (ii), Subtracting from the right 𝑜, we get 𝑜 = (𝑜, 𝑜) = 𝜃 − 1.
+  Thus 𝜀 = 𝜃 ∙ 𝑜.
+𝑜 ∙ 𝑜 = (𝑜, 𝑜) ∙ [𝑜, 𝑜] = (𝑜, 𝑜) ∙ 𝑜.
+Therefore, according to (𝐴10) և P2) (i) for any arbitrary element։ ∈։.
+To prove Theorem 4, we will show that 𝑘𝑒𝑟𝜌 = 𝐶𝑜𝑟𝑒𝐺 (𝐻), from which we will get that 𝑘𝑒𝑟𝜌 ⊂ 𝐻, therefore, according to Lemma 6, we will have that 𝑘𝑒𝑟𝛷 = 𝑘𝑒𝑟𝜌 = 𝐶𝑜𝑟𝑒𝐺 (𝐻).
+Suppose 𝑥 =։ ∙ 𝑎 ∈ 𝐺, և 1𝑀 is the identical expression of 𝑀 set.
+  In this case, according to (𝑆𝑡2) և (𝑆𝑡1), the following equivalences occur. Which, according to the unity of (𝑆𝑡1) և (𝑆𝑡2) analysis, is equivalent. Thus, ՝ ∈ 𝑏 − 1 ∙ ∙ 𝑏 ∀𝑏 ∈ ∈ .
+= 𝐶𝑜𝑟𝑒𝐺 (𝐻).
+The theorem is proved.
+Remark 1.
+  Theorem very close to Theorem 4 can be found in the theory of precursors (see, for example, [7], p. 35).
+Remark 2.
+  According to the universality of the standard way of constructing hypergroups, Theorem 4 can be formulated for any arbitrary hypergroup. Theorem 4 '.
+  For an arbitrary 𝑀𝐻 hypergroup 𝑘𝑒𝑟𝛷 is isomorphic in the 𝐺 group նորմալ to the normal subset of the subgroup 𝑘𝑒𝑟𝛷 ≅ 𝐶𝑜𝑟𝑒𝐺 (𝐻).
+Example 1.
+  Suppose the structural representation of a 𝑀𝐻 hypergroup է is trivial, that is, for arbitrary 𝑎 ∈ 𝑀, 𝛼 𝐻 𝐻 elements 𝛷 (𝑎, 𝛼) = 𝑎𝛼 = 𝑎.
+In this case, it is clear that for an arbitrary 𝛼 𝛼 𝐻 element 𝛷 (𝛼) is նույն the identical expression of the set, 1𝑀, hence 𝑘𝑒𝑟𝛷 = 𝐻.
+ Therefore, the complete hypergroup related to the 𝑀𝐻 hypergroup is the 𝑀 {𝜀 ′ եր hypergroup determined with respect to the trivial {𝜀 ′} = {𝑘𝑒𝑟𝛷} group.
+Note that if the complete given hypergroup related to the խ hypergroup is the 𝑀 {𝜀 ′ եր hypergroup, then (𝑀, 𝛯) is a group.
+ Indeed, we have that (𝑀, 𝛯) =
+(𝑀, 𝛯 ′), and for 𝑀 {𝜀 ′ 𝛯′ որոշում determines a group action on 𝑀 set.
+  The latter follows from the well-known result that any double action of a force satisfying the conditions P1) (i) և P2 (ii) is a group action.
+  Note that in this case the double action 𝛯 է is concomitant, since in (𝐴4) we will have ′ ′ (𝑎, 𝛬 ′ (𝑎, 𝑏)) =
+𝛷 ′ (𝑎, 𝜀 ′) = 𝑎.
+A question arises. If (𝑀, 𝛯) is a group, will the fully derived hypergroup related to the իպ hypergroup be determined with respect to the trivial group, that is, will be the 𝑀 {}}} hypergroup.
+ It turns out that in the general case the answer to this question is negative.
+Example 2.
+ Suppose է is a group, ու and ը are subgroups of, such that 𝐺 = 𝐻 ∙ 𝑀, 𝐻 𝑀 𝑀 = {𝜀}, where 𝐺 is the neutral element of the group,, և ը 𝐺 is not a normal subgroup (as such (𝐺, 𝐻, 𝑀) a triple can be considered 𝐺 = 𝑆3 symmetric group, its 𝐻 = {(1), (12)} և 𝑀 = {(1), (123), (132 )} subgroups).
+  It is not difficult to be sure that in this case կլինի will be the transversal of the Gent group in 𝐺 group.
+  Consider the 𝑀𝐻 hyper group obtained from the trio (𝐺, 𝐻, 𝑀) by the standard way.
+  Since է is a subset of,, then, according to (𝑆𝑡2), we will have that (𝑎, 𝑏) = 𝜀 for arbitrary 𝑎, 𝑏 ∈ համար for the elements, then կհ will match 𝑀 on ի 𝐺 with double action, so (𝑀, 𝛯) will be a group.
+  We have that է is a complete hypergroup related to the եր hypergroup, therefore, according to Theorem 4, 𝐻 ′ = 𝐻 / 𝐶𝑜𝑟𝑒𝐺 (𝐻).
+  If ը is a trivial group, let's denote that 𝐻 = 𝐶𝑜𝑟𝑒𝐺 (𝐻), hence that է է is a normal subset of,, which is incorrect.
+Literature Shant Navasardyan ABOUT THE FULL REPRESENTATION OF THE HYPERGRAINS DECIDED AGAINST THE GROUP Keywords: hypergroup determined towards the group, full yield, normal subdivision.

@@ -1,0 +1,67 @@
+Artificial intelligence as an idea has been known to people since the early 20th century, for example, the famous Czech writer Karl ապapek's science-fiction work "Rossom Universal Robots" talks about the universal robot Rossom, which was essentially the prototype of the bearer of artificial intelligence.
+ In particular, the term "artificial intelligence" is used to describe machines that mimic human cognitive functions, such as learning or problem-solving abilities.
+  Artificial intelligence applications include a variety of self-driving machines, drones, applications that demonstrate complex mathematical theorems, search engines (such as Google), software assistants (such as Siri, Bixby), and games (e.g. Go, check 411 INFORMATICS), image recognition programs.
+  The latter works with the help of neural networks.
+ The human visual system is one of the wonders of the world.
+ Let us consider the following sequence of handwritten numbers: Most people will easily understand these numbers as 504192.
+  In the two hemispheres of the human brain is located the main visual segment, V1, which contains 140 million neurons that are connected to each other by more than 10 billion networks.
+  But the whole visual system consists of several such segments.
+  Thus, understanding manuscripts is not easy.
+  You can use the structure of the visual system of the human brain to get an image recognition program on a computer.
+  Recognition of manuscripts on a computer is done with the help of neural networks.
+  It, in turn, is a system that learns from a huge database.
+ An artificial neuron in a computer is a neuron called the perceptron created by Frank Rosenblatt in the 1950s.
+  The perceptron accepts several binary input values ​​(x1, x2, ...) and generates one output binary value.
+ Exit Fig.1 The model of Perceptron.
+ Rosenblatt presented a simple rule for calculating the output value.
+  That's why he entered weights: w1, w2, ... real numbers.
+  The two outputs of the neurons, 0 or 1, are determined by the sum of the weights: ∑ 412 INFORMATICS 0, if ∑, where k is a real number.
+ 1, if։ This is the basic mathematical model used in neural networks.
+  In another way, one might think that this formula is a tool that makes decisions based on facts.
+  To better understand the formula, consider the following example.
+  Suppose there is an open-air concert in the coming days, and your stay there depends on the following 3 conditions: 1. weather, 2. parental permission, 3. access to public transport.
+ We can represent these 3 factors as binary variables x1, x2 and x3.
+  For example, if the weather is good, x1 = 1, otherwise x1 = 0.
+  In the same way x2 = 1, if you get parental permission, and x2 = 0, otherwise.
+  The same thing happens with x3.
+ And now let's imagine that you attach great importance to your parents' permission to go to a concert.
+  Thus, the weights can be selected as follows: w1 = 2 for the weather, w2 = 6 for the permit and w3 = 2 for the third condition.
+  This shows that you value the permit more than the weather and the availability of public transport.
+  And finally, if we choose the coefficient k = 5, by choosing these variables we will get the following decision-making model, the result of which will be 1 due to the positive permission of the parents, and 0 otherwise.
+  However, the result will not change in the presence of the other two conditions.
+  Note that, despite the existence of 3 conditions, the condition of parental permission is the most influential for the decision to go to a concert.
+  The above example is a decision-making model that takes into account different conditions.
+  The computer uses several thousand such decision-making models (neurons) to solve problems, the decision-making of which depends on the decisions made by the neurons in the previous layers (Fig. 2).
+ Result = 413 INFORMATICS Login Exit Fig. 2 Decision making model.
+ Suppose the input is data from raw pixels, and we want to program the neural network to accurately classify handwritten digits.
+  To do this, we will make a small change and use a sigmoid neuron instead of a preceptron neuron, which creates any real number in the range (0; 1) instead of 0 or 1 output values.
+  In another way, the neuron can be viewed as a function. It is obvious from the graph of the function that the value of the function in-ֆ is close to 0, and in + `- 1, that is, the range of 414 INFORMATICS (0; 1) of the function values.
+  The algorithm works as follows. First, the algorithm is "trained" on the database, and the increase in the number of databases indicates the receipt of the algorithm, or rather the output value.
+  Thus, to get an image recognition algorithm, you first need to have a large database.
+ The algorithm performs as follows: after receiving the image in the database, the algorithm matches each value of each pixel in the image, depending on the degree of darkness of the pixel.
+  Thus, the darker the pixel, the closer its value is to 0, otherwise it is close to 1.
+  Note that the real numbers in the range (0; 1) are obtained by the sigmoid function above.
+  Therefore, the sum of the weights of the i-th neuron of the neural network is conditioned by the corresponding values ​​created by the neurons of i-1, i-2 ....
+  This means that when we provide the already "trained" algorithm as an input of an image of a handwritten number, assuming an image of the digit "9", the algorithm will match each pixel of that image, and thus the algorithm will use the sigmoid function attached to each pixel. , which will create any value in the range (0; 1) on which the algorithm will be applied several times in the future, ie the previously obtained values ​​will match the next values ​​obtained.
+  Thus, in the last step, we get 10 neurons as the output value, each of which will have a value attached to it in the range (0; 1), and the value of that neuron, which is the largest in the last output layer, is the digit reflected in the input image, in this case 9. The third neuron will have the largest value in the last layer, and multiplying the value by 100 will give the confidence factor expressed as a percentage (what percentage of the algorithm is sure that the digit "9" is represented in the entered image).
+ Consider the algorithm of artificial intelligence, particularly image recognition in practice.
+  Our algorithm is based on the TenserFlow system created by Google, which includes ready-made neural networks.
+  Google has also used the 415 INFORMATICS tool to recognize 100,000 objects, but it is clear that in real life there are more than 100,000 objects, so we will use a pre-trained program to recognize images of new objects.
+  As we saw above, image recognition is done by passing the imported image through layers of neurons, so in the first layer the boundary of the object in the image is detected, in the middle layers the shape of the object is checked, and in the last layers the final object is recognized. with the "training" of that last layer.
+ Our program consists of 7 steps.
+  Note that all this is done in MacOs operating system.
+ 1. Download Python 2.7.
+ 2. Write pip install tensorflow on the Mac terminal.
+ 3. Then we will create a database, the larger the database, the better, because the training will be done on a larger database, and as a result we will have a clearer answer at the end.
+  You can select an image database of any object.
+  In this case, a database of 5 types of flower images was chosen.
+  You just have to be sure that the picture of each flower is in the file with its corresponding name (Fig. 3).
+ By writing this command, we will finally "train" the program.
+  Instead of just * you should write the path of the file containing the image database (path).
+ 416 INFORMATICS Fig.3 Installation of image database.
+ Figure 4 Determination of trust percentage.
+ Let's see what happened as a result.
+  You can go out into the yard and paint one of the types of flowers in the picture database, 417 INFORMATICS in this case, a twig, as you can see in the lower right part of the picture.
+  In the Python terminal, type the following command, indicating the location of the thumbnail image on the computer instead of *
+ As it can be seen, in the first line it is written - a splinter, for which the percentage of trust is 0.99950 (Fig. 4).
+ .

@@ -1,0 +1,44 @@
+ECONOMETRIC ANALYSIS OF POPULATION NA-ECONOMIC DEVELOPMENTIntroduction.
+ The influence of population growth rate on economic development has been the subject of wide discussion in the economic literature since 1798, when T. R. Malthus' work "Experiment with the deconstruction of society in relation to the law of population".
+  According to the Neo-Malthusians, public institutions are unable to adapt the economy to the changes associated with the rapidly populating population.
+  The Maltese population theory is becoming relevant again and again from time to time, as such a problem is facing many African countries today. "
+1950s Then the population growth rate in the less developed countries increased due to the reduction of the mortality rate բարձր the high level of the birth rate.
+According to a number of economists, rapid population growth in poor countries hinders the country's development.
+ Bloom and Canning affirm that the decline in the average number of children in a family in these countries has a positive economic impact on both families and society.
+ According to Cincotta, the high birth rate can lead to fierce competition among young people for jobs, which can be followed by political instability2.
+ Many countries have developed demographic policies that include free family planning programs, tax increases for each child, a moratorium on immigration, an increase in the age of marriage, and so on.
+The purpose of this study is to analyze the dependence of population growth - GDP per capita on the basis of statistics և to find out whether rapid population growth is hampering GDP growth.
+Statistical analysis.
+ An econometric analysis was performed using SPSS 16.0 և Eviews 4.0 software packages, for which the World Bank, 2012 World Development Indicators 3.
+ Data from 203 countries were included.
+ The following designations were made for the models: GDP_PC - GDP growth per capita (% per year), MORTALITY_R - infant mortality rate (per 1,000 lives), FERTILITY_R - fertility rate (per woman), DEATH_R - mortality rate (per 1,000 people), BIRTH_R - Birth rate (per 1,000 people), POP_65_AND - 65 և high population (% of total), POP_0_14-0-14 - annual population (% of total), POP_GR - population growth (annual%) ), URB_POP_GR - urban population growth (%%), URBAN_POP - urban population (% of total), AR_GDP - GDP per capita (USD), AR_POP_GR - RA population growth (%%), AR_GDP_GR - GDP growth per capita (annual%).
+2 Cincotta R., Engelman R., Anastasion D., The Security Demographic.
+ Population and Civil Conflict After the Cold War, Population3 World Bank, World Development Indicators 2012 (available at http: // www.
+//data.worldbank.org/indicator/NY.GDP.PCAP.CD link). Table 1 presents the correlation matrix of the variables.
+  There is a strong correlation between population growth նել birth rate, fertility, infant mortality rates, percentage of urban population և.
+  There is a strong correlation between population growth and the "percentage of people over 65" in the population.
+Table 1. Correlation matrix In Table 2, GDP growth per capita was considered as a dependent variable.
+ Modeling is where POPSQ is the square of population growth.
+In Table 3, the population growth rate depends on the variable.
+ Model specification is: Empirical results.
+ Table 2 presents 6 models of multidimensional regression.
+  Some of the independent variables included in the first model are strongly correlated, there is multicollinearity, so some of the variables studied later were removed from the model.
+  In the latest model (M6) all coefficients are statistically significant at the level of 1%.
+  The increase of the urban population by 1% leads to the growth of GDP per capita by 0.52%.
+  There is a significant inverse correlation between population growth and GDP growth per capita. A one percent increase in population growth will reduce GDP growth by 1.7% per capita.
+  This result corresponds to the provisions set forth in the economic concepts.
+The variables included in the model explain 2.8% of the GDP growth variation per capita, as the regressors of the model are mainly demographic indicators, not factors determining GDP growth.
+Table 2. Summary of regression (dependent variable is GDP growth per capita) *** - one significance level, ** - five և * - ten percent levels.
+Is the empirical model of regression. The results of Table 3 show that the variables of fertility rate, urban population և urban population variables have a positive effect on the population growth rate, and the mortality coefficient, population variables 0-14 and 65 և have a negative effect on the population.
+ Accelerating GDP growth per capita by one percent "under other equal conditions" reduces the population growth rate by 0.034 percent.
+ All estimated coefficients are statistically significant at the level of 1% significance.
+Table 3. Summary of regression (the dependent variable is the rate of population growth) *** - one significance level, ** - five և * - ten percent levels Based on Armenia's 1990-2013 budget. և World 1966-2013. Data: Population growth rate - We used the Granger test to study the interdependence of GDP growth per capita.
+ According to the test results, the world population growth rate is the reason for the change in GDP growth per capita at the level of significance at 5%, while GDP growth per capita is not the cause of population growth.
+  We have obtained a similar result in the case of Armenia.
+Sample (adjusted).
+ 1994 2013 GDP growth per capita և The vector autoregression (VAR) model characterizing the correlation of population growth variables in the Republic of Armenia also indicates a one-sided effect.
+ In the GDP equation of the Republic of Armenia, the population growth rate has a significant negative coefficient for the second tier.
+ The variables included in the model explain 49.41% of the variation of the dependent variable.
+ The GDP growth rate coefficients in the equation of the population growth rate are not statistically significant, ie the change in the population growth rate of the Republic of Armenia does not affect the GDP growth rate per capita.
+Thus, the empirical results of statistical data do not contradict the provisions of the theory of economics. In some countries of the world, high population growth rates "in case of unequal conditions" hinder the rapid growth of GDP per capita.
+Hayk Hambardzumyan NATIONAL-ECONOMIC DEVELOPMENT OF POPULATION ECONOMETRIC ANALYSIS OF INTERCONNECTION Keywords: T.R. Maltus, population growth, progression, regression, GDP, empirical model, coefficient.

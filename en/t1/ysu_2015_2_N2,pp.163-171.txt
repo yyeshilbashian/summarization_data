@@ -1,0 +1,87 @@
+VELA BATTERY CORNER SPEED REVERSE PROBLEM Introduction.
+  Sparklers are neutron star emissions found in the electromagnetic spectrum of radiation as sources of periodic pulses in radio waves.
+  The pulsed nature of the radiation allows the rotation frequency of the pulsator to be determined, as the source of the radiation is assumed to be rigidly connected to the star.
+ The values ​​of the rotation frequency of the splitters are in the range of 1 mV - 1 s [7, 12].
+  Observations show that the rotation frequency of the spinners increases due to the loss of rotational kinetic energy, և the deceleration rate is in order.
+Some spinners exhibit a unique activity in which the angular velocity Ω during which և its derivative jumps և increases, after which they relax to their pre-flight values ​​[5, 6].
+Angular velocities have been observed in more than 100 baboons.
+  After flight, the angular velocity curves Ω (t) և the temporal dependence of its derivative have a complex structure և are represented by the sum of the exponential functions and the linear function [4].
+ Characteristic times of post-flight relaxation range from an hour to several hundred days.
+The relaxing behavior of the angular velocity of the spinners after the flight can be explained on the basis of the model of a supersonic neutron star.
+ According to this model, most of the star's nucleus is made up of superconducting neutrons, superconducting protons, which make up the superconducting component of the star.
+  The electrons in the nucleus, together with the ions in the electron shell of a star, form the normal component of a star.
+  Due to the rotation of the star, quantum hurricanes are generated in the superfluid neutron liquid parallel to the axis of the star, the density of which is directly proportional to the angular velocity of the rotation.
+  Upon irradiation of a magnetized neutron star, the abnormal component slows down, followed by the associated superfluid.
+  [9, 10] have shown that due to the transport of superconducting protons by supercurrent neutrons, a network of neutron-proton storm clusters with a field of about 1014 GS is formed in the nucleus of a neutron star.
+  As the star slows down, neutron storms move toward the սահման core of the nucleus, և normal electrons scatter on the magnetic field of storm clusters.
+  Such a relationship between normal "supercurrent components" can be described by the relaxation time, which indicates the characteristic time of establishment of a stationary rotation after the angular velocity of one of the components.
+  In [8,11], solutions were obtained to describe the angular velocity relaxation of a neutron star after flight, taking into account some features of the motion of the storm system.
+The aim of this work is to study the dynamics of neutron-proton storm cluster motion in the spherical superconducting nucleus of a neutron star, to find out the relationship between hurricane distribution after flight and the observed angular velocity relaxation parameters.
+Basic equations of rotation dynamics of a two-component neutron star.
+ The presence of storms in the superconducting component of a rotating neutron star և their motion is described by the following equations, where: - is a vector directed along the windshield, the modulus of which is the velocity, the mass of the neutron.
+  In the cylindrical coordinate system, these equations have the following form: - the local velocity of storms, - is the density of storms, during the movement of storms they are affected by forces from both the supercurrent and the normal component.
+  As a whirlwind circulates with superfluid, it is affected by the force of Magnus, the difference between the velocities of the relative storm և superfluid.
+  In addition, the moving storm is affected by the contact force due to the interaction between the normal core of the storm and the normal component; it is comparable to the difference between the speeds of the storm and the normal components.
+  As a result, the equation of motion of the storm is as follows [9]. Is the density of the superfluid liquid, where n is the velocity of the normal component, η ն β is the coefficients of transverse and longitudinal contact, respectively.
+  In this equation [8, 9, 11] it has been assumed that the values ​​of η և β depend on the radial radius r.
+ However, it is known that in the spherical nucleus of a slow-moving neutron star, these magnitudes depend on the radius R of the orb.
+ Therefore, along a straight line at different points of which η η β is at different distances from the center of the star, the currents are not constant.
+  In this case, equation (6) must be averaged by integrating it with the z-coordinate, ie the length of the storm. Since the hurricane velocities do not depend on the z-coordinate, then (7) equation can be written as follows: գեր, η, η The mean values ​​of the values ​​of β are արդենdepend on only the radial radius r.
+If we present the storm velocity in the following form [9], then (8) the equations for the storm velocity համար for the components of the storm have the following form [10]. Note that in the nucleus of a neutron star we have the condition with which we have ունենք k << 1.
+As neutron storms continue in the star shell, some of them can be pinned (caught) to the nuclei of the star shell and rotated with a normal component.
+  Due to the shrinking of the star, pinning storms can get rid of pinning centers.
+  If we denote the density of pinned storms by np, then equation (5) will take the following form, and from (4) և (11) we can get the following equation, which describes the angular velocity behavior of the supersonic component of a star.
+To the equations describing the motion of the hurricane system must be added the equations of rotation dynamics of the normal և supernatant parts of the star.
+  The rotation of a normal component is described by the following equation:
+where Kint is the moment of internal forces acting on the supercurrent component, Kext is the moment of the external inhibitory force that can be considered constant for the interfacial times of the pulsers: Kext = const, Ie is the moment of inertia of the normal component.
+ The moment of the internal friction forces between the normal "superfluid parts" is as follows, where the unit of force of the neutron storm is the contact force.
+  If we use the expressions (9) և (10) for hurricane components և take into account that the pinned hurricanes rotate with the normal component, then for the internal moment of forces we can get [11]. Where Is is the moment of inertia of the supercurrent component.
+  According to (15), the equation of rotation (13) of the normal component takes on the final form: the equation of rotation of the supersonic part can be equated with the equilibrium equation. (16) գեր (17) we will use equations The dependence of np density on time.
+[3, 11] introduced the characteristic tp և τd times of pinning և deping, by which the equation of dependence on the density of caught storms is written. Since the relative changes in angular velocity of the blower are small during flight, it can be considered that during angular velocity relaxation The density of storms also remains constant.
+  In this case, equation (18) can be underlined և find the dependence of the density of pinned storms on time, where in the stationary case, that is, when t → ∞, the density of pinned storms to the value determined by the expression (20).
+  Strong aspiration of storms in case of epinning, that is, when we have 20 from (20) և.
+ It means that in case of stationary all the storms will be caught.
+  In case of weak pinning of the storms, the condition occurs, in which case և, ie in a stationary state, all the storms will be free.
+Angular velocity post-flight relaxation equation.
+ Let us denote the difference between the angular velocities of the superfluid and normal components.
+ In this case, the equation of rotation dynamics (16) of a normal component can be reduced to the following form: where is the ratio of the superimposed and inertial moments of the normal components to the superimposed part in the finite range.
+In the radius of inertia, the equation describing the temporal behavior of the moment ∆ Ω can be obtained from (17) and (19), և this equation has the following form [3]. (21) և (22) The equations fully describe the angular Speed ​​relaxation behavior after flight.
+ Here, as in և [10], we assume that neutron storms are almost free, that is, the condition occurs.
+  For these conditions, for the solution of (22) we get the expression.
+  Before obtaining a relaxation solution for the normal component of the pulsator from (23) և (21), let us consider some considerations regarding the behavior of ∂∆Ω⁄∂t in the star's core.
+ The value of this magnitude depends on the dynamic relaxation time of the star, which can be determined by having a neutron star model.
+ Figure 1 shows the graph of the dependence of the star on the relaxation time radius based on the mass neutron star model used in [9, 10, 11].
+As can be seen from Figure 1, the value of τ increases rapidly from the order of magnitude և within the nucleus և to the order of magnitude 108 `at a radius of 6.5 km, where the proton superconductivity disappears.
+ The range of the star, where the average time of dynamic relaxation is the measure of the observed relaxation time, that is, from one hour to 1000 days, is called the active range for Vela Babakich.
+ The active range is in the range of Ract = 9.25 km և R0 = 9.59 km.
+  It can be considered that the monoactive domain contributes to the observed angular velocity of the normal component, the observed relaxation.
+ This means that the expression (23) takes place in the active domain.
+  The rest of the star in the domain R1≤r≤Ract, where τ is the time of great relaxation, will be called the passive domain.
+  Figure 1 shows that in the range of a star with radius R2≤r≤Ract, where R2 = 7 km, the dynamic relaxation time is less than a year from the life cycle of the pulsator.
+  During the life span of that range, a stationary distribution of storms must be established so that the deceleration rates of the angular velocities of the supercurrent and normal components are equal, that is, in that range.
+  In the remaining domain of the passive part, that is, within the limits R1≤r≥R2, the condition τ0τ0 is fulfilled.
+  Consequently, the angular velocity of the supercurrent component in that range does not change during the life of the spinner և remains equal to the value it had at the time of the star's transition to the supercurrent state, that is, in that range և.
+ Given the above judgments, from (23) to և (21) we get the final form of the relaxation solution: where is the moment of relative inertia of the active domain, where is the moment of relative inertia of the radius, is the deviation of magnitude from its stationary value during relaxation. .
+  Expressing the initial condition of the flight of the supersonic and normal components of the star - angular velocities [2], միջոցով by means of quantities, the solution below (24) can be compared to the observed value of magnitude for the Vela spinner, whose angular velocity had 16 large jumps [12].
+The analysis of the observational data of the first 8 flights shows that with more accuracy [2]. The magnitude can be approximated as shown below in Table 1.
+  hours, days, days, and other parameters Table 1. Flight capacity a1 (10-13v -2) a2 (10-13v -2) a3 (10-13v -2) A (10-13v -2) tg (days) Reverse problem Numerical methods were used to solve it.
+ Let's discuss the result with the example of the 8th flight.
+  Figure 2 shows the dependence of the magnitude on the radius.
+As we can see, it behaves differently at the r 9 sheath separation boundary, in the range r> 9.53 km, and away from that boundary, at the r <9.5 km.
+  The difference lies in the amplitude of the oscillations as well as in the sign of magnitude.
+  Let us first consider the range r <9.53 km, where is a landmark.
+ However, as can be seen from (25), the magnitude is comparable to the dynamic relaxation time τ of the star, which increases monotonically with decreasing star radius.
+  The magnitude α (r) also cannot be a variable, therefore the magnitude is oscillating in the range r <9.53 km.
+This means that in flight, a certain number of neutron storms move from one region to another.
+  Such changes in storm density should occur in proportion to the increase։ decrease.
+ Meanwhile, the graph in Figure 2 is disproportionate to the axis r.
+  Note, however, that magnitude makes an additional contribution to the sum, which must be a negative monotonically increasing function with decreasing star radius r.
+  This in turn means that the value of α is smaller before the flight than after the flight.
+In the range r> 9.53 km, near the neutron star և sheath սահման, the magnitude is positive և has small oscillations around the mean value.
+  These oscillations can be explained by small changes in the density of neutron storms.
+ It can be assumed that small changes in size are due to strong pinning, as the component inside the hurricane case grows in the area near the case.
+  [10] It is known from the work that the integral equation with strong pinning observation has the same appearance, where, however, is defined differently և is a positive quantity that և can describe the behavior of a function in that range.
+Thus, a comparison of the theory of angular velocity relaxation of spinners with Vela spin observational data allows us to determine the initial distribution of neutron storms immediately after flight և the introduction of storm pinning and depletion into the relaxation character.
+Literature eight large glitches.
+ a re-evaluation with the vortex creep model. Astrophys J., 409, 1993, 15 p.12. http:
+//www.atnf.csiro.au/research/pulsar/psrcat Daniel Baghdasaryan VELA BACKGROUND CORRUPTIVE RELAXATION RELAXATION PROBLEM Keywords: fast, angular, babbling.

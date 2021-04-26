@@ -1,0 +1,96 @@
+LEGAL SETTLEMENT OF REPO TRANSACTION It is difficult to imagine the daily financial market without trading in securities.
+ When studying the practice of foreign countries, we see that the repo transaction (REPO - repurchase agreement) is an inseparable tool of the financial market, which means translation repurchase agreement.
+  Repo is a deal of English origin, but was first used in 1950. In the United States.
+In the literature, repo is described as a transaction in which one party sells securities to the other party and at the same time undertakes to repurchase the same securities after a certain period of time (or at the request of the other party).
+  The other party undertakes to sell that security accordingly.
+  Repurchase is carried out at a price different from the initial sale price of the security.
+ The difference between these prices is the income that the buyer of the security receives in the first part of the repo transaction1.
+Repo transactions, according to maturity, are divided into three parts: ● overnight (one-day), ● open (no deadline), ● fixed (term) 2.
+In the economic literature it is customary to consider repo transactions based on the interests of the parties.
+ In this way they separate: ● repo, ● retro repo (with opposite obligations of the parties).
+Repo transactions also vary according to the location of the security.
+In practice, the following principles are generally applied: ● The security purchased in the first part of the repo transaction is transferred to the buyer.
+ In this case, the buyer reduces his risk, but the cost of securities transfer can be significant.
+● The securities are transferred to a third party (trilateral repo).
+ According to the contract, the third party bears some responsibility before the parties to the repo transaction և, checks the type of securities transferred from one side to the other, returns the margin condition պահանջում demands additional money if necessary.
+  Since both accounts are owned by a third party, the costs associated with transfers are minimal.
+  In this case, the third party acts as a guarantor of the correct execution of the repo transaction, for which it receives a certain bonus.
+1 Asatryan B., Banking, Yerevan, 2012, p. 357.
+2 Ibid., P. 358.
+Երը The securities sold in the first part of the repo transaction remain with the seller, who acts as a custodian (trust repo) for their buyer.
+  This transaction is characterized by the lowest transfer cost, but with the highest level of risk, and the trader maintains a separate account for those securities1.
+There is a division of opinion in the legal literature on the question of what provisions should be used to regulate this transaction.
+Some theorists think that this is a double trade2.
+  According to Article 470, Part 1 of the Civil Code of the Republic of Armenia, “Under the contract of sale, one of the parties (seller) is obliged to transfer the property (property) to the other party (buyer), and the buyer is obliged to accept the product and pay a certain amount (price). ) ».
+  It should be noted that repo can not be considered a simple trade, as in the case of trade the buyer is obliged to pay not the price, but only for the product, then selling the same product to the former seller.
+Another group of scientists finds that repo contains preservatives3.
+  Article 813 of the RA Civil Code defines the concept of custody. "Under the custody contract, one party (custodian) is obliged to keep the property handed over to him by the other party (custodian).
+ In this case, it should be noted that repo can not be considered as a deposit, as during the second transaction another security can be transferred, but from the same issuer under the same conditions.
+ Meanwhile, the above-mentioned article stipulates that in case of custody, the custodian is obliged to return the same property.
+Parallels are drawn between the napro և pledge և 4.
+  This point of view is also subject to refutation, as Article 226 1 1 և 2 of the RA Civil Code states: 1. The right of pledge is the property right of the pledgee over the property of the pledgor, which is at the same time a means of securing the fulfillment of the debtor's monetary or other obligation to the pledgee.
+2. The pledge is an additional (accessory) obligation to the pledgee (creditor) to ensure the fulfillment of the main obligation of the pledgor (debtor).
+We can deduce from the above that repo is a transaction with a rather complex structure, it should be considered as a separate category of civil law.
+ As the repo does not have a typical civil legal structure, it may be subject to ambiguous interpretations.
+The first legal act regulating repo was adopted in 1963. In the USA.
+A repo deal was first signed in the Russian Federation in 1994. In connection with short-term government bonds, the first legislative fixation was received only in 2001. In the Tax Code of the Russian Federation.
+ In this Code, only one article is dedicated to repo, in which only the concept of repo is given.
+ 2006 Rules on repo were established on the Russian stock market 1 Asatryan B., p. 358.
+2 See http.
+//www.reglament.net/bank/mbo/2006_2_article.htm.
+4 Ibid., P.
+The law, which set out clear rules for public relations around repo.
+A repo deal has been signed in the Republic of Armenia for about ten years.
+ At present, Armenian banks conclude repo transactions with government securities1.
+  As a rule, banks are interested in concluding a repo agreement, if they do not want to sell the given securities to maintain short-term financial resources or balance sheet liquidity.
+The RA legislation hardly refers to the repo deal.
+  The latter is mentioned in the 4th paragraph of Article 39 of the RA Law on Investment Funds, where it says: "The assets of the fund cannot be pledged or considered as a means of securing other liabilities.
+ The requirement provided for in this part does not limit the right to conclude repo (reverse repo) transactions at the expense of the fund assets, if it is provided by the fund rules (charter), և if as a result of such a transaction the prescribed limits are not violated.
+  There are two more references to Part 4 of Article 13 of the RA Law on Funded Pensions. "Mandatory pension fund assets cannot be pledged or used as a means of securing other liabilities.
+  The requirement provided for in this part does not restrict the right to conclude repo (reverse repo) transactions at the expense of the pension fund assets, if it is provided by the pension fund rules (charter), և if such a transaction does not violate the limits provided by this law.
+  Part 5 of Article 72 of the same law states: "The assets of the pension fund cannot be pledged or be a means of securing other liabilities.
+The requirement provided for in this part does not restrict the right to conclude repo (reverse repo) transactions at the expense of pension fund assets, unless provided by the rules (charter) of the pension fund, "As a result of such a transaction, the limits provided by this law are not violated."
+  As we see, these provisions do not regulate the public relations arising around the repo deal.
+  Both terms use the term "repo deal", but its meaning is not explained in any way.
+2013 These relations were regulated to some extent in connection with the adoption of the Government's "Repo / Feedback Repo System" rule.
+  These rules are superficial to repo and do not provide a number of possible concepts or explanations for the types of repo.
+According to the rules adopted by the Government of the Republic of Armenia, a repo transaction may be made by the Central Bank ը ​​the participant of the system who, in accordance with the rules established by the General Agreement, has repaid the repo, overnight repo or reverse repo transaction2.
+ The participant of the system is the financial organization operating in the territory of the Republic of Armenia, which has signed a general agreement with the Central Bank, satisfies the requirements for participation in the system and is registered in the system in accordance with the rules3.
+ Part of the system 1 Asatryan B., page 358.
+2 See Repo / Rules on Repo System, Article 21.
+3 See ibid., Article 5.
+The attached system carries out operations through its authorized user (s).
+A commercial organization is a commercial bank operating in the territory of the Republic of Armenia և (or) any other financial organization licensed by the Central Bank.
+  The authorized user is the authorized person of the participant, who according to the rules is registered on behalf of the participant to carry out operations envisaged by the system rules.
+  The parties enjoy the following rights նում assume corresponding responsibilities. The participant undertakes: վաճառ to sell Repo Acceptable securities to the Central Bank on the day of repo transaction, գնել to buy back the repo securities sold on the repayment date կամ Equivalent to դ Repurchase center այլ to return the amount paid to him by the Repo Transaction to the bank և to pay the interest calculated for that amount in accordance with the terms of the Repo Transaction.
+The Central Bank undertakes: գնել to buy repo securities from the participant on the day of repo transaction, վճար to pay the repo transaction amount to the participant in accordance with the terms of repo transaction on the day of repo transaction, մասնակց to sell repurchase securities with equivalent value or equivalent equivalent օրը on the repayment date ● .
+The Central Bank of Armenia has defined permissible types of securities for the repo transaction.
+  The latter are state-corporate.
+  The securities issued by the RA Ministry of Finance և the Central Bank are considered state-owned, and the remaining securities are corporate.
+Price issues are resolved as follows.
+ During the first transaction, the security is valued at current value, that is, at a price determined on a daily basis based on the yield curve of the security published by the Central Bank.
+  At the same time, the parties set a fixed price for the second transaction or by predicting the current value of that period.
+We think that the decision made by the Central Bank on the repo deal is not enough to consider that the repo deal is legally regulated, which we can not say about Russia.
+  Thus, the Tax Code of the Russian Federation defines the concept of repo transaction, and other issues are regulated by the law on the securities market.
+  The latter is mentioned in part 3 of Article 51.1. Repo is a transaction in which one party (seller) undertakes to transfer ownership of a security to the other party (buyer), the buyer undertakes to accept և pay for it (the first part of the transaction)) by which the buyer undertakes after the agreed time 1 See « Repo / Rules on Repo Repo System ", Article 25.
+to transfer the ownership of the security to the seller, and the latter is obliged to accept the security and pay for it (the second part of the transaction).
+Repo can be concluded with the participation of a natural person, if one of the parties is a broker, dealer, depository, management or credit organization, or if the mentioned transaction was concluded by the broker at the expense of a natural person.
+2. A repo transaction is concluded with both Russian and foreign securities.
+3. The buyer is obliged to resell the same և type of securities during the second transaction.
+4. The transaction is considered concluded if the prices of both the first and the second transactions are agreed.
+5. The parties may specify the exact time of the two transactions, or when concluding the first transaction, a period should be set at the end of which the second transaction will be concluded.
+7. The seller must transfer to the buyer a security that will not be encumbered by the rights of third parties.
+ Otherwise, the buyer may withdraw from the contract if it is not proved that he should have known about it.
+21. The transaction is regulated by the provisions of the Civil Code on trade, if they do not contradict this article.
+Guided by the above, there are obvious differences in the legal regulation of the repo deal in Armenia and Russia.
+  In Armenia, the party to the transaction must be the Central Bank, and the other party - a commercial bank or other credit organization, while in foreign countries, including Russia, there is no subjective restriction.
+ Repo transaction can be concluded by natural and legal persons.
+  We think that the second version corresponds more to the essence of repo, it would be right for the RA to adopt this approach.
+We also believe that the expanded use of the repo deal will be of great economic importance for the development of the Republic of Armenia.
+Thus, based on the above, we suggest discussing the possibility of making further legislative amendments.
+1) Define the concept of repo transaction in Chapter 31 of the RA Civil Code.
+2) Adopt the RA Law on Making Amendments to the Law of the Republic of Armenia on the Securities Market, which will define: հաս the concept of repo transaction, սահման the limits of change of the price of the second transaction, side of the deal.
+3) Recognize the rules adopted by the Government of the Republic of Armenia on the "Repo / Reverse Repo System" as invalid.
+  Adopt new rules, which will already correspond to the previous changes.
+Elen Hovhannisyan LEGAL SETTLEMENT OF REPO TRANSACTION Keywords: repo deal, securities, repurchase
+.

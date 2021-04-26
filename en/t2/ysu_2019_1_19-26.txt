@@ -1,0 +1,78 @@
+DISCOVERY, ACCOUNTING RESOURCES OF SEVKAR VILLAGE AND RELATED AREAS OF TAVUSH MARZ, TAVUSH MARZ
+ The beautiful places of the cozy nature of the adjacent areas of Skargyugh, which can be used for tourism, hiking and excursion purposes, have been identified, registered and mapped.
+The paper presents the basic data needed to create and manage a database for these locations.
+The data obtained միջոցով was monitored through clear information.
+  The location of tourist, hiking, excursion places was determined - compilation and editing of maps, diagrams, diagrams, diagrams.
+  The information is reliable, complete և fully describes the place.
+  Modern equipment (Google Earth, GPS, ArcGIS) was used to obtain data on tourist, hiking and excursion sites.
+ The data from the Global Positioning System (GPS), together with the information obtained, is entered into the appropriate program (ArcGIS).
+ GIS allows data updates։ updates.
+ The following tasks are performed with wildly collected data in ArcGIS software environment: 1. data entry, 2. data processing, 3. data control, 4. survey, 5. data analysis, 6. Receipt of maps or diagrams, 7. Provision of data.
+Data on tourist sites are collected for the purpose of obtaining clear information about those sites.
+  The works are done step by step ․ first the information is filtered, then an information base is created for the retrieval of the corresponding base of the tourist place.
+ The information collected on tourist, hiking and excursion sites assumes: 1. location discovery, 2. determination of coordinates, 3. description, 4. information collection, 5. creation of information base, 6. mapping, 7. database update, monitoring, 8. Wildlife improvement և backwardness.
+Database creation և management.
+ The information collected on tourist, hiking and excursion sites is followed by the creation and maintenance of an information base.
+  The database is a collection of location information, which is entered in a table attached to the ArcGIS software, where we can obtain thematic maps for each object imported into the software by managing the database.
+Layers are separated for resource classification in the ArcGIS software environment (the relevant information is summarized in each layer).
+  Next to each created layer, a database is maintained, in which the data identifying the place are filled.
+ For example, in the community, the following descriptive information will be collected about the Darpas spring և pavilions: name, location, year of construction, founders (who built this spring), area (m2).
+Tourism resources are the main precondition for the development of tourism in any area.
+ The information collected about the tourist, hiking և excursion site և the available data will enable us to assess the directions of tourism development, as well as to develop a strategy to ensure further progress.
+  It is necessary to coordinate the tourist, hiking and excursion places.
+ The aim is to assess the tourism potential of the area and to implement effective planning of the use of tourist resources, further increasing the attractiveness of the above-mentioned places.
+Geographical location of the stone և natural conditions ․ Skar community of Tavush region is located in the western part of the north-eastern region of Armenia, at the forest gate of "Darpas" - "Dhanak", in the valley of Skar river.
+ The stone was founded approximately 900-1000 years ago.
+  It has an altitude of 800-1600 meters above sea level (in the area adjacent to the village), and reaches 1900-2400 meters in the plateaus (near summer cottages).
+ The mountain-flat house-mountain-forest landscapes predominate.
+ The community is 20 km north of Ijjan -
+It is 150 km north-east of Yerevan.
+ It has a fragmented relief և mild climate, the average annual air temperature is +16 degrees, spring is short, heavy rainy, summer is long, relatively cool, fresh air is always available due to the surrounding forests.
+  Autumn is mild here, the average annual precipitation is 350-620 mm.
+  The administrative area of ​​Skar community is 8180.5 hectares, the permanent population is 2037 people.
+ The community has a 4 km border with the Kazakh region of the Republic of Azerbaijan.
+ It borders Sarigyugh, Achajur, N., Tavush region. Tsaghkavan, Aygehovit, Azatamut, Lusadzor, Yenokavan և Haghartsin, communities.
+  The busts of Tsarist Sako ար Tsar General Varshamov of Fida, as well as a monument dedicated to the Great Patriotic War, are placed in the village-park in the middle of the village.
+  There are places of tourist value in the community: rest, forest areas, cold springs.
+ The population of Skar community is mainly engaged in cattle breeding, plant breeding and beekeeping.
+  The nature of Skar is rich. There are valuable tree species, such as oak, linden, beech.
+  There are places of rest, cold springs: Darpas, Dhanak, Mamrut, Kara Novi, etc.
+The clean fresh air here, the healing mineral waters, the herb-rich nature are favorable for the organization of the population's rest, restoration of health, development of tourism.
+  The origin of the toponym "Skar" is connected with the legend passed down from generation to generation, according to which the village was named in honor of "Kara Novi" spring, where the lost animals of the villagers were located.
+And the territory of the old village stretched in the places called Darpas և Yeghetsa Yal.
+ In the past, they were heavily forested and high (1000 m), which is why the villagers have always been in trouble for their pastures. "
+ The people of Skar are about three kilometers below the village for grazing their animals, after liking the springs and abundant pastures, they move to Davtyanner hill (in the local dialect, Tavtants yal), Kocharyan hill (in the local dialect, Kocharants yal), etc.
+  900-1000 years ago the village stepped down from the old village է the present-day village of Skar was formed.
+ Skar community has summer houses, winter houses, where the population is engaged in cattle breeding, crop breeding, beekeeping, and other agricultural activities.
+ The summer houses և winter houses were created in the 1830s և are located 45-50 km away from the village.
+  The summer houses and winter houses of Skar village are presented according to the saying of the people of Qar: 1. Aghbgha 2. Evlycomer 3. Haramola 4. Carnut 5. Kyochakar 6. Postericomer 7. Berdzenner (Tandzut) 8. Okon ("Okon" fortress) 9. Khachbulagh (ground of the same nameHotels)
+Holiday homes
+(Gargyatuk (Okhtnakhpyur) near Jasmaurt (near Sangyarberdadegh) (settlement) called Sangyar) 10. ՋլղուրթԿարմիր քարի քարայր ․ At a distance of 3 km northeast of the village of Skar is a mountain called Karmir Kar, the cave is 4 meters from the top of the mountain.
+  It is 788-900 m above sea level.
+  The southern slope of the mountain is very fragmented, the mountain can be used for extreme tourism.
+ A geodetic point is located on the top of the mountain.
+The parameters of the cave are the height of the entrance - 2 m, the width - 3 m, the depth - 3 m.
+  The cave stands out with its height.
+  A beauty gallery opens from here.
+  In the spring, the cave becomes a wonderful gathering place for visitors, but more often for local fishermen and snow-collectors.
+The place called Darpas is in the western part of Skar village.
+ It is located at a distance of 3.78 km.
+  At the gate there is a stream (it creates small ponds, giving it a unique look), a cold spring և pavilions (memorial fountains).
+ In the area there are large stones of the ruins of the settlement, deep holes, which at the time were called "paker", that is, houses.
+Arkhajakar rocks cave ․ The place called Arkhajakar is in the south-western part of Skar village, at a distance of 4 km.
+  There are big stones, rocks քանի several caves in the area (the height of the entrance is 2 m, the width is 10 m, the depth is 2 m).
+ The cave served as a residence for the old villagers of Skar.
+  Let's check the place name "Arkhajakar".
+  This place served as a gathering place for animals for the inhabitants of the five places of Skar.
+ The smell of the villagers' sheep always stops near a big stone.
+In the dialect version, the place where the sheep stopped was called "Arkhajategh".
+ Hence the name "Arkhajakar".
+Karmralanj (Janjakar) mountain ․ Karmralanj (Janjakar) mountain is in the south-western part of Skar village, at a distance of 4.60 km.
+  The mountain has a height of 1376.
+ Due to the location, it is green և wooded.
+ The western part is mountainous.
+Barefoot Mountain (Contact) ․ Paytapap mountain is in the south-western part of Skar village, at a distance of 10.22 km (distance from Achajur village is 6.20 km).
+The deciduous mountain is the highest mountain in the Mtnasar mountain range (1979 m).
+Map 1. Sevkar village of Tavush region and adjacent taratsknereAghyusak 1. zbosashrjayinresursneri recording sheet Sevkar village and surrounding areas Residence (community), Wild anvanumetsragrikartezum paymanakannshanneriAshkharhagrakankoordinatnere ( «Google Map» - ihamadzayn) karikarayrKhachi Red Hill (yawl) Sevkar hingyughateghiArkhajakariSevkarzhayrer and karayrSevkar yevAchajurKarmralanj mount (Janjakar) Sky-mountain Oghzakar rocks Van connection stream և monumentCountry stream ևwaterfallsPaytapap mountain's fountain և fountain և monument Under the connectionSkaretsi monument այտPaytapap mountain Book-album, 1984-2006.
+[2] Chagharyan S. A., Stone Information, Events, Yerevan, 1992.
+Davtyan Hakob TAVUSH MARZ SEVKAR VILLAGE AND RELATED AREAS DISCOVERY, ACCOUNTING AND MAPPING Keywords: database, GPS, map, location, map, location

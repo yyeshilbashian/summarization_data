@@ -1,0 +1,56 @@
+STIZOLOPHUS BALSAMITA LAM. ABOUT SOME ISOLATING CALLUS, SOME PROPERTIES OF GROWTH AND MATERIAL EXCHANGE For centuries, plants have been used in folk medicine for the treatment and prevention of various diseases, as well as for economic and domestic purposes.
+  Today, about 25% of modern medicinal products contain substances of plant origin, as their high therapeutic effect is not accompanied by side effects, which are not excluded when using synthetic chemicals not found in nature (Farnsworth et. Al., 1976; Raskin et. .al., 2004).
+  The study of the pharmacological properties of plants, the ways of synthesis of their secondary metabolic products, the mechanisms of their influence, the production of substances of therapeutic significance through alternative channels are now very relevant.
+It is known that the members of the family of complex flowers are endowed with the synthesis of biologically active substances (flavonoids: plearogin chloride, anthocyanins, cyanidins, glycosides: cinnar, centaurine, polyacetylene compounds, alkaloids, carotenoids, mucus, carotene, mucus flavonoids with high potency of narcissus, isocouverter, ramnet, essential oils, inulin, malic acid, salicylic acid, etc. (Ugur et. al., 2009).
+ Stizolophus balsamita բարձր endowed with high biological activity, produces sesquiterpene lactones: stizolin, stizolycin, balsam (Rybalko, 1978), 9-epibalzam, 9-epihydroxy-8-balsam (Oksuz et al., 1986). - hydrostizoline (Suleimenov, et.al., 2005), cirsimarite (Suleimenov et. al., 2008).
+The aim of our work is to study the biological activity of S. balsamita plant, to develop the conditions for obtaining an isolated culture, to study the peculiarities of metabolism.
+Material և method.
+  S. balsamita plant was collected during the flowering period from the Territory (about 1000 m above sea level).
+ Callus culture was cultivated in the traditional way (Buteno, 1964).
+  In order to obtain the primary callus, Murasige-Skug (MS, Moorashige and Skoog, 1962) based on different hormone composition and number of nutrient mediums were tested - 7 - a nutrient medium that promotes our conditional HR regeneration (Table 1).
+  Different tissues were used as implants: hosts, stem, cup leaf.
+Table 1. Quantitative և Qualitative composition of phytohormones in food mediaEnvironmentMSSMRHormones (mg / l) ITC kinetine NTK BAP GT S. balsamita To study the growth characteristics of callus culture, a determination of the amount of callus dry matter (%) was made.
+  Antioxidant was determined by express-test (free radical scavenging) using 2,2-diphenyl-1-picrylhydrazyl (DFPH) (Kalita et. Al., 2013).
+ For this method, 1 g of dry tissue was dissolved in 70% ethanol at 10 ° C.
+  The resulting homogenate was centrifuged, and the supernatant was dried at room temperature.
+  The dry residue of the extracts was stored at 7 ° C for later use.
+  The analysis of the extracted materials was performed in 96% ethanol.
+  Ascorbic acid was used as a positive control.
+Total protein content in tissue was determined by the Peterson method (Peterson, 1983), which is based on the ability of amino acids to absorb a wavelength of light.
+  The COOH group of amino acids absorbs the 236 nm light wavelength range, and the NH3 group absorbs the 224 nm light wavelength range.
+  And based on the difference between the two optical densities, the optical density of the proteins is determined.
+  A buffer consisting of the following materials was used: 50 mM Tris HCl, pH 8.8, 10 mM ethylenediaminetetraacetic acid (EDTC Na), 1 mM phenylmethylsulfanyl fluoride (FMSF), 5 mM mertkaptaet.
+Summary of the Results.
+ Callus culture of S. balsamita was obtained from bean leaf test media on MS diet only.
+ No callus appeared from the other tissues of the normal plant.
+ The primary callus grew upwards, was brittle, had a white color (Fig. 1), which turned light yellow during the exchanges.
+  From the 4th-5th alternations, root-like formations have emerged from the base of the callus (Figs. 2, 3), from which no regenerative plants have been obtained.
+Figure 1. S. balsamita callus growth in the MS medium. Figure 2, 3. S. balsamita callus root formation in the MS medium.
+Figure 4. Growth callus of S. balsamita 9–10 in the MS diet. To study the growth characteristics of the balsamita plant, the growth index was determined ումը accumulation of dry matter in one stage of growth during 5, 10, 15, 20, 30 days (Fig. 5, 6).
+Figure 5. S. balsamita callus tissue growth index The determination of callus tissue growth index in the study showed that on the 10th day of germination, callus growth was slightly lower than the original, as shown in Figure 5.
+ The callus of the 10th day had a light brown color.
+Until the 15th day, almost no change in growth was observed, but callus graying was noticeable.
+ And after the 15th day, a sharp increase was registered, as well as a change in color, the dark brown color was much more obvious.
+The 30th growth growth index has reached 3.5.
+  These indicators և color changes indicate an increase in the activity of the synthesis of secondary products of callus tissue metabolism (Fig. 6).
+Dry matter daysFigure 6. Dynamics of dry matter content in S. balsamita callus tissue 0123405101520253035 days3index 02468010203040 As can be seen from Figure 6, no increase in callus dry matter mass was recorded at the beginning of cultivation, and reached 15-20 days later, after which it reached 15-20 days. In the days, dry weight loss is already observed.
+ In the 20th-30th days of cultivation, an increase in the accumulation of dry matter was observed, reaching the initial indicator, and the maximum amount of dry matter was observed only on the 15th day of cultivation.
+Some members of the Asteraceae family have high antioxidant properties, almost equivalent to vitamin C (Chougule et al .; 2012).
+Based on the literature, we have studied the antioxidant properties of S. balsamita, a member of this family, taking into account the principle of phylogenetic kinship.
+The dynamics of the change in antioxidant activity was determined on the 10th, 20th և 30th days of callus growth.
+  For this purpose, extracts with concentrations of 10, 50, 100, 500, 1000 μg / ml were used, the activity of which was compared with the activity of solutions with the same concentration of ascorbic acid.
+ According to our research, the callus tissue of S. balsamita plant has a rather high antioxidant activity, which changes during one cycle of callus tissue growth (Table 2).
+ Antioxidant activity in the initial period of callus growth, on the 10th day, is 25.94%, later decreasing to 15.09% (20th day), and at the end of the growth cycle increases to 41.89% (Fig. 5).
+The antioxidant activity of callus growing in 7 nutrient media, as well as natural plant, which were 37.19% և 43.1%, respectively, was determined.
+ This suggests that the hormonal composition of the MS nutrient medium is more conducive to the synthesis of substances with antioxidant properties for S. balsamita callus culture, մակարդ the level of synthesis of these substances is comparable to the level of their synthesis in a normal plant.
+Table 2. Antioxidant activity of S. balsamita isolated culture per day Concentration test (Vitamin C) μg / ml 500 μg / ml 100 μg / ml 50 μg / ml 10 μg / ml The level of synthesis of secondary metabolic substances in the tissue, then it is expedient to determine the amount of total proteins.
+The amount of protein of S. balsamita բնական callus culture of normal plant was determined (Fig. 7).
+Figure 7. Total amount of S. balamita protein (days 1-10, days 2-20, days 3-30, 4 normal plants) After the results obtained, the 15th day of callus growth was recorded as the highest value of material accumulation, after which it decreased to almost the initial level.
+ The reduction of dry matter coincides with the activation of the synthesis of secondary primary metabolism.
+Thus, we have obtained an isolated culture with high metabolic activity of S. balsamita, which can be offered as an alternative source of biologically active substances.
+Literature 2. Akerele O., Nature's Medicinal Bounty.
+ Don't throw it Away. World Health Forum 1993; 14.
+Pharm. Sci. Support. Public Health, 1976; 148 (2).
+ 46-52.behen, Journal of Applied Pharmaceutical Science, 02 (04); 2012.
+ 106-110.10 (27).
+ 3419-3429. Hayarpi Davtyan, Naira Sahakyan, Anush Babayan, Margarit Petrosyan STIZOLOPHUS BALSAMITA LAM. ABOUT CERTAIN PRODUCTS OF ISOLATED CALL, GROWTH OF SOME MATERIAL EXCHANGE Keywords: Stizolophus balsamita, callus culture, DFSU.

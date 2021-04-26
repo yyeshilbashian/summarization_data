@@ -1,0 +1,106 @@
+THEORETICAL AND LEGAL ENFORCEMENT FEATURES OF THE ESSENTIAL MISTAKES AS A CONDITION OF INVALIDITY The civil law, being the basic և independent branch of the RA legal system, first of all, is aimed at ensuring stable and monetary relations.
+  In practice, civil law relations mostly arise from transactions.
+ Transactions, being actions aimed at causing legal consequences, are of a voluntary nature.
+ But the question of what should be given priority in order to determine the validity of the transaction, whether it is internal will or will, is debatable.
+It is noteworthy that there are 3 main approaches to this issue in the theory.
+ The founder of the theory of will is considered to be F. K. Savin with his "Modern Roman Legal System".
+1 Considering the will a necessary condition for the validity of the contract, the author writes: "In the absence of the correspondence of the will, there is no free, real will, there is only the illusion of the will.
+  The resulting defect, entering the legal field as an obstacle, creates the need for a positive reaction ”2.
+Absolutely, such an opinion is not acceptable.
+ There are cases when a party is obliged by law to enter into a transaction (for example, a preliminary contract), in which case the will does not have to correspond to the will.
+ Giving priority to domestic will, we first ignore the significance of the deal received in a positive way.
+ The theory of will makes the application of transactions in civil legal relations in general extremely elusive; in particular.
+The second theory prefers arbitrariness.
+ Representatives of this are Iering, Godem, Zankovskaya.
+ Based on the principle of "trusting in external facts", the will, as a phenomenon of no legal significance, is ignored3.
+  According to this theory, actions and legal consequences are related to voluntariness, which gives stability to civil law relations.
+  But at the same time ignoring the capacity of the internal will, the possibility of disputing transactions that, for example, were concluded under the influence of threats is excluded.
+We accept the third theory, which, in fact, unites the first two.
+ According to this, the unity of will and will is paramount for the validity of the transaction.
+ "Only such an action is considered legal, which is a voluntary activity. However, the presence of will is not enough. "Only actions subject to external characterization have legal significance," said D.I. Meyer 4.
+  Emphasizing և´ will, և´ will, this theory only adheres to the idea of ​​the unity of the two in the event of a conflict arising when there is no unequivocal solution.
+In fact, the internal will cannot be considered as a legal fact.
+ According to the Civil Code of the Republic of Armenia, transactions of citizens and legal entities 1 See Tomsinova A., Ponяtie “Willenserklärung” (volunteering) in German citizenship 1900, Vestn. моск.ун-та, сер. 11, Right. 2012, № 5, pp. 49-63, available at http: // www.
+//tomsinov.com/IGPZS/WILLENSERKLARUNG.pdf, available as of 08.03.2015.
+2 See Savigny FK, The System of Contemporary Roman Rights, Volume II, ed. Statute, Moscow-Odessa 2012, pp. 266-267.
+3 See Problem aspects of transaction performance conditions, available at http: // www.
+//www.jourclub.ru/31/1786/, available as of 08.03.2015.
+See Meger available at http: // www.
+//civil.consultant.ru/elib/books/45/page_21.html#29.
+are.
+ In order to conclude a contract, the expression of the agreed will of two parties (bilateral transaction) or more than three parties (multilateral transaction) is required.
+  In order to conclude a unilateral transaction, the expression of the will of one party is necessary.
+ In interpreting the terms of the contract under Article 447, the court must proceed from the literal meaning of the words և expressions contained in it.
+  Based on all this, we can prove that our legislation gives preference to the theory of voluntariness, guided by the presumption of the conformity of will and willpower.
+At the same time, fixing the principle of will autonomy, the legislator stipulates that each subject of civil legal relations can freely form and express his own will.
+  And Articles 306-313 of the Code, presenting the terms of validity of the transaction, refer either to the so-called "vicious" will (for example, a transaction concluded by a child under 14 years old), or to a non-compliance of the internal will or a revelation (fake transaction).
+  In fact, the law does not give priority to one theory in absolute terms, ignoring the other, but combining the two, it becomes a unique manifestation of the third.
+ Based on this, let us consider the current legal regulation on the invalidity of transactions concluded as non-compliance of the will or disclaimer.
+Let us begin the study of this question by clarifying the concept of essential error.
+According to the RA Civil Code, the misconception about the nature of the transaction or such features of its subject matter, which significantly reduces the opportunities to use it according to the purpose, is essential.
+ In fact, in this case, the internal will of the parties does not correspond to the will, it can occur as a result of lack of discretion, self-confidence of one of the parties, actions of a third party, in circumstances independent of the parties.
+ At the same time, the error is not the result of deliberate, directed action by the party to the transaction.
+In case the misunderstanding of the party regarding the transaction arises as a result of the lack of necessary vigilance of the other party, ie as a result of negligence, a problem arises before the law to prohibit the use of the transaction proposed by the party that caused the error.
+  Moreover, the law is effective when it uses the will of the "vigilant" party, it will not be applied in the absence of vigilance.
+  The legal practice of the state of Louisiana in the USA has led to the fact that in the legal sense error 1 exists in the presence of 2 conditions: 1) the error is such that if it knew the truth the deceived party would not enter into the transaction, objectivity for the other side.
+  At the same time, the realization of the existence of error is not a necessary condition2.
+The first point interprets the condition in which the error will be significant.
+ This approach has great practical significance. it almost completely delimits delusion from substantial delusion, thus minimizing the court's discretion in deciding the matter.
+ The regulation of our legislation is not clear in that. It links the existence of material misstatement to the nature of the transaction or to the characteristics of its subject matter which significantly reduce its ability to be used as intended.
+ We think that the fact of the existence of a significant error should first be connected with the conditions, in the absence of which the party (parties) would not have entered into that transaction.
+ To substantiate this view, let us consider a case of Russian jurisprudence.
+  The Arbitral Tribunal of the Court of Cassation declared the contract of sale invalid on the basis that the buyer had acted under the influence of delusion, in particular believing that the importing company had the appropriate license3.
+  It is noteworthy that this decision was made before the legislative change, when the same regulation was in force as provided by our current legislation.
+1 See Louisiana Civil Code, Chapter 4, Section 1.
+2 See Redmann D., The Role of "Unilateral" Error in Contract Rescission, Construction, and Damage Valuation.
+ A Modest Proposal, is http.
+//digitalcommons.law.lsu.edu/cgi/viewcontent.cgi?article=5471&context=lalrev, available on 08.03.2015.
+3 Available at http.
+//iv.garant.ru/SESSION/PDA/linkProxy?subjectId=70561464&linkType=65537, available on 08.03.2015.
+The latest amendment to Article 178 of the Civil Code of the Russian Federation states in the last amendment that the party, having assessed the situation reasonably and objectively, would not have entered into a transaction if it had known the actual situation.
+  The last provision is not completely acceptable.
+  In fact, the current situation is a broad concept և may not և refer to the actual transaction.
+  At the same time, the points in connection with which delusion may arise are listed separately.
+ We think that such a burden on the law is unnecessary. it, in fact, interprets the norm, although at the same time it has a positive meaning. promotes uniform application of the article.
+  Consider this one setting.
+  According to the Civil Code of the State of California, USA, "A factual error is an error which, not arising from the abuse of the duty imposed on the wrongful party, presupposes: 1) ignorance or forgetfulness of a fact that exists or has existed, which is essential for the transaction, 2) belief in the fact that the material essential for the transaction exists (has had), but in reality it does not exist (did not exist).
+  The article immediately emphasizes the obligatory condition of the good faith of the party, which is a necessary circumstance to separate the delusion from the deception.
+ The effectiveness of the application of this article is that the points to which the error may apply in practice are not listed separately. Giving a general overview, it includes all the possible options.
+ We think such a settlement is the most optimal option.
+Our legislation attributes the occurrence of error only to the nature of the transaction and the characteristics of the subject matter, which, due to its inexhaustibility, can be considered open to legislative regulation.
+  The Court of Cassation in 2009 has made a precedent decision on significant error, which states: "Ությունը The misconception about the nature of the transaction, in particular, the nature of the transaction, its consequences, the content of the parties' relations is essential.
+ The misconception about the characteristics of the subject of the transaction means that the parties or one of them meant not the subject to which the transaction relates, but another object that differs in its characteristics ”2.
+ With this decision, the settlement has become more concrete, but, we think, incomplete.
+ In this way, the situation will arise from it, when the delusion refers to the party or its features.
+  Such a case has occurred in the judicial practice of the Russian Federation.
+ The sole proprietor had applied to the court to declare the transaction invalid on the grounds that when concluding the transaction he meant not the legal entity with which it was actually concluded, but the legal entity with the same name but with a different state registration number.
+ The claim was upheld, and the Arbitral Tribunal upheld that the article did not exhaustively enumerate the circumstances in connection with which a substantial error may arise3.
+ In general, the laws of many countries provide for the possibility of misunderstandings regarding the characteristics of the party, among other circumstances.
+Summarizing the observations, let us mention that the following will be the most effective settlement. A transaction is deemed to have been effected by material misstatement if the party who entered into the error, knowing and reasonably aware of the actual content of the terms of the transaction, would not have entered into the transaction.
+It is possible to make the right distinction between delusion and deception.
+  In practice, the distinction between these two conditions of invalidity is problematic, so it is possible to reach an unequivocal solution due to this or that problem.
+  We think that by putting the manifestation of guilt on the basis of separation, it will be possible to bring some clarity to this sphere.
+As mentioned above, the US state of Louisiana has taken a unique approach to misrepresentation.
+  Let us now turn to the second point, which is more controversial.
+  Noting that the realization of error is not necessary, it turns out that in case of realization there is a delusion, while in that case we are already dealing with the dishonesty of the party.
+  The Court of Cassation referred to the dishonesty of the party with a precedent decision on fraud. "The deception is to deliberately mislead the person in order to make a deal with him.
+  Ներում In fraudulent transactions, the dishonesty of one party is unconditionally 4 ”.
+1 See California Civil Code, Article 1577.
+2 See ECD / 0724/02/08/2009, "Gorg Zurunyan v. David Kitapszyan, Varazdat Yeghoyan".
+3 See Case A40-154129 / 13 02.06.2014, Moscow.4 See CAS / 1671/02/09 July 01, 2011.
+In Russia, the view was applied (according to the previous legislative regulation), which emphasizes the necessity of the existence of a horse of negligence, not just a sin, detailing that in case of intent we will be associated with deception1.
+ In that way, good faith is further strengthened, he did not know, but maybe he owed.
+  It should be noted that such a division of guilt is typical of criminal law, while civil law provides for two forms: intentionality and negligence, with two subtypes: mild and hard.
+  Therefore, it is advisable to use the horse of negligence to settle the issue, as Estonia has done, for example, whose civil code stipulates that the person at whose claim the transaction was declared invalid can claim real damages. .
+  The other party does not compensate the damage caused if he did not know և He did not have to know about the mistake, the deception3.
+The current regulation of our legislation emphasizes the necessity of the existence of guilt in order to settle the issue of real compensation.
+ We consider it more expedient to mention in that part of the article that the party whose claim the transaction was declared invalid is obliged to compensate the real damage caused to him at the request of the other party, unless the error occurred as a result of the other party's negligence.
+ Guided by the presumption of guilt in civil law, the party must prove the absence of his guilt.
+ The proposed settlement first emphasizes the need for each party to exercise due diligence when entering into a transaction, it emphasizes not only the guilt but also the guilt of having a negligent horse (excluding the subspecies).
+It is interesting that the German Civil Code refers only to the good faith of the injured party. "There is no obligation to compensate if the injured party knew about the grounds for invalidity or showed negligence (he should have known)" 4.
+In addition to preventing possible misuse of compensation, this regulation also provides a unique definition of error, using it as the victim's good faith.
+In fact, it can be concluded that one of the grounds for delusion is negligence, which can reveal both the injured party and the counterparty, and the law protects the interests of the party who has shown the necessary caution and prudence in concluding a transaction.
+Thus, we have seen how important it is to accurately define and apply the error as a condition of invalidity of a transaction.
+  Derived from Roman law, it is reflected in the laws of many countries, and the definition of the norm is different in all countries.
+  As a result of the subjective perception of the party to the transaction, it becomes possible to clarify the validity determination process.
+Louisa Meliksetyan THEORETICAL AND LEGAL ENFORCEMENT FEATURES OF CONCEPT OF CONCEPT AS A CONDITION OF INVALIDITY Keywords: transaction, will, willpower, substantial delusion, deceit, deceit.

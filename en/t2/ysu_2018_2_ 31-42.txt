@@ -1,0 +1,120 @@
+PRECEDENTS IN CRIMINAL LAW Cases as a source of law are of key importance both in countries with a common and Romano-Germanic legal system, and in the countries of the continental legal system, including the Republic of Armenia, the perception of precedents is ambiguous.
+ Within the framework of this work, an attempt was made to study the existing approaches, to present a scientifically grounded conclusion on the possible ways of further application of the precedent in the RA criminal law.
+In order to understand the significance of precedents in the domestic law of the Republic of Armenia, first of all, it is necessary to interpret the concepts of "source of law" and "precedent".
+ Thus, the source of law is "material sources of law, that is, social, economic", other factors that determine the state power, the legal system, "idealistic sources", the totality of ideas, concepts, "the totality of means to legislate the will of the authorities". Sources of recognition of the right.
+In the context of this work, the concepts of source of law should be understood only as formal-legal sources [1], that is, according to Cross, "not the direct or indirect causes of origin, but the sources from which the norm acquires legal force - becomes a legal norm" [2].
+ According to Bibik, the source of a narrow sense of law should be understood as the sources containing the norm of law [3].
+Historically, case law has been developed in England.
+Despite the existence of certain laws, such as the Law on Betrayal in 1351, the central role in the list of sources of law in medieval England belonged to precedents.
+ The main crimes were fixed by them.
+  Later, in an attempt to enshrine և develop statutory law, eliminate outdated precedents, most of the norms relating to the general law of criminal law in England և the main offenses were enshrined in the form of parliamentary acts.
+ Apparently, the precedent relinquished its dominant position in 1972, when the House of Lords "Knuller LTD v. In the case of DPP, it refused to confirm the right of the courts to establish a new corpus delicti for an act or to expand the content of existing ones.
+  Of course, even today there are criminal gangs, the fixation of which is given not by status, but by precedent, for example, the first-rate murder.
+A law has been passed in the USA, according to which no punishment can be imposed for crimes not provided by law.
+ In fact, the Supreme Court had expressed the same position in 1812, noting that "Before an act can be punished as a crime against the United States, it must be determined by Congress, the punishment must be determined by the court to which it belongs."
+ This is not an unequivocal provision in all states, however, it does not downplay the essence of precedents, as courts are crucial in interpreting laws, especially for crimes that are enshrined in law but not clearly interpreted.
+ It is noteworthy that the US Supreme Court refuses to consider all cases related to the constitutionality of laws, which the courts have not specifically interpreted.
+Before referring to the Republic of Armenia, let's try to set a precedent and reveal some peculiarities.
+ In general, judicial precedent is the decision of a judicial body in a specific legal case in which the enacted decree is considered mandatory by the state. [6]
+The analysis of the Anglo-Saxon legal system shows that at present the precedents are called to fill the gaps in the legislation, to interpret the legislative acts, moreover, it must be admitted that the role of the first function decreases with the development of the legislation, while the function of the second remains the same.
+Let us emphasize one function of precedents - the enforcement of precedents of the highest instances, which is primarily aimed at ensuring the uniformity of case resolution in the courts.
+In his work "Precedent in English Law", Cross distinguishes the following characteristics specific to English precedents: persuasive force.
+A separate precedent must always be valued.
+The precedents of the upper instances are obligatory for the lower ones.
+Only the English precedent has a precedent for the courts of the same instance, unlike the French one, it has a great value.
+In France, precedent cannot be so significant as to force other courts, even subordinates, to back it down.
+  Many theorists consider this to be the difference between the application of precedents in different legal systems.
+From the point of view of the study of English case law, 1966 is also of great importance. The "Statement" adopted by the House of Lords, which fixes the possibility of the House to "back down" from its previous decisions.
+ Despite the fact that this phrase does not mean to deny the previous decisions, it fixes the possibility of the House of Lords not to be connected with its previous precedents.
+ In contrast, appellate courts are bound by their previous decisions, although this rule does not apply as strictly to criminal courts as it does to civil courts.
+  The English courts have jurisdiction not to set a precedent for themselves if they substantiate any possible difference in the facts of the case.
+The study carried out in the framework of this work was based on English precedents, as the latter are a classic way of expressing case law.
+ In the context of changes in the role of precedents, the issue of the existence of such a phenomenon in Romano-Germanic law becomes more controversial.
+  Besides, the issue of application of precedents is omnipotent, it concerns all branches of RA law, the recognition of the latter as a source of law is controversial only in the field of criminal law, so the discussion of the precedent of the latter should be carried out in the context of criminal law.
+  Article 1 of the RA Criminal Code defines ․ "The criminal legislation of the Republic of Armenia consists of this Code."
+Article 5 of the same Code, dedicated to the principle of legality, provides for the following regulation: "The criminality of the act, the punishment, the other criminal consequences are determined only by the criminal law."
+ It follows from these statements that the only source of alleged criminal law in domestic law is the Code, excluding the existence and application of precedents in criminal law, while the practice proves otherwise.
+Article 1 of the Criminal Code of the Republic of Armenia defines a single model of sources of law, while the current law on the Constitutional Court guarantees the bindingness of the decisions of the Constitutional Court on the merits of state, local self-government bodies, their officials, as well as natural legal entities of Armenia. In the whole territory of the Republic (Article 61, Part 5 of the RA Law on the Constitutional Court).
+ It follows that these norms of the Constitutional Court are endowed with the feature of co-obligation, they are equally obligatory for the courts, as the latter are state bodies.
+ And if we take into account the fact that the purpose of Constitutional justice is to ensure the direct operation of the provisions of the Constitution, as a supremely enforceable legal act, it becomes incomprehensible that the Criminal Code does not give sources of criminal precedent to the Constitutional Court.
+ In order to resolve this contradiction, the National Assembly has used different mechanisms at different times, which have shown their effectiveness in practice.
+In our opinion, the policy pursued by the National Assembly in the recent past is unacceptable.
+ In particular, after the norm was declared unconstitutional by the Constitutional Court, the National Assembly adopted a relevant act declaring the same provision invalid.
+ This is not acceptable in several respects.
+ First, the process is time-consuming, as a result, nothing new is said, what is already confirmed is confirmed, and second, a problem arises when determining the moment when the norm loses its force.
+  In particular, it is not clear whether in such conditions the provision should have been recognized invalid from the moment of the National Assembly act or the entry into force of the Constitutional Court decision.
+ Third, it somewhat discredited the Constitutional Court, making its decision dependent on the act of the National Assembly on the same provision.
+  For example, according to the decision of the Constitutional Court, SDO-1082, certain provisions of Article 51 of the RA Criminal Code related to fines were considered unconstitutional.
+  That decision of the Constitutional Court was made in 2015.
+ The correction of the unconstitutional wording of the law was carried out by the National Assembly in 2017. March 1, according to the 59th law of the RA, which, naturally, was included in the RA Criminal Code.
+  Prior to that, in the absence of a clear legislative regulation for almost two years, the RA Criminal Code referred to the relevant decision of the Constitutional Court to ensure the solution of the legal gap.
+  In other words, that decision was a source of law that was binding on the courts, and the reference to it in the RA Criminal Code did not mean that the courts would be constrained to make a decision based on it, if it was not included in the Code.
+  According to the Law on Legal Acts, the acts of the Constitutional Court are in a higher position in the subordination of legal acts, that is, they have a higher legal force.
+  Condemning the use of the latter by the fact of being included in the Code discredits the Constitutional Court.
+  In the law on the Constitutional Court in 2011 After the amendments were made, it was clearly stated that in case of non-disclosure of the constitutional content of the norm, the decision of the Constitutional Court is an independent և sufficient basis to apply to the court վեր to review the case, ie the implementation of the Constitutional Court decision is not dependent on the legislative activity of the National Assembly.
+According to a group of theorists (Naumov [7], Konyakhin [8] և others), only those who recognize the norm as unconstitutional are a source of law.
+ Another group of authors (Obrazhiev [9], Madyarova [10] և others) consider such decisions not only to be unconstitutional, but also to contain a specific interpretation.
+If the RA Law on the Constitutional Court directly states that the act fixing the unconstitutionality of a norm has a normative nature, the same cannot be said by the Constitutional Court regarding the decisions on constitutional recognition within the framework of a specific interpretation, as there is no mention of the normative nature of the latter.
+  It is possible to fix the normative nature of the latter, as only normative legal acts can be a source of law in the Republic of Armenia.
+ Part 3 of Article 2 of the Law on Legal Acts considers acts that are aimed at defining, amending or terminating a legal norm as a normative legal act.
+The decisions of the Constitutional Court to consider the norm constitutional within the framework of a specific interpretation do not change, terminate, define any norm.
+  They are aimed at revealing and clarifying the constitutional content of the norm.
+ However, these should not be ignored, as the latter, apparently, have a normative nature, they are obligatory, they solve the case, in fact, they are addressed not to individuals, but to all subjects.
+  Therefore, it would be welcome if the Constitutional Court, like the executive branch, differentiated its normative-individual acts to avoid disagreements.
+  This is evidenced by the decision SDO-943, in which the Constitutional Court considered the decisions aimed at revealing the constitutional content of the norm to be normative, precedent-setting.
+Summarizing the point of view on the decisions of the Constitutional Court in the Republic of Armenia and comparing it with the English precedents, the Constitutional Court should note that the decisions of the Constitutional Court have precedent, they should be considered the highest body of criminal law.
+The specific acts of the Constitutional Court have a normative nature, as some of the latter terminate the validity of the norm, the other - give a specific mandatory content to the norm, which extends to a wide range of persons, covering a much wider scope than an individual decree.
+There are bodies, including courts.
+The decisions of the Constitutional Court have binding force. Now let us refer to the Court of Cassation.
+ The precedent decisions made by the latter have conflicting views on the issue of viewing a source of criminal law.
+ The argument against the precedents is based on the argument that the decisions of the Court of Cassation have only interpretative significance, that is, they contain interpretative norms that do not say anything new, they lack normative novelty.
+ This cannot be completely agreed with.
+  According to a large number of criminologists, the following views serve to refute this argument: content.
+The precedents of the Court of Cassation often offend the norm. In this respect, the view that the Court of Cassation can interpret a specific crime widely should be immediately refuted.
+ The case law of the European Court of Human Rights has confirmed that the existence of a crime is determined and a sentence is imposed solely on the basis of law.
+ In the judgment in Kokkinakis v. Greece, the European Court of Human Rights has ruled that Article 7 1 1 of the Convention for the Protection of Human Rights and Fundamental Freedoms is not intended solely to prohibit retaliation. the application of criminal law.
+ It generally states that only the law can define the crime և provide for punishment. "Nullum crimen, nulla poena sine lege", as well as the principle that criminal law should not be subject to spatial interpretation to the detriment of the accused, ie should be applied by analogy (see KOKKINAKIS v. GREECE, judgment of 25 May 1993, appeal No. 14307/88, item 52).
+The crime of the act is defined exclusively by the law.
+ This implies that only the law reveals the features of a crime.
+  At the same time, it is necessary to note that in the countries of the Romano-Germanic legal system, the practice is met with such precedents that deviate from this common approach and establish rules related to the elements of crime.
+ For example, on the crime of hooliganism (Article 258 of the RA Criminal Code) in the case of Shahen Hakhverdyan in 2012. The number of people convicted of hooliganism has decreased in number since the decision No. AVD / 0014/01/11 was made on March 30, 2016 և after clarifying the interpretation of the crime (compared to 2016 և 2014).
+Similarly, in the case of Srapion Hovhannisyan, in 2012, on the crime of violating the code rules of military relations in the absence of subordinate relations (Article 359 of the RA Criminal Code). The number of persons convicted under Article 359 of the RA Criminal Code has significantly decreased after the decision No. SD / 0204/01/11 on June 8, 2010.
+In the Republic of Armenia, the Court of Cassation often comments on the subjective side of actions, especially in the case of qualified and privileged crimes.
+ In particular, in terms of the subjective side of the murder by a group of persons, the Court of Cassation in its decision CC / 0319/01/10 stated that this crime can be committed by the subjective person either directly or indirectly.
+A vivid example of this can be the following position with the Court of Cassation. They specify and supplement the content of the criminal law.
+The crime, according to the nature of the actions taken, the degree of realization of the criminal intent, is divided into two types: completed or unfinished.
+ Theoretical and practical significance of the classification of the completed or unfinished crime.
+ In particular, it is taken into account when determining the degree of public danger of the act, when solving the issues of criminal liability, personalization of punishment, as it allows to correctly determine the issues related to voluntary renunciation of the crime.
+"In order to consider the crime completed, it is necessary for the criminal to perform all the actions that he deems necessary to complete the crime (for example, he shoots the victim to kill him, but does not die due to medical intervention).
+  Crucial to this type of crime is the offender's confidence that he does not require any additional action, that what has already been done is sufficient to carry out the criminal intent.
+On the other hand, in the case of an unfinished crime, the perpetrator does not perform all the actions he deems necessary to complete the crime (for example, he does not have enough force to suffocate the victim, he wants to shoot the victim, but the weapon is out of order, there is no shooting).
+  This type of crime is characterized by incompleteness of actions, partial execution of the objective side.
+ At the same time, the criminal realizes that in order to complete the crime, it is necessary to perform some other actions, which he does not succeed in doing (…) ”(see V. Yeghiazaryan's case of the Court of Cassation, 13.09.2013, No. EKD / ​​0087 / Decision 01/12).
+It is obvious in the decision that the Court of Cassation, guided by the theoretical-practical necessity of differentiating completed, unfinished criminal attempts, defined their concepts, supplementing and specifying the law.
+To cite another example, the Court of Cassation establishes additional criteria for assessing the need for protection by distinguishing between a state of aggression and a state of aggression.
+The law does not require the defendant to use measures equivalent to those used by the abuser.
+ The defendant can also use more effective means.
+ In solving the problem of the proportion of harassment, it is necessary to take into account the following circumstances: a) the value of the protected good, the amount of damage that could have been inflicted on it, b) the intensity and suddenness of the harassment, c) physical force և etc.), d) the number of harassers և defenders) the situation, place, time և etc. of the harassment ”(see A. The guiding nature of the acts of the Court of Cassation speaks to the latter. Point 28 of the decision / 01/09).
+about obligation.
+They are widely used in jurisprudence [8, 11].
+The legislator does not always sufficiently clarify the concepts used in his legislative acts.
+ The consequence of this is that the large number of evaluation categories contained in the codes is not sufficiently covered.
+ Therefore, in such a case, the interpretation can be considered as filling the gaps allowed by the legislator.
+ An example of this is when the Court of Cassation sets additional criteria for qualification.
+ Thus, clarifying the aggravating circumstance of committing a crime as a trade in the decision No. EKD / ​​0149/01/14, the Court of Cassation established certain preconditions for qualifying the act as such: • committing the same or similar acts, • performing regular acts three or more times, • material gain Receipt, • be a main or additional source of income (considered to be a non-main but significant material benefit to the offender).
+There are many such examples ․ In these other legal positions, the Court of Cassation has expressed such obligatory clarifications, which are not stipulated by the legislation.
+ By specifying the norm, clarifying and explaining it, the court is beyond the scope of the wording of the legislation, therefore, we think that the interpretation of the latter does not deprive of normative innovation.
+Based on the above, the following can be stated about the precedent nature of the acts of the Court of Cassation: The acts of the Court of Cassation are obligatory.
+Revealing the definition of norms in the acts of the Court of Cassation leads to a certain change in the content of the norm or a new norm is established in the context of the legislative norm content.
+Filling in the blanks through positive comments through comments.
+in the system of the RA judiciary.
+The positions of the Court of Cassation are directed first of all to the law. The Court of Cassation is a body administering justice, Article 2 of the draft Criminal Code on criminal legislation should be considered welcome.
+ It envisages the following settlement: "The criminal legislation of the Republic of Armenia consists of this Code, the legal acts of the Republic of Armenia, which contain criminal norms or are relevant for the application of criminal law."
+ As we understand, such a settlement has abandoned the monolithic model of criminal law, "taking the opportunity to understand it as a source of law" and court precedents.
+ However, the lack of court precedents in the draft law "On Normative Legal Acts" significantly complicates, even excludes the possibility of viewing the case law as a source of criminal legislation, և apparently creates a situation when the new norm is no different than the old one.
+In the context of the above justifications, it becomes imperative to legally fix what actually exists է it is widespread in practice.
+  If the opposite approach is taken, the Court of Cassation can not perform the function of ensuring uniform application of the law, developing the right, and the Constitutional Court will become a purely advisory body upon repealing the norm or revealing the constitutional content of the norm, which, in our opinion, is unacceptable.
+ It is self-evident that as law enforcement agencies, the courts are most likely to encounter legal loopholes, unfavorable consequences arising from flawed applications, so it is realistic to develop effective options for filling legal loopholes, they must be endowed with appropriate powers.
+LITERATURE [6] Vagharshyan A. G., Theory of State 2 Law 2, Yerevan, 2011, p. 110.
+В., Этнокультура уголовного право.
+  Autoref. Dis., K.J.N., Moscow, 1985, c. 39, Marianna Grigoryan PRECEDENTS IN CRIMINAL LAW Keywords: precedent, normative legal act, source of law, Constitutional Court, Court of Cassation, continental legal system.

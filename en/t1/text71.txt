@@ -1,0 +1,76 @@
+It is no secret that one of the ways to increase the efficiency of teaching, as well as the quality of education is to find and directly apply interdisciplinary connections in the teaching process, because it is through these connections that the school course becomes complete and teaching more effective and purposeful.
+ Interdisciplinary connections are a direct and concrete reflection of the integration processes taking place in science and society in the modern world.
+  These connections play an important role in the process of acquiring students' practical and theoretical knowledge.
+ Finding interdisciplinary connections helps to make the knowledge gained by the learners more meaningful and practical in practice.
+  These connections play an essential role in the development of systemic thinking in learners.
+  They enable the transfer of abilities and skills formed as a result of teaching any subject to other subjects.
+ From the point of view of didactics, the use of interdisciplinary connections to some extent raises the scientific level of teaching and promotes easy mastering of the material provided by the learners.
+ On Interdisciplinary Relationships Jan Amos Komensky in his book The Great Didactics states that interconnected learning enables students to discover the connections between the subjects and the phenomena being studied.
+  The famous pedagogue particularly mentions. "To strengthen everything on the basis of reason means to learn everything by pointing out the reasons, that is, not only to show how this or that thing happens, but also to show why it can not be otherwise.
+  After all, to know something means to recognize it in its interconnectedness ”[1, pages 181-182].
+ In essence, interdisciplinary connections as a didactic concept depend on the level of study of the environment and the world and are manifested as: Անք Reflection of interdisciplinary connections in the teaching process;
+ Well-known pedagogue Yuri Konstantinovich Babansky also presented his spectacular approaches to interdisciplinary relations in his famous work "Selection of Pedagogical Works", where the author particularly mentions: "Ankara 245 PEDAGOGY is full of trying to get an accurate idea of ​​this or that phenomenon in reality within one subject, according to which such problems need to be solved through interdisciplinary generalizations" [2, pp. 304-305].
+ Regarding the aesthetic taste, it should be noted that N. Roshchina, in her work on the formation of students' aesthetic taste [3], based on the external and internal aesthetics of mathematical beauty, distinguishes three levels of aesthetic development of mathematics.
+  He considers the first of them to be the sensory or visual level, considering the external aesthetics of mathematical objects.
+ The next level is N. Roshchina calls it an alternative level, meaning that this level allows you to see the beautiful in comparison with mathematical objects.
+ The last, third level of formation and development of aesthetic taste N. Roshchina calls it the highest level, which, according to him, allows students to choose the possible "beautiful" from the variety of problems and their solutions and argue that choice, which implies the perception of both external and internal aesthetics of mathematical objects.
+ Accordingly, it is obvious that the interdisciplinary connections between algebra and geometry can best contribute to the formation and development of students' aesthetic taste, showing both the internal and external aesthetics of mathematical objects.
+ In this context, appreciating the importance and usefulness of revealing interdisciplinary connections in the learning process in general, as well as the problems of formation of students' aesthetic taste, in this work we have tried to address, in particular, revealing some manifestations of interdisciplinary connections in algebra and geometry.
+ Needless to say, one of the most important values ​​and features of algebra in general education is its application in studying related subjects, understanding and substantiating the patterns that arise in them.
+ What is remarkable here is that, except for the Armenian language, other subjects of study (geometry, physics, chemistry, biology, etc.) in the interdisciplinary relations of algebra, the "dictator" is the algebra itself.
+ The interdisciplinary connections of algebra with geometry are especially "strong", which, despite the above-mentioned "dictating" circumstance, have a dual nature.
+  On the one hand, algebraic knowledge is used to study geometric problems and problems, on the other hand, there is the opposite connection, when geometric problems fill the field of application of algebraic knowledge and make the teaching of algebraic "abstract" material more objective and interesting.
+ This work is dedicated to revealing the possible applications of this opposite connection.
+ Below we will first briefly mention the geometric "toolkit" and the lessons of algebraic problems in which the geometric apparatus, in our opinion, can have its effective and heuristic application, after which we will discuss the various standard and atypical problems considered in the school of algebra and solve them. We will also offer new geometric approaches to the well-known algebraic approaches, demonstrating the possible and useful applications of the geometry apparatus in the process of teaching algebraic material.
+  Moreover, it is necessary to keep in mind that the proposed new geometric approaches are applicable not only for the solution of specific problems, but also for the above-mentioned classes of algebraic problems in general, which is the main scientific and pedagogical novelty of the work.
+ Let us now turn to the discussion of separate classes of algebraic problems.
+ 247 PEDAGOGY 1. Certain lessons of modular equations and inequalities.
+ As we know, algebraic equations and inequalities with different modulus types are considered in the school course of algebra, and the well-known algebraic approach to solving equations or inequalities containing more than one module is the so-called interval method [4, 52-54], which is quite simple and applicable. However, in the case of several modules, it is also quite time consuming.
+ Below, we will propose another solution for equations and inequalities with a module of a certain class.
+ Thus, given the geometric interpretation of the modulus of a real number, according to which the modulus of an arbitrary real number is the distance from the point on the coordinate line to the origin, and the following geometrically known, obvious relations are arbitrary A belonging to the same line; For points B and X AX  BX  AB [5, page 87], moreover: Ության The case of equality occurs when and only if point X belongs to segment AB,  when point X does not belong to segment AB, then AX  BX  2 XM, where M is the midpoint of segment AB, the sum can be considered as The sum of the lengths of the segments where A  a,, B  b եւ and X  x են are arbitrary points belonging to the coordinate line.
+ Using such an approach, the equation AX  BX  2 XM makes it possible to replace the sum of the two modules under consideration with one equivalent module and thus avoid interpolation in the corresponding equations or inequalities.
+ 248 PEDAGOGY Thus, according to the above, for example we will have the following cases:  when  when when r  a  b if and if, then the given equation is equivalent to or equal to the equation.
+ It is easy to see that as a result of the repeated application of the proposed approach, other types of equations or corresponding inequalities can be solved in the same way, in which     0 , a, b, c, d and r are arbitrary real numbers.
+ Example 1.
+  Solve the equation x  1  x  3  6 [4, page 56].
+ Solution.
+ We have: Answer: 2. Certain classes of parametric equations and systems.
+ The well-known algebraic approaches to the solution of parametric equations and systems are based on the well-known formulas for the existence of roots of linear and quadratic equations depending on the parameter [6, pp. 209-216].
+ 249 PEDAGOGY Considering the possible cases of reciprocal arrangements of different geometric objects known from the school of geometry (for example, the possible cases of reciprocal arrangement of a circle and a line or two circles) [7, pages 40-42], in our opinion all parameter-dependent equations or systems whose geometric The interpretations of a circle and a line or two circles can be easily solved by the direct application of the geometric apparatus, which will make it possible to avoid the above-mentioned algebraic approaches.
+ Example 2.
+  For which values ​​of parameter a does the system have exactly two solutions [8, p. 37].
+ Solution.
+  It is easy to see that when the system has no solution, and when the first equation is given, then in the's rectangular Cartesian coordinate system, the system will represent a circle with radius R  2  a  1,, and the second equation is proportional to the line y   x from the origin of the coordinates. or that is, parallel lines d հեռ 7 removed from the center of the circle (see Fig. 1).
+ It is clear that the given system will have exactly two solutions to it and only if the mentioned parallel lines touch Fig. 1 250 PEDAGOGY the mentioned circle, that is, when Answer: a  2, 5.
+ For example, in the case of a parameter a, the modulus of the difference of the squares of the real roots of the equation x  4 x  a  6 a  12 will take the largest value [9, p. Solution.
+  Note that the given baseline equation is equivalent to the equation  1, which in the orthogonal Cartesian coordinate system xOa represents the equation of a circle with center and radius (see Fig. 2).
+  It is easy to see that if the given equation has real roots for some value of the parameter a, then the difference of the squares of those roots, taking into account Viet's theorem, is equal to a quadruple of 3 times the length of the lari, so it will take the greatest value when the length of the lari be the maximum.
+  And this will happen only if the wire is the diameter of the circle, that is, when a  3.
+ Answer: Fig. 2 3. Determining the values ​​of different expressions consisting of inverse trigonometric functions.
+ 251 PEDAGOGY There are various exercises in the school of algebra that require the determination of the values ​​of different expressions consisting of inverse trigonometric functions, and the accepted algebraic approach assumes that these expressions are angles, estimating a quarter of them, and calculating the sine, the sine Determine the value of the initial expression [pages 10, 155-160].
+  Below we will suggest to use the so-called "square grid" method when solving such problems, according to which it is enough to consider a "grid" of squares on one side and directly calculate the value of the required expression in it, depending on the problem conditions.
+  The proposed approach, we think, can be considered a method, based on Poya's well-known observation that any trick that is applicable in more than one case can be considered a method [11, p. 14].
+ Example 4.
+  Determine the value of arctg 1  arctg [12, p. 312].
+ Solution.
+  Consider the square grid of expressions (see also Fig. 3).
+  It is easy to notice that ունենք ACE  90 0 and from right triangles we have: Fig. 3 and since  BAC; Անկյուն CAD and  DAF 252 EXERCISE The angles are sharp, so  BAC  arctg 1;  CAD  arctg on the other hand Answer: Let's add that according to fig. 3, considering  CDA;  Prove ADF and's rectangles that in triangles, respectively, and  FDE angles, one can easily prove 4. Prove different triangular equations.
+ There are many exercises in the school of algebra that require proving different trigonometric equations, and the accepted algebraic approach involves modifying given expressions using basic trigonometric equations, addition formulas, sum and difference of two angles, double-angle, half-angle trigonometric functions, etc. 10, pages 51-76].
+  In such cases, we suggest considering "convenient" triangles or polygons in such cases, and using the various theorems known from the school of geometry (such as sine or cosine theorems for triangles or different vector relations) [pp. 13, 81-82], immediately arrive at the required equation.
+ Example 5.
+  Prove the equation [10, p. 83].
+ 253 PEDAGOGY Solution.
+  Consider the center O and the unit of circumference A 1 A 2 A 3 A 4 A 5 A regular polygon with radius's (see Fig. From the school of geometry It is known that the center of any regular n-angle polygon has the following equation, hence Fig. 4 For the regular pentagon, in particular, we will have where to get որտեղ , which was required to prove.
+ Let us add that as a result of such an approach, considering a regular heptagon instead of a regular pentagon, we will directly arrive at the proof of the cos equation.
+ Example 6.
+  Prove the equation  4sin 70 0  2 [10, p. 194].
+  C  90 0 with right angle  The right triangle ABC, in which  B  10 and AC։ 1 (see Fig. 5).
+  Take the points D and E on the sides BC and AB of this triangle, respectively, so that  CAD  60 0 and  EDB  10 0.
+   ADC; Solution.
+  Consider 254 TEACHING ներից From the triangles  AED and  BED it is easy to see that  ADC  30 0;  DAE   DEA  20 0 and  EDB   EBD  10 0, hence BE  ED  DA  2 AC  2.
+  We will have the other side կողմից for the triangle BC ABC we will get from the sine theorem ՝ we will have ուց from the triangle AED A AE  2 ED cos 20 0  4cos 20 0  4sin 70 0.
+  So we will get that իսկ 4sin 70 0  2, which was required to prove.
+ In conclusion, we can state that the geometric apparatus can have its efficient and heuristic application in solving various types of algebraic types and non-types (modular equations, parametric equations and systems, e-A trigonometric identities). 5 children, which in itself is the best manifestation of the interdisciplinary connections.
+  Thus, we can state that the discovery of interdisciplinary connections allows us to better understand the aesthetic significance of interdisciplinary connections that exist in reality, as well as helps students to հետաքրքր increase interest in the subject being taught, ակտիվ activate the cognition process,  logical and creative thinking development, ձեւավոր formation of coordinating and generalizing skills.
+ The research was carried out with the funding provided by the State Committee of Science of the Ministry of Education and Science of the Republic of Armenia within the framework of a scientific topic with the code 18T-5C287.
+ .

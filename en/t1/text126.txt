@@ -1,0 +1,37 @@
+Problems in higher education institutions lead to job interviews with negative results for university graduates, not meeting the demands of the labor market.
+  The main problem is the incorrect presentation of professional information received from different sources, lack of practical knowledge and experience.
+  According to Article [1], one year after graduating from university in Armenia, the student employment rate is relatively low compared to many countries (see Figure 1).
+ 203 MANAGEMENT Figure 1 shows that after graduating from university, more than 40% of graduates in the Republic of Armenia remain unemployed.
+ Figure 1.
+  Unemployment rate of university graduates One year after graduation (%) (2018-2019) 42% of university graduates in Armenia are unemployed, which is quite a bad indicator, which has a very negative impact on economic development.
+  The question arises, what are the main reasons for the provision of unsatisfactory staff by the university?
+  As a result of surveys conducted in a number of universities in Armenia, it became clear that if a student from an independent profession has a question, he or she is the first to apply to the Internet, trying to find the answer to the question and the most rational solution in virtual search engines (see Table 1).
+ Table 1 Results of the survey conducted in the HEIs operating in the RA University YSU YSMU ASUE ECU AUA 20 18 23 40 10 Lecturer 3 7 5 11 5 Internet 18 11 18 29 5 204 MANAGEMENT YSU  Yerevan State University YSMU  Yerevan State Medical University ASUE  Armenian State University of Economics EC  European University AUA  American University in Armenia As shown in Table 1 Out of 111 students surveyed, 31 (28%) only apply for the help of a lecturer, therefore the exchange of experience and the acquisition of practical knowledge is at a low level.
+  After receiving some information, the student tries to engage in self-development by appearing in the confusion of the Internet and often in the trap of websites and books with incorrect and incomplete material, which leads to moving in the wrong direction and becoming a non-competitive and low-level specialist.
+  The problem, of course, comes from the outdated and clearly undeveloped model of university education (see Figure 2).
+ 1. Transfer of information by the lecturer during the lesson 2. Experience of self-development using the Internet 3. Transfer of memorized information for the exam to the lecturer 4. University graduate without practical knowledge Figure 2.
+  The educational process in the RA HEIs 205 MANAGEMENT As can be seen from Figure 2, there is no stable feedback between the student and the lecturer in the HEIs.
+ In fact, the lack of student-lecturer communication in RA universities is urgent and it is necessary to find a new approach or a new model to eliminate the above-mentioned inconvenience.
+  International experience shows that to achieve the desired result, you need to use virtual communication capabilities, such as mudle [2] or wpi canvas [3] systems.
+  In the latter and in universities with a high international reputation in general, the connection between the student and the lecturer is not direct, ie in rare cases and only when there are urgent issues, the student has the opportunity to have a personal connection with the lecturer.
+  The connection is generally established via e-mail.
+  The above-mentioned systems have separate sections, where the student, applying to the lecturer, gets the opportunity to meet outside the classroom, asking the lecturer the questions that have arisen.
+  After receiving the answer to the question, in the same system the student has the opportunity to evaluate the lecturer, both professionally and as a lecturer at the level of professionalism.
+  At present, the lecturer evaluation system also operates in RA universities, being of a formal nature.
+  In some universities, YSU, ASUE, EC, based on the results of the lecturer's evaluation by the student, it is used to encourage lecturers and apply and qualify penalties.
+ We propose a new model of student-lecturer communication for RA universities, applying the international experience.
+  Schematic representation of the proposed model (Figure 3).
+ 206 MANAGEMENT 1. Lesson process 7. Market-appropriate graduate 2. Electrical communication platform 6. Correct lecturer qualification 3. Student-lecturer communication 5. Student qualification 4. Lecturer-student evaluation Chart 3. Proposed new lecturer-student communication model As seen Figure 3 shows that the connection between the student and the lecturer is obvious and beneficial for both parties. re-using international experience.
+  In Figure 3, in contrast to Figure 2, the proposed method is dynamic, which implies the existence of feedback between the student, the lecturer and the lesson process.
+  The processing and application of the information provided by the lecturer to the student during the lesson is the main problem of the model presented in Figure 2, as there is no feedback between the student and the lecturer.
+  In the new model we offer, the connection is established through an electronic platform with a modern, simple working environment.
+  After establishing the connection and discussing the necessary question, the students assess the level of the lecturers through the same electronic platform 207 ADMINISTRATION.
+  The evaluation of the lecturers enables the correct qualification of the teaching staff, and the qualification of the students is done in the version suggested in article [1].
+  If the above model is used correctly, university graduates get enough knowledge and experience to become marketable staff.
+  In the version we propose, the feedback between the market and the teaching process plays a key role, ie in accordance with the change of market demands, the provided information should be changed, which will be possible only in case of monitoring and monitoring of the labor market.
+  Thus, the main difference between the current model and our model is the feedback provided between the student and the lecturer and the market and the teaching process.
+ Conclusion This article introduces a new educational model to strengthen the link between student and faculty and to train market-oriented staff.
+  The problem exists almost in RA universities.
+  The researches and surveys are a vivid proof of that.
+  The model presented in the article, based on international experience, provides an opportunity to make the student-lecturer relationship effective and mutually beneficial in Armenian universities.
+ .

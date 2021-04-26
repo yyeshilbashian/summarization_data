@@ -1,0 +1,41 @@
+Ensuring the security and privacy of personal and commercial information in the current age of Internet addiction is a priority for cyber security professionals.
+  There are many examples of people stealing personal information for their own benefit.
+  So the question arises as to how hackers [2] get what they want.
+  This article discusses botnet, one of the most popular and frequently used options.
+ According to [3], botnet is a general system of virtual robots or bots that works autonomously and autonomously.
+  Botnets work on zombie computers, led by an attacker.
+  A typical botnet can be created in four main stages. 592 INFORMATICS 1. Primary infection.  It can be done by various means such as automatic download of malicious software in case of access to the website, USB drive, e-mail, etc.
+ 2. Secondary infection. ։ At this stage the infected host downloads and executes the bot code, thus creating a real bot.
+  Code can be downloaded using ftp, http and P2P protocols (see [4] §2.1).
+ 3. Harmful actions.  This is the main part of the bot operation, during which the corresponding action is performed after receiving the commands from the regulator.
+ 4. Maintenance.  At this stage, the digital files of the bot are constantly updated.
+ The botnets currently in use actually work on one basic scheme (see Figure 1). CREATOR (Bot master) Command and Control Server (BS) BOT BOT BOT BOT Figure 1.
+  Basic scheme of botnet work 593 INFORMATICS Figure 1 shows the scheme describing the work of the currently used botnet, where Bot Bot master ստեղծ botnet creator.
+ Րամ Command and Control Server (OSS) համակարգ A system that sends commands corresponding to bots by the creator, essentially a link between the bot and the creator.
+  Bot կոCode running on an infected computer, depending on the command from the control server, performs the appropriate action.
+ According to [5], botnets are mainly used for large-scale cybercrime, spam and malware (as a paid service for third parties), theft of personal data, re-issuance of banking and online services, DdoS [6] attacks and many more. for harmful actions.
+ But, as it is known, there is no system that does not have vulnerabilities. So is the botnet.
+  The main task of cyber security professionals is to find the command and control server and identify the creator.
+  A system called a honeypot is used to detect botnets.
+  The idea behind Honeypot is a specially designed server or web system that is attacked by a botnet by tracking and detecting the command and control server.
+ This article proposes a new, more sophisticated and more secure botnet model.
+  In contrast, this version is controlled by more than one command and control server, with each HSC created managing a limited number of infected devices, which allows the main server to be protected from being detected even if detected (see Figure 2).
+ 594 INFORMATICS CREATOR (Bot master) Command and control server Intermediate HCS (C&C) BOT Intermediate HKS (C&C) BOT BOT BOT Figure 2.
+  Schematic model of the proposed botnet As already mentioned, the botnet model presented in Figure 2, unlike the previous ones, is governed by more than one HKS.
+  The primary and main HKS is created via the Telegram [6] bot, which in turn has a fairly high level of security.
+  The work of the botnet is performed in the following order: 1. The main bot is created through the system that creates a special bot for Telegram, which will be the primary HKS.
+ 2. A command is sent from the Telegram bot.
+ 3. The command passes through the TOR network [8], and as a result reaches the intermediate HKS to the output node of the TOR network. 4. The commands are written in secret on open and accessible platforms (pastebin, pastecode, facebook, etc.).
+ 5. Bots (which dynamically change information entry points through steps 3.4) read the command and execute it.
+  Each 10 bots is controlled by 1 intermediate control point.
+ 595 INFORMATICS 6. Bots running on zombie computers read the command once every 13 minutes.
+ 7. The read command is executed.
+ For a more detailed presentation of the proposed model through the block diagram, see Figure 3.
+ 1. Telegram bot generation2. Sending the appropriate order 3. Passing the command through the TO network4. Transfer of TOR output node to secondary HKS 5./6. Command reading by zombie bots 7. Execution of the command Figure 3. Detailed presentation of the proposed botnet From Figure 3 it is clear that the botnet created by the proposed model differs from the modern known versions with a high level of security.
+ 596 INFORMATICS Conclusion The article presents a new and modern model of botnet, which, unlike the current ones, is safer for the creator and more sophisticated cyber security professionals.
+  The main difference is the three-level protection.
+  The command, which is generated from the main HKS, the telegram bot, passes through the TO network.
+  The output of the TOR reaches the intermediate SCIs.
+  Each of the intermediate SCAs manages no more than 10 bots, which provides additional protection, as a small portion of the entire network is compromised if detected.
+  The article presents schematic representations of the current and proposed new model.
+ .

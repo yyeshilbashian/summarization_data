@@ -1,0 +1,125 @@
+Sci. Head: Ph.D., Ph.D., Assoc. R. Georgian Human migration is the departure of a person from his / her place of residence in order to establish a temporary or permanent residence in another place.
+  This movement can take place both within the borders of a state (internal migration) and between the borders of different states (external migration).
+  In this paper, we have tried to identify the main factors that influence the decision of the population of the Republic of Armenia to apply for migration with the help of factor analysis of the econometric model և։.
+  We used the Caucasus Research Resource Center (CRRC) from 2008-2015. The results of the representative polls conducted 23.
+  It should be noted that since 2004 it has been held in South Caucasus Armenia, Georgia and Azerbaijan.
+  About two thousand people are interviewed in each country.
+  The questions relate to various areas of individual life, including issues related to migration.
+  The two most important of these questions are: "Are you interested in applying for permanent migration", "Are you interested in applying for temporary migration"?
+Based on the content of the questions, out of a total of more than three hundred questions, we have selected forty-two (variables) that can affect people's propensity to migrate.
+The most important problem with databases is that multicollinearity can be achieved between those variables.
+  To solve the problem of multicollinearity http.
+//www.crrccenters.org/caucasusbarometer/. exists in those states, three of which are high correlation matrix coefficients.
+  As a result, a VIF (Variance inflation factor) analysis was performed for the variable, which showed that there was no problem of multicollinearity between the variables, and if a carcinogen, then very weak.
+  However, when we look at the correlation matrix of variables, we notice that where the correlation coefficient of some variables is quite high.
+ Therefore, additional research is needed to completely solve the problem of multicollinearity.
+  For that purpose, we conducted a factor analysis.
+Factor analysis, in addition to identifying relationships between variables, also performs another important function. It allows you to reduce the number of variables by replacing their variables with the factors identified in the analysis.
+ 2015 Twenty-two variables were selected from the initial forty-two variables in the data analysis, and only nineteen variables (load coefficient greater than 0.4) were loaded on the six-correlation variable.
+ The other three variables in the logit model were used as separate variables.
+  Factors obtained as a result of factor analysis: degree of trust (factor 1), economic status of the individual (factor 2), level of trust in the banking system (factor 3), life satisfaction level (factor 4), level of trust in education and health systems (factor 5), level of trust in religious organization (factor 6).
+ The number of factors obtained as a result of factor analyzes performed for previous years in 2013 և 2011 There were five for that, and four for the rest of the years.
+  The factors were the same in content as in 2015. For the analysis, however, for some years the amount of people's own income (factor 7) has emerged as a separate factor, with a high correlation coefficient of expenditure incurred by people.
+The results of the factor analysis were used in the elliptical analysis, which assessed the power of various factors, including the country's decision to apply for migration, and then the impact of that migration on it (migration determinants).
+  Because people were asked two questions about migration, one of which was permanent and the other was temporary, the two variables appeared as dependent variables in the analysis.
+ Some results of the model are presented below: • As people get older, their interest in permanent migration decreases (cid).
+1828) = −0.045, (cid.
+1857) (cid.
+1876) (cid.
+1868) ((cid.
+1828)) = 0.956.
+ (cid.
+1857) (cid.
+1876) (cid.
+1868) ((cid.
+1828) showing the value of the coefficient of influence of age on the determination of migration.
+ In this case, it shows that if the age of a man increases by one year, his migration ratio (cid).
+1867) (cid.
+1856) (cid.
+1856) (cid.
+1871) (cid.
+1870) (cid.
+1853) (cid.
+1872) (cid.
+1861) (cid.
+1867) = (cid.
+2024) (cid.
+3036) / (1− (cid.
+2024) (cid.
+3036)), where (cid.
+2024) (cid.
+3036) is the probability of applying for migration), increases 0.956 times, that is, in fact decreases.
+• People who do not have close friends living abroad are less likely to face permanent migration (cid).
+1828) = −0.406, (cid.
+1857) (cid.
+1876) (cid.
+1868) ((cid.
+1828)) = 0.666.
+• People who have paid a bribe in the last 12 months are more likely to resist permanent migration than those who have not (cid).
+1857) (cid.
+1876) (cid.
+1868) ((cid.
+1828)) - in case (cid.
+1828) = 0.865, (cid.
+1857) (cid.
+1876) (cid.
+1868) ((cid.
+1828)) = 2.376.
+It has a rather high value, which means that the circumstance of bribery has a significant effect on the interest of migration.
+• The better a person speaks Russian, the more likely he or she is to migrate permanently.
+• The next variables are the factors obtained as a result of the analysis.
+  People who trust the country's government less (factor 1) are more likely to resist migration (cid).
+1828) = −0.394, (cid.
+1857) (cid.
+1876) (cid.
+1868) ((cid.
+1828)) = 0.675.
+In the case of these estimates, the interpretation is different from that of ordinary variables.
+  Thus, the increase in deviation leads to a single standard of trust. The data on the number of people who are prone to permanent migration.
+  The coefficients of the other factors can be interpreted in such a way.
+• People whose economic situation is worse (factor 2) are more likely to face permanent migration (cid).
+1828) = −0.328, (cid.
+1857) (cid.
+1876) (cid.
+1868) ((cid.
+1828)) = 0.720.
+• People who trust the banking system less (factor 3) are more likely to resist permanent migration (cid).
+1828) = −0.178, (cid.
+1857) (cid.
+1876) (cid.
+1868) ((cid.
+1828)) = 0.837.
+• People who are less satisfied with their lives (factor 4) are more likely to face permanent migration (cid).
+1828) = −0.162, (cid.
+1857) (cid.
+1876) (cid.
+1868) ((cid.
+1828)) = 0.85.
+• People who have less trust in education and health systems (factor 5) are more likely to migrate (cid).
+1828) = −0.264, (cid.
+1857) (cid.
+1876) (cid.
+1868) ((cid.
+1828)) = 0.768.
+• People who have less trust in the religious organization they belong to (factor 6), more (cid.
+1828) = −0.173, (cid.
+1857) (cid.
+1876) (cid.
+1868) ((cid.
+1828)) = 0.841.
+As a result of the analysis made for the previous years, two factors - the degree of economic confidence of the individual towards the authorities of the country ևThe factors have been statistically significant for all the years, and the coefficients are negative for all the years.
+  The next factor, the coefficient of which is often significant.
+  Complete information on factor coefficients is shown in the Table.
+  In the cells of the table where the coefficient is not mentioned, in the logit analysis of the given year the coefficient of that factor was statistically insignificant.
+An almost similar result is obtained when we consider the impact of various factors on temporary migration.
+Apart from the factors, the decision to emigrate is influenced by other variables, which were not used in the analysis of factor age, the fact of having a friend or relative abroad, the knowledge of the Russian language.
+time.
+  These are the fifth factors in the factor analysis in Logit 2008
+On 7 Business:
+on 4 Business:
+ոն 6 Case:
+on 5 Business:
+ոն 2 Case:
+on 32015 for Case:
+Year:
+Yvonne 1 Migration, DETERMINANTS OF MIGRATION OF THE POPULATION OF THE REPUBLIC OF ARMENIA

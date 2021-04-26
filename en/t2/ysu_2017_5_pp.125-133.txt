@@ -1,0 +1,103 @@
+SEARCH FOR CODE CLONES FOR "JAVA" PROGRAMMING LANGUAGE - SEMANTIC RESEARCH BASED ON SOFTWARE PROGRAM.
+  The programmer can use the same part of the program several times, modifying it to some extent.
+ Copying code using it can lead to semantic errors.
+ For example, the developer may forget to rename some variables in the copied part of the code, which will cause an error.
+  Reuse of code snippets is common in large software systems.
+  The program, where there are many clones, will probably contain many mistakes - will have low quality.
+  According to various studies [1, 2], 20% of the program may be a clone.
+  Code clone search tools have many uses ․ ● Code quality analysis ● Detection of copyright infringements հայտնաբեր Virus detection ● Error detection This article will show you how to perform code cloning for Java programming language.
+ The first part presents the program dependency graph (PDG).
+  In the second part, PDGs are analyzed to look for code clones.
+  A new algorithm is used to obtain a tree from PDG to find the maximum isomorphic trees of the two trees.
+  The algorithm allows the analysis of millions of lines of source code.
+Code clone types.
+ There are 3 main types of code clones.
+Clones of the first type are those parts of the code that can only be distinguished by spaces և comments (T1).
+ The second type of clones are the parts of the code that can be distinguished by spaces, interpretations, variable names, their types և values ​​(T2).
+  The third type of clones are the code snippets that can be distinguished by spaces, interpretations, variable names, their types և values, as some lines of code can be added or deleted (T3) [3] (Figure ․ 1).
+4.
+ void sumProd (int5:
+ ﬂ oat sum = 0.0; 6.
+ at oat prod = 1.0; 7.
+ for (int i = 1; 8.
+ sum = sum + i; 9.
+ prod = prod * i; 10.
+ foo (sum, prod); 11.
+ } 12.
+ Ծ Line ․ 1 ․ Examples of three types of clonesCode clone search approaches.
+  Different approaches are used to search for code clones.
+ Each approach has its advantages and disadvantages for finding specific types of clones.
+  In the case of all approaches, the main requirement is the correctness of the clones found.
+ There are 5 basic approaches to finding code clones ․ Textual Lexical Syntax Based on Semantic Metrics 1. Textual approach.
+  Algorithms based on this approach basically simplify a few lines and then compare the hashes.
+  If the hashes match, the algorithm considers them clones.
+ Some algorithms can find similar files.
+  In that case, a sequence of certain lines is taken ստուգ A check amount is calculated for them.
+  Then, instead of files, those sums are compared.
+  In case of overlap, the files are considered clones.
+  The disadvantage of this approach is that it finds only (T1) type clones.
+  The complexity of such algorithms with respect to the number of square hashes.
+2. Lexical approach.
+ In this approach, the code is translated into a sequence of tokens using a lexical analyzer, after which the algorithm searches for matching sequences of tokens.
+  With this approach it is possible to find (T1) և (T2) type clones.
+In the worst case, the complexity of such algorithms is quadratic depending on the number of tokens, but in practice they work quite fast.
+3. Syntactic approach.
+  This approach is based on AST (abstractsyntax tree) trees.
+  Clones are considered to be isomorphic subtrees of the AST tree.
+  Different algorithms are used to search for isomorphic subtrees ․ The largest common subtree is sought among the two trees.
+ For both trees, suffix trees are constructed on which clones are sought.
+ Characteristic vectors are constructed for the subtrees of the two trees, which are compared [8].
+The complexity of such algorithms varies from linear to quadratic to the number of AST tree vertices.
+  It depends on the size of the tree under consideration.
+  Methods based on this approach find all types of clones.
+4. Metric-based approach.
+  Different metrics are calculated for pieces of code, and then the metrics obtained are compared.
+  Metrics for AST trees, program dependency graphs, or data flow graphs are generally calculated.
+  That is, the AST tree, the program dependency graph, or the data flow graph are obtained from the initial code, an ecode unit is defined for them, and then the metrics are calculated for each code unit.
+  Metrics are calculated pairwise after calculation.
+  As a rule, the methods of this approach work faster than algorithms based on AST trees, program dependency graph (PDG) data flow graph, but have less accuracy.
+ The complexity of such algorithms varies from linear to quadratic, depending on the number of vertices of the AST tree or the vertices of the program dependency graph.
+  Methods based on this approach find all types of clones.
+5. Semantic approach.
+ This approach is based on the program dependence graph (PDG).
+  The algorithm based on this approach searches for isomorphic subgraphs [10, 11].
+The complexity of such algorithms can be exponential.
+ The accuracy of such methods is high compared to other approaches, but the speed is significantly lower.
+  Methods based on this approach find all types of clones.
+Comparison of approaches.
+  Lexical և text approaches do not find all types of clones.
+ Other methods find all three types of clones, but the accuracy of metric-based approaches is low.
+ PDG-based algorithms are generally more accurate than AST-based methods.
+ Because AST contains only information about the structure of the program.
+ And PDG has information about both structure and semantics.
+  Therefore, the semantic approach must be used to ensure high accuracy.
+Java class file.
+ Java class file is a file containing Java bytecode (with .class extension) that can be run on a Java virtual machine.
+  Java bytecode is a set of Java virtual machine instructions.
+  The Java class file is created from the original files of the Java programming language (.java file) using a Java compiler.
+ If a pre-file has more than one class, the compilation result of each class is stored in a different class of files.
+The Java class file consists of 10 main parts ․1. Magic number: 0xCAFEBABE2. Lesson file format version: minor-major versions of lesson file 3. Fixed pool for class file constants4. Accessibility flag, for example, is the class abstract, static, etc.5. This lesson is the name of the current class6. Super class - the name of the super class 7. Interfaces - class interfaces 8. Fields: Fields in the class 9. Methods: methods in the class 10. Attributes: class attributes (for example, the initial filename ․․․) Generate a program dependency graph.
+  The program dependency graph, PDG, is a directed graph, which in this case is derived from the bytecode generated by compiling a program written in Java (Figure ․ 2).
+  Bytecode instructions correspond to the tops of the PDGs, and ribs depend on the data or control flow between those instructions.
+  There are three main types of data dependencies: true, anti, and output.
+ The work used ությունները management ղեկավար data flow dependencies of the right type of data.
+ The resulting PDG is written to a file.
+Fig. 2.
+ PDG generation. Obtaining a tree from PDG based on .class file.
+ In order to preserve the information contained in the PDG as the graph transforms from tree to tree (some subgraphs of two graphs that are isomorphic remain isomorphic after the tree is transformed), new vertices are added.
+Description of tree algorithm ստանալ 1. Login ․ PDG graph 2. The tops are arranged in ascending order of their IDs3. If the vertex ∃v ∈PDG, the number of ribs entering which is greater than 1, is passed in step 4, otherwise in step 54. A new vertex is created that has the same data as v ացվում is added to the vertex u's parent as a son, and the one connecting v v u vertices is removed.
+  This step is done for all parents of v except the last և step 3 is done5. Cycles are removed6. Exit ․ Removal of tree cycles ․1. Login ․ PDG graph 2. The marks on all vertices are assigned 0.
+3. As long as there is an unobserved peak, the next peak is considered.
+ Otherwise, step 8 is performed4. If the top mark is 0, it is placed in the queue 5. If the queue is not empty, the currNode vertex is removed from the queue 1 is assigned to its mark1.
+ Հ․դ⁇ There is a transition to 3 steps6. If the mark of the vertex v coming out of currNode is 1, ie already observed in the previous steps, then the rib connecting the vertices of currNode և v is removed. 7. Otherwise, if the mark of the vertex v is 0, it is added in the queue և switch to 5 step 8. Exit ․ Description of the clone search algorithm.
+ It is based on a comparison of the tops of the resulting tree.
+ The algorithm compares two trees, P1 և P2, from which subtrees are obtained, which are inclons.
+ The algorithm works in the following sequence of steps: The forest consisting of PDT1 և PDT2 is observed.
+ During the algorithm, an integer is assigned to each vertex of the forest in such a way that the same number is assigned to any two vertices only if the subtrees formed by them are isomorphic to each other.
+Isomorphism algorithm ․1. Login ․ PDT1, PDT2 2. We set the mark of the tree tops of one program to 0, the other to 1.
+ Performs certain calculations for all vertices.
+3. As long as the turn of the observed peaks is not empty 3.1. Assign the opposite vertex to CurrNode 3.2. If currNode is reached from the next level ակ to the given level, then we add the isomorphic vertices of the previous level in the corresponding sets f և s 3.3. For CurrNode we call the integer assignment function 3.4. If currNode is not a tree root 3.4.1. Decrease the number of unobserved parent vertices by 1 ակին Assign currNode level to 1 և 3.4.2. If the number of unobserved vertices of the parent is 0, we add the parent in the queue 4 Exit ․ Certain calculations ․1. For each vertex we keep the number of sons2. If he has no son, we assign 0 to the level, add the vertex in the queue. Assign the whole number ․ 1. In vector we store the whole numbers attributed to all the sons of currNode.
+ Sort, add currNode Id's front 2. If there is already such a vector in setMap, then we go to step 2.1, then we go to step 3 2.1. Assign the whole number corresponding to that vector to the vertex 2.2. In the vector of vertices with a given number, add the enamide vertex, go to step 73. In SetMap we add the vector 4. The և currNode top corresponds to the count 5. Count hold adds that peak 6. Count increases by 1 7. Output It is desirable to see some research on the work of the algorithm, speed և quality ratings Գ comparisonsLiterature tools.
+  a qualitative approach ”, Science of Computer [5] T.Kamiya, S.Kusumoto, K.Inoue, CCFinder.
+  A multilinguistic token-based code clone [8]. L.Jiang, G.Misherghi, Z.Su, S.Glondu, “DECKARD.
+  Scalable and accurate tree-based Harutyunyan MariamCODE CLONE SEARCH FOR JAVA PROGRAMMING LANGUAGE FOR SEMANTIC RESEARCH ON THE BACKGROUND Keywords: code clone

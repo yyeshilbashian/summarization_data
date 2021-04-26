@@ -1,0 +1,91 @@
+Linguistic typology studies and classifies the languages ​​of the world based on their structural commonalities and peculiarities.
+  Typological classifications are made at the levels of sound (phonological and phonological typology), word (morphological typology) and sentence (syntactic typology).
+  In modern linguistics, typology of a super-syntactic level, text and grammar, is often distinguished.
+  Since typological classifications have traditionally focused on the word, there are 395 LINGUISTICS typology is more developed and has more complete classifications.
+  Nevertheless, as in his “Language. "Introduction to the study of speech" says Edward Sepir. "... it is impossible to determine a limited number of types that would be justified by the peculiarities of the thousands of languages ​​and dialects spoken on the face of the earth."
+  Unfortunately, we do not yet have the experience of completing modern knowledge about the typological classification of languages.
+  In this article we will try to present the general orbit of the historical development of the morphological typology of languages, to show E. The importance of the conceptual typology proposed by Sepir in the field of typological classification of languages, as well as some of the theories and approaches that follow in the context of the meaning of conceptual typology.
+ The ideas of inclination and attachment were distinguished in the first morphological classifications.
+  Addressing this issue for the first time, Friedrich Schlegel divided languages ​​into two groups: oblique and non-oblique.
+  Being a German intellectual with a classical education, Schlegel considered oblique languages ​​to be perfectly "organic", and non-oblique languages ​​to be imperfect and "inorganic".
+  August Schlegel also singled out formal languages, and also introduced the difference between comparative and analytical structures for the Italians.
+  In the case of a compound structure, the grammatical meanings are expressed through various changes of form within the word, and in the case of analytics, through auxiliary words, word arrangement and tone.
+ V. distinguished these varieties with their modern names. von Humboldt, moreover, he singled out the multilingual languages, which he considered a kind of attachment.
+ Further researchers increased the number of types, more and more. "... we know in advance that it is impossible to set up a limited number of types that 396 LINGUISTICS to get a more accurate picture.
+  Among them, the classifications of Steinthal, Schleicher, Mistelli, Fortunov are significant.
+ Steinthal based not only the word but also the sentence on the typology of languages.
+  He is the author of the division of formal and formal languages.
+  He called languages ​​that did not have internal word changes unifying.
+  Among such languages ​​were considered to be Indonesian, for example, Chinese.
+  Steintal classified languages ​​with an internal form of the word as a variable.
+  According to him, the change of form takes place through repetitions and prefixes, as well as incarnation.
+  In changing languages, the grammatical meaning is changed by adding elements, such as in Egyptian.
+ Mistel developed Stanthal, the division of formal and formal languages, as well as distinguishing between non-verbal, pseudo-verbal, and true verbal languages.
+  Languages ​​were considered to be languages ​​in which there are no words with a known meaning. such are Egyptian, Bantu languages, etc. [4, С. 347-349].
+  Words can be distinguished in pseudo-word languages, but they do not fully correspond to the description of the word.
+  Such languages ​​are Ugrafinian, Turkic, Mongolian languages.
+  True word languages, including Indo-European and Semitic languages, are distinguished by the presence of complete words.
+  Multistory languages ​​were distinguished by Mistel as formless languages, because in them the sentence and the word are one whole.
+ E. Sepir published his "Language. Introduction to the Study of Speech ”covers almost every aspect of language, from its definition and phonetics to its structure and typology.
+ E. Sepir criticizes the notion that there are "formal" and "formal" languages.
+  He notes that all the languages ​​of the world can and should express basic syntactic relations, even if there is not even a single suffix in them.
+  There are no really formless languages, and although one can speak of "form" as a formal stream, this remains a very superficial understanding.
+ By this he also rejects Steinthal's notion that there is an "inner form" insofar as it presupposes a dualistic division, accepting the possibility of "inner form".
+  He notes that a division based on formal processes would be more natural.
+ Sepir does not abandon the concepts of "analytical", "comparative" and "multicomponent", but suggests using them not in an absolute way, but considering the language as a whole and considering it comprehensively.
+ Thus, languages ​​in which words are connected not by word change but by the order of service words and words are called analytical.
+  In such languages, concepts either do not combine into one word at all, as in Chinese, or use it very little, as in French.
+  In comparative languages, on the contrary, word changes change the grammatical meaning and connect words.
+  Such are, for example, Latin and Arabic.
+  Multilingual languages, such as E. Sepir formulates, they are even more combined [in the same place].
+  They are as much related to comparative languages ​​as comparative languages ​​are related to analytical English.
+  Based on all these considerations, E. Sepir creates a new system of morphological typology, which is able to unite the different principles of the previous typologies and show the nuances that have not been convincingly coordinated with these absolute divisions.
+ E. The method of morphological classification proposed by Sepir is called conceptual classification.
+  This classification is based on three criteria: a) the types of concepts expressed, b) the technique of expression of relations, c) the degree of synthesis in grammar.
+  [4] Thus, in terms of the expression of concepts, Sepir distinguishes four types of languages.  Simple pure-relational languages ​​ Complex pure-relational languages ​​398 LINGUISTICS  Simple mixed-relational languages ​​արդ Complex pure-relational languages ​​Simple pure relational languages ​​are those in which there is no partition at all and the basic concepts are expressed.
+  In complex pure-relational languages, on the contrary, grammatical changes are made through particle and internal word changes.
+  In simple mixed-relational languages, syntactic relations are expressed in necessary connection with concepts which are not entirely devoid of definite meaning, but which cannot change the meaning of their radical elements by means of particles or internal changes.
+  The most popular of the most complex mixed-relational languages ​​are the oblique languages, as well as a large number of attachment languages, some compound, some multi-compound languages.
+ In terms of relationship expression techniques, all linguistic means are grouped into four main categories: disconnection, attachment, fusion / bending, and symbolization.
+  In terms of the expression of concepts, each of the four types is divided into three main groups: oblique, adjoining and symbolic.
+  In the case of simple cleansing languages, the separatist group is also differentiated.
+  Finally, in terms of the degree of synthesis in grammar, languages ​​are divided into analytical, comparative and multicomponent types.
+ It should be noted that in this system are taken into account not only these main groups, but also their variants. A language, for example, can be both oblique and symbolic, being more oblique.
+  The classification is presented in a systematic way in Table 1.
+ (d) a sloping analytical French (moderately comparative) Complex mixing b multifunctional conjunction (symbolic shade) c, (d) b - sloping multivariate positive (moderate) (b) sloping multivariate positive c analytical Simple mixed relation syllable (Upper Nile) combination prison English c, da italic c, dc, d - Latin combined, ancient Greek, (symbolic script) b (a) oblique (highly symbolic) d, cc, d (a) symbol - Comparative Arabic, Hebrew Yin-Tech Combined SubtractionLINGUISTICS NOTE. The disconnection line means that the process is poorly developed. (d) b - oblique polynomial positive (moderate) (b) oblique polynomial positive c analytic Simple confluence syllable (Upper Nile) combination prison English c, da oblique c, dc, d - Latin Latin, ancient Greek oblique, (symbolic script) b (a) italic (highly symbolic) d, cc, d (a) symbolic-compound Arabic, Hebrew yin-ital compound subliminalLINGUISTICS NOTE. The disconnection line means that the process is poorly developed. (d) b - oblique polynomial positive (moderate) (b) oblique polynomial positive c analytical Simple confluence syllable (Upper Nile) combination prison English c, da oblique c, dc, d - compound Latin, ancient Greek oblique, (symbolic script) b (a) italic (highly symbolic) d, cc, d (a) symbolic-compound Arabic, Hebrew yin-ital compound subliminalLINGUISTICS NOTE. The disconnection line means that the process is poorly developed.
+ It should be noted that a, b, c, d respectively indicate the processes of disconnection, attachment, fusion / tilting and symbolization.
+  When there is more than one technique, they are sorted in order of importance.
+ Columns II, III, IV refer to the following conceptual groups:  II - derivative, for example, minimal forms  III - mixed / concrete rational, for example, number agreement  IV - pure relational, for example, subordinate designation By presenting the conceptual typology, Sepir successfully classifies a number of languages ​​as well as is able to show give points of intersection of grammatical features that have not been noticed by linguists in the past or, at best, have not received due attention.
+  However, this classification is not without its drawbacks.
+  Sepir himself acknowledges this, noting that in the case of some languages ​​it is difficult to draw the line between types, as well as rightly noting that languages ​​are complex historical structures, so perhaps any attempt to classify them, if not doomed to error, at least stands in its way. in the face of great danger at every step.
+ E. Sepir's conceptual typology is the most progressive and complete classification of his time. The scientists who came after him were greatly influenced by him.
+  In this context, it is especially important to mention J. Greenberg, whose theory is based on Sepir's conceptual typology.
+  Greenberg typology is called quantitative typology and found its expression in the scientist "Quantitative approach to the morphological classification of languages".
+ 402 LINGUISTICS In contrast to E. According to Sepir, J. Greenberg bases his classification on five criteria and gives a series consisting of one or more indexes, which determines the place of languages ​​in relation to each of those criteria.
+  This method, of course, is more accurate, because when dealing with quantitative calculations, it can show the place of languages ​​more accurately.
+  [7] Like Noam Chomsky, Greenberg sought to find the universal structures on which human language is based, but unlike Chomsky, who was guided by the formalist method, Greenberg was methodically functionalist.
+  Greenberg formulated the idea of ​​implication universals, which is still central to the determination of linguistic commonalities.
+ Relying on Sepir's approaches, Greenberg also deeply studies and presents phonemic commonalities from a contemporary point of view, as well as provides a theoretical basis for simultaneous and asynchronous concepts of generalities.
+  [6, p. 508–517] It should be noted that other models are proposed, which rely mainly on the criticism that the above classifications do not show all the complex intersections between grammatical categories that exist in a language.
+  Thus, Jennifer Garland gives the example of Sinhala, showing that although its derivatives, clitics and adverbs should, according to the traditional perception, be taken as a case of attachment, they are too close to the root, but the classification of that language as oblique is also very wrong.
+  [3] Proponents of cyclical evolution believe that languages ​​usually evolve from oblique to analytic, from analytic to adverbial, and again oblique from adverbial.
+  R. Մ. V. Dixon likens this process to clockwork, noting that, for example, Old Chinese would be approximately 3 o'clock.
+ 00, that is, it would be mostly analytical with some inclined elements.
+  Egyptian, being a language with a written history of millennia, according to Dixon, 403 LINGUISTICS has passed the whole period [2, p. 42-43].
+  Similar theories have been proposed in the past.
+  Thus, Ellie van Gelderen presents the patterns of language change as a circle [5, p. 233-234].
+  An example of this is grammaticalization.
+  This is the phenomenon when word units become grammatical signifiers, and later new linguistic units come to replace them.
+  Carlton Hodge offers the following cycle of Egyptian development. Afrikaans Proto-Linguistic-Ancient Egyptian-Comparative Late Egyptian-Analytical Coptic-Comparative [8] Despite its shortcomings, however, the Sepir typology was revolutionary, and subsequent classifications and derivative theoretical understandings have nothing to do with the Sepir system.
+  It can be said that although further theories have supplemented and refined it, addressed incorrect classifications of some languages ​​or pointed out new patterns, the classification proposed by Sepir remains fundamentally correct, and his "Language" is a truly capital work in the field of grammatical typology.
+  Sepir bases classification on grammatical relations of words, examining them from three different perspectives, separating groups through which it creates a structure in which languages ​​are not classified directly based on this or that feature, but by combining those groups and types. This directly changed the course of linguistic typology, expanding its possibilities.
+  Sepir, moreover, is able not only to linguistically substantiate his classification, but also to philosophically criticize the approaches of his predecessors and to reflect on the psychological aspects of grammar, paving the way for an entire field.
+ Sepir accurately classifies a number of languages, in some cases detailing their many grammatical nuances.
+  All this allows Sepir to understand 404 LINGUISTICS there are typology to be rightly considered one of the most grounded and important words in this field.
+ A look at the history of the typological classification of languages ​​not only provides an opportunity to systematically present the issues related to the classification of languages, but also shows the important role of conceptual typology in it.
+  The system proposed by Sepir serves as a basis for modern research and theories in this field. Ջ. Greenberg classification today is perhaps the most solid complete word in typological classification.
+  Assessing the conceptual typology and its influence from the distance of time, we see its crucial importance in the typological classification of languages.
+  R. Մ. V. Dixon, J. The theoretical systems of Garland et al. Are, in fact, built on a comprehensive Sepiric approach.
+  Their application in the study of the Armenian language can give us a completely new, well-founded knowledge about the history and structure of the language.
+  Criticisms of conceptual typology largely relate to the difficulty or impossibility of classifying individual languages, but there is no substantive, systematic critique of this approach today.
+ .

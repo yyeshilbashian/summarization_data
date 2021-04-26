@@ -1,0 +1,71 @@
+RESEARCH ON THE EFFECT OF NON-WHITE HETEROYCLICAL AMINICS AND THEIR PEPTIDES TECHNOLOGY OF PROTEINASE K activity.
+  Proteolytic enzymes are of great interest as pharmacological targets.
+  Some of the most important proteolytic enzymes are trypsin, chymotrypsin and proteinase K.
+All three are classified as serine proteases.
+  Proteases were studied as early as the 18th century, and it was known that they could break down proteins.
+  Serine proteases play a fundamental role in human physiological processes.
+  On the other hand, they can cause a number of pathological conditions, so it is important to find specific protease inhibitors associated with the disease.
+ Genetic and biochemical studies have shown that proteases are used by enviruses to bring their structural and functional proteins to maturity.
+ Thus, in a living cell, the virus synthesizes a number of proteins, enzymes, including proteases, which hydrolyze the peptides synthesized by the virus in a unique way, the resulting proteins participate in the packaging of the virus genetic material, forming new virus particles that infect healthy new cells.
+ Modern advances in genetic engineering have allowed scientists to use these enzymes as "molecular tools."
+Natural non-protein amino acids և peptides.
+  In living cells, non-protein amino acids are both free and composed of protein peptides.
+ These compounds play a role in regulating processes in the body and ensuring normal cell life.
+Among the biologically active compounds, non-protein amino acids and their peptides have a special place, which have recently been successfully used in medicine, pharmacy, bacteriology, science and other fields [2].
+  Non-protein α-amino acids are physiologically active իտանի suitable for inclusion in drugs (in the form of optically active isomers only).
+  Of more interest than non-protein amino acids are α-amino acids containing heterocyclic substituents of different radical structure, which are foreign to the body both in structure and in the nature of heteroatoms.
+Non-protein α-amino acids are included in modern anti-tumor, hypertensive, analgesic, as well as other drugs that help eliminate alcohol-drug dependence and other drugs.
+Serine proteases և protease inhibitors.
+  All proteases catalyze the same reaction, peptide bond hydrolysis, but they exhibit selectivity depending on the substrate, the type of amino acid present at the hydrolyzed bond.
+ Depending on the amino acids included in the catalytic group, various proteases have been identified, each of which can be included in one of the following four major functional classes: serine, asparagine, and cysteine ​​metalloproteases [3].
+  Serine proteases are involved in many functions of the body, including coagulation, immune response, inflammatory processes, acting as digestive enzymes of eukaryotes and prokaryotes.
+ Serine proteases, on the other hand, are involved in the development of multiple human pathogenic processes.
+The position of the problem and the choice of research objects.
+  The aim of the work was to determine (S) -β- [4- (furan-2-methyl) -3-butyl-5-thioxo-1,2,4-triazol-1-yl] α-alanine non-protein α-amino acid աթ new Synthesized N-formyl-methionylalanyl- (S) -alane α- [4 - (furan-2-yl-methyl) -3-butyl-5-thioxo-1,2,4-triazol-1-yl] α Antimicrobial properties of peptide and its effect on proteinase K-activity as a representative of serine proteases.
+Research materials և methods.
+  The following materials were used: Tritirachium album proteinase K (Sigma), HEPES (Sigma), 2% SDS, bull serum albumin (Sigma), non-protein α-amino acids (S) -β [4- (furan-2) -yl-methyl) -3-butyl-5-thioxo-1,2,4-triazol-1-yl] -α-alanine-containing peptide (N-formyl-methionyl-alanyl- (S) -β- [4 - (furan-2-yl-methyl) -3-butyl-5-thioxo-1,2,4-triazol-1-yl] -α-alanine (synthesized by YSU Asymmetric Synthesis Laboratory «" ArmBiotechnology "Scientific-Production by researchers at the Center's Non-Protein Amino Acid Synthesis Laboratory).
+Determination of proteinase K activity.
+ Proteinase K activity was measured by the number of free amino groups by the orthophthaldehyde method [6].
+ The OFA reagent in a volume of 30 ml contained: 100 mmol / l boric acid buffer pH 9.7.5 mg / ml orthophtolaldehyde և 2.5 μl mercaptoethanol.
+  Proteinase K released from T.album was dissolved in distilled water at a concentration of 10-20 mg / ml.
+ 200 μl of reaction medium with the following composition was used to measure proteinase K activity: 1 M Phosphate buffer pH 7.2 - 20 μl, 2% SDS - 20 μl, mercaptoethanol 100 mmol / l - 40 μl, enzyme - 20 μl, bull serum albumin (20 mg / ml) - 100 μl.
+The reaction medium was stored for 30 minutes at 37 ° C (UTU 4-UNIVERSAL ULTRATHERMOSTAT Max. 200 ° C), then 50 μl of a solution was taken from each of the reaction mixture, to which was added 10 μl of acetic acid. և 30 minutes after the start of the wavelength reaction.
+Then the following solutions were poured into each cuvette. H2O - 1.5 ml, reaction medium - 50 μl, OFA reagent - 1.5 ml.
+ 3-5 minutes later the A340 was registered.
+The following formula was used to measure proteinase K activity: A = ∆A340 * V reaction medium / ε * (in an enzyme reaction medium) * ∆ t.
+ε is the extinction coefficient calculated by comparing the standard solution (0.033 mmol / l methionine) with A340.
+  The data were then recalculated for 1 mmol / l methionine solution. H2O - 1.5 ml, methionine - 10 ml, reagent - 1.5 ml.
+To study the effect of non-protein amino acids on bacterial resistance to antibiotics, Gram-negative and Gram-positive bacteria were selected, including their recombinant strains, which carry plasmids resistant to various antibiotics.
+ Used strains are represented by salt. 1. Table 1 StrainsEnvironmentMPAMPAMPAMPAMEnvironments.
+  Measpeptone agar (MPA) was used to grow the crops listed in the table.
+ 20 g of agar was added to 1 liter of water, disinfected in a steam autoclave for 1 m. pressure. under 20 minutes.
+Maintaining decontaminated conditions.
+  Used Petri dishes and test tubes were previously disinfected for 120-180 minutes at 180-220 ,C in a drying cabinet.
+  The microbiological needle, the lance, the glass cover were disinfected on the flame of the alcohol before using it, after processing with alcohol.
+  In general, all stages of the experiment were performed in a disinfected environment with an alcohol flame to avoid infection.
+Before performing the actual experiment, it is necessary to first obtain the recombinant strains of E.coli.
+ The latter are obtained by the method of transformation, by which plasmid DNA with an antibiotic-resistant gene is transformed into competent cells.
+Elimination technique.
+  In order for the strains to be constantly fresh (to maintain activity), it is necessary to eliminate them.
+  Removal is performed in the presence of the corresponding plasmid strain and the corresponding recombinant strain in a medium rich in MPA (meatpeptone agar).
+  Before use, the medium is thawed and left to cool to some extent.
+ The pH was checked, which should be 7.
+ If necessary, if there was a pH deviation, NH4OH solution or HCl solution was added to bring the pH to the required level.
+After the experiment, the crops were sorted according to their growth temperature in a thermostat (brand: TC-80 M-2, temperature: 37 ˚C).
+Sowing technique.
+  The sowing was done by single-layer agar method, microbiological needle (sterile) was taken from each culture. Մեջ In night tubes (sterile) 2 ml MP broth was prepared, which was stored for 1 day in a shaker at 37 ˚C.
+ Then the lawn was sown (with a glass spatula) made by pouring 0.2 ml of night culture on the media, antibiotics were added to Petri dishes.
+Placement of non-protein amino acid peptide on agar.
+  In the case, non-protein amino acid crystals (which provide the concentration gradient during diffusion) were used, which were poured (sterile) onto the lawns of the respective cultures.
+In the other case, non-protein amino acid solutions were used at a concentration of 50 μl at 5 mM, which were dropped onto the appropriate culture gases.
+ The solutions were disinfected in a water bath for 30 minutes.
+The results և their discussion.
+  The effect of the studied substances on proteinase K has been studied by the two methods mentioned above [4].
+ Determination of proteinase K activity according to the first method by free amino group The following data were obtained: Table 2. Effect of non-protein α-amino acids on proteinase K activity Compound Control (S) -β- [4- (furan-2-yl-methyl) - 3-Butyl-5-thioxo-1,2,4-triazol1-yl] -α-alanineProteinase K,% The table shows that the non-protein α-amino acid (S) -β- [4- (furan-2-yl-methyl) ) -3-butyl-5-thioxo-1,2,4-triazol-1-yl] -α-alanine inhibited the enzyme activity by 66.2%.
+In the second phase, N-formyl-methionyl-alanyl- (S) -β [4 - (furan-2-yl-methyl) -3-butyl-5-thioxo-1,2,4-triazole-1- The study of the effect of α-alanine on the resistance of bacteria to antibiotics, ie whether the substance being tested in an antibiotic-containing medium had any effect on crop growth or not.
+  Tested by placing their crystals in the MPA medium sown on the lawn of E.coli recombinant strains.
+ The results are presented in salt. In 2.
+N-Formyl-methionyl-alanyl- (S) -β- [4 - (furan-2-yl-methyl) -3-butyl-5-thioxo-1,2,4 triazol-1-yl] -α-alanine Effect on bacterial growthTable 3.Bacillus sp. (thermophilic) Compound N-formyl-methionyl-alanyl- (S) -β- [4- (furan-2-yl-methyl) -3-butyl-5-thioxo-1,2,4-triazol-1-yl] -α The aim of the experimental work was to find non-protein amino acids that could be used in the production of medicines, as potential antimicrobial resistance to bacteria, and as a result, they were obtained.
+Literature 1. Saghyan A., Chemistry of amino acids, peptides and proteins, Yerevan, 2010, pp. 4, 11.
+5. Rinderknecht H., Pancreatic secretory enzymes, in “The Pancreas.
+ Biology, Pathobiology, and Hermine Avetisyan RESEARCH ON THE EFFECT OF NON-WHITE HETEROCYCLIC AMINIC ACIDS AND THEIR PEPTIDES WITH PROTEINASE K FERMINT BY ACTIVITY

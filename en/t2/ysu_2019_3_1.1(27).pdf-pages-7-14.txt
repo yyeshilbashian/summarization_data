@@ -1,0 +1,54 @@
+SPECIFICATIONS OF GROUNDWATER FORMATION IN VOLCANIC REGIONS ACCORDING TO GEOGRAPHICS One of the main freshwater fishing regions of the Republic of Armenia is Mount Aragats.
+ We have conducted new scientific research using the method of electrical reconnaissance by vertical electrical probing (UEZ).
+  Taking into account the results of those studies, the data of previously made hydrogeological, geophysical and hydrological materials were processed and generalized.
+ A map of a regional water-repellent layer (paleorelife) has been built for the Aragats massif.
+Based on the obtained results, groundwater flows have been identified, the removal of which, especially in the upper reaches, will play an important role for the water supply of the mentioned regions.
+Based on the interpretation of geophysical and hydrophysical materials, certain issues of the hydrogeological structure of the Aragats massif were studied, including the detection of fissured volcanic zones, fractures and watercourses.
+  Based on complex studies: 1. The sites that are hydrogeologically promising in order to search for concentrated groundwater flows have been identified.
+2. Using the example of volcanic massifs, two types of mathematical modeling were performed, as a result of which the directions of regional crack propagation, which arose under the influence of the weight of the volcanic mass, were proved.
+3. These fissure zones in the area of ​​the mass are also considered to be ancient [1].
+We present together the hydrogeological and physical properties of mountain rocks in volcanic structures as a physico-hydrogeological model (FHEM) (Figure 1).
+ The formation of such hydrogeological specimens mainly reflects the hydrophysical-petrophysical properties of the rocks.
+  The hydrogeological summary section of volcanic structures, including the areas of formation, transfer, and groundwater discharge, can be represented by three rock complexes with different petrophysical and hydrophysical properties.
+Model FHEM-1, describes the region of external feeding of the volcanic structure.
+These are the high mountain watersheds, where there are practically no water-bearing formations, due to which most of the atmospheric precipitation (condensing moisture is broken) passes deep through the porous lava, forming a deep stream.
+Model FHEM-2, describes the intermountain-foothill regions.
+From a hydrogeological point of view, it is a region of groundwater transport (flow).
+Model FHEM-3 describes the groundwater discharge region.
+Here are usually the intermountain valleys, the lithological section is complicated, the lava rocks have a relatively large strength (sometimes up to several hundred meters) and consist of one or more aquifers.
+Water-geophysical studies are carried out with the aim of determining the structure of the regional water-resistant layer և the geophysical properties of aquifers [2, 3].
+Figure 1. Scheme of the volcanic structure of the volcanic structure.
+ Such volcanic processes reduce the tension under the earth, reducing the pressure in the deep layers.
+  Under the influence of the weight of the erupted lava itself, the earth bends and deforms, trying to restore the disturbed balance.
+ Based on the studies of the tense and deformed condition of the volcanic regions, regional possible cracks can be found in the lava rocks under the influence of the structure's own weight.
+  In our calculations, the structure is modeled as an infinitely distributed viscous-elastic slab based on a tensile-deformable elastic base.
+  The same problem was solved for the first time by G. Գ. Oganezov.
+ We solved it mathematically, taking into account the temporal characteristics.
+ The studies were carried out both for the whole volcanic mass (model-1) and in the form of separate columns (model-2) (Figure 2) [3].
+Figure 2. Schemes of computational models As a result of calculations of possible regional cracks in lava rocks, based on the example of Aragats volcanic massif, geophysical quantitative-qualitative data comparisons were made.
+On the geological map of the Aragats massif, the gravity field has been separated by numerous maximums and minimums.
+  A relatively large minimum (gravity) is observed in the area close to the surface.
+ Another feature is that the central part of the mass is outlined with large gradient zones of gravity.
+ The first of these zones passes through the eastern part of the massif, and the second from the north-west to the south-east (Figure 3).
+Figure 3. Geological schematic map of Aragats massif. 1. Small և semi-associated modern sediments, 2. Quaternary lava complex (basalts, andesitobasalts, etc.), 3. Paleogene lava complex (dolerite basalts, dacites, andesitodacites), rock complex, 6. volcanic eruption centers, 7. gravitational zone boundary, 8. gravitational force gradient zones (regions of possible regional fracture և lava rock regions).
+According to the magnetic sensing data, the direction of the residual magnetism coincides with the fracture bands.
+Electrical exploration works were carried out with different azimuths, electrical resistance of rocks was measured ․ As a result, there was a decrease in resistance (increase in electrical conductivity) on the cracked bands.
+The section of the ancient volcanic structures is represented by two rock complexes: water-repellent (lower complex), water-forming formations (upper complex), which are located above the lavas.
+ The basis for geological interpretation is vertical data (UEZ) data.
+ Moreover, the deeper the ancient valley, the more difficult it is to separate it.
+ At depths greater than 150 m, the mathematical two-dimensional modeling method was used to increase the accuracy of the field data.
+ The obtained data are used in the interpretation of OEZ curves.
+Figure 4. Example of mathematical two-dimensional modeling of ancient valleys in three layers Q (cid).
+3408) ρ1 (cid.
+3408) ρ2 (cid.
+3408) In case of ρ3 type geoelectric section, in case of three-layer geoelectric section of mathematical two-dimensional modeling of ancient valleys, we get Q type curve, and in case of ancient one, the curve is slightly deviated.
+ This proves the existence of antiquity at a given depth (Figure 4).
+Combining the data of hydrogeophysical, hydrogeological, mathematical modeling, mathematical geometric modeling, we come to the conclusion that there are regional fracture zones in volcanic structures.
+ These become underground waterways, or so-called ancient sites.
+Conclusion. In the central volcanic highlands of Armenia, the Aragats massif is one of the main regions of freshwater formation.
+ As a result of the study of the regional fracture zones of the Aragats massif, groundwater streams, their spatial distribution, the hydrophysical and petrophysical properties of the rocks spread there, we have made the following conclusions:
+ The hydrodynamic conditions of formation, movement and unloading of groundwater of the mountain massif have been studied.
+ According to the data of model-1 և model-2 solved for the Aragats massif, the directions of the regional fracture zones, which were caused by the influence of the mountain weight, were proved.
+ Mathematical two-dimensional models of ancient valleys for underground flows at depths of more than 150 m have been solved.
+Our work can help to determine the exact location of hydro-geological wells.
+LITERATUREBagajanyan Argine VOLCANOGRAPHICS IN GROUNDS OF GROUNDWATER FORMATION ESTABLISHMENT ACCORDING TO THE GEOPHYSICS, layered

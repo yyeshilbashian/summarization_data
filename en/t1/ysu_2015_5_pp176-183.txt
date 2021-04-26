@@ -1,0 +1,90 @@
+LEGAL SETTLEMENT OF E-COMMERCE IN THE REPUBLIC OF ARMENIA
+ Examining the public relations arising around the implementation of e-commerce և the RA legislative field, we see that the legal relations need to fill the legislative gaps, to correct the shortcomings.
+ Gaps in the legal regulation of public relations related to electronic commerce ությունները Deficiencies will cause many problems for the entities that enter into such legal relations.
+The public relations arising around the trade carried out electronically, in particular, the general provisions of concluding a contract, are regulated by the RA Civil Code.
+ It should be noted that the Civil Code of the Republic of Armenia regulates the public relations arising from entering into negotiations (making an offer to sign a contract - an offer) during the transaction carried out electronically.
+  According to Article 451 of the RA Civil Code, an offer is an offer addressed to one or several specific persons, which to some extent expresses the bidder's intention to consider the contract concluded with the addressee who accepted the offer.
+When information about the goods sold by the seller for the purpose of electronic trading is posted on the relevant website, the seller makes an offer to conclude an electronic contract with the buyer, ie the seller to some extent expresses the status of the contract with the recipient who accepted the offer.
+  The buyer's response to the relevant offer (offer) is the acceptance, which is also defined by the Civil Code.
+In electronic commerce, acceptance is generally done by electronic signature, which can be expressed by any of the electronic signature forms.
+ If A wants to sell its product through amazon.com, it posts information about that product on amazon.com.
+ Thus, we see that there are two of the relevant legal entities, the seller or, as well. The sample trade law states "data message maker" և Amazon.com, Inc., which is the "data intermediary".
+ The seller offers an offer (offer) to conclude a contract with the relevant information to the buyer, the "addressee of the data message", who is one of the subjects of the relevant legal relationship.
+  The person, seeing the relevant information, expresses a desire to acquire the relevant product պատասխան responds to the acceptance of the offer, ie an acceptance, which is expressed by an electronic signature, in this case by concluding an electronic contract by entering a cryptographic electronic signature.
+By performing these actions, that person (already the buyer) becomes the third subject of the legal relationship.
+The offer must contain the essential terms of the contract.
+  Offers the sender from the moment of receiving it by the addressee.
+  Clause 2 of Article 448 of the Civil Code of the Republic of Armenia stipulates that the contract is concluded by sending an offer (offer to sign a contract) to one of the parties and by accepting it (accepting the offer) by the other party.
+  And Article 449, Part 1 of the RA Civil Code stipulates that the contract is considered signed by the person who sent the offer from that moment.
+An invitation to bid may be made electronically or a public bid.
+According to Article 453, Clause 1 of the RA Civil Code, advertising other offers addressed to the indefinite circle of Gandzants are considered an invitation to bid, unless otherwise explicitly mentioned, and according to Clause 2 of the same Article, the offer containing all essential terms of the contract, of which The offer of the bidder to conclude a contract with each respondent under the above conditions is considered a public offer.
+It should be noted that the norms set forth in Chapter 31 of the Civil Code of the Republic of Armenia ("Trade") apply to the temporary trade contract carried out electronically, and in case a contract for paid services or a contract is concluded, Article 37 և 39 shall apply. the norms defined in chapters.
+Some theorists believe that public relations related to electronic commerce are fully regulated by the Civil Code, there is no need to adopt any other legal act, but they are wrong, because the RA Civil Code does not contain certain norms necessary for public commerce over electronic commerce. to fully normalize relations.
+The RA Civil Code does not contain: • the concept of e-commerce; • the concepts of public relations entities arising around e-commerce; • their rights և responsibilities; • the conditions ման the conditions for concluding a contract for e-commerce.
+When studying the legislation of the Republic of Armenia, we see that there is only one act regulating to some extent the public relations arising from e-commerce - the "Law of the Republic of Armenia on Electronic Documents - Electronic Signature".
+  This law regulates the public relations arising during the use of electronic documents և electronic digital signatures1.
+  This law shall not govern the relationship between the electronic conversion of handwritten signatures, such as the use of documents signed through them2.
+The following definitions are given in the "Law of the Republic of Armenia on Electronic Digital Signature" of electronic documents: • electronic document, • electronic digital signature, • electronic document signing person, • electronic digital signature creation data, • electronic digital signature verification data, • electronic digital signature creation electronic digital signature verification tools, • electronic digital signature creation tools, • electronic digital signature authentication, • electronic digital signature certification, • electronic digital signature certification center, • electronic digital signature certification information center, • electronic digital signature certification system, • • electronic media • interested person 3.
+There are three main types of electronic signatures: electronic signature, electronic biometric signature և electronic cryptographic signature.
+  However, according to Article 1 of the RA Law on Electronic Documents տրոն Digital Signature, the law regulates the relations arising during the application of electronic documents և electronic digital signatures.
+  That is, the public relations arising around electronic cryptographic-electronic biometric signatures are not regulated by the RA legislation.
+ From this we conclude that if there is an electronic trade with electronic cryptography or electronic biometric signatures, that relationship will not be subject to legal regulation.
+ In addition, the RA Law on Electronic Document Electronic Signature is not adapted to properly regulate the public relations surrounding the electronic digital signature used during e-commerce.
+  It needs a number of complex changes and additions.
+There is one legal act in the RA legislation, the RA Law on Electronic Communications, which to some extent should contain norms that will regulate e-commerce, but in Article 3 of the law 1 See RA Law on Electronic Documents և Digital Signature , Article 1.
+2 See ibid.
+3 See ibid., Article 2.
+It is noted that the law defines the rights and responsibilities of end-users, public electronic communications network operators, public electronic communications service providers, private electronic communications network operators, public bodies in the field of electronic communications regulation, creation, development and operation of electronic communications services. in relation to the provision, such as state control և control over the provision և use of such limited resources as radio frequencies, satellite orbit և numbers.
+ In other words, the law does not regulate e-commerce in any way.
+In practice, there are many cases when there is an e-foreign element in the public relations surrounding the e-commerce.
+  That is, sometimes the given public relation can be an object of private international law, as the given legal relation is a property relation based on the equality of the parties, in which there is a foreign element1.
+ According to Article 1253, Part 1 of the RA Civil Code, with the participation of foreign citizens, including sole proprietors, foreign legal entities, organizations not considered legal entities in accordance with foreign law, stateless persons, as well as in cases where the object of civil law is foreign. The right to be exercised by the court in relation to the relations is determined on the basis of this Code, other laws of the Republic of Armenia, international treaties of the Republic of Armenia and international customs recognized by the Republic of Armenia.
+According to Part 2, if the right to be exercised is impossible to determine in accordance with paragraph 1 of this Article, then the right more closely connected with civil-legal relations with the participation of foreign persons shall apply.
+  That is, in cases when it is impossible to determine the applicable law in accordance with point 1 of Article 1253, քաղաք the civil law relationship with the participation of foreign persons (with a foreign element) is more closely connected with the RA law, then the legal relations should be regulated by RA legislation.
+ However, as we see, this cannot be done, as there are no sufficient norms regulating e-commerce in the RA legislation.
+As we have mentioned, the RA Law on Electronic Documents "Digital Signature" regulates only the public relations arising from electronic signatures only around the electronic digital signature, ie the public relations arising from other electronic signatures (electronic secret signature, electronic biometric signature) are not regulated by that law. .
+ This law is not adapted to regulate the public relations arising around e-commerce.
+No transaction can be concluded electronically between the two parties, if one of the parties owns one provided by the RA Certification Center 1 See Haykyants A., Private International Law, Yerevan, 2003, p. 9.
+the electronic signature certificate, but not the other side.
+  These cases can occur when one side of the transaction is a citizen of the Republic of Armenia, and the other side is a citizen of another country.
+ For example, there are two parties, one of which is a citizen of the Republic of Armenia and the other a citizen of the Federal Republic of Germany.
+  They want to make an electronic transaction, during which they want to use an electronic digital signature.
+  The RA citizen holds the electronic signature certificate issued by the RA Certification Center, but the German citizen does not.
+In this case, they can not directly validate the transaction with an electronic signature, as for its implementation it is necessary that the citizen of the Federal Republic of Germany possesses the electronic signature certificate issued by the RA Certification Center.
+  It should be noted that a German citizen can obtain an e-signature certificate issued by the RA Certification Center only if he / she submits a residence card, social card or public service number certificate 1.
+Thus, we see that this circumstance hinders the electronic trade between RA "foreign legal entities", as the German citizen mentioned in the example, if he does not have the above-mentioned documents, cannot possess an electronic signature certificate issued by the RA Accreditation Center. be a party to the deal.
+ However, it should be noted that e. Article 2 7 of the Trade Directive ("International Concepts") provides that Member States shall ensure that certified certificates issued to the public by a certification-based service provider established in a third country have the same legal validity as a Community-based certification-service provider.
+Paragraph 1 of Article 54 of the RA Civil Procedure Law ("Written Evidence") stipulates that written evidence contains acts, contracts, references, business correspondence, other documents տեղեկություններ materials containing information relevant to the circumstances of the case, including: Evidence obtained by electronic or other means of communication or other means of verifying the authenticity of documents.
+  However, the mechanism for submitting electronic documents to the courts as evidence has not been developed, which is an obstacle, in particular, to concluding contracts by exchanging electronic documents.
+E-mail The signature directive stipulates that Member States shall ensure the legal significance of electronic signatures in litigation, as refusing to refuse to use them as evidence on one of the following grounds: • has an electronic scale, • is not based on a certified certificate, • is not based on a certified certification service provider • not created by secure signature creation3.
+1 See http.
+//www.ekeng.am/?page_id=73&lang=en.
+3 See Directive 1999/93 / EC of the European Parliament and of the Council, Article 5.
+Thus, we propose to adopt a law on the recognition of the RA Law on Electronic Digital Signature of Electronic Documents as invalid, and to adopt a new RA Law on Electronic Signature.
+  When elaborating this new legal act, the legislator should be guided by e. by signature sample law, e. by signature directive, e-mail by the directive of trade, by the model law of e-trade, by the experience of legislative regulation of foreign countries.
+  The RA Law on Electronic Signature should consist of two parts, general and special.
+  The general part should contain concepts, principles, basic starting points, and the special part should be the norms regulating the public relations arising from the transactions concluded during the electronic trade.
+The general part should contain the following concepts.1. "Electronic signature" means data in electronic format which is attached to or logically combined with other electronic data և serves as authentication data և.
+2. "Improved Electronic Signature" means an electronic signature that satisfies the following requirements: • is exclusively associated with the Signatory; relates to the data to which it relates in such a way that any subsequent changes can be traced.
+3. "Signatory" - the person who possesses the means of creating a signature, acts either on his own behalf or on behalf of the natural / legal person to whom he represents.
+4. "Signature creation data" means the unique data, such as the signatures or private password keys that the signer uses to create the electronic signature.
+5. "Signature creation means" means software or hardware means used to execute signature creation data.
+6. "Means of creating a secure signature" - means of creating a signature that meet the requirements set out in Annex 3.
+7. "Signature verification data" means data (symbols or public password keys) used to verify an electronic signature.
+8. "Signature verification tools" means software or hardware tools used to perform signature verification data.
+9. "Certificate" - electronic certification, which connects the signature verification data with the person և confirms the identity of the person.
+10. "Verified Certificate" means a certificate that satisfies the requirements set out in Annex 1 and is provided by a certification service provider that meets the requirements set out in Annex 2.
+11. "Certification service provider" means an entity or legal entity / individual that provides certificates or other services related to electronic signatures.
+12. "Electronic Signature Products" means software, hardware and related components intended for use by an certification service provider for the provision of electronic signature services, the creation or verification of electronic signatures.13. "Voluntary accreditation" means any authorization, definition of rights, obligations that are specific to the provision of certification services;
+As we have seen, the new law proposed by us does not even contain the phrase "electronic digital signature" in the title "Electronic Signature".
+  The law should regulate not only the electronic digital signature, but also the other public relations that arise around the electronic signature.
+ The new law of the Republic of Armenia should contain norms that will allow foreign citizens to obtain an electronic signature certificate issued by the Accreditation Center of the Republic of Armenia without a residence card, social card or public service number certificate.
+  In this case, those foreign citizens who do not have a residence card, social card or public service number certificate, will have the opportunity to conclude transactions with the citizens of the Republic of Armenia electronically (during which an electronic signature is used).
+The RA Law on Electronic Signatures, in contrast to the current RA Law on Electronic Documents - Electronic Digital Signatures, will regulate the public relations related to electronic signatures used during electronic contracts.
+The RA Law on Electronic Commerce should regulate the public relations arising around electronic commerce.
+  When drafting this legal act, you should be guided by e-mail. according to the sample law of trade, e. by the directive of the trade, by the standard act, by the experience of the legislative regulation of foreign countries.
+  The application of the legislative experience of other countries will contribute to the proper regulation of e-commerce. Ությունում In the Republic of Armenia, the subjects of civil law relations will not face problems that they have previously encountered in foreign countries.
+We suggest making an addition to the RA Civil Procedure Code.
+  These norms will regulate the mechanism of submitting the electronic signature to the court as evidence.
+ This will also protect the rights of the parties to the transaction by electronic signature, which will help to avoid certain risks.
+Vardan Khachatryan LEGAL REGULATION OF ELECTRONIC TRADE IN THE REPUBLIC OF ARMENIA Keywords: electronic trading, electronic signature, electronic digital signature, e-mail Trade directive, electronic document, public offer, electronic cryptographic signature, electronic biometric signature.

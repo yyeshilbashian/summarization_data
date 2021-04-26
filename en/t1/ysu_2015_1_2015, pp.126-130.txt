@@ -1,0 +1,67 @@
+DNA-ETIDIUM BROMIDE INTERACTION RESEARCH BY FLUORESCENT ANISOTROPY INTRODUCTION.
+ Fluorescent anisotropy is widely used in biochemical research և medical examinations [2, 6].
+  This method is based on the fact that when fluorescent light is excited, the delivery of many fluorophores is also polarized.
+The degree of delivery loading is characterized by anisotropy (r).
+Delivery can be unloaded by a series of processes, which mainly depend on the properties of the sample under examination.
+It is known that all chromophores have a moment of transition, which lies in a certain direction with respect to the molecular axis.
+ Rotational diffusion changes the direction of the passing moment և is the main cause of de-discharge.
+  Anisotropic measurements make it possible to determine the mean angular displacement of fluorophore that occurs during photon absorption during subsequent delivery.
+  The angular displacement depends on the magnitude և velocity of the rotational diffusion in the excited state.
+It is also known that the sample of fluorescent anisotropy measurements is exposed to vertical light.
+ The electric vector of the excitation light is parallel to the vertical (z) axis.
+ Radiation intensity is measured after passing through an amplifier.
+  When the loader is parallel to the excitation, the intensity is assigned to IVV, in the case of vertical arrangement the intensity is assigned to IVH (V-Vertical, H-Horizontal).
+  These intensity values ​​are used to measure anisotropy.
+where the G-factor is determined in the following relation: Anisotropy is a quantity not measured մեծ does not depend on the overall intensity of the sample.
+  The reason is that the difference in intensities (IVV – GIVH) is normalized to the total intensity, which is equal to: IT = IVV + 2GIVH.
+In older publications, such as the medical literature, polarization is more commonly used.
+  The "anisotropy" connection is given by the following expression: The "anisotropy" mean of the mean value of the angle of absorption's transmission moment is given by the following expression: Let us now consider the DNA-ethidium bromide (EB) system.
+ The study of the effects of different types of materials on the structure of DNA, particularly spiral-coil transitions, has recently become of great interest [1, 5, 7].
+ It is known that EB is commonly used in biological laboratories to detect nucleic acids.
+  It is often used in biochemical laboratories to make the DNA molecule "visible" in spectroscopic studies because the DNA does not fluoresce.
+ The basis for the latter is the fact that the EB molecule fluorescents when exposed to ultraviolet light և emits light in the visible part.
+  The cyclic structure of EB has a hydrophobic nature, penetrating the internal hydrophobicity of double-stranded DNA, forming strong Van der Waals bonds with DNA bases.
+ Bonding by this mechanism is called interaction, and molecules are called interaction agents.
+Materials used ման research method.
+  The studies used calf thymus DNA, ethidium bromide, obtained from "Sigma" company.
+  The DNA solution was prepared in a citrate buffer (0.015 M NaCl և 0.0015 M sodium citrate: Na3C6H5O5.5H2O), pH 7.5.
+In the preparation of DNA solutions, a solution with the appropriate concentration of ethidium bromide was initially obtained in a citrate buffer.
+The resulting solution was mixed until well dissolved, then an appropriate amount of DNA solution was added.
+ The concentrations of DNA ԲEB in the solutions were 7.95010-5 M  5.87510-5 M, respectively, the latter being determined by electron absorption spectroscopy using the SPECORD 50PC spectroscope.
+  The molar coefficients of DNA և EB uptake are correspondingly equal: ε260 nm = 6600 և ε480 nm = 5680 M-1-cm-1.
+Fluorescent measurements were made using a Varian Cary Eclipse fluorescent spectrophotometer in quartz cubits 1 cm wide.
+ The excitation wavelength was fixed at 520 nm, and the delivery was observed at 605 nm.
+  The widths of the excitation-delivery cracks were 5 և 10 nm, respectively.
+ The measurements were made at a temperature of 22 0C.
+  The temperature was regulated with the help of LAUDA A100 thermostat.
+ The temperature of the solution was fixed directly by means of a temperature indicator installed in the cuvette compartment.
+The obtained results և their discussion.
+ There are electrostatic interactions between the phosphate groups of DNA adjacent to EB positively charged molecules, which determine the stability of the DNA-ethidium bromide complex.
+  Experimental studies show that the fluorescent anisotropy of ethidium bromide23 rr21cos32r is a function of the DNA base pair / ligand ratio.
+  This qualitative։ quantitative explanation requires consideration of several processes that can lead to anisotropy change: depolarization.
+  The models used to explain the experimental data take into account the complex DNA-EB orientation և rotational dynamics.
+  The two main factors that cause de-immobilization are the rotational motion of the part of the DNA to which the ethidium bromide is attached, the transfer of energy from EB molecules to other molecules in different directions at high DNA content.
+In the case of small amounts of DNA, only the rotation of the specified segments of DNA leads to decoupling.
+ However, it is experimentally possible to measure only monetary depreciation.
+  The same decompression can be caused by two factors: a significant rotational motion combined with a small projection angle (φ), which forms the dipole moment of the EB transition, the plane perpendicular to the DNA-ipar axis, or a less pronounced rotational motion combined by a relatively large φ angle.
+  To eliminate this definition, it must be assumed that the quantities describing the rotational motion are constant or that the angle φ is constant.
+  Ethidium ibromide has a rather large excited life span of 25 n և large φ angles, about 700.
+  For the DNA-ethidium bromide complex, the φ value of the angle can be assumed to be small in the case of small amounts of stable DNA, since in the case of larger contents, the binding takes place by an intercalation mechanism, which causes the DNA strand to be partially broken [3].
+ In our work, the anisotropy value of the DNA-EB system որոշ the angular displacement of the transition dipole moment during the delivery process were determined.
+  This approach can be used to study the effects of various factors on the DNA-EB system.
+A solution containing the above concentrations of DNA ethidium bromide was prepared to counteract the interaction of DNA with ethidium bromide.
+  Ethidium bromide molecules, interacting with DNA research bases, become less mobile than in the free state, leading to an increase in fluorescent anisotropy.
+ That is, following a change in anisotropy, one can describe changes in DNA that occur under the influence of various factors, such as temperature, DNA concentration, pH, the presence of salts in the solution, and mixed solvents (water / organic solvent). ) application [4, 9].
+ In our work, the value of DNA-related ethidium bromide anisotropy was determined.
+  Figure 1 shows the fluorescence spectra of this system at different positions of the chargers.
+Figure 1. Fluorescent spectra of DNA ethidium bromide complex at different positions of separators. A. HV, B. HH, C. VV, D. VH Based on the fluorescence intensity values, according to Equation (1), the DNA-bound ethidium bromide anisotropy value was determined to be 0.09.
+ Based on this value of anisotropy, the average value of, is equal to 510.
+ This calculation is performed by assuming that the ethidium bromide molecule is symmetric about the z-axis.
+  It should be noted that both chemically bound and non-chemically bound ligands are used in the research, which depend on the specifics of the system under study.
+Thus, the DNA-ethidium bromide system was studied by fluorescent anisotropy, and the value of DNA-bound ethidium bromidanisotropy was determined.
+  Based on the anisotropy value, the mean angular displacement of the dipole moment during delivery was determined.
+Literature 1. Aznauryan M., Khachatryan A., Margaryan Sh., Study of thermal denaturation of DNA in the presence of dialkyl sulfoxides by fluorescence spectroscopy, "YSU Scientific Bulletin. Chemistry և biology ", 3. Barcellona M., Grattont E., Fluorescence Anisotropy of DNA / DAPI Complex.
+ Torsional Dy5. Gore M., Spectrophotometry and Spectrofluorimetry.
+  A Practical Approach, New York, intercalative binding.
+ Structure of an ethidium-dinucleoside monophosphate crystaline complex, ethidium.
+  5-iodouridylyl (3 '-5') adenosine, Proc. Nat. Acad. Sci. USA, 1975, Vol. 72, No. 2, Karen Amirbekyan, Hayk Petrosyan DATO-ETIDIUM BROMIDE INTERACTION RESEARCH BY FLUORESCENT ANISOTROPY, pt Keywords: DNA

@@ -1,0 +1,52 @@
+CHROMOSOME DISORDERS IN MARDULECOCYTS INFLUENCE AFLATOX B1Introduction.
+  Aflatoxin B1 (AF B1) is a mycotoxin produced by Aspergillus fungi.
+  AF B1 infects a variety of foods, possessing mutagenic և carcinogenic properties [1].
+  A number of studies have shown the ability of AF B1 to replicate chromosomal abnormalities in human cells [2,3].
+In mammals, aflatoxin is converted to AF B1-8,9-epoxide during metabolism.
+  The resulting AF B1-8,9-epoxide covalently binds to DNA to form DNA adducts, which in turn causes hepatocarcinogenesis.
+  Molecular genetic studies have shown that the carcinogenic properties of AF B1 are due to the transcription of G / T transversion into codon 249 of the TP53 gene in human hepatocytes [4].
+ However, the mutation spectrum of AF B1 has not yet been fully elucidated.
+The aim of this study was to evaluate the cell genetic characteristics of AF B1 in human peripheral blood culture at 24 և 48 h chromosomal aberration analysis.
+Materials և methods.
+ The level of chromosomal abnormalities in AF B1 was assessed by culturing human peripheral blood culture with mycotoxin at 24 և 48 h.
+ AF B1 was used in different doses: 3.6 և 12 μg / ml.
+ 5 ml of peripheral blood was cultured in 50 ml of RPMI 1640 medium containing 10% embryonic serum, 2 mM L-glutamine, 100 m / ml penicillin և 100 μg / ml streptomycin.
+To reduce lymphocyte division, the blood was cultured by adding 1.5 ml of L-phytohemagglutinin.
+ Peripheral blood culture was incubated at 370C for 72 hours.
+  The hypotonic solution was prepared using 0.075 M KCL.
+ Methanol acetic acid solution 3 was used as a fixative.
+In a ratio of 1.
+  Romanovsky-Gimza 10% dye was used to dye metaphase chromosomes.
+ After 72 extractions, the peripheral blood culture was transferred to 10 ml centrifugation vessels and centrifuged at 1500 rpm for 7 min.
+ After removal of the supernatant, 10 ml of hypotonic KCL solution was added and incubated at 15 ° C at 15 ° C.
+ The cell suspension was washed with 10 ml of fixative.
+ After centrifugation, 9.5 ml of supernatant was removed, and 0.5 ml of cell suspension was used to make metaphase plates.
+Metaphase chromosomes were stained with Romanovsky-Gimza dye. Stored 24 hours before light microscopy.
+ 100 metaphases were studied from each variant.
+  Statistical analysis was performed using Statgraphics 16.2 using t-test.
+Results և discussion.
+ The cellular genetic activity of AF B1 was assessed by studying the levels of fractures in human peripheral blood cultures.
+The analysis of the obtained results showed that AF B1 significantly (p <0.05) increases the levels of gaps in 6 և 12 μg / ml doses under 24 և 48 h processing conditions (Table 1).
+Levels of AF B1-labeled fractures in human peripheral blood culture under 24 և 48 h.
+ Reliable difference compared to the controller: * -p <0.05.
+24 h Cultivation Doses of AF B1 Average Number of Gaps Average Breakdown Table 1. Control 3 μg / ml 6 μg / ml 12 μg / ml 3 μg / ml 6 μg / ml 12 μg / ml 48 SD48 h Cultivation Our results are consistent with the literature.
+  According to [6] AF B1, under 24 hours of exposure without metabolic activation, reliably increases gallbladder levels in vitro.
+  A number of molecular studies have shown that the mutagenic properties of AF B1 are due to its metabolic activation by AF B1-8,9-epoxide [7].
+Therefore, the mutagenic activity of AF B1 without metabolic activation indicates the presence of indirect mechanisms of action on this mycotoxin.
+ It has also been shown that AF B1 can inhibit replication inhibition.
+  It should be noted that inhibition of replication leads to an increase in the level of gaps that occur in fragile sections of chromosomes.
+ In addition, [10] have shown that changes in the number of duplicates of DNA occur at high frequency in the fragile loci of chromosomes during replication inhibition.
+Summarizing the results we have obtained տվյալ the data of the literature, it can be concluded that the mutagenic properties of AF B1 are due not only to the formation of covalent bonds with DNA, but also to indirect mechanisms that need further study.
+Literature 1. Bennett JW, Klich M. Mycotoxins. Clin Microbiol Rev. 2003; 16.
+497–516.vitro. Turk J Med Sci. 2011; 41.
+1043–9.2012; 64.
+607–12.1993; 90.
+8586–90.5. Verma R, Babu A. Human chromosomes.
+ principles & techniques. New York.
+ McGraw-Hill, peripheral blood lymphocyte cultures.
+  a comparison with aflatoxin B1. Mutat Res. 1986; 170 (1-2).
+47-53.Int J Cancer. 2006; 118 (11).
+2665-71.82 (10).
+3096-100.Cancer Lett. 2006; 232 (1).
+13-26.replication stress. Genome Res. 2015; 25 (2).
+189-200. Sona Galstyan CHARACTERIZATION OF CHROMOSOME DISORDERS IN THE EFFECT OF HUMAN LEUKOCYTES ON PHLATOX B1 Keywords: aflatoxin B1, gap, chromosomal disorder.

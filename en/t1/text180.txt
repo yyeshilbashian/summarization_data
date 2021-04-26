@@ -1,0 +1,46 @@
+The Caucasus is one of the richest regions in the world in terms of biodiversity.
+  In recent years, special attention has been paid to the research of birds and their parasites.
+  Birds are infected with viral, bacterial, parasitic and fungal pathogens and can be their repositories [3,4].
+ Infectious and parasitic in the wild for decades.
+  Blood spores are known to cause biodiversity depletion, which is particularly dangerous for endemic fauna [1,2].
+ 213 The parasites of Plasmodium, Haemoproteus, and Leucocytozoon species, which are the blood spores of the birds we study, are transmitted by a variety of widespread and fairly widespread bipedal insects, such as mosquitoes, nocturnal mosquitoes, and mosquitoes.
+  These insects are cosmopolitan and have been found on all continents except Antarctica.
+ There is insufficient information in written sources about studies of bird blood parasites.
+  The aim of our research is to find out the diversity and prevalence of bird blood parasites in the biodiversity-rich Caucasus region.
+ Materials and methods.
+ methods.
+  2010 From May to August, blood samples were collected from a number of forest species from the Republic of Armenia (RA) and the Nagorno Karabakh Republic (NKR) (206 samples), as well as from a number of forest sites in the Krasnodar Territory (190 samples) of the Russian Federation (Fig. 1).
+ Figure 1. Sampling sites in Armenia, NKR and Russia.
+ 214 Bird hunting was carried out through appropriate nets.
+  The type of each bird was determined, then a blood sample was taken from a vein.
+  The blood was stored at room temperature in 96% ethanol solution.
+ All birds were rounded to prevent double hunting of the same individual and were released.
+ Complete DNA was removed from the blood sample (in the presence of both bird and parasite).
+  Near the bird Haemoproteus spp., Plasmodium spp. and Leucocytozoon spp. The PCR (polymerase chain reaction) method was used to determine its presence.
+  Primers covering the mitochondrial cytochrome B gene have been used to identify the parasite, which is the most widely used marker for the above parasites [8,9].
+ PCR was performed using the following primers: HAEMNF reaction conditions are 30 seconds - 95 ° C, 30 seconds - 52 ° C, and 45 seconds - 72 ° C 40 cycles.
+ The samples were incubated at 95 ° C for 15 minutes before cyclic reactions and at 60 ° C for 10 minutes after the reaction.
+  The 12.5 μl reaction solution contained 2 μl of separated DNA, 0.24 uM from each primer, 1x of GoTaq® Flexi Buffers, 0.287 mM dNTP, 2 mM MgCl 2, 5.978 μl H 2 O and 1.2 u Taq DNA polymerase (Promega Corporation) with final concentrations.
+ To determine the presence of DNA, the final material was electrophoresed on a 2.0% agarose gel, the result of which was observed under UV rays.
+  Positive samples were purified using ExoSAP-IT PCR Clean-up Kit (USB Corporation) and sent to Macrogen (Macrogen corporationNetherlands) for nucleotide sequencing.
+  Sequences were developed using the BioEdit program [10], and haplotypes were determined using the DNAsp 5 program [11].
+  To determine if haplotypes belong to a particular 215 parasite, they were compared with sequences in the International Gene Bank and the MalAvi database.
+ Results.
+ Results .
+ From the studied samples, which represent 34 species of birds, the number of infected was 249 samples, 29 bird species.
+ Table 1 PCR survey results in Armenia and the Krasnodar region of Russia Armenia Number of specimens Bird species Krasnodar region of Russia Bird. Infected Birds. Infected. ված. without an extensive person. person Extensive and - Bird. Birds. separately. separately. Infected Infected. ված. Extensive Extensive Extensive Quantity Quantity and Quantity Quantity Quantity and Number Other Types 144 76 64.5% (49) 68 69.1% (47) Total 396 206 57.7% (119) 190 70 , 0% (133) Samples Samples (total) Infected (general) 216 Infection rates of birds in Armenia and Krasnodar Territory for some species were compared, as well as general infection rates (Table 1).
+ Nucleotide sequences were studied, representing 40 separate haplotypes. 26 of them represent Haemoproteus spp., 11 - Plasmodium spp. and only 3: Leucocitozoon spp. (Table 2).
+ Some new haplotypes have also been discovered that have not yet been registered with the International Gene Bank.
+ Table 2 Nucleotide sequences and number of haplotypes in avian parasites Nucleotide sequence - 147 (40 haplotypes) New Gene Bank Cosm. New Gene Bank Eur. Cosm. 2 hapl. 16 hapl. Discussion and New Euro. 5 hapl. 8 hapl. Gene Bank Cosm. Eur. 1 hapl. 5 hapl. 1 hapl. conclusion.
+ conclusion .
+ Last 0 hapl. 2 hapl. During the decades when parasitic chain reactions were introduced into the field of parasitic research, methods based on bird malaria were of particular interest, and ecological and, in evolutionary terms, began to be studied extensively.
+  Although modern methods have facilitated the study of parasites, they are not without their drawbacks and need further development and improvement.
+ 217 It is known that when working with the PCR method, one cannot be completely sure that there are no parasites in the samples that show a negative result, however, our analyzes are based on the obtained and available results.
+ The prevalence of avian infection is 62.8%, which is quite high compared to other geographical areas [15,16].
+ Infection of almost all species of birds studied in the Krasnodar Territory is higher than in Armenia, which is probably due to climatic conditions.
+ The study of nucleotide sequences revealed 3 genera of parasites that cause malaria in birds, the most common of which is the nucleotide sequence (71.4%), followed by Plasmodium spp. - 31 nucleotide sequences (21.1%) and Leucocytozoon spp. - 11 nucleotide sequences (7.5%).
+  As a result of our research, 14 new haplotypes have been identified, which have not been registered anywhere so far, which testifies to the rather high level of endemicity of bird blood spores in the region.
+  7 cosmopolitan haplotypes were also found, which were also registered in other continents.
+  Given that parasites have extremely low bird species specificity [14], we can speak of an existing threat, ie parasites are a potential source of epidemic, which is particularly dangerous for endemic fauna.
+ The research was conducted with the financial support of the Galust Gulbenkian Foundation.
+ .

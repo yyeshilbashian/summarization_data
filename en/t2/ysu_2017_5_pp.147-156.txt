@@ -1,0 +1,113 @@
+ARABITICS
+ Probiotic bacteria are the producers of such substances.
+  Lactic acid bacteria (Lactic acid bacteria), bifidobacteria, yeasts, intestinal rods, streptococci are considered real therapeutic agents that can selectively control the number of unwanted bacteria that have entered our body.
+ The antagonistic activity of probiotic bacteria is due to the production of unique antibacterial substances - organic acids, short-chain fatty acids, hydrogen peroxide [6].
+ In addition to these substances, lactic acid bacteria are synthesized by bactericides [1, 4, 5].
+  The synthesis of bacteria is a unique feature.
+  They are safe for humans and together with probiotic bacteria are of great interest especially for the food industry.
+  Bacteria are synthesized in ribosomes and undergo post-translational mutations, which can lead to the addition of fatty acids, carbohydrates, or other compounds to the molecule.
+  They usually have a small molecular mass of 2-6 kDa.
+  The mechanism of action of bacteria is different: they break down the cell wall, inhibit the cell wall biosynthesis or the enzymes of carbohydrate assimilation.
+  They are divided into 2 groups: lantibiotics, which contain unique amino acids, non-lantibiotics β-methylanthionine [7, 9, 10].
+In general, probiotic bacteria can not completely replace antibiotics.
+ At the same time, these bacteria are indispensable for regulating the intestinal microbiota.
+The aim of this work is to study the antimicrobial activity of CBD isolated from pickled vegetables from different regions of Armenia, the influence of various factors on them, as well as the chemical nature of the substances endowed with that activity.
+MATERIALS AND METHODS Research objects were Lactobacillus sp. 1.9, Leuconostocsp. 2.V և Leuconostoc sp.2.X KTB strains isolated from pickled vegetable samples from small farms in different regions of Armenia.
+  Pure CBT cultures were isolated from a single colony resulting from successive dilutions of acid samples in hydrolyzed milk feed media.
+  All isolated strains were stored at -32 oC with 20% glycerol.
+  If necessary, the strains were activated in 10% skim milk, which contained 0.1% peptone, 0.1% yeast extract, pH 7.0.
+The optical density of the culture fluid was measured spectrophotometrically (λ = 595 nm) (Thermo Scientific, GENESYS 10S UV-VIS, USA).
+  The dependence of the antimicrobial activity of the studied bacteria on the shaking strength (amount of soluble oxygen) was determined by growing the bacteria in 20-22 h MRS (Man, Ragoza, Sharp) at 37 ° C, with active shaking (80 rpm), without shaking. in the manner described below.
+Study of antibacterial activity.
+  The antibacterial properties of isolated pure cultures were determined by diffusion in agar.
+  Representatives of different groups of microorganisms were used as a test organism: WDCM-5233, Bacillus subtilis WT-A1.
+ CBs were cultured for up to 48 h. The synthesis of antibacterial components depending on the growing stage was studied.
+  Then, Petri dishes were kept at room temperature for 30 minutes, with the aim of diffusion in the agar.
+  After 24 hours of growing in optimal temperature conditions for the growth of the test organism, the growth absence zones were measured.
+The effect of nutrient composition on antimicrobial activity was studied.
+  CBDs were grown in MRS և 10% skim milk at 24 ° C for 24 hours, then antibacterial activity was studied.
+  The minimum inhibitory density (MAC) was determined by the above method [2].
+  The sample was diluted 0.5, 1, 2, 2.5, 3, 3.5 և 4 times with sterilized phosphate buffer (20 mM, pH 6.5).
+ 100 μl of each dilution was dripped onto the lawn of the test organism sown in Petri dishes.
+  All subsequent steps were similar to the method of studying the antibacterial activity mentioned above.
+ The amount of culture fluid in the study that caused a lack of growth of at least 2 mm was considered NAK.
+The ability of antibiotic-releasing substances to bind to the cell membrane has been studied by determining the residual activity in a cell-free culture fluid լուծ cell extract.
+ The cell extract was obtained by ultrasound (40 minutes at 20 kHz և 300 W) (Labsonic 2000, B. Braun, Germany) or by shaking with glass balls for 20 minutes at 5000 rpm.
+The effect of pH change on the components with antibacterial activity of CBD was determined by growing the CB strains in the MRS medium at 24 h at 37 ° C with further pH titration to 5 6.5 և or 10 M NaOH solution of 8 values.
+The heat resistance of the antibacterial agent was determined by holding the culture fluid in a water bath in the range of 15 min 40 ° C to 85 ° C.
+ Residual activity of antibacterial agents was studied by diffusion method.
+Stem resistance to phenol was studied by sowing in 10% skim milk containing 0.1, 0.3, 0.5 և 0.7% titrated phenol.
+ The latter was titrated with 1 M Tris HCl solution (pH 8) to H pH 7.
+The resistance of strains to antibiotics was studied by disk-diffusion method. Doxycycline (30 mcg), gentamicin (10 mcg), ciprofloxacin (5 mcg), kanamycin (30 mcg), bacitracin (4 mcg), lomycetin (30 mcg), benzylpenicillin (10 mcg), c Discs of amoxicillin (20/10 mcg), ampicillin (10 mcg), moxifloxacin (5 mcg), furazolidone (50 mcg).
+Clarification of the chemical nature of the antibacterial agent was performed by growing KTB strains in 10% skim milk or MRC at 24 h 37 ° C.
+  Then 2 μl of 1 μg / ml proteinase K (BioUltra, 30 units / mg Sigma-Aldrich, USA) was added to 100 μl of culture fluid.
+ The residual activity of the antibacterial agent was studied in the above manner.
+The results obtained are the mean data of three independent experiments.
+RESULTS AND DISCUSSION All 28 strains maintained at the YSU Chair of Microbiology, Plants and Bacteriology and Biotechnology for the detection of CBD with maximum antibacterial activity were studied according to their antagonistic activity.
+  Growing in the MRH medium showed higher antagonistic activity than in milk.
+  All strains studied did not exhibit antibacterial activity against Candida guilliermondii HM-12.
+ The maximum antibacterial activity of all strains is observed after 18 hours of growth (Figure 1).
+Optical Density Growth Pressures Figure 1. Dependence of growth, acidification, and antibacterial activity of CBDs over time. A study of the effect of oxygen on the detection of maximal antibacterial activity showed that the detection of antibacterial activity of strains did not depend on the presence of oxygen. 2.X, whose antibacterial activity is suppressed when grown under anaerobic conditions (Table 1).
+Effect of Soluble Oxygen on Antimicrobial Formation Table 1 StrainsSampleSwaxThe growth zones of test organisms (Ø mm) Without shakingAnerobic Experiments to determine the minimum inhibitory density have shown that culture suspension corresponds to 4-fold sp leocon. Strain V NAKH against S. aureus և M. luteus bacteria, and the growth of E. coli is not inhibited, even when diluted.
+Similar data were obtained from Lactobacillus sp. For strain 1.9.
+Leuconostoc sp. 2.X strain culture fluid itself forms NAK, because even when diluted, it loses its antagonistic activity.
+Studies on the ability of the antibacterial agent to secrete suggest that the antibacterial activity of the studied CBDs is extracellular (Table 2).
+Table 2. Absorption of antibacterial material Stamens Test growth zones of test organisms (Ն mm) Specimens FROM RESTRUCTION EGG RETRACTION EGG RESIDENCE The partial decrease in activity in residue can be explained by an increase in temperature during centrifugation.
+  Similar attempts were made by A. By Babayan և co-authors [2].
+ Difference from our data, L. rhamnosus INA-5.1, INA-201021.1 և L. delbrueckii subsp. The antibacterial activity of bulgaricus INRA-2010-5.2 strains is associated with bacterial cell wall [2].
+Because the antibacterial activity of CBDs may be due to one of the primary metabolic products, lactic acid, the antibacterial activity of CBDs at pH 6.5 և 8 has been studied.
+  It corresponds to the conditions in the intestines.
+ The generalized data are presented in Table 3.
+The data in the table show that at low basal pH, the strains retain some of their antibacterial activity.
+ The data obtained indicate that the antibacterial properties of CBT strains are not due to lactic acid.
+Table 3. Dependence of pB antibacterial activity on pH Growth pressure zones of test organisms (Ø mm) Sample Milk H 6.5 Milk pH 8 MRM pH6.5 MR pH 8 The heat resistance study of the antibacterial agent showed that Leuconostoc sp. 2.X և Leuconostoc sp. 2.V strains maintain antibacterial activity at 55 ° C by E. coli VKPM M17 incubation, and Lactobacillus sp. Strain 1.9 when processed at 60 ° C for 15 minutes.
+While against S. aureus 5233, Leuconostoc sp. 2.X exhibits half the activity at 55 ° C, Leuconostoc sp. 2.V at 65 ° C and Lactobacillus sp.1.9 at 70 ° C.
+  It should be noted that only Lactobacillus sp. Strain 1.9 retains its activity at 90 ° C against M. luteus WT.
+  Further increase in temperature leads to loss of component activity (Figure 2).
+յ:
+յ:
+n:
+a
+թ:
+ւ:
+o:
+a
+k:
+a
+ց:
+a
+b:
+ի:
+ճ:
+a
+m:
+m:
+ի:
+t:
+o:
+c:
+Temperature, ˚C Figure 2. Dependence of antibacterial activity of lactic acid bacteria on temperature It is interesting to note that when studying the dependence of antibacterial activity on temperature, the test organism may be the right choice.
+  Babayan և co-authors note that L. rhamnosusINA-5.1, INA-2010-21.1 և L. delbrueckii subsp. Bulgaricus INRA-2010-5.2 strains have antibacterial activity, are sensitive to temperature changes, and are resistant to pH changes [2].
+A study of phenol և antibiotic resistance showed that Leuconostoc 2.X և Leuconostoc sp. 2.V are stable to 0.3% of phenol.
+These strains are resistant to kanamycin, bacitracin և moxifloxacin antibiotics.
+ Leuconostoc sp. 2.X և Lactobacillus sp. 1.9 are resistant to nagentamycin և furazoline.
+ The most stable strain Leuconostoc sp. 2.X, which is resistant to cefazolin և ampicillin (Table 4).
+Table 4 ․ Lactic acid bacteria are antibiotic pressure kayunutyuneHakabiotiknerShtamneri growth (Ø mm) clarification of doksatsiklingentamitsintsiprofloksatsinkanamitsinbatsitratsinlevomitsetinbenzilpenitsilintsefazolinamoksatsiklinampitsilinmoksifloksatsinfurazolidonHakabakteriakan material showed vorproteinaz K antibacterial activity is partially preserved after adding all the strains.
+ The data obtained indicate that the substance endowed with antibacterial activity in the studied CBDs is not only protein in nature (Figure 3).
+Figure 3. Residual antibacterial activity of lactic acid bacteria after treatment with proteinase K.
+Literature isolated from Algerian traditional fermented milk / “Raib”. Afr. J. Biotechnol. 2008, 7.
+ 2908of RA Electronic Journal of natural sciences. 2013, 2 (21).
+ 38-43. 3. Bezkorovainy A. Probiotics.
+ determinants of survival and growth in the gut / Am. J. Clin.Nutr. 2001, 73.
+ 3995-4055.lacticin 481 group is coming of age / FEMS Microbiol Rev. 2007, 31.
+ 134–167.bacteria / Biochimie. 2002,84.
+ 577–592.6. Kleerebezemab M., Hols P., Hugenholtz J. Lactic acid bacteria as a cell factory.
+Microbial. Technol.,. 2000, 26.
+ 840-848.7. Moll, GN, WN Konings, Driessen AJM Bacteriocins.
+  Mechanism of membraneinsertion and pore formation / Antonie van Leeuwenhoek, 1999, 76.
+ 185–198.positive bacteria / Int. Microbiol, 4.
+13-19.9. Papagianni M., 2003. Ribosomally synthesized peptides and antimicrobial properties.
+biosynthesis, structure, function, andapplications / Biotechnol. Adv.2001, 21.
+ 465–499.10. Willey IM, Van der Dank WA Lantibiotics.
+  peptides of diverse structure and fuction / Annu. Rew. Microbiol. 2007, 61.
+477-501. Verdyan A., Bazukyan I., Trchunyan A. BACKAGE OF ANTIBACTERIALS OF LACTIC ACID INSULATED FROM VEGETABLE IN ARMENIA.

@@ -1,0 +1,68 @@
+THE EFFECT OF THE DOSAGE POWER OF HIGHLY ELECTRONIC BEAM DISEASE IN HUMAN CHRONIC MYELOID LYCHEMIA
+ The laser beam electron beam is characterized by ultra-short pulses of ephemeral իկ per second, which creates a unique opportunity to increase eradiobiological efficiency [1].
+Studies of the biological effects of "invitro" and "invivo" accelerators have been carried out by various authors.
+The effect of laser-accelerated protons և electrons on DNA damage և cell viability has been studied in normal human in vitro tumor cells.
+  It is expected that radiation emitted by coarse-grained particles may have clinical applications in the future.
+One of the important aspects of the effect of radiation on biological objects is the effect of the radiation dose.
+  Changes in the expression of various genes have been observed in human ion irradiated radiation at low, high-power doses.
+  In particular, at high doses of radiation, the expression of genes responsible for B-cell-mediated immunity, natural cell killer activity, and cell-cell signal generation was altered.
+  As expected, there was an increase in p53 gene expression at all radiation doses.
+  An overdose causes a more pronounced decrease in melanoma cell viability than a low dose, moreover, it leads to cell apoptosis մեծ an increase in the level of DNA damage [4].
+  However, according to other authors, different doses of radiation have no significant effect on cell viability or repair of DNA damage in human glioblastoma U87-MG և T98G [5], neck cancer SiHa, pulmonary carcinoma H460, քաղց rodent lung cancer [6].
+The effect of potency on the viability of radiation cells on the repair of DNA damage has been found in X-ray irradiated glioma cells.
+Absence of radiation dose և dose power effects, as well as abnormal հետազոտ cancer cell susceptibility studies are strongly needed to promote the use of high-velocity electron beams in radiation biology, particularly in the field of cancer treatment.
+The aim of this study was to investigate the effect of dose potency on K-562 (human chronic myeloid leukemia) cells irradiated with a high-speed electron beam of the AREAL linear accelerator using the DNA comet method.
+Object of study և methods.
+  The object of study was K-562 leukemia (cells).
+  DNA damage was assessed in cells irradiated with ultraelectron beam և DNA comet recovery.
+(Human chronic myeloid) Cell culture.
+  K-562 cells were cultured in RPMI-1640 medium, to which was added 10% embryonic serum, 2 mm L-glutamine, 100 IU / ml penicillin, 100 μg / ml streptomycin.
+Radiation of cell cultures.
+  The cells were irradiated with ultra-short electron beams coated with a laser using the "AREAL" linear accelerator.
+  Prior to irradiation, 2 ml of cell suspension was placed in 0.5 × 105 cell / ml eppendorfs at a distance of 1 cm from the beam delivered horizontally.
+ The cells were irradiated at doses of 0 և 8 g at a dose of 3.6 և 36 g / min.
+Method of DNA comets.
+ The basic DNA comet method [8] was performed to assess DNA damage գնահատ recovery 8 24 hours immediately after irradiation.
+  0 h was selected for the assessment of primary DNA damage, and 24 h for the reassessment of DNA damage.
+The degreased glass should be covered with 1% agarose and stored at 37 ° C for 12-24 hours to harden.
+  The 20 μl K-562 cell suspension was mixed with a 0.5% solution of 80 μl low melting point (LMA).
+  A mixture of 100 μl of agarose cells was dripped onto the bearing glass.
+  Then they were placed at + 4 ° C for 10 minutes to harden the second layer.
+ Displaced in lysine-buffer (2.5 M NaCl, 100 mM EDTA, 10 mM Tris, pH = 10.0 և Triton X to degrade protein և membrane coatings.
+  The preparations were then placed in an electrophoresis device filled with a basic buffer (300 mM NaOH և 1 mM EDTA) for 1 hour for 30 minutes to detect DNA unwinding of the basic labile sites.
+  Electrophoresis was performed at a voltage of 25 V և 300 mA for 20 minutes.
+  After electrophoresis, the preparations were treated with a neutral buffer (0.4 M Tris, pH = 7.5) for 15 minutes and stained with 20 μg / ml ethidium bromide solution.
+180 cells were analyzed in each version.
+  The Olive Tail Moment (OTM) parameter was used to determine DNA damage, which is equal to the product of the percentage of DNA content in the comet, the product of the tail length.
+ Comet images will be resolved through CometIV software.
+  The obtained data were statisticalized using "Statgraphics 2.1" program using "Mann-Withney (U)" non-parametric test.
+The results of the research.
+  AREAL Accelerator DNA Damage at 8g, 3.6 և 36g / min Electron Beam DNA Damage Their Recovery in K-562 Cells is shown in Table 1.
+The images of the comets are shown in Figure 1 և 2.
+  The choice of DNA comet method is due to its widespread use in radiobiology.
+Dosage:
+a, GrDose power, Gr / min 0h24h0h24hTable 1. High (36gr / min) և Low-dose (3.6gr / min) high-dose electro-beam irradiated K-562 cells with DNA damage rate (OTM, mean սխալ standard error) 0 և 24 hours after irradiation * p <0.05 significant difference compared to the corresponding controller.
+#p <0.05 Significant difference compared to data after 0 h radiation.
+Figure 1. Comet images in un-irradiated K-562 cells. Increase in DNA damage at both low (3.6 G / min) and high (36 G / min) dose strengths.
+ Low-power doses result in the same level of DNA damage.
+  After 24 hours of low-dose irradiation, the number of DNA lesions was significantly reduced compared to the level observed immediately after irradiation, գրեթե it is almost indistinguishable from the response test.
+  Thus, most of the DNA damage can be completely repaired after radiation.
+  Twenty-four hours after irradiation, the OTM level is significantly reduced in high-dose irradiated cells, but remains high compared to the corresponding controller.
+Thus, in the case of high-dose radiation, DNA damage is partially repaired.
+  Repair of DNA damage by irradiation in lymphocytes in mice cells 24 hours after irradiation [10], in Saccharomyces cerevisiae yeast cells by 4 hours after irradiation [11].
+ However, the effect of radiation dose on DNA repair has not been studied by these authors.
+Although the high-դ low-dose doses result in the same level of DNA damage, DNA repair is more complete with low-power radiation.
+ In order to explain the obtained data, the analysis of the DNA damage distribution by cells was performed (Table 2), as the DNA compote method allows to describe [12].
+  According to the results, in the case of low-power radiation, cells with DNA damage in the range of 20-30 և 30-40 OTM predominate.
+ In the case of high-intensity radiation, cells with a DNA damage level in the range of 40-50 OTM are predominant.
+There are also cells with more than 50 OTM.
+The heterogeneity of the cell population is 30-40 Ա. Thus, although the average level of DNA damage under radiation is the same at 3.6 g / min և 36 g / min, the distribution of DNA damage varies considerably.
+  3.6 g / min radiation is dominated by cells with low և medium level of DNA damage, and in the case of 36 g / min radiation, cells with high level of DNA damage predominate.
+  Thus, higher levels of DNA damage in cells irradiated with high-dose doses lead to reduced DNA repair.
+OTM level 3.6 G / min 36 G / min Total cell number% of cellsCell total number of cells% above 50Table 2.8 g High-dose low-dose irradiation Distribution of DNA damage in cells with strong K-562 cells (based on D cells in 180 cells)
+  The study of DNA damage եպ repair by the AREAL linear accelerator using high-speed electron-irradiated K-562 cells using the DNA comet method suggests that 8 G dose-irradiated cells have been compared to the DNA damage assay in comparison.
+ The average levels of high (36 G / min) և low (3.6 G) radiation injuries differ significantly.
+  However, according to the distribution of DNA damage in cells, increasing the dose increases the ratio of cells with different levels of DNA damage to more damaged cells, reducing their ability to recover.
+  Thus, according to the obtained data, increasing the radiation dose leads to the repression pressure of tumor cells, increasing the anti-tumor potential of radiation.
+LITERATURE [1] Gauduel Y., Laser-Driven Particle Acceleration Towards Radiobiology and Medicine, Springer.
+Nikolyan SonaGERARAGE ELECTRONIC RADIATION DOSAGE EFFECT EFFECT IN HUMAN CHRONIC MYELOID LEUKEMIA IN CELLS D, Keywords: high-speed d

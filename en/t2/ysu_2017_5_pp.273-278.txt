@@ -1,0 +1,48 @@
+2-IMINO-4-METHYL-5,5-PENTAMETHYLENE-2,5 DIHYDROFURAN-3-CARBOXAMIDE NEW CHANNEL SYNTHESIS 2 compounds, in particular ascorbic acid (vitamin C), penicillic acid, protoananemonin, clavacin, α- և β-angelicalactones, as well as nardenolides (cardiac glycosides).
+ In addition to natural lactone compounds, some derivatives of synthetically obtained 2-oxo-2,5-dihydro-furans are used in the manufacture of endocardiolytic, antibiotic, antibacterial, antiviral, antitumor, antidiabetic and other medicinal products.
+Thus, compounds containing unsaturated imminolactone ring are a promising class of heterocyclic compounds, the development of new methods of synthesis, the study of their properties to determine the structure-biological activity relationship, as well as their use as synthons in targeted synthesis of new compounds, is a topical issue.
+The interaction of 2-imino-4-methyl-5,5-pentamethylene-2,5-dihydrofuran-3-carboxamide (1) with p-methylaniline և anesthesia was investigated.
+The interaction of 2-imino-4-methyl-5,5-pentamethylene-2,5-dihydrofuran-3-carboxamide (1) with the aromatic amine p-methylaniline was studied to synthesize new derivatives of unsaturated aminolactones [1-6].
+ This immunolactone cycle can be thought of as a cyclic imminoester, so it can interact with N-nucleophiles.
+However, the interaction of 2-imino-4-methyl-5,5-pentamethylene-2,5-dihydrofuran-3-carboxamide (1) with the selected amine in different alcohols did not yield sufficient results.
+Using its 2 hydrochlorides instead of iminolacton, a high yield of 2-N-substituted iminolactone 3a was obtained (method A).
+ The equilibrium reaction of the starting materials is best when boiling in absolute ethanol for 20 minutes.
+The implementation of the target reaction in method A can be explained as follows.
+ In contrast to iminolactone, its hydrochloride molecule significantly increases the electrophilicity of the C (2) atom of the immunolactone ring, which easily binds to the amine molecule.
+ The resulting intermediate is stabilized by cleavage of ammonium chloride to give 2-N-substituted iminodihydrofuran (3a).
+2-N-substituted iminolactone 3a was obtained by the reaction of 2-imino-4-methyl5,5-pentamethylene-2,5-dihydrofuran-3-carboxamide (1) և arylammonium chloride.
+  When the equimolar mixture of starting materials is boiled in absolute ethanol for 30 minutes, the target 3a 2-N-substituted iminolactone is formed (method B).
+  Thus, 3a 2-N substituted iminolactone is obtained when one of the starting materials is taken from an egg, particularly a hydrochloride egg.
+The AB methods described for the production of 2-N-substituted imminolactone 3 were not suitable for the synthesis of 3 2-N-substituted imminolactone due to poor solubility of the starting materials.
+Therefore, we needed to develop a method in which the corresponding salt would be formed in situ և to interact with the other starting material and the released ammonia would be removed from the environment.
+  This method (method C) is based on the use of glacial acetic acid as a solvent.
+ Glacial acetic acid is a proton solvent that can interact with aminolactone to release ammonia.
+ First, 3a 2-N-substituted iminolactone synthesized by the above methods was synthesized in this way with a higher yield, then the starting compound 1 was interacted with the ethyl ester of paminobenzoic acid, 3b 2-N-substituted iminolactone was synthesized, which was not successful. in ways.
+It is assumed that this reaction proceeds with the conversion. According to the scheme, the interaction of iminolactone with acetic acid yields its hydroacetate, in the molecule of which the electrophilicity of the C (2) atom of the immunolactone ring increases significantly, which easily binds to the amino acid.
+ The resulting intermediate is stabilized by cleavage of ammonium acetate to give 3a, b2-N-substituted minodihydrofurans.
+The structure of the obtained compounds was confirmed by 1 Մ MMR 1H spectral studies.
+Thus, the interaction of 2-imino-4-methyl-5,5-pentamethylene-2,5-dihydrofuran-3-carboxamide with the ethyl ester of p-methylaniline և p-aminobenzoic acid was studied.
+ New, previously unknown, aromatic substituents of 2-imino-4-methyl-5,5-pentamethylene-2,5-dihydrofuran-3-carboxamide were synthesized.
+  Affordable, effective preparative methods for these interactions have been developed, which opens a new pathway for the synthesis of 2-N-substituted iminodihydrofurans.
+Experimental part The EC spectra of the synthesized materials were removed on a Specord 75 IR spectrometer, and the MM 1H spectra were removed on a Mercury-300 Varian (300 MHz operating spectrum) spectrometer using HMS (hexamethyldisiloxane) as an internal standard.
+ The melting points were determined by "Electrothermal 9100" device.
+The purity of the synthesized materials was checked by thin layer chromatography using "Silufol UV-254" plates (eluent: acetone).
+ Benzene - 2.
+1), the application was made with iodine vapors.
+Compounds 1 և 2 were synthesized in a known manner [1].
+Production of 2-N-substituted 2,5-dihydrofurans 3 Methods
+  0.52 g (0.0025 mol) of 2-imino-4-methyl-5,5-pentamethylene -2,5 dihydrofuran-3-carboxamide hydrochloride (2) և p-methylaniline equilibrate in absolute ethanol is boiled for 20 minutes.
+The separated precipitate is filtered, washed with water and crystallized.
+Season B.
+  The equimolar mixture of 0.52 g (0.0025 mol) of 2-imino-4-methyl-5,5-pentamethylene-2,5 dihydrofuran-3-carboxamide (1) և p-methylaniline hydrochloride is boiled in absolute ethanol for 30 minutes.
+The separated precipitate is filtered and washed with water.
+  Melting ketide depression was not observed in the sample of a mixture of 3a materials obtained by methods A և B.
+C weather.
+  0.52 g (0.0025 mol) 2-imino-4-methyl-5,5-pentamethylene -2,5 dihydrofuran-3-carboxamide (1) և p-methylaniline or p-aminobenzoic acid ethyl ester equilibrium ice acetic acid are 12 hours.
+ The separated precipitate is filtered and washed with water.
+4-Methyl-2- (p-tolulyimino) -1-oxaspiro [4.5] dec-3-ene-3-carboxamide) (3a). Output 92% (method A), 92% (method B), 95% (method C), t melting: 189-190o C (from benzene).
+  Rf = 0.55; IC spectrum, J, cm-1. 1501-1601 (Arom.), 1620 (C = C), 1642 (C = N), 1683 (C = O), 3110 (NH), 3260 (NH), MMR 1H spectrum, (DMSO-d6 / CCl4 - 1/3), H, 1.27 (1H, m), 1.47 (2H, m) և 1.58-1.82 (7H, m), 2.32 (3H, s), 2.42 (3H, s), 7.04 (4H, s) ), 7.26 (1H, hearing) և 8.94 (1H, hearing).
+Ethyl 4- (3-carbamoyl-4-methyl-1-oxaspiro [4.5] dec-3-en-2-ylidenamino) benzoate (3b).
+  Output 95%, t melted: 160-161o C (from benzene).
+  Rf = 0.52; Spectrum, J, cm-1. 3270 (NH), 1680 (C = O), 1665 (C = O), 1620 (C = N), 1600-1500 (Arom.), MMR 1H spectrum, (DMSO-d6 / CCl4 –1/3), H, 1.39 (3H, t, J = 7.1, OCH2CH3), 1.23-1.36 (1H, m) և 1.49-1.87 (9H, m, C6H10), 2.42 (3H, s, CH3), 4.30 (2H , k, J = 7.1, OCH2CH3), 7.20-7.31 (2H, m, C6H4), 7.86-7.97 (2H, m, C6H4), 7.39 (1H, ld, J = 3.5, NH2) և 8.73 (1H, ld) J = 3.5, NH2).
+GrakanutyunLilit Grigoryan2-IMINO-4-methyl-5,5-PENTAMETILEN-2,5-DIHIDROFURAN3 Carboxyamide new derivatives SINTEZEBanali words Iminodihidrofuran, Mr. metilanilin, ethyl 4-aminobenzoat available yevardyunavet ways, 2-N- substituted iminodihidrofurannerAmpopum.

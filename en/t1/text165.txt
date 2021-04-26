@@ -1,0 +1,97 @@
+The first Armenian periodicals started and were published outside the territory of present-day Armenia.
+  1794-96 The first Armenian periodical, "Azdarar", edited by Harutyun Shmavonyan, was published in Madras, India.
+  And about a century after the opening of Simeon Yerevantsi printing house in the present territory of the Republic of Armenia (1771) and 74 years after the publication of the first periodical "Azdarar" in Vagharshapat in 1868. 57 "Ararat" magazine started to be published, the 150th anniversary of which was celebrated in 2018.
+ And only in 1918, in the 11th (51st) year of the publication of "Ararat", the statehood was restored in the Armenian Highlands.
+ The stateless Armenian people were in the top twenty in the world with the chronology of the creation of the periodical press. G., a connoisseur of the history of Armenian journalism, said about that. In the chronological list of his press, Levonyan mentions the country (state) of the Armenian periodical press "among Armenians" among different countries, such as China, Russia, and Tajikistan. [1]
+  In this work G. Levonyan mentions 172 names of the periodical, presents them in chronological order, and if possible also with the front image of the periodical.
+  In the preface, he also presents the countries where the periodicals were published and notes with regret that there is no periodical published in Iran, which has a large Armenian colony.
+  As the compilation of state and national bibliographies is one of the institutes of established states, and therefore no such databases were compiled at that time, the author could not have known that in that same year the first Armenian-language magazine "Shavigh" (1894-1897) was published in Tehran. [2]
+ The author classifies 172 names according to printing houses, publication frequency, direction (subjects), and presents the periodicals mainly by decades, which allows to observe the growth of the number of Armenian press names from decade to decade.
+  Of special importance are the prepared bibliographic sources, which he describes with the responsible good faith of a scientist.
+ About 4 decades later, in 1934, on the occasion of the 140th anniversary of the Armenian periodical press, on the instructions of the State Book Chamber of Soviet Armenia, Garegin Levonyan compiled a bibliographic list of "content" of the Armenian press, perhaps the first gathering in the history of the Armenian press.
+  Of the names described, only 1179 were described by the author de visu, that is, seeing the originals, he extracted information about more than 400 other periodicals from various printed sources, criticizing their shortcomings and the negligence of their compilers.
+  This publication is distinguished by a number of useful statistical information, for example, the statistical picture of the life expectancy of periodicals is already interesting.
+  Thus, 176 titles were published in one or several issues, 205 periodicals were published in one or two months, 346 in up to one year, and 189 in up to two years.
+ The list of the longest-running periodicals topped by Bazmavep is also statistically significant (Venice's Bazmavep is the longest-running modern magazine, and Boston's Hay 58 Renik is the newspaper).
+  The quantities of press are presented in a separate list according to the periodicity: yearbook, quarterly, quarterly, weekly newspaper, etc.
+ The study of the history of the Armenian press is one of the most important components of Armenology.
+  Since the 1840s. The first chroniclers of the Armenian press took the first steps in the study of the history of the press, paving the way for more in-depth and comprehensive studies and catalogings of bibliographers in the following decades.
+  Due to the scarcity of information sources, imperfection of postal deliveries and transport infrastructure, poor organization of inter-community relations, small number of bibliographers studying the printed Armenian heritage and other reasons, the first researchers of the press either had no information or received late information about the birth of the new periodical.
+  This is one of the main reasons why there were many omissions and incorrect data in the first printed bibliographic lists of the Armenian press.
+ Bibliographic studies of the Armenian press had the best manifestations in terms of quality, quantity and content during the Soviet years.
+  Despite the certain compulsion of party-ideological clichés, the existence of sufficient creative and research freedom provided opportunities for the creation of the cornerstone publications, which have not lost their relevance to this day.
+ The creation of bibliographic lists of Armenian books and Armenian press in Soviet Armenia was under the direct care of the state.
+  More than a dozen valuable bibliographic catalogs were prepared and published by the staff of the Public Library (now the National Library of Armenia), the State Book Chamber (the structure was merged with the National Library of Armenia in 2017) and the Institute of History of the National Academy of Sciences of the Republic of Armenia.
+  Bibliographic lists were also actively prepared in the specialized and university libraries of Soviet Armenia.
+  All these publications are still in demand by bibliographers and researchers.
+ Nowadays, the opportunities provided by information technologies and the abundance of information flows on various social platforms, the existence of effective search engine algorithms for Internet search engines open new horizons not only for fast and complete information about publications, but also for high quality digital copies of these materials.
+  The introduction of electronic library systems in Armenia and 59 centers of Armenology in the Diaspora, the availability of high-speed and highly productive data exchange networks have made it possible to look at Armenian press and Armenian literature bibliographies in a new way and use these lists to build a "knowledge-based" society, create full-text electronic databases Complete bibliographic records, bibliographic sources about them, direction, etc.
+ The library community, represented by the International Federation of Library Associations and Institutions and the Library of Congress, based on recommendations from librarianship standards in the International Organization for Standardization, also amended the International Material Description Standard, MARC21, and others to keep pace with the times.
+  For example, in the "Captured Length Data Elements" 008 group, the "Periodicals" material group was renamed "Continuing Publications".
+  This forced him to reconsider the approaches in the methodology of compiling bibliographic lists of the press.
+  Thus, if the bibliographic lists published during the 19th and 20th centuries were called works by the authors to study the Armenian press, Armenian journalism, or the Armenian periodical press, dividing the periodicals into two main groups: newspapers and magazines, the 21st century bibliographer must In addition to newspapers and magazines, yearbooks, newsletters, e-journals and e-newspapers should be included as separate groups in bibliographic lists.
+  Bibliographic lists, according to the requirements of the MARC21 standard, should be called "bibliography of continuous publications".
+ The current stage of development of information technologies and automation systems proposes new solutions for compiling bibliographic lists.
+  Paper publications give way to bibliographic databases.
+  Extensive and complex task of compiling indexes typical of bibliographic lists is automated, and alphabetical lists of editors, publishers, printing houses, cities and countries are created by computer.
+  Makes the whole chain of error control and correction easier.
+  It is possible to make transitions from the main bibliographic record to the lists of editors, printing houses, printing houses.
+ Moreover, it becomes possible to attach the complete sets of the periodical to the main bibliographic record in the form of digital copies.
+  It is also very effective to add valuable monographs and scientific articles published in the bibliographic record to the given periodical.
+ Electronic bibliographic lists have a number of advantages over their paper equivalents. It is possible to correct the mistakes and errors in the posts, to include the missed periodicals in the database for some reason, in case new press titles appear, it is very easy to add them to the database.
+  That is, such a database is always up to date.
+ It should be noted that such databases are also unique sources for collecting and providing statistical data.
+ From a technological point of view, electronic bibliographic lists are available from anywhere in the world, at any time of the day, on any day of the year, if available on the Internet.
+  Digital copies do not contain missing, torn or damaged pages.
+ The availability of digital copies of newsletters solves the problem of long-term preservation of the periodical press, as instead of the original it is possible to organize the service of readers with the help of digital copies, as well as to reproduce damaged media pages from high quality digital copy.
+ The database can serve as a unique library of educational resources when preparing courses in the humanities of universities through distance learning.
+ Let us present the joint project of the National Scientific Library of Armenia and the Basic Scientific Libraries of the National Academy of Sciences of the Republic of Armenia "Comprehensive Catalog of Armenian Continuous Publications" [4].
+  We believe that the implementation of this project is a new word in the field of bibliographic lists, and the software solutions used, the database content licensing model, the proposed bibliographic data search algorithms, being innovative, will serve as a basis for future use of our solutions.
+  The database, which in 2019 As of April 5, 2006, it contained bibliographic records of 6,121 periodicals and was on the rise, as new names were still being discovered.
+  The database, thanks to the elements of Boolean algebra embedded in search algorithms, is able to satisfy various queries of researchers.
+ One can easily get an answer as to how many continuous publications there are by type. 61 Periodicals Newspaper Magazine Newsletter Yearbook E-newspaper E-journal E-journal from paper to paper Total: 6,121 titles.
+ Number of titles It is possible to get the distribution of continuous publications by countries and cities.
+ Thus, the picture of continuous publications published in the 45 cities of present-day Turkey is as follows (see Table 1).
+ Table 1. Press image printed in Turkey by type h.h. Cities Adana Adapazar Adrianapolis Akhtamar Amasia (Turkey) Ankara Ardvin 8. 0 Armash Bahcecik (Partizak) 10. Bitlis 11. Bursa 12. Gaziantep (Ayntap) 13. Diyarbakir (Tigranakert) 14. Dortyol 15. Yerznka 16. Elyadigh (17) Erzurum (Karin) 18. Tokat (Evdokia) 19. Izmit (Nicomedia) 20. Izmir (Smyrna) 21. Iskenderun 22. Kaghzvan 23. Kars Tert Magazine Year Caesarea Kirason Konya Malatia Marash Marz Marzvan Munchusun Mush Shapim Garah Samsun Sivrihisar Sirakonak (Khotorjur) Sugyoren Swas (Sebastia) Istanbul Van Tarson Trabzon Oror By city: 702 names By country: 695 names 393 names, yearbook: 6 names.
+ However, the statistical picture, according to the cities, is a little different.
+  702 periodicals were published in 45 cities of Turkey (7 more than the number received by "By country"), of which newspaper - 298 names (2 more than the number received by "By country"), magazine - 398 names ( 5 more than the number received by "By country"), and a yearbook - 6 names.
+  Let us explain the reason for such a difference.
+  Two newspapers and 5 magazines published in Turkey have been moved from one city to another.
+  One is the "Mosquito" satirical weekly, which was published in 1910. was published in Trabzon, and in 1919. moved to Smyrna, the other is "Hayek" weekly, which was published in 1910. began to be published in Caesarea, then moved to K. Constantinople.
+  In the case of magazines, one is the "Khikar" magazine edited by Hakob Paronyan, which was published in 1884. January-May issues and 1886 from August to 1888 October issues were published in K. In Constantinople, and in 1884 from June to 1885 The March issues were published in Adriana 63, Istanbul.
+  "Flower.
+  The magazines "Handes ten-day" and "Database are useful for knowing" started to be published in Smyrna, then both of them moved to K. Constantinople.
+  Edited by Archimandrite Mkrtich Khrimyan (later Catholicos of All Armenians) in Van in 1855-1864. The "Eagle Vaspurakan" magazine began to be published, which was then moved to Constantinople, and in 1872-1874. was published there.
+  The "Doctor" monthly was published in 1911-1912. was published in Trabzon, and in 1912-1914 by K. In Constantinople.
+ From the above examples, it is clear that the mechanical collection of such statistical data is quite complex and labor-intensive, and only the existence of a press bibliographic database allows to quickly and accurately obtain the picture of press movement both within the selected country and between countries.
+ In addition to the above, mention that the sum of the press volumes by cities, due to the shifts in the printing of the same title, may be greater than the sum by countries.
+ If in the previous examples the source of statistical data collection was the database of "geographical names", then below we will present another source of statistical data - title or thematic searches.
+  Each bibliographic press release is supplemented with relevant headlines, which provide the researchers with interesting information.
+  Thus, the Armenian-language Turkish press is presented in the database with 106 titles, of which newspaper - 55 titles, magazine - 49 titles, yearbook - 2 titles.
+ The Armenian-language Turkish press has the following picture by countries and types of publication.
+ Country Newspaper Magazine Yearbook US 2 4 1 Bulgaria 2 2 0 Egypt 1 3 0 Turkey 48 36 1 Lebanon 0 2 0 Syria 2 5 0 France 0 1 0 Only 55 53 2 64 In the case of magazines, 49 titles were actually published, but because there are magazines , which were moved from country to country, and for that reason the number of titles increased by 4, that is, 53.
+ Those 4 titles are: "Maranata.
+  Rap kelior "(published in Lebanon / Beirut / in 1925-1963, then in Syria / Aleppo / in 1965-1988); "Rehber" (published in Turkey (Caesarea) in 1912-1915), then in the USA (New York) in 1937-1938); "Ayta Litaif" (published in Bulgaria / Varna) in 1897-1903, then in Egypt / Alexandria / in 1903-1904); "Rahnima.
+  Tini, akhlagi, fenni ve siyasi "(1911-1914 - Constantinople, then 1924-1934 - USA / New York).
+ We note again that the fact that the periodical moved from one country to another affects the publications according to the statistical picture of the countries.
+ In case of searching under the title "Assyrian press with Armenian letters" we get two magazines published in Boston: "Babylon.
+  A semi-annual national magazine.
+  Official Gazette of the Five Syrian Associations "and" Nineveh.
+  A monthly publication devoted to the Assyrian progressive association ».
+ A complete list of titles is provided in Appendix 1.
+ The largest repositories of the Armenian press in the world are the National Library of Armenia and the Mekhitarist Congregation of Vienna.
+  Researchers and bibliographers have always been interested in what press titles are available in the above-mentioned libraries.
+  The "Collective Catalog of Armenian Continuous Publications" also gives the answer to that question.
+  Doing a search with the phrase "HAG present", we will get the list of periodicals, at least one of the issues of which is available in the National Library of Armenia.
+  The "Absent" search will present a list of missing titles in the library.
+ Thus, the "Armenian Catalog of Continuous Publications" is a platform where the world's current and current periodicals are presented.
+  The database was created using open source software.
+  The description of the originals is accompanied by a combination of information provided by printed bibliographic collections.
+  In the absence of originals, the information contained in their auxiliary lists was widely used and compared with other sources.
+  There are often misinterpretations in the auxiliary lists of collective bibliographies, which we have tried to exclude in the electronic catalog.
+  Some printing towns have been renamed, sometimes even several times, and each of the changes in the lists of the same town has been perceived as a separate printing house, for example, Ruse and Ruschuk, Plovdiv and Philippi, Tokat and Evdokia, and so on.
+  In the e-directory, they are grouped under a single commonly accepted access point.
+  In geographical name records, the entry point is considered to be the most commonly used and accepted form of 65, and other versions are collected under it.
+  The same goes for personal names.
+ The authors, the bibliographers participating in the formation of the database (both in Armenia and in the Diaspora), are full of hope that the existence of such a database will give a new quality and impetus to the work of creating bibliographic lists.
+ .

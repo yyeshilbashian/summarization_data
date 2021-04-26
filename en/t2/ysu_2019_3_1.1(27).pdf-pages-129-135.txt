@@ -1,0 +1,56 @@
+BORDER TRANSITION ON THE ASYMPTOXICAL BEHAVIOR OF TIPLITZIAN DETERMINANTS In the integral part we can match the Fourier series, the value of each function is the nth Fourier coefficient of the function.
+  That is, through the Fourier series, correspondence arises between the "sequences" of functions.
+Definition.
+ If the T-matrix is ​​formed by a sequence of Fourier coefficients corresponding to the function, the function will be called the symbol of the T-matrix, denoted by the following equation.
+  Let denote the line segment by the vitamins - the main angle of the first order of the matrix - understand the matrix that was obtained at the intersection of the lines (cid).
+(3) is already a finite, quadratic matrix փաստ the facts of all the concepts known about finite matrices are true for him։.
+It is not difficult to see that (1) Fourier series coefficients are endowed with specificity.
+ It follows that the matrix is ​​self-dissolving.
+(4) denote the determinant of the matrix by = (cid.
+  If the function f (x) is positive ում in the derivative part satisfies the equation, and its derivative is conditional, then the following boundary equation will occur, called
+average geometric function where:
+and md denotes the Fourier coefficients of the function.
+Remark.
+ In formula (6), the member acts as a normative multiplier.
+ It is really not difficult to see that.
+)
+Theorem on border crossing.
+ Consider such a problem. Put, sequence, function.
+ It is necessary to find out under what conditions the set of functions defined by each other converge
+In this case, the border equation will take place.
+By means of the analogy it can be shown that even in the case of equal coherence we cannot assert equality (7).
+ That is, the function մոտ the approximating functions must be selected so that they satisfy the definite properties.
+ և note
+Before moving on to the theorem itself, let us first prove auxiliary assertion.
+Lemma.
+  Suppose that the positive approximation quadratic of non-high-order triangular polynomials from the modulus of continuity of the corresponding integral functions և n, regardless of k.
+  In that case, the existing values ​​exist in such a way that Evidence.
+  Using the Jackson-Stechkin inequality (see [3]) we can immediately write that:
+Show (8) the other side of inequality.
+Lemma was proved.
+  Let us move on to the proof of the basic theorem.
+Theorem.
+  Suppose that the functions և are positive, derivative functions defined in the section, and their derivatives have many functions equal to the condition (5).
+ In the if part, and the derivative of the function consisting of their derivatives, the sequence averages in parallel with the boundary of the function.
+Proof.
+  In the case of equal coincidence, using (6), it is not difficult to see that proving equation (7) is the same as proving where (9) to show such a change, we first denote the Fourier coefficient m of the function.
+Show that 
+The member is infinitely small.
+  Let's appoint և change 
+ The amount is returned to you
+, and to obtain the equation (11) we used Lagrange's finite growth formula.
+ But since:
+, so we can write that starting from a fairly large value of k, continuing (11), we can write.
+ Then!
+Using the identity we will get where
+, and accepting the ground.
+ inequality will be obtained from (12).
+That is, we can write that for the last integral, we use the formula for integrating parts:
+ In case of using it, it will turn out that.
+Combining the resulting chain of inequalities, we can write that, it will turn out that, crossing the boundary (14) inequality, that is, we showed that, indeed,,
+On the other hand, .
+ It is infinitely small.
+       (15) (15) The first sum of the last sum of equation is infinitesimally small, therefore, is finite, and the second summand is finite according to the condition of the theorem, therefore, the whole sum is finite.
+ Given that the product of an infinitesimally small number is infinitely less than (10), we get that the orbital exponential function is continuous, so it is true (9).
+  Theorem proved.
+LITERATUREDigran DanielBORDER TRANSITION ON THE ASYMPTOTIC BEHAVIOR OF TYPLIC DETERMINANT Keywords: Theoplician matrix, matrix symbol, Segio.

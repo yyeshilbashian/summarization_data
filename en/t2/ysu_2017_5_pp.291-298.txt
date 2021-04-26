@@ -1,0 +1,94 @@
+EXPLOITATION OF XANIN OXIDASE INDIVIDUALS In the head, EXPERIMENTAL ISCHEMIAPIEMINS in the form of purifiers.
+  In a previous study, we showed that allopurinol, an inhibitor of CO (xanthine oxidase), was able to regulate purine catabolism in liver tissue [1] to inhibit cell proliferation [2].
+Rare adverse reactions associated with allopurinol can be fatal.
+  As a result of such reactions, redness and stimulation of inflammatory processes are observed, which are combined with an increase in the number of eosinophils, leukocytes, fever, leukocytosis, as well as developing kidney injuries.
+  Oxypurinol formed from allopurinol is capable of forming HLA-B 58 complex compounds.
+With a gene encoded with 1 gene.
+ This complex stimulates the immune system response պատասխան promotes the formation of T-cells և the emergence of negative side effects [3].
+That is why it is necessary to use other inhibitors in experimental conditions, such as in the clinic.
+ The new CO inhibitor we have discovered, pyridoxine [4], may be the best compound in post-ischemic conditions that has no side effects, as is already practiced in medicine.
+Using cell culture, we found that pyridoxine was able to stimulate cell proliferation under both normal and pathological conditions.
+In our work, we evaluated the neuroprotective properties of pyridoxine in the presence of peroxide in "in vitro" experiments using embryonic culture containing nerve cells.
+The protective properties of pyridoxine have also been observed in experimental stroke rats.
+Methods 1. Animal analgesia, anesthesia, euthanasia Pentobarbital 10 mg / 100 g was injected into rats.
+  Generate euthanasia using a large dose of anesthetics.
+2. Cell culture received from the primary human brain. All operations required for the experiment were performed in accordance with the Helsinki Declaration.
+ The removal of the human embryo was carried out taking into account the consent of the women.
+ We used a 12-week-old embryonic brain as an experimental biological basis.
+ The resulting brain is placed in a neurobasal nutrient medium containing 0.05% serum albumin for several minutes.
+The biological experimental raw material is transferred to thermostatic conditions (t = 4C).
+ The biological raw material is transported to a laboratory and incubated at 370 ° C for 20 minutes in a solution containing 0.05% serum albumin and 0.13% trypsin.
+  The brain tissue is crushed with the help of Pasteur pipette.
+  The precipitate obtained after centrifugation for 15 minutes (G = 5000) is dissolved in a neurobasic nutrient medium containing 1% serum albumin, this process is repeated three times.
+The final cell fraction is sown in 35 mm petri dishes, which are pre-coated with a solution of poly-L-lysine (Sigma), which also contains 0.09% Na2HPO4, 1% glucose, 0.04% KCl, 0.06% KH2PO4, 0.4% MgSO 7H20 և 0.001% gentamicin sulfate.
+  One day later, the medium is irradiated with a new neurobasic medium containing 2% B27 (Gipco).
+ The number of cells was calculated on the 7th day.
+3. Staining the cells with trypan blue. The cell suspension is dissolved in HBSS medium.
+ To 0.2 ml of cell suspension solution add 0.3 ml of HBSS, 0.5 ml of 0.1% trypan blue.
+  The cells are incubated in the dye for five minutes, after which the suspension containing about one μl of cell dye is transferred to a hematocytometer (Gorya chamber).
+ Dead cells are dyed blue under these conditions.
+ It should be noted that the cell surface area of ​​1 cm3 corresponds to 0.1 μl of solution, ie, counting the number of cells in 1 cm3 volume, we can talk about the number of cells in one μl of solution [6].
+4. Quantification of proteins by Bradford method Dissolve Kumas diamond (G -250) (100 mg) in 50 ml of 95% ethanol, add 100 ml of 85% (weight և volume) phosphoric acid, then add more water to the total volume. reaches 1000 ml, after which we filter with waste # 1 (watman # 1).
+ Incubate for 20 minutes.
+  Then, using the Carry 80 (Agilent Technologies, USA) spectrophotometer, we use a wavelength of 590 nm to determine the protein concentration in the biological solution.
+5. Model of hydrogen peroxide-induced brain injury Model 3% hydrogen peroxide solution was injected intramuscularly in 5 μl after a limited, point craniotomy.
+  The injection will be performed in the following brain coordinates: 2 mm posteriorly from the bregma, 3 mm laterally from the midline, 2 mm below the inner surface of the skull.
+  The injection will be performed using a stereotoxic framework.
+The needle number 27, which has a staple sharpened below 30 degrees, was lowered to the parenchyma of the brain in the specified position.
+ After the injection, the needle remained in the brain for 2 minutes, after which it was slowly removed.
+ After the operation, the hole was closed with a bone wax, the incision was made and the animal was returned to the cage.
+  The animal will be able to use free water և feed.
+  Ability to use free water and food.
+  The degree of damage to the blood-brain barrier was determined with the help of Evans blue dye, which was administered at a dose of 4 mg / kg and administered to the animals 2 hours after the end of the experiment (Oie, Ono et all, 2007).
+6. Statistical analysis All data are expressed as mean ± SEM.
+ Statistical accuracy was analyzed using "ONE-WAY ANALYSIS OF VARIANS (ANOVA)".
+ The data were considered statistically reliable when p <0.05.
+Calculations can be performed with the help of "Sigma Stat" or "Graphprism" programs.
+Received data 1. Calculation of the number of "in vitro" cells in culture After adding hydrogen peroxide to the nutrient medium, the primary embryonic culture of the human brain was preserved for 7 days.
+  During the seventh day, 3% hydrogen peroxide was added to the culture medium; the cell culture was maintained for 24 hours.
+ The number of unstained cells in the microscope field was calculated.
+ During the microscopic studies all the conditions were maintained the same. the height of the microscope table, the intensity of the light, etc.
+  Compared to the control group (2680.00 ± 45.34), the number of cells in the peroxidized culture field was significantly reduced (1631.89 ± 111.77) (Figure 1 A).
+ The addition of allopurinol 15 minutes before peroxide (1852.38 ± 94.79) և 15 minutes after (1950.38 ± 33.67) significantly և steadily increases these readings.
+  Interestingly, the addition of pyridoxine to the environment also promotes cell viability.
+  Moreover, the addition of the latter in the environment after peroxide shows stronger protection (2392.38 ± 104.01), (p <0.05) than after (2106.88 ± 79.64).
+  Thus, the addition of hydrogen peroxide to the nutrient culture medium of the cell culture dramatically reduces the number of cells compared to the control group.
+  Pyridoxine, added before, as after hydrogen peroxide, has neuroprotective properties and helps maintain the latter.
+Figure 1. Calculation of the number of "in vitro" cells after the addition of hydrogen peroxide to the culture medium.
+ During the experiments, a Boeco microscope was used in conjunction with a system of additional phase contrast lenses (Germany, 60x1.25x40 magnification).
+ The cells were grown on glass covered with polylysine.
+ We used neurobasal / B27 as a nutrient solution or medium.
+ The images were analyzed with the help of "Pixcavator 4" program.
+ A. cell culture miniatures where the mark corresponds to 10 nanometers.
+ B. The number of cells calculated during the 7th day.
+ "T-student" was used for the final calculations.
+2. Calculating the number of dead cells 24 hours after exposure to peroxide After 24 hours of stress, we calculated the number of dead cells by dyeing them tripan blue.
+Hydrogen peroxide sharply increased the number of dead cells (740.33 ± 86.16) compared to the control group (245.90 ± 31.72), (p <0.05), (Figure 2).
+  The addition of allopurinol before peroxide (556.78 ± 16.17) as well as after peroxide (536.70 ± 49.79) reduced cell death.
+ The addition of pyridoxine before peroxide (231.50 ± 53.77) was much more effective (630.22 ± 71.84) (p <0.05, ONE WAY ANOVA).
+  The cells were stained with 0.04% tripan blue dye և the number of the latter was calculated the same amount was calculated with the help of the same "Pixcavator 4" program.
+According to experimental data, the use of allopurinol before hydrogen peroxide, as well as the addition of napyridoxine to the environment after peroxide, prevents cell death.
+Testing for allopurinol և pyridoxine in in vivo experiments Ischemic stroke, as well as hemorrhagic, may be exacerbated by a number of additional mechanisms, including the formation of free radicals, such as the release of hemoglobin.
+In our experiments, we have modeled the stage of formation of free radicals during a stroke.
+  For this purpose, we performed an intracerebral injection of hydrogen peroxide.
+  After injection of laboratory white rats, pyridoxine was injected intraperitoneally, the other groups received allopurinol through drinking water for 12 to 6 days.
+ Twelve days later the animals were injected with "Evans Blue" dye, the latter were decapitated after intracardiac perfusion, the dye was extracted from the parenchyma of the brain.
+ Only seventeen percent of animals survived high doses of pyridoxine.
+ Low doses of pyridoxine, such as nalopurinol, prevented animal mortality.
+  Moreover, allopurinol, like the lower dose of napyridoxine, prevented hematoencephalopathy և Evans Blue dye permeability to cerebral parenchyma (Figure 3).
+Figure 3. Evans Blue penetration of rat parenchyma.
+ A. Display images showing the permeability of the dye permeability specific to each group to the parenchyma of the brain.
+ B. Determination of the amount of "Evans Blue" dye on the recalculated 1 g of fabric.
+Conclusions քննարկում Discussion of the data Thus we came to the conclusion that the addition of hydrogen peroxide to the nutrient medium of the cell culture dramatically reduces the number of cells compared to the control group.
+  Pyridoxine, in addition, as after hydrogen peroxide, has neuroprotective properties, helping to maintain the amount of the latter.
+Experience has shown that the use of allopurinol before hydrogen peroxide, as well as the addition of napyridoxine to the environment after peroxide, prevents cell death.
+In vivo tests confirmed the data obtained during our previous experiments.
+  Pyridoxine in comparison with the control group prevents the formation of injuries of the blood-brain barrier և Penetration of the "Evans Blue" albumin complex into the cerebral parenchyma.
+Literature regulation. Electronic Journal of Natural Science, 2013. 2 (21).
+ p. 17-21.Culture. Central Nervous System Agents in Medicinal Chemistry, 2013. 13 (2).
+ p. 108-13.3. Stamp, LK, RO Day, and J. Yun, Allopurinol hypersensitivity.
+ investigating the cause and Neuroscience and Biomedical Engineering, 2014. 2.
+ p. 81-86.2013. 1 (2).
+ p. 28-34.Transplantation, 1964. 2 (Nov).
+ p. 685-694.7. Kruger, NJ, The Bradford method for protein quantitation. Methods Mol Biol, 1994. 32.
+ p. T. Avetisyan, Q. E. Danielyan, A. Ս. APPLICATION OF DISPOSABLE RESIDENTS WITH ANTI-OXIDANT PROPERTIES OF OXANTASE OXIDASE HEAD EXPERIMENTAL ISCHEMIA IN HEADLED, Keywords: experimental insipirp

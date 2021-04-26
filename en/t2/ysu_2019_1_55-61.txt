@@ -1,0 +1,50 @@
+GEGHAMA MOUNTAIN REGIONAL WATER BROADCASTING BY ELECTRICAL DESIGN METHODS High Shana Lake is one of the unique pools in the world.
+ It has gained a great reputation due to the unusual clarity of the water և natural special conditions.
+ Sean is one of the irreplaceable places of rest in Armenia, the only perspective source of water supply of the republic.
+The long-standing history of the issue of expedient use of water resources of Lake Sana ընթացքում has gone through a number of stages during its implementation.
+In the western part of the lake basin, along the Geghama mountain range, Miocene volcanic formations and Pliocene Quaternary lavas are widespread, and in the gorges there are outcrops of Eocene tuffs and deesitobobasaltic lavas.
+The oldest structure in the area of ​​the Lake Sana basin is considered to be the ecocyte-Paleogene-sized Horsantiklinal, which is located in the Shan Amasia ophiolite zone and is bounded on the southeast by the Saribabin syncline.
+The Artsvakar syncline, which consists of Sarmat sediments, is considered to be the largest of the south-eastern fold structures of the Geghama mountain range.
+The asymmetric ascent of the next horizontal stretch stretches through the Gegharkunik river valley, on the western shore of Lake Sana, known as the Dashkend Ascent.
+Extensive exploration, design and hydro-geological works have been carried out along the Geghama mountain range in the western part of the Sn catchment area with the participation of such organizations of the republic as: ВСЕГИНГЕО, ГГИ, ПНИИС և etc. [1, 2].
+Numerous hydrological, hydrogeological and geophysical works have been carried out during the study of water resources մասնավորապես, in particular, underground flows along the Geghama mountain range.
+The first such works are related to V. K. Davidov, B. D. Zaykov, A.P. Sokolov, I. A. Bear with the names of others.
+Along the Geghama mountain range, we have also carried out large-scale exploration studies by the method of electro-reconnaissance, ie vertical electrical probing (UEZ).
+  About 1000 points were measured, the data of hydrogeological wells drilled in the area were used, the data of previous geophysical studies were processed, as a result of which the regional water-repellent layer or paleorelief map of the western slopes of the Geghama mountain range was built.
+ On the built paleorelife map, the underground concentrated streams, groundwater basins were separated, the correlation of modern and old (buried) watersheds along the mountain range was found.
+Field work methods և technique. In the western part of the catchment area of ​​Lake Sanaa, for problem-solving along the Geghama mountain range, by the method of vertical electric probing, they were taken with separate profiles1.
+50,000-scale electro-exploration works to determine the strength of lava rocks and to map the expansive relief.
+ Taking into account the studied depth of 250-500 m, as the maximum opening of the line, AB = 1600 m is accepted.
+  The AJ-72 type compressor was used as a measuring device in the field works, and the GRMC-69 and BAS-80 dry batteries were used as the power supply.
+  During the fieldwork, cross-test measurements were made, which make up 3-5% of the total number of observed points [3].
+The results of the work. The Geghama highlands are huge, with an area of ​​2800 km2.
+ The watershed is located at an altitude of approximately 28003600 m.
+ It is a plateau with a separate cover with lava flows, on which separate volcanic peaks rise - extruded domes.
+ The area of ​​Geghama mountain range is characterized by dense hydrographic unevenness.
+  Thus, if the northern part of the mountain range is a sedimentary basin with no surface-flow, from a hydrographic point of view, then the southern part is separated by numerous river valleys, such as Azat, Vedi, Gavaraget, etc. [4].
+ The major role of groundwater formation and distribution belongs to the lithological composition of water-saturated water-repellent layers.
+  More than 70% of the surface of Geghama Highland is covered with fractured lavas of andesitic, andesitobobaltic, andesitodacitic composition.
+ To determine the spatial position of the old (buried) watershed of the mountain range; to determine the relief structure of the regional water-repellent layer;
+Using the above data, a map of the Geghama mountain range waterfront (Paleorelief) was drawn (Figure 1), and the route BB was separated (Figure 2).
+1. Absolute relief height in meters, 2. Main groundwater routes, 3. Modern watershed, 4. Buried watershed, 5. Buried watershed, 6. Boundary buried watershed boundary, 7. Sources, 8. Hydrogerals.
+Figure 1. Map of the regional water-repellent layer relief of Geghama mountain range.
+The studies of this map, together with the hydrogeological data, allow to make investigations into the possible groundwater distribution on certain slopes of the highlands.
+  In this case, the main hydrogeological elements are groundwater flows and buried water basins.
+  According to the map, the deviation of the common buried watershed is observed.
+ Against the background of the general deviation, water flows are observed, from which the northern water flows are directed to Sjanalich, and the central-southern part is unloaded in Sarukhan-Gavar area.
+ Here, on the paleorelife, at a depth of 1850 m, small pools are emphasized.
+ According to the data of electro-sensing curves, which are observed under the high ohmic lava (ρ = 1500-2000 ohm) within the basin, there are also low ohmic water belts everywhere, where ρ = 250-450 ohm.
+According to the drilling results, 50-110 m of pressurized water was found in the observed micro-basin.
+  Of particular interest here are the geoelectric contacts found between the intra-lava rocks.
+ It is this fact that explains the relatively high modulus value of the underground slopes of the western slopes.
+Figure 2. Deviation section of the modern և buried watersheds of the Geghama mountain range.
+ 1. Modern formations, 2. Andesitobasalts - comparative, 3. Andesitobasalts-aqueduct, 4. Buried relief, 5. Electrosounding points, 6. rt isotopes, 7. Specific electrical resistance of rocks (Ohm.m) Underground flow placement, grounding placement pattern մի A number of issues related to the search for additional sources of water supply have remained unresolved or require further clarification, despite the fact that quite extensive studies have been carried out.
+As a result of the conducted researches we have reached the following conclusions: • The best stratification of the lithological section of volcanic structures has been simplified by the study of the underground flow distribution of the basin by characterizing the electrical properties of the rocks.
+ It made it possible to use the method of vertical electro-probing during field work.
+• For the relief of the regional water-repellent layer of the study area 1.
+A final map was drawn up on a scale of 100,000.
+ Underground flow distribution was especially observed for the eastern slopes of the Geghama mountain range.
+• Centralized roads of groundwater movement, groundwater accumulation areas, main և local watersheds have been separated.
+  The distribution of the underground flow of volcanic mountain ranges together with other factors is conditioned by the nature of the paleorelife.
+LITERATURE [3] Vardanyan V. P., Methods of electrical reconnaissance, direct current, YSU Publication, Yerevan, 2013, 193 pages.
+Matriosyan Hripsime GEGHAMA REGIONAL WATER-WATER LAYER ELECTRIC RESEARCH METHODS, method: keystone

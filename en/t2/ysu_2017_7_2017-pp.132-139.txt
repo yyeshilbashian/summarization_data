@@ -1,0 +1,72 @@
+Sci. Head: Fumgt, Assoc. Գ. Tonoyan US Presidential Election 2016 The results obtained caused a great deal of discussion in the world community, even in the causes of protests.
+  Trump probably raised a lot of questions, some of which we will try to answer in this work.
+ In our example, we will look at the key states that ran in the US elections, such as the states with relatively large populations (but key states (1-11 states) gave the majority of votes to Trump, and in Group II (12-22 states) are the states that The majority of their votes went to Clinton.
+  In each state, a sample of the population 32 was selected, who were asked specific questions33.
+  The main purpose of the research is to find out which of the questions asked to the population of the states were the most definite,։ which of the observed states are the most typical "anti-Trump" and "Trump" states.
+  The results of the research were compared with the results obtained by discrete cluster analysis and modeling methods.
+  In the first և 32 Sampling, some of the units of the selected combination are examined in a certain order, and the obtained results are spread over the whole combination.
+33 In fact, the sample of each state was asked 20-25 different questions related to their preferences, lifestyle, political views, etc., but we have singled out the 10 most important questions, which, in our opinion, are most relevant to most typical countries (such as Armenia). ) for.
+http:
+//edition.cnn.com/election/results All states, Exit Polls վելFor the second group, feature X is 1 - "States elect Trump".
+Consider Method I of Discrete Modeling: Diagnostic Test 2 or Direct Test.
+ ա (P9) 70 more than 70% of voters dissatisfied with the federal government քաղաքական (P10) {majority of voters think Trump can pursue the right economic policy} 1H ․ Sargsyan, G. Tonoyan, N ․ Kochinyan - "Discrete modeling in cognition" classification problems ", Zangak, Yerevan - 2015, pp. 9-13.
+Let's make some comments on Tables I և II և In our example, the population is divided into 2 groups according to age (higher than 45 և lower).
+According to statistics, middle-aged (30-45) people are more likely to vote for Clinton, as Trump is known for his eccentric behavior և rather 1 Each number shows the electoral votes of the state, depending on the population.
+ That is, the weight of the state ․ The larger the population of the state, the more votes.
+some
+  In the case of the race (Latinos, for example, unpredictable Africans, whites, etc.) are more inclined to run for Clinton (who will pursue a relatively lenient policy towards them), so if they multiplied in that state, the majority would go to the majority.
+  The place of residence has a great influence, because people living in the suburbs see the solution of their daily life, as well as infrastructure, social and other problems, mainly in Clinton's pre-election program.
+ Education also plays an important role, as people with higher education generally avoid Trump's extremist policies.
+ Regarding the views of the voters, let's say that the population is either Democrats, or Republicans, or they are independent.
+We will consider the income level from $ 50,000 to $ 100,000 as the middle class (those with incomes below $ 50,000 usually belong to the Democrats, and those with incomes above $ 100,000 to the Republicans or independents).
+ The supporters of Clinton are "satisfied" with the policy pursued by Barack Obama.
+  In addition, the political program presented by Clinton seemed to be Obama's policy, and people expected changes from the new president.
+  In connection with the 10th mark, it should be noted that after the polls in all states, it turned out that the main problem of the country (according to the Americans) is the economy, so the candidate who can pursue the right economic policy will be chosen. Weaknesses "expect change from the new president" from the federal government.
+Calculate the information weights of indexes (Pj) e objects (ei) for 2 tables ․ In discrete modeling method I, the greater the information weight of the tag or object, the greater its significance.
+  The number of all-round tests in Table I is 30, and in II - 2.
+ I's deadlock tests are more than II tests, which is due to the fact that people, usually Democrats, are "similar" to Table II (the states elected by Clinton).
+Table I (Trump) Table II (Clinton) (Group I) P6 = P10 = 0.733 (Group I) P! 3 = P! 7 = P! 9 = P! 4 = P! 6 = (Group II) P9 = 0.7 (Group II) P! 2 = P! 5 = 0.5 (Group III) P8 = 0.667 (Group III) P! 1 = P! 8 = P! 10 = 0 (Group IV) P7 = 0.633 (Group V) P3 = 0.6 (Group VI) P1 = P5 = 0.567 (Group VII) P2 = 0.533 (Group VIII) P4 = 0.333 President.
+Typical "Trump" states are Ohio (Oh), Utah (Ut), Arizona (Az), Texas (Tx), Pennsylvania (Pa), (Fl).
+  There are all the prerequisites in these states for Florida to be elected Trump as a Note, Trump won the election due to the above 6 states.
+ Usually every 4 years, during the elections, Ohio Oh և even say և The candidate who wins in Ohio will become the next president.
+Let's discuss the issue of recognizing a new object for the diagnostic test.
+  We want to determine which of these states can be included in the set of E objects (which satisfy the X-property) ․ The weight of the new object is determined (cid.
+1809) (cid.
+1810) (cid.
+2172) ((cid.
+2192)) · (cid.
+2202) (cid.
+4594)
+(cid.
+2168)
+homosexual (cid.
+2196) (cid.
+2192) (cid.
+3128) (cid.
+2778)
+with the following formula ․ e (T) = ∑:
+ , where t! ij shows the degree to which the object e satisfies the j-th index of the set P (j = 1,2, .., 10).
+  If min (T) -Ɛ ≤ e! (T) ≤ max (T) +։, then we will say that the object e's has X-property և it can be included in the set E.
+ From the above table: min (T) = 0.407; max (T) = 0.846.
+New Mexico (Nm) is not included in this crowd at all, as its weight is very small (in New Mexico in favor of Clinton).
+The ratio of 48% HV-Carolina (Sc) և Missouri (Mo) gave the majority of their votes to Trump, as predicted.
+Cluster 1 analysis. Allows you to split objects into clusters by selecting a distance measurement method.
+  The set of tests during the research was first determined by the capabilities of the tags (information weights), and then by the information weights of the obtained results - objects.
+Based on the information weights of the objects, in the cluster analysis of objects, 2 objects are from the same cluster (group), as a result of non-test examination, the probability is high that they will be from the same cluster (group).
+  The opposite is not always where it is.
+2-step cluster analysis methods ․ The 22 states will be divided into 2 clusters according to 10 criteria (Cluster I will include the states elected by Clinton, and those elected by Trump will be divided into II).
+      2.Жамбю М. Hierarchical cluster analysis and correspondence. - M.
+  Финансы и 3.Бююль А., Цёфель П. SPSS.
+  Experience processing information. Analytical statistical data and the establishment of hidden laws.
+  Per. с нем. —СПб.:
+ DiaSoftP, 2005. - Chapter 20. Cluster Analysis, p. 384-408.Classification of Rose և Classification.
+  Note that according to Hierarchical Two-Step 2 Cluster Analysis, cluster I is 13 and II is 9.
+ Michigan (Mc 0.407) և Hs ․ Carolina (Nc 0.5) is not included in the first cluster, which can be justified by the fact that the information weight of these two states is the smallest.
+ Just like in these states, Trump won by a very small margin of electoral votes.
+  Even with the actual number of 3 votes in Michigan, Trump lost.
+ According to Ward, the size of the clusters is the same, but here Hs-Carolina (Nc 0.5) ովան Iowa (Iw 0.566) entered the first cluster, although, according to the test, they were included in Trump's constituencies.
+  They were relatively light (although they were not the lightest).
+The results of the cluster analysis discrete modeling generally coincide, in addition, the results of the survey coincide with the results of the presidential election.
+2 Two-step cluster analysis allows not only to find out which objects belong to which clusters, but also to assess whether we have good clustering or not.
+3 In fact, Clinton is ahead of Trump in the number of actual votes, but under US law, the election results are determined by electoral votes.
+RESULTS OF US PRESIDENTIAL ELECTIONSKaramyan Tigran RESEARCH Election Results բառKeywords: Trump, discrete modeling, test, deadlock tests, clustering, hierarchical analysis.

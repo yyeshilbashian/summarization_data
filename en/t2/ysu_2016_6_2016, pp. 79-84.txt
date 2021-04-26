@@ -1,0 +1,56 @@
+ASSESSMENT OF THE COMPARATIVE EFFICIENCY OF THE REGIONS OF THE REPUBLIC OF ARMENIA DEA GHAYAKOV The measurement of the efficiency of the socio-economic systems is one of the modern scientific-practical problems, the interest in which has increased since the middle of the 20th century.
+Data Envelopment Analysis (DEA) method, which is based on the basic principles of mathematical economics - Pareto optimality, theory of production functions, Leont production model, is widely used to evaluate the comparative efficiency of economic entities in different fields.
+The DEA method belongs to the number of empirical, non-parametric methods of estimating the comparative efficiency of homogeneous economic entities (which use the same resources և produce the same results) based on line programming.
+ Each decision-maker is evaluated in terms of its ability to turn resources into results;
+Describe one of the practical models of DEA weather.
+  Consider objects.
+ For example, in the period under review, the business entity used a unit from the resource արկել issued a product with a quantity of type r).
+ A "weighted result" յուն "weighted resource" is constructed for each subject, where են are weight multipliers that must be determined.
+ The evaluation of the comparative efficiency of the subject activity is formulated in the form of the following fractional programming problem: nj), ...., 2,1 (njimi, ..., 1ijxlr, ..., 1rjy0, 0rjijyxjnj, ..., 1lrrjryu1miijixv1rulr, ..., 1ivmi, ..., 10jmax), (11000 miijilrrjrjxvyuvuhnjxvyumiijilrrjr ,, ... 1,111, 0, irvumilr, ..., 1;, ..., 1 Objective function (issued by a subject with a unit of "weighted resource" քանակ The weighted result is the optimal value that satisfies the condition ևinterpreted as an estimate of the relative effectiveness of the activity.
+Value corresponds to full efficiency when resources are used most efficiently, and value indicates inefficiency in the entity.
+  The optimal values ​​obtained as a result of the problem և are the best values ​​of the multipliers that create the optimal result using the resources.
+Due to some changes, the problem is reduced to the following linear programming problem: It is clear that this leads to the principle of Pareto-Kupmans efficiency, according to which the decision-making unit achieves full efficiency only when none of the resources or outputs can improve without compromising some other resources or results.
+It is a double of the model. According to the theorem of duality.
+  Solving the dual problem, we will get the magnitude of the impact of each resource և result on the estimated inefficiency of VKM.
+The problem with the orientation of the results is: (6) The problem is brought to the following linear programming problem: (7) The double vector of the linear programming problem is as follows: 0 j * 0h10 * 0h1 * 0h1 * 0h), (** irvuruivlrrjrjyuY1 * 00miijijxvX1 * 00 lrrjryuzz1 ** 0maxnjxvyumiijilrrjr, ..., 1,011 * 0miijixv110,0, irvumilr, ..., 1;, ..., 1Srrjrjyuzh1 ** * 00000min, XxYyii ** zrrriiiyuxv00 / minnjyuxvrrjriiji, ..., 11 / ilmilrvuir, ..., 1;, ... , 1,0, miiixvq10minsrrrsrrjrmiijiyunjyuxv1111, ..., 1,00000max, * XxYyii By solving dual problems, inefficient objects can be identified. Give them appropriate instructions to improve efficiency: they are: • In a resource-oriented model, the same result can be produced even by reducing resources;
+Consider the assessment of the comparative efficiency of agricultural activities in the RA regions by DEA method.
+As a result of the policy of effective activity of the RA farms և until 2009 Economic growth has been ensured in agriculture.
+  However, the global financial and economic crisis also had an impact on agriculture.
+ 2009 The growth of gross agricultural output compared to the previous year was 99.5%, and in 2010 - 86.4% - in 2009. with respect to (line 1).
+Figure 1. Growth of gross agricultural output compared to the previous year (%), 2000-2013 To make qualitative changes in the agricultural sector, the Government of the Republic of Armenia in 2010 Approved "RA Village 201 Agriculture 2010-2020. Sustainable Development Strategy ”, which fixed the main directions of the state policy aimed at the development of agriculture.
+  Economic levers such as long-term and short-term interest rate subsidies, seed development, promotion of new technologies, and other forms of agricultural support began to operate.
+ More attention was paid to the application of innovative technologies in the field of agriculture, development of irrigation system, land improvement, irrigation of pastures, centralized control of pests of agricultural crops, animal health protection, production of ecologically clean agricultural products, development of rural development.
+Significant positive changes have been registered in the RA agriculture since 2011. 2011 The growth of the gross agricultural product made 114.1% as compared to the previous year.
+ The share of gross agricultural output in GDP increased to 21.53% in 2013, compared to 2008. For 17.6% (Fig. 2).
+Figure 2. Dynamics of the gross share of gross agricultural output in GDP (%), 2000-2013 *  *  Gross agricultural output in Armenia has a clearly defined picture in terms of territory (Figure 3).
+AraratGegharkunikKotaykSyunikTavush One of the priority sub-branches of the agricultural sector of the Republic is crop production.
+ 1997 The whole sown area of ​​agricultural crops has been reduced.
+  However, in 2013 There are positive developments in the level of utilization of agricultural resource potential.
+  2013 The area of ​​agricultural crops was 318.1 thousand. hectares in 2010 for 283.6 thousand hectares.
+  Figure 4 shows the structure of areas of agricultural crops (%) in 2013. for.
+increase in 2010 2013Chart 3. Share of RA regions in gross agricultural output (%), 2010 և 2013If 2008 The volume of gross crop production makes up 64.7% of the volume of agricultural production, then in the following years it showed a decreasing tendency, reaching 58.5% (in 2009 - 62.8%, in 2010 - 61.7%, in 2011 - 58.5%) .
+  2012-2013 In 2013, the volume of gross crop production amounted to 62.4% of the volume of agricultural production.
+Figure 4. Structure of agricultural crops (%), 2013-2013, according to the RA NSS, the growth of wheat and barley harvest in 2012. compared to 39% և 5.9%, respectively.
+  2013 Potato gross harvest in 2012 increased by 2.1%, the growth of vegetable crops in 2013. The growth of the gross crop of vegetables was 3.2%, and the growth of the gross harvest of vegetable crops was 1.5%.
+ Gross fruit production in 2012 The level exceeds by 1.9%.
+  In 2013, the area of ​​vineyards is 17,645 hectares, grape production in 2012 decreased by 0.3% compared to
+AragatsotnArmavirLori About 22.4% of the gross crop production is produced in Armavir, Gegharkunik - 19.3%, Ararat - 19.6% (Figure 5).
+In the field of animal husbandry 2009-2013 The highest indicators in terms of both the number of livestock and the increase in the volume of livestock products were registered in Shirak. Vayots Dzor Yerjan Livestock Breeding Crop Figure 5 2011.
+ About 22.4% of the gross livestock production is produced in Armavir, Gegharkunik - 19.3%, Ararat - 19.6% (Figure 4).
+2013 Compared to the same period last year, the number of cattle increased by almost 2.5% (677,584 heads), the number of sheep-goats - by 6.3% (717,574 heads), the number of pigs - decreased by 3.6% to about 139,799 heads.
+In 2013, compared to the previous year, the production volumes of animal products increased.
+  At the same time, the gross production of meat and poultry (live weight) increased by almost 12.7% (146.8 thousand tons), milk - by 6.3% (657.0 thousand tons).
+ In the Republic in 2013 Egg production volumes decreased to some extent և 2012 Compared to that, about 6.5% less eggs were produced.
+2011 The Government of the Republic of Armenia approved the "Concept of sheep breeding development in the Republic of Armenia" to promote the development of separate branches of animal husbandry and pedigree breeding activities.
+In order to effectively use the pastures of the republic, the RA Government in 2011 Approved the decision "On defining the procedure for the use of pastures and grasslands in the Republic of Armenia", which defined the conditions for the rational use of the management of pastures and grasslands on state-owned lands.
+The decision-making units in our problem are the RA regions.
+  Resources were agricultural lands (cereals, legumes, vegetables, potatoes, fruit and berry plantations, grape plantations), the number of people engaged in agriculture, livestock, cattle, sheep, goats, cattle, Existing quantity of agricultural machinery (tractors, trucks, grain harvesters, tractor trailers, mowers, rowers, plows, forage harvesters, grain harvesters, cultivators, harvesters).
+  As a result, 2013 was observed. Gross agricultural output (at current prices, billion drams).
+Using the DEA method, comparative efficiency assessments were obtained for the activities of the RA regions in the field of agriculture արդյունավետ the outline of effective activities was constructed (Figure 6).
+Ararat, 1 Vayots Dzor, Aragatsot
+n, 0.881 Syunik, Tavush, Armavir, 1 The obtained results show that in 2013 Ararat, Armavir and Gegharkunik marzes were more effective.
+In other regions, the productive opportunities to run the economy remain insufficient.
+  One of the main reasons for that is the non-target arable lands. Out of 232,900 hectares of irrigated lands in the republic, 156,000 hectares are actually irrigated.
+ More attention should be paid to the use of innovative technologies, irrigation system development, land improvement, pasture and grassland wetting, centralized control of agricultural pests, animal health, ecological clean-up production, agricultural development, and other agricultural development programs.
+Figure 6. Comparative efficiency assessments of the RA marzes in the field of agriculture և The scope of effective activity and use Shirak, Kotayk, Gegharkunik
+1 Lori, 0.613 Sona Baloyan, Karine TavrizyanAGRAPHY OF COMPARATIVE EFFICIENCY OF AGRICULTURAL ACTIVITIES OF THE REGIONS OF THE REPUBLIC OF ARMENIA BY DEA METHOD, MODE Pareto-Kupmansian principle of efficiency, "weighted resource", "weighted result".

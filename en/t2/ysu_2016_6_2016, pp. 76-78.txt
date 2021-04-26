@@ -1,0 +1,52 @@
+BENEFIT ANALYSIS MAKING A CHOICE BETWEEN RISK ALTERNATIVES The aim of this study is to show that the most important category of people's attitudes towards risk can be explained simply by a simple transformation of utility analysis.
+ People are often obliged or can choose between alternatives that differ in risk.
+ Insurance և gambling is a particularly vivid example.
+ The person, insuring his apartment, agrees to lose a certain amount of money, preferring it to a complete loss of the price of the house (which is unlikely) չունեն no losses (which is more probable).
+ That is, he prefers certainty to uncertainty.
+A person who buys a lottery ticket will most likely prefer a small amount of money (equal to the price of a lottery ticket price) և less likely to win a large sum of money instead of avoiding both types of risks at the same time.
+  This means that he prefers uncertainty to certainty.
+The above-mentioned preference is quite obvious, but difficulties arise when we try to apply the same methodology in the case of large-scale economic alternatives.
+  And despite this difficulty, the use of such a mechanism of preferences is quite expedient.
+  Professions vary in the level of income they promise.
+ For example, the income from civil work is quite certain, it is quite narrow, on the other hand, the uncertainty in the work of an accountant is greater, although it is almost impossible to get a very high or very low salary in this profession.
+  However, for example, in the case of a film actor, the uncertainty is quite high, at the same time, the case of a very low salary is already a possible option, the case of receiving a very high salary is almost impossible.
+ Based on the above, they distinguish between managerial and production bonds or "bluechips", which stand out for their reliability, stability, ordinary bonds or "blue-sky", similarly distinguish between "enterprises" and "business" directions.
+ Perhaps unaware of the difference in risk between these alternatives, people decide to choose a profession, valuable documents, and business in the same way as they would in gambling insurance.
+ It is necessary to study issues such as the human risk factor, the presence or absence of logic between alternatives.
+Of course, these issues have already been discussed by economists-theorists, especially when studying the profits of different profitability professions, different types of business activities, but the search for solutions to such problems has never been carried out when the alternatives are not risky.
+  The choice between non-risky alternatives is explained as a result of maximizing utility.
+  It is assumed that people will make choices based on a simple evaluation criterion based on utility. Choosing the product group that will be most useful to the consumer.
+Marshall resolved this uncertainty by questioning the utilization of utility as a necessary mechanism for choosing between risky alternatives.
+  He could not do this because he did not need borderline or other utility to choose between non-risky alternatives.
+ Marshall's transition from the analytical mechanism of utility maximization to the analysis through indifference curves (Adjord, Fischer, Pareto) showed that to explain the choice between non-risky alternatives, it is enough to assume that people can classify consumer goods on the basis of common utility.
+ But it is superfluous to assume that people can "distinguish between benefits".
+ And decreasing or increasing border utilization presupposes a comparison of benefits.
+ Thus, the use of such a mechanism in the case of non-risky alternatives is completely unfounded.
+The idea that the choice between risky alternatives should be explained by maximizing the expected utility is quite old, և attributed in part to the well-known paradox of Bernoulli in St. Petersburg.
+The choice of alternatives, which are endowed with different levels of risk, is made by a completely different mechanism. The human species is essential here.
+Refusing to choose between products with different risks based on the principle of utility maximization was a direct consequence of the idea of ​​decreasing marginal utility.
+  If the marginal utility of the money decreases, then the person who tries to maximize the utility will never agree to participate in the "fair" gambling, where he has an equal chance of losing or winning his 1 point amount.
+  The benefit gained from winning 1 point will be less than the decrease in the benefit gained from losing 1 point, ie the expected benefit from the game will be negative.
+ It follows from the declining marginal utility ության maximizing utility։ that people need to be paid to force them to take risks1.
+But this theory is questioned because people participate in "fair" and sometimes even "unfair" (lottery) gambling.
+ However, it should be remembered that risky professions և risky investments do not always bring above average income. their income is usually below average2.
+To graphically depict people's behavior when they prefer certainty or uncertainty, two curves have been studied that reflect the dependence between utility and income.
+Combining these two curves, we get a new curve that fully describes the behavior of people when choosing between risky alternatives.
+However, this curve characterizes only the behavior of people belonging to the low-yield category.
+ That's why we're going to add a section to the curve that will show people how they would behave if they had a higher income.
+  It is assumed that people with higher incomes are less inclined to participate in gambling, as they want to spend more money on their goal.
+  That is, the added segment will have a concave shape և will reflect the preference for certainty.
+In order to substantiate the obtained data, a research was conducted in the Republic of Armenia, within the framework of which different yields were surveyed և of different professions 1 See Marshall A., Op. dt. P. 135. Mathematical Appendix, n. IX, page 843.
+2 See Vickrey W., Measuring Marginal Utility by Reactions to Risk // Econometrica. 1945. XIII, pp. 319-333.
+100 people with institutions.
+ The questionnaire included the following question: Imagine that you won $ 200 in the game.
+  Now you can choose whether to keep the $ 200 or buy a lottery ticket with a chance of winning $ 20,000.
+  Whether you take the risk or not, or present your own version of the answer.
+The results of the research almost completely corresponded to the obtained curve.
+Risk AttitudeRisk Avoidance (including 8% High Yield) IndifferenceRisk LikelihoodRisk Attendance at High Yield Interest Percentage As we can see, the bottom line shows the respondents who say they would take a risk if they had more money.
+ The main reason is that the transition from one social layer to another will directly lead to risky, non-targeted expenditures.
+ For this reason, this category simply needs to be included in the category of people who prefer uncertainty.
+ Completing the resulting curve և the results of the survey, let us clarify which part of the curve each of the obtained results refers to.
+  Risk takers will be introduced in the initial groove section of the curve, risk-takers will be introduced in the convex section, and the high-yield group will be presented in the last groove section.
+Thus, it becomes clear that the curve is more than applicable in Armenia, as the number of people belonging to these three categories in the country is quite proportionally distributed.
+Nune Davtyan BENEFIT ANALYSIS WHEN CHOOSING RISK ALTERNATIVES Keywords: usefulness, risk, alternatives, certainty, uncertainty, empirical analysis, rational behavior.

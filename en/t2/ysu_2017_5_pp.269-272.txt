@@ -1,0 +1,19 @@
+SOME SYNTHESIS OF SOME-TRANSFORMS 3-BENZYL-4-ALYL-5-MERCAPTO-1,2,4-TRIAZOL One of the most important problems of organic chemistry is the synthesis of biologically active substances that can be used as drugs.
+The synthesis of nitrogen-containing heterocyclic systems has been of great interest since the last century due to their useful properties, which allow them to be used in the production of fuels, explosives, pyrotechnics, and especially in chemotherapy.
+In particular, in recent years the chemistry of triazoles has received much attention due to their biological activity.
+  1,2,4-triazoles are mostly studied because they show low toxicity and high biological activity.
+ Studies in the literature have shown that substituted 1,2,4-triazoles exhibit properties such as antibacterial, antifungal, anticancer, analgesic, antimalarial, etc. [1,2].
+ Antibacterial Analgesic Anticancer Based on the above, the aim of our work is to synthesize 3-benzyl-4-allyl-5-mercapto-1,2,4-triazole կատարել to make some changes based on it.
+To achieve the goal, 3 benzyl-4-allyl-5-mercapto-1,2,4-triazole was selected as the target starting material, for the production of which the interaction of phenylcarbonate hydrazide with allyl isothiocyanate in ethanol medium was studied1.
+At 1.2 molar ratio, resulting in benzylalilathiosemicarbazide.
+The product was then subjected to the basic cycling method described in the literature [3], which resulted in the synthesis of triazole, the starting material.
+At a molar ratio of 1.2, the resulting N-substituted triazole ester was then synthesized by hydrazinolysis with hydrazine hydrate in the presence of air in ethanol.
+ The results of MMR spectral analysis of the resulting compound showed that in addition to the basic product, the product of the allyl group recovery was obtained, which could not be separated from the main product.
+  The experiment was performed under nitrogen flow to obtain a single pure substance, but MMR spectral analysis data showed that a recovery process had taken place.
+ Probably the reason is that the nitrogen we used contained a certain amount of oxygen.
+  The experiment was carried out in the air stream, as a result of which a corresponding hydrazide was synthesized with a high output, in the 4th position of which a propyl group is contained instead of the allyl group.
+Basic hydrolysis of the corresponding ester was performed և The corresponding acid was obtained.
+The interaction of the initial triazole with acrylonitrile in the presence of acetonitrile in the presence of sodium methylate was investigated to give the corresponding nitrile.
+The structures of the obtained compounds were confirmed by MMR 1H, 13C analysis data.
+Literature potential of 1,2,4-triazole.
+ A brief review. Pharmacol. Online 1, 1192-1222. 3-BENZYL-4-ALYL-5-MERCAPTO-1,2,4-TRIAZOL SYNTHESIS AND SOME Arpine Vardanyan TRANSFORMATIONS Keywords: triazole, allyl, hydrazinolysis, hydrolysis-b , 2,4-triazole է has been studied with various reagents.

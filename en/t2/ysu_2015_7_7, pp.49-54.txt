@@ -1,0 +1,86 @@
+RA ENTERPRISE MANAGEMENT EFFICIENCY PROBLEMS AND WAYS TO SOLVE THEM The modern experience of enterprise management shows that indicators play a fundamental role in the process of planning and effective control of the company's activities.
+  Based on them, the heads of enterprises and their subdivisions make managerial decisions.
+  Among the most important elements of the indicators և characteristics can be classified: • the level of information transmission, • the possibility of quantitative expression, • the specificity of the presentation.
+The level of information transmission of indicators is the expression of the parties that are considered essential for the operation of the organization in its indicators.
+  After all, not all data reflecting the activities of the organization can be indicators.
+  The level of indicators to convey information should be directly related to the goals of the organization նպատակ managed quantities and objects.
+Quantitative expression of indicators allows to make a more accurate measurement and evaluation of the obtained results.
+ In addition, the company's management gets the opportunity to compare the obtained indicators with similar indicators of other companies, to compare them with the development of indicators within the organization.
+The uniqueness of the presentation of indicators is expressed in the fact that the orphan combinations և the processes that take place within the organization can be presented more clearly through indicators.
+  All this gives an opportunity to operatively inform the management of the organization about the state of the enterprise's activity.
+Thus, by analyzing the existing approaches of the indicator system համակարգի methods, rapid changes in the business environment, let us try to formulate the main requirements for individual indicators և systems.
+1. Indicators should reflect the efficiency of the use of all key resources.
+  As the efficiency of the organization depends on how efficiently the material, labor resources, finances, information of the organization are used, it is necessary that the system of indicators includes all the above-mentioned resources.
+ The benchmark system should reflect the efficiency of the organization's functionality, both at the level of the organization as a whole and for its individual departments, including the efficiency of resource acquisition, production, and sales of the product produced.
+2. Indicators should be as clear as possible from an economic point of view.
+  The system of indicators should not require significant expenditures of time, money or other resources.
+ The complication of that system requires raising the qualification level of the employees who serve that system.
+ In addition, the introduction of complex computer systems requires the development of computer databases.
+  Along with all this, we must pay attention to the costs that the organization will bear to implement and ensure such a system.
+Along with the costs of ensuring the functionality of the indicator system, it is necessary to assess the usefulness of that system for the management of the organization.
+  The benchmark system should provide employees with the information they need to make managerial decisions.
+  Information needs to be categorized so that managers can make unequivocal conclusions և make optimal management decisions.
+An example is the factor analysis, which allows to determine which resource has influenced the overall result, և the magnitude of the measurement deviation.
+ But it is quite difficult to make a conclusion based on the data of factor analysis.
+  Because of this, the system of indicators must be clear and understandable to the head of each division of the company.
+3. The number of key indicators should not be too much, as it is difficult to interpret them correctly.
+  The introduction of indicators does not imply the inclusion of all possible indicators that can be counted և submitted to management.
+ It is necessary to introduce a system of indicators that would include all areas of the company's management, but at the same time would not contain unnecessary, incorrectly classified information.
+  The large number of indicators makes it difficult to interpret them correctly.
+ In order to make decisions, it is necessary to present no more than 7-9 indicators to the management, but the fact must be taken into account that the presented indicators must show a complete and accurate assessment of the enterprise's activity.
+4. For each indicator, the desired unit of measurement should be presented, with which it will be possible to measure և evaluate the result obtained.
+During the analysis of the obtained results, it is necessary to move to the following quantities: planned, actual, desired results.
+The evaluation of the desired result gives an opportunity to find out how well the enterprise has worked, in accordance with the current situation.
+  For example, if the volume of planned production is 100 units, and in fact - 110 units, then, according to the classical analysis, the deviation is 10 units.
+  The question arises here, is it good or bad?
+  Is growth always positive?
+  Of course, one can make a judgment about it based on the current state of the organization և development opportunities.
+For example, in the conditions of insignificant increase of product prices ական significant increase of material resources costs, the large quantity of goods produced will be negative, as the losses increase.
+ It is possible that the production of 95 units of products will be more economically profitable in terms of development trends instead of the planned 100 units.
+The comparison of the planned և actual quantities gives an opportunity to evaluate how effectively the planning has been implemented in the company.
+ Providing the desired result shows how successfully the company responds to the ever-changing situation.
+5. The indicators must be calculated, submitted to the management in accordance with the organization's regulations, ie in a pre-approved manner, in a timely manner.
+  The indicator system should work automatically.
+ This means that the presentation of indicators must be documented, presented in a pre-designed way and on time.
+  It is very possible that the submitted forms contain sufficient information for the leaders.
+ At the same time, it is necessary to exclude the situation when the manager, not receiving the necessary information, makes a request for data of the relevant department in a timely manner and deviates the employees of the given department from their direct responsibilities.
+6. It is desirable not to change the methods of calculating the indicators for a long time (1-2 years) in order to be able to provide a combination of the obtained results.
+ The index does not represent anything by itself, if it is not possible to compare it with anything.
+  The basis for the combination of indicators can be the actual results of the previous period, the planned results of the analyzed period, the desired results of the industry, competitors, the current period, etc.
+ If the methodology of calculating indicators in the enterprise changes frequently, the process of comparing them, comparing them and making management decisions based on them becomes more difficult.
+7. Each indicator should be considered "planned" and "control".
+  The planned indicator must be implemented.
+  For the calculation of the indicator, it is possible to follow the combination of the planned-actual results of that indicator.
+  When comparing these indicators, the control function appears.
+ The control of indicators makes it possible to identify the causes of deviations և to make appropriate decisions.
+8. The indicators reflecting the activities of the Company's divisions should reflect only the results that could be influenced only by the management of the given division.
+  It would be unjust to demand that the head of a subdivision obtain a certain result in positions where the head of the given subdivision cannot have influence due to his limited power and responsibilities.
+ All this, of course, does not apply to cases where the possibility of not having an impact on an object or process is due to the professional or personal characteristics of the employee.
+9. The indicators should be presented in a way that is convenient for the management of the organization.
+  The presentation of indicators is very important for managers to perceive this information and to understand the situation quickly.
+  They should be presented as neatly as possible, for example in the form of graphs, tables, formulas, diagrams.
+At present, many Armenian enterprises, due to the unpreparedness to take a dominant position in the competitive market, record a sharp decline in production and business activity.
+  The main reason is that local enterprises not only compete with foreign manufacturers, whose price-quality ratio per unit of product is more preferable for the consumer, but also need to introduce a management system that will allow them to use the full potential.
+In the absence of large investments, the main purpose of which is to increase the quality of production in the conditions of cost reduction, the first steps to take the enterprise out of the current situation are the automation of production technologies, human resources and processes.
+ The main goal of enterprise production և management optimization is to ensure the maximum level of service for consumers և minimal investments in fixed assets, as well as to ensure the efficient operation of the enterprise in terms of cost reduction.
+In the conditions of increasing competition in the modern economy, the organizations create new products, carry out various advertising campaigns, invite consultants, reconstruct the internal-external environments of the enterprise, etc.
+ To diagnose all these problems, organizations invite consultants working in different fields.
+  As a result of the study, the problems found in a number of large Armenian enterprises during the implementation of the first stage of consulting services were quite disturbing.
+  Serious shortcomings in the internal environment of companies required the introduction of management systems that would enable companies to manage, control և properly organize the work of the enterprise, involve the necessary human resources, effectively manage, reduce costs.
+The experience of studies of consulting companies shows that Armenian companies have a number of shortcomings in their internal functions, in particular, the lack of necessary knowledge and experienced specialists does not allow them to effectively manage production, financial and marketing functions.
+  In many cases, companies engage companies that provide specialized marketing services in order to carry out their marketing functions.
+  Incorrect cost accounting ոչ inefficient cost management, lack of control tools does not allow enterprises to secure large profits.
+  In addition, there is no single system that would allow companies to automate all the processes that would increase the company's profits, increase the efficiency of functions և management decisions.
+  The following are the main management deficiencies we have identified in Armenian enterprises: • Lack of marketing functions, • Lack of effective resource management, • IT underdevelopment, • Cost-cost management deficiencies, • Involvement of necessary human resources.
+In order to solve these problems, the companies invite consultants from different fields of management, who are faced with rather difficult tasks: to build an appropriate management system, to contribute to the increase of its efficiency.
+  The implementation of a management system requires large investments of time իսկ, and another issue is to increase their efficiency, which can be achieved through the automation of management systems by introducing management information systems.
+ We have studied the impact of management information systems on the enterprise.
+International experience shows that the companies that balance their production, commercial and financial goals succeed, that is, they constantly work to improve their potential.
+  Potential is characterized by the viability of the enterprise, ensuring profit in the future.
+  These enterprises have made considerable progress in this area; they use the ERP-Enterprise Resource Planning system 1, which has become an international standard for enterprise management.
+  ERP standards were adopted by the American Society for the Production Management (APICS) in the 1960s. since recently.
+  This system is a part of information systems.
+The creation of an information system is based on the transition from partial automation of business processes to full automation, which is characterized by the integration of programs that are both outside and inside the information system.
+  In many information systems, only part of the business process is automated.
+  And as a result, we can say that the introduction of information systems is relevant for most enterprises.
+Benjamin Frunjyan RA ENTERPRISE MANAGEMENT EFFICIENCY PROBLEMS AND WAYS TO SOLVE THEM Keywords: efficiency increase, index system, system resource planning.

@@ -1,0 +1,70 @@
+ANALYSIS OF ENGINEERING-GEOLOGICAL CONDITIONS OF LANDSLIDE DEVELOPMENT AND DEVELOPMENT CONDITIONS OF THE REPUBLIC OF ARMENIA There are many exogenous processes in the territory of the Republic of Armenia, the most common of which are landslides.
+  According to existing data, more than 3,000 landslides have been registered in Armenia.
+  Different principles of landslide zoning are known, there are many examples for them, while the corresponding maps for the territory of the Republic of Armenia are missing.
+ Numerous facts that even during the Soviet years the population was allocated summer lands in landslide-prone areas (Aghiaghbyur (Shorbulakh), Nubarashen, Kharberd, Voghjaberd, etc.) without taking into account the landslide risk of the allocated areas.
+  Interstate highways have been built, some sections of which are being destroyed by landslides; are there any human casualties?
+In the presented work it is proposed to carry out special studies, aiming to clarify the main patterns of spread-development of different types of landslides in the territory of the Republic of Armenia, to emphasize the causes of their occurrence, to express the assessments of landslide risk և damage.
+  The spatial distribution of landslides և their development is based on the peculiarities of natural-anthropogenic factors, և first of all, the problem of engineering-geological zoning of landslides in the territory of the Republic of Armenia.
+In the past, field-chamber works were used to study landslides in the territory of the Republic of Armenia, which were carried out by different methods: decoding aerial photographs, conducting surface scientific expeditions, analysis of published literature, archive materials, generalization.
+ It is known that the formation of landslides in the territory of the Republic of Armenia is conditioned by the geological structure, relief, climatic-anthropogenic factors, as well as by the developments of the tectonic-seismic regime of the area [1].
+ All the mentioned factors, which determine the occurrence of landslides in the studied area, are divided into permanent, slow-changing.
+ The geological structure և relief belongs to the number of permanent ones.
+ The factors of this group determine the peculiarities of exogenous geological phenomena և the intensity of their expression.
+ Slowly changing factors determine the general direction of development of exogenous geological phenomena.
+ The group of rapidly changing factors includes meteorological (atmospheric precipitation, temperature), seismic conditions (earthquakes), man-factors (deforestation, additional wetting of slopes, vibration-blasting works).
+ Their impact on landslides is indirect: surface flow, humidity, temperature, porosity of ground rocks, strength, deformation processes, etc. [2, 3, 4].
+ It should be noted that geological conditions predetermine the genetic characteristics of landslides.
+ The geological structure and lithological composition of the slope rocks have a significant impact on the development and intensity of landslides.
+ Landslides are spread on a geological map of the RA territory compiled by different authors with a certain regularity.
+ For example, in rocky areas older than Neogene, the area of ​​landslides is more than 5.3%, while in younger rocks it is only 2.6% to 2.8% of the area.
+  Landslides in the Quaternary sediments make up only 0.8%.
+  Thus, landslides are more common in older geological areas than in new ones.
+Modern tectonic movements affect landslides through factors such as terrain, groundwater levels, causing their slow, centuries-old change.
+ Landslides are mostly associated with fracture zones.
+  According to the current normative documents, the studied part of the territory of the Republic of Armenia is mainly considered to be a region of 8 to 9 magnitude earthquakes, which should be taken into account during the proposed zoning.
+ The impact of groundwater on landslides is also great.
+ Considering that deformations often occur especially in the areas of groundwater basins, which are more sensitive, և, consequently, these areas contain passive landslides, where ակտիվ their activation is expected.
+Figure 1. Territorial map of the territory of the Republic of Armenia տարած Spatial location of landslides larger than 2 ha (source: Landslides of the Republic of Armenia in 2005, JICA) Surface և landslide relief is the most important factor that determines the intensity of landslides և affects their genetic characteristics .
+ The effect of relief on the nature of landslide intensity can be both direct and indirect.
+ The direct impact is the slope of the slopes, the morphology of the river valleys, the presence of antiquities.
+  Indirect impact is expressed as a component of the geographical environment.
+ Figure 1 shows a relief map map of landslides larger than 2 hectares in Armenia.
+The climatic factors of landslides are the heat-humidity regime, under which landslides occur։ activation.
+  In particular, the amount of annual precipitation has been increasing over the decades in the study area, which has led to the activation of landslides and the increase of the corresponding areas.
+ To assess the impact of climate, the amount of precipitation, evaporation և the rate of absorption of surface rocks, as a result of which the moisture content of the sedimentary soils changes և the physico-mechanical properties of the rocks are changed.
+ As a result, the stability coefficient of natural slopes is expected to decrease անք landslides to be activated (especially in the spring-autumn months).
+When assessing the engineering-geological conditions of the areas, it is necessary to assess the impact of anthropogenic factors.
+ This effect is mainly manifested by cutting the base of the slope, overloading the slopes, their compaction, irrigation, runoff, which leads to additional wetting of the rocks.
+ Significant irrigation of the cultivated lands, explosions, vibration-dynamic loads are possible.
+Human impact on slopes has a dual nature: activation of natural phenomena ում calming.
+  It is known that about 70% of modern landslides are to some extent related to human activity.
+ Such landslides are found on highways, in cities, in rural communities, near reservoirs.
+  Landslides occur due to erosion activity of rivers.
+The location of landslides on the territory of the Republic of Armenia is conditioned by a number of natural-man-made conditions.
+  As a result of the complex analysis of the mentioned conditions, it is possible to separate regions for the territory of the Republic of Armenia: to make landslides, to build a landslide safety map, which will be used in engineering-geological and construction works.
+  The task is to finalize the landslide zoning of the RA territory, based on the principles of engineering-geological zoning.
+The whole territory of Armenia is considered to be a mountainous region, where landslides are significantly different from landslides of platform conditions.
+  This difference is mainly due to the significant difference in geostructural and geodynamic conditions, which predetermines the intensity of development of many phenomena, especially gravitational, geological processes.
+ The mountainous-rocky regions are dominated by rocky-semi-rocky mountain rocks, often with highly transformed, fractured cracks of the system, mainly of strong tectonic origin, as well as separate earthquakes.
+ In the mountainous regions, the presence of cover formations is typical, which in many areas sit on the root rocks and have a rather low stability.
+ It is also characterized by high seismotectonic-volcanic activity, high relief energy, relative fluctuations, sometimes from 2 km to 3 km, expressed by sharp vertical climatic zoning.
+  These other factors predetermine the high activity of landslides in many parts of the mountainous areas.
+ In rocky and semi-rocky rocks, sliding landslides predominate according to the mechanism, and landslides flow in clayey-coarse-grained formations.
+ Landslides are active especially in the mountainous-foothill areas, where loess-like rocks are spread, and in landslides of clay-sand-rocks there are landslides, in the exposed parts of the root clays there are ascending landslides, and in the rocky terrain there are rocky ridges.
+Our area is also characterized by layered geological structures, when layers of rocks of different lithological composition are successively arranged on top of each other.
+ In these areas mainly occur incidence, complex landslides, where the presence of the main deformation horizon plays a primary role, other secondary factors that contribute to the development of slip deformations: ground water, precipitation, layer strength, position, etc.
+  Studies show that landslides are mainly caused in the territory of the Republic of Armenia, the Shoraghbyur stratum, which has a fairly wide distribution, variegated clays, marls, aleurites, marls, diatoms, etc.
+ And most of the exposed rocks in the rock և fire, due to intensive wind processes, change drastically.
+  As a result, it forms a strong wind, which landslides.
+  Such conditions are typical of many mountainous regions, in particular the mild subtropical-tropical climate, where landslides are widespread.
+ An example is the conditions in the north-eastern regions of Tavush, Lori, central Kotayk, Ararat and southern Vayots Dzor, Syunik regions, where even granite rocks are subject to landslides.
+ In some areas there are usually one, sometimes two or three types of landslides, so as a higher class universal taxonomic unit in the study area may be a class of landslides that will be related to the distribution of the main deformation horizon.
+ The main deformation horizons can be distinguished according to the composition of rocks, height և origin, by which we mean the geological body, the deformation of which within the natural distribution of the whole geological complex leads to deformation within the landslide zone.
+  On the basis of this objective reason, landslide classes can be distinguished in the mountainous area of ​​Armenia, within the Paleogene-Neogene, within the boundaries of the Jurassic Clay, mainly on the horizons of rocks of marine origin.
+  The deformation behavior of the main deformation horizon rocks mainly determines the features of the landslide process mechanisms.
+ Engineering geological regions and sub-regions can serve as a basis for further landslide zoning works.
+ As a result, landslides will have an impact value.
+Therefore, taking into account the need for a comprehensive analysis of the aforementioned landslide formation factors, it is proposed to carry out engineering-geological zoning of landslide phenomena in the territory of the Republic of Armenia, based on the separation of the mentioned natural anthropogenic factors and their formation conditions.
+ As a result, different taxonomic landslide zones will be isolated in the RA territory, with typical conditions of the area, factors affecting landslides.
+In conclusion, it should be noted that in the landslide studies of RA landslides, in the risk assessment և management programs և construction planning, landslides of important landslides, which has not been finalized yet, for which the main conditions are geological structure, climate, relief, anthropogenic impact.
+LiteratureRoman Khachatryan ANALYSIS OF ENGINEERING AND GEOLOGICAL CONDITIONS OF LANDSLIDE DEVELOPMENT AND DEVELOPMENT TERRITORIAL Keywords: landslide, landslide conditions

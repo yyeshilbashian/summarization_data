@@ -1,0 +1,46 @@
+ELECTROMAGNETIC FIELDS AND TEMPERATURE IMAGING BY THERMAL-OPERATIVE OPTIC INDICATOR IN THE TIME In modern times, the scale of devices is gradually increasing along with the development of technologies.
+  Now their sizes range from a few micrometers to tens of nanometers.
+ As the size decreases, the speed of the devices increases.
+  However, along with all this, problems arise that have a negative impact on the operation of the devices. for example, local heating, electromagnetic interference, etc. [1-3].
+ Investigation of such problems will enable early detection of defects in the devices, elimination of unwanted consequences.
+  The microscope-optical microscope (JAOIM) microscope described in this work solves the above-mentioned problems due to its high-resolution imaging property.
+ Depending on the material properties of the indicator, the NSAID can plot the heat distribution on the indicator, which may be due to several factors:
+Figure 1. Principal scheme of GAOIM experienceDescription of experience. Figure 1 shows the experimental scheme of ZAOIM.
+ An optical indicator (OI) is a glass on which a layer of nanometer-thick electromagnetic radiation is deposited.
+ The incoming light is initially linearly polarized by a flat-point polarizer, modulated by a liquid crystal modulator to a right or left circular polarized wave.
+  After passing through the indicator, after reflecting through the absorber layer, the wave changes the load from circular to elliptical.
+ This change is due to a change in the intensity of the light falling on the CCD camera.
+Figure 2 shows the working principle of the microscope.
+ When the device is in working condition, it has heat or electromagnetic radiation.
+ Due to the properties of the indicator, this radiation is selectively absorbed in the absorbing layer of the OI.
+ As a result of absorption, heat dissipation occurs in the absorption layer, which, spreading through the thermo-elastic environment, causes thermomechanical stresses.
+  When circularly charged light falls on an environment of mechanical stress, it changes its charge from circular to elliptical.
+  This phenomenon is called luminosity.
+ As the CCD camera monitors the linear duplication of the OI, it makes it possible to record the mechanical stress of the OI.
+  The light with the elliptical charge reflected from the OI passes through a 900 և 450 oriented analyzer, registered with a "CCD" camera.
+ As a result of the camera monitoring, the linear amplitude change in the optical indicator due to the examined device is registered.
+Figure 2. Schematic diagram of measurements In this work, calculations of mechanical stress և thermal distributions are performed in the OI using birefringence measurements [4-7].
+  Since the heat source corresponding to the object being represented is distributed in the finite domain, we can write (cid) for the heat distribution of the source.
+1829) is a constant that depends on the linear dipole distribution (cid) due to the longitudinal sliding voltages of the incident light wave.
+Theory. In order to restore the heat distribution in the source through the recorded data, the following functions are introduced, which represent the thermal stresses: [8] (cid.
+1831), respectively, the coefficient of thermal expansion, Poisson's coefficient և Jungian modulus, and (cid.
+1846), the voltage function is և satisfies the following equation: the components: (2) can be expressed by the voltage function from equations, the voltage given by the following equation (cid).
+3052), due to normal sliding voltages in the indicator, the linear reflection distributions are expressed by mechanical stresses with the following equations: (cid.
+effective thermal conductivity.
+ (6) Equations և (7) give Equation (1), which expresses the heat distribution of a source: If the heat source is stationary, the heat distribution equation can be written as: Results և Discussion: Figure 3 shows a block diagram of the sequence of data acquisition and collection steps.
+ Each step of the measurement is recorded with a CCD camera and then 100 frames are averaged through the program.
+ The system then switches on the sample current և waits 5 seconds for the temperature in the indicator to confirm, after which the same number of shots is recorded և averaging.
+Figure 3. Sequence of data collection steps After the second averaging is completed, the system shuts off the sample stream and waits for the temperature to be confirmed again for five seconds.
+ To get the final result, the whole cycle is repeated 10 to 100 times, as a result of which averaging takes place again.
+Figure 4. Distribution of flat micro-layered corrugated heat wave heat dissipated by JAOIM at operating frequency of 1 MHz. Figure 4 shows the heat output results of flat micro-layered corrugated pipeline by JAOIM system.
+  It can be seen from the picture that the heat is concentrated in the angular parts of the transmitter, where ohmic wave resistances are high.
+  The distance of the OI of the measurement time was kept the same.
+  Note that the image of heat distribution changes with the change of frequency.
+Conclusion. In this work, the heat representation of electromagnetic fields ներկայաց with a thermoset optical indicator (microscope) was presented.
+  The obtained results show that "AOSIM is effective in detecting defects, cracks, electromagnetic interference in the devices և chips.
+Due to its high spatial solubility, the NSAID allows the distribution of thermal-electromagnetic field distributions of the sample with great sensitivity.
+  Depending on the material of the optical indicator, it allows the corresponding component of the field to be displayed.
+Based on the problem, JAOIM provides an opportunity to increase the accuracy of measurements by increasing the amount of data being averaged.
+  Along with its features, it has a simple structure և relatively low cost of components, which further increases the interest in this microscope.
+LITERATURE [4] Ganar R. et al., Thermal Stresses of a Thin Rectangular Plate.
+ An Inverse Problem. Minasyan Billy ELECTROMAGNETIC FIELDS AND HEAT-IMAGE IMAGING WITH DETERMINATION OPERATOR WITH METER-TERM OPTICAL INDICATOR.

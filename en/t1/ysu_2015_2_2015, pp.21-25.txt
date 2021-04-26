@@ -1,0 +1,40 @@
+HORIZONTALIZATION OF CHEMICAL ELEMENTS LOCATION ON THE EAST WING OF MEHMANA MINERAL NUMBER 2011-2013 In the western part of the Nagorno Karabakh Republic, as a result of the analysis of geochemical works carried out in the eastern part of the Martakert region and in the northwestern part of the Askeran region, a clearly expressed horizontal zonality is observed, which is shown in the schematic map expressing the horizontal zonality of the chemical elements.
+  The map shows what chemical elements are typical of the eastern part of the mineral node.
+The above-mentioned section is located within the territory of Mehmana Mine.
+ The latter is the most promising site in the Northeastern part of the Lesser Caucasus, in the Somkhet-Karabakh metallurgical zone.
+  It is bordered by the Tartar Fault in the north, the Khachen flexura in the south, the Karabakh Anticlinorium in the west, and the Martakertisinclinorium in the east.
+Mehmana structure-formation block includes a part of the Kazakh-Aghdam segment of the Georgian-Kapanik archipelago zone of Georgia.
+  It is separated from the Gay-Gel block from the north-west by the border with the Turgigetilaynak synclinorium, from the east-southeast by the Khachen flexure, from the south-west-northeast by the Mrav և Karabakh-Var.
+Middle-upper Jurassic liparitadacite porphyrites, andesites, andesadadacites are spread և Upper-Lower Jurassic limestone limestones, argillites, tuffs և marl-layered limestone structures 1, the crustal mass of which is fragmented.
+A significant role in the formation of the Mehmana mineral zone is played by the intrusive mass of Mehmana, which covers an area of ​​about 65 km2.
+ The rocks of the intrusive mass were formed at a stage of deep magma activity, forming a single series of fuzzy transitional and gradually interchangeable rocks.
+  This series is presented in the following way: syenite-diorites, diorites, tonalites, banatites, granodiorites, granosienites with their porphyry-like varieties [5].
+Geochemical works were carried out in an area of ​​about 130 km2.
+According to the search lithogeochemical method, the samples were taken mainly from sediments spread in the secondary crowns.
+ This method is one of the most reliable and relatively inexpensive methods.
+  Taking into account the area, the relief լայն the wide distribution of sedimentary rocks, the place was quite suitable for searching with this method.
+ Eluvial-deluvial deposits are common in the area, which sit on the mother rocks with a relatively high content of useful components "poisoned" to a certain extent.
+Lithogeochemical work was carried out in the eastern part of the Mehmana Mine, at pre-planned profiles, with distances between profiles.
+  The distance between the profiles was 100 m, and the distance between the samples between the profiles was 40 m.
+ The result is a 100 x40 m grid, which corresponds to 1.
+On a scale of 10,000.
+In the areas where it is necessary to carry out geophysical or geochemical works, geodetic works have been done in advance. The numbers of the sampled points of the profiles were indicated.
+  Samples should be taken from holes dug with shovels, in the absence of soil layer, from exposures.
+ Samples were mainly taken from horizon B, which corresponds to the horizons of illuvial sediments և sits beneath the humus-rich alluvial-laden A1 horizons.
+  It is quite easy to take samples from this horizon, there are few changes due to man-made activities.
+  The horizon sits directly on the mother rocks, characterized by high content of iron hydroxides, manganese and other metals.
+Figure 1. Soil horizons from bottom to top դեպքում In the absence of horizon B, samples are taken from horizons A1, A2 or C, but it is not desirable to take samples from horizon A2.
+  The sampling log shall document the date of sampling, sample number, profile to be observed, observation point, coordinates, sampling depth, horizon, lithological composition, color, moisture, debris, presence of organic components, relief, floor, landscape, landscape, landscape. Additional notes are made.
+All attributes are encoded with numbers, ան Analytical analysis of the recounted attributes is performed during the final processing.
+  Control samples will also be taken to detect laboratory error in the work performed.
+Sampling log data is digitized in xls file Sent to multivariate chemical analysis.
+ Chemical analyzes were performed in ALS Laboratory Group International Laboratories, based on the results obtained, geochemical balance maps for individual elements were compiled, as well as geochemical correlation maps for several groups of elements.
+ For the processing of geochemical data were used: Surfer, Graper, Microsoft Office Excel ist Statistica programs, through which the background contents were selected, as well as the geochemical iso-maps were compiled.
+Maps based on the results of individual elements allow us to get an idea of ​​the distribution, location, possible dimensions and perspective of anomalous or anomalous contents of a given element.
+Figure 2. Schematic map of the horizontal zonality of the chemical elements of the eastern part of the Mehmana mineral node. As a result of the analysis of the obtained data, a clearly expressed horizontal zonality is obtained (Fig. 2).
+  The resulting zonality is formed by the gradual lowering of the temperature, և it is clearly distinguished which chemical elements of each part of the mineral node are typical.
+ The contents of molybdenum, tungsten-titanium, which correspond to the high temperature elements, are abnormally raised on the intrusive mass of Mehmana.
+  Leaving the intrusive mass to the west, south and north, they show abnormally high values ​​of medium temperature gold, copper and molybdenum.
+ Geochemical studies at the Khachen ենի Chankatagh site show low-temperature gold-zinc-silver-copper ores farther southwest of the metasomatically altered rocks, where low-temperature tenantite is the copper mineral.
+Literature 1. Mukhsi-Hoveyan A., Geological-structural features of the NKR Kashen copper mine և the patterns of localization of mineralization, "Education և science in Artsakh", 2014, № 1, pp. 105-108.
+Arkady Mukhsi-Hoveyan HORIZONTAL ZONALIZATION OF CHEMICAL ELEMENTS LOCATION EASTERN WING OF MEHMANA MINERAL Keywords: Mehmana mineral node, horizontal method, horizontal structure, horizontal zonal, horizontal zonal

@@ -1,0 +1,347 @@
+Science ․ Head: ف․م․ Ph.D., Assoc. R. Avetisyan Plato warned the 5th rulers in Athens about the danger of extreme inequality.
+ "There should be neither extreme poverty nor excessive wealth among the citizens," Erna writes, "both of which are the cause of great evils."
+In this study, the Gini coefficient for measuring income inequality will be considered, as well as related concepts.
+The Lorentz curve was proposed by the American economist Max Otto Lorentz in 1905 as an indicator of population income differentiation2.
+The Gini coefficient, or Gini index, is the degree to which the distribution of household incomes is statistically deviated from the perfect equation3.
+Using the Lorentz curve, we can calculate the coefficient of 4.
+ePietra (also known in the literature as the Hoover Index, the Robin Hood Index, the Schutz Index), which shows how much of all income must be redistributed to society in order to achieve perfect equality.
+ The PietraiPietra index, in fact, shows the maximum 2 See details here: https.
+//hy.wikipedia.org/wiki/ Լորենցի_կոր 3 Available here: https.
+//stats.oecd.org/glossary/detail.asp?ID=48424 Gini coefficient calculation methods are available at the following link: https.
+//en.wikipedia.org/wiki/Gini_coefficient#Calculation5 Lubrano M. The econometrics of inequality and poverty Lecture 4.
+ Lorenz curves, the Gini is here: http.
+//www.vcharite.univ-mrs.fr/PP/lubrano/cours/Lecture-4.pdf index of inequality or persons page 16. Available on a coefficient basis
+Table 1.
+ 2011 RA Data Factor
+from = Zu
+disgust /
+Maxim
+Separately
+aln grouping * 1:
+Deviation:
+The distance between the Lorentz curve և the line of perfect equality և
+ In the following statement it will be proved that at the point where the maximum deviation occurs, the tangent to the Lorentz curve is parallel to the line of perfect equality.
+  Pietra index shows etisalum cumulative equality1.
+For an example, see Table 1.
+In the mentioned example, calculate in points x = 5.10… (cid.
+1876) (cid.
+3043), Lorentz characteristResident
+Interpolation polynomial% Condition% Deviation%
+equal-level deviations.
+  Here (cid.
+1876) (cid.
+3043) is the point where the index is registered.
+All calculations by Pietra were performed using the obtained interpolation multiplier.
+In this context, it is suggested to calculate the "contribution" of individual groups in the Pietra indexing process.
+  In the example, the net "contribution" of each group to the Pietra index is singled out, which is presented in the third column.
+  The calculation was made by subtracting the deviation of the previous group from the current group.
+ For example, for the fifth group we will have: L (25) -L (20) = 17,24-14,54 = 2,99.
+The resulting coefficient, Maximum deviation ∗ 100%, indicates the weight of individual groupsNet deviation
+In the formation of the Pietra index.
+It should be an indicator when developing a policy, pointing out the most vulnerable groups - the directions of tax and social policy.
+Revenue distribution function.
+  According to the decile groups, we construct the function that characterizes the income distribution based on the average income distribution data, using 1 This is based on the property of the Lorentz curve, according to which the Lorentz curve is the coefficient of power equal to the total power (cid).
+2869) (cid.
+2868)
+(cid.
+3537) (cid.
+1876) - (cid.
+1876) (cid.
+3036)
+(cid.
+1876) (cid.
+3038) - (cid.
+1876) (cid.
+3036)
+(cid.
+3036) (cid.
+2880) (cid.
+2868) (cid.
+3036) (cid.
+2999) (cid.
+3038)
+Lagrange interpolation.
+  The Lagrange interpolation function has the following appearance: 1 (cid).
+2869) (cid.
+2868)
+(cid.
+1838) ((cid.
+1876)) = (cid.
+3533) (cid.
+1877) (cid.
+3038)
+(cid.
+3038) (cid.
+2880) (cid.
+2868)
+Income (cid.
+1877) (cid.
+3036) in the cumulative average income share of the i-decile group with a percentage of 2, and (cid).
+1876) (cid.
+3036) the decile group that manages that income in percentage terms (for example, x = 50% for the 5th decile).
+Additional member of Lagrange interpolation.
+ For the given function f (x), the Lagrange interpolation formula has the following form (cid).
+1858) ((cid.
+1876)) = (cid.
+1838) ((cid.
+1876)) + (cid.
+1837) ∗ (cid.
+2033) ((cid.
+1876)), where (cid.
+2033) ((cid.
+1876) is called an amnesty member3.
+the derivative.
+Interpolation The derivative of a function obtained by interpolation has a retrograde function of a polynomial (cid).
+3041)
+(cid.
+1838) (cid.
+4593) = (cid.
+3533) (cid.
+1877) (cid.
+3038) (cid.
+3430) (cid.
+3533) (cid.
+3438) 1:
+(cid.
+1876) - (cid.
+1876) (cid.
+3037) ∗ (cid.
+3537) (cid.
+1876) - (cid.
+1876) (cid.
+3036)
+(cid.
+1876) (cid.
+3038) - (cid.
+1876) (cid.
+3036)
+(cid.
+3434)
+(cid.
+3442)
+(cid.
+2869) (cid.
+2868)
+(cid.
+3038) (cid.
+2880) (cid.
+2868)
+(cid.
+3037) (cid.
+2880) (cid.
+2869)
+(cid.
+2869) (cid.
+2868)
+(cid.
+3036) (cid.
+2880) (cid.
+2869) (cid.
+3036) (cid.
+2999) (cid.
+3038)
+((cid.
+2009)) tangent, formed by the angle of the interpolation polynomial derivative, by registering in Microsoft Excel տալ x its value, where the maximum deviation from the equal level is registered, we get 1 value for all the years studied.
+As we know, the derivative of a function is its (cid.
+1876) (cid.
+2868) shows the axis of the tangent's abscissa (cid) at that point on the graph of the function.
+2009) = 1 ⇒ (cid:
+2009) = 45∘.
+1 For details, see Fichtengolts GM Course on differential and integral cleaning Volume 1, M.
+ FIZMATLIT, 2001, p. 2632 If z1, z2, z3, z4, z5 denote the average incomes of the 1st to 5th groups, respectively, and the average income of the general population by z, then y5 = (z1 + z2 + z3 + 3 M. Course of Differential and Integral Clearance Volume 1, M.
+ FIZMATLIT, 2001, p. 264 Since a similar result is obtained if we consider the function expressing Lorencicor (conventionally designated F (x)).
+Consider the function G = xF (x), for which (cid.
+1876) (cid.
+2868) is a critical point.
+ Because (cid.
+1876) (cid.
+2868) is a critical point for the function G = xF (x), then at that point the derivative of the function will take the value 0: G '(x) = 1-F' (x) = 0 ⇒ F '(x) = 1.
+  It turns out that (cid.
+3052) (cid.
+3116)
+(cid.
+3051) (cid.
+3116) (cid.
+2879) (cid.
+3028) = 1 ⇒ (cid.
+1853) = (cid.
+1876) (cid.
+2868) - (cid.
+1877) (cid.
+2868), ie a shows the amount of maximum deviation from the equal level of income.
+  We get that the equation of the radius at the point of maximum deviation is (cid).
+1859) ((cid.
+1876)) = (cid.
+1876) - (cid.
+1853).
+Using the MatLab program, construct a first-order derivative of L (x) (Figure 1).
+ The results show that the function L (x) (cid).
+1876) growing in the ∈ [0; 100] range.
+Looking at the graph of the second order derivative obtained by this program (Figure 2), we see that the function L (x) (cid).
+1876) is convex in the ∈ [0; 100] range *.
+Table 2.
+Comparison of Gini coefficients և Interpolation accuracy.
+  Using Lagrange interpolation function to distribute the income, we obtain the Gini coefficient by the surface method.
+  Given the area of ​​the "Lorentz curve" of the perfect equation line, let's divide it by a perfect * For some years the results in the graph are negative in the range [0,5).
+Republic of Armenia
+Maxim
+distraction
+post-meal
+s / S triple
+նյուն:
+Total:
+where (S)
+Prior to customs clearance
+s / S triple
+նյուն:
+Year United Kingdom:
+Maxim
+distraction
+post-meal
+s / S triple
+նյուն:
+Total:
+where (S)
+Prior to customs clearance
+s / S triple
+նյուն:
+on a triangular surface formed by lines of perfect inequality.
+  Moreover, the calculation is made by presenting the area of ​​the first as the sum of two areas, the area before the point of maximum deviation (where the Pietra index is registered) and the area after that.
+See the results in Table 2.
+The results show that ․ • The area before the maximum deviation point is larger than the area after it.
+ The latter means that the groups with lower incomes than the average income have the largest share in the integration of Gini.
+• Having the Gini coefficient calculated on the sample data և The Gini coefficient calculated by the interpolation polynomial representing the Lorentz curve, we can find the value of K in the remainder of the interpolation.
+We have the following function: (cid).
+1858) ((cid.
+1876)) = (cid.
+1838) ((cid.
+1876)) + (cid.
+1837) ∗ (cid.
+2033) ((cid.
+1876)).
+In this context, the left-hand side of the equation is the Lorentz curve function, and the right-hand side is an interpolation polynomial with a residual term.
+We have Gini coefficients calculated based on empirical data for different years.
+ From the following equation 1: [(cid.
+1876) - (cid.
+1838) ((cid.
+1876))] (cid.
+1856) (cid.
+1876)
+(cid.
+2873) (cid.
+2868) (cid.
+2868) (cid.
+2868) (cid.
+1837) (cid.
+1516) (cid.
+2033) ((cid.
+1876)) (cid.
+1856) (cid.
+1876)
+[(cid.
+1876) - (cid.
+1858) ((cid.
+1876))] (cid.
+1856) (cid.
+1876)
+(cid.
+2869) (cid.
+2868) (cid.
+2868)
+(cid.
+2869) (cid.
+2868) (cid.
+2868)
+(cid.
+2869)
+= (cid:
+2869)
+- (cid.
+2869)
+(cid.
+2873) (cid.
+2868) (cid.
+2868) (cid.
+2868) (cid.
+1516)
+(cid.
+2873) (cid.
+2868) (cid.
+2868) (cid.
+2868) (cid.
+1516)
+(cid.
+2868)
+(cid.
+2868)
+(cid.
+3117) (cid.
+3116) (cid.
+3116) (cid.
+3116)
+(cid.
+3117) (cid.
+3116) (cid.
+3116) (cid.
+3116)
+[(cid.
+3051) (cid.
+2879) (cid.
+3033) ((cid.
+3051))] (cid.
+3031) (cid.
+3051)
+[(cid.
+3051) (cid.
+2879) (cid.
+3013) ((cid.
+3051))] (cid.
+3031) (cid.
+3051)
+(cid.
+2879) (cid.
+1516)
+we get: (cid.
+1837) = (cid.
+1516)
+(cid.
+3117) (cid.
+3116) (cid.
+3116) (cid.
+3116)
+(cid.
+3104) ((cid.
+3051)) (cid.
+3031) (cid.
+3051)
+(cid.
+1516)
+In case of interpolation nodes requested, cid.
+1858) ((cid.
+1876)) = (cid.
+1838) ((cid.
+1876)).
+  In two ways (cid.
+1516) ω (x) dx:
+(cid.
+2869) (cid.
+2868) (cid.
+2868)
+(cid.
+2868)
+The reason for the discrepancies between the estimated Gini coefficients is the averaging of the data2.
+as tax efficiency of social partnership policy (cid.
+2869) (cid.
+2868) (cid.
+2868)
+(cid.
+2868)
+Pietra application: 1 Here 5000 is the area of ​​a triangle of perfect equation գծ lines of perfection, and the left-hand side of the equation is the Gini coefficient based on empirical data by the surface method.
+2 The application of the second method is based on mean data, and the first method of evaluation was performed on the basis of microdata.
+Index change indicator 1.
+  As mentioned above, when showing the Pietra index, the cumulative inequality up to the point of maximum deviation, in this respect, the above index with respect to changes in the income of groups with a lower than average image.
+Some change in the structure of income distribution in the society.
+  It can be used as an indicator when developing a policy, pointing out the most vulnerable groups - the directions of tax and social policy.
+  In this context, the data published by the Statistical Office of the United Kingdom on the distribution of average income in decile groups is examined by examining their structure2.
+  According to the dynamics built as a result of the calculation of the PietraIndex over the years, the graph is presented below.
+Appraisal of PETRAGINI'S ASSOCIATE AND PETER'S INDEX Keyword interpolation, policy.

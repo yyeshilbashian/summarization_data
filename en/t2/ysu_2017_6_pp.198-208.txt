@@ -1,0 +1,130 @@
+ISSUES OF JUDICIAL NOTICE IN CIVIL PROCEEDINGScientific work is devoted to the examination and analysis of some of the issues of judicial notice in one of the institutes of civil proceedings.
+ The choice of the topic is conditioned by the latter being topical and problematic.
+  Studies show that in practice, many issues arise in connection with court notices that have not been sufficiently studied and analyzed.
+ In addition, there are a number of gaps in the current code, which also cause problems for law enforcement practice.
+In general, the provision of the institute of notification in the legislation is of exceptional importance for the effective and real protection of human rights and legitimate interests.
+ It is possible to speak about the effective protection of a person's rights և legal interests only if the latter is informed (notified) in time about his / her rights գործընթաց processes related to legal interests.
+ The principle of equality of competition և is one of the key characteristics of justice, the content of which, based on the case law of the European Court of Human Rights, has been determined by the Constitutional Court of the Republic of Armenia1.
+  In particular, the equality of the parties according to the position of the CC means that each party to the proceedings should be given a proper opportunity to present his case, including evidence in a situation which does not create an unfavorable situation for him compared to the other party2.
+  The principle of equal treatment presupposes the right of the opposing parties to be heard, including the right to make statements about the actions taken during the proceedings, to object or to express an opinion on the statements of the other party.
+1 See Kamsinski v. Austria, 1989, of the European Court of Human Rights. Judgment of 19 December, paragraph 102.
+2 See Decision No. 710 of the RA Constitutional Court of 24.07.2007.
+The draft law "On Making Amendments to the RA Civil Procedure Code" has been developed and circulated by the Ministry of Justice, the provisions of which have also been discussed in this work.
+Currently, the Civil Procedure Code3 provides for three possible methods of judicial notification.
+ In particular, Part 2 of Article 78 stipulates that the court notice to the participants of the trial is sent by registered mail with a notification on extradition, is delivered by hand, is sent electronically.
+As we have presented, the first possible method of proper notification is notification by registered mail.
+ It is carried out through the postal operator, which is responsible for the proper fulfillment of its contractual obligations under the law.
+ According to the Law on Postal Communications, a postal operator is a legal entity or a sole proprietor authorized to provide postal services, which carries out its activities on the basis of a issued license4.
+In fact, in this case of notification, the communication between the person participating in the court-case is mediated, բ the burden of proper notification is borne more by the postal operator.
+  Practice analysis shows that the problems related to this method of notification are mostly outside the scope of judicial control.
+ They occur when the court, in the proper performance of its duty, instructs the postal operator to deliver the court notice (often these problems are related to the unscrupulous activities of the postmen).
+  In connection with the issue under consideration, the Court of Cassation in one of its unprecedented decisions established a presumption that the consignee, the national postal operator, had fulfilled its obligations under the Contract Law until proven otherwise5.
+ In other words, the disputing party must prove that it owes its obligations by the postal operator 3 See RA Civil Procedure Code of 17.06.1998, ARPA 1998.09.09.20.
+4 See RA Law on Postal Communication of 14.12.2004, ARPA 2005.01.26 / 7 (379).
+5 See the decision of the RA Court of Cassation on the civil case EACD / 1424/02/09 dated 01.10.2010.
+which were not properly implemented, as a result of which he was not properly notified.
+ It can be assumed that this is a fixation of the principle of trust in the national operator.
+The notice is sent by registered mail to the address indicated by the participant of the trial.
+ The content of the notion of "ordered letter" is revealed by Government Decision N211-N6.
+  According to the latter, postal items, depending on the processing form, are subdivided into the following types: 7. • ordinary, which is accepted by the sender without handing over the receipt; և It is handed over to the addressee (legal representative) with a signature, in case of having a passport.
+From the analysis of this norm it can be concluded that: • the ordered letter can be delivered exclusively to the addressee, ie the person whose name is mentioned in the notice, and in his absence to the legal representative, • the ordered letter can be delivered only in the presence of an identity document.
+Unlike a regular parcel, the ordered parcel is more reliable, as it is sent by registration, the sender is given an endorsement և is delivered to the recipient with a signature, in the presence of an identity document (power of attorney).
+The law of many foreign countries stipulates that the court notice must be delivered to the addressee in person, and in his absence, on the condition that the adult member of the family shows the kinship և identity documents.
+  Such a legal regulation was envisaged in 1964. In the Civil Procedure Code of the USSR.
+  In particular, Article 109 stated: If the person bringing the notice does not find the citizen informed or summoned in connection with the case at the place of residence or work, the notice shall be handed over to one of the adult family members living with him / her, and in their absence to the household administration. Government Decision N211-N of 16.02.2012, ARPA 2012.03. 14/15 (889).
+7 See the appendix to the Government Decision N211-N of 16.02.2012: "Regulations on the Activities of Postal Communication Operators".
+to the Executive Committee of the Village or Village Council of the Municipality or to the administration of the workplace8.
+  For the effective application of this norm, a special guarantee was provided, according to which the person receiving the notice is obliged to show the position held on the second copy of the notice.
+ In addition, the person receiving the notice was obliged to deliver it to the addressee without delay at the earliest opportunity.
+The current Code excludes this possibility, stipulating imperatively that the court notice must be delivered to the addressee personally.
+  The notice shall be deemed to have been delivered in person if the receipt for the preparation has been personally signed by the addressee, or if the addressee has signed the receipt of the notice to refuse to receive the notice.
+  No exception to this provision is provided even in favor of a legal representative.
+  The Court of Cassation referred to this issue in one of its precedent decisions, stating that if the notice was sent to the address indicated by the person but received by another person residing at that address, it could not be considered a proper notice9.
+ It should be noted that the proof of the fact of the notification can be the signature of the addressee.
+  If the latter disputes that signature, a handwritten examination is performed at his expense, during which short signatures or short notes are identified.
+ In another precedent decision, the Court of Cassation noted that the fact that the signature belonged could only be confirmed by an expert opinion, regardless of the visible differences between the signatures compared to the naked eye.
+  Moreover, the party who filed the complaint bears the burden of proving the fact he referred to.
+ That is, the Court of Cassation finds that in such cases the presumption that the signatures on the notification receipts are signed by the addressee is valid, unless the contrary is proven10.
+The next question worth discussing is the notice deadlines.
+ The Code does not stipulate when the court must send the notice.
+  According to the general approach, the court 8 See the Code of Civil Procedure of the Armenian SSR of 04.06.1964, HSSGST 1964/17.
+9 See the decision of the RA Court of Cassation in the civil case ESHD / 0531/02/10 dated 29.11.2011.
+10 See the decision of the RA Court of Cassation on civil case YAND / 0326/02/12 dated 05.04.2013.
+must send within a reasonable time.
+ However, there is a problem with the interpretation of the concept of "reasonable time".
+  In order to avoid spatial interpretation, the following approach is accepted in court practice. The court must fulfill its duty of notification in such a way that the person participating in the case has an objective opportunity to participate in the court session after being informed.
+  However, from the point of view of the protection of the legal rights of the person, the fact that after receiving the notification the person has the opportunity to properly prepare for the court session is very important.
+By the order N195-N of the Minister of Transport and Communication of the Republic of Armenia, control deadlines for the transfer of postal items in the Republic of Armenia were established .
+  According to that decision, the control terms of postal items in the Republic of Armenia are 11: in Yerkhanaghak, up to the border delivery time (delivery at the post office or before the last collection) + 1 day, in the regions, up to the delivery time + 3 days.
+Based on the above, it can be concluded that the court must take into account these deadlines when sending the notice (at least 2 days in Yerevan, 4 days in the regions).
+ Otherwise, there can be no question of a fair trial.
+In connection with this issue, we consider it necessary to refer to the legal regulation envisaged by the RA Administrative Procedure Code.
+In particular, point 5 of Article 63 stipulates: Notices shall be sent on the basis that their addressees are notified of the time or place of the court hearing or the execution of the court proceedings at least 5 days prior to their appearance at the hearing or during the proceedings12.
+We think that such a clarifying provision should be fixed in the CCP.
+As we have already mentioned, as a second method of notification, the legislation envisages the possibility of handing over the notification by hand.
+11 See the order N195-N of the Minister of Transport and Communication of the Republic of Armenia of 20.06.2005 "On determining the frequency of correspondence from mailboxes - setting the control deadlines for the passage of postal items", HHGT 2005.08.01 / 19 (196).
+12 See the RA Code of Administrative Procedure of 05.12.2013, ARPA 2013.12.28 / 73 (1013) .1.
+Pursuant to Article 78 կետ 8, the participants in the trial shall be orally notified by the court of the time and place of the next hearing, except in cases when the hearing is not recorded on a computer, in which case the court shall hear the next participant in the hearing. ծան Notifies about the time and place of the hearing after the end of the court session, handing over the court notice by hand.
+ The study of this article allows us to conclude that the following conditions are necessary for oral notification: • Presence of the participants in the trial, • Computer recording of the trial.
+In case all the participants of the trial are present at the court session, but the session is not recorded by computer, the notification shall be handed over to the participants of the trial after the end of the court session.
+  In this regard, the draft law "On Making Amendments to the Civil Procedure Code" stipulates that the participant in the trial present at the court session is notified about the time and place of the next court session by being notified by the judge at the given court session.
+  As we can see, this does not depend on the fact that the court session was recorded.
+ However, the above is not an imperative requirement. At the request of the participant of the trial submitted to the court session, the latter shall be notified about the time և place of the next court session by handing over the court notice by hand.
+ This is done through the court staff13.
+This method of notification is so effective that no third party is involved in the litigation relationship.
+ However, this can not be widely used, as it applies only to subsequent court hearings.
+ Besides, very often not all the persons participating in the case are present at the court session.
+In recent decades, scientific and technological advances have dramatically changed human life.
+  Naturally, that coup could not penetrate the socio-economic sphere, including the legal field.
+ In many foreign countries, the following technical means are used for operative notification of persons involved in the case.13 See Draft Law on Making Amendments to the RA Civil Procedure Code, http.
+//www.justice.am/legal/view/article/909 (as of 12.04.2016).
+• Internet notification (mainly by e-mail), • SMS notification 14.
+The current Code, in addition to traditional notification methods, allows the use of modern technology to inform persons involved in the work.
+  In the case of individuals, this only applies if the person voluntarily agrees to be notified in this way.
+ In particular, Article 78 9 9 stipulates: Based on the written request of the participant in the trial, the court notification may be made by telephone, short message or other means of electronic communication.
+  We think that the application of the concept of "telephone" can cause certain problems.
+ In particular, if the person involved in the case submits an application to receive the notification by telephone, it will be impossible for the court to do so, or at least it will require a lot of effort, as the device is currently unused, obsolete.
+For comparison, the draft law "On Making Amendments to the Civil Procedure Code" does not list the means of electronic communication.
+  In particular, it is mentioned that the participants of the trial can submit their means of communication to the court in writing, mediating to execute the notification through that.
+The regulation is different in the case of legal entities. Their notification is made in accordance with the RA Law on Public-Individual Notification via the Internet.
+  In this case, the notification shall be deemed appropriate if there is proof of receipt.
+ According to Article 10 of the Law, in cases provided for by law or other normative legal acts, when a personal notification is provided by e-mail, the person is considered duly notified even when the information was sent to the official e-mail address provided with the passport15.
+In fact, the law provides for the existence of a proper notification in the absence of evidence proving that the notified person has received the notification.
+  In this case, the presumption of notification applies.
+14 This method of notification is widely used in Italy, South Korea, and a number of US states.
+15 See RA Law of 09.04.2007 "On Public-Individual Notification via the Internet", ARPA 2007.05.16 / 25 (549).
+In the case of e-notification, problems may arise due to Internet access իրական the real possibility of using e-mail.
+ It is not possible to talk about the possibility of accessing the Internet in the Republic of Armenia, the possibility of using e-mail, taking into account the insufficient level of computer knowledge of the elderly, the legal restrictions on the possibility of using the Internet for certain groups.
+ According to the Information and Public Relations Department of the Ministry of Defense of the Republic of Armenia (dated 10.03.2014, 262 letters), there is no possibility to use the Internet for conscripts.
+  10.03.14 of the Penitentiary Department of the RA Ministry of Justice According to the letter No. 4014-659, detainees և convicts are prohibited from any means of telecommunication, although some penitentiaries have provided computer courses to teach convicts how to use the Internet, but they are not allowed to use e-mail because as a means of telecommunication 16.
+We should not underestimate another modern technical intervention in human life, allowing us to use its useful features in the administration of justice.
+  This refers to the mobile phone և the ability to send short messages with it.
+  Unlike Internet notification, it is a more accessible tool, as it is widely used by the population.
+ As an optional method of notification, the legislation provides for the possibility of notification via short message.
+ A short message is a set of letters կամ (or) symbols written in a certain order և intended for transmission over a mobile network.
+In order to find out the advantages and disadvantages of court notices via short message, we conducted an oral survey with one of the leading communication operators in Armenia, "ArmenTel" CJSC.
+  In particular, the following questions were posed by us: How long does it take for the sms message to reach the addressee?
+16 See Rationale on the Draft Law of the Republic of Armenia on Making Amendments to the RA Law on Public-Individual Notification via the Internet.
+Answer: up to 1 minute.
+Under what conditions can the sent sms not reach the addressee?
+Answer: in case the connection is bad, the phone number is disconnected, the inputs of the phone are full.
+How long are the messages stored in the archive?
+Answer. it is indefinite. You can see the sent and received messages in the computer at any time.
+Does the operator indicate whether the sms was received by the addressee or not?
+Answer. It is not mentioned in any way, և the operator cannot understand whether the person did not receive the message or the fact of receiving it in bad faith.
+In the case of e-mail, sometimes the message becomes spam. Is such a situation possible in case of short messages?
+Answer. Yes, depending on the phone model, such a thing is possible.
+What is the responsibility of "ArmenTel" CJSC in connection with sending and receiving short messages on time?
+Answer. In this regard, the employees of "ArmenTel" CJSC may be subject to disciplinary liability on the grounds of improper performance of duties.
+Based on the above survey, let's try to single out the features of this method of notification.
+  In particular, for the court we can mention the following positive aspects: • saving budget funds (tariffs in case of sms message are incomparably lower), • increasing the efficiency of the court process, • reducing the notice period, • speed of notification, • the message reaches the addressee, regardless of the fact; where he is at the moment, • even if the message is deleted, it is possible to confirm the fact of sending the message with the help of the communication operator.
+It has the following advantages for the citizen: • The message is sent directly to the recipient's personal phone, • It is more reliable because the message reaches the intermediary without it, • There is no need for internet connection, • Lack of communication with third parties (most citizens do not like postal couriers communication), • is done on a voluntary basis. If for some reason the other person does not want to be notified in this way, the traditional way of notification is made.
+As the only downside, we can mention the fact that sometimes the message may not reach the addressee.
+  In fact, the court properly fulfills its duty of notification, but the person is not notified.
+ In this case, as a solution can be defined, if after sending the notification to the mobile phone twice, no response is received, then the traditional way of notification should be made.
+This method of notification is not used in Armenian legal practice.
+ This is evidenced by the information received from "ArmenTel" CJSC, according to which such a function has never been performed through "ArmenTel" CJSC.
+  In fact, the provision enshrined in the law is not implemented in practice yet!
+Summing up the work, we can state that for the further development and improvement of the notification institute, it is necessary to make certain legislative changes.
+  In particular, taking into account the availability of technical means և availability, in the near future an attempt should be made to use the opportunities provided by modern technology in parallel with the traditional method of notification.
+Meline Margaryan ISSUES OF JUDICIAL NOTICE IN CIVIL PROCEDURE Keywords: court notices, proper notice, notice, electronic notice, registered letter, addressee, short message Summary.

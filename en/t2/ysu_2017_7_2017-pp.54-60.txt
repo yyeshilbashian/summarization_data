@@ -1,0 +1,492 @@
+Sci. Head: FM Ph.D., Assoc. R. Avetisyan Model description.
+A model of human choice is considered, where as an object of choice is an object for the acquisition of which there is a "consumer-to-consumer" ratio of the money incurred.
+  For example, if we consider the cost of purchasing food by a consumer with 1․000․000 significantly smaller unit assets (10 ppm) միջոց the means used in the case of a certain investment, we will see that the former is 0.001% of the consumer's assets, the latter - 10%.
+  The higher the ratio, the more information a person "needs" before he or she acquires a product or completes an action (such as investing).
+It is clear that the economic decisions made by people depend on certain restrictions.
+  The limitations used in this model are information, disposable assets, income, credit availability, time և subjective human limitations21.
+1. Information.
+  Before making a decision, a person needs certain information that relates to the objects of decision-making.
+  It is considered that certain expenses will be incurred in order to obtain unknown information (to find out the uncertainty or to dispel the subjective suspicions), in particular, money-time.
+  Here the philosophical understanding of the relationship underlying this approach is considered to be the cost of due diligence.
+  It is considered that the basis of human actions are opportunities, and the existence of limitations is the "volume" of opportunities.
+Absence decreases or increases or assumes implementation. Managed assets, in terms of potential. Except for the person performing (Due diligence cost22).
+ Proper prudence is a concept that refers to the necessary measures taken by a reasonable person before reaching an agreement to make a financial transaction with a second party.
+Investments due diligence Investigations և Audit to verify all facts, such as financial statements և material adopted.
+Some initiative is needed to obtain information that is available on the other side of the information.
+ It is assumed that the person evaluates the received information on the basis of his / her previous experience of knowledge.
+  The value և of the information received depends on the recipient.
+Credit income ասանAvailability 23.
+ In this model, in addition to income, other means owned by man are considered.
+ The reason is that a person can use them to acquire other assets, in case his income is not enough.
+  Certain expenses are incurred for the sale of the non-deductible asset.
+  First, you need to spend some money in the form of commissions, and then spend some time before that asset is sold.
+is that a person spends some time making the decision described in the model.
+ Time is spent on obtaining information.
+  It arises in the case of sale of less liquid assets.
+ Time can be spent implementing the decision.
+  For example, the purchase of an apartment, which leads to time costs associated with the registration of property rights.
+4. Human internal limitations.
+ As such, human preferences are considered, which, in fact, 22 Available here: http.
+//www.investopedia.com/terms/d/duediligence.asp23 Credit access is understood as the amount of possible credit expected by a person3. Time.
+  They are also supposed to be a limitation of 24.
+  These can have a profound effect on a person's decisions.
+It is considered that a person has certain preferences regarding the features of the object to be purchased.
+ It is assumed that the degree of quality of the features may be different for each person.
+ Assign (cid.
+2010) (cid.
+3037) the degree of the j-feature, where (cid.
+2010) (cid.
+3037) ∈ [0,1], how much (cid.
+2010) (cid.
+3037) is close to one, the more the feature is possible for a person, the more it has a greater influence on the decision made.
+In addition to the fact that a person evaluates features according to their ability, he has preferences among the elements that make up a feature.
+  Let y (cid.
+2920) attribute is described (cid.
+1877) (cid.
+3037) (cid.
+2869), (cid.
+1877) (cid.
+3037) (cid.
+2870),…, (cid.
+1877) (cid.
+3037) (cid.
+3041) in numbers.
+ We will write it briefly like this: (cid.
+1877) (cid.
+3037) = (cid.
+3419) (cid.
+1877) (cid.
+3037) (cid.
+2869), (cid.
+1877) (cid.
+3037) (cid.
+2870),…, (cid.
+1877) (cid.
+3037) (cid.
+3041) (cid.
+3423) Here y (cid.
+2920) (cid.
+2921) is a number: y (cid.
+2920) (cid.
+2921) ∈ [0,100], by which the human preference is classified y (cid.
+2920) between attribute elements.
+  For example, if y (cid.
+Let 2869) denote the set of colors, և assume that the data subject prefers green over red, and red over white և, then y (cid).
+2869) = {in the set 100,99.99,95,},, the first number will describe the color green, the second number - red, and the third - white և etc.
+It is possible that the object has only a part of the attribute elements.
+ To show it (cid.
+1864) (cid.
+3037) (cid.
+3038) denote the presence or absence of the k-element of the j-feature in the possible variants (in the objects to be purchased).
+ In this model, it is considered that the object can have only one of the attribute elements.
+ Mathematically, this means that Suppose a person makes his choice among many objects.
+  Each of these objects has a set of attributes that the other objects have.
+24 It is assumed that the period observed in the model is not long enough to lead to a change in people's preferences.
+  For this reason, preferences are accepted as unchanged in this model.
+(cid.
+1864) (cid.
+3037) (cid.
+3038) ∈ {0.1} (cid.
+3040) (cid.
+3038) (cid.
+2880) (cid.
+2869)
+(cid.
+1864) (cid.
+3037) (cid.
+3038)
+The object is identified by the elements of these attributes.
+  Denotes that (cid.
+1864) (cid.
+2869) (cid.
+3028) (cid.
+1864) (cid.
+2870) (cid.
+3029) (cid.
+1864) (cid.
+2871) (cid.
+3030)… (cid.
+1864) (cid.
+3041) (cid.
+3053) = 1.
+Consider the following example. There are 3 attributes - the object corresponds to those attributes - the elements (cid).
+1864) (cid.
+2869) (cid.
+2869), (cid.
+1864) (cid.
+2870) (cid.
+2873), (cid.
+1864) (cid.
+2871) (cid.
+2876).
+ It turns out that l (cid.
+2869) (cid.
+2869) l (cid.
+2870) (cid.
+2873) l (cid.
+2871) (cid.
+2876) = 1.
+Let us now consider a function that describes the presence of an element in the j-attribute of an object.
+(cid.
+1861) (cid.
+3037) = (cid.
+1864) (cid.
+3037) (cid.
+2869) (cid.
+1877) (cid.
+3037) (cid.
+2869) + (cid.
+1864) (cid.
+3037) (cid.
+2870) (cid.
+1877) (cid.
+3037) (cid.
+2870) + ⋯ + (cid.
+1864) (cid.
+3037) (cid.
+3041) (cid.
+1877) (cid.
+3037) (cid.
+3040) For a specific object (which contains the c-element of the j-attribute), this function will take the following form: (cid).
+1861) (cid.
+3037) = (cid.
+1864) (cid.
+3037) (cid.
+3030) (cid.
+1877) (cid.
+3037) (cid.
+3030) = (cid.
+1877) (cid.
+3037) (cid.
+3030) based on conditions (1) և (2).
+In essence, for all attributes we get ․ (cid.
+1847) = (cid.
+2010) (cid.
+2869) (cid.
+1861) (cid.
+2869) + (cid.
+2010) (cid.
+2870) (cid.
+1861) (cid.
+2870) + ⋯ + (cid.
+2010) (cid.
+3040) (cid.
+1861) (cid.
+3040) eWhere (cid.
+1847), the function of its utility.
+  The one that has the maximum usefulness will be chosen from the accepted options.
+Again about the restrictions.
+  Information, time, money և internal limitations of a person were considered.
+  The latter conditioned the utility function.
+ The first monetary cost is the cost of acquiring the property և accompanying costs (for example, state fees required for real estate ownership).
+ Let us denote the monetary expenditure by M.
+assumes the costs of obtaining information, which have a monetary expression 25.
+The study of time expenditure within the data model concludes that it can also be measured in monetary terms.
+ There is an alternative cost over time expenditure in the form of unearned interest income, which is expressed as a present value of the amount to be invested or discounted over a period of time (if the purchase process is completed at the same time, there is a discount problem).
+25 The model assumes that information costs are certain predictable (expected) human costs that need to be met after an objective selection.
+  And the initial selection is made on the basis of the features of the object, which are known in advance.
+Registration of the rightInformation constraint on the Etienne model of other information activities I: information expenses, denominated assets, assets, income և credit availability, E, and interest rate: r (considered simple interest rate)
+2011) is a coefficient that indicates the share of human property that is intended to be spent to acquire a given object.
+  The result will be the following model (cid).
+1847) = (cid.
+2010) (cid.
+2869) (cid.
+1861) (cid.
+2869) + (cid.
+2010) (cid.
+2870) (cid.
+1861) (cid.
+2870) + ⋯ + (cid.
+2010) (cid.
+3040) (cid.
+1861) (cid.
+3040) → (cid.
+1865) (cid.
+1853) (cid.
+1876) (cid.
+1839) + (cid.
+1835) ≤ (cid.
+2011) (cid.
+1831)
+1+ (cid.
+3045) (cid.
+3047)
+(cid.
+2871) (cid.
+2874) (cid.
+2873)
+(cid.
+1864) (cid.
+3036) (cid.
+3037) = {0,1} (cid.
+1839) + (cid.
+1835) ≤ (cid.
+2011) (cid.
+1831)
+1+ (cid.
+3045) (cid.
+3047)
+(cid.
+2871) (cid.
+2874) (cid.
+2873)
+The model observes that the selection is made from a number of objects that are known in advance.
+ As mentioned above, objects are identified by their group attributes, which are considered in the model.
+Consider two objects about which information is presented below. Object 1 Object 2 (3) The constraint will look like 0 <(cid).
+1864) (cid.
+2869) (cid.
+3028) (cid.
+3117) (cid.
+1864) (cid.
+2870) (cid.
+3028) (cid.
+3118) (cid.
+1864) (cid.
+2871) (cid.
+3028) (cid.
+3119)… (cid.
+1864) (cid.
+3041) (cid.
+3028) (cid.
+3301) ((cid.
+1839) (cid.
+2869) + (cid.
+1829) (cid.
+2869)) + (cid.
+1864) (cid.
+2869) (cid.
+3029) (cid.
+3117) (cid.
+1864) (cid.
+2870) (cid.
+3029) (cid.
+3118) (cid.
+1864) (cid.
+2871) (cid.
+3029) (cid.
+3119)… (cid.
+1864) (cid.
+3041) (cid.
+3029) (cid.
+3301) ∗ ((cid.
+1839) (cid.
+2870) + (cid.
+1829) (cid.
+2870)) ≤:
+Identifier (cid.
+1864) (cid.
+2869) (cid.
+3028) (cid.
+3117) (cid.
+1864) (cid.
+2870) (cid.
+3028) (cid.
+3118) (cid.
+1864) (cid.
+2871) (cid.
+3028) (cid.
+3119)… (cid.
+1864) (cid.
+3041) (cid.
+3028) (cid.
+3301) = 1 (cid.
+1864) (cid.
+2869) (cid.
+3029) (cid.
+3117) (cid.
+1864) (cid.
+2870) (cid.
+3029) (cid.
+3118) (cid.
+1864) (cid.
+2871) (cid.
+3029) (cid.
+3119)… (cid.
+1864) (cid.
+3041) (cid.
+3029) (cid.
+3301) = 1 Expenses (cid.
+1839) (cid.
+2869), (cid.
+1829) (cid.
+2869), (cid.
+1872) (cid.
+2869) (cid.
+1839) (cid.
+2870), (cid.
+1829) (cid.
+2870), (cid.
+1872) (cid.
+2870) Restriction here (cid.
+3082) (cid.
+3006)
+(cid.
+2869) (cid.
+2878) (cid.
+3293) (cid.
+3295)
+(cid.
+3119) (cid.
+3122) (cid.
+3121)
+where (cid.
+1872) = (cid.
+1872) (cid.
+2869) ∗ (cid.
+1864) (cid.
+2869) (cid.
+3028) (cid.
+3117) (cid.
+1864) (cid.
+2870) (cid.
+3028) (cid.
+3118) (cid.
+1864) (cid.
+2871) (cid.
+3028) (cid.
+3119)… (cid.
+1864) (cid.
+3041) (cid.
+3028) (cid.
+3301) + (cid.
+1872) (cid.
+2870) ∗ (cid.
+1864) (cid.
+2869) (cid.
+3029) (cid.
+3117) (cid.
+1864) (cid.
+2870) (cid.
+3029) (cid.
+3118) (cid.
+1864) (cid.
+2871) (cid.
+3029) (cid.
+3119)… (cid.
+1864) (cid.
+3041) (cid.
+3029) (cid.
+3301) indicates the fact that the choice between the two objects will be mandatory.
+ This is stated in order for the model to describe what choice will be made if the modeling entity decides to choose between the objects, taking into account the characteristic և cost characteristics of the objects.
+Let A be designated (cid.
+1864) (cid.
+2869) (cid.
+3028) (cid.
+3117) (cid.
+1864) (cid.
+2870) (cid.
+3028) (cid.
+3118) (cid.
+1864) (cid.
+2871) (cid.
+3028) (cid.
+3119)… (cid.
+1864) (cid.
+3041) (cid.
+3028) (cid.
+3301) ((cid.
+1839) (cid.
+2869) + (cid.
+1829) (cid.
+2869)) + (cid.
+1864) (cid.
+2869) (cid.
+3029) (cid.
+3117) (cid.
+1864) (cid.
+2870) (cid.
+3029) (cid.
+3118) (cid.
+1864) (cid.
+2871) (cid.
+3029) (cid.
+3119)… (cid.
+1864) (cid.
+3041) (cid.
+3029) (cid.
+3301) ∗ ((cid.
+1839) (cid.
+2870) + (cid.
+1829) (cid.
+2870)) expression.
+The final look of the model will be as follows: (cid.
+1847) = (cid.
+2010) (cid.
+2869) (cid.
+1861) (cid.
+2869) + (cid.
+2010) (cid.
+2870) (cid.
+1861) (cid.
+2870) + ⋯ + (cid.
+2010) (cid.
+3040) (cid.
+1861) (cid.
+3040) → (cid.
+1865) (cid.
+1853) 0 <(cid.
+1827) ≤ (cid.
+2011) (cid.
+1831)
+1+ (cid.
+3045) (cid.
+3047)
+(cid.
+2871) (cid.
+2874) (cid.
+2873)
+(cid.
+1864) (cid.
+3036) (cid.
+3037) = {0,1} (cid.
+3040)
+(cid.
+3533) (cid.
+1864) (cid.
+3037) (cid.
+3038)
+(cid.
+3038) (cid.
+2880) (cid.
+2869)
+(cid.
+4680) (cid.
+1864) (cid.
+2869) (cid.
+3028) (cid.
+3117) (cid.
+1864) (cid.
+2870) (cid.
+3028) (cid.
+3118) (cid.
+1864) (cid.
+2871) (cid.
+3028) (cid.
+3119)… (cid.
+1864) (cid.
+3041) (cid.
+3028) (cid.
+3301) = 1:
+(cid.
+1864) (cid.
+2869) (cid.
+3029) (cid.
+3117) (cid.
+1864) (cid.
+2870) (cid.
+3029) (cid.
+3118) (cid.
+1864) (cid.
+2871) (cid.
+3029) (cid.
+3119)… (cid.
+1864) (cid.
+3041) (cid.
+3029) (cid.
+3301) = 1 As a result of solving the problem 26 we get n pieces (cid.
+1864), which are equal to one.
+  They describe one of the objects observed in the model.
+  That object is the consumer choice.
+The model can be used if the differentiated products do not require time consumption or they are very small.
+ In this case, the quantities describing time և information costs will be removed from the model.
+Ghazaryan Amasya I-MT MODEL Keywords - consumer choice, preferences, economic behavior of people, restrictions.

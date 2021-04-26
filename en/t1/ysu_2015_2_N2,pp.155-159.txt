@@ -1,0 +1,46 @@
+INVESTIGATION OF DIALECTRIC MATERIALS PARAMETERS IN FINAL TERMINATIONIntroduction.
+  The terahertz (THz) range of electromagnetic waves, which lies between millimeter և infrared bands (1THz = 1012Hz), is extremely attractive and promising for a variety of applications.
+ This is due to the fact that the molecular absorption lines of many materials are in this frequency range, in addition, THC radiation penetrates through non-metallic materials (fabrics, plastics, suitcases, etc.), which allows to detect hidden objects.
+Thus, ICT waves can be used in security և military arenas to detect explosive, toxic և other substances, to differentiate their composition, in biomedicine to diagnose and treat various diseases (particularly cancer), and so on.
+THC spectroscopy is also used in industry to check product quality.
+In these areas, THC waves are primarily used to investigate the main parameters characterizing the properties of materials of interest: dielectric permeability և absorption coefficient.
+By comparing the resulting ICT image with a previously known ICT spectroscopic image, it is possible not only to detect hidden objects, but also to identify them.
+Dielectric permeability of materials և absorption coefficient are regulated by frequency.
+ By studying these dependencies, one can get a valuable idea of ​​the electrical properties of materials.
+In this work, the refractive indices and absorption coefficients of polyethylene paper have been investigated.
+ Such studies are necessary because paper թը polyethylene film is very convenient to use as a base for different types of varnishes և combination materials, which are widely used in electronic systems.
+  The dielectric parameters of the materials can already be measured by placing the materials of interest on a paper-based polyethylene base, if the parameters of the base are known in advance.
+The studies were performed in the terahertz (THz) band using a time domain THZ spectrometer [1-4].
+  Having the temporal appearance of the irradiated Hz field, the frequency spectrum of the field can be obtained by means of Fourier transform.
+  By measuring և comparing THC pulse spectra in the presence of the sample under study դեպքում in its absence, we can calculate the sample  dielectric permeability, n refractive index և α absorption coefficient α over the entire range of THC frequencies.
+ If we assume that the THz wave on the sample falls perpendicular to the surface of the sample and the surface is fairly smooth, then using the Fresnel-known formulas we obtain the sample K (ω) complex for the transfer coefficient. Where ω is the angular frequency, the spectral electric field voltage ,
+ The THC beam passed through the sample is the thickness (thickness) passed through the air (without the sample), and c is the speed of light propagation.
+is the complex refractive index of the sample, d is the equation of the sample (1) and can be represented as follows: where n is the modulus, n is the phase, and α is the absorption coefficient of the sample.
+Given that the absorption of samples is due to-, if the absorption is quite small (which is highly desirable to use the sample as a basis), then with.
+  By doing that substitution, we can get: Thus, having the changes և of the amplitudes of the phase fields of the registered fields, we can determine the dielectric parameters of the sample: n, α ն.
+Description of experimental equipment արդյուն Experimental results.
+  Experiments of paper և polyethylene film և absorption coefficients were investigated by means of a time domain THZ spectrometer.
+ The block diagram of the experimental equipment is shown in Fig. In 1 [5].
+  Here, broadband THC radiation is obtained by converting ultra-short optical pulses.
+  The source of optical radiation is the femtosecond laser, which delivers at a frequency of 80 fW, with a frequency of 12 Nps (frequency of 80 MHz)) 1.8 W pulses with an average power.
+ The radiated wavelength can be banded in the range of 710-950 nm.
+Passing through the photoresist plate, most of the optical radiation (96%) is directed to the surface of the InAs crystal, and 4% is used as the probe for the terahertz pulse field detector (TIDGD).
+Laser radiation creates electron-hole pairs on the surface of the InAs crystal, due to the fact that the mobility of the electrons is significantly greater than the mobility of the holes, a diffusion current perpendicular to the surface of the crystal is emitted by the broadband IH pulse.
+  A pair of metal parabolic mirrors are used to collect the irradiated HH beam and then focus on the TIDGD.
+  The THF radiation, passing through a silicon lens, focuses on a symmetrical dipole antenna (45 μm) located on the opposite surface of a thin layer of GaAs grown at low temperatures.
+  The effect of the THz pulse creates a potential difference at the ends of the antenna, which will generate current in the antenna only when the antenna is simultaneously irradiated with the optical pulse, generating free charge in the semiconductor layer.
+ Thus, by modifying the moment when the laser probe pulse falls on the antenna through the optical delay line, it is possible to measure the instantaneous values ​​of the THC pulse field միջոցովwith them point-by-point construct the temporal appearance of the pulse.
+  Then, by performing a furious fast change, one can also get its spectrum.
+Figure 1. Experimental equipment block diagram During the experiments, the displacement of the laser probe pulse optical delay line mirrors was selected to be 11.35 mm, which was performed in 1024 steps (each step was 11.1 μm).
+  In this case the delay step is ∆ t = 2∆l / c≈7 × 10-14 seconds.
+ First the THC field was registered without a sample, then the sample was placed between the two parabolic mirrors, and the THC field was registered again.
+Based on the measurement results, the refractive indices and absorption coefficients of the samples were calculated according to Equations (3) and (4).
+ The calculations will be done with the help of Origin program.
+Graphs of frequency dependence of refractive indices of paper ոլ polyethylene samples are presented in Fig. In 2, and in fig. Figure 3 shows the frequency dependencies of the absorption coefficients of the same samples.
+Fig. 2. Dependence of refractive index on frequency. 3. Dependence of absorption coefficient on frequency Conclusion.
+ In the work, the refractive index (dielectric permeability) of the paper ոլ polyethylene film և the absorption coefficient in the frequency range of 0.2-2.5 TH were studied by means of a time-range THC spectrometer.
+The value obtained for the paper refractive index at the frequency of 1.5 THz: nt = 1.4928 (t = 2.22), ը The value obtained for the polyethylene film at the frequency of 2Thz: nh = 1,603 (h = 2.56), as the simplified results of the absorption coefficients: αt = 1 , 0428 × 102 mm -1 և α h = 3.4762 × 102 mm -1 correspond to the data known from the literature.
+The results obtained can be used to measure the electrical parameters of different types of varnishes, composites, as well as various liquid-adhesive materials.
+Literature 1. Khachatryan K., Radiation of terahertz waves in non-linear structures by means of different frequency generation and optical correction, dissertation, Yerevan, 2008.
+3. Hangyo M., Tani M., Nagashima T., Terahertz time-domain spectroscopy of solids.
+ a review, Gheorg Abgaryan DIALECTRIC MATERIALS PARAGRAPH RESEARCH Keywords: refractive index, absorption coefficient, spectroscopy.

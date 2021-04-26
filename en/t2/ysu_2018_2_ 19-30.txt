@@ -1,0 +1,111 @@
+FEATURES OF THE FACTORING AGREEMENT 1998 A new type of contract was introduced under Chapter 48 of the RA Civil Code, which was financed (factoring).
+This type of contract was a novelty in the legal reality of the Republic of Armenia.
+In contrast to the domestic experience, the factoring agreement is widespread in the practice of foreign countries.
+The beginning of the legal regulation of factoring can be considered in 1963, when the US government body overseeing the circulation of money officially recognized factoring transactions as a legal form of banking.
+ Such transactions began in Europe in the 60s of the 20th century.
+ They became more widespread in the 80s. recently.
+ However, special provisions on the legal regulation of the factoring agreement are not found in the legislative sources of all countries.
+  These are contained in the Civil Code of the Russian Federation, the Banking Code of the Republic of Belarus, and the Civil Codes of other CIS countries adopted on the basis of the CIS Model Code.
+  The picture is different in other countries.
+  The basis for the legal regulation of the factoring contract is the principle of freedom of contract, which is combined with the institution of property, the contract of sale, the waiver of the right of claim, the securing of obligations, the norms of legal regulation of securities and their equivalent documents.
+At the same time, the customs of business circulation play an important role in the legal regulation of the factoring agreement.
+ Thus, the International Factoring Chain (FCI), the leading global network of factoring companies in 2010. Adopted the "International Factoring Guidelines", which are guidelines for concluding and enforcing a factoring agreement, are widely used in international factoring relations.
+ The factoring organizations, which are members of the international factoring chain, numbering more than 100 [1] and are spread all over the world, operate mainly under the International Factoring Guidelines.
+The RA Civil Code, as mentioned, envisages a financing (factoring) contract in exchange for a concession of a monetary claim as a separate type of contract.
+According to Article 892, Part 1 of the Civil Code of the Republic of Armenia, “one party (financial agent - factor) in the financing agreement for the concession of the monetary claim transfers to the other party (client) or is obliged to transfer funds at the expense of the client (creditor) from a third party ( from the debtor) a monetary claim arising from the client arising from the provision of goods, works or services to a third party, and the client concedes or undertakes to concede that monetary claim to the financial agent.
+The client may owe money to the debtor to the financial agent in order to ensure the fulfillment of his obligations to the latter.
+It is clear from the wording of Part 1 of Article 892 of the RA Civil Code that the concession of the right of claim is of key importance for the factoring agreement.
+  The ratio of the waiver of the right of claim (Chapter 25 of the RA Civil Code) to the waiver of the claim within the framework of the factoring agreement has been widely discussed in the legal literature.
+Ն. According to Agafonova, the financing agreement for the concession of the monetary claim is a mixed agreement, as it combines elements of a loan agreement.
+  The rules governing cession relationships apply to the waiver of a claim under a factoring agreement in the same way that the rules of the general part apply to legal relationships governed by the special part without an appropriate reference, unless otherwise provided by special rules.
+E. A. According to Sukhanov, factoring relations are more complex than a simple cession, as they are combined not only with lending, but also with the possibility of providing other financial services.
+ Therefore, this contract should not be considered as a type of cession.
+Մ. I. Braginsky notes that the Civil Code does not provide for a separate type of assignment agreement; նորմ regulates the norms governing the right of assignment relationship (Chapter 25 of the RA Civil Code) as general provisions on cession, which may arise on the basis of various transactions. Such transactions may include financing in exchange for a monetary claim.
+L. According to Chegovadze, the financing agreement for the concession of a monetary claim is an independent legal institution.
+Agreeing with L. However, we can not ignore Chegovadze's assertion that factoring is an independent legal entity, that concession of the right to claim occupies a key place in that legal structure.
+ This is evidenced by the title of the contract under discussion - "financing in exchange for a concession of monetary claim", as well as Article 892 of the RA Civil Code.
+ From the wording of that article it can be concluded that the concession of the monetary claim is the cornerstone of the factoring agreement.
+ If there is no concession of the monetary claim, then the relationship between the parties can not be qualified as factoring.
+ We can make an inference from this. A factoring contract is a special type of contract consisting of several elements.
+ One of these elements is the concession of the monetary claim, which is characterized by special features within the framework of the factoring agreement.
+  With some peculiarities, which are enshrined in Chapter 48 of the RA Civil Code, the concession of the claim made within the framework of the factoring agreement is a kind of cession provided by Chapter 25 of the RA Civil Code.
+ This assertion is substantiated by the fact that the legislations of the countries having a Romano-Germanic legal system (most of them) do not have separate rules governing the relations arising under the factoring agreement, which regulate those relations by general principles of law, norms regulating the assignment of a claim.
+In our opinion, by analogy, an analogy can be used to determine the ratio of a claim for a right of way under a factoring transaction.
+ Thus, just as the provisions of the norms of Chapters 28, 29, 30 of the RA Civil Code are applicable to certain types of contracts, so the norms of waiver of the right of claim provided for in Chapter 25 of the RA Civil Code are applicable to the financing (factoring) contract. towards.
+ With such an approach, in our opinion, neither the significance of the factoring agreement is diminished, nor the fact that it is an independent structure is questioned.
+ At the same time, it is taken into account that within the framework of the factoring agreement a waiver of the right of claim is made, which, however, by the nature of the factoring agreement, has features և differs from the waiver of the right of claim provided for in Chapter 25 of the RA Civil Code.
+ All of the above does not mean that factoring can be equated with a waiver of the right to claim.
+The main difference between a factoring contract and a cession is that factoring is designed to meet the needs of business entities.
+ This contract is a business contract [6].
+ It is concluded when the business entity has provided the contractor with the opportunity to provide goods, work, services in installments, but does not have the available funds to ensure the continuity of its activities, product launches, work performance or service delivery.
+  In this case, the entity engaged in business activities has outstanding receivables.
+ Factors are involved in purchasing receivables from such businesses.
+  The invoice provides the entrepreneur (customer) with a concessional receivable, which allows the entrepreneur to continue its business without interruption, and the invoice receives the funds provided to the entrepreneur from the entrepreneur's debtor when the debtor fulfills the deferred payment obligation.
+  As a rule, the factors pay 90% of the price of the receivables, not 100 (90% of which is indicated conditionally; different factors can set different amounts).
+ The remaining part of the price of the sold receivables, after keeping the amount of the remuneration conditioned for it, the invoice pays to the customer after receiving the fulfillment of the obligation from the debtor in full.
+ It turns out that as a result of this process, the customer receives at least 98% of the receivable price instead of 100, 1, and 2% is kept by the factor as a payment for the services provided.
+The peculiarity and characteristic feature of the factoring agreement is continuity.
+ This contract is not concluded to give up the right to one claim in order to receive one-time financing, but in countries with developed factoring markets, the factor-customer relationship is of a local nature.
+ This means that the customer continuously transfers the receivables arising during his activity to the factor, receiving financial means from him.
+  In factoring contracts, such as the remuneration for its services, which is deducted from the amount owed to the customer (above), it 1 Different factoring companies charge different amounts for their services at the rate of 2-10% of the value of the receivables.
+ Therefore, it is not possible to specify the final amount to be received for the receivables sold by the customer.
+as well as the amount of money that can be received from the debtor.
+ Thus, if the debtor does not fulfill his payment obligation within the established period, penalties are accrued on that obligation, then the amounts of those penalties are transferred to the factor, if a factoring agreement has not been concluded to ensure the fulfillment of the obligation (such assertion follows Article 899 of the RA Civil Code).
+In the event that a business entity's receivables, which is one, does not need ongoing financing, that business entity may enter into a paid cession agreement.
+ In this case, the concession contract will be more profitable for the assignor, as he will receive the full value of his receivables at once, not in installments.
+Transferring receivables to factoring is a good way to optimize your business.
+  According to the RA Civil Code, however, there are cases when the customer does not transfer the function of managing his receivables to the factor.
+  Thus, according to Article 892, Part 2 of the RA Civil Code, "The financial agent's obligations under the financing agreement for monetary receivables may include accounting for the client, as well as providing the client with other financial services related to monetary receivables."
+In the above-mentioned article, the phrase "may include" indicates that according to the RA civil legislation, the transfer of the customer's receivables management function to the invoice is not an essential condition of the factoring agreement.
+ Without a receivable, the factoring agreement of the management element is more like a cession transaction.
+ As a result of the comprehensive analysis of the essence of the factoring institute, Part 2 of Article 892 of the Civil Code of the Republic of Armenia, we find that the customer's receivables management function should be imperatively provided to the factor.
+ This refers not to all receivables of the customer, but to receivables related to the factoring under the factoring contract.
+ This proposal is based on the experience of countries with developed factoring markets.
+ Abroad factoring functions are more widely understood, և financing is not its only function.
+ Moreover, the purchase of a claim may be made not so much for financing as to protect the seller from evading payment by the buyer.
+The financial agent acquiring the receivables from the customer should be interested in assuming such liabilities, which enables him to exercise control over the customer activity (in terms of receivables) and the solvency of the debtors [10].
+ This feature is one of the most important differences between a factoring contract cession.
+ If the factoring agreement does not provide for the financial agent's obligation to provide accounting or other financial services to the client, the factoring agreement is the same as a compensable cession.
+In addition to the above, the obligation of the factor to provide accounting and other financial services to the customer, by imperatively envisaging the content of the factoring agreement given by the RA Civil Code, will be closer to the concept and content of the international factoring agreement. reflects the content of the factoring relationship.
+Based on the above, we propose to rewrite Part 2 of Article 892 of the RA Civil Code as follows: "Financial agent obligations under a financing agreement for a monetary claim include accounting for the right of the client to be the subject of the claim, as well as the provision of other financial services related to the right of the claim."
+In order to find out the essence of the factoring agreement, it is possible to consider the fact that the waiver of the claim within the framework of the factoring agreement
+ In Articles 892-898 of the RA Civil Code, the legislator mentions the waiver of the claim, and Article 899 stipulates: «1. If, under the terms of the financing agreement, the client is financed by the financial agent by purchasing the claim from the client, the financial agent acquires the right to the full amount he will receive from the debtor to fulfill the claim, and the client is not liable to the financial agent. , that the amount received by the latter was less than the price at which the agent obtained the claim.
+2. If the monetary claim has been conceded to the financial agent in order to secure the fulfillment of the customer's obligation, և otherwise provided by the financing agreement for the concession of the claim, the financial agent shall submit a report to the client and hand over the part of the debt secured by the client.
+ If the funds received by the debtor from the financial agent are less than the amount of the debt secured by the client's demand for the financial agent, the client is liable for his debtor's to the financial agent. ”
+After the combination of Articles 892 և 899 of the RA Civil Code, it follows that in the case of a simple factoring contract provided for in paragraph 1 of Part 1 of Article 892 of the RA Civil Code, there is a purchase of the customer's right of claim by the factor.
+ The similarity does not contradict the RA civil legislation, as according to Article 132 of the RA Civil Code "The objects of civil rights are: 1) property, including funds, securities - property rights."
+  The right of claim, as a property right, can be alienated from one subject of civil law circulation to another.
+The right of claim, alienating the client from the financial agent, enters into his property.
+ Therefore, the financial agent, as the holder of the right of the transferred claim, bears the obligation to service the right of that claim, that is, to assess the risks of non-fulfillment of that receivables, to delay so that the debtor fulfills his payment obligation and performs another service.
+The RA Civil Code envisages two bases of a financing agreement for the concession of a monetary claim: the first is the concession of a monetary claim to a financial agent for the purpose of financing, when there is no obligation between the client և financial agent և gives way to the right of monetary demand as a means of securing an obligation.
+Such a reality derives from Article 368 of the RA Civil Code, according to part 1 of which "Fulfillment of obligations may be secured by pledge (Chapter 15), penalty, custody of the debtor's property, guarantee, guarantee, prepayment, by law or by contract".
+In fact, the concession of the monetary claim as a means of securing the obligation is a means of securing the fulfillment of the obligation provided by law.
+ The question arises what are the features of this means of securing the fulfillment of the obligation.
+When dealing with security factoring, provided for in Article 892, Part 1, Part 2 of the RA Civil Code (hereinafter referred to as insurance factoring), the right of the customer's claim acts as a means of securing the fulfillment of his obligation to the financial agent. The right does not pass into the property mass of the factor.
+ In this case, however, we find that the factor is obliged to service the right of that claim, as the right of the conceded claim ensures the fulfillment of the customer's obligation to the factor.
+ In other words, in the case of security factoring, if the customer does not fulfill or does not properly fulfill his obligation to the invoice, the factor gets the opportunity to satisfy its claim by means of collateral, therefore, the factor itself must be interested in assessing the legal risks of the transferred claim. to perform the service.
+Referring to the types of contracts defined in Part 1 of Article 892 of the RA Civil Code, the monetary claims arising from which may be conceded to the factor by a financing (factoring) contract in exchange for the concession of the monetary claim, we find that the current wording provided by the RA Civil Code is subject to change.
+ This is due to the fact that the phrase "providing goods, performing work or providing services to a third party" given in part 1 of Article 892 of the RA Civil Code, in our opinion, is general, not clear, which does not allow a correct, complete get an idea of ​​the essence of the factoring agreement.
+Thus, as already mentioned, pursuant to Article 1 2 2 և 3 of the Ottawa Convention, a customer under a factoring contract makes a factoring concession under a sales contract (concluded for non-personal, family, household or other similar purposes). The right to demand arises, and by "goods" և "sale of goods" is meant "services" and their provision.
+Meanwhile, the wording of Part 1 of Article 892 of the RA Civil Code creates the opinion that a factoring contract can be concluded by giving up the right to a monetary claim arising from any contract for the provision of goods, work or services, regardless of whether the contract was commercial or consumer. for purposes.
+ From this point of view, the expression "to supply goods" is very general.
+  From such an arrangement, it can be assumed that the right to a monetary claim arising from a paid insurance contract may be transferred in exchange for financing under the factoring agreement.
+  This directly contradicts the factoring agreement.
+  In order to remedy such a situation, we propose to rewrite Part 1 of Article 892 of the RA Civil Code as follows: “In the financing agreement for the concession of the monetary claim, one party (financial agent - factor) hands over to the other party (client) is obliged to hand over funds at the expense of The monetary claim of the customer (creditor) from a third party (debtor) arising from the sales, supply or payment contracts concluded by the business client with the third party, and the customer concedes or undertakes to concede that monetary claim to the financial agent.
+The client may owe money to the debtor to the financial agent in order to ensure the fulfillment of his obligations to the latter.
+The replacement of the word "creditor" with the word "creditor" in the phrase "at the expense of the customer (creditor)" in the proposed wording of Part 1 of Article 892 of the RA Civil Code is of significant importance [11], as it clarifies the legal act, which corresponds to The requirement of Article 36 of the RA Law on Legal Acts states that "The language of legal acts must be clear, clearly" accessible ".
+ According to the current wording, the phrase "at the expense of the customer (creditor)" causes a misunderstanding, because in the factoring contract the customer acts not as a creditor, but as a borrower.
+  However, after the word "customer" is enclosed in parentheses, after the literal interpretation of that norm, it follows that in a legal relationship arising under factoring contracts, the customer acts as a creditor, which does not correspond to the essence of that relationship.
+ Besides, according to Article 887 of the RA Civil Code, the lender can be either the bank or the credit organization, while under the factoring agreement any entity engaged in business activity can act as a customer.
+ The mentioned circumstances, in our opinion, mean that the current wording of paragraph 1 of Part 1 of Article 892 of the Civil Code of the Republic of Armenia lacks legal certainty.
+LITERATURE [1] Fédération Cynologique Internationale, URL.
+ www.fci.nl (Accessed:
+ 25.09.2017). [3] Russian civil law.
+  Textbook, edited by Suhanova E. А., том 2, [6] Barseghyan T. K., Business Law, Yerevan, YSU Publishing House, 2009, pp. 261-267.
+[7] URL.
+  https:
+//www.factoring.org/documents/Factoringarticle.pdf (medium business data, Vedomosti 19.11.2013 URL.
+ http:
+//www.factorings.ru/article/141/Компания, 26.11.2013 г. URL.
+ www.factorings.ru (data dated 05.05.2015). [11] Barseghyan T., Haykyants A., Gharakhanyan G., Meghryan S., Civil Law of the Republic of Armenia, Part 2, Second Edition, with changes and additions, Yerevan, YSU Publishing House, 2008, p. 412.
+Peculiarities of Avetisyan ANFACTORING CONTRACT Keywords: financing, financial agent, cession transaction, security factoring, waiver of the right to claim.

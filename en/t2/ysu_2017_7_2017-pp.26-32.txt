@@ -1,0 +1,51 @@
+Sci. Head: Ph.D., Prof. Մ. Sahakyan: The banking system remains, which accounts for 88.4% of the financial system assets25.
+  There is a lot of competition between commercial banks in terms of gaining the trust of investors and attracting customers.
+  This forces the banks to operate in the market as efficiently as possible.
+  On the other hand, the low efficiency of the banking system, with a low rate of economic growth.
+  The efficiency of banks is connected with the welfare of the population.
+  In addition, an efficient banking system helps to strengthen the effectiveness of the country's macroeconomic policy.
+The low efficiency of banks can ultimately lead to the introduction of financial services.
+ Thus, taking into account the potential of commercial banks, the necessary efficiency process of banks.
+It is a rather complicated analytical problem.
+  The DEA (Data Envelopment Analysis) method 26 was used in this paper.
+  It is a measurement technique based on a set of selected resources և results given to so-called decision-making units (DMUs), which are compared with each other within the DEA.
+25 https.
+//www.cba.am/AM/pperiodicals/fin_stab_16_1.pdf Comparative efficiency Evaluation of banks' efficiency becomes evaluation The CCR model is one of the main models used by DEA.
+  The model is presented as a linear programming problem as follows: xij - i is the amount of resource used by the 7th DMU output yrj - r is the output of the 7th DMU, ​​the weight of ur - r - flow, vi - i - the weight of input.
+This is a matter of orienting the results.
+ ho interprets as an efficiency rating (0≤ho * ≤1). ho * = 1 case represents full efficiency, and if ho * <1, then there is inefficiency.
+ The optimal values ​​of the weights ur *, vi * show the weight of each factor in ensuring the data level of efficiency.
+1. Evaluating the efficiency of commercial banks in the Republic of Armenia using the DEA CCR model is the DEA CCR model for measuring the relative efficiency of commercial banks operating in the Republic of Armenia.
+ The goal is to understand how efficiently banks operate towards each other, that factors play a major role in ensuring this level of efficiency.
+When calculating the relative efficiencies of RA commercial banks, we relied on a mechanical approach27. The bank is viewed from the point of view of work, capital deposits, loans, securities, bank efficiency from the point of view of expenses, income management.
+The structure of expenses has been studied.
+  A large proportion are interest expenses, as well as staff costs, which is an indicator of the size of the bank28.
+ It is necessary to consider the commissions (commission payments) that the bank makes to attract funds.
+As for income, the majority are interest income, it is mainly from loans և 27 Z. Yang - "Bank Branch Operating Efficiency.
+ A DEA Approach ", IMECS, pp. 11-17, 200928 In general, a large portion of total administrative costs are accounted for as an entity that uses, that is, is assessed for all և r's of banks as a BANK. .
+  It is necessary to consider the commission income as an indicator describing the payment and settlement functions.
+The reports on the financial condition of commercial banks were studied.
+  About 62% of the commercial assets of the Republic of Armenia are loans, the main activity of which is volume.
+  Liabilities make up, on average, 81% of liabilities.
+ Deposits are included as a model resource that the bank uses to provide loans.
+The purpose of the commercial organization is to maximize the profit, in the method the profit index was considered as a result.
+Thus, we separate the following inputs 29 and outputs. Output 1 (u1) = interest income Input 1 (v1) = interest expense Output2 (u2) = non-interest income Input 2 (v2) = no interest expense Output 3 (u3) = loan provided Input 3 (v3) = accepted Output 4 (u4 ) = net profit.
+Table 1. Relative efficiency assessments of commercial banks of the Republic of Armenia 30.2014 Anelik BankAraratbankArdshinbankArmBusinessBankAmeconombankAverage 2015Acba-credit Agricole Bank 29 Fixed assets և intangible assets on average make up 4-5% of bank assets. This indicator was not considered in the model.
+ As for securities and financial assets data, it should be noted that not all banks have them on their balance sheets, as not all banks are active in investment activities, and since we assess the efficiency of banks, it is not expedient to include this indicator in the model.
+30 The calculations were made (1) Model, POM portfolio both through Matlab program and data are taken from the banks pashtonakankaykerum the hashvetvutyunneritsnkatmamb, mimyantsapaays of BankEych Development, HSBC HSBC Bank HayastanVTB Armenia BankKonvers BankPrometey BankYunibankArtsakhbankArmsvisbankAmeriabankAreksimbankInekobankMellat BankBiblos Bank Armenia in 2015 ACBA-Credit Agricole, Armbusinessbank, HSBC, Armswissbank, Areximbank, Mellat և Ineco are considered efficient, and the other banks are characterized by some efficiency in the process of loan conversion.
+ For example, in 2015, Ararat, Armeconom և Conversion efficiencies are estimated at 83.4, 79.7 և 70.8%, respectively, noting that Ararat Bank should increase its results by 16.6%, Armeconom Bank by 20.3%, Converse Bank - 29 , At the level of 2% of the given resources, so that their activities are considered effective31.
+On average, we can say that the relative efficiency of banks has decreased (from 0.914 to 0.810) during 2014-2015.
+Banking Profitability HABC Chart 1. Resources քների Outcomes of weights Weights show that interest income has the largest share in ensuring a given level of efficiency, աճ their increase will lead to an increase in the level of efficiency to a greater extent.
+  As for the inputs, the higher the value of the resource, the further the growth of the given resource (in case of the given level of output) will reduce the efficiency level to a greater extent.
+  In our case, such entry is considered non-interest expenses.
+2. The existing relationship between the profitability indicators of the commercial banks of the Republic of Armenia and the "calculated efficiencies". When considering the efficiency of commercial banks in the context of cost / income management, the indicators can be, in particular, ROE և ROA32.
+  We consider sample 33, which includes 6 banks: Ameria, Unibank, Converse, Inecobank, Artsakh. .
+Table 2. Classification of banks according to DEA method և ROE, ROA indicators 32 ROE-net profit / total capital, ROA-net profit / total assets 33 The sample was formed based on the dispersion of the values ​​of ընդհանուր total assets of the banks' total capital.
+Bank.
+  Based on the name of CAMMELSBANK HSBC Banking Majorities InecobankAmeriabankUnibankConverse BankArtsakhbankAs it seems from the table, when classifying commercial banks in two ways we get the same picture.
+  All of this can be traced back. The estimates obtained through DEA ​​are random, they allow to get the real picture, which allows the model to be applied in practice to perform certain analyzes.
+Thus, we can conclude from the research results.1. The efficiency of RA commercial banks in 2014-2015 was high and relatively stable.
+Consequently, deposits in commercial banks, as well as financial instruments issued by commercial banks, are characterized by a low level of risk.
+2. Commercial banks in the Republic of Armenia manage their expenses and incomes quite effectively, so we can assume that the risk of default is quite small.
+3. The positive correlation of efficiency is stronger with interest income, and the negative correlation with non-interest expenses from higher resources.
+ROE, ROA Barseghyan ANNABANKING SYSTEM EFFICIENCY Keywords - efficiency, RA commercial banks, DEA, classification.

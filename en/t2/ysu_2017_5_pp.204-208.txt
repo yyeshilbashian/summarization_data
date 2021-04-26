@@ -1,0 +1,58 @@
+FEATURES OF QUANTITATIVE PROCESSES ACCORDING TO MARTING PROCESSES Introduction Quantile processes corresponding to martingale processes are observed in the work.
+  In particular, martingale processes with equal distribution with respect to point 0 are considered.
+It is shown that the quantiles of martingales are increasing from time to time.
+A similar result can easily be obtained for finite-bearing martingale processes (i.e., for martingales whose carrier represents a compact domain at any given time).
+  Additional restrictions are required to solve this problem for endless carrier martingales.
+The initial additional constraint is the symmetry of the distributions with respect to point 0 և monomodality (having one mode).
+For quantum processes corresponding to martingale processes, such a property is particularly interesting in the case of quantum regressions, quantum autoregressions, as in the case of quantile correlation models (see [1]).
+ The latter attempt to explain (mostly linearly) the conditional quantities of a conditionally random quantity (see [2], [3]).
+  As a slope coefficient in these cases they often get time-dependent increasing coefficients for the same level of quantiles (see [2]).
+In a sense, there is not enough data to make such regressions for martingale processes.
+  For some processes, the significance of such regressions will lead to the linearity of the data process over time.
+  However, in the case of martingale processes, there is not even a functional dependence.
+Main result Only martingale processes with continuous distribution will be observed.
+ That is, if the process {𝑋𝑡} 0 [0, 𝑇] is a matrix, then each կունենա will have a continuous distribution.
+  For quantum processes corresponding to such processes, the designation 𝑄𝛼, է is used, where α is the level of the quantum and s is the moment of time.
+ The process 𝑄𝛼, բ satisfies the condition 𝑃 (𝑋𝑠 ≤ 𝑄𝛼, 𝑠) =։.
+Insist.
+  Suppose we have a finite time interval [0, T] որոշակի a certain martingale defined on that interval according to the flow of natural σ-algebras (ie 𝐸 (𝑋𝑡 | 𝑋𝑠) ​​= 𝑋𝑠, any 𝑡 𝑠 𝑠).
+  Suppose that 𝑋𝑡s for all 𝑡 ∈ [0, 𝑇] have symmetric distributions with respect to point 0.
+ Suppose, in addition, that the representation takes place where ℎ ′ ′ (𝑢) <𝑓 ′ ′ (𝑢) (here 𝑓𝑡 | 𝑠 (𝑢 | 𝑥) is the conditional distribution density).
+  In that case there is 𝛼>
+  such that 𝑄𝛼, 𝑡> 𝑄𝛼, 𝑠 for all 0 ≤ 𝑠 <𝑡 ≤։.
+Remark.
+ First of all, it should be noted that the martial process that meets the above condition always exists.
+  For example, the Laplace distribution school.
+ One can be sure that the above statement is correct for that process.
+  The assertion is true for natural martingales, only "between quantum signs".
+Proof.
+  For proof, let us first state that 𝑄1
+  .
+  Here it is necessary to use the fact that for even distribution with a dot punctuation, math. expect the median to be the same.
+  On the other hand, the average of the martingale process is the same for any given moment.
+Rethinking all this, one can write.
+On the other hand, using monomodality, it can be argued that when, 𝑡 և 𝑋𝑠 ≥ 𝑄1
+, 𝑠, 𝑓𝑡 (𝑥), 𝑓𝑠 (𝑥) are decreasing.
+If 𝑓𝑡 (𝑄1:
+, 𝑠), then there exists 𝑦> 𝑄1
+,։ such that 𝑓𝑡 (𝑦) = 𝑓𝑠 (𝑦) (otherwise 𝑓𝑡 (𝑥) <𝑓𝑠 (𝑥) will always be large ը the above will not happen).
+ It is obvious that, 𝑠 ≤ 𝑋𝑠 ≤ 𝑦).
+It remains to show that 𝑓𝑡 (𝑄1
+, 𝑠).
+ For that we use the condition of martial arts.
+Note that 𝑃 (𝑋𝑡 ≤ 𝑦) <𝑃 (𝑋𝑠 ≤ 𝑦).
+ That is, if we take y as, կետ) then the first point where 𝑦 (=) = 𝑓𝑠 (𝑦) is 𝑄1
+  from (𝑄1:
+it will suffice to show that և ∈ [𝑄1:
+for 𝑦] 𝑓𝑡 (𝑥) <𝑓𝑠 (𝑥).
+It follows from the condition of ինգ 𝑋𝑡 մարտ martingale that.
+This condition can also be written as follows:
+In fact, this condition occurs in any range.
+  Note that = 𝑥.
+In particular, the above integral operator may have a finite number of cores (𝑓𝑡 | 𝑠 (𝑢 | 𝑥)).
+  However, using the assumption, we can get from where, denoting, we have: 𝑔𝑡, 𝑠 (𝑥) = 𝑎𝑡, 𝑠𝑥 ∶ Using the condition, we get Now remember that հիշ (𝑢) is decreasing when 𝑢> 𝑄1
+ .
+ Therefore, so և, 𝑠 (𝑢).
+Moreover: 𝑓𝑡 (𝑢) = ℎ𝑡, 𝑠 (𝑢).
+ Taking advantage of the fact that h (u) decreases more slowly than 𝑓𝑠 (𝑢), the assertion was proved.
+LiteratureVardan Bardakhchyan QUALITIES OF MATING RESPONSIBLE QUANTIL PROCESSES Keywords: symmetrical martingales, quantiles, quantum regression, unimodal

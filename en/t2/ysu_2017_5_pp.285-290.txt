@@ -1,0 +1,37 @@
+WATER-DIMETHYSULFOXIDE-ETHYLENE VOLUME FEATURES OF THE GLYCOLERCOMPONENT SYSTEM STUDY Introduction The aim of the study was to study the volume of water-dimethylsulfate (d)
+ The work was done by the method of density.
+ EG և DMSO are widely used in various fields of chemistry, both of which are known as ice protectors.
+  Generate hydrogen connections through the spatial network.
+ The physicochemical study of the system is used because each of the components is prone to self-association, so both homo- and hetero-associations can be assumed.
+The additional molar volume indicates the nature of the interactions taking place in the solution.
+  It is the difference between the sum of the total volume of the system և the volume of the individual components [1], where Vi
+0 և xi is the molar volume of component i i is the molar fraction.
+V is the volume of the solution where xi, Mi, I is the molar fraction of the i-th component, the molar mass is տ the densities,  is the density of the solution
+The dependence of the additional molar volume on the molar fraction is represented by the Redlich-Kister equation.
+ In the case of a two-component system, it looks like this: For a two-component system, it looks like this:
+                     (3).
+ (4) 0iiEVxVViiiiEmMxMxV .... 2212121xxCxxBAxxVE 22 ... 22112322331132112321231312123xxCxxBxxBxxBAxxxVVVVEEEE (4) It follows that before studying the interactions in a three-component system, it is necessary to first consider the volumetric properties of all two two-component systems of these three components.
+  Therefore, we first studied the two-component water-DMSO, water-EG-DMSO-EG systems.
+Experimental part Double-distilled water with a specific conductivity of less than 2C / cm at 25 0C was used in the work, DMSO - 99.9% Alfa Aesar, chemically pure EG.
+The measurements were made with the help of Anton Paar DMA 4500 oscillating resonance concentrator, the accuracy of which is 510-5 g / cm3, the reproducibility is 110-5 g / cm3.
+ The measurements were made at a temperature of 20 0C.
+Results և Discussion The volumetric properties of the water-DMSO-EG three-component system were studied at a temperature of 200C.
+  As already mentioned, before studying the interactions that take place in a three-component system, it is first necessary to consider the volumetric properties of all possible ecomponent systems.
+ For this purpose, we will study the two-component water-DMSO, water-EG-DMSO-EG systems.
+ For the study, we used our previous experiments տվյալ data in the literature on DMSO-water [2] և DMSO-EG [3] two-component systems.
+ Based on these data, we have presented the dependencies of the additional molar volume on one of the molar fractions of one of the components: Figure This is due to the fact that the structures of pure components take place և in a more efficient envelope, thanks to hydrogen bonds.
+  The extra molar volume is the largest in absolute value in the DMSO-water system and the smallest in the DMSO-EG system.
+  The results show that the strongest interactions take place in the DMSO-water system, and the weakest in the DMSO-EG system.
+ This is probably due to the polarity of individual components and their ability to form hydrogen bonds, as well as to the self-associations and spatial structure of individual molecules.
+Let us now turn to the volumetric properties of the three-component system.
+  The table shows the additional molar volume values ​​of the density of the water-DMSO-EG system, depending on the molar fractions of the components.
+ Table 1 ․ The values ​​of the density և additional molar volume ության of the density of the water-DMSO-EG system 20 20 0Cx (water) x (DMSO) x (EG) ρ, g / cm3 VE, cm3 / mol.
+  As can be seen from the tables, the additional molar volume of the water-DMSO-EG system assumes a negative value in the whole concentration range.
+  The processing of the obtained data through the "Origin" computer program allowed us to determine the quantitative components corresponding to the strongest interactions in the system.
+Figure 2. Dependence of the additional molar volume of the water-DMSO-EG three-component system on the composition.
+Since the volume of the extra mole assumes a negative value in the whole concentration range, then the extreme corresponds to the minimum, ie the strongest interactions in the system.
+Moreover, the processing of the obtained data allowed to determine the quantitative components corresponding to the strongest interactions in the system (values ​​are given in molar sections): x (EC) = 0.001  0.14, x (water) = 0.45  0.61, x (DMSO) = 0.38  0.52.
+0.000.250.500.751.000.000.250.500.751.000.000.250.500.751.00x (¾¶) x (H2O) x (¸Øêú) As we can see, the strongest interactions occur in DMSO բարձր high water content փոքր small EC in the case of contents.
+  From the data obtained for the two-component system, it could be assumed that when adding ECG to the DMSO-water system, an additional molar volume will increase.
+ It can be seen from Figure 2 that the most effective compressions occur in the case of DMSO-water composition.
+LiteratureMarietta BadalyanWATER-DIMETHYSULFOXIDE-ETHYLENE VOLUME PROPERTIES OF THE VOLUME SYSTEM EXAMINATION in Keywords: volumetric, additional molilf.

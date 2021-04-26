@@ -1,0 +1,31 @@
+We have substantiated the role of employment in the economic growth of the Republic of Armenia according to the spheres of economic activity on the basis of the production function of Kob-Douglas 1.
+ The classical form of the function is where Q is the gross domestic product, K is the capital, L is the labor, A is the technological coefficient, and α and β are the coefficients of capital and labor elasticity, respectively.
+ 11 ECONOMICS Multi-factor analysis of economic growth is performed on the basis of modifications of the Cob-Douglas production function.
+ Table 1. Number of Employed in RA by Types of Economic Activities 1997-2016 2 Employed Buildings, Rural Industry. only economy. fertility Thousands of thousands of people Thousands of people People Services. In this case, too, the production function of Cob-Douglas can be modified.
+  In the classical function, L is the total labor force in the country, and β is the coefficient of elasticity of that entire labor force, which is compared to the elasticity of capital.
+  Work 12 ECONOMICS To separate the loss by spheres of economic activity (agriculture, industry, construction and services), let us present the production function as follows: Q is the Gross Domestic Product, K is the capital L1 is the labor force employed in agriculture L2 is the labor force employed in industry L3 is the labor force employed in the construction sector L4 is the labor force employed in the service sector A is the technological coefficient α, β 1, β 2, β 3, β 4 are the coefficients of elasticity of the labor force employed in the sectors of capital, agriculture, industry, construction and services, respectively.
+ To calculate the coefficients of elasticity of the factors, it is necessary to make the equation linear.
+ 13,7141 5,82334 4,79909 3,62434 6,23323 ECONOMICS Table 2. Indicators of variables by years 1997-2016 2 For further calculations we will use the logged values ​​of the indicators.
+ Table 2. Model Quality Summary 1 In the regression model quality analyzes presented in Table 2, the determination factor (R 2) is used first.
+  The closer the R 2 is to one, the higher the quality of the model.
+  In our model R 2 = 0.995, which indicates the quality of the model.
+  Բացահայտ3 Construct the matrix of pair correlation coefficients to reveal the relationships of the selected variables. The table is exported in SPSS program 14 ECONOMICS Table 3. From the Matrix of Paired Correlation Coefficients of Selected Variables 0.301 and 0.384.
+  And the connection between the labor force and the GDP engaged in the spheres of agriculture and GDP is negative. The correlation coefficient is -0.926, -0.743, respectively.
+  This shows that the decrease in employment in agriculture and industry is compensated. The table is exported to SPSS 15 ECONOMICS with gross accumulation of fixed capital and labor force employed in construction and services.
+ (2) Putting all known variables in the equation, we get: Table 4. Capital and Manpower Resilience Coefficients From equation 3 (3) it follows that the capital resilience equals 0.54 and the labor resilience coefficients in agriculture, industry, construction and services are -0.97, -0.4, -0.07 and 1.2, respectively.
+  This means that a 1% increase in the capital and services sector increases the country's GDP by 0.5 and 1.27 percentage points, respectively.
+  There is an inverse relationship between GDP growth and the labor force in agriculture and services, which is seen in the correlation matrix.
+  A 1% increase in the labor force in the agricultural sector leads to a decrease of 0.97 percentage points of GDP.
+ (3) Putting all the indicators in the equation, we get the deviation of GDP compared to the real indicator.
+ Calculations were performed in Excel 16 ECONOMICS Table 5. Difference between actual and model GDP figures at current GDP prices / million AMD GDP by model.million AMD Difference of GDP deviation from GDP by model:% The results show that GDP is narrow. It is quite small.
+  The resulting equation allows us to predict what combination of manpower in agriculture, industry, construction and services is needed to achieve the planned results of the indicators characterizing the state of the economy.
+ The calculations were made by the author using Excel 17 ECONOMICS Thus we can say that since 2002 the GDP trends have significantly correlated with the trends in the number of employed people in the country.
+  This result allows us to conclude that the country's employment sector is in fact sensitive to macroeconomic developments.
+ According to official data, the largest number of people employed in Armenia was in the field of agriculture.
+  During the period studied by us, the number of people employed in the field of agriculture exceeded the number of people employed in the field of industry by 2-3 times.
+ The low level of agricultural productivity in Armenia affects the overall level of economic productivity.
+  The service sector was in the second place in the number of people employed in the economy.
+  Since 2011 there has been a growth trend in the services sector, followed by construction and industry.
+ Thus, we can conclude that GDP growth is due to the reduction of labor force in the agricultural sector, which indicates the extensive nature and employment of these sectors, and that the agricultural sector is inflated, and the expansion of employment in the service sector contributes very slowly to productivity growth. .
+ Thus, in order for the state to be able to effectively solve the employment problems by sectors of the economy, it is necessary to implement an employment support policy, which will include improving the legal framework for supporting employment, developing regional labor markets and ensuring employee mobility in those regions. promotion, improvement of the quality of jobs, provision of professional training, organization of work internships for university graduates with the expectation of future employment, and, of course, improvement of the system of state regulation of the labor market.
+ .

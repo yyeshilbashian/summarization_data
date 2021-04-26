@@ -1,0 +1,55 @@
+ASYMMETRIC SYNTHESIS OF ENANTIOMERICALLY ENRICHED INSATIENTLY CONNECTED CONTENTS The literature is known for a limited number of acetylene-containing amino acids, which are mainly detached from cells [with fungal isolates]
+ For example, Streptomyces catenula (S) -2-aminobuty-3-acid (propargyl glycine) isolated from fungi inhibits the activity of Saccharomyces cerevisiae և Escherichia coli cells, acts as an inhibitor of amylase synthesis] It is part of the antimicrobial drug FR 900130 [3].
+New Guninea (S) -2-aminohex-4-acid isolated from fungi is considered an AED inhibitor [4], and Euphoria long-separated (S) -2-amino-4-methylhex-5-acid և (2S, 4R -2-amino-4-hydroxyhept-6-acid show antimutagenic activity [5] և et al.
+Previously, enantiomerically enriched (non-protein-enriched) S-enriched in many enantiomerically (non-enriched) S asymmetric synthesis [6-9].
+ In all cases, the chiral macrostructure of nickel complexes provided high stereoselectivity, which could be expected when using a similar structure of propargylglycine (NiII- (S) -BPB- (S) -PGly) complex.
+In the present work, the optically active non-protein amino acid (S) -2-amino-2- (4-fluorobenzyl) pent-4-amino acid was synthesized by alkylation of the NiII- (S) -BPB- (S) -PGly complex.
+  The NiII- (S) -BPB- (S) -PGly (1) complex was synthesized by a previously developed method [10].
+  4-fluorobenzylbromide (2) was taken as the alkylating agent.
+The alkylation reaction has been studied in various media: DMF / NaOH, CH3CN / NaOH, CH3CN / K2CO3 both at room temperature and under heating.
+  However, the best results were obtained in the DMF medium in the presence of NaOH at 600C (Figure ․ 1).
+Figure 1․ We followed the reaction process by NSHK method (SiO2, CHCl3.
+  CH3COCH3 (3.
+1)) according to the elimination of traces of the output complex (1) to establish the balance between the product diastereomer complexes.
+The Argasik complex (3) was separated from the reaction medium by precipitation from water and crystallization from methanol վել characterized by physicochemical analysis methods (see experimental section).
+The absolute configuration of the amino acid residue of the basic diastereomeric complex (3) α was confirmed by polarimetric measurements at a wavelength of 589 nm.
+  The positive value of the optical rotation of the diastereomer complex indicates its (S, S) absolute configuration.
+  The diastereomeric excess of the major diastereomer complex was determined by chiral BAHC analysis.
+NNiOONNOHNiII- (S) -BPB- (S) -PGly (1) T = 60Co (S) (S) NNi (S) OON (S) NO (S) DMF / NaOH + Br (3) FF (2) Alkylman After the hydrochloric decomposition of the base complex (3) hydrochloric acid, the target amino acid (4) was separated by the previously developed method (line ․ 2), as a result of which the starting chiral auxiliary reagent [(S) -BPB] was recovered by quantitative chemical output. allows it to be used repeatedly.
+  The target amino acid was crystallized from C2H5OH.
+H2O (1:
+1) from the system.
+  The structure and absolute configuration of the synthesized amino acid were determined by physicochemical analysis methods (see experimental part).
+Thus, we synthesized acetylene-bonded ophthalmic 2 -tically active new amino acid (4) with 98% enantiomeric purity.
+Experimental part.
+  1H-MMR spectra were removed on a Merkury-300 Varian NMR (300 MHz) spectrometer (Yerevan, Molecule Structure Research Center, NAS RA).
+  The value of optical rotation was measured on a "Perkin Elmer-341" spectropolarimeter.
+ The optical purity of the amino acid was determined by chiral high sensitivity liquid chromatography (HPLC) on the "Waters Alliance 2695 HPLC System" device (Yerevan, "ArmBiotechnology" SNCO of NAS RA.
+ Melting temperatures were measured with an "Elektrothermal" device.
+C-alkylation of NiII- (S) -BPB- (S) -PGly complex with 4-fluorobenzylbromide.
+  At 5 g (0.0093 mol) of propargylglycine complex we added 1.12 g (0.0279 mol) of NaOH, 3.42 mL (0.0279 mol) of 4-fluorobenzyl bromide.
+We followed the reaction by NSH method (SiO2, CHCl3).
+C2H5C OO CH3 (3.
+1)).
+Dissolved in 50 ml of dimethylformamideComplex 3. Thal = 249–251oC. [α] D:
+20 = + 1'544. 0 ° (c 0.11, CH 3 OH). Found (%) C37H32FN3NiO3 (644.36), C, 68.97; H, 5.01; N, 6.52; Calculated (%).
+ C, 69.05; H, 5.31; N, 6.82. 1H NMR (CDCl3, d, md, Hz).
+  1.55-1.69 (1H, m, γ -Ha Pro); 1.82-1.95 (2H, m γ – Hb and δ-Ha Pro); 2.06 (1H, dd, 2J = 17.3, 4J = 2.5.7.48 (3H, m, HAr); 7.94-8.01 (2H, m, HAr); 8.28-8.33 (1H, m, H-2.2 'Ph). NMR.
+ 22.7 (γ –C Pro), 30.8 (, β (= C), 162.9 (d, J = 245.8, C-4 C6H4F); 172.9 (= C); 179.2 (= C); 180.5 (= C).
+Decomposition of the complex ումը Separation of the target amino acid.
+  Dissolve the dry residue of the complex in 50 mL CH3OH պայմաններում slowly add to aqueous 2 N HCl solution heated to 500C under mixing.
+  After the disappearance of the red color typical of the complex, the solution was evaporated in a vacuum.
+ Add distilled water to the dry residue և filter the outlet chiral reagent ((S) -BPB).
+  Separate the target amino acid from the resulting aqueous solution by passing it through a tower filled with H + horse Ky-2x8 cation exchange resin using the 5% NH4OH solution as an element.
+ The ammonia eluate was then vacuum evaporated to a dry residue.
+  We crystallized the target optically active amino acid C2H5OH.
+H2O (1:
+1) from the system.
+(S) -BPBxHCIiiiiiii.2NHCI / CH3OH, T = 50oCii.Ky2x8H + / 5% NH4OHiii.C2H5OH / H2O (1/1) N (R) NiO (S) ON (S) NO (S) OOHNH2 (3) (4) NiII- (S) -BPB- (S) --Bn-PGlyFF (S) -2-amino-2- (4-fluorobenzyl) pent-4-acid (4).
+  T hal = 219-223 OC. [α] + 47.44 (c 0.1, CH 3 OH). Found (%) C12H13NO2 (221.23) C, 65.15; H, 5.47; N, 6.33. Calculated (%).
+ C, 65.35; H, 5.50; N, 6.53. 1H NMR (δ, DMSO / CCl4 + CF3COOD (1/3), Hz).
+  2.71 (1H, dd, J = 17.0, J = 2.8, ≡CCH2); 2.77 (1H, t, (3H, m) and 7.24-7.31 (1H, m, C6H4F). 13C NMR.
+ 25.3 (CH2); 39.3 (CH2); 61.6 (NC); 75.5 (≡C); 76.7 (≡C); Literature N.Belokon 'Yu., Fisher K., Asymmetric synthesis of β-heterocycle substituted l-α-amino acids // Tetrahedron.
+β-heterocycle substituted (S) -α-aminobutyric acids // Tetrahedron.
+ Asymmetry, 2006, v. 17, pp. 2743-2753.amino acids // Tetrahedron.
+ Asymmetry, 1998, v. 9, pp. 2121-2131.Aneta Amirjanyan ASSIMETRIC SYNTHESIS ENANTIOMERICALLY ENRICHED IN ENANGY CONTENTS Keywords: asymmetric synthesis, non-white, chiral, not white

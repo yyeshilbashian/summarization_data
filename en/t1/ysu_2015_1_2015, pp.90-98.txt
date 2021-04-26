@@ -1,0 +1,95 @@
+EFFECTS OF EXTRACTIONS OF VARIOUS MEDICINAL PLANTS ON OXYGENIZATION AND ANTIBACTERIAL ACTIVITY OF DAIRY CASES Introduction.
+ The widespread prevalence of human natural microbiota disorders is one of the problems of our age.
+ Use of antibiotics, irregular diet և stressful conditions cause the spread of pathological conditions, in which the normal microbiota of the gastrointestinal tract is disrupted.
+The high demand for probiotics in the pharmaceutical market is due to the wide prevalence of dysbiotic conditions in the population of different ages.
+ The most common are the latest generation preparations, which, in addition to bacteria or substances that stimulate the growth of bacteria, contain other compounds that correct the functions of human organs and tissue cells [3].
+Of particular interest are both probiotic bacteria and plants that affect the human body.
+  The uniqueness of plants lies in the ability to synthesize and accumulate a large number of biologically active substances (KAN) that stimulate the growth of probiotic bacteria: terpenoids, fatty acids, flavonoids, alkaloids, vitamins, polysaccharides.
+  In recent years, scientists have been focusing on herbs that correct endbiotic conditions.
+ For example, sources of isoquinoline alkaloids are known to use the herbicide (Cheli-doniurn majus L.) and barberry (Berberis vulgaris) to stimulate the growth of probiotic bacteria, despite their high antimicrobial and bile excretion properties.
+  Of the plants, alfalfa (Medicagosativa) was also of interest due to the rich composition of KAN.
+The modernization of the problems of dysbacteriosis iatrogenic pathologies determines the expansion of the range of herbal preparations.
+The practical implementation of this idea requires a thorough, comprehensive study of the factors affecting the growth, development, and biological spectrum of probiotic bacterial populations.
+  Lactic acid bacteria (Lactobacilli) are excellent candidates as probiotic bacteria.
+ CBDs are a diverse group of bacteria that are widespread in nature and are an important component of the human-animal microbiota.
+  CBDs have increased their popularity due to their antibacterial, proteolytic, immunostimulatory, anti-allergenic and anti-tumor activity [8].
+  They produce a number of antibacterial metabolites, which include organic acids, various organic compounds, hydrogen peroxide և bacteriocins.
+ The antibacterial activity of CBD is due to the synthesis of special substances called bacteriocins, which are considered to be antibiotic-resistant agents.
+ Bacteria that produce bacteriocin can be used as a mash in fermented foods or added to fresh foods as a protective culture.
+KTBs are in great demand in food quality assurance, being food-substituting microbiological bioprotectors, as they are not toxic to humans, do not change the properties of food, work effectively in small quantities, and are active when refrigerated.
+At the same time, the process of processing herbal medicines requires a complex of research based on pharmacological and medical assumptions.
+Based on this, the development of a research base for the creation of prophylactic bacteria containing natural raw materials of plant origin, of natural origin, based on the phenomenon of synergy ին synergism, is urgent and of great interest.
+Materials և methods.
+  Research objects.
+  Research objects are 7 different strains preserved in the Department of Microbiology, Plant Human Biotechnology of YSU Faculty of Biology: bulgaricus BAM-2003-LB, RIN-2003-LS և INRA-2010-5.2, Streptococcus thermophilus KD-4, Streptococcus Enterococcus KDS-4, Lact Enterococcus durans, as well as the coexistence of these strains, which we have suggested as maternal mangoes of yogurt, milk thistle, cottage cheese, tan yogurt [7].
+All the studied strains were lyophilized in "Vitamax-E" production in a 50 l TG-50 sublimation dryer.
+Preparation of herbal extracts.
+  Various herbs were studied: Thymus serpyllum L., Hypericumperforatum L., Achillea millefolium L., Menta piperia L., Basil (Ocimum basilicum L.) Aloe vera L., as well as the effect of extracts of honeysuckle (Stevia rembaudiana Bertoni) on the growth of CBD and the production of dairy products.
+ The honeysuckle plant was provided to G. NAS RA. By the staff of the Hydroponics Experimental Station of the Davtyan Institute of Hydroponics Problems.
+  All plants were collected and dried in 2012. from May to October, depending on the literature.
+All herbs, depending on the study period, were used both fresh and dried.
+ Fresh plants (5 g) were extracted in 20 ml of distilled water, and dried plants (10 g) in 35 ml.
+ All extracts were filtered with filter paper and then filtered with Zeitz filter (0.2 μm Minipore, Watmann, Germani) for sterilization.
+ The effect of 1% of herbal extracts on the growth of antibacterial activity in milk վել antibacterial activity was studied.
+The mixture of plant extracts contained an equal volume of extracts of all studied plants.
+Growth curve construction ումը pH measurement.
+  Growth of CBs was studied by spectrophotometry at 595 nm (Genesys 10sThermo, USA) and pH changes by potentiometric measurement (K-766Knick, Germany).
+The study of the antibacterial properties of the obtained food.
+The antibacterial properties of the coexistence were determined by diffusion method.
+  Representatives of different groups of microorganisms (Escherichia coli VKPM M17, Streptococcus aureus WDCM 5233, Bacillus subtilis WT-A1, Candida guilliermondii) were used as a test organism.
+ 0.1 ml of culture liquid was poured into the pits.
+ Petri dishes were stored in the refrigerator for 2 hours to diffuse the antibacterial agent.
+After 24 hours of growth at optimal temperatures for the development of test organisms, the diameter of the growth-free zones was measured.
+  Antibacterial activity has been reported in the absence of a growth zone of at least 2 mm [5].
+Experimental results և discussion.
+ For the first time, an attempt was made to study the effect of extracts of different herbs on the growth, biological, acid-forming, and antimicrobial activity of CBD in communities.
+ Experiments have shown that, with the exception of basil and peppermint extracts, the extracts of all other plants prolong the cooking time of the product, ie, suppress the formation of CB strains.
+  However, basil extract strongly inhibited the accumulation of biomass, while mint extract did not change any growth rate.
+ It is interesting to note that aloe vera extract, although suppressing the acid production of bacteria in yogurt, had little effect on biomass accumulation (Fig. 1).
+Honeysuckle extract suppresses the early growth stages of bacteria in the community, but from the 5th hour of growth, the optical density rises sharply, roughly equal to the control.
+Figure 1. Effect of extracts of various herbs on the accumulation of biomass of yogurt germ bacteria և acidification - Control, × - hazardousև, + - aloe, □ - honeysuckle, ● - mint, ¤ - basil, ◊ thyme, - - sorghum pH, pH test + - pH aloe, □ - pH honeysuckle, ● - pH mint, ¤ - pH basil, ◊ - pH thyme, - - pH fennel pH 4.7 than the controller (pH 4.9).
+ Basil peppermint extracts of basil նույնիսկ even slightly insinuate the accumulation of biomass (Fig. 2).
+Figure 2. Effect of extracts of various herbs on the accumulation and acid formation of biomass of bibs.
+ - Checker, × - h freezer և, + - aloe, □ - honeysuckle, ● - mint, ¤ - basil, ◊ - thyme, - - sorghum, - pH checker, × - pH h freezerար, + - pH aloe, □ - pH honeycomb, ● - pH mint, ¤ pH basil, ◊ - pH thyme, - - pH safflower Herbal extracts do not prolong the preparation of food, so they do not affect the acid production of bacteria.
+  However, the extracts of sorghum porous and millennial suppress the accumulation of biomass (Fig. 3).
+  Meanwhile, the addition of basil cultivars to the milk stimulates the growth of bacteria in the milk.
+  The extracts of creeping thyme, peppermint, thyme, ordinary, porous do not affect the growth of bacteria in the sour cream.
+  Aloe vera extract, on the other hand, stimulates both the formation of acid and the growth of bacteria, accelerating the preparation of food for an hour (Fig. 4).
+  Extracts of basil and honeysuckle, unlike other studied plant extracts, exert a depressing effect on bacterial growth in sour cream.
+Figure 3. Influence of various herbs on the biomass Թ մեր of rye germs.
+ - Checker, × - h azaraterև, + - aloe, □ - honeysuckle, ● - mint, ¤ - basil, ◊ - thyme, - - sorghum - pH checker, × - pH h azaraterև, + - pH aloe, □ - pH honeysuckle, ● - pH mint, ¤ pH basil, ◊ - pH thyme, - - pH spruce Aloe vera extract stimulates the growth of bacteria և acidification in the curd, accelerating the preparation of food for two hours.
+  Whereas the thousand-'s ordinary extract stimulates the growth of bacteria only in coexistence (Fig. 5).
+  Thyme creeper extract had a depressing effect on the accumulation of microbial biomass in the curd.
+Figure 4. Semi-mass անի acid formation of sour cream germ bacteria's dependence on the presence of extracts.
+ -Speaker, × - h azaraterև, + - aloe, □ - honeysuckle, ● -mint, ¤ - basil, ◊ - thyme, - - sorghum, - pH checker, × - pH h azaraterև, + - pH aloe, □ - pH honeysuckle, ● - pH of mint, ¤ pH of basil, ◊ - pH of thyme, - - pH of sorghumExpressing effect of equal amounts of extracts of 7 herbal extracts on yogurt յ yogurt մեր's marine communities in CB growth և acidification (c. The mixture had no effect on it.
+It can be assumed that the negative effect of the mixture of herbal extracts is due to the synergistic interaction only at high temperatures (42-43 oC), while on the communities that operate at lower temperatures (27-30 oC), such a mixture has no effect.
+  This can be explained by the active activity of ethers, volatile substances and enzymes at a temperature of 42-43 oC.
+Ն. Nazirova 2007 It has been reported that the addition of Lactobacillus plantarum 8P-A3 to the Lactobacillus plantarum 8P-A3 strain improves the biotechnological properties of marrow.
+In case of addition of human extract, meran fermentation activity (23%), growth rate (45-55%) քանակ increase in the number of yeast cells is observed.
+  Rarely has such an effect been observed in the case of the use of sparrowhawk, safflower, or sorghum.
+  Studies have shown that manure activated by human extract extracts increases the gas production in the dough by 1.5-2 times.
+Figure 5. Effect of different herbal extracts on the biomass կաթ biomass of curd meraniums.
+ - Checker, × - h azaraterև, + - aloe, □ - honeysuckle, ● - mint, ¤ - basil, ◊ - thyme, - sorghum - pH checker, × - pH h azaraterև, + - pH aloe, □ - pH honeysuckle, ● - pH mint, ¤ - pH basil, ◊ - pH thyme, - - pH safflower Figure 6. The effect of a mixture of extracts of different herbs on the growth of CB մեր in acidic communities.
+ - yogurt (checker), + - yogurt (mixer), × - buttermilk (checker), ◊ - buttermilk (mixer), ոգ yogurt (checker), ● - yogurt (mixer), - - cottage cheese (checker), □ - cottage cheese (mixture), - - sour cream (checker), ● - sour cream (mixer) - pH yogurt (checker), + - pH yogurt (mixer), × - pH butter (checker), ◊ - pH buttermilk (mixer), ¤ - pH yogurt (checker), ● - pH yogurt (mixer), - - pH cottage cheese (checker), □ - pH cottage cheese (mixer), - - pH sour cream (checker), ● - pH-sour cream (mixer).
+The improvement of the biotechnological features of sugarcane is due to the content of significant amounts of biologically active substances (polyacetylene, falcarinol, falcarinthroil, panxidol) and low molecular weight polypeptides with amino acids.
+I. Studies conducted at the Mechnikov State Medical University have shown that extracts of rosemary, asparagus, and licorice have a growth-promoting effect.
+  It was found that frankincense extract is divided into three mixtures, the most active of which is the third with a density of 0.001%.
+ This compound contains phenols, flavonoids և fatty acids [1, 2].
+The data obtained by the authors suggest that strong active stimulants can be isolated from plant raw materials - substances that inhibit the growth of microorganisms, the effect of which is manifested at a very low density.
+The study of antimicrobial activity showed that, although the lungs were endowed with high antibacterial activity, the food prepared from their coexistence did not have this property.
+This can be explained by the fact that in order to show the full physiological properties, the CBT needs to be grown for at least 12-20 hours.
+That is, when growing for an average of 6-7 hours to receive food, the primary metabolism of bacteria is set.
+ However, some herbal products nevertheless exhibited antibacterial activity against S. aureus WDCM 5233 strain (Fig. 7).
+ABGST Test-growth zone DISCUSSION 7. Antibacterial activity of yolk (B) և (D) against S. aureus WDCM 5233 strain with the addition of extracts of various herbs.
+A - antibacterial activity of various herbal extracts, C - antibacterial activity of various dairy products containing a mixture of herbal extracts, 1: honeysuckle, 2 - basil, 3 - millet, 4 - thyme, 5 - aloe, 6 - safflower, 7 - mint .
+Addition of aloe vera (18 mm) րո safflower (12 mm) extracts stimulates the antimicrobial activity of E. coli VKMB-M17 only for the preparation of yogurt.
+  Of particular interest is the fact that Lactobacillus delbrueckii subsp. The antibacterial activity of foods containing bulgaricusBAM-2003-LB is induced by the addition of extracts of basil, aloe and sorghum.
+Lactobacillus delbrueckii subsp. The antimicrobial activity of foods containing bulgaricus RIN-2003-LS is induced by the addition of thyme extract, and the addition of honey extract stimulates the antimicrobial activity of foods containing Enterococcus durans only in the presence of the above two strains.
+ It should be noted that although the coexistence of sour cream did not exhibit any antibacterial activity, the coexistence of cottage cheese was induced by the addition of extracts of aloe, fennel, mint, honeysuckle, thyme.
+ The difference between the two communities is in the presence of Streptococcus thermophilus KDS-4 in the quantitative ratio of the remaining bacteria.
+ Therefore, the presence of this bacterium in the community can inhibit the antibacterial activity of other bacteria.
+Interestingly, the addition of a mixture of all herbal extracts induced antibacterial activity only in foods prepared with a combination of yolk (15 mm) and cottage cheese (12 mm) (Fig. 7).
+ This can be explained by the fact that the density of the stimulants in the mixture decreases.
+Literature риоза кишечника. Acid microflora.
+ Collection of scientific articles. Вып. 1, 2012, p. 618. Lahtinen S., Ouwehand A., Salminen S., Von Wright A., Lactic acid bacteria.
+ Molecular and Satenik Hanisyan, Inga Bazukyan.

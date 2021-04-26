@@ -1,0 +1,150 @@
+INSURANCE BENEFIT IN PROPERTY INSURANCE CONTRACTS
+  In the absence of interest of the insured or the beneficiary in the maintenance of the object of insurance, the insurance will not serve its purpose, and the insurance compensation will be provided to the persons who have not suffered damage as a result of the insurance accident.
+By the second half of the 18th century, insurance in England had deviated from its essence and turned into a bet.
+ Especially in the field of life insurance, there were a large number of certificates with which a person could insure the life of a person legally unrelated to the insured.
+  Such certificates can be described as "bets", which sometimes even motivated the beneficiary to commit suicide in order to obtain insurance compensation.
+ During the period under discussion, a large number of marine insurance certificates were made, in which the policyholder, who had nothing to do with the insured ship, pursued a profit in the event of the ship's destruction.
+ The first step towards banning the signing of certificates signed without real interest, which are in fact bets, was made in 1746. It was in the United Kingdom that the MarineInsurance Act was passed, which declared that marine insurance certificates were invalid in which the policyholder or beneficiary had no interest in maintaining the insured ship.
+ Later, in 1774, the Life Insurance Act was adopted, better known as the Gambling Act.
+  This document prohibited the issuance of life insurance certificates in cases when the policyholder or the beneficiary was not in legal contact with the insured person, as a result of which they had no insurance interest towards the latter [3].
+1746 "Marine Insurance Act" և 1774 With the adoption of the Life Insurance Act, the concept of insurance interest, which is widely used in insurance, was introduced.
+ In legal practice, the notion of insurance interest has been given the most well-known definition by Lawrence v. Craufurd, a member of the House of Lords.
+  In particular, according to the latter. "A person will be considered to have an insurance interest, who will be in a ratio with the insured property in such a way that the existence of the mentioned property will benefit, and the loss - loss" [4].
+ According to the mentioned definition, the criteria for the existence of insurance interest are the usefulness of the insured property for the insured beneficiary ությունը the possibility of damage as a result of its damage, loss or destruction.
+The RA Civil Code1 (hereinafter the Code) does not define insurance, but in a number of articles of the Code, the existence of insurance interest at the time of concluding the contract is defined as a precondition for the validity of the insurance contract.
+ In particular, according to paragraph 3 of Part 3 of Article 996 of the Code, a personal insurance contract is considered concluded in favor of the insured person (beneficiary), if another person is not mentioned in the contract as a beneficiary.
+ Without the written consent of the insured person, the insured person or a third party who is not an insured person may not be a beneficiary in any case.
+ An insurance contract concluded without the written consent of the insured person is void.
+ In order to be a beneficiary in the mentioned personal insurance contract, the consent of the insured person is required, which is the criterion of the existence of insurance interest within the framework of personal insurance contracts, the absence of which leads to the irrelevance of the contract.
+According to Article 996, Part 7 of the Code on Business Risk Insurance, only the insurer's business risk can be insured under a business risk insurance contract, միայն only the policyholder can be a beneficiary under this contract.
+ The business risk insurance contract of a person who is not considered insured is null and void.
+ Insurance interest in this case is reflected in the fact that under a business risk insurance contract a person can insure only his risks և only in his favor.
+Failure to comply with this restriction will result in termination of the contract.
+1 Adopted on 05.05.1998, entered into force on 01.01.1999.
+ HHPT 1998.08.10 / 17 (50) HO-239.
+With regard to third party liability insurance provided for in Article 10211 of the Code, the presence of an insurance interest is not mandatory at the time of concluding a fixed type of insurance contract.
+ In particular, according to Article 10211, Part 1 of the Code, the policyholder may conclude an insurance contract, which insures the risk of third party liability.
+  According to part 2 of the same article, the person from whom the risk of liability for the damage caused is insured must be mentioned in the insurance contract.
+  If that person is not mentioned in the contract, then the risk of insurance liability is considered insured.
+According to the second paragraph of Part 6 of Article 996 of the Code, the property can be insured under a property insurance contract for the benefit of a person (insurer or beneficiary) who has an interest in maintaining that property on the basis of a law or other legal act.
+  In the absence of interest in the protection of the insured property with the insured beneficiary's property, the concluded property insurance contract is invalid.
+It follows from the above norm that in the case of property insurance, this insurance interest is a condition for the validity of the contract, the absence of which leads to the invalidity of the contract.
+ In the case of property insurance, we can talk about the existence of insurance interest in the case when the insured, and if it is concluded in favor of the beneficiary, the latter has an interest in maintaining the insured property, which must be based on law, other legal act or contract.
+The property owner, as the one who has the most authority over the property, always has an insurance interest, it is based on the law.
+  As an example we can mention the following case of the Russian arbitration practice. The owner of the car had rented the car on the basis of a lease agreement.
+ The lease agreement stipulated that in case of damage to the car during the term of the contract, the costs of its restoration shall be borne by the lessee.
+ The tenant had insured the car in favor of the owner.
+ After the car was damaged, the owner applied to an insurance company for compensation, which was rejected by the latter on the grounds that the owner has no interest in maintaining the property, because according to the lease agreement, the cost of restoring the car was paid to the tenant.
+ The court in the mentioned case legally satisfied the claim of the new owner, stating that the owner always has an interest in the protection of the property [5].
+ In foreign judicial practice, there have been cases when even the owner has confirmed the lack of insurance interest.
+ The following case is particularly noteworthy. The owner had signed a real estate insurance contract, according to which the fire was an insurance accident.
+ During the term of the insurance contract, the owner decided to demolish the insured real estate and build another building in its place.
+ Before the property was demolished, it burned down.
+  The owner applied to the insurance company for compensation, which was rejected by the company.
+  In this case, an Australian court rejected the owner's claim, arguing that the damage had been caused to the property and not to the owner, as the owner had lost interest in maintaining the demolition property.
+As we have already mentioned above, in case of property insurance, the insurance interest can be based on the law, as well as the contract of another legal act.
+ Such agreements can be leases, financial leases, collateral, trust management of property, gratuitous use of property, custody agreements, etc.
+ Let's discuss the issue of having a mutual insurance interest within the framework of the mentioned agreements.
+ To answer this question, it is necessary to identify the content of the concept of "property protection interest", which can be interpreted in a broader sense.
+  There is an interest in the protection of property in a broad sense in any case when the person has a right to the insured property based on the contract of a legal act, as a result of its damage or destruction there is a possibility of unfavorable material consequences.
+ For example, the existence of insurance interest under the free use of property, financial lease է Lease agreements is conditioned by the use of the insured property, as well as other negative consequences resulting from the destruction or damage of the property.
+  In the case of trust management of property կառավարման custody agreements, the interest of the manager և the custodian in maintaining the property is conditioned by the liability of the property owner արդյունքում as a result of the loss or damage of the property և other damages.
+In the narrow sense, the interest in the protection of property should mean the interest in the protection of the property directly belonging to the third party, and not the negative consequences arising from its damage or destruction.
+  In particular, in the narrow sense, the collateral interest is available to the lessee, the lessee, the borrower under the contract of gratuitous use of the property, as the latter, having possession and using the property, are interested in its preservation.
+ However, in the mentioned cases, the insurance compensation provided should be directed exclusively to the restoration of the insured property.
+ As for the trust manager or the custodian within the framework of the trust agreement within the property, the latter has the interest of the liability arising as a result of the loss or damage, not the protection of the property.
+The most problematic issue is the existence of the pledgee's near-insurance interest within the framework of the pledge agreement.
+  In a broad sense, the pledgee has an interest in maintaining the subject of the pledge, as it is a means of ensuring the fulfillment of obligations.
+  In addition, in case of leaving the collateral with the mortgagor, the latter bears the risk of damage or destruction.
+ In case of narrow interpretation, the interest of the pledgee does not refer to the protection of the property, but to the proper fulfillment of the obligations secured by the pledge.
+ In addition, in the event of destruction or damage to the collateral, the mortgagor has the option of requesting that the collateral be restored or replaced with other equivalent property.
+ According to the mentioned approach, in case of leaving the pledge subject with the pledgee, the latter has not the interest of the liability arising from the preservation of the pledge object, but from its destruction or damage.
+ Yuri Borisovich Fogelson thinks that the concept of insurance interest should be interpreted in a narrow sense, in particular, according to the author, the insurance interest should be directly related to the protection of property.
+According to the author, the interest of the person in the protection of the property և the interest of the person in connection with the liability arising from the destruction of the property are identical, which in case of identification can be insured under the property insurance contract.
+ The author finds that as a result of such an approach, the parties can avoid concluding a liability insurance contract, insuring the liability interest within the framework of the property insurance contract. for example, concluding a property insurance contract instead of contractual liability insurance [6].
+We consider that in order to find a solution to the issue under discussion, it is necessary to reveal the will of the legislator by commenting on other articles of the Code.
+In particular, according to Article 226, Part 4, "the pledgee has the right, in accordance with the principle set forth in paragraph 3 of the same Article, to be satisfied with insurance compensation for loss of property or damage, regardless of who is insured, if such loss or injury have not arisen from the reasons for which the eugenics are responsible. ”
+  We find that the phrase "regardless of who is insured" indicates that the collateral can be insured for both the mortgagor and the mortgagor.
+  Such a position was expressed by Lyudmila Nikola-Naumova.
+ In addition, we find that the right of the pledgee to receive satisfaction from the insurance indemnity defined by the mentioned norm is a strong argument in favor of the view that the pledgee has an insurance interest.
+ In addition, Part 1 of Article 908 of the Code defines the Bank's obligation to ensure the return of citizens' deposits through compulsory insurance.
+ Or Article 740 1 1 stipulates that the construction contract may provide for the risk of accidental loss or accidental loss of the construction site, materials, equipment, other property used during construction, or the corresponding liability of the party responsible for causing damage to other persons during construction works.
+Existence of insurance interest with the pledgee, obligation of the Bank to insure the return of the deposit through insurance և հնարավոր The ability of the contractor to insure the risk of accidental loss or accidental damage to the construction site, materials, equipment այլ other property used during construction. wide commentary.
+ We believe that this approach is more justified, as the existence of an insurance interest in the property և the possibility of concluding a property insurance contract with a limited number of persons can hinder the development of the insurance relationship.
+  The jurisprudence of foreign countries is aimed at endowing a large number of subjects of civil-legal relations with insurance benefits.
+ Let us present some court cases on insurance interest as a justification.
+ Particular attention should be paid to the following case from the arbitration practice of the Russian Federation, in which the issue of having an insurance interest with the pledgee was referred to. A loan agreement was signed between the bank և LLC,, and a car was pledged to ensure the fulfillment of the obligations arising from it.
+  The pledged car was insured in favor of the bank.
+The collateral was damaged during the validity of the credit և insurance contracts.
+  The insurance company refused to pay compensation to the bank, citing the lack of insurance interest in the latter.
+ In this case, the court upheld the bank's claim, the loan agreement, citing the collateral agreement for its execution as a basis for the bank to have an insurance interest. [8]
+From English case law in the case of Samuel v Dumas in connection with the insurance of a cargo ship, the English court stated that the pledgee had an insurance interest.
+In the case of Kanes v. Jones & Others, in connection with the insurance of a cargo ship by a non-ship-owning ship management company (Ship ManagerCompany), the court ruled that the insurance interest should not necessarily be conditional on owning property or having property rights under the contract. .
+ In the mentioned case, the court had set a precedent that in case of marine insurance, the company's interest in the successful organization of the trip is sufficient for the existence of the insurance interest. as this is the reason for the company's probability of profit or loss.
+In the case of Coles v Sir Federic Young, the court referred to the question whether the shareholder of the company could insure the property belonging to the company in his favor.
+  In the above case, the court noted that the shareholder, as the creditor of the company, had no insurance interest in the company's property, and the latter could not insure it in his favor.
+A similar view was taken by a British court in Macaura v. Northern Assurance Co Ltd.
+  In the case of Aked & Co Ltd v. Wheel & WingsAssurance Association, referring to the opposite situation, the court ruled that the company could not insure the property of its shareholder in its favor.
+ The courts in Waters v Monarch Fire andLife Assurance Co Dal Dalgleish v Buchanan & Co's courts have ruled that the custodian has an insurance interest in the property transferred to his custody and that he has the right to insure it in full.
+In our opinion, the member of the owner-owning family, who lives with the owner in the house belonging to the owner, has an insurance interest.
+We find that due to the diversity of civil law relations, it is very difficult to formulate such a common concept of insurance interest, which will cover all possible situations եկտ entities.
+ This is evidenced by the various court precedents and the notions of insurance interest given within them.
+ In our opinion, the description of the insurance interest on property insurance, "the description of the interest in the protection of property does not reflect its entire content" in the Code, may cause controversy during its application.
+  Summarizing the foreign experience, we find that in the case of property insurance, the expected benefit as a result of the insurance of the insured property հնարավոր the possible damages as a result of its destruction or damage should be defined as criteria of insurance interest.
+  Taking into account the above, we suggest editing the second paragraph of Article 996 of the Code with the following content: "Under a property insurance contract, property may be insured for the benefit of a person (insurer or beneficiary) who has an interest in maintaining that property on the basis of a law, other legal act or contract.
+There is an interest in the protection of property if a person expects a benefit from the protection of the property, and in case of its destruction, damage or loss the latter may be harmed.
+  In the absence of interest in the protection of the insured property with the insured or the beneficiary, the concluded property insurance contract is invalid. ”
+ A similar rule for the protection of property is found in the Quebec Civil Code.
+When concluding an insurance contract, the insurer has the opportunity to check the insurance interest of the insured or the beneficiary.
+ Taking into account the above, we consider that the obligation to prove the invalidity / irrelevance of the contract on the basis of lack of insurance interest should be placed on the insurer.
+  Such a position was also expressed in the case law of the Russian Federation.
+As already mentioned above, the imperative requirement of having an insurance interest refers to the moment of concluding the contract.
+ The question arises as to what to do in cases when the policyholder or the beneficiary had an insurance interest at the time of concluding the contract, but it disappeared during the term of the contract.
+  One of the reasons for insurance benefit may be the transfer of rights to the insured property to another person.
+ For example, the owner, insuring the property, sells it during the validity of the insurance contract, losing his interest in its preservation.
+ For such situations, the following rule defined in Part 1 of Article 1016 of the Code: "In case of transferring the rights to the insured object from the person in whose favor the insurance contract was concluded to another person, the rights and obligations under that contract shall be transferred to him / her only with the consent of the insurer, unless otherwise provided by law."
+ It follows from the above norm that in case the rights that are the basis for the existence of the insurance interest are transferred to another person, the rights under the insurance contract with the consent of the insurer և The obligations are transferred to the mentioned person.
+ In the submitted copy, they will be transferred to the new owner with the consent of the insurer.
+Or if the leased property is insured in favor of the lessee, in case of termination of the lease agreement, the insurance interest will be transferred to the new lessee.
+ In the absence of the insurer's consent, the insurance premiums paid for the remainder of the insurance contract are refundable.
+ We consider that in order to make the application of the mentioned article more effective, the property insurance certificate should state the basis of the property protection interest.
+Therefore, we propose to add a 12-point clause in Part 3 of Article 998 of the Code with the following content: "12) the interest of property protection."
+The elimination of the insurance interest can also take place for reasons such as the loss of the insured property, the cessation of business activity, etc.
+ In the mentioned cases, the insurance contract is subject to elimination of the possibility of reaching an early termination of the insurance accident on the basis of termination of the existence of the insurance risk (Part 1 of Article 1014 of the Code).
+In the case of property insurance, there may also be situations where the interest in the custody of the property disappears by the termination of the rights to the property without transferring them to another person.
+ For example, in case of termination of the pledge agreement, the rights of the pledgee to the pledged property are abolished, as a result of which the pledgee loses the interest of keeping the pledged property.
+ As a result of the termination of the pledge agreement, the rights of the pledgee to the subject of the pledge are not transferred to another person, therefore Part 1 of Article 1016 of the Code is not applicable.
+ We consider that in such situations the insurance certificate should be terminated for a period of time, the possibility of which is not directly provided by the Code.
+ Taking into account the above, we suggest editing Part 1 of Article 1014 of the Code with the following content: "The insurance contract is terminated prematurely, if after its entry into force the possibility of reaching an insurance accident has disappeared, the interest. "
+ As for the elimination of the insurance interest after the insurance accident has already taken place, we find that it can not have any impact on the company's liability for insurance compensation.
+Part 1 of Article 237 of the Code stipulates that the mortgagor, depending on who owns the pledged property, unless otherwise provided by law or contract, is obliged to insure the pledged property at full value from the risk of loss or damage. and if its full value exceeds the collateral requirement, not less than that amount.
+ Based on the dispositional arrangements provided for in this norm, often in collateral agreements the parties agree that the pledged property will be insured by the pledgee.
+ Moreover, in practice, the collateral is often insured by the pledgees in their favor.
+  Mortgage insurance contracts concluded under the mentioned "structure" are mostly found in the property insurance contracts pledged within the framework of the loan agreement, in which the bank-pledgee is և´ the insurer, և´ the beneficiary.
+ Such contracts sometimes cause problems for the pawnbrokers, who, not being a party to the insurance contract, are not mentioned as beneficiaries, and in the event of an insurance accident, they are deprived of the opportunity to directly claim the insurer, the latter's actions and decisions.
+As a solution to the problem under discussion, we propose the idea of ​​"according to the law enforcer".
+ In particular, Article 1012 of the Code stipulates that the policyholder has the right to conclude an insurance contract in favor of another person, the beneficiary, in which case the beneficiary is the person entitled to receive the insurance compensation provided by the insurance contract.
+  Thus, in an insurance contract, the parties may agree that in the event of an insurance accident, the insurance indemnity will be paid to another person other than the policyholder who is listed in the contract as the beneficiary.
+In some cases, the Code imperatively defines the list of persons who act as beneficiaries under the insurance contract.
+  Such persons, being independent beneficiaries of the insurance contract, are in fact "beneficiaries according to the law" 2.
+ In particular, Part 7 of Article 996 of the Code stipulates that 2 The concept was put forward by the authors of the article.
+Only the policyholder can be a beneficiary under the business risk insurance contract.
+  Clause 4 of Article 10211 of the Code for Third Party Liability Insurance Contracts սահման This stipulates an imperative requirement that a liability insurance contract for damage caused by a damage is deemed to have been concluded in favor of the persons who may be harmed (in favor of the beneficiaries), even if in favor of the policyholder or another person liable for the damage caused, or the contract does not specify in whose favor it was concluded.
+Referring to the owner of the property, it should be noted that the protection of the latter's interest is conditioned by the nature of the property, the absolute property right, which derives from the law.
+  In any case, the owner has the interest of protecting the property, which is based on the law.
+ As for other persons other than the owner, the insurance interest of the latter is based on the existing civil relations with the owner և not on themselves, but on the protection of the property belonging to the owner [16].
+ It follows from the above that regardless of whether the owner is a direct participant in the property insurance contract or not, the latter, as the property owner, is directly or indirectly interested in receiving insurance compensation in case of damage to the insured property.
+  This argument is based on the fact that the interests of other persons different from the owner in the protection of the property are based on the contracts concluded with the owner, so the latter can use the insurance compensation means to direct them to the restoration of the insured property or provide it to the owner.
+  Comparing this argument with the example of the collateral insurance under discussion, it should be noted that even if the collateral is insured by the beneficiary, the latter, receiving the insurance compensation, must direct it to the satisfaction of the collateralized claim or through it restore the collateral as the insured collateral ) consists only in the fulfillment of the obligation secured by it պահպան in the maintenance of the subject of the pledge.
+As we have noticed, in both cases of the pledgee disposing of the insurance indemnity means, it is finally transferred to the pledgor, in which case it is directed to the fulfillment of the pledged obligations, in the other case it serves to restore the subject of the pledge.
+  The lessee may use the insurance indemnities for damage to the leased property only for the restoration of the said property or pay the landlord as liability for the damage to the property.
+Based on the above, in our opinion, it should be envisaged that the owner is defined as a "beneficiary according to the law", regardless of whether the latter is a direct participant in the insurance contract or not.
+  The latter's powers as a "statutory beneficiary" should be limited to the fact that the latter should be able to file a claim with the insurer that the insurance indemnity be paid to the policyholder, and if there is a "contractual" beneficiary to the "contractual" beneficiary, through which the owner can to repair the damage caused in case of damage or destruction of the property.
+LITERATURE [2] Geoffrey C., Betting on Lives.
+ The Culture of Life Insurance in England, 1695-1775, [6] Fogelson Ю. B., Law of Fear.
+  Theoretical bases and practical applications.
+ monograph, Moscow, Norma.
+ Infra-M, 2012, p. 108, 384-385. [10] Noussia K., The Principle of Indemnity in Marine Insurance Contracts.
+ A Comparative [13] Great Britain.
+ Law Commission, Insurance contract law.
+ post contract duties and other Movses Khachatryan INSURANCE INTEREST IN PROPERTY INSURANCE AGREEMENTS Keywords: insurance interest, insurance contract validity beneficiary by law, property owner.

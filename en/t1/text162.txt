@@ -1,0 +1,49 @@
+Beekeeping is one of the developing and profitable branches of RA agriculture.
+  The dry climate of Armenia and the variety of flower species allow to obtain high quality honey [1, 2], which contains many chemical elements useful for the organism [14, 15].
+ Some scientific data suggest that the chemical composition of honey can fluctuate, which is due, in particular, to the geochemical characteristics of the place of production.
+  Scientific studies have shown that honey produced in different places can contain not only valuable nutrients, but also substances harmful to human health, including heavy metals [3, 8, 13, 14].
+  In recent years, studies conducted abroad and in the Republic of Armenia have revealed carcinogenic and non-carcinogenic risks due to nickel (Ni) exposure [11, 12, 15].
+  According to the scientific opinion of the European Food Safety Authority (EFSA), the chronic nutritional impact of nickel is currently a public health concern [7].
+  Chronic exposure to nickel has been shown to have a number of harmful effects on the human digestive, nervous, and immune systems.
+  In addition, according to the International Agency for Research on Cancer (IARC), nickel and nickel compounds belong to group 2B of potential human carcinogens.
+ Therefore, even a small amount of nickel in food can have a side effect on human health.
+ Thus, the aim of the study was to assess the non-carcinogenic and carcinogenic risk of nickel exposure through the consumption of honey.
+ Materials and methods Sampling of honey was carried out in 2016 in accordance with the requirements of international standards.
+  In total, 10 single samples of poly-flowered honey sampled from 10 different settlements of the Republic of Armenia (Noyemberyan, Hankavan, Ashotsk, Talin, Aparan, Gavar, Ararat, Aghavnadzor, Sisian, Kapan) were studied.
+  In order to ensure the representativeness of the common specimens, at least 3 beekeeping farms or beekeepers were selected from each settlement.
+ Nickel content in honey samples was determined using an atomic absorption spectrometer.
+  Nickel degradation operations and quality assurance procedures are detailed in Pipoyan's article.
+ The consumption of honey by men and women aged 18-70 years was studied in 2017 using the 24-hour recall method of data collection on diet.
+  These 27 honey consumption data were entered and analyzed using SPSS statistical program (SPSS Ins., Version 11).
+  According to the ANOVA analysis, the average daily consumption of honey for both men and women was 16.2 g.
+ Daily nickel intake (EDI), non-carcinogenic and carcinogenic risk were assessed by combining nickel content and honey consumption data in the samples.
+ Daily Nickel Intake Assessment (EDI) The daily intake of nickel through honey consumption was estimated by the following formula: where C is the nickel content in the honey sample (mg / kg) and IR is the average daily honey intake (0.00162 kg / day). , EF - frequency of exposure (365 days / year), ED - duration of exposure (63.6 years for men and 69.7 years for women, taking into account the average life expectancy), BW - body mass (men (70 kg for women and 60 kg for women), the median duration of exposure to AT is 70 years (25,550 days) for carcinogenic risk assessments.
+ Non-carcinogenic risk assessment The target risk factor (THQ) was calculated to assess non-carcinogenic risk due to chronic nickel exposure.
+  The calculation was performed using the formula where RfD is the oral reference dose of nickel (0.02 mg / kg / day) set by the US Environmental Protection Agency. According to the accepted methodology, values ​​greater than 1 THQ indicate human potentially harmful to health, and values ​​less than 1 are considered acceptable.
+ Cancer Risk Assessment Nickel Cancer Risk Assessment (CR) was performed using the following formula, where SF is the carcinogenicity coefficient used to assess the likelihood of developing cancer due to metal exposure throughout human life.
+  At work, the nickel carcinogenicity coefficient was based on a value of 1.7 (mg / kg / day) -1.
+ 28 According to the methodology proposed by the US Environmental Protection Agency, CR <10 −6 is an acceptable limit, while values ​​of 10 −6 <CR <10 −4 and CR> 10 −4 indicate a potential carcinogenic risk to the population [16].
+ Results and their discussion The average nickel content in honey samples (Table 1) is in the range of 0.19-0.51 mg / kg.
+  It should be noted that, according to the scientific opinion of the EU Food Safety Authority, the permissible level of nickel in food is not yet defined.
+  However, a comparative analysis with the data presented in the scientific literature suggests that the average nickel content in the studied honey samples is about 2.4-6.5 times lower than the average amount of nickel in the honey produced in different countries (1.24 mg / kg) [ 15].
+ Table 1. Nickel contents in honey samples N / A Place of honey production Ni content in honey, mg / kg (M ± SD) Noyemberyan Hankavan Ashotsk Talin Aparan Gavar Ararat Aghavnadzor Sisian 0.21 ± 0.04 Kapan 0.19 ± 0.02 Note:
+  M - Ni average content, SD - standard deviation.
+ Nickel is a dangerous element and, even in small quantities, can have harmful effects on human health.
+  Therefore, a risk assessment due to nickel exposure through honey consumption was performed.
+ The estimated daily nickel intake (EDI) for men and women is shown in Figure 1 and Figure 2.
+ Fig. 29 1. Estimated daily nickel intake for men Fig. 2. Estimated daily nickel intake for women: Estimated daily nickel intake (EDI) for men is 4,40E-05-1,18E-04 mg / kg / day, and for women: 5,13E-05-1,38E- In the range of 04 mg / kg / day.
+  It should be noted that the results obtained are significantly smaller than the tolerable daily intake approved by the EU Food Safety Authority (2,80E-03 mg / kg / day) [7].
+ Target risk ratios calculated to assess non-carcinogenic nickel risk are shown in Figure 3.
+ Fig. 30 3. Nickel Target Ratio (THQ) for Men and Women The results obtained (Figure 3) show that the estimated THQ values ​​for women (0.0026-0.0069) are higher than the same values ​​for men (0.0022- 0.0059).
+  However, it should be noted that in both cases the THQ values ​​are significantly lower than the safety threshold (THQ <1).
+  The latter testifies to the absence of non-carcinogenic risk due to the influence of nickel through the consumption of honey.
+ Nickel is classified as a potential human carcinogen by the International Agency for Research on Cancer.
+ Therefore, the risk of carcinogenic nickel (CR) through honey consumption was assessed.
+  The obtained results are presented in Figure 4 and Figure 5.
+ Nickel carcinogenic risk values ​​are in the range of 6.79E-05-1.82E-04 for men and 8.68E-05-2.33E-04 for women.
+  The results exceed the limit value accepted by the US Environmental Protection Agency (CR> 10 −6).
+  In addition, CR> 10 −4 values ​​obtained for some samples of honey (place of production: Ashotsk, Hankavan, Aparan, Gavar, Sisian) indicate a potential carcinogenic risk to the population [16].
+ Fig. 31 4. Nickel carcinogenic risk for men Fig. 5. Carcinogenic risk of nickel for women In general, the results suggest that the daily intake of nickel through the consumption of honey does not exceed the established tolerable amount.
+  However, there is a risk of carcinogenesis due to chronic exposure to nickel when consuming samples of honey studied.
+ Thus, the results of the work emphasize the need and importance of further extensive research to assess the risk of nickel in the diet of the population.
+ .

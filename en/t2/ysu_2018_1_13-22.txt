@@ -1,0 +1,91 @@
+"DILIJAN" NATIONAL PARK FOREST ECOLOGICAL SERVICES EVALUATION Ecosystem services are the benefits that people receive from ecosystems in the form of goods and services.
+ Ecosystem services are interpreted as material, energy, and information flows from natural capital resources that, together with human-physical capital, ensure the well-being of society.
+There are many ecosystem services provided by the forest landscapes of "Dilijan" National Park.
+  Since the 1990s, the forest masses of both the whole of Armenia and the north-east of the country, particularly Dilijan National Park, have been degraded, the flow of ecosystem services has decreased.
+ In this work, with the help of selected indicators, several key ecosystem services were evaluated.
+Carbon dioxide absorption (climate change mitigation) service is one of the most important forest regulation services.
+  At present, when global climate change is a problem all over the world, states are taking concrete steps to reduce greenhouse gas emissions.
+ Forest geosystems absorb carbon dioxide from the atmosphere during their life cycle, effectively retaining carbon in their tissues.
+ However, on the one hand, the increase in the use of mineral fuel, on the other hand, the reduction of forested areas lead to an increase in carbon dioxide in the atmosphere.
+Carbon accumulation has been assessed according to the methodological guidelines developed in the manual developed by the International Climate Change Group [4].
+  Accumulation of carbon is due to the growth of living biomass, and the loss is due to deforestation, fires, biomass loss due to pests and diseases, from which the underground living biomass grows into inanimate biomass.
+  In order to calculate the absorption of carbon dioxide, it is first necessary to determine the average annual growth (m3) of the main forest species accompanying the forest, after which the average weight of all species (m3) is subtracted by the average weighting method per hectare.
+ Then, the base density coefficients of the wood of the tree species removed from the extensive forestry studies are needed to convert the wet mass (living biomass) into dry matter (P0).
+ The coefficients obtained for different species (base density of wood) are converted to the average coefficient by the weighted average method.
+ Then, according to different tree species, it is necessary to determine the amount of carbon in the dry matter, after which the above method (average weight) is used to extract the average.
+With this methodology we have calculated the annual amount of carbon accumulated by the forests of "Dilijan" National Park.
+The current annual growth in the forests of "Dilijan" National Park is 31081 m3.
+TypeAnnualGrowth (m3) Base density (t / cubic meter) Biomass (t) CMPConcentrate of carbon dioxide (t) CO2 (t) Beech OakBokhiPineJajiOther typesTotal C (t) * 4
+Table 1. Calculation of carbon dioxide absorption by the forests of Dilijan National Park. The result is the accumulation of 8450.7 tons of carbon per year and the absorption of 30985.9 tons of carbon dioxide.
+According to the EU Emissions Trading System (ETS) 2015 According to the data, the cost of 1 ton of carbon dioxide emissions has now decreased, ranging from 1 to 20 euros.
+  In other words, the minimum annual cost of the carbon dioxide absorption service in the forests of Ijan's forests is equal to approximately 31,000 euros.
+Map-scheme 1. Carbon accumulated in the forest biomass of "Dilijan" National Park Among the ecosystem services provided by the forest areas, the water regulating function of forests is of special importance.
+ The essence of this service is that the forest affects the quantitative-qualitative characteristics of the water of the rivers flowing there, as a result of which it increases the flow, reduces the seasonal fluctuations of the flow, the hardness of the water, etc.
+ Forest ecosystems soak up the sediments like a sponge, which decreases the surface area and increases the groundwater flow.
+  Due to this, the rivers, whose catchment area is forested, have a more stable feeding regime; the seasonal fluctuations of the flow are smaller, which is a necessary condition for the operation of the hydroelectric power plants located on those rivers [3].
+The essence of the function of regulating the flow of rivers is that the flow of wet season water to the rivers decreases, and in the dry season increases, due to which the available hydrological flow during the year increases.
+  The main beneficiaries of the available hydrological flow are the hydroelectric power plants operating on these rivers.
+ The low level of available flow leads to a reduction in the amount of electricity produced by these power plants - on the contrary.
+As of 2016, there are 3 operating SHPPs in the territory of Dilijan National Park, which together produce 10.6 million kWh of electricity per year.
+  We multiplied it by a factor of 0.42 to calculate the contribution of the forest to the production of electricity from SHPPs [1].
+ The cost of 1 kWh of electricity supplied to the RA energy system by SHPPs in 2016 was 24.8 drams [2].
+  In our estimation, the economic value of the hydrological flow regulation service by the forest is equal to: 10 600 000 x 0.42 x 24.8 = 110 400 600 (AMD) Forest services are the material benefits of the forest, which include food (fruits, berries, fodder plants, fish). ), provision of water (drinking, irrigation), firewood, construction timber, etc.
+In the forests of the National Park, the fruits and berries are obtained mainly from the sub-forest.
+ The population mainly collects walnuts, pears, pears, blackberries and rosehips, mainly for personal and household needs.
+ However, with sustainable management, national park forests can meet other economic needs.
+As a regularity, the subforest is mainly composed of mixed shrub species, and the areas have been assessed as predominant in the composition of shrubs.
+In the territory of the National Park, the total area of ​​the fruit-berry sub-forest's sub-forest is 2000 hectares, the expected harvest from there is estimated at about 105500 kg, where corn prevails - 28.4%, blackberry - 24.2%, walnut - 18.0%.
+NameAppleAppleRasberryBulberryPearwoodNut Hazel Market price
+(AMD / kg) Annual yieldTotal market value (thousand AMD) of the supplier
+/ in the collection area in the consumption area / in the market Supplier / in the collection area in the consumption area
+/ Marketkw WalnutMorOtherTable 2.
+ Volumes of fruit and berry production in the areas of Dilijan National Park Ք Economic assessment Map-scheme 2. Distribution of fruit and berry species of Dilijan National Park Based on discussions with vendors (Table 3).
+HerbsNameCyndricAutableArea Annual MarketA
+yield:
+Price (AMD / kg) Total Market Value (Thousands of Drams)
+ The clean water coming out of the forest is vital in providing drinking water to the surrounding communities.
+ Forests have a great ability to absorb and accumulate water obtained by precipitation.
+ In our work we have calculated the part of precipitation that the forest accumulates and stores.
+ For that, we used the water balance model (we subtracted the amount of evaporated ք surface flow water from the annual precipitation).
+The annual precipitation in the upper reaches of the Aghst River is 590 mm and the evaporation is 260 mm.
+ The catchment area in the upper reaches of the Aghst River is 319.3 km2, ie the amount of water received through precipitation is 188.4 million m3.
+ 44.8% of it evaporates (84.4 million m3).
+Data from the Dilijan Hydrological Observatory on the Aghst River show that the average annual volume of river water at that observatory is 96.9 million m3.
+ That is, the amount of water absorbed and stored by the forest is 7.1 million m3.
+ Multiply it by a factor of 0.42, which is interpreted as the contribution of the forest to the water storage service.
+ The coefficient shows that if there were shrubs or meadows instead of forest vegetation, the amount of water to be absorbed and stored would be 0.42 times less.
+ To evaluate this service, we have used the alternative cost method.
+  We multiplied the amount of water stored by the forest by the cost of storing 1 m 3 of water in a man-made reservoir.
+ For that purpose, we have studied the construction program of Vedi reservoir.
+ It will be the first reservoir built from scratch in the history of independent Armenia.
+ The construction of the reservoir started this year in 5 years.
+ The construction cost of the reservoir is 46.7 billion drams.
+  It will allow storing 29 million m3 of renewable water volume.
+ The estimated service life of the reservoir is 80 years.
+  That is, the expenses for 1 million m3 of water storage are 20.13 million drams.
+ We estimate the value of water stored by the forests of Tavush region: 7.1 x 0.42 x 20.13 = 60 million drams The population of the communities adjacent to Dilijan National Park has historically acquired firewood from the territory of the national park. The volume of firewood use by each household is 10 m3-15 m3 per year: (due to the type of apartment, the gas supply of the given settlement).
+  Cases of illegal deforestation are frequent in the National Park, as the softwood in the national park ը the wood from care and sanitation cuts meet 30% of the minimum firewood demand of the population.
+Since 2014, care and sanitation have been stopped in the area of ​​the national park, արկի currently the park staff sells timber for trees that have fallen in recreational areas և firewood.
+ 2010-2014 During the year the national park sold 16230 m3 of timber and received 108.6 million drams of income.
+Due to the beautiful, diverse landscapes and historical and cultural values ​​of great interest to tourists, the territory of "Dilijan" National Park has a great potential.
+  However, in terms of hosting visitors to the national park - foreign tourists - it has not yet fully realized its tourism opportunities.
+The main period of tourism is summer, when a significant flow of visitors is observed in national park-specific areas, in particular, to Haghartsin, Goshavank, Parz և Gosh lakes.
+ In other months of the year the number of visitors decreases.
+ In total, there are more than 220 historical, archeological and cultural sites in the territory of the national park, most of which are not included in the tourist offers due to their distance.
+ In order to include the latter in the field of tourism, it is necessary to take appropriate steps in the near future to preserve, restore and revitalize them.
+We used the following method to estimate the value of the recreational and ecotourism services of the forests of the National Park. We have multiplied the entrance fee by the number of visitors during one year.
+  Currently, the entrance fee is 500 drams per person, the national park has about two thousand visitors a year.
+ It turns out that the annual cost of recreational and ecotourism services is about 1 million AMD.
+Thus, the estimated minimum annual cost of ecosystem services is 293 million drams.
+  In order to ensure a sustainable flow of forest ecosystem services, it is necessary to adopt an ecosystem approach in the field of management, considering the whole forest ecosystem as an object of management, with all biotic-abiotic components.
+ In the future, we can also think about the possibilities of introducing a system of payment for ecosystem services (PES).
+ The analysis of the current socio-economic situation in Armenia shows that in the near future the practice of introducing a payment system for ecosystem services in the forest sector may have some difficulties և be only partial in nature.
+ In any case, the ecosystem services payment system will be difficult to apply to communities that use forest ecosystem services.
+  However, the application of this system to economic entities (for example, hydropower plants) can be considered, and the funds raised can be used to maintain or restore ecosystem services.
+LITERATURE [1] URL.
+ http:
+//www.mes.am/en/meteo-management/ (Accessed.
+ 06.08.2017). [2] URL:
+ http:
+//www.psrc.am (Accessed.
+ 15.09.2017). Avetisyan Gorik "DILIJAN" NATIONAL PARK ECOLOGICAL SERVICES EVALUATION Keywords: "Dilijan" National Park, ecosystem services, OPAA, firewood, carbon dioxide, hydrocarbon storage, carbon dioxide

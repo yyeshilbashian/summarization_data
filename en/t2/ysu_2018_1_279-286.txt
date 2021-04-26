@@ -1,0 +1,123 @@
+(S) -- (3-ISOBYTYL-4-ALYL-5-THIOXO-1,2,4-TRIASOL-1-YL) --ALANINE ASYMMETRIC SYNTHESIS Involvement of non-protein amino acids in medicine creation of new drugs, agrochemicals այլ other biologically active compounds [1].
+Many drugs are known today, such as antihypertensive, antitumor, antiviral, etc., whose pharmacologically active aglycone is considered a non-protein amino acid or a peptide composed of it [2].
+Of particular interest is the allyl group-containing compounds.
+ Garlic is known to contain a number of allyl substituted compounds (allylmethanesiosulfinate, diallyl disulfide, diallyltrisulfide, allylmethyl trisulphide, S-allyl-mercaptocysteine, S-allyl-cysteine), many of which are biologically conditioned.
+On the other hand, optically active non-protein amino acids containing various heterocyclic substituents on the lateral radical have been of great interest recently.
+Therefore, obtaining amino acids containing heterocyclic rings located in allyl groups in the lateral radical will open a new path for the discovery of interesting, pharmacologically active molecules.
+Formerly nucleophilic ions (thiols) have been developed by binding Ni + ion to the NiII ion-induced complex at the base of Schiff's base of the dehydrolanine և (S) -2- [N- (N-benzylprolyl) amino-benzophenone (BPB) chiral reagent. Asymmetric synthesis methods of α-alanine derivatives [5-7].
+ This approach has been used to obtain enantiomerically enriched α-alanine containing 5-thioxo1,2,4-triazole groups in the lateral radical [8-10].
+In order to increase the enantioselectivity, the chiral complexes formed by NiII ion with the base of BPB chiral auxiliary reagent Schiff were converted to the second position of the aromatic ring of the N-benzylproline residue by the introduction of an electro-acceptor chlorine atom (2).
+ Highly efficient asymmetric syntheses of various α- և β-substituted (S) -amino acids have been performed using modified amino acid complexes.
+In the present work, a 5-thioxo-1,2,4-triazole (S) -alanine derivative was synthesized, which contains an allyl group at the 3rd position of the triazole residue.
+  As the starting dehydroamino acid synths were used dehydrolanine և (S) -2- [N- (N-benzylprolyl) amino-benzophenone (BPB) chiral auxiliary reagent Schiff's NiII ion-induced complex Ni-NiII-(S-NiII-( Ala] և its modified counterpart [NiII- (S) -2-СBPB-∆-Ala (2)]. The attachment of the heterocyclic nucleophile (3) to the dehydroalanine complexes (1, 2) was performed in acetonitrile in the presence of K2CO3 at room temperature. under constant mixing conditions (Scheme).
+The coupling reaction was followed by the NSH method according to the disappearance of traces of the initial dehydroallanin complexes (1, 2) and the formation of traces of synthesized complexes (S, S) - և (S, R) diastereomers.
+Scheme The absolute configuration of α-carbon of the amino acid residue of the basic diastereomeric complexes (4, 5) was confirmed by polarimetric measurements at a wavelength of 589 nm [5].
+ In the past, the example of complexes with a similar structure has shown that the values ​​of (S) - complex configurations containing amino acids (S, S) - diastereoisomer optical rotations in the specified wave region have a positive sign, and (R) - absolute configurations (amine S) diastereomers] - a negative sign.
+  The positive optical value of diastereomer complexes indicates their (S, S) absolute configuration.
+The ratio of (S, S) to և (S, R) diastereomer complexes was determined by the 1H MMR method.
+  The ratio of diastereomer complexes և chemical outputs are given in the table.
+յ:
+n:
+ի:
+a
+E:
+l:
+s:
+q:
+e:
+l:
+p:
+m:
+o:
+k:
+Complex:
+Amino acid
+Chem. exit
+ի:
+a
+ի:
+ց:
+k:
+a
+e:
+R:
+յ:
+n:
+ւ:
+o:
+թ:
+ւ:
+o:
+ղ:
+o:
+և:
+t:
+e:
+p:
+o:
+r:
+Results of binding of heterocyclic nucleophile (3) to 1 և 2 chiral complexes in CH3CN / K2CO3 medium at 50 ° C * - (S, S) - և (S, R) - ratio of diastereomers based on 1H-MMR data, ** - chemical output at nucleation , *** - enantiomeric excess of separated amino acid (ee) based on BACH data, **** - chemical output of separated amino acid (calculated according to the output quantities of 1 և 2 complexes).
+As shown in the data in the table, compared to the unmodified complex (1), the asymmetric coupling reactions of the dehydroalanine to the modified complex (2) of the nucleophile (3) show an increase in both synthesis and stereotyping.
+In the case of the modified complex (2), the slowing of the coupling reaction is probably due to the spatial difficulties of coupling the large dehydroamino acid residue of the complex triazole fragment.
+The increase in stereoselectivity of the reaction when passing from the unmodified complex (1) to the modified complex (2) can be explained by the intramolecular spatial changes in the macrostructure of the complex as a result of the introduction of Cl-substituents.
+ As previously shown on the example of similar alanic complexes modified by X-ray structural analysis, the position of the benzyl group is changed by the presence of a chlorine substituent on the phenyl ring of the N-benzylproline residue.
+ Probably due to the gravitational interaction between the Cl-substituent and the metal ion, the N-benzyl group shifts slightly to the amino acid residue, which narrows the cavity into which the large heterocyclic nucleophilic agent is to be attached to the dehydrolanoantine moiety.
+ This can lead to destabilization of minor (S, R) diastereoisomers of the coupling complexes, and consequently to an increase in the stereoselectivity of the synthesis of major (S, S) diastereoisomers, which is observed in this work.
+Nucleophilic coupling result A small part of the mixture of diastereomeric complexes was chromatographed to confirm the structure of the basic (S, S) -absolutely configured diastereomeric complexes (4, 5) and to reveal the absolute configuration [SiO2, 20x30cm, CHCHl 3 (CHOl3).
+1)] վել described by spectral methods of analysis.
+Target amino acid was isolated from diastereomeric complexes (4, 5) by standard methods [11].
+ Thus, an enantiomerically pure (ee 98%) (S) -alanine derivative (6) containing 5-thioxo-1,2,4 triazole located in the side radical was synthesized (6).
+ The auxiliary chiral reagents (S) -BPB and (S) -2-СBPB are regenerated by quantitative chemical solutions, maintaining the original optical purity, which allows them to be used repeatedly in asymmetric synthesis of amino acids.
+Experimental part. 1 և 2 complexes were synthesized according to the previously developed methods [5, 10], and 4-allyl-3-isobutyl-4,5-dehydro-1H-1,2,4-triazol5-thiol (3) nucleophil was synthesized at YSU Organic Chemistry in the chair.
+1H-MMR spectra were removed on a Merkury-300 Varian NMR (300 MHz) spectrometer (Yerevan, Molecule Structure Research Center, NASA).
+  The value of optical rotation was measured on a "Perkin Elmer-341" spectropolarimeter.
+ Melting temperatures were measured with the "Elektrothermal" device.
+NiII- (S) -BPB - "- Ala PGly և NiII- (S) -2-CBPB -" - Ala complexes 4-allyl-3 isobutyl-4,5-dehydro-1H-1,2,4-triazole- Asymmetric connection of 5-thiol.
+0.01 mol (5.01 g) of NiII- (S) -BPB - "- Ala (1) or NiII- (S) -2CBPB" "Ala (2) (5.44 g) complex solution dissolved in 15 ml of CH3CN was added 0.02 mol K2CO3.
+ The reaction mixture was stirred at 40-450C for 20-25 minutes, then 0.015 mol of nucleophile (2.96 g) was added.
+ The reactions were followed by the NSH method on SiO2 plates: CHCl3 / CH3COCH3 (3).
+1) the disappearance of traces of the resulting complexes (1, 2) in the solvent system; the establishment of equilibrium between the diastereomers of the resulting coupling complexes.
+ The reaction mixture was then filtered and the residue was washed with CH3CN.
+ The resulting filtrate was vacuum evaporated to give a dry residue.
+Diastereomer complexes were isolated by silica gel chromatography or methanol deposition and studied by modern physicochemical analysis.
+Complex 4.
+ T er = 117-1190С. [] 20:
+D = +1338.230 (C = 0.034, MeOH). Found,%.
+ C62.70; H 5.60; N 11.71.
+ C37H40N6NiO3S.
+ Calculated,%.
+ C 62.83; H 5.66; N 11.88.
+iso-C4H9); 1H-MMR spectrum 2.08 (1H, m, -Ha Pro); 2.20 (1H, m, -Ha Pro); 2.34 (1H, dd, m, H (2.6) Ph); 8.22 (1H, dd, J1 = 8.7, J2 = 1.0, H (6) C6H4).
+  13C- IMP spectra (CDCl3) 22.7 (C); 175.7 (C); 180.3 (C).
+Complex 5.
+  T er. = 118-1200C.
+  Found,%.
+  C 63.56; H 5.69; N 11.39.
+C38H42N6NiO3S.
+ Calculated,%.
+ 63.27; H 5.83; N 11.66.
+ [] D:
+CH3OH).
+ 1H- MMR spectrum РМР (DMSO / CCl4 1/3, , m.d., J / Гц) 0.90 and 0.90 (3H, d, J = 6.6,2.2 'Ph).
+Decomposition of complexes ումը release of target amino acid.
+The dry residue of the complexes (4, 5) was dissolved in 100 ml of CH3OH ման under mixing conditions slowly added to aqueous solution of 6N HCl heated to 500 ° C.
+After the disappearance of the red color characteristic of the complex, the solution was evaporated in an evacuation.
+ Distilled water was added to the dry residue են filtration chiral reagents ((S) -BPB և (S) -2-CBPB).
+ The target amino acid was separated from the resulting aqueous solution by passing it through a tower filled with H + horse Ky-2x8 cation exchange resin using the 5% NH4OH solution as an element.
+ The ammonia eluate was then subjected to vacuum evaporation to a dry residue.
+  Targeted optically active amino acid was crystallized C2H5OH.
+H2O (1:
+1) from the system.
+(S) -- (3-Isobutyl-4-allyl-5-thioxo-1,2,4-triazol-1-yl) --alanine (6).
+  Тр = 246-2480 C. Found,%.
+  C 50.70; H 7.04; N 19.71.
+C12H20 N4O2S.
+ Calculated,%.
+C50.83; H 7.16; N 19.84.
+ [] 20:
+D = -8.950 (C = 0.335, 6N HCl). 1H- MMR spectrum (DMSO, , m.d., J / Гц).
+  0.95 (6H, d, J = 6.6, CH3); 2.06 (1H, m, CH i-Bu); 2.43 (2H, d, J = 7.1, CH2 i5.18 (1H, d, d, J1 = 10.4, J2 = 1.7, = CH2); 5.81 (1H, dd, t, J1 = 17.2, J2 = 10.4, J3 = 5.3, = CH).
+LITERATURE Haroutyunyan VS, Avetisyan AA, Belokon 'YN, Fisher K., Tetrahedron.
+Khrustalev VN, Tetrahedron.
+  Asymmetry, 2006, v. 17, p. 2743.Tetrahedron.
+ Asymmetry, 1998, v. 9, p. 4249.Baghdasaryan Margarita (S) -- (3-ISOBUTYL-4-ALYL-5-THIOXO-1,2,4-TRIASOL-1-IL) non-protein amino acid, heterocyclic substituted.

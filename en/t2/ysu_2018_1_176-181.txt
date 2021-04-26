@@ -1,0 +1,55 @@
+QUALIFICATIONS OF GLUCOSE AND GLUCOGEN CONTENT IN CONDITIONS OF LONG-TERM INDEPENDENCE The development of effective measures of the body's resistance to various stressors is one of the current problems in modern medicine.
+Under the influence of stress factors, the pituitary-adrenal system is stimulated, the amount of biologically active substances in the body increases, the level of redox processes changes, which play an important role in adapting the organism to the changed environmental conditions and ensuring the vital activity [2].
+ Since at present a drastic change in human lifestyle has led to a restriction of physical activity, and the normal functioning of the body is possible only with sufficient mobility (it has a positive effect on the normal course of physiological functions of the body), especially the study of emotional stress.
+ These include immobility, which as a stress factor causes tension in the regulatory mechanisms, reduces the body's reserves, leads to disruption of the reproduction of protein structures, suppresses energy processes, causes disorders of electrolyte metabolism [3].
+Under the influence of stress stimuli, the body seeks to provide energy to the nervous tissue, which is carried out by the oxidation of glucose.
+ Under the influence of any kind of stressors, the secretion of insulin is suppressed, which significantly reduces the entry of glucose into the cells, which accumulates in the blood for use by the nervous tissue.
+In the literature we have studied, there have been no studies on the patterns of changes in blood glucose and glycogen content in tissues under the long-term effects of immobilizing stress.
+ Therefore, we have the task of studying the nature of quantitative changes in glycogen content in the blood of rabbits, as well as in their liver, skeletal muscle and heart muscle under the long-term effects of immobilization.
+Material և method.
+ The object of study was Orictolagus cuniculusdomesticus rabbits of the same sex (male) weighing 2.5 kg under the same care conditions.
+ Changes in glucose և glycogen content have been studied under the influence of immobilizing stress.
+  In order to cause immobile stress, the animals were fixed firmly on the experimental table for 30 days, 3 hours each day.
+ The glucose content of rabbit blood was determined normally, 3 hours after exposure to stress, every 5 days for 30 days by glucose oxidase [4].
+On the 10th, 20th, and 30th days of the study, glycogen levels were determined in the rabbit liver, skeletal muscle, and heart muscle by Chrisman's modified method.
+Results և discussion.
+ Studies have shown that the nature of changes in rabbit blood glucose under long-term exposure to immobilizing stress depends on the extent of the stress.
+ Immediately after 3 hours of stress, the animals showed hyperglycemia, the glucose content increased by 31% compared to normal (Fig. 1).
+ After 5 days of stress, the increase in glucose content continued, exceeding the norm by 35%.
+ During the 10th to 15th days of the study, the glucose content decreased compared to the previous days, but was still at a high level compared to the baseline.
+Line 1. Patterns of changes in glucose content in the rabbit's blood under conditions of prolonged immobilization. Along with the increase in immobility, a gradual decrease in glucose content was observed on the 20th day compared to the norm by 4%, on the 25th day by 17.6%, on the 30th day. 20.5%.
+  Thus, hyperglycemia was observed in the initial period of immobilizing stress, and hypoglycemia in the conditions of prolonged exposure.
+ Initially, an increase in glucose levels is a normal occurrence due to the mobilization of the body's compensatory adaptive mechanisms, as the need for glucose increases sharply in stressful situations.
+The effect of any kind of stressors is regulated by the entablature-cerebrospinal-adrenal system, which activates the synthesis of glucocorticoids ումն catecholamines, which provide energy to the tissues.
+High glucose levels after 3 hours of stress օրերին days 5, 10, 15, probably due to stress response in response to immobility caused by intense breakdown of glycogen stored in muscles յարդ due to intense storage of energy in the liver և muscle by the secretion of stress hormones (glucocorticoids, catecholamines, thyroid hormones).
+  Catecholamines increase the secretion of glucagon, which promotes glycogenolysis, at the same time inhibits the secretion of insulin, resulting in hyperglycemia.
+ Increasing the content of glucocorticoids և catecholamines in the liver stimulates the production of glucose from fatty acids և amino acids - gluconeogenesis.
+  Muscle proteins և Fatty acids become the main endogenous source of energy.
+ Glucocorticoids և Catecholamines attenuate the effect of insulin on insulin-dependent organs և Tissue absorption of glucose, which նպաստ contributes to hyperglycemia.
+  And the long-term effect of immobilizing stress causes hypoglycemia.
+ Probably in case of prolonged immobility (20-30 days of research) glucose is used by the brain and muscles as a source of energy.
+ The body adapts to the effects of stress.
+Other researchers have shown the role of the central catecholaminergic (CA) neuronal system in the regulation of stress-induced hyperglycemia.
+  Removal of these neurons from the ventricles (VLMs) prevented the hyperglycemic response to both physical and psychological stress, whereas the chemogenetic activation of these neurons was sufficient to cause hyperglycemia.
+  Hyperglycemic subarachnoid nucleus (VLM) has been shown to be hyperglycemic.
+  Such studies significantly expand the existing understanding of the central mechanism of regulation of glucose metabolism [6].
+Since changes in glucose content can cause quantitative changes in glycogen, in the next phase of the study we studied the effect of immobilizing stress on rabbit liver, skeletal muscle, and heart muscle on changes in glycogen content.
+ The obtained results are presented in Table 1.
+Study groupMotivated stress groupGlycogen content (mg / g in tissue) Liver
+Research days
+Norm:
+10 days
+20 days
+30 daysSkeletal muscleCardiacTable 1. Effect of prolonged immobilizing stress on rabbit skeletal muscle, liver և myocardium (n = 5, p <0.05) on changes in glycogen content (mg / tissue) As shown in Table 10 shown in Table 2 below. The amount of glycogen in the liver of a rabbit decreased by 21.7% compared to the norm, after 20 days of exposure to stress, it continued to decrease by 41.5% under the influence of "stress", almost 2.5 times compared to the output.
+  Combining such dynamics of quantitative changes in rabbit liver glycogen due to stress with changes in the blood glucose content of animals, we can confirm that the increase in blood glucose levels in 1-15 days of immobilized stress may be due to glycogen degradation in the liver.
+ As already mentioned, it is the result of the insertion of stress hormones.
+It has been shown that as the intensity of immobilizing stress increases, the glycogen content of the skeletal muscle և myocardium նույնպես also gradually decreases արդյունքում As a result of 30 days of stress, the glycogen content decreases twice as much as normal.
+ As it is known, the function of glycogen in the muscles and liver is different.
+ Normally, glycogen is used by the liver to maintain a physiological concentration of glucose in the blood, and in skeletal muscle to provide tissue with energy.
+ As the enzyme glucose-6-phosphatase is absent in the muscles, the glucose-6-phosphate produced during the breakdown of glycogen cannot be converted to free glucose and is immediately involved in the process of glycolysis.
+ As a result, during prolonged and intense physical work, the amount of muscle glycogen is significantly reduced.
+ Such a tense situation is created under the influence of various stress factors, such as immobilizing stress.
+The decrease in the amount of glycogen in the heart muscle of a rabbit is probably due to the fact that the latter is involved in the processes of cell metabolism.
+  It can be assumed that during this period, when the amount of glucose in the uterus decreases, the main biochemical pathway that produces energy in the heart muscle remains glycolysis, and the glucose is supplied by the heart muscle glycogen [7].
+LITERATURE for the practice of biochemistry, Text-methodological manual, Kazan.
+ КГУ, 2008, Anahit Shirvanyan VARIABLES OF GLUCOSE AND GLYCOGEN CONTENTS IN CONDITIONS OF LONG-TERM INACTIVITY Keywords: glucose, glycogen, immobilizing stress.

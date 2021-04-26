@@ -1,0 +1,55 @@
+The Balanced Scorecard is one of the most effective modern tools for managing organizations.
+  However, the experience of many companies shows that the implementation of the Balanced Scorecard (PPC) system fails due to incomplete analysis, lack of strategy, unclear goals and processes.
+  In commercial banks, as well as in other for-profit companies, it is necessary to go through certain stages for the introduction of JMF.
+  The hierarchical structure of this path begins with the formulation of the mission and ends with the implementation of the strategy through the JMF [1]. Mission: Why was the company created? Values: what does it believe in and how will it operate? Vision: What does it want to achieve? Strategy: What is the competitive game plan? Development and implementation of a balanced system of indicators, it is necessary to clearly and concisely define the bank's mission, values ​​and vision.
+  A well-defined mission is one of the cornerstones of a successful strategy that helps managers move in the right direction, and 169 ECONOMICS prompts partners, customers and other entities about the company's purpose.
+  Values ​​are the beliefs and priorities that the bank must follow.
+  If we consider the mission as a way, then the vision is the end point that the bank strives to achieve due to consistent and efficient work.
+ Then, we offer to evaluate the strategic position of the bank, the available resources, the opportunities.
+  Only by having complete and systematic information is it possible to make a realistic plan and direct efforts and means to its implementation.
+  When developing a strategic plan, the management of a commercial bank should consider it as a roadmap, which clearly sets out the vision, what the bank is striving for, and why the mission is going that way.
+ To assess the current state of the bank, one can start with the SWOT analysis widely used in the business world.
+  The name is formed from the initials of the following words:  Strengths - strengths  Weaknesses - weaknesses  Opportunities - opportunities reat Threats - threats SWOT allows you to choose the strategy that best suits the existing resources, advantages and environment of the organization [2].
+  Of course, this tool has drawbacks, in the sense that it is often very general and not enough for in-depth analysis.
+  However, a SWOT analysis can be performed for the whole bank and individual departments, which will allow to identify the strengths and weaknesses of the bank in order to eliminate threats and seize opportunities.
+ 170 ECONOMICS Table 1. Example of Commercial Bank SWOT Analysis  Weak Marketing Policy բարձր High Employee Flow  Non-Diversified Portfolio փոքր Small Branch Network ակից Comprehensive Organizational Structure Technological Satisfaction Competitive New Corporate Culture Quality of Service Services pace աճ Overdue growth  Decrease of trust Cooperation with financing institutions New markets Involvement of highly qualified specialists Expansion of services Introduction of effective management system Table 1 presents a simple approach to SWOT analysis, when the internal and external factors of the bank are separated without further calculations. .
+  Strengths and weaknesses are internal factors for any organization and can be directly managed, and opportunities and threats or dangers are external, and management can only predict and respond to them.
+  These are the signals of the external environment, the direct bearer of which is any company, especially in the conditions of current globalization.
+ The next step is to conduct an in-depth study of the activity environment, which is already partially carried out during the SWOT analysis.
+  For this purpose, we propose to use the PEST or PESTEL model of external environment analysis, the name of which is formed from the initials of the words political, economic, sociocultural, technological, environmental, legal.
+ 171 ECONOMICS PEST or PESTEL analysis is a simple and effective tool used to conduct political, economic, socio-cultural, technological, environmental and legal analysis of the macroeconomic situation.
+ As a result, the forces of the external environment influencing the bank are revealed, which can create both opportunities and dangers for the organization [3].
+  Therefore, the purpose of PESTEL analysis is as follows:  Identify the current external factors of the bank's activity,  Identify external factors that may change in the future,  Use those changes or opportunities in favor of the bank, or take appropriate measures to protect against risks.
+ After these analyzes, when the internal and external factors important for the development of the bank's management and development program are presented in a systematic way based on the inquiries of the heads and employees of different departments of the bank, it is necessary to separate the competitive advantages.
+  One of the results of a successful strategic plan is the development of a unique or important competitive advantage.
+  In the modern world, intellectual capital more often than not provides sustainable competitive advantage over physical or financial advantage, and over time, intellectual resources provide value-added growth.
+ Thus, as a result of observations, analyzes and surveys, assessing the current situation, a strategy is developed based on the bank's strengths, competitive advantages and forecasts for the future.
+  It is necessary to clearly formulate the bank's strategy and ensure its dissemination among all departments of the bank, so that the goals of each employee and the department are in line with the strategy.
+ 172 ECONOMICS A balanced system of indicators is developed and implemented for the implementation of the strategy.
+  The PSC should be considered not as a set of indicators, but as a balanced, complete management system.
+ The main principles of the formation and implementation of a balanced system of indicators are [6]: կառավար Management of the change process by the top management of the bank, ործ Strategy implementation as a continuous process, ում Involvement of employees in the implementation of the strategy, վեր Transformation of the bank for each strategy implementation. Awareness and involvement of the member in the bank's strategy.
+ The application of the first of the above principles is especially important to ensure the implementation of the JMF.
+  The meaning of this principle is that the management staff of the bank should initiate the development and implementation of the PSC.
+  And they are responsible for conveying the urgency and inevitability of making the necessary changes in strategy and management to all employees.
+ For this purpose, Figure 1 identifies certain areas of responsibility and managers for the smooth organization of the JMF implementation process.
+ 173 ECONOMICS Chart 1. Strategic Management Responsibility Areas [7] Interpretation and Implementation of Business Concept and Strategy Information and Interrelationship Balanced Scorecard Planning and Problem Setting Strategic Feedback and Training Managing Director of Strategic Planning and Finance Management of policy-making processes.
+  The director of the information service manages the process of creating a database and information systems.
+  The Director of Strategic Planning is responsible for strategic planning processes.
+  The Director of Personnel Management manages the processes related to setting goals, developing and implementing employee motivation and incentive systems.
+ When applying the JMF, the commercial bank's operations are viewed as finance, customers, internal processes, and a set of training and growth components.
+  The idea of ​​balance is that for each of the components, long-term related interrelationships 174 ECONOMICS moral goals and objectives are defined.
+  By achieving the goals set for each employee, subdivision or unit, these problems are solved.
+  The implementation of the finance component tasks is directly related to the number of customers, their level of satisfaction.
+  In order for the bank to be able to meet the requirements of the customers, it is necessary to effectively organize the internal processes.
+  And the implementation of the goals set in the process components largely depends on the realization of the company's capabilities in the training and growth processes.
+  Goals should be clearly formulated, measurable, achievable and their implementation should be ensured by specific people, within a certain period of time.
+ After setting goals, the next step is to determine the key performance indicators (KPIs), through which the achievement of goals is measured.
+ Then the so-called cascading is carried out, due to which the strategy is brought from the organizational level to the individual level.
+  That is, cascading is the development of systems of indicators, strategic maps, goals for each level of the organizational structure of the bank, up to each employee.
+  For example, the cascading of actions for the "customers" component can be represented as follows: [8] Ավել Increasing the customer base ապահով Ensuring 15% annual growth of new customers  Implementing a marketing plan to capture new segments and markets ուսումնասիր Exploring opportunities to enter new markets վերլուծ Analyzing the competitive sides of existing and projected markets Separate departments or staff are assigned to the above chain of operations. There are goals, deadlines and indicators for achieving them to evaluate the results.
+  An important precondition for the successful cascading of the PSC is that each employee has a deep understanding of the goals and indicators included in the system, which are developed for both him and the top levels, in order to see the importance of his actions and the connection with them.
+ Thus, for the successful implementation of the PSC and the implementation of the strategy, it is necessary to analyze the situation, the strengths and weaknesses of the bank, to have a clear idea of ​​the way forward.
+ The PSC should be considered not as a set of indicators, but as a balanced, complete management system.
+  Every employee of the bank should be involved in the implementation of the strategy.
+  It is very important to carry out regular inspections and monitoring in order to provide feedback and make necessary corrections in the strategy, set goals and indicators.
+ .

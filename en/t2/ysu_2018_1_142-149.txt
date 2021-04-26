@@ -1,0 +1,72 @@
+CHANGES IN BLOOD ARGINASE ACTIVITY AND POLYAMINITY QUANTITY IN CASE OF HUMAN STOMACH [Malignant neoplasms] 14 In the case of convincing researches in recent years
+Previous studies have highlighted the stimulating role of polyamine biosynthesis in tumor growth [8, 10].
+ Polyamines are small molecular weight aliphatic amines that occur in the catabolism of L arginine.
+ The enzyme arginase catalyzes the hydrolysis of L-arginine to L-ornithine զ urea.
+ Epoliamines are synthesized from L-ornithine to ornithine by the enzyme decarboxylase, which results from an arginase reaction.
+ Polyamines are found in all eukaryotic cells in a number of prokaryotes.
+  Analysis of various data in the literature has shown that in the presence of malignant neoplasms, arginase activity increases.
+  High levels of ornithine (a polyamine) have been shown to promote carcinogenesis due to high arginase activity.
+ The increase in the amount of polyamines stimulates the angiogenesis of the tumor և metastatic processes.
+ In the presence of malignant tumors in various organs, a sharp increase in the amount of polyamines (putrescine, spermidine, sperm) in the blood serum has been shown [12].
+ The enzyme ornithine decarboxylase is the first direct target identified for Myc oncogenes.
+ High levels of polyamines contribute to the rapid growth of cancer cells.
+ Absorption of polyamines by immune cells suppresses the production of antitumor cytokines, the number of adhesion molecules, which ultimately stops the cytotoxic activity of immune cells.
+ This allows cancer cells to bypass the immune system.
+ CD44 և E-cadherins are adhesive molecules whose synthesis is suppressed by hypoxia due to high concentrations of polyamines, which promotes the spread of metastases as it facilitates the separation of cells from the parent tumor.
+ Once attached to the vessel wall, due to the large synthesis of polyamines, the tumor cells grow rapidly and divide [6, 15].
+According to the World Health Organization, due to the age limit, the mortality rate per 100,000 people in Armenia is 39.8, making Armenia the first country in the world in terms of cancer death rate.
+  By understanding the different directions of arginase ի polyamine effects in cancer, it is possible to develop prevention and treatment models.
+ The aim of this study was to investigate the correlation between the amount of polyamine և arginase activity in human serum in the case of malignant neoplasms of the human gastrointestinal tract.
+Patients.
+ The researches were carried out by V. A. In the serum samples of patients with gastrointestinal cancer provided by the National Oncology Center after Fanarjyan.
+ Blood serum of 25 patients was examined (grade I-IV, 48-75 years, G1 և G2 differentiation, the results obtained in the blood serum of men և women were not separated).
+ The patients have not yet received chemotherapy or radiation therapy, as well as the blood serum of patients who have not yet been diagnosed with another disease.
+ The control group consisted of 7 healthy individuals in the 51 51 15 age group (4 females և 3 males).
+ The cancer was graded using TNM (tumor, nodule, metastasis) system.
+ The results of the examination of the blood serum of patients with cancer of the esophagus, stomach and colon were presented in the form of a conference.
+ Patients with malignant neoplasms of various organs of the gastrointestinal tract are diagnosed with the following stages of development: 6 patients: I degree (62 ± 7, T1 or T2, N0, M0), 7 patients: II degree (56 ± 12, T3 or T4, N0, M0), 7 patients: III degree (63 ± 11, T1- 4, N1 / N2, M0) և 5 patients: IV degree (71 ± 15, T1-4, N1-2, M1).
+Reagents.
+  During the experiment, L-arginine, glycine buffer, MnCl2 × 4H2O, YEK, DAMO, acid mixture, HClO4, densyl chloride, Na2CO3, proline, ethylacetate, chromatographic plates, chloroformil / tri chlorine were used.
+Determination of arginase isoenzyme type, activity և protein quantity spectrum.
+ Gel filtration (Sephadex G-150, elution by continuous flow of phosphate buffer (0.2 M, pH 7.2)) ion exchange chromatography (CM-cellulose, M1, grad With 0.15 M, 0.2 M, 0.25 M KCl solutions in 5 mM Tris-HCl, pH 7.5) using the Kossman method [14].
+  Vanslaik և Archibald's method was used to determine the activity with some modifications [1, 2, 14].
+  The intensity of the yellow color was measured by spectrophotometric method - Quantitative analysis of the protein at 487 nm.
+ The amount of protein was determined by polyamine DENSILATION և thin layer chromatography.
+  With some length (Genesys 10, USA).
+ The activity of the enzyme was expressed in mol x sec -1 (kat).
+In accordance with Lowry's method.
+The Morgan method was used with modifications.
+Development of results with Statistica 10 (StatSoft) program.
+ The obtained results are presented with mean ± standard deviation (M ± SD) values.
+ Developed with the help of Statistica 10 program.
+ The results were analyzed by Student t-test (singlesample).
+The aim of this study was to investigate the "correlation of arginase activity" with the amount of polyamines, as well as to "clarify" the isoenzyme composition of arginase in human serum in different degrees of malignant neoplasms of the gastrointestinal tract (esophagus, stomach, colon).
+In the first stage of the experimental work, the activity of arginase activity in the blood serum of patients with different degrees of complication was determined (Fig. 1).
+ Studies have shown that the serum arginase activity of patients with gastrointestinal cancer increases compared with the serum arginase activity of a healthy person - in case of grade I - 2.18, in case of grade II - 2.5, in case of grade III - 2.71, and in case of grade IV 2.94 times.
+ Arginase activity increases with the increase of cancer complication.
+Line Alteration of serum arginase activity in malignant neoplasms of the human gastrointestinal tract (n = see patient description, p <0.001).
+The increase in arginase activity should be reflected in some way in the amount of napolymins.
+ In order to confirm this assumption, in the next stage of the work, a quantitative determination of polyamines was made in the blood samples of a healthy and sick person.
+Line Quantitative-qualitative analysis of serum polyamines by thin layer chromatography.
+ Left column - norm, Right column - II degree gastric cancer, RF SPM - 0.21, RF SPD - 0.85, RF PUT - 0.89, Origin - beginning, SPM - sperm, SPD - spermidine, PUT - putrescine.
+              The chromatographic picture shows that in each stage of the cancer, the amount of napolymins increases with the activity of arginase (Fig. 2 և Table 1).
+Table 1. Change in the amount of polyamines in the blood serum of a healthy person with cancer of the gastrointestinal tract (n = 5, p <0.05).
+ The amount of polyamines is represented by nM polyamine in 1 ml of blood serum.
+ SPM-sperm, SPDspermid, PUT-putrescin.
+The total increase in the amount of polyamines during cancer compared to the norm is 59.3%, 68.4%, 80.3% և 113.3% in grades I, II, III և ІV, respectively.
+Determination of the isoenzyme composition of arginase in the blood serum of patients with cancer of patients with healthy gastrointestinal tract was performed.
+ In contrast, in patients with serum protein և arginase activity chromatograms, the peaks obtained after gel ion exchange chromatography deviate to the right, and partially purified arginase activity increases in fractions corresponding to the peaks.
+ The value of the isoelectric point (pI) of mammalian liver arginase (arginase I) ranges from 8.8 to 9.4.
+ At pH <pI, proteins receive endogenous charge.
+ Studies in our laboratory (elution performed with 5 mM Tris-HCI, pH 7.5, Line 3 C և D) showed arginase activity only in fractions of cationic proteins, which is consistent with the literature.
+ The results show that only arginase I was present in the serum of arginase 2 isoenzymes (Fig. 3).
+Line 3. Serum arginase activity (▲) կոր protein (■) protein curves gel (A: Ve = 92 ml և B: Ve = 108 ml, Sephadex G-150 tower (2 x 40 cm)) Zion exchange (C: Ve = 96 ml և D: Ve = 104 ml, CM-cellulose tower (1 x 18 cm) after chromatography (n = 3, p <0.05, grade II cancer complication).
+Thus, in the case of cancer of the gastrointestinal tract, the activity of serum arginase increases significantly ացվում correlates with the stages of cancer.
+  Our results show that the amount of polyamines զուգ increases with the stages of the disease.
+ We suggest that control of arginase activity քանակ polyamine levels can be used for possible cancer treatment.
+  In view of the above, in other studies using these enzyme inhibitors, the laboratory studied the antitumor properties of arginase activity in rats in contrast to 7,12-dimethylbenzanthracene (DMBA) -induced breast cancer.
+LITERATURE [3] Bonavida B., Nitric Oxide and Cancer.
+ Pathogenesis and Therapy, Springer InternClin Cancer Res, 2011, 30.
+95. [11] Munder M., Arginase.
+ an Emerging Key Player in the Mammalian Immune System.Cells and Tolerance in Cancer.
+ Mechanisms and Therapeutic Perspectives. Immunol Rev., GHorgyan ARGHIK CHANGES IN SHYGHUK ARGINAS ACTIVITY AND POLYAMINITY AMOUNT IN HUMAN GASTROINTESTINALS, MALIGNANT TUMORS, MALIGNATION IN CANCER, TUMORS.

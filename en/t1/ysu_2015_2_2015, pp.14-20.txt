@@ -1,0 +1,274 @@
+YEREVAN-IGDIR SEISMATSIN TENSION STUDY STUDY THROUGH FOCAL MECHANISMSIntroduction.
+  The Yerjan area deserves special attention at the Yerjan-Igdir seismic junction of the Republic of Armenia due to its population density and significant economic potential, the Metsamor Nuclear Power Plant, which is currently one of the most important environmental hazards outside Yerevan.
+  The aim of the presented work is to study the tense deformation situation of the Yerevan-Igdir seismic junction, based on the analysis of focal mechanisms of strong earthquakes in the area, using modern computer programs.
+The Yerjan-Igdir seismic junction is located տարածքում in an area bounded by coordinates և is an intersection of large Taurus-Caucasian deformation structures, which is accompanied by a number of excavation elevations and grab-like descent blocks.
+In this node is calculated 2002-2012. The mechanisms of M3.3 magnitude earthquakes, which belong to the deep disturbances of the study area, describe their tense state.
+ These data are presented in Table 1.
+The analysis shows that the horizontal direction of the compression-expansion axes prevails in the given region.
+ The main direction of tension, except for four earthquakes, the intermediate direction of which is near-vertical.
+  The plane of rupture has a sharp decline.
+ The diagrams of these mechanisms are shown in Figure 1, which shows that the observed epicenters are mainly located on or very close to the mapped faults.
+Thus, according to the data of focal mechanisms, four types of movement are observed in the group of studied earthquakes. top-down և top-down (one, 2, 11), top-down-slip-four (4, 8, 9, 10),-top-slip in seven earthquake hotspots (1, 3, 5, 6, 7, 12, 13).
+From the directions of nodal plane propagation (NP1 և NP2) in earthquake epicenters (Fig. 2), it appears that the resulting faults propagate in different directions; in only 3 of the 13 epicenters, the quadratic planes coincide with the direction of fault propagation (2: 9,11). and in 8 foci only one nodal plane coincides with the direction of fracture (1, 3, 4, 5, 6, 7, 8, 10).
+  The nodal planes in both foci are perpendicular to the spread of the fault (12, 13).
+Table 1. In the Yerevan-Igdir seismic junction in 2002-2012. The parameters of the epicenters of the M3.3 earthquakes that occurred focal mechanisms
+ի:
+q:
+r:
+ւ:
+o:
+T:
+m:
+h:
+a
+s:
+n:
+a
+r:
+In:
+n:
+a
+t:
+s:
+a
+a
+H:
+յ:
+a
+ի:
+q:
+r:
+ւ:
+o:
+T:
+m:
+h:
+a
+s:
+n:
+a
+r:
+In:
+ի:
+t:
+o:
+c:
+ի:
+t:
+o:
+c:
+a
+ի:
+q:
+r:
+ւ:
+o:
+T:
+a
+ի:
+q:
+r:
+ւ:
+o:
+T:
+a
+ի:
+q:
+r:
+ւ:
+o:
+T:
+a
+ի:
+q:
+r:
+ւ:
+o:
+T:
+n:
+a
+t:
+s:
+a
+a
+H:
+յ:
+a
+ի:
+q:
+r:
+ւ:
+o:
+T:
+n:
+a
+t:
+s:
+a
+a
+H:
+յ:
+a
+ի:
+q:
+r:
+ւ:
+o:
+T:
+a
+ի:
+q:
+r:
+ւ:
+o:
+T:
+n:
+a
+r:
+In:
+a
+ի:
+q:
+r:
+ւ:
+o:
+T:
+q:
+ծ:
+a
+r:
+a
+T:
+յ:
+n:
+a
+թ:
+ւ:
+o:
+ծ:
+a
+f:
+r:
+a
+L:
+r:
+e:
+n:
+q:
+ց:
+n:
+a
+ռ:
+a
+r:
+o:
+f:
+a
+խ:
+c:
+l:
+յ:
+r:
+e:
+n:
+n:
+ւ:
+o:
+թ:
+ւ:
+o:
+թ:
+r:
+a
+h:
+l:
+a
+d:
+o:
+N:
+c:
+a
+M:
+r:
+o:
+Խ:
+ւ:
+r:
+a
+k:
+r:
+e:
+յ:
+s:
+H:
+յ:
+n:
+a
+l:
+h:
+k:
+a
+n:
+a
+m:
+a
+Ժ:
+m:
+ւ:
+o:
+խ:
+a
+j:
+օ:
+r:
+Oh:
+s:
+ի:
+m:
+a
+ի:
+r:
+a
+T:
+.
+Figure 1. In the Yerevan-Igdir seismic junction in 2002-2012. Schematic map of epicenters և focal mechanisms of M3.3 earthquakes.
+Figure 2. In the Yerevan-Igdir seismic junction in 2002-2012. Schematic map of the propagation directions of NP1 և NP2 nodal planes in the epicenters of the M≥3,5 earthquakes, which took place to study the stress field (P) և expansion (T) of the main stresses (Figure 3).
+Figure 3. In the Yerevan-Igdir seismic junction in 2002-2012. Schematic map of the main axes (P, T) at the epicenter of the M3.3 earthquakes. From the distribution map of the main axes (P, T) at the epicenter, it is shown from Table 1 that the compressive stress axes do not have the same orientation in the observed epicenters.
+ For example, in 7 out of 13 hearths it is mid-day or near-noon, in 6 it is transverse.
+ The T axis is circadian in 2 foci, transverse or transverse in 11.
+ In the south-western և central part of the area, there is mainly a varnet-type movement, ie there is an expansion in the hearth, and in the northeastern part, an uplift-type movement, which indicates the presence of compressive forces in the hearth.
+Geodynamics of the Yerevan-Igdir seismic junction.
+  The Yerjan-Igdir seismic junction is an intersection of large deformation structures of the Taurus-Caucasus mountain structures.
+  These are the և flexural fault zones of the Transcaucasian meridian fracture և the fracture faults along the North-Eastern-Armenian-Iranian belt, combined with a number of parallel և intersection faults and numerous shallow volcanic outbreaks (Fig. 4) [4].
+According to macro-seismic-instrumental data, the Yerjan-Igdir seismic node has shown significant seismic activity since historical times, differing in the accumulation of strong earthquake centers.
+  The depth of earthquakes at the junction does not exceed 30 km, and most of the epicenters are located at a depth of 5-15 km.
+Analysis of different types of faults in this region shows that the strongest earthquakes are associated with aerial faults, and the relatively weak ones are associated with aerial faults, faults, and their combinations [1].
+Detailed studies of the mechanisms of the epicenters of all earthquakes in different parts of the same seismic node allow to determine their geological structure (Balakina et al., 1997), including its location in the zone, the size of potential seismic epicenters, most likely the location of regular earthquakes.
+Focal mechanisms of several earthquake epicenters with magnitude M≥3,5 են were located in the seismogenic nodes of faults.
+  One of the fault planes in the epicenter coincides with the propagation of the seismic zone.
+ The Yerevan earthquakes are limited in the same direction indicated by the same fault.
+  A. Gabrielyan, O. Sargsyan և G. Simonyan singles out the Hrazdan-Ashtarak fault, which is located in the southwestern part.
+ Parakar joins the Yeryanyan deep fault, then passes through the valley of the Hrazdan "Aghst" rivers to the western part of the "Sani basin".
+  Approximately in the same direction, the Yerjan-Shan frontal zone extends north-northeast through images taken from space.
+Figure 4. Collision zone of Arab և Eurasian slabs. The stress areas of the Yerjan-Igdir seismic junction have been studied.
+  A correlation between the direction of the seismogenic faults and the stress axes was found.
+  Near-horizontal fractures show a near-horizontal direction of the compression axis.
+The movements in the hearths are of a cervical nature.
+  In seismogenic faults of perpendicular orientation, the near-horizontal direction of the compression axis is observed դիտ the perpendicular direction of the expansion axes.
+In this case, an overhead-type movement is observed in the hearths.
+From a tectonic point of view, the region is presented as a crossroads between the "Transcaucasian, transcendental, intermittent structures" of the North Anatolian-Armenian-Iranian near-arched arch structures.
+The most acceptable geodynamic model of the seismotectonic conditions of the region, it can be argued, is the approach of the Russian-Arab platforms, creating between them three subduction zones.
+The fault seismogenic circuit diagram, based on seismic data for this region, bears a close resemblance to the fault fault scheme, which was constructed from the data of structural-geological analysis using geophysical materials.
+Conclusion.
+  Summarizing the results of the studies carried out at the Yerevan-Igdir seismic junction, the analysis leads to the following conclusions: 1. Calculated and commented on at the Yerevan-Igdir seismic junction in 2002-2012. Focal mechanisms of 13 M3.3 magnitude earthquakes.
+ The following conclusions were made. • Fault (nodal) planes in earthquake epicenters: NP1 և NP2 propagate mainly in the direction of fault propagation. It follows that earthquakes belong to faults.
+• In the south-central մաս central part of the study area, there is mainly a vortex-type movement, ie there is an expansion in the hearth, and in the northeastern part there is a gnar-type movement, which indicates the presence of compressive forces in the hearth.
+2. The stress areas of the environment of the Yerevan-Igdir seismic junction have been studied.
+  A correlation was found between the direction of seismogenic faults and the axes of area tension.
+  Near-horizontal fractures show a near-horizontal direction of the compression axis.
+Taking into account the obtained results, it is proposed to carry out similar studies for other seismic nodes located in the territory of the Republic of Armenia.
+ These studies are necessary for both long-term and short-term seismic risk assessment.
+Literature 1. Tovmasyan A., Focal mechanisms of Yerevan earthquakes, UDC, 0112.atomic power plant (Ararat valley), Izv. Academies of Science Arm. ССР.
+ Sciences oAcademies Science Arm. ССР.
+ Sciences on Earth ”, 1975, № 6, p. 35-51. Academies of Science Arm. ССР.
+ Earth Sciences ”, 1977, № 3, p. 42-49.Ani GHorgyanYEREVAN-IGDIR SEISMATSIN STRENGTHENING STUDY OF FOCAL MECHANISMS, MEASUREMENT

@@ -1,0 +1,41 @@
+ASSESSMENT OF THE STABILITY OF SYNIK MARZ LARGE RESERVOIRS DAMAGE Numerous reservoirs have been built for irrigation, energy and water supply in the territory of the Republic of Armenia.
+  At present 84 reservoirs are exploited, which are located in the mountainous zones of 1500-3000 meters.
+  Reservoir dams are mainly built in complex geomorphological and geological conditions.
+According to the seismic zoning map of the territory of the Republic of Armenia, the maximum expected ground acceleration is equal to 0.5 g, which is 9-10 points, respectively, according to the MSK 64 scale, while the design seismic resistance of reservoir dams was mainly 7-8 points.
+The paper attempts to assess the current stability of dam reservoirs in Syunik region, for which there are many methods.
+ Spencer (5), Morgenstern-Price (4) and Bishop (3) methods were used in the work.
+  The assessment was made in case of static condition (main combination of loads) դեպքում in case of seismic impact (special combination of loads).
+ The sliding surface was adopted in a circular motion.
+ During special load combinations, the seismic impact was calculated according to the dam height (2).
+ The paper presents as an example the stability assessments of the dams of Spandaryan, Tolors and Geghi reservoirs.
+ According to the norms in force in the RA, the limit normative values ​​of the stability coefficients of the dams are the same, as the reservoir areas are located in the zone with the maximum horizontal movement Amax = 0.4 g (I0≥9) (1).
+ The calculated values ​​are given in Table 1 և 2.
+Spandaryan Reservoir ․ It is located in the north-west of Syunik region of the Republic of Armenia, in the territory of Gorhayk community.
+  The reservoir was built in the 1980s. On the Vorotan river, it was put into operation in 1989.
+ The Vorotan-Arpa tunnel starts from Spandaryan reservoir, which provides 165 million cubic meters of water per year to Kechut reservoir.
+ Water is supplied from the reservoir to Spandaryan HPP.
+  The length of the dam is 315 meters, the maximum height is 83 meters.
+ The total volume of the reservoir is 257 million cubic meters, the useful one is 218, the surface of the water mirror occupies an area of ​​1150 hectares (6).
+As a result of the calculations, the stability of the internal և overlays of the Spandaryan Reservoir dam are in a stable state in the case of the main load combination, and unstable in the case of a special combination (Figure 1.1 և 1.2).
+The main combination of loadsSpecial combination of loadsFigure 1.1. The minimum value of the internal shear stability coefficient obtained by the Spencer methodMain load combinationSpecial load combinationFigure 1.2. The minimum value of the upper shelf stability coefficient obtained by the Spencer methodTolors Reservoir is located in Syunik region ․ It is the main reservoir of Shamb HPP.
+The dam is made of gravel with sand-clay core, the height is 69 meters, the length in the catarrhal part is 175 meters, and the width is 10 meters.
+ The total volume of the reservoir is 96 million cubic meters, and the useful one is 80, the water mirror occupies an area of ​​480 hectares.
+ It was put into operation in 1975. (6).
+As a result of the calculations, it is obtained that the stability of the inner և upper slopes of the Tolors Reservoir dam is in a stable state in the case of the main load combination, and not seismic in the case of special combination (Figure 2.1 և 2.2).
+Main load combinationSpecial load combinationFigure 2.1. The minimum value of the internal shear stability coefficient obtained by the Spencer methodMain load combinationSpecial load combinationFigure 2.2. The minimum value of the upper shelf stability coefficient obtained by the Spencer method The Geghi reservoir is located near the village of Geghi in the Syunik region, on the left tributary of the Voghji River in Geghi.
+ The dam of the reservoir is limestone, with sand-clay core, it is 70 meters high և 244 meters long.
+  Cementation works were carried out at a depth of 20-60 meters in order to prevent filtration events in the dam area.
+The total volume of the reservoir is 15 million cubic meters, the useful one is 12, the water mirror occupies an area of ​​50 hectares (6).
+The analysis of the stability calculations of the upper և inner slopes of the Geghi reservoir dam showed that in the case of the main combination of loads in the inner և upper slopes the dam is in a stable state, and in the case of a special combination - unstable (Figure 3.1 և 3.2).
+Main load combinationSpecial load combinationFigure 3.1. The minimum value of the internal shear stability coefficient obtained by the Spencer methodMain load combinationSpecial load combinationFigure 3.2. The minimum value of the coefficient of the upper slope stability from Spencer yeghanakovAghyusak zugaktsumKayunutyan main factors: 1. Internal shepJrambaripatvarnereSpandaryanTolorsGeghiJrambaripatvarnereSpandaryanTolorsGeghiBernvatskneri arzheknereMorgenshternPraysi metodSpenserimetodBishopi metodsahmanayinnormativ arzhekeBernvatskneri special zugaktsumKayunutyan coefficients arzheknereMorgenshternPraysi metodSpenserimetodBishopi metodsahmanayinnormativ arzhekeAghyusak 2. ZugaktsumKayunutyan upper shepJrambaripatvarnereSpandaryanTolorsGeghiJrambaripatvarnereSpandaryanTolorsGeghiBernvatskneri main factors arzheknereMorgenshternPraysi metodSpenserimetodBishopi metodsahmanayinnormativ arzhekeBernvatskneri special zugaktsumKayunutyan coefficients arzheknereMorgenshternPraysi metodSpenserimetodBishopi metodsahmanayinnormativ arzhekeSyuniki of large dams (Spandaryan, Tolors and Geghi) generalization of the results of the stability studies and analysis of key findings and recommendations resulting yenhetevyal. The values ​​of the stability coefficients obtained by the calculated methods (Spencer, Morgenstern-Price և Bishop) are very close to each other. Summary of the results of the Tolors և Geghi) stability studies եղի analysis leads to the following main conclusions և recommendations. The values ​​of the stability coefficients obtained by the calculated methods (Spencer, Morgenstern-Price և Bishop) are very close to each other. Summary of the results of the Tolors և Geghi) stability studies եղի analysis leads to the following main conclusions և recommendations. The values ​​of the stability coefficients obtained by the calculated methods (Spencer, Morgenstern-Price և Bishop) are very close to each other.
+The results show that the inner and upper ridges of Spandaryan dam are in a stable state in case of the main combination of loads, and unstable in case of a special combination.
+The inner and upper slopes of the Tolors reservoir dam are in a stable condition in the case of the main combination of loads, and are not seismic in the case of a special combination.
+The upper և inner slopes of the Geghi reservoir dam are in a stable state in the case of the main load combination, and unstable in the case of a special combination.
+In general, the dams of large reservoirs in Syunik region are stable in the case of the main load combination, and in the case of special combination - unstable, ie the dams are not seismic resistant.
+The obtained results show that in some cases it is necessary to review the design seismic stability of reservoirs և to carry out appropriate engineering measures in dangerous cases.
+  Taking into account the obtained results, it is proposed to carry out similar studies for other large reservoirs operating in the territory of the Republic of Armenia.
+Literature 1. HHSHN.II-6.02-2006. Seismic construction.
+ Design norms.
+ Ministry of Urban Development of the Republic of Armenia, Yerevan, 2006.
+2. Study of seismic accidents during design of hydraulic equipment (Position in section 5).
+Ani GorgyanSESSION OF STABILITY OF SIGNIFICANT RESERVOURS BARS IN SYUNIK MARZ Keywords: reservoir, dam, stability, seismic resistance.

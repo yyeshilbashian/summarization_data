@@ -1,0 +1,141 @@
+PROBLEMS OF INADMISSIBILITY OF EVIDENCE IN CRIMINAL TRIAL Evidence (collection, verification, use, evaluation) is a key component of criminal proceedings.
+ It is a cognitive activity aimed at investigating and rehabilitating the circumstances of a previous incident.
+  The issues of admissibility, in particular the presentation of evidence, are most often considered in the light of the guarantees that ensure the right to a fair trial.
+  In order to fulfill the requirements of a fair trial, it is necessary for the court to address the issues of evidence, to declare inadmissible the evidence obtained in violation of the law1.
+  Article 105 of the Criminal Procedure Code lists inadmissible material evidence, Article 107 sets out the implications of evidence, and Chapter 10 deals entirely with the types of evidence that are exhaustively listed.
+  The legislator has tried to regulate the institution of proof in as much detail as possible, however, some gaps and shortcomings remain, which often lead to contradictions and wrong qualifications.
+ That is why, taking into account the importance of proof և the problems that arise in practice, we have referred to this topic.
+  Various situations related to the admissibility of evidence will be discussed in the paper.
+ Admissibility is the validity of evidence from the point of view of the legitimacy of sources, methods of obtaining data նար tricks2.
+  It is determined, first of all, by the protection of formal rights, which are directly mentioned in the Code3.
+ When determining the admissibility of evidence, the four "proper" rules must be observed: 1 Proper procedural procedure for obtaining evidence, 1 See Scientific-practical comments on the decisions of the Court of Cassation of the Republic of Armenia, p. 2, Yerevan, 2013, page 404.
+2 See Criminal Procedure of the Republic of Armenia ․ General part, Yerevan, 2006, p. 281.
+3 See Problems of Admissibility of Evidence in Role Judgment, 2012, p. 325.
+2․Proper source of evidence, 3․Proper subject to obtain evidence, 4 պատProper way of obtaining evidence4.
+According to Article 105 1 1 of the Code, charges in a criminal case may not be based on the use of materials obtained: 1) violence, threats, deception, mockery, as well as other illegal acts, 2 ) violation of the right of defense of the suspect և accused, the rights of persons not fluent in the language of the trial, substantial violation of additional guarantees provided by this Code; by a person not entitled to perform another action; 4) with the participation of the person subject to challenge;if he / she knew, he / she should have known about the existence of circumstances excluding his / her participation in the criminal proceedings; 5) with a procedural violation of an investigative or other judicial action; 6) from a person who is unable to recognize the document or other object, confirm its authenticity, report its occurrence or receipt; 7) from an unknown or undisclosed source in court, 8) as a result of the use of methods contrary to modern scientific ideas.8) as a result of the application of methods contrary to modern scientific ideas.8) as a result of the application of methods contrary to modern scientific ideas.
+Article 120 of the draft classifies as evidence the inadmissible data obtained during the interrogation in the absence of the accused's lawyer, if the accused has not proved his / her authenticity in court, from a person without the status of a defendant who has actually been prosecuted.
+  In other words, the data obtained as evidence as permitted by the evidence went beyond the scope of the witness, in violation of the rights provided for in part 5 of Article 86 of this Code - by violence, threats, deception, mockery, as well as other illegal actions.
+ RF 4 See RA Criminal Procedure, part 1, author group, scientist ․ Group ․ Arthur Ghambaryan, Yerevan, 2016, page 372.
+Article 75 of the Criminal Procedure Code divides the evidence declared inadmissible into 3 categories. The first group includes data obtained in violation of the procedure for obtaining evidence, the second group includes data based on news assumptions, and the third group consists of testimonies given by the accused in the absence of a lawyer.
+Thus, let us consider different situations regarding the admissibility of evidence.1 ․ Chapter 46 of the draft Criminal Procedure Code envisages the introduction of the institute of judicial deposition of testimonies in our criminal procedure system.
+ The essence of this is the following ․ it allows the accused to be questioned in the presence of a judge to ensure the credibility of his or her confession, just as he or she guarantees the defense the right to cross-examine if there is a reasonable presumption that the interrogated person cannot appear at trial or may lawfully refuse to testify. .
+  At first glance, it seems that the possibility of extorting a confession from the accused by illegal means is zero.
+ While it is the exact opposite.
+ It is not necessary that the above-mentioned legal measures be applied right in front of the judge, so that we can say that the evidence obtained in that way is inadmissible.
+  If the body conducting the proceedings initially intends to obtain a confession from the accused, is ready to threaten, beat, injure or otherwise torture the accused, it will do so before taking the accused to a judge under the institute of judicial deposition of evidence.
+ And in this case, this whole institution will be reduced to zero.
+That is why we propose to envisage a mechanism according to which the accused must pass a mandatory medical examination before giving a confession before a judge.
+  It is in this case that it will be possible to exclude the possibility of extorting a confession from the accused by illegal means.
+2 ․ Regarding the disputed basis of the admissibility of the use of evidence, it should be noted that the European Court of Human Rights has addressed this issue in its numerous precedent decisions.
+  Thus, when assessing the evidence, when the question in particular concerns a large 5 See H. Ghukasyan, Collection of scientific articles dedicated to the issues of the draft Criminal Procedure Code of the Republic of Armenia ․ Yerevan, 2014, page 73.
+In this case, the Court usually applies the criterion of proof "beyond reasonable doubt" 6.
+  Information on torture (ill-treatment) և Evidence must be obtained in a complete, consistent յ objective manner, the investigation must be comprehensive 7.
+ When a person was healthy at the time of arrest but did not suffer any injuries upon release, the state must provide a convincing explanation as to how those injuries occurred8.
+ The investigation into torture must be independent, impartial, public, and the competent authorities must act with exemplary diligence and good faith.
+ Prosecution evidence, whether in the form of a confession or material evidence obtained through the use of violence or other cruel, inhuman or degrading treatment or punishment, should never be the basis for the victim's guilt, regardless of its probative value10.
+ And in 11 precedents of "Sober Veznedaroglu v. Turkey", the ECHR stated the legal position that if a detainee complains that he has been tortured, that the complaint is not considered, then the presumption that he really is was tortured.
+  These quotations from the decisions of the ECHR were not accidental.
+ We suggest giving the above-mentioned views the force of law և ensuring their application in practice.
+  In particular, add Article 105.1 to the Criminal Procedure Code with the following content: "1. If the person was healthy at the time of arrest, but had injuries at the time of his release, the body conducting the proceedings must provide a proper explanation of how they arose, attaching it to the criminal case.
+  2. If the detainee complains that he has been tortured,։ the complaint is not examined, then the presumption that he was indeed tortured applies ".
+According to Article 284 1 1 of the Criminal Procedure Code, operative-investigative measures restricting the right to privacy of correspondence, telephone conversations, postal, telegraphic և other communications, except in cases when one of the participants in the conversation or 6 See Ireland v. United Kingdom, 1978, No. 25, pp. 64-65, paragraph 161.
+7 See Eric Svanidze, An Effective Test of Ill-Treatment, European Standards, 2011, p. 20.
+8 See Tomasi v. France, 1992, pp. 40-41, Selmouni v. France, No. 25803/94, paragraph 87, ECHR 1999-V.
+9 See Isayeva and Others v. Russia, 24 February of 2005, No. 57947/00, paragraphs 208-213.
+10 See "Harutyunyan v. Armenia", complaint no. 36549/03, 2007, page 22, item 63.
+11 See Sevtap Veznedarogly v. Turkey, Judgment of 11 April of 2000.
+One of the communicators has agreed in advance to listen to or control them, they can be done only by a court decision.
+ This provision was in force until the Constitutional Court, in its 2010 decision TSDO-926, declared it unconstitutional.
+  That is, with the consent of one of the speakers, listening to their conversation led to the violation of the constitutional rights of the other speaker.
+  In this case, there can be no question of wiretapping their conversations without the knowledge of individuals ․ It is definitely an illegal act.
+Therefore, the evidence obtained in that way will also be inadmissible.
+  A typical situation is described in the case of the ECtHR եմ Cannes v. The United Kingdom, as well as in Schenk v. Switzerland12, where the only evidence on which the applicant was convicted was a recording obtained in violation of the law.
+  The court's position is that if the applicant had the opportunity to challenge the legality of that evidence but did not challenge it, then the recording obtained without permission would then be considered admissible evidence.
+ There is no causal connection between these two conditions.
+  We believe that an illegally obtained recording cannot be recognized as admissible evidence, regardless of whether the person has challenged its validity (legality) or not.
+4․According to the draft Criminal Procedure Code, the presumption of admissibility of evidence will be valid, ie the evidence obtained during the proceedings, including the evidence presented by the private participants in the proceedings, is considered admissible, unless the proper legal procedure proves otherwise13.
+ However, the expert's opinion and testimony will be considered an independent type of evidence.
+ There is a problematic situation related to the expert's conclusion.
+ That is, to consider the conclusion given by the expert as admissible evidence in the case when the conclusion says "․․․ victim A ․․․" in the case when A is not recognized as a victim in the case.
+  In our opinion, recognizing the conclusion as inadmissible evidence would simply be an abuse of formal requirements, as the practical essence of such mistakes does not change.
+  That is, in this case, the expert's conclusion must be recognized as admissible evidence.
+12 See Khan v. United Kingdom, 2000, No. 52207/99.
+ See Schenk v. Switzerland, 1988, No. 140.
+13 See D ․ Melkonyan, Collection of Scientific Articles Dedicated to the Problems of the Draft Criminal Procedure Code of the Republic of Armenia, Yerevan, 2014, p. 100.
+5․Because of the norms regulating the admissibility of evidence, it follows that the factual data obtained by a significant violation of the procedure of investigative or other judicial action cannot be used as evidence, especially when they in their turn led to a significant violation of the rights of the trial participants.
+  Violations which, manifested in violation of the constitutional rights, freedoms or any of the requirements of this Code, deprivation or restriction of the rights guaranteed by the participants in the trial, or in any other way, have affected or could have affected the reliability of the received data are significant.
+  One of those investigative actions is the search.
+  According to Article 225 of the Criminal Procedure Code, the investigator, having sufficient grounds to suppose that in any building or other place or in any person there are instruments of crime, criminally acquired objects and values, as well as other objects և documents that may be relevant to have for a job, a search to find a և take.
+  According to part 3 of the same article, the search of the apartment is carried out only by a court decision.
+According to the search procedure, the investigator proposes to voluntarily hand over the items to be confiscated և the documents, and in case the offer is rejected, the confiscation is carried out compulsorily.
+The Court of Cassation commented on this legislative norm in the case of Husik Baghdasaryan15, stating that extradition is considered voluntary if the person, realizing that there is no real threat to reveal himself at that moment, surrenders the items mentioned in Article 235 of the RA Criminal Code, ie accepted by the person. That decision must be the result of a free and conscious choice.
+ Existence of an explicit threat և extradition motivated by it cannot be considered voluntary.
+ Problems arise mainly with the grounds for the search.
+  In the case of Sepuh Tadjosyan, 16 the Court of Cassation expressed the legal position, according to which any data that can be evaluated can be a factual basis for the search.
+ And the assessment should have resulted in 14 See Criminal Procedure of the Republic of Armenia ․ General part, Yerevan, 2006, p. 282.
+15 See the case of the Court of Cassation on Husik Baghdasaryan No. AVD2 / 0059/01/08, http.
+//www.arlis.am/DocumentView.aspx?docid=48886.
+16 See Case No. ESHD / 0073/07/15 of the Court of Cassation on Sepuh Tadjosyan, http.
+//datalex.am/?app=AppCaseSearch&case_id=13229323905402019.
+to the reasonable conclusion that the search may yield the items sought.
+  The decision of the preliminary investigation body to initiate a motion to obtain a search warrant for the court decision.
+  In the search warrant, the court specifically states what object it is given to find.
+  In the case of such legal regulation, a situation is created when the investigator during the search finds an object not mentioned in the search decision (for example, drugs), հարց the question of their permissibility is disputed.
+  It turns out that the drug was obtained during the search without a corresponding decision.
+  The draft Criminal Procedure Code offered a solution to this problem.
+  In particular, pursuant to Article 243 5 5, in addition to what is stated in the search warrant, the investigator shall take all objects found during the search which have been removed from circulation by law or which may be related to another suspect by their nature, distinguishing marks or traces. with crime.
+  Such an approach is welcome.
+  However, in order to avoid the problem of recognizing the items obtained as a result of the search as material evidence, we propose to make the legislative regulation like this ․ When making a search warrant, the judge shall not specify in the decision what items it is for, or provide as an additional guarantee that, if the prosecuting authority acts in good faith, there is evidence of a crime committed by that person, in connection with which no secret investigation is envisaged. they can be used with the court's permission.
+6 ․ Judges do not have a common approach to recognizing a corpse or details as material evidence.
+ You. Orlov notes that in addition to material evidence, there are material objects that, from an epistemological point of view, have the same role in the process of proof as material evidence, but are not attached to the criminal case for ethical reasons (eg, corpse) 17.
+  A. Barigina mentions that the human corpse is considered an object of criminal encroachment, but from the point of view of ethical norms it cannot be material evidence.
+  Because if the corpse is recognized as material evidence, it must, as a general rule, be examined during the court hearings18.
+  In this regard, B. Bezlepkin points out that it is not possible to examine the parts of the human body during the court session19.
+Recognizing the corpse as material evidence can be a solution to some controversy.
+ First of all, let's understand what contradictions and shortcomings we are talking about.
+  Imagine a situation when the accused mentions the location of the corpse in his testimony as a result of torture.
+ Based on the information obtained as a result of the torture, the body conducting the proceedings examines the scene and finds the body.
+An expert examination is appointed on the basis of the samples taken from the corpse, the conclusion of which confirms the guilt of the tortured person.
+  Does the principle "the fruits of a poisonous tree are poisonous" apply to the conclusion of the examination and expertise of the scene?
+ A similar situation exists in the case of the European Court of Human Rights "Gaffen v. Germany".
+ The European Court has found that material evidence obtained as a result of the use of violence, at least in cases where the violence can be described as torture, can never be evidence of the guilt of the accused, regardless of its real value.
+  Any other opinion will serve in favor of the indirect legalization of morally inadmissible behavior.
+  The use of material evidence obtained through a confession obtained through torture raises the question of the presumption of general impartiality of the trial as much as the use of a confession obtained.
+  The Court did not find a violation of Article 6 1 1 և 3 of the Convention on the Fundamental Freedoms of Human Rights20.
+According to the theory that the fruits of a poisonous tree are poisonous, the evidence obtained on the basis of factual data obtained in violation of the law is also inadmissible21.
+  The RA Court of Cassation referred to the rule of Armen Sargsyan 22, Meline Margaryan 23.20 See Gäfgen v. Germany, 2010, case number 22978/05.
+21 RA Criminal Proceedings, Part 1, Author Group, Sci. Group ․ Arthur Ghambaryan, Yerevan, 2016, p. 391.
+22 See the case No. EKRD / 0295/01/08 of the Court of Cassation on Armen Seyran Sargsyan.
+23 See the case number EKD / ​​0081/01/11 of the Court of Cassation on Meline Misha Margaryan.
+In his precedent decisions about Gagik Mikayelyan's 24 others.
+However, this theory should not be understood at all.
+  There may be cases when the rule "the fruits of a poisonous tree are poisonous" does not work.
+ The criterion is as follows ․ In order to declare inadmissible evidence based entirely on illegally obtained data, it is necessary that there be no opportunity to obtain such evidence through reasonable effort.
+  For example, the American Court of Knicks vs. Williams did not apply the "poison tree fruit" rule, explaining that the evidence would be obtained at great cost, but sooner or later25.
+ The Court of Cassation referred to this exception by J. In the case of Sefilyan26.
+Referring to the issue of recognizing the corpse as material evidence, let's try to substantiate its necessity.
+  If the corpse is not recognized as material evidence, the investigator can obtain it by any illegal means.
+  After all, in this case the investigator will not be constrained by the rules of admissibility of evidence.
+ If we follow the approach that the son is not material evidence, then in the mentioned example the conclusion of the examination should be recognized as admissible evidence, as the examination was not based on illegally obtained evidence, but on a corpse that is not evidence.
+  In other words, we have a fact in the criminal case, which has no judicial status, was obtained as a result of an investigative action, but is not evidence.
+  That is, if the individual is not recognized as material evidence, then the person is deprived of the opportunity to challenge the expertise, and deprivation of such an opportunity alone is equal to an unfounded restriction of his rights.
+In addition, if the corpse is recognized as material evidence, it does not have to be attached to the criminal case, brought to court and examined during the hearing.
+The Criminal Procedure Code provides special mechanisms for perishable items that are impossible to present in court.
+ In those cases, if the object is perishable or large in volume, the body conducting the proceedings shall take a photo and attach to the criminal case a photo of the object, in this case, the corpse.
+ The imperative to recognize the corpse as material evidence serves one purpose: to exclude the situations when the accusatory case against Gagik Garnik Mikayelyan of the Court of Cassation No. EADD / 0085/06/09.
+25 See US Supreme Court, N-82-1651, decision of 11 June 1984, 467 US 431 (1984), p. 441.
+26 See Case No. VB-07/13 of the Court of Cassation on Jirayr Simoni Sefilyan, http.
+//www.arlis.am/DocumentView.aspx?DocID=92907.
+The verdict is based on the evidence obtained as a result of his torture.
+7. From the point of view of the RA criminal procedure legislation, operative-investigative measures are not in themselves a means of gathering evidence.
+The body conducting the proceedings may base the investigative action on operative-investigative data.
+ In this case, in order to ensure the admissibility of the results of the investigative actions, he must check: 1. Were the operative-investigative data obtained by carrying out operative-investigative measures enumerated by the RA Law on Operative-Investigative Activities.2. Will the operative-investigative measures be carried out by the competent bodies.3. Were the grounds, conditions and order provided by law for the implementation of operative-investigative measures observed, especially the requirements of the law on recording the results of operative-investigative measures27?
+Point 5 of Article 6 of the draft stipulates: "Investigation is an activity carried out by the investigative body within the framework of the preliminary investigation to support it, which includes the implementation of operative-investigative measures, secret investigative actions.
+ The operative-investigative measures, which were incorporated in the draft and received criminal procedure, were called secret investigative actions.
+  We are talking about operative-investigative measures, which are carried out in the conditions of initiated criminal proceedings, within the framework of criminal proceedings, in connection with it, and those operative-investigative measures aimed at preventing, preventing or preventing crimes continue to be regulated "On operative-investigative measures". By RA law.
+  The project does not consider the result of these actions as evidence, so there is no need to define in detail the procedure for their implementation in the project.
+The series of above-mentioned situations can be continued indefinitely.
+  They are numerous և, of course, it is not possible to regulate all of them by law.
+  Just in each case, when the admissibility of evidence is disputed, it should be clarified that: 27 See RA Criminal Procedure, Part 1, Author Group, Sci. Editor: Arthur Ghambaryan, Yerevan, 2016, p. 386.
+• Was it obtained in accordance with the procedure established by the Criminal Procedure Code? • Was the rights of individuals violated during its acquisition or not? • Have appropriate measures been taken to prevent the evidence obtained from being lost, damaged, spoiled, exposed to or mixed with other objects?
+Ani Khurshudyan PROBLEMS OF INTRODUCTION OF EVIDENCE IN CRIMINAL PROCEEDINGS Keywords: inadmissible evidence, search, operative-intelligence, torture, testimony Summary.

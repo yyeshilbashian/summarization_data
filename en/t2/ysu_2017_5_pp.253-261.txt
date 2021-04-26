@@ -1,0 +1,79 @@
+ACRIDIN ORANGE ACID-BALANCE STUDY Introduction.
+  The importance of spectroscopic examination of acridine orange (AO) solutions is due to the fact that a number of factors, such as solvent, additives, pH, etc., can have a significant effect on various formations in AO solution.
+We have studied the effect of solvent, in this case dimethylsulfoxide (DMSO), on the acid-base balance of AO.
+ The effect of an inorganic salt-absorbing agent, inorganic salt potassium carbonate (K2CO3), on the acid-base balance of AO was also studied.
+Spectroscopic examination of AO solutions was performed by spectroscopic methods of electron absorption and fluorescent delivery.
+  Electron absorption spectroscopy is widely used to determine the purity of substances, to study the mechanism of chemical reactions and kinetics.
+  Fluorescent spectroscopy is of great importance for the study of biological systems.
+It is interesting to find out the effect of DMSO ալի potassium carbonate on the acid-base balance of AO և to compare the differences in their mechanisms of action.
+Materials used և methods.
+ The AO was a Sigma-Aldrich (USA) և used without further cleaning.
+ DMSO was purchased from Germany (Alfa Aesar, 99.9%).
+  The AO was dissolved in DMSO և in double saturated water (specific conductivity is less than 2 μS • cm -125 ° C) և the required concentration was obtained by dilution.
+Electronic absorption spectra were recorded using a SPECORD 50PC spectrophotometer.
+  Fluorescent studies were performed with a "Varian Cary Eclipse" spectrophotometer with a wavelength of 425 nm for all solutions.
+ Fluorescent spectrum was recorded in the range of 430-800 nm.
+ The optical path length for all samples was 1 cm.
+ The experiments were performed at 20 ° C.
+The obtained results և their discussion.
+ AO is a biologically important cationic pigment that is easily protonated in the pH <10 range, even in aqueous solution [1,2].
+ The structures of AO և its protonated monomers are presented below. Fig. 1 Structures of acridine orange base (a.) և its protonated monomers (b.).
+By detaching the proton from the water, the AO rises to the protonated monomeric horse, which in turn turns to form the dimer horse.
+ The following equilibria are given for the above processes. , and the extinction values ​​are taken from the literature (for protonated monomer և dimer horses, respectively, in the case of 492 nm wavelength 63800 l / (mol • cm) և 17000 l / (mol • cm), and in the case of 465 nm wavelength - 38000 l / (mol • cm) և 47000 l / (mol • cm)) [3].
+In this way it is possible to calculate the output concentration of AO.
+To study the behavior of AO in DMSO-aqueous solution, the fluorescence spectra of AO absorption ջ in water և were pre-recorded in DMSO [4].
+ The normalized spectra of absorption and fluorescence delivery are shown in Figure 2a.
+ The absorption spectrum is characterized by two maxima at wavelengths of 468 և 490 nm, which are OHAOBHHOHAOB22) (2AOBHAOBH])) AOBHAOBHAAOBHAOBHee])) [(2 (]) [2 () 2 (22) (22AOBHAOBHAAOBHAOBHee]) [(2] [] [ 22AOBHAOBHAOBtot) 1 (A) ​​2 (A12 2+) ոտ protonated responsibly attributed to applicants ((AOBH) 2
+(AOBH +) [3,5].
+  For fluorescence detection of AO applications, the initial concentration should be greater than 1 • 10-3 mol / L.
+The fluorescent delivery spectra of the main HO և horse absorption in DMSO are shown in Figure 2b.
+ The maximum absorption spectrum is observed at 428 nm and the delivery at 525 nm, which corresponds to the main horse of the AO.
+  Such data were obtained in his work [6].
+Fig. 2 Normalized spectra of AOB electron absorption (___) և fluorescent delivery (- - -). (a) in water, (b) in DMSO. [AOB] = 4.31 • For 10-5 mol / l absorption measurements և [AOB] = 1.1 • For 10-5 mol / l fluorescence measurements.
+It is obvious that different factors will affect the equilibrium, changing the characteristics of the "absorption" and "fluorescent" delivery spectra.
+ DMSO has basic properties; its addition to the AO-based equine solution leads to significant changes in the absorption spectrum, which is shown in Fig. In 3.
+4005006007008000.00.20.40.60.81.00.00.20.40.60.81.0üÉáõáñ »ëó» ÝóÇ³ÛÇ ÇÝï »ÝëÇíáõÃÛáõÝ (å.Ù.) ÎÉ³ÝáõÙ (ÝÙ) (³) 4005006007008000.00.20.40.60.81.00.00.20.40.60.81.0 ü» »ÝóÇ³ÛÇ ÇÝï» ÝëÇíáõÃÛáõÝ (å.Ù.) ÎÉ³ÝáõÙ (ÝÙ) (µ) Fig. 3 AOB electron absorption spectrum depending on DMSO concentration. The molar sections of DMSO are: (1) 0; (2) 0.17; (3) 0.39; (4) 0.51; (5) 0.59; (6) 0.63; (7) 0.68; (8) 0.69; (9) 0.71; (10) 0.74; (10) 0.81; (11).
+When the amount of DMSO is low, the intensity of AOBH + subdued at 490 nm wavelength increases and 2 + at 468 nm wavelength shrinks to the shoulder.
+  DMSO Concentration Observer (AOBH) 2:
+Further increase leads to a decrease in the absorption maximum under the wavelength of 490 nm, նոր a new absorption layer is formed at a wavelength of 428 nm due to the de-protonated horse AO.
+  It is known that absorption is an additive quantity.
+  Any shift in the equilibrium between two interchangeable materials leads to a redistribution of investments in those materials, resulting in a change in the whole spectrum.
+ In this case, the first isosbestic point appears below 450 nm when the molar fraction of DMSO changes from 0.17 to 0.68.
+  With the increase in the amount of DMSO, the second isosbestic point appears at 443 nm.
+The presence of the first isosbestic point clearly indicates that equilibrium has been established in reaction (1) ավել The addition of DMSO leads to an imbalance to the left.
+ The second isosbestic point occurs due to DMSO self-association.
+According to the data obtained from electron absorption spectroscopy, only the basic AO egg is present in the DMSO solution.
+  Therefore, it is logical to assume that the fluorescent spectrum in DMSO occurs due to the ground state of the AO.
+ In addition, as the concentration of DMSO in the DMSO water mixture increases, the intensity of the fluorescent signal increases (Fig. 4).
+Fig. 4 The fluorescence spectrum of AOB depends on the concentration of DMSO. The delivery spectra were recorded at an excitation wave of 425 nm (2) 0.17; (3) 0.39; (4) 0.51; (5) 0.59; (6) 0.69; (7) 0.74; (8) 1.
+In other words, the quantum output of AO protonated horses is smaller.
+  It is obvious that the concentration of the basic state of AO increases with the increase of DMSO.
+It is known that the AO delivery spectrum, where protonation takes place at the expense of the amino group (AOBNH +), is observed at 550 nm.
+  This state exists only in the excited state և differs from the basic dye (AOBH +) in which the proton is attached to the intracyclicase.
+  The data obtained in the work show that AOBNH + horse does not exist in AO aqueous solution or DMSO.
+Stoic deviations in aqueous solution in AO fluorescence delivery spectrum in DMSO (
+, where n, are the ման fluorescence maxima of delivery, respectively) are calculated by standard methods [9].
+  The values ​​in the aqueous solution in the DMSO are 1504.6 cm-1 և 4316.9 cm-1, respectively.
+  As mentioned above, AO protons are fluorescent in the aquatic environment, whereas only the basic egg exists in the DMSO.
+ Therefore, the Stox deviation cannot be explained by the change in solvent polarity.
+It can be assumed that the difference between dipole moments in the excited և state of the AO main horse is greater than that of the protonated monomeric horse.
+  As a result, the stochastic deviation of the AO's main horse is about 3 times greater than that of the monomer protonated horse.
+faaf It is also interesting to study the aqueous solutions of AO with the addition of a water-absorbing agent K2CO3 Fig. 5 AOB electron absorption spectrum depending on K2CO3 concentration, K2CO3 concentration 1- 0; 2- 10-4; 3- 5 • 10-4; 4-10-3; 5- 5 • 10-3 mol / l.
+As can be seen from Fig. 5, as the concentration of potassium carbonate increases, the 492 nm wavelength decreases and the absorption decreases to 468 nm.
+It is known that potassium carbonate is hydrolyzed in the aquatic environment according to the following equation, as a result of which the amount of water that is irreversibly associated with the increase in the amount of salt increases.
+ It should be noted that, unlike DMSO water solution, the environment here is only water, which reduces the possibility of the existence of the main horse in the system.
+  In the equatorial environment (1) the shift of equilibrium to the left is unlikely.
+ Fig. 5 shows that due to the interaction of water and salt (2), the equilibrium moves to the right.
+  It is known that as the concentration of AO in the aquifer increases, (2) the equilibrium shifts to an increase in the concentration of the right-handed horse [3].
+  The results show that the interaction with potassium carbonate (2) has a similar effect on equilibrium.
+ Unlike an aqueous solution, there is an isosbestic point here at a wavelength of 432 nm.
+  The latter indicates that there is an AO-based protonated monomer equilibrium in the solution.
+  As a result of hydrolysis, potassium hydroxide is formed, which, by increasing the pH of the medium 3504004505005505006006500.00.30.60.91.2 ÎÉ³ÝáõÙÝÙ) 12345KOHKHCOOHCOK3232, makes the solution more basic, and as already mentioned, the acridine In 10 conditions.
+ The increase in the solubility of the solution leads to the formation of the basic horse AO, which becomes more apparent with increasing salt concentration.
+Fig. Figure 6 shows the fluorescent delivery spectra of AOB depending on the potassium carbonate concentration.
+Fig. 6 AO fluorescence delivery spectrum depending on K2CO3 concentration. Delivery spectra were recorded under excitation wavelength of 425 nm [AOB] = 1.34105 M, salt concentration 1-0; 2- 10-4; 3- 5 • 10-4; 4- 10-3; 5- 5 • 10-3mol / l.
+As shown in Fig. From 6, with increasing salt concentration, the intensity of fluorescent delivery increases.
+  As already mentioned, the basic egg of the acridine orange is described by a larger quantum output than the protonated monomeric horse.
+ On the other hand, in aqueous solutions of potassium carbonate, acridine is one of the absorption spectra of the orange, which with increasing salt concentration in the system forms the main egg of the AO.
+  The resulting fluorescent spectra prove once and for all the fact that with increasing potassium carbonate concentration (1) the equilibrium shifts to the left.
+LiteratureAren AmirbekyanACRIDIN ORANGE ACID-BALANCE BALANCE RESEARCH Keywords: acridine orange, dimethylsulfoxide, potassium carbonate, fluorescence, ketancosm electron

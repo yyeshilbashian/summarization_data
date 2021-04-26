@@ -1,0 +1,138 @@
+SUBJECTIVE LIMITS OF PREJUDICE Prejudice (prejudicial connection) is a feature of a legal act տարր an element of evidence, which for the participants in the case and imposes an obligation on the court to incorporate such circumstances into a newly enacted judicial act.
+ In this regard, Article 52 of the RA Civil Procedure Code stipulates: "The circumstances confirmed by the court decision that has entered into legal force in the previously examined civil case are not proved during the examination of another case by the same persons.
+ The verdict that has entered into legal force in a criminal case is obligatory for the court only with the facts according to which certain actions have been confirmed - the persons who committed them. ”
+The subjective boundaries of the pre-judgmental connection of judicial acts are the circle of those in whose relations the judicial act ("donor" judicial act) that has entered into legal force has a presumptive significance.
+  According to the general rule, the judicial act in the established circumstances is pre-trial for the persons who participated in the case in which the act was made.
+ Moreover, in this case, the involvement of the person in the case is decisive, and not the physical participation in the case2.
+ If the person was involved in the case, but later, having been duly notified of the time and place of the trial, did not appear at the hearing, it does not mean that the precedent of the adoption act will not apply to that person.
+  For example, if the defendant fails to appear, the court can establish the existence or absence of any circumstance based solely on the evidence presented by the plaintiff.
+  Answer 1 Adopted on 17.06.1998, entered into force on 01.01.1999.
+ See ARPA 1998.09.09 / 20 (53).
+2 See Reshetnikova I. V., Course of evidence-based rights in Russian civil court production.- M.
+  Publishing NORMA (Publishing group NOR-MA-INFA · M), 2000, page 139.
+He can no longer point out that any other evidence which was not presented to the court by the latter was not taken into consideration at the time of the judicial act.
+In this case, the adjudication of the circumstances established by the court will be a negative consequence for the persons participating in the case due to the abuse of their procedural rights, among whom is the fact that they did not appear at the court session3.
+  However, if the party does not participate in the trial due to improper notification, the established circumstance may not be recognized by the court examining another case for the case being examined by him.
+It should be noted that the subjective boundaries of the prerequisite connection of judicial acts do not change in the event that the judicial status of the persons involved in the case on whom the judicial act was made has changed.
+ The factual participation of the concubine in the case is crucial, not the procedural status of the participation.
+  For example, a fact established by a judicial act that has entered into legal force cannot be challenged by the person who participated in that case as a respondent, even if he participates in another case as a plaintiff or a third party.
+This situation applies especially to third parties who do not make independent claims on the subject matter of the dispute.
+  The court is obliged to make a decision on involving a third party in the case.
+ Even when they are not present at the hearing, their notice extends the prejudice of the judgment (of course, if they were duly notified of the time and place of the hearing).
+  For example, during the review of a recourse claim, the parties again do not prove the circumstances established in the original case4.
+  For the participants in the case, the procedural rights of gathering, claiming and presenting evidence are equal, and the change of the procedural status during the examination of another case does not mean the possibility of the emergence of new evidence.
+In addition to the change in the litigation status of the parties, the content of the parties may change more often during the trial.
+ It is indisputable that if the circle of participants in the first case is wider than the circle of participants in the second case 3 See Bezrukov A. М., Предициальная связь судебных актов. Disk… k. ю. n. - Yekaterinburg, UGJU, 2005, page 36.
+4 See Reshetnikova I. V., mentioned work, page 139.
+The legality of the judicial act that has entered into legal force will be extended to all persons participating in the second case.
+ At the same time, however, it is debatable whether the participation of the second person in the case leads to the complete exclusion of the legality of the deliberative act in its legal force, or does it mean that the persons who participated in the first case are reprehensible.
+The solution of the mentioned problem should be given based on the following situations.
+ The facts established by a judicial act have a precedent, which extends to the persons who participated in the case by which that act was made.
+ The meaning of this rule is that the persons involved in the present case had the opportunity to prove the existence or absence of the facts established by the pre-trial judicial act in that case, moreover, it was their responsibility, ումը disputing those facts by one party will lead to the other party the obligation to re-prove, which is inadmissible, as the prejudice of the "donor" judicial act in the relations of the persons participating in the case means a prohibition to challenge the circumstances established by that judicial act.
+ This prohibition does not disappear in case of the participation of a new person in the trial, consequently the prejudice of the judicial act in the relations of the persons who participated in the first case does not disappear in case of the participation of a second person.
+  At the same time, in the event of a newcomer's participation in the case, the precedence of the "donor" judicial act in the relationship with the court hearing the new case is subject to certain changes, as the new person has the right to make new claims and objections, and this right corresponds to the obligation to prove the circumstances underlying his claims. .
+  The court has no right not to pay attention to նոր not to examine the arguments of the new person, as it will lead to the issuance of an unfounded judicial act, which is subject to reversal.
+ In such a case, the extent of the circumstances "transferred" in the newly adopted judicial act ("recipient" judicial act) depends on whether the new person disputes their existence (absence).
+ Two options are possible here.
+ If the new person does not want to dispute the previously established circumstances, he can directly announce it.
+ We think that in this case the prejudice must be preserved.
+  The point is that the person, not participating in the first examination, did not exercise his rights and responsibilities in connection with the proof, but nothing changes for those who participated in the first case.
+ Of course, the position of the new person must be clearly stated (in writing, moreover, it is desirable that this position be fixed in the protocol).
+ The current procedural legislation does not contain a norm that regulates the procedure of expressing his / her position on the circumstances established by a judicial act made earlier by a new person.
+  To some extent, such a mechanism is contained in Article 64 of the CCP, which provides for the possibility for the parties to the case to recognize the disputed circumstances by which the other party substantiates its claims արկ objections.
+ We believe that such a norm can be established by the persons participating in the case on the possibility of recognizing the circumstances established by the judicial act that entered into legal force in the case without his participation.
+Second, the person who did not participate in the making of the "recipient" judicial act may not agree with the circumstances established by that judicial act.
+ In this case, the person who did not participate in the examination of the case in connection with which the "recipient" judicial act was made, has the right to challenge the circumstances established by those judicial acts during the examination of the other case.
+  In this case, the court makes a decision based on the evidence examined during the court session.
+ In this case, the new arguments և the evidence presented by the new person to the court exclude the presumption of the earlier judicial act.
+  In such a case a question arises. If new persons can challenge the circumstances established by a judicial act that has entered into legal force in a previously examined case, can the persons who participated in the earlier examined case present their arguments in connection with the arguments of new persons?
+We believe that the persons involved in both cases, who did not have the right to challenge the circumstances established by the earlier judicial act, in this case will not be deprived of the right to participate in the process of examining the evidence and present their judgments as a result of their examination.
+ If the new participant in the trial presents new evidence, then the other participants in the competition in accordance with the principle of competition should have the opportunity to present their evidence.
+ In this case, the new evidence presented by the persons participating in the case allows the court to make different conclusions than the conclusions made in the first judicial act, so the new court act may be different in that respect.
+  In this case, the court, of course, can compare the conclusions of the examination of new evidence with the conclusions made by the court on the basis of the evidence presented by the persons involved in the previous examination, but the judicial act-prescriptive connection will be absent.
+That is, in the case of a new person participating in the second case, the "transferred" circumstances are directly related to the actions of the court և new person, and indirectly to the actions of the persons involved in both cases, so the pre-trial nature of judicial acts is.
+  Prejudicial connection in this case will not be a clear determinant, the actions of the new person who did not participate in the first proceeding will be an additional factor.
+The issue of the legality of the judicial act is more complicated in connection with the claim for protection of the rights of an indefinite circle.
+One of the first to submit a description of the lawsuit on the protection of the interests of an indefinite circle of persons, V. V. It is Yarkov.
+  This idea has been recognized in the science of civil litigation, adopted and developed in the work of other forensic experts.
+  This type of lawsuit is aimed at protecting the rights, freedoms and legitimate interests of a large group of individuals, the composition of which is unknown to the court at the time of initiating the case.
+  Գ. O. Abolonin notes. "The circle of these persons is unknown at the time of the verdict."
+In this regard, Article 2 of the RA CCP provides: "In cases provided for by this Code and other laws, persons entitled to exercise such protection have the right to apply to a court for the protection of the rights, freedoms and legal interests of other persons."
+  The peculiarity of this type of lawsuit is that public administration, local self-government bodies or organizations have the right to go to court to protect the interests of an indefinite circle of persons6.
+  A similar norm is envisaged by the Law of the Republic of Armenia "On Protection of Consumer Rights" 7.
+ In particular, according to Article 42 of the law, "persons defined by the legislation of the Republic of Armenia may file lawsuits to declare the actions of sellers (producers, executors) or commission agents against an indefinite circle of consumers illegal."
+5 See Abolonin G. O., Groups of iski. M., 2001, p. 101.
+6 See Загайнова С. K., Judicial Acts in the Mechanism of Realization of Judicial Authorities in Civil and Arbitration Process, M.
+ Walters Clover, 2007, p. 308.
+7 Adopted on 26.06.2001, entered into force on 01.01.2002.
+ See ARPA 2001.08.02 / 25 (157).
+As a rule, such lawsuits are aimed at preventing such illegal behavior of the participants in the civil circulation, as a result of which a rather large uncertain circle of persons can be harmed.
+  That is why this type of lawsuit has a public legal nature8.
+  After the court recognizes the actions of the defendant as illegal, prohibits certain actions, etc., the persons who have been harmed as a result of those illegal actions may claim compensation for the damage caused by them in another case, proving their belonging to those groups.
+Thus, Article 9 46 of the RF Law on Consumer Protection stipulates: "Public administration, local self-government bodies, consumer non-governmental organizations (associations, unions) have the right to file a lawsuit in court to stop the illegal actions of the seller (executor, competent organization or sole proprietor) to protect the interests of an indefinite circle of persons.
+ In case of satisfying such a claim, the court obliges the offender to notify the consumers of the court decision by other means of mass media or other means within the period defined by the court.
+The decision of the court on declaring the actions of the seller (executor, competent organization or sole proprietor) illegal in connection with the protection of the interests of an indefinite circle of persons is illegal. with the facts of performing the other actions by a given person (seller, executor, competent organization or sole proprietor).
+That is, in contrast to the RA Law on Consumer Protection, Article 46 կետ 3 of the RF Law of the same name stipulates that a decision made on the protection of the interests of an indefinite circle of persons in the case of protection of the interests of a particular consumer is preceded by a court with the following questions: Зас Загайнова С. K., note work, page 308.
+9 See https.
+//www.consultant.ru/document/cons_doc_LAW_305/(20.02.2016).
+1) whether specific actions were performed 2) whether they were performed by a given person.
+In the RA legislation, in particular in the RA law "On Consumer Protection", there is no such rule on pre-trial detention.
+  While it is necessary to mention that in this case the lawsuit is initiated for the protection of consumers' interests, in case of a positive outcome of the case, the latter will be directly interested in the finality of the verdict.
+  Conversely, in the event of a lawsuit being dismissed, they will be interested in having the opportunity to review the circumstances established by a legally binding judicial act (especially in the event of the unscrupulousness of the person filing the lawsuit).
+In such a case, there is a need to develop rules on the legality of judicial acts in lawsuits for the protection of the interests of uncertain persons, to enshrine them in the judicial legislation.
+ This fixation should be made taking into account the specifics of the institute of protection of the interests of an indefinite circle of persons: a) the need to protect the rights and interests of persons whose quantitative composition is not determined at the time of examination;
+In the event that the claim for protection of the interests of an indefinite circle of persons is satisfied, that judicial act shall be presumed to have precedence both in relation to the plaintiff in the present case and in relation to any other person for whose protection the claim has been brought. ման on the basis of legal relations, which were the subject of the first case.
+  Otherwise, the meaning of the institute of the claim for protection of the interests of an indefinite circle of persons becomes meaningless, as protection, as such, has no direct place.
+  If the claim for protection of the interests of an indefinite circle of persons is rejected, such a decision may not have a feature of presumption for the persons for whose protection the claim has been initiated.
+ Resolving the issue in another way will lead to the fact that the protection of the interests of an indefinite circle of persons may in fact turn into a restriction of the right to judicial protection of an indefinite circle of persons.
+10 See Bezrukov A. M., note work., page 41.
+Thus, we think that envisaging such a norm by our legislation will be effective.
+  The existence of such a norm will enable him to ensure judicial savings during the examination of a new case.
+ According to our legislation, in case of presupposition of the mentioned facts, the persons participating in the case will no longer be required to spend time to collect, present and present evidence to prove those facts, and the court to examine and evaluate them.
+The issue of subjectivity limits of the decision on the approval of the conciliation agreement is considered a separate subject of study.
+  R. E. Ghukasyan notes that "the precedent of the decision to approve the reconciliation agreement applies only to those persons who participated in the reconciliation agreement, that is, to the parties.
+ For persons who do not have independent claims on the subject matter of the dispute, the conciliation agreement of the parties approved by the court is of insignificant significance.
+  This is conditioned by the fact that the dispute is resolved by the will of the parties.
+  The parties can assume responsibility only for themselves.
+ According to the current legislation, third parties who do not have independent claims on the subject of the dispute can not participate in the conclusion of the conciliation agreement, therefore it is completely excluded to extend the prejudice of the decision on the approval of the conciliation agreement concluded by the parties.
+  The precedent for a court decision approving a post-settlement agreement is narrower. ”11
+ R. E. Ghukasyan's position is debatable.
+In our opinion, it is necessary to take into account the following circumstances.
+  The approval of the conciliation agreement by the court must meet certain conditions. it cannot contradict the law, violate the rights of other persons և legal interests (Article 33 of the CCP).
+ Therefore, in the event that the conciliation agreement of the parties contradicts the interests of the other persons involved in the case, the latter may express their objections in this regard, the court will refuse to approve the conciliation agreement of the parties in that regard.
+ If the persons whose interests were affected by the approved conciliation agreement, but were not involved in the case, then, first of all, the court decision on the approval of the conciliation agreement that entered into force did not prejudge them 11 See Gukasyan R. E., Problem of interest in the Soviet civil process, Saratov, 1970, p. 177.
+by virtue of the subjective boundaries of the pre-judgmental connection of judicial acts.
+Secondly, these persons are not deprived of the right to appeal the relevant judicial act.
+  In this case, there is no need to narrow the subjective limits of the predictability of the decision to approve the reconciliation agreement.
+The subjective limits of the predictability of a judgment during a civil trial have their own peculiarities.
+Thus, according to Part 3 of Article 52 of the RA CCP, the verdict that has entered into legal force in a criminal case is obligatory for the court only with facts, according to which certain persons և are confirmed to have committed those actions.
+  Moreover, the predictability of the verdict does not depend on the fact that the participants in the civil case being examined by the court are participants in the examined criminal case.
+ In other words, an examination of the content of Article 52 3 3 of the CCP shows that the legislature has considerably expanded the subject-matter limits compared to civil judgments.
+In our opinion, such a situation is normal for the following reasons.
+ According to Article 12 18 of the Criminal Code of the Republic of Armenia, "an act committed with guilt, dangerous for the society, which is envisaged by this Code" is considered a crime.
+  Any crime encroaches on a certain group of public relations, which is the object of the crime.
+  The analysis of criminal law issues allows concluding that the object of crime can be human relations մարդու citizen և civil rights և freedoms, rights of legal persons, property, environment, public order և security, constitutional order, peace ապահով ensuring human security և protection 13: The State can not stay out of the fact of committing a crime, as the latter ultimately harms the public interest.
+ It can be noted that in a broad sense, crime harms the whole society.
+ This circumstance allows to understand why the legislator has expanded the subjective limits of the verdict, why such an expansion is justified.
+12 Adopted on 18.04.2003, entered into force on 01.08.2003.
+ See ARPA 2003.05.02 / 25 (260).
+13 See Criminal Law of the Republic of Armenia.
+  General part (sixth edition with changes and additions) ./ G. Ghazinyan ed., - Yerevan.
+  YSU Publishing House, page 113.
+In practice, the extension of the subjective limits of the judgment of a judgment may take place, for example, in cases where the civil defendant is not the direct cause of the damage, but another person directly designated by law.
+For clarification, we can mention Article 14 1072 of the Civil Code of the Republic of Armenia, which regulates the liability for damage caused by activities that create the most danger to the environment.
+  Part 2 of the mentioned article stipulates: "In case of his guilt in illegally taking the source from the possession of the source, the responsibility can be placed on both the owner of the most dangerous source and the illegal acquirer."
+ That is, if the damage was directly caused by another person (in this case the illegal acquirer) who was convicted, this circumstance does not prevent the victim from suing the owner of the most dangerous source for compensation for the damage caused.
+  The verdict that came into force during the examination of this case will have a prescriptive significance.
+Thus, we can make the following conclusions and suggestions: 1. Speaking about the subjective boundaries of the pre-trial connection of judicial acts, using the actual participation of the person in the case to determine them, we can conclude that may be challenged by the defendant in that case if he participates in another case as a plaintiff or a third party).
+2. Speaking of the change in the content of the parties, it should be noted that in the case of a new person participating in the second case, the scope of the circumstances "transferred" in the judicial act is dependent on whether the new person disputes their existence (absence).
+  If the new person does not dispute the previously established circumstances, then the prejudice must be maintained.
+  If the person who did not participate in the making of the "recipient" judicial act does not agree with the circumstances established by the judicial act, then the new arguments presented to the court by the new person և the evidence is excluded. 14
+ See ARPA 1998.08.10 / 17 (50).
+the predictability of an earlier judicial act.
+  Moreover, the persons who participated in both cases, who do not have the right to challenge the circumstances established by the earlier judicial act, in this case will not be deprived of the right to participate in the process of examining the evidence or to present their judgments as a result of their examination.
+3. Discussing the subjective limits of the pre-trial connection of judicial acts in case of the participation of a new person in the examination of the second case, we noted that the current procedural legislation does not contain a norm that will regulate the expression of his position on the circumstances established earlier by the new person. Add a second paragraph to Article 2. "The person participating in the case has the right to accept the circumstances established by the judicial act that has entered into legal force in the examined case without his participation."
+ Moreover, we would like to emphasize that in this case it is only a question of accepting a fact approved by a judicial act, and not of expanding the subjective limits of prejudice.
+4. Speaking of the claim for protection of the interests of an indefinite circle of consumers, we have mentioned that in this case the claim is initiated for the protection of consumers' interests, in case this claim is satisfied, the court act must be presumptive both in relation to the plaintiff in this case and any in a relationship with another person whose interests have been sued, պաշտպանության who is suing on the basis of the same facts ությունների legal relations which were the subject of the first case.
+  Therefore, we suggest supplementing Article 52 of the RA CCC with the following: "Consideration of the case of protection of the rights of a specific consumer in connection with the civil legal consequences of the actions of the sellers (producers, performers) or commissioners of recognizing the actions of sellers (producers, executors) or commissioners in connection with the protection of the interests of an indefinite circle of consumers. with the facts of performing the given actions by the given person (sellers, producers, performers or commission agents).
+Kristine Aleksanyan SUBJECTIVE LIMITS OF PREJUDICE Keywords: pre-trial, claim for protection of the subject of pre-judgment of judicial actsSummary.

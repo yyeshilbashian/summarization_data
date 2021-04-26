@@ -1,0 +1,64 @@
+HYPERICUM ELONGATUM LEDEB INSULATED CULTURE SPECIFICATIONS FEATURES Hypericum elongatum is a perennial herb belonging to the family Hypericaceae.
+ It has a healing effect, it is used especially in traditional medicine.
+ The healing properties of the essential oils, have long been known in ancient times.
+  Contains essential oils, resins, anthocyanins, essential oils, anthraquinones (hypericin, pseudohypericin, protopsydophypericin), flavonoids, rutin, quercetin, terpenes, nicotinic acid, vitamins (C, P, E, etc.).
+  Clinical studies have shown that Hypericum elongatum has anti-depressant properties, has an antibacterial effect, and organic substances are actively involved in metabolic processes, increase sweating.
+ Srohund elongated is used in the treatment of gastritis, gastric ulcer, jaundice, malaria, liver cancer (Caraci F., 2011).
+Preservation of endangered plants is now a major problem around the world.
+  Modern biotechnological methods can help solve this problem.
+  One of these methods is clonal micropropagation (Butenko R., 1964).
+In isolated crops obtained by micro-propagation, it is necessary to stimulate root formation in vitro եցնել to adapt the resulting micro-plants to soil cultivation.
+ Various substances are used to stimulate root formation, including indolyl-tricarric acid arginine (Nasibi F., 2013).
+ Arginine is one of the most important amino acids and is considered to be the precursor of polyamines resulting from the decarboxylation of arginine.
+ Polyamines նախորդ their predecessor arginine are considered vital modulators of growth in higher plants վում are involved in physiological developmental processes (Amira M., 2009).
+  It is believed that L-arginine has a regulatory effect on in vitro root formation, is involved in the functions of the photosynthetic apparatus, affects the amount of chlorophyll in the hosts, participates in carbohydrate metabolism, metabolism, promotes the accumulation of proline in plants (Carlsson, 2012).
+Polyamines are involved in the regulation of cell cycle, cell division, phytochrome morphogenesis, replacement of plant hormones, regulation of plant aging, as they are factors in the regulation of plant stress.
+  Proline and polyamines are the most important osmolytics for the plant, are synthesized in the cytoplasm of the plant under stress and participate in osmoregulation.
+  Proline inhibits the inactivation of enzymes, protects the hydration membrane of biopolymers from damage, changes in the activity of genes that control the synthesis of stress proteins, and has antioxidant properties (Hassanein RA).
+The aim of the presented work is to increase the stability of plants obtained by microclonal propagation under soil adaptation by selecting the composition of the nutrient medium, as well as to study some peculiarities of growth and metabolism of H. elongatum isolated culture.
+Material և method.
+  Isolated H. elongatum culture was obtained by the traditional method (Buteno, 1964) in the MS medium (Moorashige and Skoog, 1962) in modified versions of the MS medium.
+  To study the peculiarities of the growth of callus culture of Srohund oblong, a determination of callus, amount of dry matter (%) և growth index was made.
+ To stimulate microclone multiplication, the mericlons were grown on MS media containing different concentrations of arginine-indolyl-tricarboxylic acid (ICT): 1 mg / l ICT և 0.5 mg / l arginine, 1 mg / l Arg / 0.5 mg / l mg / l ICT և 2 mg / l arginine, 2 mg / l ICT և 2 mg / l arginine.
+ The hormone-free և arginine MS diet was used as a control.
+The amount of proline in the surface of the mericlons was determined by the Bates method, taking into account the calibration curve formed by different concentrations of pure proline (Bates et al., 1996).
+  For this purpose, 100 mg of fresh plant material was used.
+Antioxidant was determined by express test (free radical scavenging) using DFH (2,2-diphenyl-1-picrylhydrazyl) (Kalita et al., 2013).
+ For this method 1 gr. The dry tissue was extracted with 70% ethanol at 10 ° C.
+  The resulting homogenate was centrifuged, and the supernatant was dried at room temperature.
+ The dry residue of the extracted materials was stored at 7 ° C for further use.
+ The reconstituted materials were reconstituted with 96% ethanol.
+  Ascorbic acid was used as a positive control.
+Antibacterial activity was determined by agar diffusion using 0.1 ml of alcohol (70%) extract at a concentration of և 10 mg / ml (Bauer AW, 1973).
+  Strains of Bacilus subtilis A1 WT, Pseudomonas aeruginosa GRP3 Esherichia coliWDCM M 17, Staphylococcus aureus VKPM 5233 were used as test organisms.
+  The diameter of the holes made on the agar was 8 mm.
+ 70% ethanol was used as a negative control.
+Summary of the Results.
+  The isolated culture of H. elongatum was obtained by the traditional method.
+  The flowers of the plant were used as explants, using the Murasige-Skug (MS) nutrient medium.
+The callus grown in Srohund oblong IP medium has a light yellow color, the growth is directed upwards, the callus is of medium fragility.
+During growth, as a result of organogenesis, shoots are formed on the callus (Fig. 1).
+In order to study the growth characteristics of H. elongatum callus, the growth index և accumulation of dry matter was determined in one stage of growth during 5, 10, 15, 20, 30 days (Fig. 2, 3).
+Figure 1. H. elongatum callusFigure 2. Content of dry matter in H. elongatum callus tissueAs shown in Fig. From 2, the highest accumulation of dry callus mass was registered during the 5-15th days of growing.
+  In the 20th-25th days of cultivation, a decrease in dry matter accumulation was observed, and later it increased (30th day), but did not reach the maximum dry matter accumulation (10th day).
+Figure 3. H. elongatum callus tissue growth index H. Determination of the growth index of elongatum callus tissue showed that the growth of orcalus was proportional during the first five days, the 10th day of growth criterion decreased slightly, and then increased (on the 20th day), slightly decreased on the 25th day. At the end, on the 30th day, it increased to 1.2.
+For root formation, we used the modified MSS medium, which contained only naphthyl acetic acid at a concentration of 0.1 mg / l from phytohormones.
+  During cultivation in this environment, not only active root formation was observed, but also developed surface mericlons (Fig. 4).
+11,051,11,151,2010203040 growth index H. elongatum callus tissue acquires a bright red-brown color in the conditions of "light" and "darkness", which is conditioned by the activation of the synthesis of secondary products (Fig. 5).
+            Figure 4. Growth of H. elongatum in vitro Figure 5. Growth of H. elongatum callus in light conditions It is known that plants of the genus Hypericum are endowed with high antioxidant activity, based on the principle of phylogenetic kinetics. decision (on the 10th, 20th և 30th days of callus growth).
+ For this purpose, extracts with concentrations of 10, 50, 100, 500, 1000 μg / ml were used, the activity of which was compared with the activity of solutions with the same concentration of ascorbic acid (Table 1).
+Antioxidant activity of H. elongatum isolated culture Concentration 1000 μg / ml 500 μg / ml 100 μg / ml 50 μg / ml 10 μg / mlTable 1. Days 10th-20th2030th test The callus tissue on the 9th day.
+  This pattern is maintained by applying all concentrations of the test solution.
+ H. elongatum, as a producer of substances with antioxidant activity, is almost not studied.
+  It is not inferior in its biological activity; sometimes it is superior to other representatives of this breed (Dimitrov D., Nedialkov P., 2010).
+This suggests that the callus tissue at the end of the normal growth cycle (day 30) can be used for the prevention and treatment of a number of diseases caused by the violation of the mechanisms of anti-radical defense in the body.
+Antibacterial activity of H. elongatum callus tissue Test zone of absence of growth of microorganisms (Φ, mm) Table 2. Strains Days 10th 20th 30th H. The antibacterial activity of elongatum isolated culture was determined at the same stages of callus growth (days 10, 20 և 30), as a result of which it became clear that the maximum accumulation of antibacterial substances in the tissue occurs at the end of the growth cycle - day 30 (growth The diameter of the absence zones reaches 13-15 mm, see Table 2).
+  Pseudomonas aeruginosa GRP3 gram-negative microorganism showed the highest sensitivity to the metabolic products of H. elongatum callus tissue.
+ On the 30th day of cultivation in H. elongatum in vitro plants grown during overlapping of different nutrient media, the activity of proline synthesis was studied, depending on the environmental factors.
+  Examination of this amino acid revealed that its maximum levels were observed in plants grown in nutrient medium containing 1 mg / ml ICT Ի 1 mg / ml arginine (Fig. 1).
+  This indicates that this ratio of ICT-arginine in the nutrient medium was conducive to the accumulation of proline in the plant, and as mentioned above, proline is considered an osmotic regulator.
+ Plants grown in vitro with a high synthesis of this substance can be easily transferred to the soil. ԵլResist the impact of various stressors in this process, in particular, dehydration.
+Schedule. 1. The amount of proline in elongated mericlons. Thus, in view of the above, H. elongatum has been proposed as an isolated source of biologically active substances that can replace substances obtained from wild-growing plants.
+  This will allow to satisfy the demand for medicines of plant origin, thus preserving the constantly decreasing natural resources.
+Literature and anticancer drugs.
+ Focus on selective serotonin reuptake inhibitors and hypericum extract // Sjanna Isajyan, Naira Sahakyan, Anush Babayan, Margarit Petrosyan HYPERICUM ELONGATUM LEDEB INSULATED CULTURE

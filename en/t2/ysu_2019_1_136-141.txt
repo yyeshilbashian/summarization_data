@@ -1,0 +1,44 @@
+ANOXYBACILLUS FLAVITHERMUS K1- In amylase AKTIVUTYANJERMASTICHANAYIN AND PH DEPENDENT AND PH STABILITY AND SPITAKUTSIJERMAKAYUNUTYAN TIRUYTIUSUMNASIRUMEKensabanakan active substances and heat-resistant enzymes (termozimneri) strain-producer thermophilic bacteria significantly improve application kensatekhnologiakanartadrutyunnerum allows yevaragatsnelu biosynthesis and kensakatalizi processes khnayelumanreazertsman required energy to other batsarelukontaminatsian bacteria, as well as to develop new, more advanced technological methods for the synthesis of biological substances [1].
+Most of the biocatalysts used in biotechnology (85%) belong to the class of hydrolases, and amylolytic enzymes (especially α-amylases, glucoamylases և glucosisomerases) make up 30% of all enzymes produced.
+ Starch hydrolysates are used in the production of glucose from starch, which plays an important role in the food, pharmaceutical and chemical industries.
+Currently, the demand for heat-resistant enzymes for production conditions is growing.
+  When choosing a biocatalyst of industrial significance, the possibility of producing it in sufficient quantity is a precondition.
+ The use of thermosomes is limited by a number of difficulties associated with the difficult growth of thermophilic cells հետ with the low expression level of these genes in them [1].
+The aim of the present work is to study the effect of temperature H pH (temperature H pH optimization, heat resistance, pH stability) on the activity of amylase enzyme of thermophilic anoxybacillus flavithermus K1 strain isolated from VAT Karvachar geothermal spring.
+Material և method. The study material was the Anoxybacillusflavithermus K1 strain isolated from the Karvachar geothermal source of VAT.
+  To obtain the growth curve of A.flavithermus K1 strain որոշ to determine the amylase activity, it was grown in the following nutrient medium (%): starch 1, NaCl0.5, MgSO4 0.05, KNO3 0.5, pH-7․0.
+The amylase activity of A. flavithermus K1 strain was quantified by edinitrosalicylic acid by growing the cultures in a starch-containing medium [3].
+ 50 ml of sterile liquid medium was infected with 1 ml of culture fluid by incubation for 24 hours at 55 ° C at 160 rpm.
+  The culture fluid after the end of incubation was centrifuged at 5000 rpm at 4 ° C for 20 minutes.
+ The resulting extract served as a source of amylase.
+The protein concentrate was added to the reaction mixture to determine the optimum temperature for the activity of the enzyme protein. the amount of sugars by the above method.
+  To determine the heat resistance և pH of the enzyme protein, the supernatant was stored for 15 minutes at values ​​of 50, 60, 70, 80, 90, 100, 110 և 120 ° C և pH 2 to 12, respectively.
+The amount of enzyme that produces 1 μmol of reduced sugars per 1 ml per minute of experiment was selected as the unit of enzyme activity.
+Results և discussion. A. flavithermus K1 strain is characterized by rapid growth specific to thermophiles.
+ When incubated under shaking conditions, it reaches the growth stage after 7 hours (Figure 1).
+ The strain grows optimally at 55 ° C և pH-7.0.
+ Cell generation time was 20 minutes, speed constant was 3.
+As can be seen from the curve shown in Figure 1, a relatively long lineage is typical of the early growth stage of the A. Flavithermus K1 strain.
+ This is due to the preparation of starch assimilation.
+The graph in Figure 2 shows the culture-liquid amylase activity at different temperatures.
+  As can be seen from the picture, the maximum amylase activity was recorded at 60 ° C incubation.
+ The heat resistance of the nanamylase protein in the temperature range of 50120 ° C was determined (Figure 3).
+Picture 3 ․ Cultivation of A. flavithermus K1 strain Figure 2. A.flavithermus K1 strain amylase activity at different temperatures.
+Figure 3. Heat resistance of A.flavithermus K1 strain fluid.
+The activity of the amylase protein has been shown to be 5070 ° C, which corresponds to the maximum activity temperature of the enzyme.
+At a temperature of 80-100 ° C, the protein loses 80% of its activity, and at higher temperatures generally registers an activator.
+Figure 4. A. flavithermus K1 stamyamylase activity at different pH conditions, 60 ° C.
+Figure 5. pH-induction stability of A. flavithermus K1 stamiamlase protein.
+Figure 4 shows the dependence of enzyme protein activity on pH.
+  Apparently, the maximum activity was recorded at pH 8.
+  The pH resistance of the enzyme protein was determined in the pH range of 2-12 (Figure 5).
+ Amylase protein retained its activity by incubation at pH 7․8 for 15 minutes, and at pH 3- և 9-11 it loses 60-80% of its activity.
+Table 1 ․ Comparative characteristics of amylases used in biotechnologyMacteriaAmilase
+Activity:
+optimal amylase
+Optimal temperature of activity References in this work As can be seen from the data in the table, the pH և temperature ranges of the active amylase activity of known thermophilbacilli range from 5-8 to 70-100 ° C, respectively.
+ The thermophilic bacterium Bacillusamyloliquefaciens, isolated from geothermal sources in India, produces amylase, the activity of which is neutralized by pH and temperature optimized by 70 ° C.
+  A. flavithermus K1-amylase is optimally active compared to the amylase of this production strain under basic conditions of pH 8.
+ The amylase isolated from the thermophilic Geobacillus thermoleovorans is characterized by the highest known core pH (pH 8) և high temperature optimization (100 ° C).
+ Although A. flavithermusK1 amylase is not inferior to the latter in its pH optimization of activity, but is characterized by lower temperature activity.
+LITERATURE Petrosyanyan Lusine ANOXYBACILLUS FLAVITHERMUS K1 AMYLASE ACTIVITY MEDICINE AND PH SUSPENSION AND WHITE RESISTANCE, PURRENCY

@@ -1,0 +1,41 @@
+EXPLOITATION OF THE CO-PROCESSOR FOR REHABILITATION OF FACTORS Reasoning for the choice of the theme.
+Operations with fractional numbers are usually done in a sliding comma format.
+• Advantages: large range, simplicity of operations.
+• Disadvantages: the possibility of accurately representing periodic fractions, for example, 1/3 = 0, (3), 1/7 = 0, (14 257), due to which the comparison operation is not performed correctly.
+This problem can be solved by software, defining a special structure for storage in the form of digital fractions, defining arithmetic operations for that structure.
+  It is already possible to write a program with the money, which will make the calculations accurately.
+However, this option can not be the final solution to the problem, because in case of defining a new structure in the software version, it is necessary to redefine all the simple arithmetic operations.
+  They will present separate methods, the application of which will require more time.
+In this work we propose a solution to the problem through hardware implementation, ie to develop a processor that will be able to present numbers in fractional format և to store in registers a co-processor (co-processor).
+As we know, any rational number x can be represented by (m, n) by a pair of integers, where m is the numerator x = m / n and n is the denominator.
+  For this reason, we suggest presenting the numbers in their fractional form, using the format presented below, where the number symbol is stored in the first bit, the numerator is stored in the next 31 bits, and the numerator in the last 32 bits.
+To understand the differences, advantages and disadvantages of the proposed format և for the existing sliding comma format for the representation of non-integer numbers', let's try to compare the possibilities of numbers with the same order of the given formats.
+  Let's make the comparison with 16 bits.
+Any form of representing real numbers in a sliding comma format allows you to accurately represent only a fraction of the numbers.
+The error of the remaining numbers is determined by the formula R = A-A ', where A' is the numeric value A.
+For example, let's calculate the representation error of 0.4 in "half-precision" format.
+  Let's bring the number 0.4 by the method of multiplication by a binary system by 2.
+If the same number is represented as a fraction, the error is equal to 0.
+In numbers with a 16-bit sliding comma, the numerator can be represented by 10 bits, but the denominator must be 2 degrees, otherwise the approximate value of the number is preserved.
+Although only 8 bits are allocated to the numerator in fractional format, its advantage is that the denominator is allocated 8 bits, which allows the denominator of the number to be in any range from 0 to 255.
+  The possibilities of presenting numbers in both formats can be presented through the following table: 2𝑘.
+ 𝑘 ∈ ℕ, 𝑘 ≤ 8.
+ 0, ∈ ℕ ∩ [0,255] / {2𝑘.
+ 𝑘 ∈ [0,8]}.
+ 25 ∈ ℕ ∩ [256, + ∞] / {2𝑘.
+ 8 ∈ [8, + ∞]} TrueQuantQueryExact: error is comparable to number: Approx. error is comparable to number: AccurateAppropriate errorRecommended format for data processing Necessary in the design of his scheme.
+  It is presented in Figure 1.
+  The Euclidean algorithm was used for the scheme.
+Figure 1 A block diagram of the maximum common divider algorithm developed for switching to FSM is shown in Figure 1. 2, as he described his work in Verilog.
+Fig. 2 Based on the required blocks, addition, subtraction, multiplication and division schemes for processing the data presented in the proposed format were designed, the schemes were described in "Verilog" language.
+ These schemes are combined in the TTS for processing the numbers presented in the proposed format.
+ Fig. Figure 3 presents the structure of TTS.
+Fig. Table 3 presents the existing operations in the developed TTS with the corresponding action codes. In 4, as he described the TTS work in "Verilog" language.
+It was developed in the synthesis of TTS using the ISE package.
+The synthesis results are presented below.
+Fig. 4 In the future the format can be developed և add a fourth field where the whole part of the number will be saved. thus it will be possible to expand the format range.
+Two approaches to CPU architecture are possible when designing TTS for the latest version.
+According to the first approach, the whole part of the number is processed in the TTS of the main processor, and the fractional part of the number is processed in the co-processor.
+  In the second approach, the number is completely processed in the co-processor.
+1. Hennessy J., Patterson D. Computer Architecture.
+  A Quantitative Approach, 5th LiteratureCOMPROCESSER DEVELOPMENT WITH FACTORSAndranik MomjyanFor Keywords: coprocessor, data formatSummary.

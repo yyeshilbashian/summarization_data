@@ -1,0 +1,79 @@
+SYNTHESIS OF COMPONENTS CONTAINING A TRIAZENE GROUP PROPERTY RESEARCH
+  They can be used as ionites, especially for translucent membranes, for the separation of difficult-to-dissolve liquids and gases, as sensitive sensors for quantifying various substances, such as for obtaining environmentally safe electricity from natural energy [1].
+  Used for these purposes և can be used polyanilines, polytiophene, polypyrrole, poly-p-phenylene և etc.
+ As electroactive polymers, polymers containing aromatic triazene groups, which can exhibit photoconductivity in the long wavelength region of light (300-550 nm), have not been studied among polymerized polymers.
+  Combined polyaryls containing 1․3 triazendyl units in the parent chain, due to their unique chemical structure, presence of tautomers և E, Z-isomers, as well as good complexing agents, may be of some interest as electroactive polymers.
+  Polymers containing the 1․3-triazendyl group are photosensitive compounds ևStudied for application in microelectronics [3-8].
+Complexes of triazene-containing polymers with Fe, Cu, Zr, Pd և Ru are used as catalysts [9, 10].
+  In terms of the study of electrical properties նոր new possibilities for the application of polymers, the group of polymers that has been little studied և, the industrial synthesis of which is easily feasible, are the combined polyaryls containing the basic polymer chain triazene-1․3-diyl units.
+One of the methods for obtaining triazene-containing polymers is the combination of aryldiazonium salts with amines.
+  Combined triazene group-containing polymers were obtained by this method based on benzidine [11], as well as triazene group-coupled polymers were synthesized by p-phenylenediamine's assay by p-phenylenediamine affluence [12].
+ Based on the scientific data of the field, as well as taking into account the fact that so far there are very few coupled polymers containing the basic chain triazene group, synthesized combined polymers containing the main triazene groups have been studied by combining the triazene groups into NH2 / NH-based Nm2 base group. -d (4-aminophenyl) 1,4-benzoquinonodiimin), 4 1,4-di [N (4-aminophenyl) -1,4-benzoquinonodiimin-N'-yl] benzolamine [13].
+ Doping with iodine, a study of the electroactive properties of the resulting polymers was performed.
+Examination of p-FDA with sodium nitrite և in combination with trimmers (1).
+2.
+1) in molar ratio. 0.0863 g (0.79 mmol) of p-FDA was added to 0.48 ml of 35% hydrochloric acid solution at room temperature for 45 minutes.
+ By lowering the temperature to 10 -10 ° C, 0.1109 g (1.6 mmol) of sodium nitrite was slowly added to 0.4 ml of water droplets dissolved.
+To the obtained dialyzed p-FDA solution was added 0.215 g (0.75 mmol) of four trimmers և raising the temperature to -5 ° C.
+ After 15 minutes, slowly add 1.7 g of sodium acetate solution dissolved in 1.8 ml of water at 268 K until pH = 5, and after 30 minutes, place in the refrigerator.
+  The reaction mixture was neutralized for 4 days with sodium bicarbonate solution until և pH> 7.
+  The solution was filtered and the precipitate was washed with water until neutral, then ether.
+ Then, 0.02 g of methanol soluble and 0.145 g of insoluble were divided. (polymer I) parts.
+ The materials were dried to a constant weight of 323–343 K at a pressure of և 2 kPa.
+P-FDA examination with sodium nitrite և combination with pentamer (1).
+2.
+1) in molar ratio. 0.07375 g (0.683 mmol) of p-FDA was added to 0.44 ml of 35% hydrochloric acid solution over 45 minutes at room temperature.
+ By lowering the temperature from -10 ° C to -14 ° C, 0.09425 g (1.366 mmol) of sodium nitrite dissolved in 0.85 ml of water was slowly added dropwise.
+ To the resulting dialyzed p-FDA solution was added 0.215 g (0.75 mmol) of dry pentamer, և raising the temperature to -5 ° C.
+ After 15 minutes, 1.553 g of sodium acetate solution, dissolved in 1.65 ml of water, was slowly added at a temperature of 268 K until pH = 5, and after 1 hour was placed in the refrigerator.
+The next day the reaction mixture was stirred for 3 h at 273 K.
+ The reaction mixture was filtered, the precipitate was washed to և pH = 7 with ice water.
+ The residue was basified with sodium bicarbonate solution to և pH> 7.
+ The solution is filtered and the precipitate is washed with water to a neutral medium.
+  Then dissolved in 0.023 g soluble in emethanol. լուծ insoluble: 0.185 g. (polymer II) parts.
+Testing of benzidine with sodium nitrite և in combination with trimmers (1).
+2.
+1) in molar ratio. The experiment was performed using analog polymer I instead of p-FDA: 0.068 g (0.37 mmol) benzidine, 0.2 ml of 35% hydrochloric acid solution, 0.051 g (0.74 mmol) of sodium nitrite dissolved in 0.45 ml, 0.107 (0.37 mmol) trimmer 0.9 g sodium hydroacetate dissolved in 1 ml of water.
+Soluble in methanol - 0.005 g. լուծ insoluble: 0.15 g. (polymer III).
+  The materials were dried to a constant weight at 323–343 K at a pressure of և 2 kPa.
+Doping of polymers with iodine. To a certain weight of the polymer was added a certain volume of 0․178 N iodine tetrachloride solution, left at room temperature in a dark place for 3 days.
+ It was then filtered, the filter was rinsed once with a small amount of carbon tetrachloride, then placed in a phosphorus pentoxide-containing desiccator and dried by adding a water vacuum to a constant weight.
+  The filtrate was titrated with sodium thiosulfate solution in the presence of starch.
+Depth of soil to a pan, which impedes rooting, is calculated based on both the titration and the increase in the weight of the polymer after doping.
+Discussion of the received data. Based on previous work, the synthesis of polymers containing aniline oligomeric fragment joined by triazene groups was performed: PFDA screening with sodium nitrite, combining with trimer և pentamer1.
+2.
+In 1 molar ratio,, polymers were obtained (Scheme 1).
+Scheme 1. n = 1 - polymer I, n = 2 - polymer II Structure-property of aniline oligomers connected by triazene groups (Scheme 2).
+Scheme 2. n = 1 - polymer III Quinonodium groups have a rather high reaction capacity, and the fact that the resulting polymers are insoluble in organic solvents, prevents the establishment of the structure.
+ In order to clarify the structural problems պարզ In order to find out the accuracy of the chosen method, a model compound containing triazene groups was synthesized by performing aniline research, combining aniline with trimmers.
+ Sodium nitrite 1.
+1.12 molar ratio, aniline.
+trimmer 2.
+At a molar ratio of 1, the resulting polymer structure was found to match the structure of the model (Scheme 3).
+ This shows that the reactions yield polymer I, polymer II և polymer III.
+Scheme 3 The dependence of the electrical conductivity of the obtained polymers on iodine doping was determined (Table 1).
+Table 1. Polymers
+e:
+m:
+ի:
+l:
+o:
+Q:
+  Material:
+n:
+c, mmola
+p:
+o:
+d:
+J-iDopanningml, depth according toTesakar
+e-mail mass titration / cmPol անգ I 1.
+7 Pol ․ II 1.
+71.
+8.6 Paul ․ III 1.
+7 1.
+8.6 In the case of the same doping depth of Polymer I և polymer II was about two orders of magnitude higher, and the highest was the electrical conductivity of Polymer III.
+ Thus, we have synthesized new transmitting polymers, which contain triazene groups in their structure.
+LITERATURE Bound 1-Aryl-3-alkyltriazenes as Modular Ligands for Catalysis. Part 2.
+  Screening [8] Anderson MR, Mattes BR, Roiss H., Kaner RB, Gas Separation Membranes.
+[10] MacDiarmid AG, Synthetic Metals.
+ a Novel Role for Organic Polymers, Angewandte Mikael Torosyan, Martikyan SYNTHESIS OF COMPONENTS CONTAINING NONTRIASENESE GROUP SPECIFICATIONS Keywords: triazene, electromagnetism, conductivity

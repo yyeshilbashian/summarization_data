@@ -1,0 +1,71 @@
+Sci. Head: Ph.D., Ph.D., Assoc. R. Gorgyan In the countries of the transition period, especially in Russia, the structural tools (CS) offered by banks և investment companies are now becoming more and more attractive to potential investors.
+Education is a complex financial instrument associated with a certain underlying asset under predetermined income conditions.
+ Income from the instrument depends on the dynamics of the underlying asset, the frequency of income payments, which are defined by the components of the instrument: securities (mainly fixed income instruments) and derivative instruments1.
+Renaissance Capital LLC, a member of the London Stock Exchange, is one of the major players offering new financial instruments in countries with economies in transition2.
+  It operates in Russia, Ukraine, Kazakhstan, as well as in a number of promising developing countries of Armenia, Central Europe, Africa and Asia.
+ "Renaissance Capital" LLC offers with KG the following types: corporate derivatives, hybrids, partial financing, structural debt.
+Master Brock Private Joint-Stock Company was established in 1994. In Ukraine.
+  The company offers an online KG framework, for which the main income is provided by the high-yield futures consisting of options based on gold, oil, euro / dollar exchange rate, Moscow-Ukrainian stock exchange stock index և USD / Ukrainian hryvnia exchange rate և futures.
+  At the suggestion of the company, in 2014 Blessed state military bonds in the Ukrainian stock market on May 21, 2012, which simultaneously solve two problems: investment of funds, support of the Ukrainian http.
+//www.rencap.com/SharedFiles/Resources/0841b1fe-d328-4513-8e50 army.
+  The treasury military bonds were issued in 100,000 copies, each with a face value of 1,000 Ukrainian hryvnia.
+ The total amount of the issue was one million Ukrainian hryvnia.
+  These bonds will be in circulation for about two years, the payments will be made every six months.
+ "Master Brock" company, noting that the KG will provide a stable income, regardless of the fluctuations of the Ukrainian market, he announced a tender, according to which each investor acquiring the KG gets a chance to win a treasury military bond with a face value of 1000 Ukrainian hryvnia և 7% annual yield1.
+Nexus LLC, operating in countries with economies in transition, is the oldest consulting company in Eastern Europe in the field of international tax planning and asset diversification.
+  The current specialization of the company is conservative low-risk funds, the profitability of which depends on the market situation2.
+  Due to the current situation in Ukraine, "Nexus" company believes that the expected serious decline in the stock market in Ukraine is underway.
+1998 Alpari LLC is currently one of the strongest representatives of forex trading in Russia. 2013 It was recognized as the best forex broker in Europe, Russia and CIS countries4.
+The company offers a wide range of KG, for which the base assets are more than 20 exchange rates, gold, silver, oil, stock indices, stocks և agricultural products (grain, corn, sugar, etc.).
+  "Alpari" from the CIS countries also offers education in Belarus and Ukraine.
+ING Bank is one of the leading financial institutions in Russia and Ukraine.
+  The Ukrainian company offers the following types of KG: structural notes, credit notes, fund-based notes5.
+1 https.
+//masterbrok.com.ua/service-advisor/invest/structured-products/.Nexus Ltd, http:
+//www.nexus.ua/strukturirovannyie-investitsionnyie-produktyi.Nexus Ltd http:
+//www.nexus.ua/strukturirovannyie-investitsionnyie-produktyi.4 http:
+//www.alpari.ru/ru/company/history/#promo=year_2013-3.http.
+//www.ingbankukraine.com/media/896478/ibu-country-presentation_july_2014_ukr Alfa-Bank Belarus offers a wide range of education in Belarus 1.
+  In Belarus, it is said that the Forex market will soon reach a new level, as a bill is being prepared, which will formulate clear rules for the market, protect the interests of participants, create economic incentives for the growth of the Belarusian platform in this area of ​​international business2.
+The rapid development of the Russian Stock Exchange in recent years has had significant consequences for investors and investors in the specialized stock exchange.
+  For brokers 2003-2004 There are three trends3.
+ First, a boom in private domestic investment began in the Russian stock market.
+  Investors' attention was mostly drawn to working with financial instruments. Independent game on the stock exchange through classic or internet brokers, participation in equity funds, work with accredited managers.
+Second, the shares of the largest issuers began to go abroad.
+  Western investors prefer to trade with Russian blue chips.
+ In Russia, foreign investors were offered unique tools, such as the shares of small and medium-sized companies, which are in steady demand from foreign clients.
+Third, the derivatives market was developing.
+  The ever-growing market for liquid derivatives provided new, exciting opportunities for domestic investors to work with fund assets.
+ It is about KG, more specifically, about the narrower segment of that big market, trading with ready-made optional strategies.
+ An option strategy is a combination of several options, the implementation price of which, the terms or the underlying asset may be different.
+  Operations under option contracts give a non-linear result: in case of movement of the asset in the predicted direction, the player receives income equal to the difference between the value of the asset and the implementation price, and in case of unsuccessful development of the situation loses only the premium.
+ The advantage of the option is that the player knows his maximum risk in advance.
+For the first time, KG was issued in the Russian market by "Uniastrum" bank.
+ One of the firsts of the Russian market of KG is 1 http.
+//www.privatebanking.com/directory/europe-belarus-minsk/structured-products/alfa-bankhttp.
+//zviazda.by/2014/09/52463.html.3 Belinsky A., Dronin A., Structural products.
+ The note on the price of Gazprom shares was considered relevant for new management opportunities.
+This instrument included the Russian ruble-USD foreign exchange risk և the percentage risk of Gazprom's share, supplemented by financial leverage 1.
+  2005 The use of structural tools in Russia has begun to expand and is currently in a strong growth phase2.
+The creation of a structural tool consists of two parts: the determination of conditions for the client, the development of an algorithm of operations of the financial institution for the management of emerging risks.
+We conducted an electronic survey among the citizens of the Republic of Armenia, with the aim of finding out what kind of education system is expedient to apply in the Republic of Armenia.
+ According to the results of the survey, the KG based on the gold-silver basket is more attractive for the customers.
+ Growth KG is offered with 100% protected capital և 6 months investment period.
+  The return on investment is calculated on the basis of the highest return on the instrument underlying, as follows: Return on investment = amount invested x return on asset և w2 is the number of options purchased on the first և second asset, respectively
+  prices of basket assets at the time of investment.
+  This "formula" allows you to calculate the MG at the time of the sale of the KG.
+From the client's point of view, such a KG allows not to miss the opportunity to receive return on investment in highly correlated assets when one of them will show a higher return on investment.
+  This formalized education creates additional risks for the financial institution.
+ We propose a method of calculating these risks based on the use of Value-at-Risk (VaR) methodology և copules.
+1 Litvinenko D., Development of structured investment products in the Russian Federation.
+ dissertation нди Candidate of Economic Sciences.
+  08.00.10 / Litvinenko Denis Alexandrovich; [Местозащиты.
+ Maykop. гос. technology. ун-т]. Rostov-on-Don, 2010, 147 p.
+ il. RGB OD, 61 10-8 / 1645.2 Polteva T., The structure of structured financial products in Russia.
+ contemporary stageNPwPwk022011P01P02 In the above article 2014. from January 1, 2015 Based on empirical data on daily gold and silver prices at the London Stock Exchange on August 20, 2012, we estimated the level of additional losses of the financial institution using the VaR methodology.
+ We generated a sample of 1000 views using the copulafunction obtained through the Matlab software package (Fig. 1).
+Line 1. Generated sample of 1000 observations As a result of the algorithm presented in the article, we get that the 5% level of VaR is equal to 3.98%.
+ That is, the 5% level of risks և, consequently, the additional costs of the acceptable level of the value of KG are equal to 3.98%.
+The financial institution must have internal procedures for determining whether a given level of risk is acceptable.
+ By changing the terms of the CC, you can change the values ​​of VaR և Obtain values ​​acceptable for the given financial institution.
+ARB Hambardzumyan FEATURES OF USING STRUCTURAL TOOLS IN TRANSITIONAL COUNTRIES Keywords: structural tool, optional strategy, copula, participation coefficient.

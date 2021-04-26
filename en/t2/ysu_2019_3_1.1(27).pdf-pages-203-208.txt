@@ -1,0 +1,41 @@
+DIMETHYSULFOXIDE AND DIETHYSULFOXIDE OH
+ DETERMINATION OF RATICAL RESPONSIBILITY INSTITUTIONS ON THE BASIS OF COMPETITIVE KINETICS In this work we have studied the dimethylsulfoxide և diethylsulfoxide's diethylsulfoxide.
+  The values ​​of the reaction rate constants are obtained.
+ The results show that DESO has a greater ability to absorb radicals than DMSO.
+The importance of DMSO in various fields of natural sciences, including chemical, biological, medical and geological physics is well known.
+ It is used as a solvent not only for organic և even inorganic substances, but also (acts) as a chemical և biological ագ reagent in various systems ․ its solvating և complex-producing property is especially emphasized.
+ Of particular interest are its aqueous solutions, due to the specificity of the latter in different biomedical directions.
+[3] Work has shown that diethylsulfoxide (DESO) has unique physicochemical properties similar to dimethyl sulfoxide (DMSO) and can be used in biomedicine.
+  Compared to DESO, DMSO exhibits biologically significant substances with greater ability to form molecular complexes, such as cholesterol, urea, and molecular iodine.
+ Because DMSO is less toxic, it has been proposed as a molecular sample for quantitative determination of the detection of hydroxyl radicals in biological systems.
+Materials և methods.
+ The DESO was obtained և purified in accordance with [5] procedure.
+ The purity, which was determined by gas chromatography, more than 99․5 bells. % was.
+ Water content after drying 0․01 bell. % was.
+ DMSO (99.9% purity) և the pigment was purchased from AldrichChemical Co և used without additional cleaning.
+  Mercury lamp was used as a source of UV rays.
+ N, N-dimethyl-4-nitroso radical (PNDMA) is a competing substance in the process of radical oxidation.
+ Some organic matter: OH
+Study of the properties of interaction և The competitive kinetic approach is given in [6-8].
+ According to this approach, radicals are obtained by photolysis of H2O2 by irradiation with a length of λ = 313 nm.
+ Spectrophotometric measurements at 400-800 rpm were performed using a Specord 50PC spectrophotometer.
+Results և their discussion ․ Reactions can be schematically illustrated as follows: where P is the material being studied (DMSO, DESO).
+ The change in PNDMA concentration was studied photometrically (
+).
+ Measurements were made in L. According to Beer's law, [PNDMA] = f (t) in the linear domain of dependence.
+ The pH of the reaction medium is kept constant.
+The graphs D = f (t) were constructed based on the obtained results.
+The latter were determined for different concentrations of DMSO և DESO.
+Then the tgs of the curves are calculated from them, which are directly proportional to the velocities.
+Picture 1 ․ Dependence of PNDMA optical density on UV radiation time (λ = 313 nm) in the presence of DMSO: 1. CDMSO = 0, 2. CDESO = 14.1. 10-6 mol / l, 3. CDESO = 28.2. 10-6 mol / l, 4. CDESO = 42.3. 10-6 mol / l, 5. CDESO = 56.4. 10-6 mol / l, 6. CDESO = 70.5. 10-6 mol / lPicture 2 ․ Dependence of tgα (counting from Figure 2) on DMSO concentrationFigure 4 ․ Dependence of tgα (counting from Figure 3) on DESO concentrationFigure 3 ․ Dependence of optical density of PNDMA on UV radiation time (λ = 313 nm) in the presence of DESO: 1. CDESO = 0, 2. CDESO = 28.2. 10-6 mol / l, 3. CDESO = 56.4. 10-6 mol / l, 4. CDESO = 70.5. 10-6 mol / l, 5. CDESO = 84.6. 10-6 mol / lEquality calculated by DMSO և DESO OH
+ Radical reaction rate constants are as follows [7, 9]: kOH + P = 1.25.1010 ([PNDMA] / [P]). [(W1 / W2) -1], mol-1 sec-1 where [P] is the initial concentration of the test substance (usually 10-510-3 mol / l), is the reaction rate constant (kOH), W1 և W2 in the absence of the material to be examined accordingly ությունները The velocities of the reactions in the presence of W2, and the velocity corresponding to the breaking point.
+, 1.25.1010 According to the experimental data, the reaction rate constants for DMSO և DESO have the following values: kOH + DESO = 7.5x109 mol-1.l.-sec, kOH + DMSO = 4.2x109 mol-1.l. sec -1.
+  DMSO data coincide with literary data.
+  DESO has OH
+ greater ability to absorb radicals than DMSO.
+LITERATURE [4] Yu Z. U, Quinn PJ, Dimethyl Sulfide.
+ A Review of Its Application in Cell Biology, of Other AOP Technologies, Journal of Photochemistry and Photobiology, A:
+ Chemistry, 2010, 216 (2-3), pp. 244-9, DOI.
+ 10.1016 / j.photochem ․ Ayvazyan TigranDIMETHYLULFOXIDE AND DIETHYSULFOXIDE OH
+ DETERMINATION OF RATICAL RESPONSIBILITY INSTITUTIONS ON THE BASIS OF COMPETITIVE KINETICS Keywords: Diethylsulfoxide (DESO), Dimethylsulfox (OH)
+radicals, competitive kinetics, N, N-dimethyl-4-nitrosoaniline (PNDMA), photolysis, reaction constant.

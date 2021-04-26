@@ -1,0 +1,76 @@
+Sci. Supervisor: Paper of NAS RA Member, Doctor of Technical Sciences, Prof. Գ. Gharibyan The mining industry is one of the most important sectors of the economy of a number of developed and developing countries.
+ It is important both for the RA economy as a whole and for its separate regions.
+ The mining industry of the Republic of Armenia creates jobs, provides revenues for the state in the form of taxes, has its contribution as a result of gross domestic product (GDP), as it has its own role in the volume of exports.
+ However, the role of the mining industry is limited to the above-mentioned direct impact factors.
+  Thus, mining companies obtain the necessary funds for their activities from suppliers, suppliers in turn buy goods from other companies.
+  Supply companies, in turn, pay taxes to the state, create jobs, added value and products.
+  In addition, mining workers spend part of their salary on locally produced goods and services.
+Thus, the impact of the mining industry on the domestic economy includes a direct impact plus the economic impact of the mining industry on the economic impact of the mining industry.
+Mining Quantitative economic impact assessment uses the so-called IMPLAN methodology, which is based on the input-output model.
+ The main logic of this approach is that any change in one branch of the economy has a chain effect on the whole economy.
+  Thus, the increase in the consumption of goods and services leads to an increase in production, which in turn leads to an increase in the production of suppliers.
+In general, the economic impact of the mining industry is assessed at 3 levels: direct, indirect id iduced 1.- The direct impact arises from the economic activity of the enterprises in the sector.
+ For the mining industry, this means the direct impact of the sector on the economy, such as the output of the enterprises in this sector, the number of employees, etc., including the economic activity resulting from the product change.
+- Indirect impact arises from the economic activity of mining suppliers.
+- The stimulus effect is caused by the change in the salaries of the employees of the mining industry և supply companies.
+ For example, workers in these sectors may increase their expenses in restaurants and shops as a result of salary increases.
+ These changes affect the activities of related enterprises2.
+The so-called input-output animators are used to assess the direct, indirect and economic impact.
+  The most commonly used are production volume, GDP, number of employees և taxes3.
+Below և each of these assets is presented.  Product: is presented as the result (income) of all the activities of the mining enterprises.
+ GDP is the added value to the economy by industry.
+It should be noted that this should be distinguished from the output, as the mining industry acquires the means of production, which is already included in the value added of the supplier companies.
+ Job: is the number of employees as a backdrop for mining production.
+։ Taxes are the tax revenues received by the state due to the activities of the mining industry.
+We consider it necessary to briefly present the basic methodology of the input-output model, on the basis of which the economic impact of the mining industry will be assessed4.
+1 Mining Accosiation of British Columbia, Economic Impact Analysis, October 2011, page 112 Mclntosh C., The Regional Economy, p 15.
+4 Methodology used to present the methodology: Miller R., Blair E., InputOutput Analysis.
+ Foundations and Extensions, Cambridge University, 2009, Pyatt G. and RoundJ., Social Accounting Matrices.
+ A Basis for Planning, Washington, 1985. First of all, the input-output model is created considering a certain economic area - region, country, etc.
+ The economy is divided into different production segments.
+ Each branch of the economy acts as a buyer and seller at the same time. In other words, each branch of the economy attracts the means necessary for production, which is a product for another branch.
+ Production and sales operations between sectors of the economy can be recorded in either physical or monetary terms.
+ However, due to expediency, the monetary expression is usually used.
+One of the important components of the input-output model is the volume of economic transactions between the economic sectors of the economy, which will mean the demand for the means of production of sector j, the output of sector i over the same period.
+  On the other hand, in each country there are units, for example, households, government, etc., which create the final demand for the products of the branches of the economy.
+Suppose the economy consists of n sectors.
+ Let x denote the total output of sector i ով by final the output of sector i by fi, then we can write the following equation. means of production և final demand.
+By the same logic we can write the equations of production of all sectors of the economy. From here we can write that X = Zi + F (3), where Z represents inter-industrial operations.
+  The inter-industrial movement of a product can be represented by a table called the input-output table of the inter-industrial movement of the product.
+Table 1. Input-output table of product inter-industry movement. Buying industriesSales branchesAll these means of production (z1j,… zij,…, znj) constitute value added in the j-th sector.
+ In addition, it is clear that the imported sector uses non-imported goods as means of production.
+ This is especially true in the case of the mining industry of the Republic of Armenia, where the existing enterprises import most of the means necessary for production.
+  Thus, for example, Kapan Combine in 2014 to obtain funds from local suppliers. has spent only 25% of its capital expenditures and 38% of operating expenses1.
+  In the table, each column shows the output of each sector (inputs), and each row shows the output of each sector (outputs). hence the name input-output table.
+It is clear that in this case only one industry will be considered, (j-th) the interconnection of the mining industry with other branches of the economy.
+ For that purpose, the production function of the mining industry should be formed.
+Production function և Input-Output model, one of the main assumptions of which is that the inter-industrial movement of the means of production takes place in a specific period, for example, in a specific year.
+ Suppose that zij is the volume of aluminum production purchased by aircraft manufacturers (j) in a given year.
+  The value of aluminum և will be the ratio of the production of the aircraft (let's say aij), that is, the ratio of the cost of the aircraft produced by the aircraft manufacturers to the cost of production of the aircraft.
+  This ratio is called the input-output factor.
+  Suppose z14 = $ 300, and x4 = $ 15,000.
+ In that case aij = 300/15000 = 0.02.
+ This means that $ 0.02 aluminum is needed to produce $ 1 aircraft.
+From formula (4) we can write: aij * xj = zij.
+  This coefficient is unchanged եթե if you need to know how much aluminum is needed to produce a $ 45,000 aircraft, the input-output gives the answer: aij * xj = zij, 0.02 * 45,000 = $ 900, if the aircraft output is tripled, then triple aluminum production used by aircraft manufacturers.
+  In fact, in the inputoutput model, aij indicates the fixed ratio between the output և means of production տվյալ of the output.
+In addition, input-output analysis assumes that the industry uses the means of production in fixed proportions.
+  Suppose that in the given period the aircraft industry (x4) buys production means from the 2nd branch of the economy z24 = $ 750.
+  Therefore: a24 = z24 / x4 = 750/15000 = 0.05.
+x4 = $ 15000 The means of production required to produce a product are used proportionally p12 = z14 / z24 = 300/750 = 0.4.
+If x4 is $ 45000, then z24 will be 0.05 * 45000 = $ 2250, and z14 will be $ 900, the proportion of means of production of 1 և 2 sectors will be 900/2250 = 0.4, as in the previous case.
+  In fact, p12 = z14 / z24 = a14x4 / a24x4 = a14 / a24 = 0.02 / 0.05 = 0.4.
+ From this we conclude that the proportion of the means of production is fixed, as the inputoutput coefficients are fixed.
+The production function of the j-th branch of the economy depends on the means necessary for production. Using formula (4), we obtain: Thus, in the most common embodied input-output model of the production function, all ratios are the same և equal to the output of the xj j-branch.
+ The tripling of all means of production will lead to the tripling of the production of the given branch.
+Now let's calculate the production function of Kapan factory, based on 2014. on the data.
+  According to 2014 In the Stability Report, the supply chain can be divided into two groups: operating expenses և capital expenses1.
+ 2014 From the annual financial report we see that the capital expenditures of that year made $ 15.036 million, and the operating expenses - $ 36.142 million, and the income made $ 38.810 million2.
+ Due to the fact that in the same year 38% of the operating expenses were local, the acquisition of funds from the tenants, and 25% of the capital expenditures, can z2j = 36,142 * 0,38 = 13,734.
+a2j = 13734/38810 = 0.35.
+ p12 = z1j / z2j = 3759/13734 = 0.27.
+ That is, xj = (z1j / a1j, z2j / a2j) = $ 38.810 million.
+Thus, we will use the production function to assess the indirect economic impact of the mining industry.
+As for the stimulus assessment, we will calculate it based on the number of employees in the mining industry, the supply sector, the amount of salaries they receive, using the concept of "consumption threshold".
+It should be noted that in further observations և research we will try to obtain quantitative estimates of the direct, indirect և economic impact of the mining industry, based on the above-mentioned input-output methodology ասխան relevant computer programs.
+Arno Hovakimyan DESCRIPTION OF INPUT-OUTPUT MODEL: ASSESSMENT OF ECONOMIC IMPACT OF MINING Industry Keywords: mining industry, production output, economic impact

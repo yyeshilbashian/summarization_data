@@ -1,0 +1,60 @@
+The mechanism of microscopic superconductivity at high temperature superconductors (BPHs) has not yet been fully elucidated.
+  It has been found that almost all microspheres have a heterogeneous distribution of structural defects [2].
+  This distribution is sensitive to the location of the mixed atoms, the heat treatment at different modes, and the size of the oxygen stoichiometer and polycrystalline grains in them [27].
+  The presence of microscopic inhomogeneities is largely due to the manifestation of such phenomena in superconductors as fluctuating conductivity, pseudogotine, and Mayner's paramagnetism [1,7,8].
+  Moreover, many characteristics of BGH show very unstable temporal behavior as a result of the above-mentioned signals [4-6].
+  The study of the characteristics of this behavior, both in the applied external and in its own magnetic field (conditioned by transport current), can supplement our ideas about the formation and stability of the superconducting mechanism at the microscopic level [9-14].
+  It has been shown that during long-term storage of yttrium polycrystals at room temperature after synthesis, an amorphous layer up to 20 nm thick is formed in the near-superficial domain of superconducting grains due to interaction with water vapor in the air. [9-15].
+ The research carried out is important both in terms of clarifying the stability of the sample characteristics to their own and external fields, as well as in finding ways to restore or improve their original values.
+  We investigated the effect of the formation of pseudogotic regimes observed in YBa 2 Cu 3 O x BGH polycrystals stored at room temperature for 30 years after synthesis, as well as the effect of short-term double heat treatment at 400 ։C on their superconducting and normal characteristics [7].
+  The aim of the present work is to study the characteristics of the temporal evolution of the electronegativity and critical characteristics of the YBa 2 Cu 3 O x specimens in the two years following that heat treatment in the event of a broad-spectrum variable transport current at liquid nitrogen temperature.
+ Experimental details Multi-crystalline YBa 2 Cu 3 O x samples were selected for the study, synthesized in the usual way by heating in air for 9 hours at 960 60C [16,17] and stored at room temperature for about 30 years.
+  X-ray fluorescence measurements showed that the concentration of barium atoms in these samples was about 3-4% lower by weight compared to samples previously synthesized at 950 ̊C [16,17].
+  After single treatment in air for 30 minutes at 400 ° C for 30 minutes, these samples were slowly (3-4 degrees / min) cooled to room temperature to obtain voltammeter characteristics.
+ After decision, after double heat treatment, these samples were quickly (150-200 degrees / minute) frozen to room temperature and stored for up to 2 years.
+  For the fixed values ​​of storage times ta 28 (5, 7, 29, 121, 366, 547 and 732 days) in the temperature range (78-290) K, the family of r (T) curves of the specific resistance temperature dependence of the samples was determined using 10mA constant transport current [7 , 16,17].
+  The family of curves of specific resistance at the transport current of specific resistance in the magnetic field of the Earth has been determined for the times ta mentioned in the range of transport currents in the liquid nitrogen temperature I (0.1-300) mA.
+  From the obtained r (T) curves were determined Τ Con and the specific resistance depending on the storage time ta.
+  It should also be noted that the studied samples had the appearance of a rectangular parallelogram with the following dimensions: 4.7 × 1 3 1.2 mm3.
+ The discussion of the results obtained in Fig. 1 shows the family of curves of specific resistance r (78K) transport current at liquid nitrogen temperature in the range of 5 to 732 days for different storage times after heat treatment.
+  These curves are given for the current range (0.1-30) mA, because in that case, due to the non-monotonic dependence of the curves on ta, the mutual cross-sections are relatively small and they are easy to distinguish and compare with each other.
+  Figure 2 shows the family of r (ta) time change curves obtained from the curves shown in Figure 1 for some fixed values ​​in the range of 0.4 to 250 mA of transport currents.
+  Fig. Figure 3 also shows the temperature dependence of the low temperature specific resistance and the temperature at the beginning of the GH transition. Transport current r (78K) -I family of dependence curves for different storage times ta from 29 times.
+  As it turns out (Fig. 1), for any fixed value of ta, the increase in current is accompanied by an increase in r (78K), which is similar to the phenomenon of positive magnetism observed in [9,11,13] and is due to the constant current passing through the sample. with its own magnetic field [9].
+  The same figure (Fig. 1) also shows that the observed magnetic resistance for a fixed ta increases with greater speed in the small value range, and as the current increases, the rate of increase, r (I), is a derivative of the dependence curve, gradually decreasing. tendency to satiety.
+ At very small values ​​of constant current (I <1mA) the specific resistance depends mainly on the storage time ta (Fig.2 a).
+  And in the case of larger currents, time zones stand out, where both decrease and increase are observed (see Fig. 2).
+  As the current increases, the r (ta) curves exhibit well-defined oscillating behavior, the amplitude of which decreases with sufficiently large currents (Fig. 2 c), and in the slow process range, ie for higher ta values, a further increase in specific resistance is observed.
+  This result can be explained as follows.
+  In our previous work, we showed that in these samples, even after double heat treatment, zero resistance is not observed even in liquid nitrogen, as many of the intersecting bonds are broken due to the deformation stresses caused by rapid cooling.
+  In the ideal state, the empty O5 oxygen nodes in the space network are occupied by weakly bound mobile oxygen atoms left in their O1 position after heat treatment.
+  After that, the sample goes into a state of percolation due to superconducting and normal cluster formations of different sizes.
+  In this condition, the communication paths between the superconducting clusters are very small, and their size and the distances between them are sensitive to transport current.
+  Therefore, even at the smallest currents (I <1mA), a state of complete superconductivity (0 resistors) is not observed even in liquid nitrogen (Fig. 2a).
+  The presence of a large number of defects in the Y and Ba subnetworks in long-lived baseline samples leads to a slow decrease of Τ Con after heat treatment (Fig. 3) [7.18,19].
+  Thus, T con decreases from 84.5K by only 1K after one month, and after 1.5 years (547 days) continuously increases, reaches 91K and after 2 years decreases to 88.3K.
+  It is known that the decrease in the average grain size in polycrystalline samples promotes the appearance of inhomogeneities in them [18].
+  It is also known that prolonged aging of yttrium monocrystals in air or their low temperature heat treatment also leads to a similar phenomenon, with the occurrence of 30 superconducting phases very close to each other at different proportions and critical temperatures [7: 18-20].
+  The coexistence of such phases determines the uneven distribution of transport current in the sample [21–22], which in turn can trigger both regulatory and regulatory processes [11–13].
+  Thus, in yttrium monocrystals, an anomalous phenomenon has been observed at the temperature of liquid nitrogen, such as the transition of a grid created by its own magnetic field from a state of unregulated state, characterized by a peak on the curve of specific resistance to transport current [12].
+  This peak is associated with a change in the pinning force due to point defects in the sample.
+  One year (366 days) in our specimens, the local peak at 22 mA on the r (I) curve can probably also be related to a new rearrangement of defects (Fig. 1).
+ Fig. 31 2. Dependence of r (78K) on the time ta after heat treatment Fig. 3. Dependence of r (79.4K) and Τ Con on ta time after heat treatment However, in our case this peak is observed at much lower current values ​​because polycrystalline superconductors, in contrast to monocrystalline, contain much higher concentrations. defects and inhomogeneities, which make them more sensitive to external stimuli, which leads to the deviation of this peak to the range of low values ​​of their own magnetic fields.
+  On the other hand, the significant decrease in r (78K) observed after the peak in the current range of 22 mA <I <25 mA (Fig. 1, one year later) also indicates a negative magnetic resistance in the sample [9,11,13] (Fig. 1). ).
+  Recent results suggest that polycrystalline PCBs can actually be viewed not as two-stage but as multi-stage systems, ie that their superconducting and 32 electric transport characteristics can exhibit multi-stage transitions depending on the external fields used.
+  Because the heterogeneous distribution of defects at the microscopic level results in the formation of low-temperature superconducting phases very close to each other at critical temperatures, each of these phases in our samples may have its own temporal evolution depending on the transport current [1,14].
+  Such an assumption may be due to the non-monotonous and not always complete behavior observed in the temporal change of electrical and critical characteristics in our samples (Fig. 1-3).
+  It should also be noted that the electrical and superconducting properties are due to the degree of regulation of the oxygen atoms in the O1, O4 and O5 nodes of the spatial network [7].
+  Moreover, Τ Con is determined mainly by the amount of employment in O4 nodes, and the conductivity by their presence in all three nodes.
+  Therefore, after heat treatment, the temporal changes of Τ Con and r can be non-uniform (Fig. 3).
+  The presence of fast and slow components observed in the temporal change of Τ Con can be attributed to the diffusion processes of oxygen atoms in the sample, respectively, in short and long cluster formations.
+ In order to find out the real causes of the obtained phenomena, it is necessary to carry out further research, which will be carried out both separately by external and internal magnetic fields of different magnitudes, as well as by their simultaneous application.
+ Conclusion It is shown that microscopically distributed superconducting [10] and normal state defects in GH samples, which are highly sensitive to applied currents and rearrange over time to cause a variety of phenomena.
+  In particular, a non-monotonous time dependence of specific resistance and critical temperature is observed.
+  The temporal changes of these two characteristics are not always complete.
+  Specific resistance at relatively high values ​​of the applied transport currents exhibits pronounced oscillating behavior.
+ Under the influence of the applied transport current, an anomalous phenomenon is also observed - the transition of the storm network from unregulated to regulated state.
+ The peculiarities of the temporal changes of the above characteristics (Τ Con, r) after heat treatment are probably due to the use of long-lived superconducting samples with a large number of 33 different superconducting and normal phases at the microscopic level.
+  Such samples can be considered as objects of great interest for the study of the behavior of microstructural heterogeneities.
+  Further detailed study of the obtained phenomena will contribute to the work aimed at synthesizing superconducting materials with more stable and perfect characteristics to external fields.
+ .

@@ -1,0 +1,283 @@
+THE EFFECT OF ECOLOGICAL FACTORS ON THE DYNAMICS OF ACCUMULATION OF SECONDARY METABOLITES IN PLANTS Avicenna wrote in her "Rule of Medical Science": "The doctor uses three means to alleviate the patient's suffering: grass, a knife, a word."
+ Phytotherapy, the use of medicinal plants for medicinal purposes, has a history of thousands of years է is experiencing a revival in modern medicine.
+In ancient times, plant extracts were used in folk medicine, which had a positive effect even on diseases such as malignancies, diabetes, skin diseases, etc. [1].
+In recent years, much attention has been paid to the study of the chemical composition of herbs and infusions, as well as their use in medicine for the treatment of various diseases.
+The therapeutic value of herbs is determined by their biologically active substances.
+  Biologically active are all the substances that are able to influence the biological processes in the body [2].
+  Antioxidants, which protect the body from free radicals, active oxygen species, belong to the series of biologically active substances.
+ Free radicals cause oxygen depletion by incomplete oxidation of organic molecules.
+  This process is called peroxide oxidation.
+  Antioxidants prevent the oxidation of lipids, the formation of unwanted products due to oxidation.
+  Antioxidants are able to stop the process of free radical oxidation reactions, to restore broken bonds.
+The biologically active substances in herbs belong to different classes of chemical compounds.
+ The main reagents include phenolic compounds: polyphenols, cambio flavonoids, vitamins, coumarins, essential oils, acids, tannins, etc.
+  Phenolic compounds interact effectively with free radicals.
+ However, the chemical composition of plants is not qualitatively or quantitatively stable, but varies depending on a number of circumstances: 1. plant type, 2. from the age of the plant, 3. from the stage of plant ontogeny, 4. vegetation phase, 5. soil chemical composition, 6. geographical-climatic conditions, 7. other ecological external conditions.
+Antioxidants are compounds that protect cells from oxidation processes.
+  Almost all decay processes on our planet are oxidation reactions involving oxygen.
+ Examples of such processes are the rusting of iron, the rot of lords in the forest.
+Aging can be considered as an oxidation process.
+One of the most accurate methods of studying the antioxidant properties of plant extracts is the kinetic method.
+  It is a study of the kinetics of radical-chain oxidation reactions of organic compounds based on volumetric recordings of absorbed oxygen.
+ This method allows to determine both the total amount of antioxidants in the extract and the antioxidant activity.
+The activity of an antioxidant or inhibitor is characterized by a constant rate of cross-reaction of inhibitory perosyl radicals.
+RO (cid.
+2870) ∙ (cid.
+3397) InH (cid.
+2921) (cid.
+3123)				
+(cid.
+4657) (cid.
+1755) (cid.
+1755) (cid.
+1755) (cid.
+4654) ROOH (cid.
+3397) In ենք The antioxidant properties of the extracts we studied were studied by the example of the oxidation reaction induced by cumulus.
+ Cumulian selection is explained by the fact that, firstly, it is an easily oxidizing substance.
+ Oxidation was performed using a manometer (Figure 1) using azodisobisyronitrile as the source of free radicals and chlorobenzene as the solvent.
+  The method is based on the direct recording of oxygen absorbed by the oxidation of the ecumen.
+Figure 1. Scheme of the manometric apparatus We have experimentally confirmed that during the oxidation of cumulus in the presence of plant extracts on the kinetic curves of oxygen absorption there are clearly expressed induction intervals, which indicates the presence of antioxidants in the extracts.
+Figure 2. Kinetic curves of oxygen uptake by cumulus in the absence of SCC (1) և 5.6 mg (2) and 8.9 mg extract.
+Figure 2 shows the clanmantypic kinetic curves of the oxygen oxidation induced by cumulus in the absence (straight 1) և presence (2 և 3 curves) of the extract obtained from the currant hosts.
+ It can be seen from the figure that the induction times expressed on the kinetic curves of oxygen uptake in the presence of SHTE.
+  Moreover, as experience confirms, the induction intervals are characterized by the following formula, where V (cid).
+2919) is the excitation rate, f is 1 molecule of antioxidant τ (cid).
+3404) f ∙ (cid.
+4670) InH (cid.
+4671) V (cid.
+2919) թիվը the number of radicals.
+ This formula allows you to determine the sum of antioxidants based on the numerical values ​​of the induction times.
+Figure 2 (2 և 3 curves) shows that after leaving the induction, oxygen is absorbed at a slower rate than the non-induced oxidation rate.
+ It should be noted that such a phenomenon was observed in all the studied extracts.
+  We explain this fact by the fact that the oxidation products of some antioxidants also show antioxidant properties.
+ Moreover, in contrast to the output antioxidants, in the presence of the latter, the oxidation of cumulus takes place without an induction period.
+ This indicates that in the presence of oxidation products of the output antioxidants, the cross-linking of the chains takes place both linearly and squarely.
+ Based on all this, let us propose the following mechanism of oxidation of cumulus in the presence of plant extracts: molecular-molecules molecules-oxidants, where RH is the oxidizing agent - cumulus, InH - the initial antioxidant, Q - the initial antioxidant.
+The antioxidant activity of the formula is used to determine the antioxidant activity of the extracts.
+ In this case, the oxidation rate is described by the following equation: V (cid).
+2899) (cid.
+3118) (cid.
+3404) k (cid.
+2870) (cid.
+4670) RH (cid.
+4671)
+f ∙ k (cid.
+2875) (cid.
+4670) InH (cid.
+4671) ∙ V (cid.
+2919) Relatively high concentrations of antioxidants (cid.
+4666) (cid.
+4670) InH (cid.
+4671) (cid.
+3408) 10 (cid.
+2879) (cid.
+2873) mol /
+l (cid.
+4667) the rate of oxygen uptake (cid.
+3435) V (cid.
+2899) (cid.
+3118) (cid.
+3407) 5 ∙ 10 (cid.
+2879) (cid.
+2876) մոլ / լ ∙ վ (cid.
+3439) measured with a large error (cid.
+4666) (cid.
+3399) 50% (cid.
+4667).
+  That is why from the Denisov equation we have studied [6] (cid.
+4670) ∆O (cid.
+2870) (cid.
+4671) is the concentration of oxygen absorbed t (cid).
+3407) in the period τ, (cid.
+4670) RH (cid.
+4671) - the concentration of cumulus, k (cid.
+2870) և k (cid.
+2875) from the experimental data of reactions (II) և (IV) ((Figure 3) համապատասխան, respectively, we calculated k (cid).
+2870) k (cid.
+2875) ⁄ ratio, և, account k (cid.
+2870) (cid.
+3404) 4.677 ∙ 10 (cid.
+2874) ∙ exp (cid.
+4666) (cid.
+3398) 9800RT⁄:
+(cid.
+4667), we decided k (cid.
+The value of 2875) (cid.
+4670) 7 (cid.
+4671).
+(cid.
+4670) ∆O (cid.
+2870) (cid.
+4671)
+(cid.
+4670) RH (cid.
+4671) (cid.
+3404) (cid.
+3398) k (cid.
+2870) k (cid.
+2875) ln (cid.
+4666) 1 (cid.
+3398) tτ⁄ (cid.
+4667) speed constants.
+ Construct the graph based on the above equation, taking that for cumulus Figure 3. (cid.
+4670) ∆O (cid.
+2870) (cid.
+4671) (cid.
+4670) RH (cid.
+4671)
+size dependence (cid.
+3398) ln (cid.
+4666) 1 (cid.
+3398) tτ⁄ (cid.
+4667) during the oxidation of cumulus in the presence of 12 mg SHTE in the parameter.
+V (cid.
+2919) (cid.
+3404) 1.73 ∙ 10 (cid.
+2879) (cid.
+2875) մոլ / լ ∙ վ T (cid.
+3404) 351K The extracts used to study the antioxidant properties of plant extracts were obtained as follows: in a vacuum oven 40 (cid).
+In 1320) the organs of dried plants (leaves, flowers, seeds, fruits) were thoroughly crushed in a glass mortar.
+ On the obtained powder 1.
+20 b) add benzene (1 g powder 20 ml benzene), mix և leave to dissolve at room temperature for 1 day, then filter with a paper filter, ացրել evaporate the filtrate under vacuum to a constant mass.
+As already mentioned, the formation of biologically active substances in plants, including the formation of antioxidants, is a dynamic process depending on the vegetation of the plant.
+ We have studied the dynamics of antioxidant accumulation in plant extracts, depending on the vegetation.
+We followed the accumulation of antioxidants with antioxidant dynamics in barley ies, depending on the vegetation of the plants.
+ Let's gather the masters from the same bush!
+The results are given in Table 1.
+Extract from currant f ∙ (cid.
+4670) InH (cid.
+4671) ∙ 10 (cid.
+2873) Collection time in mol / l in 1 extract k (cid.
+2875) ∙ 10 (cid.
+2879) (cid.
+2872) l / mol ∙ v
+From wheat masters Table 1. The content of antioxidants ներում activity in the extracts of currant և barley masters depends on the vegetation of the plants.
+T (cid.
+3404) 351K The table shows that all specimens contain a sufficient amount of antioxidants և their quantity reaches its maximum value during the flowering period of the plant.
+Accumulation of biologically active substances, secondary metabolites, in plants is a dynamic process that significantly depends on environmental climatic conditions [8, 10].
+ In order to show this connection, we have carried out a comparative study of the antioxidant properties of a number of plants growing in the Goris region of the Republic of Armenia (GARA) and in the Central Botanical Garden of the Republic of Minsk, Belarus.
+  The results of antioxidant studies և calculations are given in Table 2.
+Plant name:
+n:
+a
+c:
+r:
+Oh:
+(cid.
+2872)
+(cid.
+4671)
+(cid.
+4670)
+յ:
+h:
+r:
+a
+f:
+n:
+a
+m:
+ճ:
+a
+Chickpeas OrdinaryPhuticum drugThree clover meadow flowersHomeևInterprintBKBAHHGTBKBAHHGTBKBAHGTl
+(cid.
+2872)
+(cid.
+2875)
+l:
+l:
+o:
+m:
+m:
+ւ:
+o:
+t:
+k:
+a
+r:
+t:
+s:
+q:
+is:
+c:
+m:
+յ:
+ի:
+r:
+e:
+n:
+no:
+ի:
+d:
+ի:
+s:
+q:
+օ:
+a
+k:
+a
+H:
+h:
+n:
+ւ:
+o:
+թ:
+ւ:
+o:
+k:
+a
+n:
+ւ:
+o:
+r:
+a
+p:
+f:
+յ:
+no:
+ի:
+d:
+ի:
+s:
+q:
+օ:
+a
+k:
+a
+H:
+o:
+m:
+l:
+h:
+n:
+ւ:
+o:
+թ:
+ւ:
+o:
+f:
+ի:
+t:
+k:
+a
+n:
+a
+m:
+q:
+a
+f:
+a
+H:
+h:
+k:
+a
+n:
+a
+m:
+a
+h:
+Strawberries Ordinary Oshindr OrdinaryChumenflowersHollowers տInterpotals Flowers
+  T (cid.
+3404) 348K According to the data in the table, the plant extracts growing in the Central Botanical Garden of Minsk, Belarus, contain more (except for strawberry extract), more active (except for ocher extract), the same antioxidant, antioxidant substance of the Republic of Armenia.
+ In all probability, this is due to the factor of plant introduction.
+LITERATUREGYRJYURJYAN MariamECOLOGICAL FACTORS EFFECT ON DYNAMICS OF ACCUMULATION OF PLANT METABOLITES On keywords: antioxidant properties, biooxidizing agent, peroxide active

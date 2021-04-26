@@ -1,0 +1,33 @@
+POTENTIALLY BIOLOGICALLY ACTIVE 3,4-BIRTH-5-MERCAPTO1.2.4-TRYASOLS NEW BRANCHES Synthesis of modern chemical science material
+ In recent years, great importance has been attached to the production of small tonnes of fine organic synthesis, in particular to the development of methods for obtaining biologically active compounds.
+  Of interest among these are heterocyclic compounds of five- to six-membered, two- or three-heteroatomic compounds, both of which have natural and synthetic derivatives with valuable biological properties.
+ It is possible to develop new or improved methods for obtaining such compounds, as well as the synthesis of their new derivatives and the study of their properties.
+  Of particular interest among the derivatives of heterocyclic compounds are thiodiazole, diazole և 1.2.4-, as well as .3 1.2.3-triazole ring compounds, many derivatives of which have already been used in medicine և are anti-infective (cefazolin, clofelin, cardiac) Chemotherapy (econazole), central nervous system drugs (estazolam), and metabolic regulators [7], as well as good starting materials for the β-heterovalent non-protein optically active α-amino acidification.
+  It is known that many of these compounds are not of natural origin. For example, thiazole ring compounds do not exist in nature, but many of their synthetic derivatives are known to have anticonvulsant, antitumor, analgesic, and other properties [1-3].
+  Having no natural source, many methods have been developed for the production of thiazole derivatives, which allow the synthesis of compounds containing thiazole rings of different structures [8, 10].
+ Of interest is the method of synthesis of pyrazole derivatives, which ensures ecologically clean production, ie the production of their derivatives from industrial waste (methane pyrolysis based on methane pyrolysis), which allows a wide range of pyrazole ring compounds.
+ Of the heterocyclic compounds containing 3-heteroatoms, 1,2,4-triazoles are of greater synthetic and practical interest.
+  In this respect, interesting works were done in YSU Chair of Organic Chemistry.
+Here, a method for obtaining triazoles containing a lactone ring has been developed, moreover, systems in which the mentioned rings are connected to each other in different ways.
+  Of particular interest are those derivatives of natriazoles that contain a hydroxy group.
+R = H, CH3; R '= CH3; R = H, CH2OR ”'.
+ R ”'= C2-C5 alkyl.
+ R ”= C2-C5 alkyl, benzyl, allyl.
+Among the synthesized compounds, compounds have been identified that have hypotensive, anticonvulsant, and hypnotic properties, and are stimulants of phytoplankton growth.
+3,4-Double-5-mercapto-1,2,4-triazoles have been shown to be antioxidant compounds with anti-radiation properties.
+It should be emphasized that the mercapto-derivatives of these triazoles have been successfully used in subtle organic synthesis, particularly in the production of non-protein β-heterospecific non-protein α-amino acids.
+  In particular, a synthetic amino acid based on 3-allyl-4-benzyl-5-mercapto-1,2,4-triazole has been used in peptide synthesis to study its effect on proteinase K activity.
+  Experiments have shown that it has an inhibitory effect [4, 9].
+Then 4 synthesized 3 amino acids based on 3,4-double-5-mercapto-1,2,4-triazole base were introduced into the structure of the peptides.
+N-Form և N-BOC-protected di-tripeptides containing these amino acids were synthesized, and their effect on trypsin-proteinase K activity was investigated.
+  As a result, these amino acids have been shown to have an inhibitory effect on the activity of the protein enzyme orproteinase K, and their peptides have an activating effect.
+  And on the trypsin enzyme, both the amino acids and the peptides consisting of eldrans show only activating properties.
+Taking into account the above, in order to expand the range of 3,4-double-5-mercapto-1,2,4-triazole derivatives, we will synthesize new 1,2,4-triazole derivatives.
+It is known that thiosemicarbazides of corresponding acids are the starting point for compounds of this class.
+  In order to introduce p-bromo-phenyl- or allyl groups in the 3rd position of the triazole ring, we took the hydrazides իդ p-bromobenzoic acid as a starting material.
+  The thiosemicarbazides, which are the starting point for the task, were obtained by the interaction of the above-mentioned hydrazides with the allyl isothiocyanate, under ethanol, under short-term heating.
+  As a result, we obtained 1- (propyl- or p-bromophenyl) -4-allyl thiosemicarbazides (1-2) by quantitative results.
+We synthesized the allyl isothiocyanate, which is the starting material, in known ways according to the following scheme.
+To obtain the target triazoles, the synthesized allyl thiosemicarbazides were subjected to a thin solution of alkali by intramolecular cycling.
+We have shown that the cycling is successfully completed in 10% aqueous sodium hydroxide solution, heated for 4 hours, resulting in high yields of 3-substituted-4-allyl-5-mercapto-1,2,4-triazoles (3- 4).
+LiteratureShak GrigoryanPOTENTIALLY BIOLOGICALLY ACTIVE 3,4-BIOR-5-MERCAPTO -1.2.4 SYNTHESIS OF NEW TRIASOLS OF TRIASOLS.

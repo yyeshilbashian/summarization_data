@@ -1,0 +1,49 @@
+CHARACTERISTICS OF ELECTROMAGNETIC PROPERTIES OF ORGANIC LIQUIDS WITH THE HELP OF MICROWAVE LIVES High-sensitivity և accurate biosensors are currently in great demand.
+ Different types of biosensors are used, the work of which is based on electrochemical, optical, piezoelectric, thermal or mechanical properties.
+Among the biosensors, sensors that detect the level of blood glucose have a special place, which is due to the widespread prevalence of diabetes.
+ It is usually necessary to take blood from a patient to measure the content of glucose or other organic compounds in the blood, which can cause many inconveniences.
+Therefore, in order to avoid these inconveniences, it is very possible to take measurements without penetration (In vitro).
+ Sensors based on near-field microwave microprobe (NFMM) can be used as non-penetration biosensors, which can also provide high sensitivity [1].
+  [2] - A high-sensitivity MDMM sensor operating in the Հ millimeter range was developed during the operation.
+In this work, the glucose content of the solution was investigated by MDMM method, where a square-shaped microwave sensor was used as a probe.
+ Glucose measurements were performed at an operating frequency of 3.6 GHz.
+  The change in dielectric permeability of the solution due to the change in glucose content was studied by measuring the resonance coefficients S11 of the resonator.
+ Experiments have shown that it is possible to detect a change in water glucose of 0.5 mg / ml, which makes it possible to diagnose diabetes [3].
+can be represented as follows: Z (cid).
+In the work the glass stand - aqueous glucose solution - air system with three environments was studied.
+ The working principle of the event can be explained by a flat wave model.
+ The magnitude of the reflection coefficient S11 with the intermediate wave resistance is interpreted as follows: where S11 is the microwave reflection coefficient, Z0 is the ultra-complex probe wave resistance, Z0 = Z0
+I, Zin is the input-complex wave resistance of the system, which can be written as follows: where KS is the wave vector of the substrate (103 m -1, εS = 5, 2 GHz), t (cid).
+Եւ Theoretical calculations of measurements fit well at the end of the probe.
+ The dielectric permeability will have the following final form: ε (cid).
+3439), the dependence of the glucose concentration in the solution is linear և is often expressed by δ molar growth [4].
+ The relative dielectric constant of an aqueous solution of glucose can be written as ε (cid).
+4593) - increase in dielectric permeability for real և counterfeits, when glucose density increases by one unit (δ (cid).
+Experimental equipment. The measurements were made using the experimental equipment shown in Figure 1.
+  The square view of the microwave sensor is made of ceramic with dielectric permeability ε = 9.
+ It was covered on both sides with about 50 microns of silver, after which it was polished in a special way.
+ The geometric dimensions of the ceramic stand were 20 mm × 40 mm × 1 mm, and the dimensions of the sensor were h = 1 mm, w = 0.1 mm, և s = 8 mm.
+ The appearance of the square sensor is shown in Figure 1 (c).
+Figure 1. (a) The measuring device (network analyzer) together with the sensor, (b) the optical appearance of the sensor, (c) the structure of the sensor.
+The sensor (together with the test sample) is connected to a network analyzer (GenComm GC724B), which measures the reflection coefficient S11.
+The measurements were carried out at a temperature of 24 ± 1 ° C and a relative humidity of 43 ± 10%.
+  Aqueous solutions of glucose in different concentrations (0-250 mg / ml) were poured into a cylindrical glass container with a height of 8, wall thickness of 1 mm, outer and inner radii, respectively 7.5 և 6.5 mm.
+  The resonator was adjusted using a deionized water sample.
+  In this case, a value of S11≈-25․7 DB was obtained for the reflection coefficient.
+Measurement results. Figure 2 shows the dependence of the GVB reflection coefficient on the frequency of glucose-containing solutions in distilled water.
+ The concentration of glucose in distilled water was varied from 0 to 250 mg / ml in 50 mg / ml steps.
+ In case of increase of glucose density, a decrease of S11 reflection coefficient of microwave resonators was observed.
+Figure 2. Frequency dependence of S11 microwave reflection coefficient 0-250 mg / ml Figure 3. Frequency dependence of S11 microwave reflection coefficient S11 on frequency 0-300 mg / ml.
+Figure 3 shows the S11 microwave reflection coefficient when an aqueous solution of sodium chloride was used as a test sample.
+Figure 4 shows the dependence of the microwave reflection coefficient on the concentration of glucose in deionized water (from 0 to 300 mg / ml).
+Figure 4. Dependence of S11 on glucose concentration.
+Figure 5. The dependence of the S11 coefficient on the concentration of sodium chloride.
+Figure 5 shows the dependence of the microwave reflection coefficient on the concentration of sodium chloride in deionized water.
+ In this case, the density was also changed in the 50 mg / ml step from 0 to 300 mg / ml.
+Clear changes were observed in microwave resonators with increasing concentrations of glucose and sodium chloride.
+  The value of the reflection coefficient S11 increases with increasing density.
+Conclusion. The paper presents the measurement of glucose և sodium chloride concentrations by MDMM method.
+ The results show that the reflection coefficient S11 of the microwave resonator in the case of glucose in the case of sodium chloride at the appropriate resonance frequency depends on the concentration of glucose and sodium chloride in the solution.
+If this system is upgraded, it can be used as a sensitive, non-touch penetrating device to monitor blood glucose levels.
+LITERATURE 2008, 79.
+086107.Hovkhannisyan Babken, Tigran Hovhannisyan, Sivolenko Eduard DESCRIPTION OF ELECTROMAGNETIC PROPERTIES OF ORGANIC LIQUIDS

@@ -1,0 +1,52 @@
+PRINCIPLES OF ORGANIZATION OF FINANCIAL CONTROL AND EUROPEAN FEATURES IN COMMERCIAL BANKS The role of the banking system is extremely important in ensuring stable economic progress and growth rates.
+ Being the key link of the financial system, the banking system carries out one of the most difficult functions of the financial market - the service of attracting deposits, providing loans.
+  Anbank distinguishes itself from other participants in the financial system, making the banking system one of the most regulated sectors.
+ Especially during the recent financial and economic crisis, banks faced serious problems of liquidity և asset depreciation, which were quickly transferred to the real sector of the economy, leading to a decrease in lending և liquidity levels և and, ultimately, an economic downturn.
+ All this means that the supervisory bodies and the relevant services of the banks should pay special attention to the issues of control, responding quickly to the changes taking place in the banks, in the financial system in general, developing and increasing the efficiency of the financial control system.
+Financial control, being an integral part of each company, is aimed at assessing the financial condition of the business entity, conducting a comparative analysis with the financial condition of other entities, as well as identifying the reasons for the already emerging undesirable situation and developing measures to get out of the situation.
+ Thus, financial control is a set of complex functions aimed at examining, assessing the compliance of the results of the business entity with the given requirements, standards, norms, finding the causes of deviations and shortcomings identified during that time and proposing solutions to eliminate them.
+  It is an ongoing process that requires day-to-day monitoring to achieve the company's goals.
+Of course, these goals may be different depending on the field of activity of the object, the specifics of the regulatory legal framework, but there are also general goals that can be attributed to any business entity.
+ They are grouped according to the following characteristics: Operational objectives: • Asset management efficiency, • High profitability ratios, • Maximum protection against possible risks և Financial losses.
+Information requirements: • integrity, • reliability, • need to provide timely.
+These requirements are necessary for the company's management to be able to make timely decisions based on reliable, comprehensive information.
+Moreover, the goals of the company must comply with: • the requirements of the legislative field, • the normative acts defined by the supervisory body, • the internal procedures defined by the parent organization.
+Achieving the goals of the third group allows the company to protect the reputation of its name.
+  Company name and reputation are very important concepts. The slightest stain can lead to huge financial losses.
+The larger the organization, the greater the number of services or products it provides, the more difficult it is to control և prevent the above undesirable phenomena without having a separate unit that will control the risks of undesirable phenomena or reduce the likelihood and, if detected, prevent them.
+The organization of financial control requires the presence of the following 2 events in the bank: Independence.
+ The body supervising the financial affairs must first be independent, which presupposes the reporting of errors and deficiencies revealed as a result of the financial control to the governing bodies, excluding the possible influences of the employees of other subdivisions, the conflict of interests of all kinds.
+ In order to ensure the independence and objectivity of financial control, its organization is carried out under the subordination of the bank's financial director or directly to the executive director (directorate).
+ This allows you to quickly and effectively eliminate detected problems and obsolescence.
+Risk 1.
+  It is an integral part of financial control. describes the probability of the occurrence of this or that event.
+  The existence of banking risks derives from the peculiarities of the banking business,։ one of the main goals of financial control is their disclosure and ensuring the protection of the bank from possible financial losses.
+Let's examine the categories that predetermine the peculiarities of financial control in banks.
+Legislative environment.
+  A unified control system of financial system regulation has been introduced in the Republic of Armenia, which is implemented by the Central Bank of the Republic of Armenia.
+  At the same time, the Central Bank of the Republic of Armenia establishes the regulation "Minimum conditions for the implementation of control over the banks", which aims to increase the efficiency of internal control systems in the commercial banks of the Republic of Armenia.
+Peculiarities of banking.
+  The special approach to financial control in the banking system is conditioned by the active key role of the banking system in the country's economy, as well as in the financial system.
+  The role of the banking system in the economy can be compared with the role of blood vessels in the human body.
+  Thus, the systemic nature of banks creates an environment where events in the banking system have a direct impact on both the financial system and the country's economy.
+  That is why the financial control in the banks is strictly regulated.
+  On the other hand, the volatile nature of banking requires a great deal of focus on financial control systems.
+Banking instability.
+  This is due to the high dependence of the bank's income on one or more large depositors ավանդ borrowers.
+The "unforeseen outflow of such depositors" could put the bank in a liquidity position.
+Existence of a high level of financial strength.
+  Compared to companies operating in other areas, banks incur liabilities that are several times their own capital, creating a risk of financial turmoil, which is the likelihood that the bank will default on its obligations.
+  Aiming to limit the possible negative impact of the bank's risks arising from the financial crisis, the Central Bank of the Republic of Armenia sets the following three economic standards: 1. Minimum amounts of the authorized capital of the bank և total capital, 2. The two capital adequacy ratios of the bank: 1 Risk originated from the Arabic word "risque", which is interpreted as the probability of an undesirable event, loss.
+• Marginal ratio between the amounts of risk-weighted assets of fixed capital, • Marginal ratio between the amounts of risk-weighted assets of total capital, 3. Differences in maturity of assets իվ liabilities տարբեր differences in foreign currency positions of assets և liabilities1.
+It should be noted that the confidence of depositors depends not only on a particular bank, but also on the situation in the general banking system, the problems in one bank lead to systemic problems, the expression of depositors' distrust of one bank triggers the expression of distrust in the whole banking system.
+  Therefore, banks և regulators should do their utmost to նշված these risks սահմանափ to limit the negative effects.
+ The approaches to financial control of commercial banks operating in different regions are clearly based on common judgments and goals that guide banks in their activities.
+  Striving to be financially secure, to have a professional management staff և to be guided by maintaining the desired level of risk-return ratio, the banks have a financial control function, which is based on the following principles: • Financial control is an ongoing process performed by each bank employee աշխատ second at the level already centrally by the relevant subdivision.
+ Thus, it adopts a two-tier model, where at the first level each employee of the bank exercises control over the performance of his / her job responsibilities, at the second level already the centrally separated subdivision exercises control.
+• The organization of financial control should be carried out independently of the work of other departments, in order to create preconditions for the impartiality of the work, to exclude possible conflicts of interest.
+ All this ensures the recording of revealed mistakes and shortcomings, as a consequence, the implementation of measures aimed at correcting them.
+  Thus, the body supervising the financial is determined by the degree of its independence, which determines the quality of the exercised control մակարդ the level of objectivity.
+• The implementation of financial control has a clear purpose, ie to ensure the desired financial condition for the bank համապատասխան compliance of the activities with the legislation այլ other normative acts.
+Figure 1. Two-tier structure of financial control 1 Limits on foreign exchange management standards և calculation methods are presented approved by the CB Advisory Board (See Regulation 2 on Banking Regulation, Basic Economic Standards on Banking, February 16, 2007, Yerevan).
+In conclusion, financial control is a continuous process carried out by the relevant department, which is organized independently of the work of other departments, in order to ensure compliance of the bank's operations with banking legislation, to reduce the bank's likelihood of financial losses.
+Hovhannes Gorgyan PRINCIPLES AND FEATURES OF FINANCIAL CONTROL ORGANIZATION IN COMMERCIAL BANKS Keywords: financial control, commercial banks, control.

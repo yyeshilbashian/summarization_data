@@ -1,0 +1,71 @@
+EFFECT OF CADMIUM IONS IN THE ETIOLATED CEREALS OF WHEAT (TRITICUM AESTIVUM L.) PEROXIDE OXIDATION OF LIPIDS Cadmium is one of the 5 most toxic heavy metals for plants].
+  The increase in its amount in the soil, due to human economic activity, is accompanied by a significant increase in the amount of toxic ions in plants, which has a negative impact on a number of processes of their biological activity [4, 6, 11].
+  Contamination of soil with cadmium is a cause for concern, as it is absorbed by plants and transmitted through food chains to animals and humans, endangering their health [5: 9].
+Currently, cadmium has been shown to reduce oxygen uptake into plant roots, impair plant growth և water regime, inhibitory glycolysis ենտ pentose phosphate cycle enzyme activity [3, 9, 10].
+Toxic effects of heavy metals in plant cells cause active oxygen species - oxidative stress [9, 12, 13], followed by protein metabolism, nucleic acid damage, lipid peroxidation (LP) , 12].
+  The mechanisms that protect cells from active oxygen species are fairly universal for all types of stress, including enzymes such as peroxidase, catalase, glutathione peroxidase, and superoxide dismutase [6, 12, 13].
+Numerous works have been devoted to the study of the effect of Cd2 + on the growth and development of wheat germ [8, 9, 12].
+  However, it is of some interest to study the intensity of the LPO process in the etiolized sprouts of wheat grown under the presence of cadmium, depending on the age of the sprouts.
+Materials և methods.
+  Obtaining plant material.
+  The object of research was the autumn wheat variety: Triticum aestivum L., Bezostaya 1 variety.
+  To obtain ethylated sprouts of the plant, healthy, undamaged wheat seeds were selected, washed with tap water, treated with a weak 0.3% solution of potassium permanganate, soaked in tap water, and left at room temperature for 24 hours to swell.
+The seeds are then arranged on wet filter paper in petri dishes. Grow in a thermostat at 25 0C, in the dark, for 3-12 days.
+ In the experimental version, CdCl2 solution with a concentration of l5 mm was added to the germinating seeds.
+Determination of lipid peroxide oxidation by the amount of malone dihaldehyde (MEA).
+  The change in LPO intensity was studied according to one of the secondary results of LPO, the method of change in the number of MEAs [4].
+The essence of the method is that at high temperatures, in an acidic environment, MEA interacts with 2-thiobarbituric acid to form a trimethane complex with a maximum absorption in the range of 535 nm.
+ For the experiment, 1 g of wheat germ was taken, cut and crushed in a frozen ceramic bowl in 50 mM Tris-HCl buffer solution containing 0.175 M KCl, pH = 7.4 1.
+In a ratio of 10 (sprout weight / buffer volume).
+  The resulting mass was then homogenized in a Potter-Elveheim homogenizer for 1 minute.
+ The resulting homogenate was filtered through 4 layers of tansy.
+ To 1 ml of the extract was added 1 ml of 17% trichloroacetic acid (YMC) and centrifuged at 4000 rpm for 15 minutes.
+  To 1 ml of the obtained residue was added 1 ml of 0.8% 2-TBT 0, 0.6 N solutions of 1 HCl, the samples were boiled in a water bath at 95 0C for 15 minutes.
+ The optical density of the samples was measured with a "SF-46" spectrophotometer, 535 nm, the molar coefficient of MEA extinction - 1.56 · 105 M -1 · cm-1.
+Determination of catalase activity.
+  Catalase activity in wheat germ was determined by Korolyuk method.
+ The principle of the method is based on the formation of a stable colored complex as a result of the interaction of hydrogen peroxide և molybdenum salts, the color intensity of which depends on the concentration of hydrogen peroxide in the reaction mixture.
+The experimental sample consisted of 2 ml of 0.03% hydrogen peroxide solution, 0.1 ml of vegetable homogenate, 1 ml of 0.175 M KCl containing 50 mM Tris-HCl buffer solution, pH = 7.4.
+ The reaction was stopped 10 minutes later by adding 4% ammonium molybdate to the samples.
+  The resulting staining intensity was then measured with a spectrophotometer at a wavelength of 410 nm in a test sample containing 2 ml of distilled water instead of hydrogen peroxide.
+ Catalase activity was calculated by the following formula: E = (A s-A p) V rx / V nm tkl, where E is the catalase activity in μM / l, A s և A p are the optical densities of the test samples, respectively, V rk is the volume of the reaction mixture: 3.01 ml, V nm The volume of the sample is 0.1 ml, t is the incubation time of 600 seconds, k is the molar coefficient of hydrogen peroxide extinction: 22.2 · 103 mm-l · cm-1, l is the light beam optical path: 1 cm.
+  The unit of catalase activity is the amount of enzyme that under the given conditions participates in the conversion of 1 mH of hydrogen peroxide for 1 second. during.
+Results.
+ The effect of cadmium on the growth of wheat germ.
+ The effect of different concentrations of cadmium chloride on the growth of wheat germ was performed on a sample of 3, 6 և 10 daily sprouts.
+ The presence of cadmium chloride in the growing medium suppresses the growth of ethylated sprouts on all days of exposure at 3 concentrations of heavy metal: 1 mm, 2 mm և 5 mm (Fig. 1).
+  Thus, the greatest decrease in growth in 3-day-old sprouts of wheat exposed to cadmium ions was recorded at a concentration of 5 mm compared to the 23-25% controller, while doses of 1 mm Մ 2 mm of cadmium resulted in an increase of 8 ± 1.4% 11 նույն in the same sprouts. According to the decrease by 3.6%.
+  Under conditions of 6 days of exposure, reliable germination pressure is recorded for all metal concentrations.
+ Moreover, the change in the growth rate of the sprouts shows a clear concentration dependence on the number of metal ions present in the environment (Fig. 2).
+ In 10-day-old sprouts, the growth rate is restored to some extent or remains low from the controller (Figs. 1, 2).
+Effect of cadmium on lipid peroxide oxidation.
+  To study the intensity of the peroxidation process of lipid accumulation in the ECA, germ samples were taken with Cd2 + in the presence of Cd2 + on the 3rd, 6th and 10th days of growth.
+  In control 3-day և 6-day-old sprouts the amount of MEA, therefore և the intensity of LPO processes is almost the same, and in 10-day-old sprouts the amount of MEA decreases (Fig. 3).
+ The presence of small amounts of Cd2 + in the medium (1 mm և 2 mm) in 3-day և 6-day sprouts causes LPO process intensification towards the controller (Fig. 3).
+  At the same time, the high concentration of cadmium does not lead to an increase in the amount of MEA in the studied sprouts compared to the control in all exposures (Fig. 3).
+ Moreover, cadmium at concentrations of 1 mm Մ 2 mm in 10-day-old sprouts leads to a slight increase in the number of MEA, and in the case of a high cadmium content of 5 mm, the amount of MEA decreases almost twice compared to the controller.
+Thus, in the medium containing 1-5 mm of cadmium, in the etiolized sprouts of wheat grown, a significant increase in the amount of MEA is registered compared to the controller, and in the case of 5 mm, in 10-day-old sprouts, a decrease in the intensity of LPO results is observed.
+The effect of cadmium on catalase activity.
+  When determining the activity of catalase in ethiolyzed wheat germ, it was found that in control sprouts, the enzyme activity increased 1.5 times (up to 10 days) as their age increased (Fig. 4).
+ The presence of 1 mM cadmium chloride in the environment in 3-day-old wheat sprouts causes a 35% decrease in catalase activity against the controller.
+ Further increase in the amount of cadmium in the environment leads to a decrease in enzyme activity in sprouts of a given age (Fig. 4).
+The amount of metal used in 6-day-old sprouts grown with cadmium also suppresses catalase activity compared to control 6-day-old sprouts.
+  At the same time, it should be noted that the catalase activity in the control 10-day-old sprouts is higher than in the 6-day-old control sprouts;
+Thus, based on the obtained data, it can be concluded that in the presence of low concentrations of cadmium chloride in wheat germ, the study of catalase activity occurs in plants.
+ However, as the concentration of cadmium ions in the medium increases, the activity of the enzyme decreases in experimental sprouts of wheat of the same age.
+At the same time, for each concentration of cadmium ions studied, catalase activity increases with increasing shoot age.
+Discussion of results.
+ According to the data obtained, the presence of cadmium ions in the growing medium suppresses the growth of ethylated wheat germ.
+  However, after the initial slowdown in growth (6-day-old sprouts), the growth rate in 10-day-old sprouts is restored to some extent.
+ These data correlate quite well with the results obtained for the determination of the intensity of LPO processes in sprouts.
+  Thus, the amount of MEA in the presence of 1-2 mM cadmium in 3-day-old sprouts increases approximately 2 times և 6-day-old sprouts 1.22 times.
+  The high concentration of cadmium chloride, 5 mM, does not reliably change the amount of MEA compared to the controller in young 3-day-old sprouts, and even in 10-day-old sprouts, it leads to a near-double reduction in the number of controllers.
+  Comparing the data on the amount of MEA-catalase activity in sprouts with cadmium chloride, it can be assumed that the relatively high level of MEA recorded in sprouts in early growth correlates with the pressure of catalase activity in sprouts of that age.
+  The data on the increase in catalase activity over time (6-10 days) coincide with the inhibition of MEA accumulation in sprouts of that age.
+The data we have obtained are consistent with the literature on the inhibition of peroxidase [9, 12] և catalase [2] activity in wheat germ.
+ The same pattern is presented by the authors of this work [8], but for 14-day-old wheat sprouts in the case of 7.5 mm of cadmium.
+It is now known that the ability of plants to accumulate cadmium ions may be altered during ontogeny [2, 3].
+  In particular, a study of the age effects of cadmium accumulation on shoots և distribution by plant organs found that in mature plants, the amount of cadmium passing from the roots to the stem decreases due to the enhancement of the barrier function.
+ Probably, we can explain the significant decrease in the accumulation of MEA in wheat germ due to the age of the plant.
+  We believe that a certain contribution to the reduction of the intensity of peroxidation processes in the presence of cadmium should be attributed to the increase of catalase activity in mature sprouts.
+GrakanutyunZhanna Mukhaelyan Gayane PoghosyanKADMIUM IONS INFLUENCE OF WHEAT (TRITICUM AESTIVUM L.) ETIOLATSVATS sprouts lipid peroxidation VRABanali words, Triticum aestivum L., lipid peroxide oxidation, Cd -stres, hakoksidantayin enzymes.

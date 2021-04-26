@@ -1,0 +1,87 @@
+The study of the critical and electrical transport stability characteristics of high-temperature superconductors (DCs) is an important fundamental and practical problem in modern solid-state physics [1].
+  On the one hand, this is due to the fact that in recent years there has been an intensive development of the production of technological equipment based on PSG, the stability of the electrophysical characteristics of which is becoming important [1-7].
+  On the other hand, although more than 30 years have passed since the discovery of BCG, the mechanism of superconductivity in them has not yet been discovered at the microscopic level [1].
+  According to the opinion of some works, the key to revealing the nature of superconductivity in BJP can be the unusual properties observed in the normal state near the critical temperature and at temperatures higher than it.
+  These include fluctuations in the wide temperature range of BGH compounds [8], the so-called pseudo-Gothic regime [1,8], and coherent electrical transport phenomena [9].
+  Moreover, both the heat treatment conditions of the sample (temperature, duration, heating and cooling rate) and the background of its receipt are important for the manifestation of the mentioned phenomena [1-10].
+  Of particular interest is the low temperature treatment, which results in metastable states [10–12], when the oxygen content of the sample does not change but the degree of regulation of oxygen atoms in the elementary cell changes due to their high mobility [1,12-15].
+  The change in the above-mentioned characteristics of the yttrium superconducting compound, which is in a stable state and stored for a long time (10 years) in room conditions (aging phenomenon), as shown in [10], is equivalent to the changes that occur after heating at 200 ° C for 100 hours.
+  The phenomenon of aging has been studied in various compounds for up to 17 years after storage at room temperature [1-3].
+  Such studies are of great interest both in terms of revealing the mechanism of superconductivity in PCB compounds and in terms of restoring their original characteristics [16,17].
+  For this purpose, the double heat treatment method is often used.
+  We have recently studied the effect of short-term low-temperature double heat treatment on the transport and superconducting properties of yttrium samples stored at room temperature for approximately 30 years after synthesis by measuring specific resistance in the temperature range (77-92) K [18].
+  In the present work, the temperature range of these studies has been expanded to 290 K.
+ Measurement methods The studied YBa 2 Cu 3 O x PCB polycrystalline compounds were synthesized in the usual way [19,20] and stored at room temperature for about 30 years.
+  X-ray fluorescence measurements have shown that the concentration of barium atoms in these samples is about 3-4% lower by weight compared to samples previously synthesized at 950 ̊C [19,20].
+  This sample was subjected to double heat treatment at the beginning of 30 minutes after heating in air at 400 ° C and slowly cooled together with the oven (3-4 degrees / minute) to room temperature.
+  After one-month periodic measurements, the same sample was heated in air for a second time for another 30 minutes at 400 ° C and rapidly (150-200 ° / min) cooled to room temperature.
+  After the initial, single and double heat treatment, the sample states will henceforth be numbered as 1, 2 and 3 samples, respectively.
+  During the month after each heat treatment, the temperature dependence curves r (T) of specific resistance (88-290) K were measured from time to time in the presence of the Earth's magnetic field using the quadrilateral method of measuring voltammeter characteristics [19, 20].
+ It should also be noted that these characteristics, as a rule, change very slowly depending on the time after one month due to the reduction of defects in the sample.
+  Therefore, this paper presents the characteristics obtained only one month after heat treatment, and the data on the results of their time dependence have been published in other works [21,22].
+  The width of the superconducting (GH) transition was determined as follows: ΔΤ C = Τ C0.9 -Τ C0.1, where Τ C C0.9 and Τ C0.1 are the temperatures corresponding to the normal resistance specific values ​​of 0.9rn and 0.1rn.
+  It is also accepted that Τ C0.9 and Τ C0.1 correspond to the critical temperatures at the beginning and end of the transition to the GH state (resistance 0): T con and T c0.
+ The results obtained and their discussion Figure 1 (a, b, c) shows the temperature dependence curves of the specific resistance in three different temperature ranges 9 for samples 1, 2 and 3.
+  As can be seen from this figure, after storage at room temperature for 30 years, the specific resistance of the initial sample r (Fig. 1, curve 1) in the normal (non-superconducting) state decreases linearly to T p = 136.5 K, which is typical for metals.
+  However, at lower temperatures, a faster decrease from r depends on the linear dependence.
+  The characteristics T con, T c0, Tc of samples 1 and 2 are 86.7 K, 82.5 K and 4.2 K and 85.6 K, 81.4 K, 4.2 K, respectively (see table).
+ Note that in the temperature range T c0 T con the specific resistance of the 2nd sample is much higher than in the 1st sample compared to the higher temperatures.
+  The conductivity in this range is due to temperature fluctuations in the concentration of Cooper pairs [8].
+ As can be seen, the specific resistance of the 2nd sample to the 1st sample continues up to T = 110K (Fig. 1, curve 2). Temperature dependence of specific resistance (r) for different samples 1,2 and 3 in different temperature ranges (a, b, c).
+  The vertical arrows indicate the temperatures of occurrence of the pseudogothic regime (T p) in the corresponding samples.
+ 11 Table Some of the GH and normal condition characteristics of the samples under study remain large and exhibit non-metallic behavior.
+  However, in the range of higher temperatures, the specific resistance already exhibits metallic behavior, and as the temperature rises further, it begins to decrease compared to the first sample.
+ At room temperature, the decrease is 18.5%.
+  The table below shows that this decrease from 2700cm to 2200cm is accompanied by a decrease in the slope (dr / dT) determined by the linear dependence of the specific resistance of samples 1 and 2 from 5.9cm / K, respectively. up to 3.00cm / K.
+  Note that similar behavior of the dr / dT profile was observed in YBa 2 Cu 3 O 6.55 and Y 1-y Pr y Ba 2 Cu 3 O 7-δ monocrystals, both after the application of high pressures [23] and after alloy placement [24 ].
+  The decrease in dr / dT was also accompanied by a decrease in the resistance of the sample, which is significantly higher at high temperatures than at low temperatures.
+  The decrease in resistance, in fact, indicates a decrease in the role of phonons in the scattering of normal current carriers.
+  Therefore, the resistance of the second sample gradually decreases in the temperature range (110-290) K compared to the first.
+  According to [15,25,26], the specific resistance (fluctuation conductivity) in the low temperature range is due to the regulation of weakly O4, O5 and O1 atoms in the Cu-O chain, and at high temperatures due to the regulation of strong oxygen atoms in the Cu-O planes.
+  As the oxygen atoms of the Cu-O chains are weaker than those of the planar atoms, the heat treatment causes more defects in the chains, which, by weakening and breaking the bond in the couper pairs, lead to a greater increase in specific resistance.
+ Such a large increase in resistance in the 2nd sample is accompanied by a decrease in the critical T c transition temperature by only 1 degree, while the switching width remains constant Tc = 4.2 K (see table).
+  Whereas the characteristic T p temperature in this case 12 decreases from 136.5 K to 110 K, ie the heat treatment leads to a significant expansion of the temperature range of the metal conduction mode.
+  Note that after rapid freezing in air, the GH transition curve of sample 3 also generally deviates generally to the lower temperature range (Fig. 1, curve 3), and the sample does not switch to full GH at 77.3 K of liquid nitrogen.
+  And the temperature at the beginning of the transition decreases from 85.6 K to 83.7 K.
+  That is, the third sample becomes more heterogeneous, which is expressed by a significant increase in Tc compared to T con due to a faster decrease in T c0.
+  The inhomogeneity in it is evidenced by the clearly observed increase in the r (T) curve around 80 K in Fig. 1 (a, b, curve 3).
+  The observed inhomogeneity is most likely due to the formation of oxygen-rich and oxygen-poor, T c (including T c = 80 K) GH phases.
+  This phenomenon is known as the so-called phase separation phenomenon and has been observed in heat-treated non-stoichiometric YBa 2 Cu 3 O 6.8 monocrystals [10] as well as in yttrium atoms with a larger ionic radius, partially located in yttrium with Pr atoms. .
+  It is interesting to note that after low temperature treatment and long-term storage of samples in room [10] water vapor in the air with the participation of elemental cell oxygen, Y and Ba subnets occur deregulation.
+  Pre-existing defects in these and baseline samples (3-4% deficiency of Ba atoms) and the resulting both superconducting and non-superconducting phases are unevenly distributed in the interstitial spaces, causing enormous stresses that become assembly points for normal current carriers or efficient scattering. centers [1].
+  All this leads to an increase in the width of the diffraction lines [10], and in our case to an increase in the width of the GH passage.
+  In fact, rapid freezing results in enormous tensile stresses at the edges of these spatial networks, resulting in greater specific resistance and a slower increase in transition width compared to the slow-frozen specimen [13].
+  Note that in this case the observed increase in specific resistance in the low temperature range is several thousand times greater than in the first sample (Fig. 1, curve 3).
+  However, if in the case of slow cooling the specific resistance decreases by 18.5% at room temperature, in the case of rapid cooling it, on the contrary, increases by more than 60% (see table).
+  In addition, in normal condition, the sample exhibits semiconductor conductivity (Fig. 1, c).
+  A similar behavior was observed by us recently in yttrium polycrystals, which were slowly cooled after heat treatment and stored at room temperature for only 13 days.
+  It is worth noting that yttrium monocrystals, kept at room temperature for 6 and 17 years after synthesis by other authors, also showed different GH phases, which appeared on the transition curves in the form of degrees.
+ One of the possible causes of semiconductor-type behavior in PCB compounds is the uneven distribution of structural defects in the material at the microscopic level [28].
+  However, it is interesting to note that the pseudogot is also considered as a phenomenon that manifests itself in generally heterogeneous electronic (not just superconducting) systems.
+  It is found here that the presence of nanoscale inequalities in the structure can enhance the manifestations of pseudogout anomalies in YBa 2 Cu 3 O 6.93 superconductors with optimal oxygen content.
+  As can be seen (Fig. 1-c, 3 curves) in semiconductor mode, as the temperature decreases to T p = 98 K, the resistance also increases by linear law.
+  In other words, a pseudo-zone formation regime is also manifested in 3 samples.
+  A similar dependence was observed in bismuth specimens partially located with zinc atoms after high-temperature processing and rapid tempering in air.
+ Characteristic T p temperature is associated with the establishment of a pseudo-Gothic regime, the origin of which has two approaches.
+  According to the first, it is due to the so-called "dielectric" type of fluctuations of the near order, which are observed in telegrained compounds.
+  The second approach assumes the formation of couper pairs in the temperature range much higher than the critical T p  Tc, when the density of the generated local GH pairs is still small enough and does not provide the necessary coherence for the whole sample to pass to the GH state.
+  This coherence is confirmed only in the case of T Tc [8].
+  The decrease in T p after heat treatment is due to defects both in the spatial network circuits and in the planes.
+  The increase in defect density according to [4,8] works prevents the formation of superconducting pairs.
+  However, it is interesting to mention that in the work [1] the opposite result was observed. At room temperature, a p p of 29 ° C was observed in the pure yttrium monocrystals, which were long stored in the air and partially located with aluminum atoms.
+  Analysis of existing studies shows that the effect of defects on changes in T p and Tc in yttrium samples is ambiguous [1,5,24], and recent research suggests that the cause of pseudogonorrhea is still unclear. [7] .
+  Additional research is needed to finally explain the results.
+  The low temperature treatment of the 14 yttrium superconductors causes an unstable state due to the disorganization of the mobile oxygen atoms (chains) in them and their subsequent relaxation [1: 12-15].
+  The main defects in this case are the displaced atoms in the Ba and Y subnetworks, which lead to rearrangements of the oxygen atoms, which in turn causes a change in the characteristics of the sample.
+  The resulting defects are in the size of nanometers and are distributed in the elementary cell in a very uneven manner, which according to [29, 30] works, can increase the occurrence of pseudogot anomalies even in optimum oxygen content BJG YBa 2 Cu 3 O 6.93 monocrystals, contrary to the assertion that in oxygen saturated samples.
+  The absence of a complete superconductivity state in the rapidly frozen sample at 77 K is probably due to the higher density and Nm defects caused by it, as in this case a wider GH transition is observed.
+  In such cases, the sample often does not pass full superconductivity even at very low temperatures, as a significant proportion of current carriers remain non-superconducting.
+  The weak change of T c from the cooling rate compared to T p can also be explained by the formation of nanoparticle defects in the sample (including amorphous particles up to 20 nm) [10, 11].
+  In this case [30] the population of O4 nodes in the oxygen changes slightly, while in the O5 positions of the chain (ideally mostly uninhabited) it increases considerably, leading to the maintenance of high values ​​of T c or their weak change and significant increase in specific resistance ( Fig. 1, sample 3; table).
+ Conclusion The effect of short-term double heat treatment on the electrical transport properties of YBa 2 Cu 3 O x BGH compounds synthesized and stored in a room for 30 years was investigated.
+  The following main results were obtained: 1. After heating for 30 minutes at 400 ° C, the specific resistance of the sample slowly frozen to room temperature increases sharply in the fluctuation range, which is accompanied by a decrease in critical temperature, while the transition width remains unchanged at 4.2 K.
+ 2. There is also a decrease in the temperature of formation of local pairs T p from 136.5 K to 110 K, which is due to defects in weakly bonded Cu-O chains.
+  The above-mentioned big increase of resistance is also conditioned by those defects.
+ 3. After heat treatment, rapidly frozen samples show a decrease of T con temperature at the beginning of the GH transition by 3 K compared to 15 of the baseline sample, and the resistance does not become 0 at the temperature of liquid nitrogen, ie GH transition widens, indicating an increase in inhomogeneity.
+  The obtained results allow to establish a connection between the superconducting and normal characteristics of the material using a rather simple method, which will give the possibility of obtaining compounds with high GH characteristics, which are of great importance from the point of view of application in force and measuring equipment.
+ .

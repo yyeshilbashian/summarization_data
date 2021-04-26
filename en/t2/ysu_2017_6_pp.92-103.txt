@@ -1,0 +1,178 @@
+COMPENSATION FOR DAMAGES CAUSED BY VIOLATION OF OBLIGATIONS "ON INTERNATIONAL GOODS CONTRACT AGREEMENTS" 1980 UNDER THE CONVENTION OF THE UNITED NATIONS Since the 1930s, the world has felt the growing need to harmonize the legislation governing international trade.
+  In 1964, the principles of the International Trade Agreements (hereinafter referred to as the Unidrua Principles) came into force, but failed to implement the international trade regulation.
+ This led to the development of a new document.
+ The result was in 1980. The UN Convention on the International Trade in Goods (hereinafter referred to as the AMAP Convention), which entered into force in 1988.
+  Among other norms, the AMAP Convention contains a number of provisions dealing with damages caused by breach of contract.
+Compensation is one of the most common means of legal action in case of breach of contract, but it is not the only one.
+ The aggrieved party may demand fulfillment of the obligation, reduction of the price or may even declare the contract terminated.
+  These remedies, however, are only available in certain cases of breach of contract.
+  The claim for damages is a measure of general influence that can be applied in case of any type of violation.
+ Therefore, the party may, if possible, file a claim for damages in conjunction with other means of action.
+ In some cases, damages are the only means of redress under the AMAP Convention, contrary to German-American law, a party can receive damages even if the contract is terminated.
+Thus, in case of breach of contractual obligations, the party who caused the damage is obliged to compensate the damages.
+ The first part of Article 45 of the AMAP Convention առաջին The first part of Article 65 stipulates that when each of the parties fails to fulfill any of its obligations, the other party may claim damages, as provided for in Articles 74-77.
+ It should be noted that these provisions apply only to existing legal relations between the seller and the buyer and may not apply to third parties to the international trade agreement.
+Pursuant to Article 74 of the AMAP Convention, damages for breach of contract by one of the parties to the breach of contract are equal to damages incurred by the other party, including lost benefit.
+ As in all national legal systems, in this case, in the AMAP Convention, the damage includes the actual costs that the aggrieved party must incur in order to eliminate the undesirable consequences of the breach of the obligation.
+The AMAP Convention does not directly exclude liability for non-pecuniary damage.
+  Consequently, damages, which are exclusively non-material, can be compensated when it is substantiated that the corresponding damage occurred as a result of non-fulfillment of the obligation.
+1 Damage to life or health caused by defective goods is not covered by Article 74 և ԱՄ of the AMAP Convention.
+ Pursuant to Article 5 of the AMAP Convention, the Convention does not apply to the seller's liability for harm to the health or death of a person because of a product.
+The problem is different when the buyer demands compensation for death or damage to health due to defective goods to his customers.
+ This is no different from other financial losses, so this issue is also regulated within the framework of the AMAP Convention.
+ Article 74 of the AMAP Convention applies to property damage.
+Types of damages subject to compensation include non-performing (non-performing) loss, incidental loss, and consequential loss due to breach of contract.
+ Commitment 1 For more details, see Ingeborg Schwenzer and Simon Manner, The Pot Calling the Kettle Black.
+http:
+//www.cisg.law.pace.edu/cisg/biblio/schwenzermanner.html.
+database.
+The notion of damage as a result of non-performance includes loss of use.
+2 Nonperformance loss consists of the debtor's primary or direct damages.
+ The actual loss as a result of non-performance relates to the buyer who did not receive what he was entitled to receive in return for payment of the sale price.
+ If the contract is terminated, the damage caused by the non-performance of the obligation is calculated in accordance with Articles 75 և 76 of the AMAP Convention, ie it is based on the transaction price or direct market current price.
+ If the delivered goods have a defect, the damage includes the difference between the fair value of the defective goods and the value that the goods would have had at the time of the calculation if they had complied with the contract.
+3 If the delivered goods are subject to recovery, the damage caused by the non-fulfillment of the obligation can be calculated in accordance with the necessary expenses.
+Incidental loss is an expense incurred by the debtor that is not related to the realization of its expectations ացել incurred to avoid any additional adverse consequences.
+5 The concept of consequential loss, in addition to other losses, includes additional damages that have occurred as a result of default.
+  These mainly include the debtor's liability to third parties as a result of breach of obligation.
+  According to the general principles of liability for damage, legal costs incurred by the debtor in the event of a dispute with a third party, whether out-of-court or out-of-court, can be generally recovered by the creditor under Article 74 of the AMAP Convention.
+6 The AMAP Convention establishes the principle of objective liability.
+  Only due to breach of contract 2 See Ingeborg Schwenzer (ed.), Schlechtriem & Schwenzer, Commentary on the UN Convention on the International Sale of Goods (CISG), 3rd ed., Oxford 2010, p. 1006.
+3 See Martin Karollus, Judicial Interpretation and Application of the CISG in Germany 1988-1994, pp. 156, 223.
+4 See Martin Karollus, ibid., P. 223.
+5 See Ingeborg Schwenzer (ed.), Schlechtriem & Schwenzer, Commentary on the UN Convention on the International Sale of Goods (CISG), 3rd ed., Oxford 2010, p. 1009.
+6 For more details, see Peter Huber, The CISG.
+ A New Textbook for Students and Practitioners, Art 74, para 44.
+The damages are subject to compensation.
+ It is necessary for the violation, in general, to be a precondition for the occurrence of the damage (conditio sine qua non, 'but-for rule').
+ It is not possible that the violation caused damage directly or indirectly.
+ Liability for long-term damages outside the debtor's liability can only be excluded by virtue of the principle of predictability, in accordance with Article 74 of the AMAP Convention.
+7 The AMAP Convention on Compensation for Damages establishes a unique mechanism.
+  In particular, Article 74 of the AMAP Convention contains two basic concepts, namely, the principle of full compensation (principe de la reparation integral) սահմանափ the principle of limitation of liability through the rule of predictability.
+Many domestic legal systems define the principle of full compensation for damages.
+8 The principle of predictability derives from French law (Article 1150 of the French Civil Code) ից from the English's Hadley v Baxendale 9 prototype, which found its place in the codification of Anglo-American commercial law.
+More: Unidrua Principles (Articles 7.4.2 և 7.4.4) և 1999 Principles of European contract law (Articles 9).
+502 և 9.
+503), as well as the international conventions on the right to transport, clearly define the principle of full compensation for damage through the rule of predictability.
+10 According to Article 74 of the AMAP Convention, damages for breach of contract by one of the parties may not exceed those which the party to the contract had foreseen or should have foreseen at the time of concluding the contract as a possible breach, taking into account the circumstances of which he knew or should have known. to know.
+ In fact, the AMAP Convention envisages the principle of predictability of damages, which is of an objective nature.
+117 See CM Bianca, MJ Bonnell, Commentary on the International Sales Law - The 1980 Viennahttp.
+//www.jus.uio.no/pace/en/html/cisg_laid_bare_lucid_guide_to_a_muddy_code.artur_rosett/s1.html.
+8 For more details, see Stoll, Haftungsfolgen, pp. 179–181, 323–341.
+9 See Franco Ferrari, Comparative Ruminations on the Foreseeability of Damages in Contract Law, 53 La. L. Rev. (1993), p. 305.
+10 See Lajos Vékás, The Foreseeability Doctrine in Contractual Damage Cases, Acta JuridicaHungarica (2002), pp. 170–172.
+11 See Kostin A. А., Взыскание убытков и Mayorтов вранской конвенции в praktке Thus, the strict liability of the debtor for the fulfillment of contractual obligations is mitigated by the fact that the AMAP Convention limits the compensation to foreseeable losses.
+  The rule of predictability limits the liability of the creditor չափ the amount of damages that he could have foreseen at the time of concluding the contract, taking into account the objectives of the contract և the conditions.
+The rule in question applies even when the debtor has intentionally breached his contractual obligations.
+12 It should be noted that according to Article 417, Part 4 of the RA Civil Code, the previously concluded agreement on the elimination or limitation of liability for intentional breach of obligation is null and void.
+ A similar provision is enshrined in the law of many countries, while the AMAP Convention does not provide for any provision for intentional harm caused by an offender.
+ In any case, it should be borne in mind that the provision of the first part of Article 7 of the AMAP Convention obliges to take into account the need for unconditional application of the principle of good faith in international business.
+Although the rule of predictability has been greatly influenced by the Anglo-American "contemplation rule", there are significant differences between the two rules.
+  For this reason, the case law of the Anglo-American domestic legal system cannot be used to interpret the second sentence of Article 74 of the AMAP Convention.
+13 In contrast, Anglo-American "contemplation" is crucial for both parties: the predictability of damage under Article 74։ 2 is determined only by the likelihood of breach of contract.
+  The moment of concluding the contract is decisive for the definition of predictability.
+  Thus, predictability is related only to the stage of concluding the contract, if the party predicts the right, where vars.
+ practice of application in Russia and for rubella (ed. Red. AS Komarov). Walter Clover.2007, page 120.
+12 See Franco Ferrari, Comparative Ruminations on the Foreseeability of Damages in Contract Law, 53 La. L. Rev. (1993), p. 160.
+13 See TeeVee Toons, Inc. & Steve Gottlieb, Inc. v Gerhard Schubert GmbH, US Dist Ct (SD NY), 23August 2006, CISG-online 1272.
+14 See GH Treitel Remedies for Breach of Contract.
+  A Comparative Account (Oxford University Press, Incorporated, 1988), p. 88.
+damages during the performance of the contract, then in the sense of Article 74 of the AMAP Convention, this circumstance will not be taken into account.
+In general, predictability should be determined on the basis of objective criteria.
+  Elements such as risk distribution in the contract, the purpose of the contract, and the safeguards for clear performance of the obligation should be taken into account.
+  The crucial question is what a reasonable person instead of the contractor will predict, who will be informed about the circumstances existing at the time of signing the contract15.
+Only damages should be foreseeable և breach of contract, which is the basis for compensation.
+  At the same time, it is not necessary to predict the exact amount of damage. The overall size, however, must be predictable.
+  In one of its case-law decisions, the Court of Cassation noted that, despite the determinative analysis of the damage calculation, the exact amount of damages may not be sufficiently clear in some cases or may not be determined with reasonable assurance.
+  The Court of Cassation finds that in such cases a person cannot be deprived of the right to compensation for lost profits at all, as such a position would contradict the essence of business, a number of constitutional and convention provisions.
+  The Court of Cassation finds that in such situations the courts determine the amount of benefit to be reimbursed at their discretion.
+  Such a regulation also operates in international practice.
+ In particular, according to Article 7.4.3 3 3 of the Unidrua Principles, if the amount of the damage cannot be established by a reasonable degree of reasonableness, the amount shall be determined at the discretion of the court16.
+Damages resulting from non-performance of liabilities are generally predictable17.
+  This includes price reductions due to non-conformity of goods, as well as reasonable costs incurred to restore the debtor to a position in which he would have been in the event of proper performance of contractual obligations (eg repair or rental costs) 18.
+  Lending costs in case of late payment, total 15 See Huber, Peter and Mullis, Alastair, The CISG.
+ A New Textbook for Students and Practitioners.Munich.
+ Sellier European Law Publishers, 2007. Pp. 408, p. 274.
+16 See civil case No. ESHD / 0177/02/11 of the Court of Cassation.
+17 See Neumayer / Ming, Art 74, note 4. (who speak of 'dommage direct'); Roßmeier, RIW 2000, pp. 407, 411.
+18 See Peter Huber, The CISG.
+ A New Textbook for Students and Practitioners, pp. 274, 275.
+However, they are predictable 19.
+ The same applies to exchange rate losses20.
+The rule of predictability is of great importance in the context of consequential loss, as they are regularly affected by a certain status of the debtor, measures taken by him or the economic environment.
+ When marketable goods are sold to commercial traders, the profits from the resale of goods are usually predictable21.
+  The reasonable amount of penalties provided for in the contract is generally predictable insofar as it is consistent with the customary practice of the parties or the relevant business-to-business practice (Article 9 of the AMAP Convention) 22.
+  Loss of prestige can be predictable when the buyer delivers in a sensitive market23.
+The Civil Code of the Republic of Armenia does not envisage the principle of predictability for compensation of damages caused by breach of contract.
+ Thus, Part 2 of Article 17 of the RA Civil Code stipulates the following: “Damages are the expenses of the person violated the right that he has incurred or will incur to restore the violated right, his property loss or injury (real damage), the unearned income, which The person would have received in the normal conditions of civil circulation, if his right was not violated (missed benefit), as well as non-material damage. ”
+Sometimes opinions are voiced that the principle of predictability has taken place in the RA legal system due to the precedent decisions of the Court of Cassation.
+  In particular, Julieta Petrosyan, Karen Davtyan և Arman Davtyan v. By Tosos Safaryan Civil Case No. 3-691 / VD (claim for damages) the court needed to determine the circumstances of the trial 19 See Appellate Court of Eastern Finland, 27 March 1997, CISG-online 782 (7% per month and0.5 % on arrears), http.
+//www.unilex.info/case.cfm?pid=1&do=case&id=489&step=FullText.
+20 See Legfelsóbb Birósághttp.
+//www.globalsaleslaw.org/content/api/cisg/urteile/1687.pdf.
+21 See Delchi Carrier SpA v Rotorex Corp., US Ct App (2nd Cir), 6 December 1995, CISG-online 140; http.
+//www.globalsaleslaw.org/content/api/cisg/display.cfm?test=140.
+22 See Russian CCI, 23 December 2004, CISG-online 1188, http.
+//cisgw3.law.pace.edu/cases/041223r1.html.
+23 See Huber, Peter and Mullis, Alastair, The CISG.
+ A New Textbook for Students and Practitioners.Munich.
+ Sellier European Law Publishers, 2007. Pp. 408, p. 279.
+should be taken into account to find out if there is a missed benefit.
+The Court of Cassation found that the existence of a missed benefit, ie the determination of the possibility of receiving income in case of non-violation of a person's right, is a matter for self-assessment in each case, during which the specifics of the case should be taken into account.
+ In particular, in order to determine the existence of a lost benefit, one must first take into account the status of the relevant property in the civil circulation before the violation of the right or the simultaneous existence of the owner's real intention and possibility of disposing of that property (such as another person violating the right). the relevant offer sent to the persons) 24.
+In the civil case No. ESHD / 0177/02/11, the Court of Cassation noted that the real intention of the company can be confirmed by a study of the nature of the company's activities (for example, charter փաստաթ other documents).
+ They can also be approved by revealing the nature of the relevant contractual relationship by studying the company's business plans.
+  In addition, this may be evidence of an increase in the scope or scope of the company's activities (warehousing, acquisition of equipment for the production of goods or increase in volume).
+ All this substantiates the real intention of the company.
+  The true potential of the company can be corroborated by relevant real or reasonably probable evidence of a benefit.
+  For example, there may be company turnover data that show the company's revenue from similar goods or services, which may be reflected in the company's accounting or other documents or in the data of various government agencies (tax, customs, etc.) 25.
+However, it should be noted that the above precedents can in no way prove the existence of the principle of predictability in the RA Civil Code for the following reasons: First, the principle of predictability is a unique mechanism for limiting liability; within.
+ At the same time, the above-mentioned judicial preconditions refer only to the omission of 24 See Civil Case No. 3-691 / VD of the Court of Cassation.
+25 See Civil Case No. ESHD / 0177/02/11 of the Court of Cassation.
+the circumstances, in particular the circumstances to be ascertained in order to establish the existence of the missed benefit.
+  In fact, the cited precedents are intended to clarify the concept of missed benefit և to define the criteria that will help determine its existence.
+  Continuing the presented interpretations, in the civil case No. ESHD / 0177/02/11 the Court of Cassation stated that due to the civil liability for damages, the property situation of the victim should be improved to the extent that he would be if his rights were not violated.
+  The Court of Cassation added that the party who did not fulfill the contractual obligations or did not fulfill them properly should not compensate the damage that did not occur or could never have occurred.
+In fact, the purpose of the analysis of the criteria set by the Court of Cassation is aimed at the fact that the aggrieved party should not benefit from the situation as a result of the breach of the obligation, under which conditions there can be no question of limitation of liability.
+ Thus, even in the context under discussion, the Court of Cassation has once again confirmed the existence of the principle of full compensation in damages in the RA civil legislation.
+Pursuant to Article 77 of the AMAP Convention, a party to a breach of contract must take measures that are reasonable in the circumstances of the breach, including the reduction of the benefit lost as a result of the breach of contract.
+ The same article envisages many sanctions against the party that has not fulfilled the mentioned requirement, defining the following: "If he does not take such measures, the party who violated the contract may demand reduction of the compensated damages by the amount they could have reduced."
+  The parameters of the reduction actions defined by the article under discussion are not clear.
+  It does not affect the right to sue for breach of contract in the event of clear breach of honor or significant breach.
+  In any case, this provision should be implemented in the light of the general structure of the AMAP Convention, as well as the obligation of good faith և the general principles on which the AMAP Convention is based26.
+26 See Ziegel JS and Claude Samson, Report to the Uniform Law Conference of Canada onCISG database.
+ http:
+//www.cisg.law.pace.edu/cisg/wais/db/articles/english2.html.
+The AMAP Convention sets out two cases in which, after the termination of the contract, the aggrieved party may claim damages from the other party to the terminated contract.
+  Article 75 of the AMAP Convention provides: "If the contract is terminated եթե if after termination within a reasonable time ը the buyer buys the goods instead or the seller resells the goods, the party claiming damages may charge a difference between the contract price and the price of the substituted transaction, as well as any additional damages that may be recovered under Article 74. "
+ It is necessary to first find out what is meant by the concept of "reasonable egg".
+  According to Schlechrim, a "reasonable horse" can exist when the debtor acts as a prudent "post-business" and studies the relevant trading practice27.
+The parties can demand from each other the difference in the contract price (which is negative for them) only if the transaction they concluded later was within reason.
+  Here, the AMAP Convention again calls on the parties to conduct honest business practices in good faith.
+  If it turns out that the transaction concluded by the party is not reasonable in the given conditions, ie each buyer or seller would not conclude a transaction under those conditions, the relevant party will not have the right to demand the difference between the contract price and the transaction price, which was negative for him.
+ The question arises what is meant by "reasonable period" when the party must conclude the next transaction within that period.
+  This problem can be solved only after analyzing the specific circumstances of the case.
+  This reasonable period shall begin when the aggrieved party announces the termination of the contract28.
+In the event that after the termination of the contract the injured party does not conclude a transaction of resale of the goods or does not conclude a transaction aimed at purchasing a new product, it may turn out that the party who did not conclude a transaction has suffered a loss.
+In the case of similar cases, the first part of Article 76 of the AMAP Convention provides: "If the contract is terminated", if the data item has a current price, the party claiming damages may, if he has not made a purchase or resale under Article 75, 27 See Peter Schlechtriem, Commentary on the UN Convention on the International Sale of Goods (Oxford 1998), p. 576.
+28 See Haykyants A. M., Legal regulation of international trade in goods.
+Scientific-practical manual / Ed. V. Yengibaryan, -Yer., "Asoghik", 2011, 334 pages, page 262.
+claim the price specified in the contract ությունը the current price difference at the time of termination of the contract, as well as any additional damages that may be levied under Article 74.
+ However, if the party claiming damages terminated the contract after acceptance of the goods, the current price at the time of termination of the contract shall be applied instead of the current price at the time of acceptance. ”
+  It is noteworthy that the RA Civil Code establishes provisions similar to Articles 75 և 76 of the AMAP Convention.
+In discussing the provisions on damages set out in the AMAP Convention, the issues of the burden of proof in the event of a claim for damages should not be ignored.
+  The distribution of the burden of proof, although not directly provided for, is regulated by the AMAP Convention.
+  According to the prevailing view, the debtor bears the burden of proof at least for the extent of his damage, as well as for causing them in breach of contract29.
+A number of courts և theorists consider the issue of the standards required for the burden of proof to be subject to procedural regulation և therefore consider that it should be regulated by lex fori (Delchi Carrier SpA v Rotorex Corp., US Ct App (2nd Cir), 6 December 1995).
+ It should be noted that the manner in which evidence can be presented, in particular the admissibility of evidence, is determined by the lex fori procedural rules30.
+However, the qualification of the rules of evidence as merely procedural or substantive cannot be decisive31.
+  Permitting the application of different domestic rules of proof of measure will undermine the application of the AMAP Convention as well as the common interpretation of the general principle of full compensation.
+As in the case of the burden of proof, the standards of proof must be derived from the AMAP Convention32.
+Grigor Chobanyan COMPENSATION FOR DAMAGES CAUSED BY VIOLATION OF OBLIGATIONS "ON INTERNATIONAL GOODS TRADE AGREEMENTS" 1980 UNANIMOUS CONVENTION ON THE UNITED NATIONS 29 See Peter Huber, The CISG.
+ A New Textbook for Students and Practitioners, page 281.
+30 For more details see Stoll / Gruber, 4th German edition of this work, http.
+//www.globalsaleslaw.org/db/1/182.pdf.
+31 See CISG-AC, Op 6 Gotanda, Comment 2.3; Schwenzer / Hachem, Scope of Damages, p. 99.
+32 See Review of the Convention on Contracts for the International Sale of Goods (CISG), KluwerLaw International (2000-2001), Burden of Proof under the CISG, Franco Ferrari, paragraph 2.
+Keywords: Compensation "Mechanism for limiting the compensation of international trade in goods.
+Summary.

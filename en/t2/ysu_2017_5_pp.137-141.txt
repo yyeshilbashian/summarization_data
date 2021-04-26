@@ -1,0 +1,50 @@
+EVALUATION OF BETAIN ANTI-MUTENGIC PROPERTIES IN KCL-22 CELLS DNA-COMET METHOD Introduction.
+  Environmental pollution is a serious problem due to various mutagenic factors.
+ Both artificial and natural chemical compounds are known, which exhibit carcinogenic and mutagenic properties and are potentially dangerous to human health (Belogolovskaya, 2002).
+ One of the main approaches to reduce the harmful effects of mutagens is the use of compounds with antitumor properties.
+  In addition, compounds lacking their own mutagenicity are selected as potential antigens.
+Although antimutagenic properties have been described for many compounds, their application in practice is still limited.
+  From a safety point of view, the use of natural antimutagens is more appropriate.
+  The latter is classified as the basic one.
+  Betaine is the trimethyl derivative of glycine, trimethylglycine or trimethylaminoacetic acid.
+ Beta is the natural metabolite of choline, a biochemical component of the methionine-homocysteine ​​cycle (Biggers et al., 1993).
+  Beta sources of food are spinach, cereals, seafood, wine, beets, etc.
+  Beta is used in medicine as a hepatoprotector-cardioprotector.
+Betaine is a donor of methyl groups [Becker et al., 2005].
+ DNA methylation is a means of epigenetic regulation of the genome.
+  Violation of DNA methylation can lead to genetic instability, aging, as well as cancer.
+  The importance of beta for DNA methylation is not ruled out.
+Studies on the antimutagenic properties of beta are limited.
+ Betaine has been shown to have a pronounced in vitro և in vivo ability to reduce the clastogenic effects of protoxidants (free radical generators) և alkylating mutagens.
+ In vitro (in human blood lymphocytes) և in vivo (in the blood cells of mice), betaine in non-alcoholic beer has been shown to reduce the level of chromosomal abnormalities induced by γ-expression (Monobeet et al., 2005).
+The DNA comet method is widely used to evaluate antimutagenic compounds, which is a fast-sensitive method for assessing DNA damage in single cells (Olive and Banáth, 2006).
+  The method allows the detection of single-stranded or double-stranded DNA fragments, loci sensitive to the environment, DNA sutures, as well as cleavages in the intermediate stages of repair in individual cells.
+ In a number of studies, the antimutagenic properties of various compounds have been evaluated by DNA comet method (Panayiotidis and Collins, 1997; Undeger et al., 2004).
+In the evaluation of antimutagenic compounds, standard mutagens are used, the mechanisms of action of which are known, in particular, mitomycin C.
+The aim of this study was to evaluate the antimutagenic potential of beta in mitomycin C-treated KCL-22 cells by DNA comet method.
+Materials և methods.
+  Tested compounds.
+  The KCL-22 cell line, which is a culture of human lymphoblasts for chronic myeloid leukemia, was initially developed with three concentrations of beta: 0.01, 0.1 և 1 mg / ml for 24 hours, and then with mitomycin C for 2 hours (1 μg). .
+DNA comet method.
+ The method-based version of DNA comets was used in the work (Singh et al., 1988).
+ 150 cells were analyzed in each version.
+  The images of the DNA comets (Figure 1) were recorded with a camera (Variocam, PCO, Germany), the data were processed and analyzed with the help of Comet Assay IV (Version 4.3) software.
+The statistical analysis of the obtained results was performed with the help of "STATGRAPHICS Plus 5.1" program using "Mann-Whitney" (U test) test.
+ The difference was considered significant at p <0.05.
+Results և discussion.
+  The level of DNA damage was assessed according to 3 indicators: comet tail length, comet tail DNA content և tail moment.
+  The results of the research are presented in Table 1 և Figure 1.
+Betaine at a concentration of 0.01 mg / ml, according to all the parameters of the comets, reliably reduced the level of DNA damage compared to the controller (p <0.05).
+ Betaine at a concentration of 0.1 mg / ml significantly reduced the level of DNA damage compared to the comet tail length parameter compared to the controller (p <0.05).
+  Betaine at 1 mg / ml did not alter DNA damage compared to the control level.
+Mitomycin C significantly increased the level of DNA damage compared to the controller by two parameters: comet tail DNA content տոկոս tail moment (p <0.05).
+Betaine (0.01 և 1 mg / ml) significantly reduced the level of mitomycin C-labeled DNA damage by all parameters (p <0.05).
+Betaine (0.1 mg / ml) reduced mitomycin C-labeled DNA damage by only two parameters (percentage of DNA in the comet tail և tail moment; p <0.05).
+Figure 1. Images of DNA comets ․ 1. Control (KCL-22 cells), 2. Mitochondrial C-treated KCL-22 cells, 3. Betaine (0.01 mg / ml) և Mitomycin C-treated KCL-22 cells.
+Levels of DNA damage in beta և mitomycin C (MMC) -induced KCL-22 cells Table 1. Processing Options Comet tail length DNA% tailComplet tail momentMid ± st. WrongMedia իջ MedianSt. WrongMedium ± St. ErrorMedianControlBeta (0.01 mg / ml) Beta (0.1 mg / ml) Beta (1 mg / ml) MMC (1 μg / ml) Beta (0.01 mg / ml) + MMC (1 μg / ml) Beta (0.1 mg / ml) + MMC (1 μg / ml) Beta (1 mg / ml) + MMC (1 μg / ml) a - p <0.05 compared with controller * - p <0.05 compared with variants treated with mitomycin C Thus, the data obtained indicate that beta is effective in KCL-22 cells from the genotoxic effect of mitomycin C.
+  In vitro data on the antitumor properties of beta are consistent with in vitro (in vivo data (Durnev et al., 2009; Monobe et al., 2005) են allow beta to be considered as a promising human protection against environmental mutagens.
+Literature Chemical Mutagenesis. In.
+  “Genotoxicity.
+  Evaluation, Testing and Prediction », Editors.
+5. Olive P., Banáth J. The comet assay.
+ a method to measure DNA damage in individual cells. Angela Sargsyan, Anna Simonyan, Galina Hovhannisyan.

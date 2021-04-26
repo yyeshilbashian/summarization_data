@@ -1,0 +1,120 @@
+BIOLOGICAL ACTIVITY OF WINE PRODUCTION WASTE The current high demand for biologically active compounds of plant origin, especially secondary exchange products, is associated with the widespread use of these compounds in various fields of human activity.
+ Of particular interest is the discovery of plant wastes with high antioxidant activity due to their great importance in the pharmaceutical, food and cosmetics industries.
+Free radicals in the human body are formed by various endogenous systems, affecting many pathological conditions with age.
+  Synthetic antioxidants can be dangerous to human health, so the search for non-toxic plant-based antioxidants remains relevant.
+  Of the vegetable wastes, special attention is paid to the viticultural wastes.
+Viticulture is one of the main branches of agriculture in the whole world.
+ The grape harvest is 60 million tons per year, of which only 80% is used for winemaking and the remaining 20% ​​is waste for the production of wine.
+Wine production wastes are rich in alcohol և ginic acid (dioxyacetic acid).
+  The waste of wine production is the grape vine, the grape extract, the fermented sauce, including the residues obtained from the refilling of the wine, the wine stones, the chalcedony-sulfidated residue, as well as the owners of the vines, the shoots [1].
+The most powerful biochemical compounds in grapes are polyphenols, which have high biochemical activity and are useful for human health.
+  Phenolic compounds mainly contain secondary metabolites: anthocyanins, flavonoids, stilbene և phenolic acids.
+ Anthocyanins are pigments that are mainly found in the membrane of the grape fruit.
+ Flavonoids are common in grapes, accumulating in seeds և mainly contain (+) catechins և (-) epicatechins.
+    The potential of these biologically active substances is very great.
+They have antioxidant activity և prevent the occurrence or development of a number of diseases [3].
+The aim of this work was to study the biological activity of wine production waste (bark (fruit), rye, twig extracts).
+Object of research և methods (the object of research is the waste of sorghum production).
+ Obtaining the extracts of wine production waste - bark, lord, twig.
+Waste from the production of the examined wine was differentiated and dried under air-drying conditions.
+  300 mg of each of the dried samples was crushed in a glass pan until a powdery mass was obtained.
+ Methyl alcohol (70%) was used as solvent.
+ The solvent was added to the pulverized mass of the wine production waste, homogenized և and transferred to the refrigerator for 24 h at 5-6 C0 [6].
+  Then it was extracted 3-4 times, centrifuged at 5,000 ppm, the combined extract was dried at room temperature.
+  The obtained dry extracts were weighed և transferred to hermetically sealed containers, stored in the refrigerator at 5-6 ° C և used to determine the active ingredients.
+Determination of antioxidant activity by free radical method.
+  The antioxidant activity of the extract was evaluated using 1․1 diphenyl-2-picrylhydrazyl using the DPFH free radical method [5].
+The experimental versions contained 500 μl samples each, respectively, extract with concentrations of 1000, 500, 250 և 125 μg / ml, 375 μl ethanol և 125 μl DPFH 1000 μg / ml alcohol solution (prepared in 96% alcohol).
+  The test version contained 750 μl of ethanol և 125 μl of DPF (negative test).
+ The catechin was used as a positive test.
+  The solutions were incubated for 45 minutes at room temperature.
+ The clamp spectrum of the solutions was measured using a spectrometer (GENESYS 10S UV-Vis, USA) at 517 nm.
+ During the reaction, the purple color of the DPF is gradually replaced by yellow.
+ The anti-radical activity is calculated by the following formula, where Ac is the optical density value of the tester (the optical density value of the DPFF without the test solution) and As is the optical density value of the experimental variants.
+The results are presented at the value of IC50, which is the concentration of the test solution (μg / ml), the optical density of which corresponds to 50% of the optical density of the DFPH solution at 517 nm.
+  That is, this is the concentration of the test substance that neutralizes 50% of the free radicals in the solution.
+Determination of metallic activity.
+ The method is based on ferrosin և between Fe2 + ions և) -5,6-bis (4-phenyl-sulfonic acid) -1,2,4-triazine) can be quantified with Fe2 + to form a reddish complex.
+The course of this reaction is limited by the presence of other debilitating agents, which are reddish in color (ferrosin-Fe2 + complex formation).
+ Color reduction evaluates the competitiveness of the extract with Ferrosine for Fe2 + ions.
+ Antioxidants in plants form complex compounds with metal ions (depleting activity), inhibiting the transport of electrons.
+ Thus, the oxidation reaction stops, և free radicals do not appear.
+The test sample contains 100 μl of extract (10 mg per 1 ml of DMSO).
+(dissolved in dimethyl sulfoxide), 50 μl 2 ml FeCl2 և 200 μl 5 ml ferrosin.
+Leave for incubation for 10 minutes at room temperature.
+ In the positive test, 100 μl of EDTC (ethylenediaminetetraacetic acid) was used instead of the extract, and in the negative test, 100 μl of DMSO was used.
+  The optical absorption of the samples was measured at a wavelength of 562 nm.
+Determination of total flavonoid content by spectroscopy.
+  Using this method, the total amount of flavonoids contained in plant samples can be determined.
+  The method is that AlCl3 interacts with flavonoids to form a yellow complex.
+To build a dimensional curve, a standard 1% (1 mg / ml) ethanol ethane solution was prepared, from which dilutions were made at appropriate concentrations.
+ The experimental version contained 5 ml of ethanol extract at a concentration of 0․4 mg / ml և 5 ml of 2% ethanol solution of AlCl3.
+ The test version contained 5 ml of ethanol extract և 5 ml of ethanol without AlCl3.
+ Store the test solution at room temperature for 10 minutes to incubate.
+  The absorbance of the solution was then measured by spectroscopy at 415 nm.
+Determination of total phenols using the Folin-Cheokaltue reagent.
+  Folin-Cheokalteu reagent is a mixture of phosphovoloframate ոս phosphomolybdate, a light green liquid.
+ Phenols are capable of oxidizing tungsten և molybdate to oxides (WO2, MoO2) in the basic medium.
+ The latter have a blue color.
+  The more saturated the blue color, the more phenols are in the extract.
+ To determine the total amount of phenols, 5 mg of the extract was dissolved in 5 ml of distilled water and stored և5-8 minutes at room temperature.
+ To obtain a test sample, 0.1 ml of Folin-Cheocalteureagent և 1 ml of 7% Na2CO3 solution was added to 0.5 ml of the extract obtained.
+ The resulting solution was made up to 2.5 ml with distilled water.
+  Store the test solution at room temperature for two hours for incubation.
+  The total amount of phenols was determined by the equivalent of egalic acid (GHG).
+ A comparison curve with dilutions was constructed.
+Determination of antibacterial activity by agar diffusion method.
+  The determination of antibacterial activity was made by agar diffusion method [4].
+ Different concentrations of dry extracts have been tested to determine the minimum effect concentrations of solutions.
+  Dimethylsulfoxide was used as the solvent.
+  In petri dishes infected with microorganisms (100 μl nocturnal culture) 20 ml agar-sterile hollow with an 8 mm diameter metal rod was incised, each of which was added with 100 μl of test material և incubated for 22-78 hours (The choice of temperature depends on the nature of the test-microorganism).
+ The test results were assessed by measuring the absence of growth of microorganisms around the pits.
+  Ampicillin (25 μg / ml) was used as a positive control and DMSO as a negative control.
+Strains of gram-positive (Staphylococcus aureus, Bacillus subtilis) and gram-negative (Escherichia coli M17, E. coli dhpα-pUC18) bacteria were used to evaluate the results of the antibacterial activity test [6].
+The value of antibacterial activity is represented by the minimum concentrated concentration of extracts (NHS).
+Research results և their discussion.
+ Grape owner's shoot extracts had low half-inhibitory values ​​(IC50 = 19.8 μg / ml և 28.1 μg / ml) և respectively anti-radical effect (Figure 1, 2).
+k:
+ի:
+d:
+a
+ռ:
+a
+k:
+a
+H:
+Lord's Extract…
+n:
+ի:
+a
+յ:
+Cub…
+l:
+a
+k:
+ի:
+d:
+a
+ռ:
+a
+k:
+a
+H:
+Figure 1. Anti-radical activity of grape owner, twig։ extract.
+Figure 2. Anti-radical activity of grape owner, peel և stem extracts: 1. Catechin (+ checker), 2. Sprout, 3. Tea, 4. Peel, 5. Control (-) The total phenol content in Tea extract was 55.4 ± 1.1, respectively, in the extracts of rye bark 76 76.52 ± 1.2 և 78 ± 1.6 μg GHT / ml (Figure 3).
+The total content of flavonoids in the extracts of ter, spruce bark was 166, 77․4 և 26․3 μg GHT / ml, respectively.
+from (Figure 3).
+Phenol content Flavonoid content
+Lord!
+Sprouts:
+Peel:
+Figure 4. Total content of phenolic flavonoids in grape, bran, bark extracts.
+According to our research, the studied extracts do not affect the ability of iron ions to cleave.
+Of all the Gram-positive and Gram-negative bacteria tested, only Escherichia coli showed some susceptibility to the extracts being studied (Figure 4).
+ In this case, the minimum suppressive concentration was 250 μg / ml.
+Figure 4. Zones formed in the absence of E. coli M17 strain growth by the extraction of extracts from wine waste.
+Thus, the waste of wine production is endowed with biological activity, exhibits antioxidant activity.
+  New experimental data have been obtained, which may contribute to the further study of wine production waste as an alternative source of secondary metabolic products.
+  Due to its valuable properties, wine production waste is a good object for biotechnological research և can be widely used in medicine, cosmetics և food industry.
+LITERATURE of Ten Medicinal Plants Used in Colombian Folkloric Medicine.
+ A Possible Alternative in Gayane Khalatyan, Sairayan Naira BIOLOGICAL ACTIVITY OF WINE PRODUCTION WASTE Keywords: wine production waste, phenols, flavonoids, IC50.

@@ -1,0 +1,95 @@
+The CPI is the only price index used in countries as a substitute for inflation, as 330 ECONOMICS it provides the minimum requirements for inflation - timeliness, greater inclusiveness and sensitivity of the consumer sector.
+  It characterizes the change in the general level of prices and tariffs for goods and services purchased by the population on an annual, quarterly, monthly basis and is one of the most important macroeconomic indicators used by government agencies to formulate and implement monetary and fiscal policy, analyze inflation factors in the economy. forecasting and containment, resolving individual legal disputes, etc. [1]
+  Given the importance of the index and its wide applicability, forecasting its modeling is essential.
+ The article attempts to model the consumer price index on a monthly basis through various econometric and quantitative methods.
+ Research methodology.
+  The research analyzes the results of 2006 in the Republic of Armenia. from January 2019 Consumer price index statistics for December compared to the previous month [11].
+  The information posted on the official website of the RA SC was the information basis for the research.
+  Initially, simple exponential smoothing: Holt-Winters additive, HoltWinters multiplicative, and one-parameter exponential methods are used to model and predict CPI.
+  The Dicky-Fuller root standard is used to check the stationarity of a time series.
+  During the analysis it is necessary to adjust the time series according to the seasonality component, which is done through the 13ARIMA-SEATS seasonality filter.
+ In addition, different models belonging to the class of autoregression (AR), sliding means (MA), autoregressive sliding means (ARMA) and integrated autoregressive sliding means (ARIMA) were built in the study.
+  The criterion F was used to test the significance of the constructed models, and the criterion t was used for individual holes 331 ECONOMICS.
+  Reverse roots were analyzed to test the stability of the model.
+  R 2, and in some cases the Akaike Information Criteria, was used to evaluate effectiveness.
+  The Box-Jenkins approach to selecting the best model was also used based on the significant models produced by the authors.
+ The article presents a number of graphs that show time series values, future forecasts, compare projected and actual values, and show autoregression coefficients.
+  The analysis was performed using the Eviews program.
+ Analysis.
+  CPI values ​​for this period are shown in Figure 1.
+  At first glance, there is a station, but at the same time one can notice the seasonal nature of the series.
+ Figure 1.
+  RA CPI compared to the previous month according to the months 2006-2019.
+  1 These and all other charts and tables are based on the data provided by the authors.
+ 332 ECONOMICS An important statistical tool for determining seasonality is the choreogram, which is presented in Figure 2.
+  The choreogram shows the values ​​of the autocorrelation coefficients for the 36 lags of the CPI time series, and as a result the seasonal nature of the time series is already obvious.
+  It is also noticeable that in case of each subsequent 6th lag the autocorrelation coefficient reaches the maximum, gradually fading.
+  At this stage, the discoveries made through the diagrams are essential, as they will be the basis for building models in the future.
+ Figure 2.
+  Corelogram, built for 36 lags.
+ One of the most important tools for predicting time series is simple methods of exponential smoothing.
+  In this study, three methods of exponential smoothing were used.
+  The first method considered is the one-parameter exponential smoothing (SS) method [6, pp. 637-666], the mathematical formulation of which is given in Equation 1.
+ The second method considered is the Holt-Winters Additive Method (AD), which divides the time series into seasonal (), constant (), and trend () components.
+  The mathematical formulation of the latter is given in the following formulas: 333 ECONOMICS The last method used to predict CPI by exponential smoothing is the Holt-Winters multiplicative method (MT) [8]. The actual Consumer Price Index (CPI) and exponential values ​​predicted in the above methods are given in Figure 3-5, the analysis of which shows that the feedback forecasts obtained through the exponential methods are quite significant, and these methods can also be used for future forecasts.
+ Figure 3. Values ​​predicted by the actual CPI using the one-parameter exponential method (SS).
+ 334 ECONOMICS Figure 4. Values ​​of actual CPI and predictive values ​​using the Holt-Winters Additive Method (AD).
+ Figure 5. Values ​​of actual CPI and predicted by the Holt-Winters multiplicative method (MT).
+ 335 ECONOMICS Through exponential smoothing methods 2020 The CPI forecasts for the first 6 months are presented in Table 1.
+  It should be noted that the first method used is effective only for forecasting one step ahead, so the CPI can only be used to predict 2020. for the month of January.
+ Table 1. Through exponential methods 2020 CPI forecasts for 2020 Prediction Methods January 101.10 102.20 102.19 February NA 99.45 99.45 March NA 99.97 99.97 April NA 100.11 100.11 May NA 99.97 99.96 June NA 98.72 98.72 Auto regression (AR) (AR), smooth intermediate and integrated autoregressive sliding means (ARIMA) class models, which were also used in this study for CPI modeling and forecasting [5, pp. 1-113].
+  To build these models, you must first check the stationary time series.
+  Although the analysis of Figure 1 presented at the beginning of the study showed a steady state at first glance, it is not enough, and the assumption made needs to be verified through a statistical criterion.
+  The Dickey-Fuller standard is usually used for inpatient testing.
+  If we consider the first-order autoregression model, for all the models used in the study, the errors are assumed to have a normal distribution, a fixed standard deviation, and an average of 336 ECONOMICS, then the Dickey-Fuller criterion checks whether the value is equal to 1, in which case the time series will be called non-stationary.
+  As the CPI values ​​fluctuate around the constant, it is necessary to include the constant component in the test, as a result of which the autoregression model is as follows: In this study, the Dicky-Fuller extended test with constant constant was used in this study, which also takes into account time. series autocorrelation [4, pp. 427-431].
+  The following zero and alternative hypotheses are formulated for the inpatient check: 1: the series is non-stationary, 1: the series is stationary.
+ The state calculated as a result of the Dickey-Fuller test is 2.64, which is greater than the critical value of -3.47 at the level of 0.05 significance.
+  The p-value is 0.09, which in turn is greater than the significance level of 0.05, and therefore there are insufficient grounds to refute the null hypothesis.
+  However, the time series can be assumed to be weakly stationary, based on the fact that the zero hypothesis at the significance level of 0.1 is refuted.
+  As the series is weakly stationary, the use of the above models can provide satisfactory results.
+ In addition, as mentioned at the beginning of the study, the time series includes a seasonal component, which may be the reason why the series is non-stationary, and if this hypothesis is confirmed, the use of the above models with the seasonal component can be considered not only permissible but also effective.
+  To test the seasonal component hypothesis, the initial data will be adjusted for the seasonality component using a widely used X13ARIMA-SEATS seasonality filter developed by the United States Census Bureau.
+  And since the presence of the seasonal component was assumed to be the reason for the weak stationary nature of the time series used, after adjusting the data to 337 ECONOMICS according to the season, it is expected that the series will be stationary not only at the level of 0.1 significance.
+  The Dickey-Fuller extended unit root standard criterion was re-used to verify the accuracy of the adjusted data.
+  As a result, even at the level of significance 0.01, the p-value is equal to zero, and therefore the series is stationary.
+  The hypothesis that the reason for non-stationary CPI data is the seasonal component was confirmed by the applied procedure, substantiating the effectiveness of the autoregressive (AR), MA, autoregressive slip (ARMA) and integrated autoregressive slip (ARIMA) predictive modalities and the ARI. .
+ Thus, the presence of a seasonality component was confirmed in the CPI data by various procedures, and from the correogram constructed at the beginning of the study, it can be seen that the highest autocorrelation rates were recorded in each subsequent 6th period.
+  Therefore, it is logical to include the variables with the 6th, 12th, 18th, 24th lanes of the CPI in the models to be built.
+ Based on the above conclusions, constructed autoregression model (AR) [7, pp. 335-399] The mathematical formulation and the model based on the CPI data are given in the following formulas.
+ The criterion F was used to test the significance of the constructed autoregression model, for which the following hypotheses were proposed: 0: the model is not significant, 0: the model is significant.
+ The F state calculated for the verification of the formulated hypotheses was 50.28, and the corresponding p-value was zero, as a result of which the zero hypothesis is rejected at the significance level of 0.05, therefore the model is significant.
+  In addition to checking the general significance of the model, it is also necessary to give 338 ECONOMICS estimates of the significance of individual coefficients.
+ As a result of the t-test used for this purpose, all coefficients were significant.
+  One of the procedures for checking the significance of such models is the evaluation of the stability of the model, which is performed by means of inverse unit roots.
+  A model is considered stable if the inverse unit roots are less than 1.
+  Analysis of inverse unit roots for the constructed model has shown that it is stable.
+  Note also that the coefficient of determination of the model is 0.608, and the adjusted coefficient is 0.596, which proves that 60.8% of the CPI variation is explained by the factors included in the model.
+ The actual CPI values ​​and their residuals are presented in Figure 6, from which it can be seen that the model effectively predicts the CPI values ​​and the residuals are random, which is one of the preconditions for the significance of the model.
+ Figure 6.
+  The values ​​predicted by the actual CPI through the autoregression model and their balances.
+ In addition to the autoregression model considered above, other significant autoregression models were identified during the study.
+ : Model AR1 339 ECONOMICS: model AR2: model AR3 The main statistical estimates of the mentioned models are presented in Table 2.
+ Table 2. Estimates of significant autoregression models for CPI prediction Model p-value of adjusted model F Next, the class of models with sliding means is considered, the general view of which is the model with infinite averages, given below.
+ The model of infinitely sliding averages has no applicable significance, and instead models with limited sliding averages are almost always considered.
+ As a result of the analysis, two significant models with limited sliding averages were extracted: 0.33, model MA1 0.48, model MA2 Table 3.
+  Estimates of significant models with sliding averages for CPI forecasting Model p-value of adjusted F state Although models with sliding averages are less predictive than previously considered models, they are still significant and can be used effectively for short-term CPI forecasting.
+ 340 ECONOMICS At the end of the study, ARIMA class models were observed 3 [3, pp. 130-137], which combine the previously considered autoregression and sliding mean models.
+  Note that ARMA is constructed for stationary series, and the mathematical formulation of the ARMA (p, q) model is given in Equation # 21.
+ As a result of the analysis, the ARMA (4.4) model was derived for the CPI forecast. The same procedures were used to test the significance of the model, as a result of which the calculated value of state F was 24.3 and the corresponding p-value was approximately 0, indicating the significance of the model, and the significance of the coefficients was given by state t, in all cases recording a positive result. .
+  The inverse values ​​of the roots are less than 1, confirming the stability of the model.
+  The ARMA (4.4) model explains 58% of the CPI variation.
+ The Box-Jenkins approach is often used to select the best ARIMA class for data matching [10, pp. 129-143], the logic of which is that from all possible ARIMA class models built on a database, the best one is selected based on any information criteria - Akaike, Schwartz, etc.
+  In this study, the best model was selected by the Box-Jenkins procedure based on the Akaike information criterion, avoiding the recalculation of preliminary data with first-order difference, logarithm, etc.
+  As a result, 100 ARMA (p, q) models were built, of which the best ARMA model based on the Akaike standard is presented below.
+ Model BJ ARMA (23) Note that the overall significance of the BJ ARMA model, the significance of the coefficients and the stability assessment Note that ARMA class models are often considered to be a special case of ARIMA.
+ 341 ECONOMICS The tests used were positive, confirming the applicability of the model.
+  It was in the case of this model that the largest value of -u was recorded - 0.652.
+ In addition to feedback, we will also present 2020. Forecasts for the first four months using the BJ ARMA model.
+ Figure 7. CPI forecast for 2020 using the BJ ARMA model. for the first four months.
+ Conclusions.
+  During the research, 3 methods of exponential smoothing were considered, which can be effectively used to model and forecast the consumer price index by months compared to the previous month.
+ Statistical criteria and procedures revealed that the time series under study contained a strong seasonal component that needed to be included in the models to be built.
+  Based on the above, 8 significant models were introduced in the study: AR, AR1, AR2, AR3, MA1, MA2, ARMA (4,4), BJ ARMA, which can also be effectively used in the Republic of Armenia compared to the previous month by modeling the consumer price index for months. and 342 ECONOMICS for forecasting.
+  Through the mentioned methods and models, CPI forecasts for 2020 were made. for.
+ .

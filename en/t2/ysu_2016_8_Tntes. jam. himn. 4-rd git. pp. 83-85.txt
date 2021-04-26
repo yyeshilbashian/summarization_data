@@ -1,0 +1,15 @@
+Tourism is one of the most dynamic and profitable sectors of the world economy, which is unique not only in individual countries, but also in international economic relations, with its rapid development rates and greater opportunities to acquire foreign currency1.
+  Taking into account the existing links between different economic processes, the article presents the link between the RA GDP եկ revenues from tourism քանի, as being a profitable sector, tourism provides a large profit ունի there is a direct link between tourism և GDP և.
+ Since the application of econometric models makes it possible to find out the real relationship between ևeconomic processes և to predict further development in the given situation, we determine the dependence of GDP (y) x on tourism revenues (x) using the linear regression model. is the model error (the effect of additional factors on the variable y) 2.
+The calculations were made using a linear regression model based on 4 GDP revenues from tourism 3 4, year by year և quarterly (annual data converted to quarterly through Excel ForecastXL_v3.xla5 application), SPSS software package was used.
+Private Limited, New Delhi, 2010, page 255.
+3 GDP according to the system of European accounts (NASE2, according to the methodology of the AAA in 2008), at current prices.
+4 International tourism revenues according to the UN World Tourism Organization.
+5 http:
+//forecasting.somee.com/Download.aspx. Line 1. Quarterly Chart Each pair examined is considered to be the coordinate of a point (xi, yi) in the xy coordinate plane.
+ And the set of those points forms a field of correlation.
+ The dependence of y on x corresponds to some direct correlation field of the plane. The closer the points are to that line, the better the expression of y depends on x.
+Line 2. Annual chart Thus, the correlation between GDP and tourism revenues is as follows. Note that the model is allowable, the coefficient of determination is R2 = 0.482.
+And when we use the same model for annual data, the dependence looks like this: and the coefficient of determination is R2 = 0.687.
+Comparing the annual quarterly dependencies, it is easy to notice that 19,055 are մոտ 18,233 approximate numbers, and 4x405.9 = 1623.6 is approximately equal to 1668.7.
+Shogher Ghazaryan RELATIONSHIP BETWEEN REVENUE FROM GDP AND TOURISM Keywords: GDP, tourism, communication, econometric model.

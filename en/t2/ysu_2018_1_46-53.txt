@@ -1,0 +1,75 @@
+THE NEED FOR INTRODUCTION OF THE CADASTRAL SYSTEM IN THE DEVELOPMENT OF TOURISM The cadastre is a classified collection of data on objects.
+ In order to register, evaluate, manage and effectively use resources in the field of tourism, it is necessary to introduce a system that will ensure the disruptive activity of the sector based on the continuity of this data.
+ The model of such a system is the cadastre of tourism resources.
+The Cadastre of Tourism Resources is a collection of information that includes quantitative and qualitative characteristics of natural and socio-cultural objects and phenomena of tourism [1].
+The key goal of creating a tourism resource cadastre is to identify ways to make more efficient use of tourism resources.
+  To do this, the cadastre must contain data on the complex characteristics of tourism resources, including their detailed registration and classification, qualitative-quantitative assessment of economic efficiency, appropriation analysis and prospects, as well as the most important measures aimed at their preservation.
+The latest technologies and software packages, such as ArcGIS և GPS, are needed to ensure data entry into the system.
+ For on-site data retrieval, it is advisable to use GPS devices that ensure high data accuracy.
+ Processing the resulting data in ArcGIS software environment will create thematic site maps և databases.
+GIS is an automated system with a large number of cartographic-thematic databases, which is connected to models և computational functions to process և convert spatial cartographic information to make various management decisions.
+General purpose GIS usually has five functions with data: 1. Input, 2. Recycling, 3. Control, 4. Survey և analysis, 5. Reflection [3].
+Having a body running this system in the territory of the Republic of Armenia, it is possible to analyze the registered indicators of tourism, as well as to implement efficient use of tourism resources and sustainable management.
+  The body that manages the system can be the Tourism Development Fund, the main purpose of which is to register and evaluate tourism resources, as well as information centers and other organizations that promote tourism development.
+The information collected on tourism resources will provide an opportunity to assess the development trends of tourism and develop a strategy to ensure further progress.
+Relevance of the topic.
+ Tourism resources are the basis for the development of tourism in any area.
+ These resources are formed both under the influence of natural phenomena (natural attractions) and as a result of targeted human activities.
+ In both cases, it is necessary to coordinate them in order to assess the tourism potential of the area and to carry out effective planning of the use of tourism resources.
+No steps have been taken in this direction in the Republic of Armenia yet, due to the imperfection of the normative-legal base and the lack of state-level attention to a number of tourist regions.
+Establishment of GIS Tourism Resources Cadastre of Communities in the Region.
+ The creation of the Tourism Resource Cadastre should be carried out in the following hierarchy: When creating the Tourism Resource Cadastre, data from different sources related to their availability and condition should be used, as well as the assessment of the attractiveness of the tourism resource results obtained through surveys .
+ When creating a cadastre of tourism resources, a number of basic principles should be taken into account: objectivity (data authenticity և substantiation), 2. Continuity of the state (systematic updating of data, clarification and specification), 3. Transparency (in the data system, their formation).
+Assessment of tourism resources, classification of tourism resources. In this way, the creation of a cadastre of tourism resources will enable to identify from a professional point of view the strengths and weaknesses of tourism in the region, developing a development strategy.
+ In order to create a cadastre of tourism resources, it is necessary to solve the following problems: 3. creating a database.
+Evaluation and classification of tourism resources.
+ When assessing tourism resources, the following types can be distinguished from assessment: quantitative assessment of resources, qualitative assessment of resources, analysis of opportunities for the use of resources.
+Quantitative assessment of resources makes it possible to quantify tourism resources, ie to determine their reserves.
+  Qualitative assessment allows to optimize the use of tourism resources, and the assessment of potential use allows to determine the scope of effective use of resources and the economic, social and environmental consequences of resource use [2].
+To create and manage databases, you must first classify tourism resources, which will allow grouping a number of resources with the same characteristics to give the group a set of descriptive data that is unique to that group.
+This process will ensure the efficient entry of data and their subsequent retrieval, as it will be clear what object of a given nature belongs to the group, what data is needed to describe that object and to ensure its future use.
+    This means that the object description data will be common to all objects in that group, և the same information will be collected to complete the database.
+  For example, for hotels, accommodation, all other objects included in this group, the same information will be collected: coordinates, location, geographical location, area, number of guesthouses and free rooms, number of pools, adjoining park, playgrounds, halls, name of owner , the name և etc.
+  According to this, tourism resources can be classified into the following groups: natural resources, man-made resources [4].
+Natural resources are objects of the natural environment և phenomena that arouse the interest of tourists.
+ Anthropogenic or anthropogenic resources are the products of human activity.
+To facilitate database optimization, ie data entry, search այս to facilitate further provision, these two groups can also be divided into categories: Natural Resources: 1. Due to the relief: mountains, ski slopes, gorges, canyons, caves, petroglyphs, beaches, volcanoes, peaks և rock-cutter.
+2. Due to the climate: solar radiation, temperature, rain, snow cover, wind.
+3. Waters: tides and lakes, lakes, mineral waters, karst springs, rivers, waterfalls, glaciers, geysers, swamps.
+4. Vegetation: flowers, trees and forests, herbs, mushrooms and berries.
+5. Fauna: butterflies, fish and amphibians, birds, predators, pets.
+Human resources: 1. Historical results of archeological excavations, fortresses, towers, palaces, monuments, places where battles took place.
+2. Architectural: fountains, bridges, aqueducts, streets, squares, historical fortifications, towers, statues.
+3. Religious: churches, monasteries, tombs.
+4. National: clothes, household items, workshops, farms, national holidays, cuisine.
+5. Cultural-cognitive: museums, exhibitions, galleries, treasuries, universities, scientific centers, libraries.
+6. Amusement parks, water parks, science and technology parks, recreation centers, discos, casinos, nightclubs, bars, cafes, restaurants.
+7. Sports: tournament fields, stadiums, arenas, swimming pools, rowing bases, skating rinks.
+8. Business: malls, fairs, markets, exhibitions, specialized halls.
+Such a classification of resources will allow solving various financial issues related to the use of the given resource.
+Creating a database.
+  Resource evaluation and classification is followed by a database creation and management phase.
+  The database is a spreadsheet attached to ArcGIS software that collects information about each object introduced into the software environment.
+In ArcGIS, the classification of resources is separated by layers, consisting of their typical information.
+ Attached to each layer is a database containing layer-specific information.
+ Thus, for example, the Museum of Historical and Geographical Museum in Ij ։n will collect the following descriptive information specific to the objects belonging to the cultural-cognitive group (Figure 1).
+Figure 1. It can be described in a similar way - all the objects included in the category of both man-made and natural resources.
+  For example, the following information will be collected for the water resources group: Type, coordinates (location), distance from the nearest highway, volume, validity period.
+This is how it is necessary to enter the characteristics of all other tourism resources.
+  Conclusion.
+  In order to register, evaluate, manage and effectively use tourism resources, it is necessary to introduce a cadastral system, which will ensure the coordinated work of this field through data coordination.
+ A number of advantages of investing in the tourism resources cadastre in the field of tourism.
+  This system will ensure the entry of information on tourism resources, processing, control, and the reflection of that data in the implementation of surveys.
+Will determine the mode of use of this or that tourist resource.
+At the state level, it will exercise control over the use of tourism resources in various relations.
+It will give an opportunity to assess the development tendencies of the sphere and to develop a further development strategy on the basis of it.
+Ensure sustainable management of tourism resources և efficient use.
+The use of the latest technologies և software packages will ensure high accuracy of data.
+It will become a precondition for replenishing the state budget, as a tax and duty paid to the state budget for the use of tourism resources.
+LITERATURE [1] Characteristics of tourist resources, URL.
+  www.studopedia.su/9_40279_kadastrturistskih-resursov.html.
+ 22.08.2017). [3] Gohman V., Andrianov V., GIS in the field of information technologies, URL.
+https:
+//www.dataplus.ru/concept_arkgisa/press/friendgis.php (14.08.2017). [4] Cadastre of tourist resources, URL.
+  www.studopedia.org/1-101286.html (датаобращения.
+ 17.09.2017). Mnatsakanyan NECESSITY OF INTRODUCTION OF THE NAR-CADASTRE SYSTEM IN THE PROCESS OF TOURISM DEVELOPMENT Keywords: tourism resources, cadastre, ArcGIS, GPS, database, tourism resource.

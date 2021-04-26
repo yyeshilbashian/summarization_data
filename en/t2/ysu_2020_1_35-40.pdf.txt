@@ -1,0 +1,37 @@
+SEVAN NATIONAL PARK EQUIVALENT-EFFECTIVE TEMPERATURE EXTREME ZONE
+Climate comfort as a combination of components outside the individual components of the climate has a significant impact on the health of the population.
+The assessment of the comfort of human living conditions is carried out in the leading position of the environmental geographical study of the area.
+  Climate impact assessment is an integral part of the integrated characteristics of the natural environment.
+  It involves the study of a specific natural area, determining the relationship between the climatic characteristics and physiological parameters of human organisms, including the effects of temperature, humidity and wind speed.
+Research methodology.
+  In order to organize the recreation in the national park or to separate the recreational zones, it is necessary to define the zones with favorable climate conditions, that is, to calculate the equivalent-effective temperatures according to the high altitude.
+  Equivalent-effective temperature (EPS) is an assessment of a person's sense of heat under the combined influence of air temperature, humidity and wind.
+The evaluation of the EEG according to the upward zoning was carried out in order to find out at what height it is necessary to develop the resort tourism, and at what height it is necessary to exclude it.
+  It is noteworthy that in order to compile the general characteristics of the EEC of the given zone, it is necessary to carry out the calculations for both hot and humid winters, as well as cold and wet winters.
+The heat sensation of a normally dressed չ physically unburdened person is affected by the sum of air temperature (𝑡), relative humidity (𝑓) առավել maximum wind speed (𝑣).
+ It is considered that a person has the same feeling if he is at the same time (𝑡) = 17.7˚С, v = 0 m / s, and f = 100%, (𝑡) = 22․4˚С, v = 0 ․ 5 m / s, and f = 70% or (𝑡) = 25․0˚С, v = 2․5 m / s, and f = 20% [3].
+That is, calculating the EEC of the given zone, it can be found out that the existing climatic treatment conditions in the altitude orbit: EE = 37 -
+where 𝑡 is the temperature, f is the relative humidity, and v is the maximum wind speed.
+And to find out the harshness of the climate in the winter months, we use the following formula: S = (1 - 0.04 t) (1 + 0.272 v) [1].
+Through this formula, the EEC of the National Park was calculated from 1900 meters to 3700 meters altitude for July-January.
+Meter Figure 1EEJ for January-July by upward zoningJanuary
+July
+The thermal sensitivity classification for July will be divided into: EEJ 9-16˚C neutral, EEJ 17-22˚C comfortable, EEJ> 23˚C superheated.
+Table 1․Average daily temperature, relative humidity ավել maximum wind speed for altitudes 1900-3700 m) [2] ElevationsJanuaryJuly𝑣 (m
+/ m) (m / s) Based on the subdivision, the heights of 2700, 2900 և 3100 meters are especially favorable for the development of climatotherapy in July.
+As a rule, the severity of the climate is mainly affected by the wind speed. Even on cold days, the wind speed can compensate for the severity of the weather.
+  The combination of cold air և strong wind lowers the temperature of the human body several times.
+  Moreover, even strong winds can cause frostbite.
+Temperatures that are uncomfortable for a person during the winter months are considered to be below -15˚C, and in case of temperatures below -30˚C, disorders related to սիրregulation of the cardiovascular system begin to develop.
+That is why before developing winter tourism in the territory of Sean National Park in winter, it is necessary to study at what altitude it is expedient to develop winter tourism.
+in particular, to boost the development of skiing.
+Zones MustRefer, Target Map 1 ․ Sean National Park EEZ according to upward zoning For the month of January, the elevation zones were separated according to the following criteria: EEZ 6-12˚C moderate cold, EEJ 0-6 ˚C cold, EEZ -6-0 շատC very cold, EEZ <-24˚C frostbite.
+From the obtained results it becomes clear that in January in all the high altitude zones there are moderately cold-cold temperature conditions, which are quite favorable for the development of skiing.
+Conclusion.
+  As a result of the above solution of the climatic comfort indicators in the territory of Sean National Park, it can be concluded that the altitude zone of 2700 և 2900 m is considered favorable for climatic treatment in summer.
+  In winter, moderately cold climatic conditions were observed in all altitudes (except 3300 և 3500 m).
+In general, the existing conditions in the National Park are favorable not only for the development of climatotherapy (based on equivalent temperature-effective calculations), but also for the development of skiing and winter tourism.
+  Consequently, the development of recreation in the National Park can directly stimulate the development of neighboring settlements (reducing unemployment, strengthening intercultural communication, etc.), contributing to improving the quality of life of the population and reducing the rate of emigration.
+LITERATURE of the regions of Central Siberia. L.
+ Science, 1972, p. 128. Khachatryan SonaSEVAN EQUIVALENT-EFFECTIVE TEMPERATURE OF THE NATIONAL PARK OF THE HIGHLIGHT ZONE Keywords: Sean National Park, climate, temperature, humidity, climate.
+favorable to the population.

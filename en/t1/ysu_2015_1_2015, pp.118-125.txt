@@ -1,0 +1,66 @@
+In recent decades, the targeted synthesis of physiologically active chiral compounds has played an important role in the fields of biotechnology and bio-organic chemistry.
+  Such compounds include non-protein α-amino acids, which are widely used in medicine, medicine, bacteriology, and other sciences.
+It is known that the introduction of non-protein amino acids into the peptide chain of drugs instead of their protein analogues leads to prolongation of drug effects, due to which they are included in the composition of modern anti-tumor, analgesic and other drugs.
+Only optically pure non-protein amino acids are suitable for use in almost all fields.
+ Therefore, the development of effective methods for the asymmetric synthesis of enantiomerically enriched alanine, cysteine ​​and amino acid analogs of various heterocyclics of various heterocyclic radicals, including lateral radicals, is an urgent task.
+ The most promising is the biomimetic asymmetric synthesis, which is the replication of biocatalytic processes in nature using simple models of biocatalysts [2].
+From a technological point of view, biometric methods of asymmetric synthesis are usually available, which provide up to 90% stereoselectivity, which allows to obtain optically pure amino acid with a single recrystallization.
+The literature analysis shows that the best model system for the bio-asymmetric synthesis of β-substituted optically active (S) -α-amino acids is NiII ion flat square complexes (NiII- (S) -BPB-∆-Ala և NiII- (S) -2-CBPB-∆-Ala) composed of chiral reagents based on dehydroalanine Cyclic amino acid proline based on (S) -2 [N- (N'-benzylprolyl) amino] benzophenone ((S) -BPB) և (S) - [N- (N'-2-chloro-benzylprolyl) amino] from benzophenone ((S) -2-CBPB) Schiff bases (Fig. 1) [3-6].
+Figure 1. Schiff base complexes formed by Schiff base of dehydroalanine դ (S) -BPB or (S) -2-CBPB chiral auxiliary reagents with NiII ion. [4, 5].
+According to marketing data, in the field of medicine և pharmaceuticals, especially peptide antibiotics կազմում anti-tumor drugs containing non-protein α-heterocyclic substituent in the β position are of more interest.
+In view of the above, the aim of the work is to use 6-mercapto-3,3-dimethyl-8- (piperidin-1-yl) 3,4-dihydro-1H-pyrano [3,4-c] pyridine using NiII ion complexes. Investigation of the asymmetric coupling reaction of 5-carbonitrile, which will result in the stereoselective synthesis of the corresponding heterocyclic β-substituted (S) -α amino acid.
+Amino acids were used during the work: "Reanal" (Budapest), Ni (NO3) 2x6H2O, K2CO3, CH3CN, CHCl3, CH3COOH, CH3COCH3, CH3OH, HCl, C2H5OH, CH3COOC2H5, "RSH" , nucleophilic agent: 6-mercapto-3,3-dimethyl-8- (piperidin-1-yl) -3,4-dihydro 1H-pyrano [3,4-c] pyridin-5-carbonitrile, synthesized organic, pharmaceutical, NAS RA Head of the Laboratory of the Scientific-Technological Center of Chemistry, Professor A. In the group headed by Noravyan, NiII- (S) -BPB-և-Ala-NiII- (S) -2CBPB-∆ Ala complexes were synthesized in the "Asymmetric Synthesis" laboratory of the YSU Chair of Pharmaceutical Chemistry by previously developed methods [1, 3].
+1H-MMR spectra were extracted on a "Varian Mercury-300VX" (300MHz) spectrometer (Yerevan Molecular Structure Research Center, NAS RA).
+Elemental analysis was performed using CHNS-O elemental analyzer "EuroEA3000" device (Yerevan, "ArmBiotechnology" NAS of NAS RA).
+High-performance liquid chromatography (HPLC, HPLC) was performed using the "Waters Alliance 2695 HPLC System" device (Yerevan, "ArmBiotechnology" NAS of the National Academy of Sciences of the Republic of Armenia).
+The value of optical rotation was measured at YSU Chair of Pharmaceutical Chemistry on "Schmidt + Haesnsch Polartronic H532" spectropolarimeter.
+Melting point was measured at YSU Chair of Pharmaceutical Chemistry with "Melting point Stuart SMP30" device.
+(2) C = C double bond of complexes 6-mercapto-3,3-dimethyl-8- (piperidin-1-yl) -3,4-dihydro 1H-pyrano [3,4-c] pyridin-5-carbonitrile (3) asymmetric coupling: (1) և NiII- (S) -2-CBPB-∆-Ala5 g (0.0098 mol) NiII- (S) -BPB--Ala (1) or 0.0092 mol NiII- (S -2-CBPB--Ala (2) complex was dissolved in 50 ml CH3CN, ման under mixing conditions 4.06 g (0.0294 mol) or 3.81 g (0.0276 mol) K2CO3 և 5.95 g were added. (5x0.0196 mol) or 5.58 g (0.0184 mol) nucleophil: 6-mercapto-3,3-dimethyl-8- (piperidin-1-yl) -3,4-dihydro 1H-pyrano [3,4 -c] pyridine-5-carbonitrile (3) (scheme).
+We carried out the reaction first at room temperature, then at a temperature of up to 500C for 1.5 hours in the case of NiII- (S) -BPB-laAla և 2.5 hours in the case of NiII- (S) -2-CBPB--Ala.
+  The reaction was followed by the NSHK method on SiO2 plates in a system of CH3COOC2H5 / CHCl3 (3/1) solvents, following the disappearance of traces of the dehydroallanin complex (equation of the resulting diastereomer complexes).
+output NiII- (S) -BPB-∆-Ala (1) complex output nucleophilic (3) output NiII- (S) -2CBPB-∆-Ala (2) complexPicture 2. NSH analysis of complexes on SiO2 plate: ethyl acetate / chloroform (3/1) in the system of solvents 1. output NiII- (S) -BPB-∆-Ala (1) complex, 2. NiII- (S) -BPB-∆-Ala (1) complex + sample of reaction mixture (30 minutes after the start of the reaction), 3. Sample of reaction mixture (30 minutes after the start of the reaction), 4. output NiII- (S) -2-CBPB-∆-Ala (2) complex, 5. NiII- (S) -2-CBPB-∆-Ala (2) complex + reaction mixture sample (30 minutes after the start of the reaction), 6. Sample of the reaction mixture (30 minutes after the start of the reaction).
+Scheme 1. (R) -S- [3,3-dimethyl-5-cyano-8- (piperidin-1-yl) -3,4-dihydro 1H-pyrano [3,4-c] pyridin-6-yl] The reaction with cysteine ​​(6) results in a mixture of (S, R) - և (S, S) diastereomers with a large excess of (S, R) diastereomers.
+ After establishing the thermodynamic-kinetic equilibrium between the diastereomers, the reaction mixtures were filtered to get rid of the potash, and the residue was washed with CHCl3.
+The resulting filtrates were subjected to vacuum evaporation before the formation of the vortex.
+  The resulting basic diastereomer complexes (S, R) as well as the non-basic (S, S) diastereomer complex were separated from the mixture of diastereomers by plate-chromatography (SiO2, eluent: CH3COOC2H5 / CH2, CH3 / CH2 / CHCl) examined by physicochemical analysis methods.
+NiII- (S) -BPB- (R) -S- [3,3-dimethyl-5-cyano-8- (piperidin-1-yl) -3,4-dihydro 1H-pyrano [3,4-c] pyridine -6-yl] cysteine ​​((S, R) -4) complex. chemical output: 65%, melting temperature: T melting = 250-251 ° C.
+  Elemental analysis (%) found: C 64.89, H 5.65, N 10.41.
+  Calculated for C44H46N6NiO4S (Mr = 813.63): C 64.95, H 5.70, N 10.33.
+  Specific optical rotation: []
++ 1136.6 ° (c = 0.05; CHCl3).
+  1H-MMR spectrum (CDCl3, δ, ppm, J / Hz): 1.33 (3H, s, CH3), Ar); 8.30 (1H, dd, 8.6, 1.2, H-6 C6H4).
+NiII- (S) -2-CBPB- (R) -S- [3,3-dimethyl-5-cyano-8- (piperidin-1-yl) -3,4 dihydro-1H-pyrano [3,4-c [pyridin-6-yl] cysteine ​​((S, R) -5) complex. chemical output: 71%, melting temperature: T melt = 154 ° C.
+  Elemental analysis (%) found: C 62.26, H 5.29, N 9.97.
+  Calculated for C44H45ClN6NiO4S (Mr = 848.08): C 62.31, H 5.35, N 9.91.
+  Specific optical rotation: []
++ 3166.67 ° (c = 0.05; CHCl3).
+ 1H-MMR spectrum (CDCl3, δ, ppm, J / Hz): 1.33 (3H, s, CH3), Ar).
+NiII- (S) -BPB- (S) -S- [3,3-dimethyl-5-cyano-8- (piperidin-1-yl) -3,4-dihydrochloride []
+1H-Pirano [3,4-c] pyridin-6-yl] cysteine ​​((S, S) -4) complex. specific gravity = -744.19 ° (c = 0.043; CHCl3).
+ 1H-MMR spectrum (CDCl3, δ, ppm, J / Hz): all proton signals in the spectrum և The signal integrals are the same as the (S, R) -4 diastereomer complex, which in turn is the (S, S) -4 diastereomer complex about the authenticity of the structure.
+The absolute configuration of the amino acid fragment of the synthesized major diastereomer complexes was determined by the value of the optical rotation value at 589 nm.
+ In the past, complex optical rotation (optical dispersion curves (S) -BPB և (S) -2-CBPB chiral reagents have been shown to show that the amino acid-containing complex containing an absolute configuration L is positive and the relative d Amino acid-containing complex - negative.
+ At the value of the synthesized small Rf, the main (S, R) -4 (or L, L-4) և (S, R) -5 (or L, L-5) diastereomer complexes showed a positive value of specific optical rotation, which indicates is about their (S, R) absolute (or L, L-) configuration.
+In the disconnected non-major, high value of Rf (S, S) -4 (or L, D-4) diastereomer complex, a negative value of specific optical rotation was recorded, which indicates its (S, S) - absolute (or L , D-) con figuration.
+The ratio of diastereomer complexes was determined by chiral HPLC analysis, the data are presented in the table.
+Table 1. Asymmetric Connections of Nucleophil 3 to Dehydroalanine Complexes (1, 2) in CH3CN / K2CO3 Environments, T = 50-55 0C Stem Complex with Basic Basic Complex Reactions (hours) Chemicals B According to the data in the table, the asymmetric coupling reaction of the nucleophile proceeds more slowly in the case of the dehydroallanin modified complex (2), but with higher stereoselectivity and higher chemical output than in the case of the unmodified complex (1).
+(S, S) -4 and (S, R) -5 և (S, R) -4 քDecomposition of synthesized (S, S) -5 diastereomer complexes եր (R) -S- [3,3-dimethyl-5-cyano Separation of the amino acid -8- (piperidin-1-yl) 3,4-dihydro-1H-pyrano [3,4-c] pyridin-6-yl] cysteine. Separation of the target amino acid was performed by a previously developed standard method [4].
+  A mixture of Argasic (S, R) -4 և (S, S) -4 (or (S, R) -5 և (S, S) -5 diastereomeric complexes was dissolved in 50 mL CH3OH.
+ Heat to և5 ° C 50 50 ml of aqueous 6N hydrochloric acid solution (scheme).
+After the disappearance of the red color characteristic of the complex, which indicates decomposition, the solution was evaporated in a vacuum.
+  100 ml of water was added to the dry residue to filter the starting chiral reagent: (S) -BPBxHCl (or (S) -2-CBPBxHCl).
+  The water filtrate was additionally extracted with chloroform (3 x 30 ml) to completely remove traces of chiral reagent.
+  The formation of target amino acid (6) white crystals was observed in the aqueous medium, which were separated by filtration.
+  The target optically active amino acid (6) was crystallized from 96% C2H5OH.
+A chemically ք optically pure heterocyclic β-substituted α amino acid was obtained: (R) -S- [3,3-dimethyl-5-cyano-8- (piperidin-1-yl) -3,4-dihydro-1H-pyrano [3,4 -c] pyridin-6-yl] cysteine ​​amino acid (6) with 71.3% chemical yield (2.73 g) և ee with 96.48% enantiomeric purity.
+The enantiomeric purity of the synthesized amino acid was determined by chiral analysis (HPLC), and its structure and absolute configuration were clarified by physicochemical analysis.
+It should be noted that the synthesized heterocyclic β substituted non-protein α amino acid (R) -S- [3,3-dimethyl-5-cyano-8- (piperidin-1-yl) -3,4-dihydro-1H-pyrano [3, The amino acid 4-c] pyridin-6-yl] cysteine ​​(6), not described in the literature as a known compound, was first synthesized.
+Spectral analysis of (R) -S- [3,3-dimethyl-5-cyano-8-morpholine-3,4-dihydro-1H-pyrano [3,4-c] pyridin-6-yl] cysteine ​​(6) amino acid data: chemical output: 71.3%, melting point: T melt = 169 0C.
+ Elemental analysis (%) found: C 58.44, H 6.71, N 14.35.
+  Calculated for C19H26N4O3S (Mr = 390.5): C 58.46, H 6.67, N 14.36.
+  Specific optical rotation: [] = +17.3 0 (c = 1; 6N HCl).
+  1H-MMR spectrum (DMSO / CCl4 1/3 + TFA, ∆, ppm, J / Hz): 1.27 (s, 4.1), 4.12 (dd, 1H, NH2CH, 8.4, 4.1), 4.42 (d, 1H, OCH2 , 15.6), 4.44 (d, 1H, OCH2, 15.6).
+Literature 1. Saghyan A., Geolchanyan A., Belokon Yu., Method for obtaining Ni (II) chiral complex of Schiff base ion of the dehydroalanine և (S) -2-N- (N'-benzylprolyl) aminabenzophenone, RA Patent № 1257 A2, 2003.
+acids, Tetrahedron.
+ Asymmetry, 2004, vol.15, pp. 705-711. glycine and alanine for efficient asymmetric synthesis of β-amino acids, Tetrahedron.
+Gayane Vardanyan (R) -S - [3,3-DIMETHYL-5-CIANO-8- (PIPERIDIN-1-IL) -3,4-DIHYDRO-1H-PYRANO [3,4-c] PIRIDIN-6-IL ] ASYMMETRIC SYNTHESIS OF CYSTEIN AMINIC acid Keywords: non-protein α-amino acid, asymmetric synthesis, cysteine ​​derivative, NiII ion complex, chiral auxiliary reagent.

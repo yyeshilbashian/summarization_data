@@ -1,0 +1,141 @@
+YSU SSS publications website: www.ssspub.ysu.am. Sahakyan MayramikYSU, Faculty of Biology, Master student Scientific Supervisor: PhD, Assoc. Poladyan El ․ E - mail: mayramik.sahakyanysumail.amESCHERICHIA COLI BACTERIA MOLECULAR WATER PRODUCTION AND FOF1 EFAZ FROM PROTON STRUCTURE FROM GLUCOSITER TO VARIOUS DIFFERENCE
+ It can play an important role in the energy technology of the future.
+ The use of Escherichia coli bacteria in mixed fermentation is a new approach in the biotechnology of molecular hydrogen (H2) production, offering efficient hydrogen production from renewable sources.
+Molecular hydrogen (H2), as an alternative և renewable source of fuel, is of great interest because it emits up to 142 kJ / generation [1], just as it is an environmentally friendly fuel, as its combustion releases water.
+  During oxygen fermentation (when there is no external electron receptor), E. coli produces mixed carbon fermentation using glucose as an external energy source of carbon.
+  As a final product, formic acid, succinic acid, acetic acid and ethanol are produced [2, 3].
+Special enzymes are involved in hydrogen metabolism - hydrogenases (Hyd), which are responsible for the production of hydrogen, on the contrary, for oxidation.
+ Four [Ni-Fe] (1-4) Hides have been found in E. coli, which are synthesized under different physiological conditions and encoded by the operators hya, hyb, hyc, and hyf, respectively [4, 5, 2].
+ Hydrogenases are enzymes involved in ion transport by bacterial membranes that can interact with the proton FoF1 AEFase [6, 2, 3].
+  In the E. coli bacterial membrane, there is a vital H + / K + pump for bacteria, consisting of proton transporter FOF1 AEPH և potassium ion transporter TrkA system.
+ It has been shown that formic acid hydrogen lyase complex participates in the transfer of energy inside the pump, providing redox equivalents [7, 6, 2].
+The activity of HID depends on the environmental conditions, from the substrate to its concentration, pH, redox, redox potential.
+  In E. coli, there is evidence that the Hid-3 enzyme is primarily responsible for the production of H2 by E. coli; it is active at low pH values, while Hid-4 is in neutral և weakly ground conditions.
+  It has also been shown that glucose has a suppressive effect on hyf gene expression.
+  However, the mechanism of the suppressive effect of glucose on Hid-4 is not yet clear.
+  Hid-4 has subunits that can transport protons through the membrane.
+  This assumption, Sky, still needs to be proven.
+Glucose levels in the E. coli bacterium have been shown to affect Hid-4 activity by altering the interaction of the proton FoF1 with AEPH.
+JRG3621 (hyfB-R) mutant strainResearch objects և methods.
+  The natural isogenic strain of E. coli facultative anaerobic gram-negative bacterium BW25113 was used for the studies և [6].
+Bacteria were grown under anaerobic conditions with a medium / test volume ratio of 1.
+1․25.
+ Oxygen from the liquid medium, nitrogen, was previously removed by steam removal in tubes sealed with rubber stoppers.
+  The bacteria were grown for 18-22 hours in a Wise Cube 32 thermostat at 37 ° C [9, 6].
+ Bacteria were grown in liquid media containing 20 g / l peptone, 15 g / l K2HPO4, 1.08 g / l KH2PO4, 5 g / l NaCl (pH7.5) or 20 g / l peptone, 1.08 g / l K2HP O4.15 g / l KH2PO4, 5 g / l NaCl (pH5.5).
+Bacteria were isolated from the medium at 5000-6000 rpm for 10 minutes by centrifugation (R g tina 420 R or PC-6).
+ The resulting residue was washed twice with distilled water and centrifuged again under the same conditions.
+ The 0.5 ml volume of bacteria was then transferred to 4.5 ml of experimental solution containing 200 mM trisaminomethane, 1 mM NaCl և KCl, 0.4 mM MgSO 4 [9, 6].
+The redox potential was determined with an accuracy of 0.1 mV: I-160MP type potentiometer (Gomel electrometer plant, Gomel, Belarus) , Gomel, Belarus).
+ The lack of Ti-Si glass electrode sensitivity to molecular hydrogen, as well as its ability to catalyze oxidative reactions, determines the advantage of these electrodes over the platinum (Pt) electrode [9, 6].
+  Due to this feature, the oxidation-restoring state of bacterial suspension can be measured with the help of Ti-Si electrode.
+ The Pt electrode is sensitive to oxygen։ hydrogen.
+ Consequently, under no circumstances, this electrode registers only the amount of molecular hydrogen (H2).
+In fact, the sharp decline in OVP to negative values ​​indicates an increase in the amount of hydrogen in the environment.
+The transport of ions through bacterial membranes was studied using an epothenometric method based on changes in their activity in the environment.
+  This method is based on the electromotive amplification of a galvanic cell composed of relative cation-selective electrodes.
+ The method allows to determine even the smallest changes in the flow of ions, as the surface / volume ratio of bacteria is quite large (10-4 cm -1).
+ The cation-selective electrodes used to determine the activity of H + և K + in the environment were prepared at the Institute of Chemistry of the St. Petersburg State University (St. Petersburg, Russia).
+  The chloride-silver electrode (Gomel Electrometer Factory, Gomel, Belarus) made of 3 M KCl was used as a comparative electrode.
+ The cation-selective electrodes were placed in a thermostatic chamber (37 0C) relative to the general electrode.
+The instructions for the electrodes were determined using an ionometer, and the data were recorded using a Labvuw computer program.
+Research results և their discussion.
+  Study of bacterial growth at 0.2 և 0.8% glucose fermentation և pH values ​​5.5 և 7.5.
+  It is known that the redox potential of bacterial growth medium (BPH) as a physicochemical factor is important for the bioactivity of bacteria.
+Anaerobic growing environments (both rich in organic matter and low in carbon with a unique carbon source) have positive OVP values.
+  Such a value of OVP may be due to the presence of dissolved oxygen or a certain amount of different oxidants.
+ The growth of the culture, that is, the multiplication of bacteria in your environment, takes place at a high rate և is conditioned by the decline of OVP (negative from positive values).
+  The decline in OVP indicates the intensification of recovery processes.
+  That is, bacteria grow under anaerobic conditions at negative OVP values ​​of the environment, when at the same time a decrease in pH from basic to acidic is observed.
+Such a result shows the correlation of OVP with the pH of the environment.
+ The study of glucose fermentation of E.coli bacterium has been performed many times under different conditions of oxygen-free, acid-base pH.
+To perform this experiment, at a temperature of 37 ° C for 17 hours, 3 ml of bacterial suspension (making up 2% of the study medium) was taken from the overnight medium of bacteria grown in 0.2 և 0.8% glucose և transferred to a 150 ml pre-disinfected peptone growth medium.
+ Since, as already mentioned, the pH value of the medium is a necessary condition for fermentation, the growth of these samples was observed under conditions of two different pH values.
+Bacterial growth was observed within 24 hours in four samples, two of which were wild-type E. coli BW25113 cultures grown at 0.2% և 0.8% glucose, respectively, and the other two were E. coli JRG3621 (hyfB-R). are cultures of the defective mutant strain, also grown at 0.2 և 0.8% glucose concentrations.
+ These samples were grown in a thermostat at a temperature of 37 0C.
+ Bacterial suspension was removed from the samples every hour, OVP, pH և optical density values ​​were determined.
+ Another measurement was performed at the 24th hour.
+As can be seen from Figure 4 և 5, during the increments the readings of the two electrodes (Pt և Ti-Si) decrease from positive to negative values. In the conditions of fermentation of col 0.2 և 0.8% glucose concentrations of և 0.2 և 0.8% bacteria of E. coli BW25113 bacteria, the Pt electrode indication reaches և -400 mV from the 3rd hour of growth under the acid and basic values ​​of pH.
+ This indicates the production of molecular hydrogen (Figure 2).
+1 - BW25113 WT, imported 0.2% glucose, pH 7.52 - BW 25113, WT, imported 0.8% glucose, pH 7.53 - BW 25113, WT, imported 0.2% glucose, pH 5.54 - BW 25113, W8, imported % glucose, pH 5.55 - hyfB-R, MS, imported 0.2% glucose, pH 7.5 6 - hyfB-R, MS, imported 0.8% glucose, pH 7.5 7 - hyfB-R, MS, imported 0.2% glucose pH 5.5 8 - hyfB-R, MSH, imported with 0.8% glucose, pH 5.5 OH
+Figure 1. E.coli BW 25113 wild-type (WT) f hyfB-R mutant strains at increasing glucose content at 24 h at 0.2 և 0.8% glucose concentrations at 5.5 և 7.5 at ambient acid pH.
+It should be noted that high glucose concentrations do not have a stimulating effect on H2 production.
+ At the same time, acidification of the environment is observed. An increase in optical density is observed.
+ Note that the high glucose levels had a 1.3 և 1.2-fold increase in wild-type E. coli BW25113 bacteria at pH 7.5 և pH 5.5, respectively (Figure 1).
+The picture is different in the case of E. coli hyfB-R mutant with HID-4 violation.
+As can be seen from Figure 3 (here in all samples observed for OVP decline), the Pt electrode reading in the sliding phase does not reach -400 mV.
+This indicates the absence of molecular hydrogen production, although after 24 hours the production of H2 is observed under the conditions of և´ 0.2, 0.8% glucose fermentation,, acidic, և´ basic pH.
+Figure 2․E. coli BW 25113 strain glucose at O5, change kinetics of OVP at 5.5 և 7.5 at registered pt (Pt) electrode և titanium-silicate electrode (Ti-Si).
+ The curves of glucose (C) 0.2 և 0.8% samples are presented.
+V:
+m:
+Q:
+V:
+Oh:
+Time, hours
+0.2% C:
+C:
+C:
+C:
+Picture 3 ․ E. coli hyfB-R mutant strain glucose on oxygen at the time of pH values ​​of 5.5 և 7.5 at platinum (Pt) electrode with titanium-silicate electrode (Ti-Si).
+ The curves of glucose (C) 0.2 և 0.8% samples are presented.
+Moreover, if we compare the results of the optical densities (OX) of the wild-type և hyfB-R mutant strain grown under the same conditions, we can see that the growth of the hyfB-R strain is approximately 1.3 times higher than that of the wild-type strain.
+ This suggests that Hid-4 may play a role in bacterial growth.
+  However, this mutant is found in bacterial asbestos with high glucose fermentation at 0.8%.
+Study of ion fluxes in the membrane of E. coli batteries under the fermentation of different amounts of glucose. The study investigated E. coli BW2513 և hyfB-R Hid-4 mutant H + fluxes by potentiometric method (see Methods).
+  Bacteria were grown under the fermentation of 0.2 և 0.8% glucose.
+  A mass of bacteria was obtained, which was introduced into an experimental medium.
+  Then 0.2 or 0.8% glucose was introduced.
+  Acidification of the medium (H + emission) and absorption of K + was immediately observed (Figure 4).
+  Proton emission kinetics were recorded, ion flux velocities were calculated (Table 2).
+Parallel experiments were performed in the presence of FOF1 AEFA inhibitor DCs.
+  It was shown that the H + streams were DSCD-sensitive. At a concentration of 0․5 mmHg in the DCH, the H + flux was inhibited 1.6 times (Figure 4, Table 1).
+ The result assumes its effect on FoF1 AEFA activity.
+ When the bacteria were grown under 0.2% glucose, 2 0.2% glucose was introduced, the proton release rate was 4.5 mmol / min, and the FoF1 AEP phase flow was 1.6 mmol / min.
+ The introduction of 0.8% glucose 1.1 increases the rate of proton excretion.
+ When the bacteria were grown under 0.8% glucose fermentation, the experimental medium introduced 0.2 և 0.8% glucose with a proton 1.1-fold increase in expiratory velocity compared to the bacteria grown in 0.2% glucose (Table 1).
+Table 1. E. coli BW2513 և hyfB-R mutant 0.2 և 0.8% glucose under fermentation under pH 7.5 Experimental conditions Wild type grown in 0.2% glucose Wild type grown in 0.8% glucose
+0.2% glucose
+0.8% glucose
+0.2% glucose
+0.8% glucose
+0.2% glucose
+0.8% glucose
+H + flows (mm / min) b
+General DSC-sensory
+Conditions a are the same as those described in the method. FoF1 AEF phase proton emission flow is 1.6 times higher than that of wild-type data.
+DG:
+M:
+m:
+Time, r
+m:
+ւ:
+o:
+t:
+e:
+n:
+a
+t:
+r:
+a
+r:
+M:
+m:
+Picture 4 ․ Kinetics of proton-potassium metabolism in E. coli BW25113 bacteria during fermentation of 0.2% glucose at 7.5 pH.
+There is evidence that the presence of glucose in the low buffer medium suppresses the expression of hyf operon genes.
+  The work of Andrews և and his colleagues has shown that the activator of the hyf opera has an effect on the genes of the hyf, but not the hyc opera.
+  Hid-3 has been shown to be primarily responsible for hydrogen production at low pH values.
+ Mnatsakanyan և Others have shown that the addition of formic acid to the pH value of 7.5 activates the hyc operon;
+  This adds to the above data, where the glucose concentration was 0.8% (more formic acid may be produced by activating the hyc operon).
+As noted, Hid-4 can interact with FoF1 AEF by providing regenerative equivalents for energy transport.
+  Indicates that under conditions of limited glucose production, Hid-4 undergoes hydrogen production during fermentation.
+Thus, the results indicate the potential of Heid 4 for bacterial growth, suggesting that glucose levels և ambient pH may be significant for Heid-4 Հ FoF1 AEPhase interaction.
+LITERATURE Nature (2012); 488, pp. 294–303, DOI.
+ 10.1038 / nature11475.Microbial Dark and Photo-Fermentations.
+  Novel Data and Future Approaches, RenewProducing Reactions in Escherichia coli, J Bacteriol (2015), 197, pp. 296–306. DOI.
+DOI.
+ 10.1128 / ecosalplus.ESP-0011-2016.39, pp. 16914–18, DOI.
+ 10.1016 / j.renene.2015.04.052.Fermentation in Bacteria and Its Energetics, In.
+ Trchounian A (ed) Bacterial Membranes.CurrMicrobiol (2002), 45, pp. 281-6, DOI.
+ 10.1007 / s00284-002-3764-z.MicrobiolLett (2013), 348, pp. 143-8, DOI.
+ 10.1111 / 1574-6968.12281. Sahakyan Mayramik Escherichia coli MOLECULAR WATER PRODUCTION IN BACTERIA AND PROTON FLOW WITH FoF1 EFAZ GLUCOSITORATE QUANTITIES: CONDITIONS OF FERTILIZATION

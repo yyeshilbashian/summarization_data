@@ -1,0 +1,179 @@
+FEATURES OF LEGISLATIVE SETTLEMENT OF TYPES OF ACCOMPLICES The commission of a crime is possible both by a single person and by the joint efforts of more than one person.
+ In the latter case, when at the same time there are a number of additional circumstances to be discussed below, the institution of complicity arises.
+The institute of complicity is considered to be one of the most complex, interesting, controversial institutions of criminal law, which at the same time causes difficulties in practice.
+The establishment and development of the so-called separate institution of criminal law started from the early past.
+ Until recently, he took into account the fact that the crime could be committed not by one, but by two or more persons.
+  The fight against group crime has gained its urgency since the moment it was announced. The biblical commandment "Do not follow the majority of the wicked", which, becoming a unique prohibition against committing "evil" by joint efforts, received its further development in the legislative acts of the time of all nations1.
+In the RA Criminal Code, the institute of complicity is presented in Chapter 7 (Articles 37-41).
+ Legislative regulation of crime begins by defining the concept of that institution.
+  Thus, according to Article 37 of the Criminal Code, intentional joint participation of two or more persons in an intentional crime is considered a crime.
+ Being a special form of crime, complicity is characterized by objective-subjective features.
+ Objective features.1. Involvement of two or more persons in the crime, 2. combination of criminal activities, 3. causal connection.
+1 See Ivanov N. G., Paradoxes of the Rational Law // State and Law, 1998, №3, page 54.
+The participation of two or more persons in one crime means that two and a half more natural persons are involved in the commission of the crime, who are sane and have reached the age defined by the Emerald law.
+  Moreover, these persons participate in the same crime either as accomplices, or one as an executor, and the others as organizers, instigators or supporters.
+It follows from the above that complicity is absent in cases when a person involves a person not subject to criminal liability in the performance of an act provided by criminal law.
+  In this case, the person involved is considered as a perpetrator, and the person not subject to criminal liability is considered as an instrument of crime.
+For example, S., promising to give toys to a 10-year-old minor, persuades him to secretly steal his parents' jewelry. In this case, S. is considered a perpetrator, and the juvenile is an instrument of a crime.
+ That is, a person can participate in the crime as an accomplice only in the case when he is a subject of the crime (here we are talking about a general subject).
+ However, we consider it necessary to address this issue in more detail.
+The opinion was also expressed in the legal literature that according to the existing regulations in the RA Criminal Code, a case should be considered a crime when a sane natural person of legal age commits a crime with a minor under criminal age.
+  According to the supporters of this point of view, the RA Criminal Code does not envisage an age at which only a person can commit a crime.
+  According to Article 3 of the RA Criminal Code, "the only basis for criminal liability is a crime, that is, committing an act that contains all the features of a crime."
+  And the law does not explain the concept of "crime" anywhere.
+ According to Part 1 of Article 18 of the RA Criminal Code, "a crime is considered an act committed with guilt, dangerous for the society, which is envisaged in this Code", here also no word is said about the subject of the crime.
+As for Article 24, according to part 1 of that article, "a person whose sixteen years have passed before committing a crime is subject to criminal liability."
+ Here, as it seems, the legislator determines not the age of the subject of the crime, but the age of the subject subject to criminal responsibility.
+ For example, a ten-year-old person commits a crime dangerous for the society, which is envisaged in the Criminal Code.
+ He commits an act which, according to Article 18, is considered a crime, but by virtue of Article 24 is simply not subject to criminal liability.
+  It follows from the above that the law does not provide for such an age limit, below which a person cannot be considered a perpetrator of a crime.
+  This leaves its legal consequence.
+ It turns out that when the crime is committed by two persons, even if one of them has not reached the age defined by the criminal law, there is a complicity.
+  For example, 16-year-olds և 12-year-olds, by prior arrangement, commit theft of someone else's property.
+  Here, a person who has reached the age of 16 must be prosecuted for theft committed by a group of persons with prior consent (Article 177, Part 2, Clause 1 of the RA Criminal Code), and a 12-year-old person will not be prosecuted under Article 24 of the Criminal Code. by force 2.
+However, in our opinion, such an assertion is not so well-founded.
+Thus, as it is known from the theory of criminal law, the corpus delicti is called a combination of the features of a publicly dangerous act defined by the criminal law.
+  In fact, the corpus delicti is the egg of the legal existence of the crime!
+ In order to prosecute a person who has committed a publicly dangerous act, it is necessary to certify that the act committed by him has all the features of a criminal act envisaged (object, objective party, subject, subjective party).
+ Only in that case can it be said that the person has committed a crime.
+This is evidenced by the first part of Article 35 of the RA Criminal Procedure Code, according to which no criminal case can be initiated, no criminal prosecution can be carried out, and the criminal case is subject to termination if there is no corpus delicti in the act.
+ It turns out that in the above-mentioned example we can not qualify the juvenile act as a crime, therefore there is no complicity.
+The RA Court of Cassation also expressed a legal position on this issue.
+  In particular, in one of its precedent-setting legal positions, the Court of Cassation stated that the first objective feature of complicity, the commission of a crime by two or more persons, is expressed in the fact that the crime must be committed by a crime. Sahakyan, Crime, "VAN BLOOD", Yerevan, 2005, page 6.
+two or more persons who are the subject.
+ The accomplices may be sane individuals of legal age.
+ Conviction requires the presence of at least two persons endowed with all the features of the subject of the crime3.
+In order to put an end to such dissenting comments and misunderstandings, we propose to formulate Article 37 of the Criminal Code as follows: "Deliberate joint participation of two or more subjects of a crime in a deliberate crime is considered a crime" 4.
+As we have mentioned, the participation of two or more persons in one crime means that two or more natural persons who are sane and have reached the age defined by the criminal law participate in the commission of a crime.
+ That is, in cases when a person involves a person who has not reached the age of insanity or criminal responsibility, but does not realize that fact, thinking that he is committing a crime with a person who is the subject of a crime, there is no complicity.
+  It turns out that the actions of accomplices to commit the crime together do not succeed in circumstances beyond their control, so there is an unsuccessful complicity ները accomplices must be responsible for the preparation of the crime.
+  According to the provisions of the current Code, in such a case, the accomplices should be held accountable for the preparation of the crime even if the criminal intent has been carried out.
+ For example, A. incites S. to kill D. without knowing that S. is insane.
+  As a result, in case the criminal intent is carried out, S. will not be held responsible, and A. will be responsible only for the preparation of the crime.
+  The term of imprisonment for preparation of a crime may not exceed half of the maximum term of imprisonment for a certain period of time under the relevant article or part of a special part of the Criminal Code (Criminal Code, Article 65, Part 2).
+ Meanwhile, if S.3 See the decision of the RA Court of Cassation in the criminal case No. VB-48/08 of July 25, 2008, the Court of Cassation also expressed a similar legal position in the criminal case No. EED / 0125/01/09 of December 23, 2010. In the decisions of the criminal case No. TD / 0053/01/12 of April 18, 2013, in the criminal case No. EAKD / 0174/01/11 of December 5, 2012.
+4 The concept of "crime" is defined in this way, for example, in the Criminal Code of Ukraine (see Criminal Code of Ukraine, www.legislationline.org).
+If A. had been the subject of a crime, A.'s action would have been qualified as incitement to murder, he would have been held accountable within the framework of the sanction provided for the murder.
+ In our opinion, such a regulation is not fair, so we propose to supplement Part 5 of Article 39 of the Criminal Code with the following provision: "In the cases of unsuccessful complicity, when the accomplices did not realize the fact that the perpetrator is not a subject of the crime, for the preparation of a crime subject to responsibility.
+  In this case, if their criminal intent has been realized, then they will be punished according to the rules of punishment for the completed crime. ”
+ In our opinion, such a settlement will be fair, will allow avoiding unnecessary mitigation of responsibility.
+Two or more persons may participate in the commission of a crime in two ways: as accomplices or one as the perpetrator and the other (others) as the organizer, instigator or facilitator.
+However, the third so-called mixed method is possible, when a person participates in the commission of a crime "as an accomplice", as an organizer, instigator or supporter.
+  For example, citizen A., through threat, incites citizen B. to participate with him in the secret theft of a car belonging to citizen G., organizing the whole crime, obtaining the keys to the victim's garage in advance.
+ In this case, citizen A. acts at the same time "as a performer," as a motivator, "as an organizer," as a supporter.
+ It is another thing that when prosecuting him, no reference is made to Article 38 (Article 39 2 2).
+The participation of two or more persons in a crime cannot be considered a crime if there is no combination of participation, which is the next feature of the objective side of the crime.
+The combination of criminal activity is expressed in the fact that the crime is committed by the interconnected "interrelated actions (inaction) of the participants, secondly, the criminal result is common for all accomplices, that is, everyone sought it; uni-causal connection.
+The third objective feature of cohabitation is the causal connection.
+The reason is a philosophical category, a phenomenon that creates the necessary bar as another phenomenon considered backwards, preceding the latter.
+In a criminal sense, the causal link is an objective dependence on the existence of a publicly envisaged act envisaged by the criminal law, according to which the act is the result of the act and is conditioned by its existence.
+As we have already said, the crime also has its subjective features: 1. intentionality in connection with the combination, 2. intentional in connection with a crime.
+The RA Criminal Code distinguishes four types of accomplices.
+ According to the first part of Article 38, the organizer, instigator and supporter are considered accomplices together with the executor.
+ They differ from each other in the nature of their participation in the crime.
+According to Part 2 of Article 38 of the Criminal Code of the Republic of Armenia, “the perpetrator is a person who has directly committed the crime directly participated in the execution of the crime together with other persons (accomplices), as he committed the crime through the use of other persons are not subject to criminal liability by force or have committed the crime through negligence. ”
+From the definition of Part 2 of Article 38 of the RA Criminal Code, it is evident that the perpetrator is first of all the person who directly committed the crime, ie the one who, without any mediation, carries out the objective side of the crime envisaged in the special part of the Criminal Code.
+ Moreover, this is the most common type of performer.
+The second type of perpetrator is the direct participation of a person in the commission of a given crime together with other persons (accomplices).
+  If the perpetrators are two or more persons, such a crime is called complicity.
+  Moreover, each of the participants in the crime must commit the objective side of the crime.
+ However, each of the accomplices can commit a part of the objective side of the crime.
+ That is, the perpetrator should be considered the person who helps the other perpetrator (co-perpetrator) during the crime to successfully complete the crime5.
+5 See RA Criminal Law, General Part, textbook for universities, YSU Publishing House, Yerevan, 2012, p. 267.
+For the sake of cooperation, the combination of the actions of the accomplices can be emphasized.
+ In the case of crimes with material crimes, the combination is conditioned by the fact that the actions of the accomplices are coordinated, a publicly dangerous one - it is common to all, it is causally related to the action of each of the accomplices.
+  In the case of juvenile delinquency, the combination is reflected in the concurrence of the accomplices' actions6.
+We believe that complicity exists even when the person considered to be the subject of the crime commits the crime partially or completely with a person who participates in the given crime through a mediated horse.
+  In this situation, the mediators are the accomplices, the person who committed the crime with the person being the instrument.
+  In other words, a person can be considered a co-perpetrator of a crime not only when he / she directly participated in the commission of the crime together with other persons, but also when he / she used persons who are not subject to criminal liability by law.
+  For example, A. uses 13-year-old B., pushing him to secretly steal the property of his partner G.
+ In this case, A. acts as an accomplice to the theft.
+However, the definition of an executor in the criminal code shows that the actions of two or more persons can be qualified as complicity only if they are directly involved in the commission of the crime.
+  Thus, according to Part 2 of Article 38 of the Criminal Code, "the perpetrator is a person who (,.) Directly participated in the commission of that (crime) together with other persons (accomplices)."
+  In this case, it turns out that if the person mediates the crime, he can not be considered a co-perpetrator.
+ Therefore, we suggest replacing the phrase "directly participate in the commission of a crime" in the law with the phrase "participate in the commission of a crime."
+ In this case, even if the person participates in the commission of the crime together with other persons through a mediated horse, his act will be qualified as complicity.
+Finally, the perpetrator may be a person who has committed a crime through the use of other persons who, 6 See D. В. Савельев, Преступная группа.
+  вопросы уголовно-правовой репретации и ответственноцти, Монография, Екатеринбрг, 2002, էջ 37-38.
+are not subject to criminal liability or have committed the crime through negligence (mediated execution).
+According to some authors, the phrase "the crime was committed through negligence" is incomplete, as the perpetrator can use a person whose act is not criminal7.
+ For example, A. deceitfully pushes B. to bring him a suitcase full of expensive goods from his car, assuring him that it belongs to him.
+ B. shows carelessness (he did not realize, but he could և he had to realize) և believing in A., he brings him the suitcase, which actually belonged to G.
+ In the opinion of these authors, in such circumstances A. will not, in fact, be held criminally liable because he does not use a person who committed the crime through negligence, as the act committed through negligence is a crime, if it is especially envisaged in a special part of the Criminal Code. ., Article 28, Part 2).
+  However, in our opinion, such an assertion is not correct, because, as we have mentioned, part 2 of Article 38 of the Criminal Code considers the perpetrator to be the person who committed the crime by using persons who are not subject to criminal liability by law.
+  In our opinion, the phrase "Nigerian liability subject to the force of law" refers to both insane persons, persons under the age of criminal responsibility, and persons who committed the act through negligence, for which the criminal code does not provide punishment.
+ In other words, in the above example, mediated execution will be present, as the executor used a person who is not subject to criminal liability by law.
+ Let us add that the situation is the same in the cases when during the crime committed by a special subject the objective party of the given crime commits a person not endowed with the characteristics of a special subject at the instigation of a special subject.
+The latter is not subject to criminal liability for the given crime as a perpetrator.
+  Therefore, in such cases, the perpetrator is the person endowed with the characteristics of a special subject, who is considered to be the subject of the given crime, who incited him / her to commit the crime8.
+7 See, for example, L. Sahakyan, Crime, "VAN BLOOD", Yerevan, 2005, page 14.
+8 See RA Criminal Law, General Part, textbook for universities, YSU Publishing House, Yerevan 2012, page 268.
+In Soviet criminal law, the organizer, as a separate type of accomplice, was not always separated9.
+  Only the Criminal Code adopted in 1961 provided for this type of accomplice.
+The analysis of modern crime shows that in the various organizations united by 10 common letters "organized crime" among the main culprits should be singled out those whose role is not limited to committing acts that cause crime.
+ This circumstance forced the legislator to envisage one participant of a group crime, the organizer, in the Criminal Code's theory of criminal law.
+The organizer is characterized by no ambiguity in the science of criminal law.
+  According to some criminologists, the organizer is only the person who created or led an organized group or criminal association 11, while others believe that the organizer is the person who performs any of the following 4 actions: 1. Organizing the work of the crime, 2. actions aimed at creating an organized group or criminal cooperation (criminal organization); 3. Crime management, 4. Leading an organized group or criminal association (criminal organization) 12.
+According to Part 3 of Article 38 of the RA Criminal Code, "an organizer is a person who has organized or led the commission of a crime, as he has created an organized group or criminal association or led them."
+ The organizer is the most dangerous of the accomplices.
+ He directs the actions of others, including the executor.
+ He not only instills in other people the intention to commit a crime, but also creates conditions for the commission of a crime. 9 The organizer, as a separate type of accomplice, is also not provided for in the criminal law of a number of foreign countries (eg Germany, England, France, India (see Conventional right to a foreign country). France, Germany), M., Zerzalo, 1998, pp. 114-115, 120-121; Conventional law of the bourgeois side.
+ Общая часть.
+ Proceedings of the Legislative Acts, M., Izd-vo Un-ta Druzhby narodov, 1990, p. 231.
+10 Organized crime is a joint criminal activity in a criminal sense, which is carried out in this or that organizational horse.
+11 See В. D. Меньшагин, З. А. Вышинская, Советское уголовное право, М., Юриздат, 1950, էջ 1958, էջ 63.
+12 See Rule of Law. Обща, часть, М., Новый Юрист, КноРус. 1997, p. 336.
+prepares the crime, plans the commission of a crime or crimes, targets accomplices, directs their actions directly or through other persons, while giving instructions, involves other persons in the commission of the crime, acquires means, tools, etc.
+According to Part 4 of Article 38 of the RA Criminal Code, a person who incited another person to commit a crime by persuasion, material interest, threat or other means is considered an instigator.
+Pure incitement is rare in court practice.
+ Most often it turns into a crime organization.
+  The instigator, as a rule, becomes an organizer of a crime, when, in addition to inclining to commit a crime, he participates in its commission, that is, acts as an accomplice.
+  As we have already mentioned, if a person, in addition to inciting another to commit a crime, also supports him or provides organizational assistance, then he is not an instigator, but an organizer.
+  It should be noted that in some cases the activities of this accomplice may be similar to the activities of the organizer.
+ But there is a main difference. The instigator does not organize or direct the commission of a crime, but only inclines others, leans towards crime.
+It is necessary to speak separately about the hidden (hidden) incitement, when the actions of the instigator are not outwardly prone to crime, but in fact are consciously aimed at it.
+ That is how V. works. The hero of Shakespeare's famous tragedy "Julius Caesar" Antonios, who, wanting to take revenge on those who killed Caesar, made a provocative speech, hinting at the anger of the crowd against Brutus and the other conspirators13.
+In any case, it is necessary to find out whether the instigator caused the perpetrator to commit a crime by his actions, at least.
+  The methods and means he used are of secondary importance in themselves.
+  Thus, in 1994, the Supreme Court of the Russian Federation found the person guilty of inciting theft, as the latter, raising the victim's house, explained to the perpetrator that the money had been stolen, and then left the other room with the victim.
+ The executor, motivated by that step, stole the money.
+13 See Rule of Law, general section, op. OK. И. Я. Kozanchenko, 4th edition, IzdatelstvoNORMA, Moscow, 2008, p. 344.
+Assistance is the most common type of complicity.
+ In the total crime mass, assistance accounts for about three percent14.
+According to Article 38 5 5 of the RA Criminal Code, “a person who has assisted in a crime by giving advice, instructions, information or means, providing tools or removing obstacles, such as a person who has previously promised to owe the criminal, the means of the crime, is considered a facilitator. or the instruments, traces of the crime or items obtained through criminal means, such as a person who has previously promised to acquire or sell such items ”15.
+Assistance is usually expressed through active action, or individual cases are excluded when it is manifested through inaction.
+  Assistance through inaction will arise when, for example, an official charged with the crime of "preventing crime" intentionally fails to act with prior consent, thus contributing to the commission of the crime.
+ In all cases, there must be a causal link between the action or inaction of the aide and the criminal consequences.
+Part 5 of Article 38 of the RA Criminal Code defines all the ways and means by which it is possible to participate in the crime as an accomplice.
+  These methods and means are exhaustive; participation in crime in any other way cannot be considered as assistance.
+ In the science of criminal law, it is accepted to consider two types of assistance: intellectual (conscious) and physical.
+Intellectual support, RA criminal Pursuant to Article 38։ 5 of the Code of Criminal Procedure, it includes advice, instructions or information, such as a promise to the perpetrator, the means and tools of the crime, the traces of the crime or the promise of criminally obtained items to be obtained.
+14 See ibid., P. 346.
+15 This type of offender is also envisaged in the criminal codes of foreign countries.
+  For example, according to § 27 of the German Penal Code, "a person who intentionally assists another person in committing an intentional crime" is punished as an accomplice (see http: // www.
+//constitutions.ru/?p=5854, 12.03.2016 as of).
+16 According to some authors (see, for example, AT Tovmasyan, Soviet Criminal Law, General Part) Theory of Criminal Law.
+  Teaching about bakery), Yerevan, YSU Publishing House, 1971, p. 410, Rule of law, general part, rev. OK. И. Я. Kozanchenko, It is interesting to address such an issue as the influence of a person on a crime, the so-called "good" advice or instructions.
+  For example, A. wants to kill his pregnant wife out of jealousy.
+  B., knowing about that, advises to kill the woman after the child is born.
+  A., following B.'s advice, kills his wife a month later, when the child was already born.
+  In this case, it is true that B., on his advice, was involved in the crime, but did not provide assistance to A.'s crime, which is why he is not subject to criminal liability as an accomplice to the crime for not reporting a felony (Article 335 of the Criminal Code)).
+Physical support is assistance to the perpetrator in preparing or committing a crime by providing physical assistance, if that assistance is not part of the objective side of the offense.
+  Physical support is expressed in the fact that the facilitator provides the person with the means or tools to commit a crime, removes the obstacles that will hinder the commission of the crime.
+ That is, physical support is manifested in two ways. the first by providing means or tools, and the second by removing obstacles.
+  These are the actions that facilitate the commission of a crime or its completion.
+ Physical support (as well as intellectual assistance) should be a necessary condition for committing a crime.
+ If the perpetrator did not use the services of a physical supporter (in the case of intellectual assistance, the advice, instructions or information provided by the supporter), the latter can not be considered an accomplice, as he, in fact, did not participate in the crime.
+ In this case, there is no causal link, so there is no objective condition of responsibility17.
+  In such a case, the actions of the accomplice will be qualified as preparation for the crime, based on the rules of unsuccessful crime.
+4-е edition, Издательства НОРМА, Москва, 2008, p.
+  In their opinion, this also owes և should be seen as support.
+  However, such an approach cannot be considered correct, as the concept of "support" does not include not announcing in advance.
+17 See Title Rule, general section, op. OK. И. Я. Kozanchenko, 4th edition, Publishing NORMA, Moscow, 2008, p. 349.
+Here we want to add that the facilitator by his behavior can support not only the perpetrator, but also the other accomplices, the organizer, the instigator.
+ Irrespective of to whom the assistance is provided, the act of the facilitator is qualified by the article on liability for the crime committed, with reference to the relevant part of Article 38.
+In our opinion, assistance can also be provided through a mediated egg.
+  In other words, a person who has contributed to the crime through a person who is not subject to criminal liability or has acted negligently should be considered a supporter.
+ However, the notion of "assistance" provided for in Article 38 5 5 of the current Criminal Code does not provide for the possibility of providing mediated assistance, which, in our opinion, needs to be supplemented.
+  The draft of the new RA Criminal Code has solved that issue, envisaging relevant regulations18.
+Hovhannes Hovhannisyan LEGISLATIVE CHARACTERISTICS OF TYPE OF ASSOCIATES Keywords: complicity, notion of "complicity", accomplices, types of accomplices, perpetrator, accomplice, organizer of crime, instigator of crime, instigator of crime.

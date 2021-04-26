@@ -1,0 +1,81 @@
+REFLECTION OF THE CRUSHING PLASMON FROM FREE METAL CORRESPONDING The cracks in the thin metal membrane, which is a plasmon resonator, have open cracks with a cross-sectional cross-section.
+ This suggests the role of fission plasmons in the development of active nanophotonics devices.
+  These systems have proven useful in applications such as single-molecule probing [1], spectroscopy [2], optical traps [3], surface-enhanced reactions [4], surface plasmon polariton (MPP) modulators [5-6] և MPP sources [7]
+Finite-length metal-dielectric-metal (MDF) cracks are highly attractive due to their ability to concentrate light in nanometer sizes.
+  The high field intensity in the dielectric range makes the system very suitable for creating an elementary base of active plasmonics, and the relatively simple structure facilitates the preparation of such a system.
+  The combination of the above advantages of using two metals as electrical contacts makes this system very convenient in optoelectric applications [6: 9-10].
+In such finite-dimensional systems, the MPCs are reflected from the edges of the crack.
+  The re-emergence of frequently referred PPPs can lead to Fabri-Pero resonances.
+  In optical systems, the goodness is determined by the reflection amplitude և propagation losses.
+  On the other hand, the resonance length (𝐿𝑟𝑒𝑠) depends on the resonant wavelength (𝜆𝑆𝑃𝑃) of the phase deviation during reflection.
+  In the case of refractive plasmon reflux, the phase deviation has a significant effect on the system.
+  In this case, the expression is no longer applicable to the resonant length [11-12].
+From the above, it becomes clear that the transient-reflection coefficients, which are the characteristics of the fracture plasmon, can be determined by knowing the amplitude of the reflection ազատ phase from the free surface.
+  Currently, a lot of work has been done in this direction.
+  The reflections of MPAs from metal-dielectric faults have been described analytically [13-14].
+  The reflection properties of plasmon in the dielectric-metal-dielectric system have been calculated by numerical methods [15].
+ Determinants for descriptive plasmon expression in MDM systems have been obtained only for lossless, non-dispersible metals [16], while subcutaneous calculation methods are commonly used [17].
+The analytical expressions obtained in this work describe the reflection of surface plasmon polaritons from the free space at the fracture.
+  The phase of the wave, the amplitude, as well as the transition coefficient during the reflection were calculated.
+ The obtained analytical formulas were compared with the results of digital modeling by the finite element method.
+The MPP model of the MDF system The MPC reflection from the metal subwave crack is investigated.
+ A one-dimensional, single-crack system is considered, where the width d is opened in y <0 semicircle մեջ in a dielectric permeable metal (Fig. 1).
+  In the y> 0 semicircle, as in a crack in metal, there is a քում dielectric permeable material.
+ It is assumed that the already excited MPs fall into the y ⃗⃗⃗⃗⃗⃗ wave vector.
+  y <0 in the direction of the semicircular axis և have 𝑘𝑖𝑛
+The MPAs referred to in the article have 𝑘𝑟
+⃗⃗⃗⃗⃗ Wave vector.
+In the y <0 hemisphere, the MAP is mainly concentrated in the] domain, where for the falling wave we will have: where 𝑘0 = √𝜀𝑑
+𝑐2.
+  c is the speed of light in free space և When the condition 𝑑 տեղի տեղի occurs (consequently the condition և | 𝜘𝑖𝑛𝑑 | ≪ 1 occurs), we will have: Where we have it, let's denote that J is a complex quantity.
+  Consider its real և false parts: 𝑘𝑖𝑛 = 𝑘 ′ + 𝑖𝑘 ′ ′. .
+From the wave equation we have 𝑘𝑖𝑛
+𝑐2, 𝜘𝑖𝑛, which is also a complex quantity.
+  By inserting the values ​​of իրական for the real և falsifications of կունեն we will have: The mentioned relation can be checked by placing the obtained results in Maxwell's equations.
+MPC reflection from the edge of the crack For the reflected wave we have: 𝑘 = 𝑘𝑟 = 𝑘 ′ + 𝑖𝑘 ′ ′ = 𝑘𝑖𝑛 և 𝜘 = 𝜘𝑟 = 𝜘 ′ + 𝑖𝜘 ′ ′ = 𝜘𝑖𝑛, when 𝜆 ≫ 𝑑, the field in the area above the crack (𝑦> 0) we can determine with a quasi-statistical approximation.
+  Assume that in the range 𝜌 ≪ 𝜆 (𝜌 = √𝑥2 + 𝑦2) the tangential component of the electric field is zero to the metal surface և has a constant A value at the edge of the crack.
+It is not difficult to find the solution of the Poisson equation for the upper half-plane, which will satisfy the above condition: dk.
+Integrating this expression for կստ we get: by placing (9) in the equation divE⃗⃗⃗ = 0 և having 𝐸𝑧 = 0, we get 𝐸𝑦 ՝ in the zone very close to the crack 𝑦 ≈ 0, the fields are approximated: 𝐸𝑥 = 𝐴𝑒 − և և We can fields on the edge of the crack.
+ From the condition of continuity we have: (𝐵 - 𝐶) 𝜘𝑥.
+Solving the system (11) between the և passing fields և falling field անդր, the following expressions are obtained: Let us consider the magnitude in more detail.
+  By placing տեղադր, 𝜘 values ​​(13) in) (13), simplifying the value of ((from (5), we will finally get համար for the reference value.
+Common formulas are obtained that describe the ած passed MMP amplitude և phase.
+Calculate the ratio of the power coming out of the gap to the power falling.
+  For this purpose, write the value of the field in the range (> 0 (ρ ≫ d) in the spherical coordinate system.
+𝑐⁄, and Hn
+Here, 𝑘 = √εd
+(2) It is a desirable function, which in the case kρ ≫ 1 is approximated as follows: We calculate the radiation from the crack on the unit length with the help of the Pointing vector.
+ It has the following form: We determine the power propagating through a crack from formulas (1) և (3): 𝐴2.
+For the coefficient of transition, divide (16) by (17), place the expression (15) instead of B in (17). we will have The dependence of d is graphically depicted in Fig. In 2.
+Fig. 1 When √:
+≫ 1 (ie in the given conditions d is very small), otherwise:
+The reliability of the obtained results can be checked by means of digital calculation.
+  Take silver as a metal with a die-permeability of 1100 nm = 3.6236 for real և dielectric permittivity parts.
+In this case, we have համապատասխան
+𝜀𝑑 = 1.
+  In these conditions, as = 0.981507 𝑒 𝑖 82.81647.
+  In other words, the MPP, referring to the edge, changes the electro-electric mode, the phase by 2.81647 radians.
+For numerical calculations of finite elements it is more convenient to take a resonator (reflection takes place from the 2 edges of the crack).
+  For the resonant wavelength, the phase change during reflection from the edges plays a major role in the wavelength of a given wave.
+  In our case, the resonance condition will be written in the following way: 𝑘′ℎ = 2.81647, from here we will get the resonance length equation: ℎ = 329.12 nm.
+  Under these conditions, the losses due to resonance absorption at length h weaken the fall strength 𝑒 − 2𝑘′′ℎ = 0.881375 times.
+  A resonator with the same parameters was designed by "COMSOL Multiphysics" program.
+ The resonance length was calculated by simulation.
+ Compare the results with analytical figures.
+Fig. Figure 3 shows the dependence of the Ex component of the crack field on the metal thickness (h).
+ It can be seen that the resonance length is 294 nm (the theory predicted 329.12 nm).
+  The same simulation was repeated for a wavelength of 1500 nm.
+  Here the resonance length is 375 nm (the theory predicted 413 nm).
+ In both cases the deviation from the theoretical result is not greater than 10%.
+Fig. 2 The deviation from the theory is explained by the approximation of the formulas (9) և (10), when համար ≈ 0 for the electric field component was 𝐸𝑥 = 𝐴𝑒 − 𝑖𝜔𝑡.
+Conclusion The passage of electromagnetic waves through a subwave hole opened in metal when the hole depth is greater than the hole width is theoretically studied.
+  This made it possible to find analytical formulas that describe the reflection of superficial plasmon polaritons from the edge free space.
+ The change in wavelength, the amplitude value, and the transition coefficient are calculated during the reflection.
+  It has been shown that the phase deviation during reflection differs significantly from։.
+  The obtained formulas were compared with the results of numerical modeling by the finite element method.
+  A good match was obtained between the "digital modeling results" of the analytical formula.
+Literature Tweezers.
+ Tunable Optical Manipulation in the Femtonewton Range ”, Phys. Rev. Lett. 100, nanostructures.
+ nano-antennas and resonators ”, Opt. Express 15, 10869 (2007). [14] T. Leskova and N. Gapotchenko, “Fabry-Perot type interferrometer for surface polaritons.
+[16] R. Gordon, “Light in a subwavelength slit in a metal.
+  Propagation and reflection ”, Phys. Khachik Sahakyan Reflection of crack plasmon from the free surface of a metal crack Keywords: MPP resonator, subwave crack, wave propagation, metal-electric-metal resonatorSummary.

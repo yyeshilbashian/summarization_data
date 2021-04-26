@@ -1,0 +1,33 @@
+DESCRIPTION OF STABILITY OF DISCRETE UNIFORM SYSTEMS In various technical applications, such as aerospace, chemical and steel industries, as well as in many other fields, the so-called uniform multidimensional automatic control systems (NMS) are widely used.
+  In these HRCs, the individual channels have the same transmission functions, the "channel-to-channel" interactions are rigid, and are characterized by a real numerical matrix.
+As a simple example, Figure 1 shows the open schematic diagram of a two-dimensional uniform management system [1, 2].
+Figure 1. Reverse structural diagram of a two-dimensional uniform regulation system The structural diagram of a linear continuous ESMB matrix is ​​shown in Figure 2, where: is the function of the transmission of individual channels, which is a numerical matrix of the size of eco-correctional functions.
+Complex variable, and is reciprocal.
+Figure 3. Discrete MACS's stability range Using the canonical representation of an open discrete MAC transmission matrix with the help of similarities, the equation (2) can be represented as follows: (3) The variance is equal to the N-equation of the system. on equations: Therefore, the discrete figure in Figure 3 is necessary for the stability of the NMS to be sufficiently stable for all the characteristic systems of a closed system.
+Thus, the BPF method allows the discrete scale to be brought to nitrogen with the stability of the one-dimensional characteristic equations of the MAC det [()] 0IWzz () Wz1det [()] [1 ()] 0NiiIWzqzN1,2, ..., 1 () 0, iiNqzNN stability study.
+  That is, one-dimensional problems [4, 5, 6].
+-The problem of measurement is brought in. Consider a continuous one-dimensional system, taking into account that the pulse elements work synchronously in all channels.
+The system with the telescope was chosen as an example.
+Figure 4 shows a kinematic diagram of a two-dimensional telescope with a two-star telescope.
+  In such systems, the axes of sensitivity of the measuring elements, in this case the stellar sensors, do not coincide with the axes of the telescope, with which rigid feedback occurs between the various channels, depending on the angle of the supporting և stars և and the stellar sensors.
+  These relationships are stable in the case of specific star alignments, վում changing only when passing to another star under study, for which new suitable support stars are usually selected.
+Figure 4. Kinematic diagram of a system with a telescope Since the system is uniform, so և the transfer functions are the same և they look like this և the angles are equal:
+= 200.
+ The interconnection matrix between the channels is equal to: a) a continuous system b) a discrete systemFigure 5. Two-dimensional uniform regulation system Since the frequency functions of the individual channels (Equation 2) are the same, the given continuous system refers to the same MACs.
+The matrix R will have its own values, ie there are ունեն real values5.
+The nicknames of the corresponding one-dimensional characteristic systems և the root hodographs are shown in Figure 6.
+a) b) Figure 6. Nikevist trajectories q characteristic of the discrete two-dimensional system q1 (a) և q2 (b) characteristic transfer functions են Root trajectories Draw the root trajectories of the discrete system, where the poles and the zeros of the open system are indicated by cross-circles and the roots by closed squares.
+ It follows from the trajectories that the orphanage-pen trajectories, in terms of stability, do not include the Nyquist criterion point, and the roots are located within a unit circle.
+Because the resulting individual one-dimensional systems are stable, the back-type discrete two-dimensional system is stable.
+All the theoretical results studied in the work, which are clarified by calculations of numerical examples of discrete systems, have been implemented through an application program developed with the help of "MATLAB" programming language.
+The presented graphical user interface - the corresponding programs.
+1 (0) j () iqz Figure 7. Graphical Interface of the SISOControlSysCAD Package Thus, as an example, we can note that the one-dimensional characterization (BPF) method allows the study of discrete CSR stability to be studied.
+The "SISOControlSysCAD" package known in the "Matlab" software environment, which is used continuously in the study of discrete systems in one-dimensional (has one input-one output), was used in this work to study the stability of discrete homogeneous multidimensional systems.
+ And for the stability of a discrete-type HAC, it is necessary և sufficient for all the characteristic systems of a closed system to be stable.
+LITERATURE [1] Abgaryan S., Kyureghyan S., Discrete systems.
+Training Manual / ANAU, Yerevan, Engineer 2017, 140 pages.
+[2] Areshyan G., Hovhannisyan H., Automotive Management, part 1, Yerevan, "ELECTRON COMPLEX" 1997, 186 pages.
+[3] Gasparyan O., Vardanyan N., Methodological application of descriptive transmission functions for the study of multimeter automatic control systems, methodological instructions from the subject "Theory of Control Systems", Yerevan, Engineer, 2009, 48 pages.
+[4] Gasparyan O., Linear and Nonlinear Multivariable Feedback Control.
+ A Classical Approach, John Wiley [6] Albertos P., Sala A., Multivariable Control Systems.
+ An Engineering Approach, Springer, 2004, p. 358 Andreasyan Shoghakat DISCRETE ANALYSIS OF STABILITY OF UNIFORM SYSTEMS Keywords: automatic control system, discrete multimeter control system, monotype system, descriptive transmission function.

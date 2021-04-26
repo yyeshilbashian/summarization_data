@@ -1,0 +1,45 @@
+One of the most important tasks in chemical science is the synthesis of new biologically active substances, the production of more effective drugs based on them, which will have high selectivity and low toxicity.
+It is possible to discover and expand new spheres of use of fine organic synthesis products.
+Most of the bioactive substances used in medicine are heterocyclic compounds containing oxygen, including functionalized lactones.
+ Many functionally substituted derivatives of unsaturated lactones have found their application in various fields, such as herbicides, plant growth stimulants, drugs, etc.
+  Unsaturated γ-lactones with biological activity are of great interest both in the field of theoretical chemistry and in the production of drugs in agrochemistry [7, 8].
+The natural alkaloid sergein is isolated from the plant Ceropegia juncea, which is used in traditional medicine, has sedative, anti-inflammatory, analgesic and anti-ulcer properties.
+  The alkaloid structure of sergein is a condensed heterocyclic system of unsaturated γ-lactones և pyridone cycle.
+ Among the lactones, the most active are the substances that contain aromatic or unsaturated substitutes.
+ The structure of the natural alkaloid Serpezhin has been elucidated և and confirmed as 1,1,5-trimethyl-furo [3,4-c] -pyridine-3,4 (1H, 5H) -dione [5].
+The first synthesis of serpegin was proposed by Professor Guy Kekine և Based on the chemical conversion of 3-N, N-diisopropylcarbamoyl-2-methoxypyridine, according to the following scheme [6]. A series of chemical conversion works for the production of N-substituted furopyridones have been published by Kaygorodova և Serpezhin ալ alkaloid analogues [1-3].
+  2-Chlorocyanopyridine was used for these syntheses.
+NN (iPr) 2OONON (iPr) 2OOHNOOONHOOO68% 91% 68% 70% NOOONClOCNNClOONHOOO The authors believe that the study of compounds of this class is promising for practical use.
+ In their opinion, the interest in this compound is due to its possible use in the synthesis of vitamin B6-pyridoxine.
+  They further investigated the interaction of 6-methyl-3-oxo-4-chloro-1H-furo [3,4-C] pyridine with thioacetic acid.
+ Obtained with 2 (5H) -furanone condensed with 2 (1H) -pyridinion.
+The resulting compound was then condensed with various furan-thiophencarbaldehydes.
+  Compounds endowed with the property of activating the growth of apple seeds have been found in this series of compounds.
+  Using the initial method of wetting apple seeds for 24 hours, it was found that the synthesized compound had a high growth-activating activity compared to gibberellin at an optimal concentration of 0.0005%, and was not inferior in structure to the analogous crotonlactone, moreover, it was more potent.
+The staff of YSU Chair of Organic Chemistry proposed and published a universal method of serpezin alkaloid և its unsaturated 3-carboethoxylactonitrile derivatives [11, 12].
+  The method allows the use of different lactones։ amines.
+  The method is based on the interaction of 3-carboethoxy-4,5,5-trimethyl-furanone-2 և dimethylformamide dimethyl acetate with the primary amines of the obtained dimethylaminovin derivatives, which is shown according to the following scheme. contain a lactone ring, endowed with effective biological activity [4].
+Researchers at the University of Paris-6 have studied the activity of alkaloid-derivative derivatives of sergein as proteasome inhibitors.
+The method is convenient և allows the synthesis of many atomic nitrogen derivatives in the pyridone cycle.
+It has been shown in the past that some N-substituted derivatives of the alkaloid serpezhin are endowed with biological activity [9, 12].
+  Taking into account the NOClO (NH4) 2CSNOOSNH2NH2Cl NOSOXRCHO + -XRNOSOX = O, SR = H, CH3, Br method, which has a wide range of weather conditions developed at YSU Chair of Organic Chemistry, in this work we have tried to use lactones with different C-5 atoms.
+We used 3-hydroxy-3-methylpentene-4-o as the starting α-keto alcohol to obtain heterocyclic systems with the unsaturated substituents.
+ Its interaction with diethyl ester of malonic acid in the presence of ethyl alcohol sodium ethyl ethanate gave 3-carboethoxy-4,5-dimethyl-5-vinyl-furanone-2 (5H) under boiling conditions.
+  By the reaction of the obtained lactone with dimethylformamide dimethyl acetate under boiling conditions, a new 4-dimethylaminovinyl derivative of the given compound was obtained according to the following scheme. The obtained compound is a dark red crystalline substance.
+ The substance obtained from the serpentine alkaloid C-1 atom with a vinyl substituent մոտ to obtain new derivatives with different substituents at the azotiatom was reacted with aliphatic amines, cyclohexylamine և 1,1 dimethylethylenediamine.
+According to the researches carried out in YSU Chair of Organic Chemistry, first reamination takes place, which is accompanied by the release of gaseous dimethylamine, then cycling takes place, which is accompanied by the removal of ethyl alcohol.
+The obtained material is white powder.
+ In order to obtain derivatives with new phenyl substituents near the serpezine nitrogen atom, we used the aromatic amines benzylamine and phenylethylamine in this reaction.
+ The reaction of N (CH3) 2CH (OCH3) 2OOHOC2H5OC2H5OOC2H5ONaC2H5OHOOC2H5OO + OOOC2H5ONNH2R-NH (CH3) 2NOOOROONOOC2H5NH2R-NH (CH3) 2OONHROOC2H5 -C2H5OHNOOORR = N, R =, moving in a similar manner, the nitrogen atom at benzyl and feniletilayinteghakalichnerov alkaloid derivatives occurrence.
+Previously, serpezin alkaloid derivative was synthesized at YSU Chair of Organic Chemistry. [9]
+  Later, the authors successfully used its synthetic capabilities to perform a number of interesting reactions.
+To obtain it, 3-carboethoxy-4,5,5-trimethylfuranone-2 (5H) was used as the starting compound.
+  The scheme using dimethylformamide using dimethyl acetate was used, և the target compound was obtained with 65% yield.
+The structural analog of the resulting sergein is of interest in the synthesis of less studied class compounds of heterocyclic systems with furopyridine և amine substituents [9, 10].
+Norcepin containing vinyl group was obtained from na-3-carbamoyl-4,5-dimethyl-5-vinyl-furanone-2 (5H).
+  We put it in interaction with dimethylformamide dimethyl acetate պայմաններում in the reaction, we separated the derivative of the target new sergein.
+Thus, for the first time, we synthesized new functionalized derivatives with vinyl substituents on the carbon atom of C-1 in the lactone cycle of serpezine alkaloid, and obtained various substituents on the nitrogen atom;
+ We carried out the opposite synthesis of norserpezhine alkaloid containing vinyl group in the lactone ring.
+ The obtained compounds are in the stage of biological testing.
+  Obtained NHOOONOOOH NOOClNOONHRPCl5NH2RClR =, OONOC2H5ONH3-NH (CH3) 2-C2H5OHNOOOONH2OON (CH3) 2CH (OCH3) 2OONH2ON NHOOO The structure of the compounds was proved by
+LiteratureNane AvagyanSERVING STRUCTURE OF STRUCTURAL ANALOGES OF ALKALOID

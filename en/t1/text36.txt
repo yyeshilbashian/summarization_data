@@ -1,0 +1,90 @@
+Currently, one of the most promising directions in the development of tourism is ecological tourism (ecotourism), which is a tour (tours) - educational, adventure, etc.
+  The common denominator of the latter is the use of natural areas that have been exposed to human activity as little as possible.
+  This justifies the need to explore natural complexes as tourism resources.
+  Natural complexes in the suburbs of big cities are of great value for mass recreation areas.
+  The process of planning and organizing tourism activities in such places is possible only in the conditions of a detailed study of the recreational potential of those areas, which is still relevant.
+  [1] The aim of the work is to discover the natural-recreational potential of the suburbs of the big city.
+  To implement it, it is necessary to solve the following problems: - to separate the types of tourism that develop in the natural areas of the suburbs of large cities, - To highlight the importance of individual landscape components in the development of tourism in suburban areas of large cities, ) to create a similar EEC project for the suburban part of the big city with the recreational theme of the big city and to organize the natural-recreational zoning of the suburban part of the RA territory with the help of the EEC project received 456 TOURISM, to study the modern tendencies of the RA tourism development.
+ The object of research is the natural complexes of recreation areas, recreational resources and components of territorial-recreational systems in the suburbs of the Republic of Armenia.
+ The subject of research is the territorial separation of recreational activity conditions in large urban suburbs.
+ [2] The practical significance of the work is as follows: the natural-recreational zoning project can be used for the design of tourism development in the suburbs of the territory of the Republic of Armenia.
+  The EEC program can be used as a source of information for government agencies, as well as for tourism organizations as a database.
+ What is GIS? EEC systems are state-of-the-art information technologies used in many areas of human activity, such as healthcare, government, transport planning, service planning, mapping, pollution control, environmental management and many more.
+ The Republic of Armenia lacks an information system that meets modern requirements, which is necessary for public administration and local self-government bodies (hereinafter referred to as governing bodies) to effectively solve the problems in the field of economic management.
+ It is quite difficult to give a brief definition of the ET system phenomenon.
+  The EEC provides an opportunity to look at the world around us with a new look.
+  Leaving aside the images and generalizations, it is a computer technology for mapping and analyzing the real world, as well as events that take place on our planet.
+  EEC is a huge industry, involving thousands of people around the world.
+  This technology is used in almost all spheres of human activity.
+  [3] This technology combines traditional operations data with database data, such as query and analysis, with the benefits of mapping and geographic (spatial) analysis provided by the map.
+  These features differentiate the EEC from other information systems and provide unique opportunities to address a variety of issues related to the analysis and forecasting of the surrounding world, understanding and identifying key factors and causes as well as their possible implications by planning strategic decisions and ongoing action. .
+ Mapping and geographical analysis are nothing new.
+  EEC technology provides a new, more modern, more efficient, convenient and faster approach to problem analysis and problem solving, which is faced by humanity in general and by a specific organization or group of people.
+  It automates the analysis and forecasting process.
+  Prior to the use of the EEC, few had the opportunity to generalize and comprehensively analyze geographic information in order to make sound decisions based on modern approaches and tools.
+ EEC is currently a multimillion-dollar industry involving hundreds of thousands of people around the world.
+ This technology is used in almost all areas of human activity, be it global problem analysis such as overpopulation, land pollution, deforestation, natural disasters, or part 458 TOURISM Solving common problems such as finding the best route between units, choosing the optimal location for a new office Searching the house for its address, installing pipes in the area, etc.
+ In the natural areas of the suburbs of big cities it is possible to develop the following types of tourism: leisure without workload, sports and training campaigns, consumer leisure - mushroom picking, fishing, berry picking, etc.
+ It should be noted that the existence of forests, rugged terrain, unique geological objects, as well as the diversity of flora and fauna, which makes the place more attractive, are very important for the development of tourism.
+ Basic EEC requirements EECs work with any type of data that can be placed on a map or diagram.
+  The EEC is a combination of traditional maps and databases.
+  The use of computers allows you to get new qualities of such a combination.
+  The EEC makes it possible to have a complete description of the objects to be managed, which is already available in existing databases and documents, at the same time it shows the location of these objects in space, their interaction, as well as the influence of various factors affecting those objects.
+  [4] The purpose and objectives of the creation of GIS.
+ The purpose of creating the RA EE system is to create a unified state geographic information bank, which is the centralization of complete textual and graphic data on the natural and economic resources of the republic, their legal status and value, and is aimed at increasing the efficiency of resource management.
+  459 TOURISM The transition from previously planned state administration to market 459 TOURISM relations has created many new problems, the effective solution of which is possible only with the use of complete information and the latest technologies.
+ With the creation and implementation of the EEC, the adoption of decisions with insufficient substantiation was explained, and the transition to a qualitatively high level of public administration took place.
+  [5] What can the EEC do for us? Perform spatial surveys and analysis.
+  The EEC's ability to search and spatialize databases has allowed many companies to save millions of dollars.
+  The EEC helps to reduce the response time to customer inquiries, identifies areas suitable for the required activity, interconnections of different parameters (for example, soil, climate or crop yields) and locations of power lines.
+  Real estate agents use the EEC to find, for example, all the houses in a certain area that have slate roofs, are three-room, have 5-meter kitchens, and then release a more detailed description of those structures.
+ The query can be adjusted by entering additional parameters, such as price.
+  You can get a list of all the houses that are located at a certain line or at a certain distance from the place of work.
+ Many organizations using ET systems have noticed that one of its main advantages is the new opportunities to improve its own organization and its resource management, based on the ability to geographically integrate existing data and share and coordinate modifications.
+  The ability to share the database and the constant addition and correction by different departments allows to increase the efficiency of both departments and the whole organization.
+  The EEC, like other information technologies, confirms that the best information helps to make the best decision.
+ Having access to information for comprehension and integration allows responsible employees to focus their efforts on finding solutions without having to spend a lot of time collecting and analyzing the various data available.
+  You can quickly consider several solutions and choose the most effective one.
+ A special place in the EEC is given to maps, the process of creating which is much simpler and more flexible than in traditional manual or automatic mapping methods.
+  Digitization of ordinary paper maps can be used as a source of output data.
+  EEC-based cartographic databases may be continuous (without separate newspapers and regions) and not linked to a specific scale.
+  Based on such a database, we can create maps electronically.
+ The database can be updated with new data at any time (for example, from other databases), and the existing data can be updated if necessary.
+  The EEC demonstrates most of its capabilities when its analytical functions are deployed.
+  ET systems allow for accounting, planning and forecasting.
+  The EEC allows you to accurately calculate the coordinates of objects and the area of ​​the site.
+  EECs can request a variety of information from a variety of sources: paper maps, plans, drawings and diagrams.
+  They can be scanned into a computer and digitized.
+  If there is no factual information on paper, these documents can be created from scratch in the EEC.
+  [6,7] The EEC base of the recreational sector consists of the following layers: - layers of geographical basis - layers of natural objects that have recreational significance (water bodies, forests, swamps), 461 TOURISM layers that indicate the availability of modes of transport in the areas, - layers that describe the current state of tourism development, - natural-recreational areas section layers.
+ Thus, for the intensive development of suburban recreation and the preservation of natural-recreational resources, it is necessary first of all. - to plan the territorial distribution of the flow of tourists, - to calculate the restrictions on the use of natural-recreational facilities, - to ensure the awareness of the population by all possible means.
+ What is the role of EEC systems in the development of tourism?
+ Perhaps the most important role played by the EEC systems is the most natural representation of spatial information as well as any other information located in space.
+  Note that the ways of presenting information can be different. Digital representation of data, tables from a database, pictures or real video recordings.
+ Thus, GIS can help everywhere where spatial information is used and information about objects located in certain parts of space.
+  [8] If we try to analyze the economic results of the EEC, we can see that many organizations have been able to provide economic results of millions of dollars.
+  For example, $ 82,500 was spent on the EEC tourism system in Pinava, Canada, and surrounding areas, and it now generates $ 5,000,000 a year.
+  [9] ET systems help to reduce the time it takes to respond to customer inquiries, a 462 TOURISM allocate areas for relevant events, and identify correlations between different parameters (such as the relationship between weather and yield).
+ Internet design with the technology of ET systems in tourism.
+ EEC is an interactive technology that responds to user queries almost immediately, which is more efficient.
+ ET systems and satellite technologies.
+ With the development of high technologies, significant changes are taking place in our daily lives.
+  After all, 30-40 years ago, who would have thought that mobile communication would be available to everyone, or electronic maps would replace road maps, which not only include maps or location plans of any scale, but also indicate the location of the object and the direction of movement.
+  With the help of the latter it is possible to orient how to reach the preferred address of the object.
+  Moreover, the detail can even reach the presentation of the specific floor of the building.
+  It allows you to get information about road works that would never be possible with a map.
+  Currently, there are two satellite systems: the American Navstar (Navigation System using Timing and Ranging), the most popular GPS (Global Positioning System) and the Russian GLONASS.
+  The nature of the work of the latter is similar in many cases.
+  The main problem of the satellites that are part of these systems is the continuous transmission of signals, which are received by the signal stations - aviation, submarine, automobile, etc.
+  Moreover, the systems are built in such a way that the receiver "sees" several satellites at the same time.
+  By comparing the latencies of signals received from different satellites, the receiver calculates their distance from it, after which it solves the systems of equations to determine its coordinates ha 463 TOURISM mar.
+  It is easy and beautiful.
+  Satellite navigation is needed in areas such as tourism, aviation, maritime and road transport, EU systems, construction, rescue, hunting, fishing, etc., where it is impossible without knowledge of the coordinates.
+  [10,11] Having a navigation receiver, you can determine the coordinates of the object, the speed of movement and the direction of movement with an accuracy of several meters.
+  The latter, together with the electronic map of the place and mobile means, becomes a powerful tool for the construction of dispatch systems.
+ The possibilities of satellite navigation were first assessed by the ordinary civilian users by the bankers: monetary transfer control systems were created.
+  Thus, the bank employee sees the whole picture of the transfer on the monitor, at which point of the street the collection car is, in which direction it is moving, and so on.
+ Currently, geographic information technologies are gradually occupying the Armenian market.
+  The creation of a tourism-oriented EEC will require financial and legislative support from the state due to the high cost of EEC projects.
+  Thus, the use of EEC technology will be of great help in the organization and implementation of tours, as well as accompanying services.
+ .

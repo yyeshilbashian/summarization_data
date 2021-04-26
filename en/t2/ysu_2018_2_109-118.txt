@@ -1,0 +1,79 @@
+SOME ISSUES OF RESPONSIBILITY FOR VIOLATION OF COMMERCIAL SECRET REGIME Trade secret regime is a regime of confidentiality of information, which allows the person who possesses the information or the rightful owner to enter the service, to avoid the use of goods, to avoid unnecessary expenses.
+ In case of violation of this regime by third parties, the violator is subject to civil liability.
+  Depending on the specifics of the protected object, the liability under consideration has certain characteristics that will be discussed below.
+The protection of the rights of the owner of a trade secret is carried out in accordance with the norms of civil, labor, administrative and criminal law in accordance with the current legislation.
+ It should be noted that civil liability, however, is much more "widespread".
+The point is that in addition to prosecuting a person who has committed a crime containing elements of a crime for disclosing trade secret information, the possibility of compensating the right-holders of the information under civil law is not ruled out.
+ Civil liability can be achieved at the same time as disciplinary, administrative or legal liability.
+Let's consider some issues of protection of the rights of the trade secret holder based on the norms of civil law.
+Part 3 of Article 141 of the RA Civil Code stipulates that information constituting a trade secret is protected by the RA Civil Code in other ways provided by other laws.
+ Article 14 of the RA Civil Code defines the general civil law methods of protection of rights.
+ But we can not disagree. A. Krikun in the sense that not all of these methods can be used to protect trade secrets [1].
+  Among the scientists substantiating this view we can mention G. Otnyukova, who believes that the civil protection of information constituting trade secrets can be carried out only by recognizing the right to information, restoring the situation before the violation of the right, preventing actions that violate the right to information or endanger paradise, invalidating the act of the state by confiscating the penalty provided for in the contract, who has violated the obligation not to disclose the trade secret that became known during the performance of the contract (if the penalty was provided by the contract) [2].
+ L. A. Krikun և G. Otnyukova considers it completely legitimate that the applicability of all methods of protection of civil rights to the protection of the rights of the trade secret holder is connected with the peculiarities of information as an object of civil law.
+ Undoubtedly, the holder of trade secret information may use such means as the recognition of the right, the invalidation of the disputed transaction or the application of its invalidity, the application of the invalidation of the invalid transaction, the enforcement of the obligation in kind, etc.
+  At the same time, it should be emphasized that the list envisaged by Article 14 of the RA Civil Code cannot be considered exhaustive.
+  Other measures provided by law may be used to protect the rights of the holder of trade secret information.
+ The civil liability for the violation of the rights of a trade secret holder is primarily aimed at compensating the right holders of the information constituting a trade secret, which he has suffered as a result of the use of information disclosed by authorized persons.
+According to Article 141, Part 4 of the RA Civil Code, persons who illegally received the information constituting a trade secret are obliged to compensate the damages caused.
+  Such an obligation is also imposed on the contracting parties who have published (or) used official, commercial or banking information in violation of a civil or employment contract.
+ Article 1165 of the same Code, defining the rules of liability for illegal use of undisclosed information, stipulates: - A person who has received undisclosed information on an illegal basis and has used the territory is obliged to compensate the legal owner of that information for the damages caused by its illegal use.
+- If the person using the undisclosed information illegally obtained from a person who did not have the right to disseminate, about whom he did not know և was obliged to know (the bona fide acquirer), then the lawful possessor of the undisclosed information has the right to demand compensation from the bona fide acquirer for damages caused by the use of undisclosed information. The acquirer knew that its use was illegal.
+- A person lawfully possessing undisclosed information has the right to demand that the illegal user stop using it immediately.
+  However, the court, taking into account the costs incurred by the bona fide acquirer in the use of the undisclosed information, may allow its further use under the terms of a non-exclusive license.
+- The person who received the information containing the undisclosed information independently։ has the right to use that information independently, regardless of the rights of the holder of the relevant undisclosed information, and is not responsible for the use of it.
+The mentioned provisions were also legally enshrined in Article 16 of the RA Law on Protection of Economic Competition.
+ As we know, the legislation provides for liability for the actions of persons guilty of disclosing trade secrets, but a person may receive information constituting a trade secret by accident or by mistake.
+Thus, Article 1165 3 3 of the Code currently reserves the right for the court to allow the unscrupulous acquirer of the undisclosed information to use it further, taking into account the costs of using it.
+  However, according to the authors of the concept of making changes in the tenth section of the RA Civil Code, the RA Civil Code does not enshrine the right of the holder of undisclosed information, that is, to demand to stop the use of undisclosed information from the bona fide acquirer.
+ International experience suggests otherwise: ծախս The costs incurred by the offender, regardless of the size, are not an essential condition for allowing further use, as it creates an opportunity for abuse.
+ It is proposed to make corresponding changes in the RA Law on Protection of Economic Competition.
+ In particular, Article 16 of the law regulates relations related to unfair competition for undisclosed information, which are not in line with the provisions of the Code [3].
+ As trade secret information is a commercial value to the right holder by virtue of its unknowing power, any unauthorized access to it by the right holder, especially its publication or use, can cause significant harm.
+ According to experts, the published trade secret is lost once and for all.
+ For this reason, it is necessary to pay more attention to the issue of compensation for damages caused to the right holder by the publication of information constituting trade secrets.
+Some authors believe that damages caused to a trade secret holder are compensated only in the presence of guilt [4], while other authors state that the law does not provide for liability for the illegal use or disclosure of trade secret information [5].
+ Although this is not explicitly mentioned in Article 1165 of the Civil Code of the Republic of Armenia, we believe that access to liability without fault is intended only for employees who disclose trade secret information, which is owned by the employer or its contractors.
+Therefore, in the absence of guilt in the actions of a person intentionally or negligently, he cannot be held responsible for the publication or illegal use of information that constitutes a trade secret.
+ Such a conclusion also follows from the analysis of the provision of Article 417 of the RA Civil Code, according to which "the debtor is liable for non-fulfillment և (or) improper fulfillment of the obligation in case of guilt, unless otherwise provided by law or contract."
+ Unlike criminal liability, the civil liability provided for in Article 1165 of the RA Civil Code, in fact, includes damage caused to the right holder of a trade secret due to negligent actions.
+Part 1 of Article 1165 of the RA Civil Code stipulates that a person who has received, disseminated or used the disclosed information on illegal grounds is obliged to compensate the legal owner of that information for the damages caused by its illegal use.
+  Part 2 of Article 16 of the RA Law on Protection of Economic Competition stipulates that any activity of a business activity that leads to the acquisition, use or disclosure of undisclosed information without the consent of its rightful owner or in the manner of business circulation is considered an act of unfair competition.
+ It can be concluded from this that the holder of undisclosed information has the right to demand compensation for damages on the basis of illegally disclosed information - received, - disseminated (disclosed), - used.
+In this case, different categories of subjects can be "classified" under the "person" who disseminated information.
+ In one case, there may be employees who have violated the employment contract, in the other case, contractors who have violated the contract.
+ Officials, for example, state or community officials, local government or community officials whose trade secret information has been made available to them in the performance of their official duties may be both disseminators and illegal users of trade secret information. [6]
+Thus, civil liability arises for the publication, illegal use or illegal acquisition of information constituting trade secrets և due to compensation for damages caused to its right holder.
+Compensation for damages resulting from the dissemination of trade secret information (illegal receipt, illegal use) is mainly provided by the rules on compensation for damages provided by the RA Civil Code (Article 17).
+ Thus: - A person whose right has been violated may claim full compensation for the damages caused, if less than the amount of compensation for damages is not provided by law or contract.
+Losses are the expenses of the infringer that he has incurred or will incur to recover the infringed right, the loss or damage of his property (actual damage), the unearned income that the person would have received in normal civil circulation if his right had not been infringed (missed benefit); as well as non-pecuniary damage.
+- If the person who violated the right received income as a result, then the person whose right was violated, together with other damages, has the right to claim compensation for the lost benefit, not less than that income.
+- Non-material damage is subject to compensation only in cases provided by law.
+ From a procedural point of view, the holder of a trade secret must substantiate their existence by the rules of procedural law.
+ At the same time, one should not disagree with the idea that it is difficult to determine the extent of the damage caused by the disclosure of trade secret information.
+ Based on the experience of foreign countries, E. Solov, for example, suggests listing the value of information in monetary terms when compiling a list of trade secret information.
+ He considers that although such an assessment is quite subjective, when determining the amount of damage caused, the court should proceed not only from the expenses incurred for its receipt, but also from the mentioned amount.
+ Մ. Maslennikov, in order to avoid the problem of determining the amount of damage caused by the publication of information, proposes to conclude civil lawsuits with the persons who have access to the information on non-disclosure of the received information.
+ At that time, the right holder of the information constituting a trade secret, in case of its publication under Article 369 of the RA Civil Code, will have the right to demand a fine from the guilty person under the contract, without proving the amount of damage caused [9].
+It is necessary, however, to mention the solution of the problem, M. Significant shortcomings of the version proposed by Maslennikov.
+ Thus, the limited nature of the applicability due to the lack of contractual relations for publishing, using or receiving the information constituting commercial secrecy by both legal and illegal methods, the right of the court to reduce the penalty under the contract, according to Article.
+Analyzing various approaches to solving the problem of proving the amount of damage caused by the disclosure of trade secret information, we believe that when a trade secret holder classifies information as a trade secret, the warranty does not provide compensation for the value stated by the right holder (collection of damages under the contract). Not the method, both of which simply make it easier to prove the extent of the damage caused.
+ Moreover, the holder of information constituting a trade secret may use both of these methods simultaneously.
+Let's move on to the issue of the moment of damage to the right holder of a trade secret.
+ In case of publishing information constituting a trade secret, the decision of such a moment is not difficult. The damages occur at the moment of publishing the information.
+ A problem arises when it is necessary to determine the origin of damages in case of illegal trade secrets.
+  Մ. Epstein believes that damages are provided for in Article 139 of the Russian Civil Code, that is, liability arises only in the case of use of trade secrets or know-how, because obtaining information constituting trade secrets, even through illegal methods, is not a loss for the right holder. leads.
+ Thus, the main illegal activity is the use of trade secrets [10].
+ He also expresses a similar point of view. P. Gavrilov, arguing that the damage caused to the person who obtained the information constituting the trade secret by illegal means leads to the loss of the value of the real carrier of the trade secret, the damage caused to the other property of the commercial secret holder as a result of illegal possession of the real carrier.
+  It is difficult to agree with this view because, given the specifics of the information, it is not possible to trace whether the person who obtained the information illegally used it or not.
+  In addition, the right holder of trade secret information is deprived of the income he would have received if the person had obtained the information from him.
+  It seems that A. is more grounded. P. Sergey և L. A. Krikun's view is that the misappropriation of information, consequently the proceeds of illicitly obtained information, only alleviates the problem of the infringing right in justifying the extent of the damage caused, as in this case the infringing claimant's claim for other damages is no less. to the extent of that profit.
+ Thus, even if the person receiving the information constituting the trade secret by illegal means did not use it, the right holder of such information has already suffered so much damage that he could have received compensation for the transfer of such information under the contract.
+LITERATURE [3] Concept for making changes in the tenth section of the Criminal Code, URL.
+http:
+//www.moj.am/storage/files/legal_acts/legal_acts_1656450483731_tasnerord.pdf.
+Commercial secret in pre-employment activities.
+  comparative [6] Hayrapetyan A., "Peculiarities of the subjective composition of relations arising in connection with trade secrets", "Legality", № 91, 2016, pp. 48-57, URL.
+ http:
+//www.prliament.am/myfiles/files/magazine/91.pdf.
+Hayrapetyan SOME QUESTIONS FOR RESPONSIBILITY OF VIOLATION OF ARUS TRADE SECRET REGIME Keywords: trade secret, know-how, responsibility, protection, information, information, civil code, sin.

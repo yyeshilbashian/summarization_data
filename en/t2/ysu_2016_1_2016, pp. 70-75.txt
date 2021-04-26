@@ -1,0 +1,86 @@
+ON METHODOLOGICAL ISSUES OF CLIMATE RANGE ANALYSIS (EXAMPLE OF RA) Each methodological problem is based on its theory, the various complexity of the object under study, and the theoretical unresolved issues in a number of other related sciences.
+Geographical sciences, including climatology, are closely related to other natural sciences, often in the collision zone of the objects of study of those sciences.
+As a rule, climate is a complex geographical phenomenon, which is formed and changed as a result of the interaction of atmospheric, oceanic, terrestrial-icy systems and the thermal energy of the Sun, as a result of the relative imbalance of any of these systems.
+  Therefore, climatology is one of the complex sciences, it has an object of various studies, as well as the necessary systematic approach to the solution of methodological issues and problems [8, 9].
+Back in the days of Galileo, scientific achievements were based on the interrelationship of theory and experience.
+ It was as a result of this interaction that in the 19th century, at the beginning of the previous century, not only the empirical but also the theoretical achievements of the natural sciences became apparent.
+ In that sense, the "situation" of climatology is quite complicated.
+ It is considered an "experimental" science [9, 10].
+ It is a complete branch of science that studies the climatic manifestations formed on the planet Earth as a result of hundreds of millions of years of universal phenomena.
+ In this respect, it is impossible to show a basic one-sided scientific approach.
+In fact, the study of the planet Earth's climate today has many problems due to even the slightest uncertainties in other physical, chemical, biological and other fields.
+  The complexity of the climate system requires the use of statistical methods to determine the quantitative ratio of climate elements at different scales of space and time.
+The methodology of applying statistical methods in climate research is much more complex than in a number of other sciences.
+ The main reasons for this are the following: [8] It is seldom possible to make a truly independent experiment in climate research.
+Independent data can be obtained only through the use of dynamic models, which can be used to describe a particular climate system, and with unknown accuracy, the data of almost all climate studies are related to space and time, which are quite difficult to study at the same time.
+Because of these two problems, it is difficult to answer such an important question as to how accurate information can be obtained about the studied climate phenomenon.
+ These other unresolved methodological issues lead to a number of inaccuracies, the solution of which is considered to be one of the important problems facing climatology.
+Thus, in fact, even in the conditions of modern development of science and technology, there are many unresolved unanswered questions in the field of climatology, some of which are being solved, and others are becoming more and more problematic for scientists in this field.
+Based on this or that methodological problem, the ուսումնասիր methods we use are substantiated by the fact that they have: 1. a basis for ensuring high accuracy; 2. as a result of studies, give accurate conclusions about artificial interruptions in the series, about accidental interruptions; 3. they enable the nature of the change of the series to be determined.
+The work uses the Chronostat software package [6], which includes a number of methods, including autocorrelation, step correlation, Bouisand statistics, Pettitt test, Bayesian (Lee Heghinyan) procedure [1, 2, 5, 7] [3]
+As a result of studies և analyzes we have selected իճ Degree correlation և Hubertiseg mentation procedure.
+At the heart of these methods is the study of a change in a series, which is given by proposing hypothesis (H0), the acceptance or rejection of which determines the nature of the change in the series.
+ We used the 95% confidence level (or accuracy) of the above tests for scientific research.
+Gradual correlation can be used to detect the presence of a change in a row, as well as to obtain the value of a calculated variable that indicates the degree of reliability of the change detected in the row.
+  The sign of the latter determines whether the change in the row is positive or negative, the minus indicates a tendency for a negative change in the row, and the plus - a positive.
+The Hubert segmentation procedure is based on the method of splitting the m segments (segments) of the series (m> 1).
+ So the average calculated value is significantly different from the average value of each segment.
+ This procedure is considered a stationary test.
+ If the procedure is not acceptable, the segmentation order is greater than or equal to 2, then H0 hypothesis (for stationary series) is considered accepted [3], which means that there is no trend of change in the series during the given period.
+Through the Hubert segmentation procedure, we studied the "interruption" of climate series, due to which the average "interruption" values ​​of the series were determined.
+  "Interruption" is defined as the probability of a random change in the mean value of a chronological order starting at any point.
+ This gives not only a qualitative, but also a quantitative assessment of the series.
+ This means that with the help of this method we get the quantitative value of the change in the average value of the series after the main "interruption".
+In addition to the above methods, we have also used some programs of the R Studio statistical software package (in particular the Mann-Candelltest) to study climatic series, to identify, analyze, evaluate the occurrence of homogeneity, randomness, interruption phenomena, and to draw appropriate conclusions.
+The Mann-Kandell test is widely used in the natural sciences; it is used to analyze long series of data by studying the autocorrelation between n members of a series; the nature of their change over the period under study.
+However, before analyzing the series using the Mann-Kandell test, it is necessary to study the autocorrelation values ​​of the series lag-1, r, using the following formula: [4].
+It helps to identify the connection between successive members within the series ույթը the nature of the change.
+  The data obtained as a result of the calculations are in the range of -1 to +1.
+ Striving for + 1 means that there is a positive correlation, and for -1 - negative.
+Using this method, graphs were given and analyzed for all stations.
+According to the Mann-Candell test, if the series has lag-1 autocorrelation, the members of the series are subject to recalculation using the following formula: Here are the results of the Mann-Kandelli test.
+The Kendall correlation coefficient (τ: Kendall's tau) provides a monotonous connection with a general non-parametric dimension.
+ The connection is called monotonic because the coefficient τ does not change as a result of the monotonous transformations that take place in the X or Y series (in this case, the years և observed օդ meteorological data).
+  This coefficient determines the strength of the relationship between the two variables.
+The Kandell degree correlation coefficient is given as follows: [4, Equation 1.5], where S is the Kandell's unit, determined by the following formula, where sign () is the token function, and D is the maximum possible value of S.
+ In case there are no connections in the two X և Y rows, then the parameter S indicates the change of the series, and the sign indicates the positive-negative tendency of the change of the series.
+ In general, if there are nx connections in ti size where i = 1,…, nx X in the row, ny connections in ui size where i = 1,…, ny in the Y row, then where?
+In the case where there are no degree relations, [4] it is known that according to the H0 hypothesis, the distribution of S can be determined by the normal distribution by deviating from the mean zero, where n≥10.
+Given the n-sequence time series Z, where t = 1, .., n, Mann (1945) proposed to use the Candle degree correlation to test for monotonic change.
+The invariant zero hypothesis (H0) assumes that, in the Z series, where t = 1,… .., n, the members have an independent distribution.
+Z = 0 if S = 0 if S> 0 if S <0 There is another p parameter in the method, which is the maximum lag period.
+If it is less than the Significance level 95%, α is equal to 0.05, then the H0 hypothesis is rejected, which means that there is a change (trend) in the row.
+The applied methodology is based on intermittent data analysis, systematic approach, integrity, specificity, complexity, diversity, etc.
+As already mentioned, these methods were used by us for the first time for the analysis of long-term average temperature series of about 41 meteorological stations in Armenia (1961-2012).
+ As a result of the application of the methods, a noticeable regularity of changes was observed, which was analyzed taking into account the geographical location of the stations, the topographic diversity, the mountainous nature of the relief, etc.
+According to the results of the Mann-Kandelli test, the H0 (zero) hypothesis is rejected for 24 rows of the studied stations, ie there is a trend, which is definitely positive (Fig. 1).
+ No change was observed in the other 17 stations.
+ The most reliable results were obtained for Yerevan / Arabkir (p = 0.000826, = 0.327267) և Yeghegnadzor (p = 0.001765, = 0.343236) stations.
+ According to the obtained results, in Armenia it is possible to separate several regions, within the limits of the zone of change or non-change.
+ The zone of change in the territory of Armenia occupies about twice as large an area as a non-change zone.
+  Most of the unchanged stations (8 stations) are located in the southern, western, and southeastern part of the Aragats Plateau, northeast of Lake Sana on the south-eastern slopes of the Aregun mountain range, in the part.
+According to the Hubert segmentation procedure, no negative air temperature deviation was observed in any of the 41 stations studied during the last 5 decades.
+ The temperature increase in the observed 32 stations is from 0.23˚C (minimum increase was observed in Shamb) to և1.44˚ C (maximum increase was observed in Aparan).
+  As shown in Table 2, an increase above 1˚C was observed in Aparan, Armavir, Yeghvard, Merdzavan, Meghri, Urtsadzor, Yerjan / Arabkir, Goris, Ashotsk, Bagratashen և Yeghegnadzor stations, in other stations up to 1 ։C.
+  Moreover, Armavir, Merdzavan, Meghri, Urtsadzor, Yerjan / Arabkir, Bagratashen "Yeghegnadzor stations are located up to 1200 m above sea level" have dry subtropical climatic conditions.
+  It means that the relatively low-lying mountainous regions with arid climate conditions are more vulnerable to climate change.
+  It is also noteworthy that in 1994 The change in the stations observed after the change is quite large, which is considered a turning point for 19 stations (Fig. 2).
+Figure 1. The nature of changes in air temperature in the Republic of Armenia from 1961 to 2012, according to the results of the Mann-Kandell test. Using the Hubert segmentation procedure, it is possible to perform not only qualitative but also quantitative analysis.
+  With this method, one can estimate the nature of the change in the row by having the turning year or years after which the mean value of the row changes dramatically.
+  We have separated the ten-year periods of average temperature change, according to which for 3 of the studied stations the average temperature change was observed after 1970 (Armavir, Ararat և Ashtarak), for 2 after 1980 (Yeghvard և Gavar) For 3 after the first decade of the 21st century (Amasia, Aparan և Masrik), for 24 after the 1990s, and for 9 no change.
+  This speaks about the fact that temperature change has been observed in most parts of the Republic since the 1990s.
+  Let us single out a circumstance that the long-term average annual air temperature values ​​in 24 out of 19 stations were drastically changed in 1994. then.
+According to the analysis of the results of gradual correlation, we can say that in most of the territory of the Republic, almost 78% (expressed as the percentage of the number of stations) from 1961-2012. The average annual temperature changed during the year, and the remaining 22% are almost indifferent to the change.
+ The resulting changes are positive for all 32 stations, which means that the average long-term air temperature in the territory of Armenia has a definite upward trend in the context of global climate change և the region can be considered quite vulnerable (Fig. 3).
+Figure 2. Analysis of air temperatures in Armenia according to Hubert Figure 3. Analysis of air temperatures in Armenia by correlation of results of gradual segmentation It can be said that the highlands are more vulnerable to global climate change than the relatively lowlands of the country, both in the world and in Armenia. Global climate change has become especially evident in the last two decades.
+As a result of the study, it was possible to identify և assess the nature of multi-year air temperature change in Armenia, coming to the following conclusions: չի no negative change was observed in any of the 41 stations studied ություններն, դիտ  According to the results of the Mann-Candell test, no change was observed in the northeast Հանրապետության south-east of the Republic, where the forest landscapes are more widespread, as well as from the Aragats massif to the south-west, the gradual correlation is almost repeated. but on a smaller, non-change scale  according to Hubert segmentation,If we analyze the geographical location of the stations, it is obvious that up to 0.2˚C growth was observed especially on the slopes of Aragats massif, except for the north-east-south-east slopes, as well as in the Voghji river valley.
+ It is higher than 0.8˚C mainly in valleys և in closed depressions, except for some stations.
+In order to avoid serious economic and ecological problems in the future, it is necessary to develop more serious, post-adaptive adaptation programs, taking into account the results of these voluntary scientific studies.
+ It can also be understood that the existing changes are of a regional nature, strongly conditioned by the surface, landscape and microclimatic conditions of the given area.
+Literature 5. Lee A., Heghinian S., A shift of the mean level in a sequence of independent normalrandom variables.
+  A8. Von Storch H., Navarra A., Analysis of climate variability.
+  Applications of statistical techniques, Springer9. Analysis of the temporal variability of runoff in Ivory Coast.
+  statistical approach and phenomenacharacterization, http:
+//www.itia.ntua.gr/hsj/41/hysj_41_06_0959.pdf /.Procedures, http:
+//www.wseas.us/e-library/conferences/2012/Rovaniemi/ACACOS/ACACOS-07.pdf/.11. The Kendall Rank Correlation Coefficient, https.
+//www.utdallas.edu/~herve/Abdi-KendallCorrelation2007 Hrachuhi Galstyan ON METHODOLOGICAL ISSUES OF CLIMATE RANGE ANALYSIS (EXAMPLE OF RA)

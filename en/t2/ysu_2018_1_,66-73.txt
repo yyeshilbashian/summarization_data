@@ -1,0 +1,111 @@
+REGIONAL CHANGES OF MUSICIANS AND WORKERS AND THEIR RISK MECHANISMS IN ARMAVIR AND ARARAT REGIONS They are rural in the Republic of Armenia, they are very complex in the region.
+ The importance of drought և study ուսումնասիր assessment և is related not only to the assessment of their current state, but also to the prediction of spatial changes in hazardous phenomena, adaptation measures, damage mitigation processes, which have become more urgent in the context of global climate change.
+The paper discussed the causes of peculiarities of droughts and droughts in Ararat, Armavir marzes, the patterns of distribution, the negative consequences, the ways of their prevention and mitigation.
+ The studies were carried out on the basis of multi-year data of observational points of seven "aeronautical stations operating in Armavir marzes in Ararat".
+ Mathematical-statistical methods were used for data processing.
+  Based on the received data, tables, graphs and maps were compiled.
+Drought is a dangerous agro-meteorological phenomenon due to high temperatures (> 25 ° C), relatively low humidity (≤ 30%), long-term significant lack of precipitation.
+ An increase in temperature leads to a decrease in relative humidity and an increase in humidity deficit.
+  There is a discrepancy between the "input" of plant moisture. The plant's lack of moisture և drought begins.
+The impact of drought on crops as well as crops depends on various factors: the onset of drought, rainfall, intensity, weather conditions previously observed, wind speed during drought, plant development stage, drought resistance, and the level of agricultural machinery used [3].
+Studies have shown that when crops are watered at an early stage, the plants form a deeper root system, making better use of soil moisture խոն և easily withstand drought.
+Droughts are of two types according to their origin: atmospheric and soil.
+ In case of soil droughts, the plants suffer from long-term absence of rain, lack of useful moisture in the root layer of the soil.
+ Drought affects plants gradually.
+  In case of atmospheric drought, the soil may have some useful moisture reserves, but the plants suffer from high air temperature և relatively low humidity.
+  Usually, soil drought is preceded by atmospheric drought, after which they are released together.
+Droughts are divided into 4 groups according to intensity: very strong, strong, medium և weak [3].
+ Drought monitoring of the CIS countries offered the following main indicators: 1. Գ. T. Selyaninov's hydrothermal coefficient (HTC): 2. D. I. Moisture modulus (Md), natural moisture content (V%), number of days with relative humidity less than 30% (N0), number of days with average air temperatures above 30 ° (Nt), soil layer (0-20 cm). 0-50 cm, 0-100 cm) effective moisture reserves (W0-20, W0-50, W0-100).
+Table 1. Factors characterizing drought conditions of different intensities [3] IndicatorsMinimumMaximum WT20 W0-20 (mm) W0-50 (mm) W0 -100 (mm) Drought intensityVigor StrongHighWeightLight Weakness Temperature is low * 30% relative humidity * 30% relative humidity * The values ​​given in Table 1 from 30 ° C alone do not contribute to the formation of plains, as the same amount of precipitation, relative humidity, temperature, depending on local conditions, terrain, soil type, plant growth rate, etc., may have different effects.
+Air. stationHTGveg.regh.veg.shr.Ararat marzAraratArtashatUrtsadzorAnonymous leakArmavirMerdzavanArmavir marzVery strongStrongStreetLight or complete absenceTable 2. G. T. Selyaninov hydrothermal coefficient (HTF) և D. I. Atmospheric Humidity Index (Md) in Ararat և Armavir Marzes [6] Comparing the data of Table 2 with the data of Table 1, it can be concluded that very strong droughts can be observed in July at Artashat և Armavir stations (HTI: 0.1 ), in August at all stations except Urtsadzor, and in September at Ararat և Artashat stations (HTG: 0.1).
+ Heavy droughts (0.2-0.39) can be observed in July at Ararat, Urtsadzor և Merdzavan stations, and in September at Urtsadzor և Merdzavan stations.
+  Moderate droughts (MW 0.40.6) can be observed more often in May (Ararat, Artashat stations), June (Artashat, Urtsadzor, Armavir, Merdzavan stations), July (Anonymous flood) and September (Anonymous flood) .
+ Complete absence of droughts in the vegetation period is possible only at Anonymous Station, moderate droughts in Urtsadzor և Merdzavan stations, և strong droughts in Ararat, Artashat և Armavir stations.
+At the same time, comparing the atmospheric humidity index of Table 2 with the data of Table 1, it can be concluded that in July, August, September in all stations of the regions very strong droughts can be observed (Md: 0-0.09), and in the vegetation period are observed in all stations, except for Anonymous Station, where typical droughts are typical (Md: 0.19).
+It can be said that in case of both indicators, in general, the probability of very strong droughts is especially high in July, August and September.
+As can be seen from Figure 1, most often droughts are observed in the sub-regions of the regions, and along with the absolute altitude, they decrease significantly.
+ It should be noted that there are favorable conditions in the regions, especially for very strong, strong and moderate droughts.
+Figure 1. Number of ten days with droughts in Ararat և Armavir marzes. Khorshak is a dry, hot wind, which is endowed with high heat and relatively low humidity.
+ The sum of the meteorological elements observed at the same time is the sum of relative humidity - տարր30%, temperature -> 25 ° C, and wind speed - ≥ 5 m / s.
+ The daily course of the storms is similar to the temperature և wind speed և is well expressed in the afternoon [2].
+ The most dangerous, intense rashes during the year are observed in July-August.
+ During the summer months, a low-pressure field forms in the Mesopotamia region, with hot and dry tropical air penetrating from the south-east to the south, especially in the southern regions.
+Table 4 shows that the maximum number of perennial days in the vegetation period was observed in August in both regions.
+ The maximum number of days in Ararat region was observed in Artashat observation point - 4.8 days, and in Armavir region - in Armavir observation point - 5.1 days.
+Months:
+n:
+a
+a
+k:
+d:
+Oh:
+f:
+r:
+a
+M:
+t:
+a
+շ:
+a
+t:
+r:
+a
+r:
+o:
+ձ:
+a
+ց:
+r:
+և:
+O:
+t:
+a
+r:
+a
+r:
+a
+r:
+ի:
+f:
+a
+m:
+r:
+a
+n:
+a
+f:
+a
+ձ:
+r:
+e:
+M:
+t:
+a
+r:
+a
+r:
+a
+r:
+ի:
+f:
+a
+m:
+r:
+a
+Table 4. Number of days with ridges in the vegetation period in Ararat ր Armavir marzes [6] Figure 4 shows that in Armavir marzes the days with ridges are more (120 և more) in the eastern and south-eastern parts of the region, and significantly decrease when moving inwards.
+  In Ararat region, the minimum number of days with ridges is observed in the eastern part of the region, and along with the decrease of absolute heights to the west, the number of days with ridges increases.
+Figure 4. Number of days with ridges In Ararat և Armavir marzes Irrigated lands hardly suffer during the days of ridges.
+ It turned out that if there is a sufficient amount of moisture in the soil, in a layer of 20 mm 0-20 cm, then the grain sowing և fruits can withstand weak frosts up to 5 without serious damage, in case of medium intensity - 3-4, in case of intensities - 2-3, and in very intense cases, within 1-2 days [1].
+It should be noted that in the conditions of global climate change, the probability of unfavorable meteorological conditions will increase, in particular, the negative impact of droughts will increase on the yield of agricultural crops, the impact of which needs to be taken to mitigate a number of measures and apply new technologies.
+ Among them are: 1. Application of moisture supply technologies, 3. the right use of fertilizers և their timely use (it turns out that phosphorus-potassium fertilizers increase plant resistance to droughts), the correct use of crop rotation, which will increase the amount of water penetrating into the soil ագույն the volume of water accumulating in the soil layer մասնավորապես new method of irrigation drip irrigation).
+Introduction of drought-resistant crop varieties, LITERATURE [1] Gyulkhasyan M., Assessing the Technological Needs of Field Crop Adaptation Measures in Climate Change, Climate Change Issues, Yerevan, 2003, pp. 145-153.
+[2] Torosyan A., Melkonyan H., Climatic study of droughts, "rainy" periods in the territory of the Republic of Armenia, The Problem of Climate Change, Yerevan, 1999, pp. 65-69.
+[3] Khachatryan L., Melkonyan H., Sargsyan N., Issues of assessment and forecasting of droughts caused by climate change in the territory of the Republic of Armenia, Issues of climate change, Yerevan, 2003, pp. 284-288.
+[4] Climate Bulletin, Part I, Air և Soil Temperature, Haypethydromet, Yerevan, 2011, p. 150.
+[5] Climate Bulletin, Part V, Atmospheric Phenomena, Haypethydromet, Yerevan, 2014, p. 70.
+[6] Agro-climatic resources of Armenia, Haypethydromet, Yerevan, 2011, p. 155.
+[7] National Atlas of Armenia, Volume A, Yerevan, 2007, p. 232.
+[8] URL.
+ http:
+//minagro.am/ (Available as of 26.08.2017).
+Vardanyan REGIONAL CHANGES OF SEDAIRES AND FACILITIES AND THEIR RISK EXTENSIONS FROM ARMAVIR AND ARARAT REGIONS's soil, drought, drought, drought, drought.

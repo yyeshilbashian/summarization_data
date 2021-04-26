@@ -1,0 +1,64 @@
+MAPPING OF ACTIVE DEEP FRACTURES BY GEOPHYSICAL METHODS Deep fractures are considered to be one of the most important structural elements of the earthquake.
+  They reach as far as the Mohorovichich border, are accompanied by earthquakes, and rock disturbances and movements continue within their borders.
+  Deep fractures are morphologically pronounced long-developing disjunctive surfaces, or narrow tectonic displacement zones of the earth [1].
+These are of displacement, cover-displacement varnet nature, which penetrate the earth's upper layer and are to some extent connected with the main geological processes, such as sedimentation, magmatism, and mountain formation.
+  This is because deep fractures have always been the subject of priority studies for many specialists - geologists, geologists, geophysicists.
+The role of deep fractures in the development and development of geosynclinal fractures and changes in the formation formations of mountain rock facies has been proven.
+  Armenia is no exception from this point of view.
+  The exploration of deep fractures in the territory of Armenia is connected with 2 main problems: a) seismic zoning, earthquake forecasting, tectonic bypass, b) exploration of mineral deposits և exploration.
+  The territory of Armenia is included in the Mediterranean zone, earthquakes of 8-9 magnitude are possible here.
+ Experience has shown that deep fracture zones շրջան their intersection areas are considered to be the most likely sites for strong earthquakes.
+  From this point of view, detailed studies of deep fractures in the territory of the Republic of Armenia are extremely important.
+  Often fractures are detected or their data are corrected only after their seismic activation.
+  It is also known that relatively reliable data on active fractures can be disclosed when seismogenic fractures and concussion processes with strong earthquakes are studied in detail.
+  Fractures are usually distinguished on the basis of geological, geophysical and geological features.
+ However, not all of these criteria are reliable on their own, which is why fractions are separated on the basis of the data set.
+  Depending on the geological conditions of the area, reliable signs may vary.
+  Geophysical methods are more effective for studying areas covered with young formations.
+  Geological methods are less effective, especially when fractures do not exhibit noticeable tectonic activity after the formation of the cover.
+  For this reason, in the covered areas, in the best case by geological methods, the fractures.
+Studies have shown that the separation of fractures in rocky areas of young age is primarily a geophysical problem [1].
+  Depending on the geological structure of the study area, the characteristics of fractures, the selection of effective and reliable geophysical criteria for segregation may be a problem.
+  For this purpose, the nature of geophysical anomalies in the fracture zone is usually studied, the connection with them is revealed, հի one of the most effective known geophysical criteria based on this data.
+  There is another approach to the separation of practical fragments. First, the nature of the change in the geophysical fields on the fragments of the fractured faults is studied as a reference site, and then, as a result, the geophysical criteria are selected.
+ Spitak 1988 Earthquake (magnitude 7.0, magnitude 9-10 on MSK-64 scale), a fracture that came to the surface of the earth, about which there are quite reliable data (total length 37 km, geometric parameters, directions of movement during the earthquake և size, epicenter mechanism և etc.), seismically active, is a possible benchmark for breaking fractures [1].
+Figure 1. Map of active faults in Armenia և adjacent areas [5] (1. clearly expressed on the surface, 2. buried faults, 3. assumed active faults, 4. inactive faults, 5. curvatures, flexure, 6. linear zones, obtained by space There are many maps on the deep fractures of the Republic of Armenia, which were compiled and substantiated by different specialists (S. Nazaretyan, S. Balasanyan, E. Kharazyan, A. Karakhanyan, etc.), but from Spitak 1988. After the earthquake, as a result of detailed field geological surveys carried out in the north of Armenia, new maps of active faults were drawn (Figures 1 և 2).
+Figure 2. Spitak 1988 Map of active faults in the earthquake zone (according to different authors) (1. Active faults, 2. Spitak seismogenic fault, 3. Locations of active faults activated during the Spitak earthquake, 4. Other faults, 5. The direction of the regional field of tectonic stresses, 6. Local tectonic stresses) field direction) In the case of the first fracture separation approach, difficulties arise in interpreting geophysical anomalies, as the geological interpretation of geophysical data is not always unambiguous.
+ In the case of the second approach, the fractures or their fragments must be reliably selected.
+  It is usually difficult to find such fragments of fractures, which we conventionally call rappers.
+  Therefore, it is necessary to apply both approaches at the same time, as the worms can complement each other.
+  In particular, there are the following favorable conditions for the selection of rappers of deep fractures in the north of the Republic of Armenia: 1. Detailed study of the fault tectonics of most of the area with the help of "Zemlya" և "Cherepakha" seismic stations [3].
+2. 1.
+Availability of 200,000 խոշոր larger scale իչ magnetic աչափ magnetometric maps.
+  Detailed seismological data, which also contribute to the reliable separation of fractures.
+  Moreover, on the fragments of the fractures, studying the main characteristics of gravitational-magnetic fields, the possible directions of their propagation were determined.
+Studies have shown that where seismic survey profiles intersect with geological boulders, deep faults are generally confirmed.
+  From a combination of gravitational դաշտ magnetic field and fracture schemes (Figures 3 դիտ 4), it was observed that the vast majority of rappers coincide with gravitational field zones of high horizontal linear gradients.
+Figure 3. Scheme of distribution of fracture rocks ևanomalgravitational field schematic
+map (Gravitational fields: 1. maxima, 2. minimums, 3. High gradient zones, 4. Regional axes of high gradient zones, 5. Stretched axes of high gradient zones, 6. Seismic faults of up to 1 km, 7. 1-2 km, 8. 2 km և more, 9. Geological rappers) Some of the rappers coincide with the lines of structural disturbances of the gravitational-magnetic field anomalies.
+  Such lines are different in nature.
+  They change the prevalence of anomalies, eggs, strength, size.
+  That is, they serve as boundaries between the "anomalies of intensity" of different ology.
+Figure 4. Fracture rack placement diagram և Magnetic field map (extracted from an altitude of 4200 m) [6] (1. Positive isodynamics, 2. Zero isodynamics, 3. Negative isodynamics, depth-of-vertical displacement amplitude, up to 5 amplitude, km 1-2 km, 6. 2 km և more, 7. Geological rocks) Based on the above-mentioned methodology և set of geological-geophysical criteria for fracture separation, the regional fractures of the Northern Territory of the Republic of Armenia were formed: 1.
+The 200,000 scale map (Figure 5).
+ Several new fractures have been separated - their fragments (Lalvar-Murghuz fracture, the north-eastern fragment of Akhuryan fracture, the fracture stretching from Dilijan to the northeast).
+Figure 5: Map of regional fractures in the northern part of Armenia with geological-geophysical criteria for fracture separation Geological-geophysical criteria are shown in Latin letters. G - gravitational, M - magnetometric, S - seismic, E - seismic, macroseismic և condensation of epicenters, T - tectonic, O - sedimentary, D - geological, including distance (telemetry).
+Figure 5 shows the groups of geological-geophysical signs that separated the fractures.
+  They are both geological and geophysical characteristics of fractures.
+  The fractures are separated by 4-5 groups of symptoms.
+  They are groups of gravitational, magnetometric, seismic, seismic, as well as tectonic, sedimentary, distance (aerocosmic) signs.
+  Note that each group is represented by several criteria.
+ For example, gravitational signs should mean both high-gradient stretches and abrupt changes in the structural structure of the gravitational field, local anomalies, along those zones.
+  Two groups of seismic signs are separated from each other.
+  The group of seismic signs includes the features of propagation, reflection or exchange of seismic waves, which are typical for fracture zones.
+ 1.
+Studies on a scale of 200,000 show that different parts of regional faults, even only in the north of Armenia, have different geological-geophysical features.
+  That is, the same refraction, having in common, at the same time different characteristics in different parts.
+As a result of the analysis, we can make the following conclusions: o To get a more complete picture of the fractures, a complex application of geological-geophysical methods is required.
+o In order to select deep geophysical fractures, the established connections between the "physical field elements" of the rappers should be used first to select geophysical criteria.
+o The use of magnetic աչափ magnetometric methods to map active deep fractures is more effective.
+LITERATURE [1] Nazaretyan S., Spitak 1988 The earthquake with photos, facts and comments.
+ Yerevan, Science, ed. 2018, page 11.
+[5] Balasanyan S., Nazaretyan S., Map of active faults in Armenia 1995 adjacent territories 1995.
+Mkrtchyan Lianna MAPPING OF ACTIVE DEEP FRACTURES GEOGRAPHICS Keywords: fracture, circumference, geological-geophysical
+.

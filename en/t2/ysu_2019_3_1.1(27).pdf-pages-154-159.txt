@@ -1,0 +1,49 @@
+EFFECT OF THE COMBINATION OF DARK AND LIGHT CONDITIONS TREASURING MICROALUM ON THE EXIT OF H2 OF PARACHLORELLA KESSLERI Green microalgae are one of the promising objects of biotechnology.
+ They are characterized by high metabolic flexibility, the ability to accumulate various compounds with antioxidant activity in the cell under certain stress conditions: carotenoids, tocopherols, vitamins, etc. [1].
+ Green microalgae are used as raw materials in various sectors of the economy - in the food industry, pharmaceuticals and agriculture, as well as in cosmetology.
+Some green microalgae are able to produce hydrogen (H2) during photosynthesis using light as an energy source [2, 1, 3].
+ The electrons generated during the photosynthesis of H2O, passing through the photosynthetic electron transport chain, can bind to the enzyme responsible for the production of H2, hydrogenase, which results in the formation of H2 [2].
+At present, the production of H2 in microalgae is of great interest due to a number of advantages, such as the presence of O2 of natural origin, solar energy and substrate in water, as well as the presence of non-toxic raw material O2 [2, 1].
+ One of the energy aspects of H2 is the choice of conditions for H2-producing organisms to ensure a high output of H2.
+ In this regard, the use of isolated green algae Parachlorella kessleri in Armenia can be used as a new approach to the development of H2 technology.
+Light is one of the most important factors in regulating the production of H2, which regulates the growth of phototrophs.
+ Sufficient light intensity during the transfer of electrons during photosynthesis provides reduced equivalents և AEF, contributing to the production of H2 [4, 5].
+However, the role of the combination of dark and light conditions in the production of H2 in green algae has not yet been studied.
+ The combination of these phases can alter the metabolism of phototrophs ել affect the output of H2.
+In this work, the production of H2 in green microalgae P. kessleri under the combination of dark and light phases was investigated.
+Object of research և methods.
+ The green microalgae P. kessleri RA-002 served as the object of research.
+ It was grown in the liquid food environment of Tamia in aerobic conditions at a speed of 100 p / min, at a temperature of 25 0C, pH 7.5 և 2000 lux.
+To study H2 production, the algae were centrifuged in the growth station at a rate of 2000 rpm and transferred to a trisacetate-buffer (TAP) medium (anaerobic conditions, pH 7.5).
+  Acetate, fructose և glucose at a concentration of 1 g / l were used as carbon sources.
+P. kessleri growth was tracked by measuring the optical density of a 680 nm (ohm 680) long wavelength light spectrometer using a Spectro SP-2000 (Hinotek, China) spectrophotometer [7].
+The ambient pH was determined using a pH meter (pH 302, Hanna Instruments, Portugal) and adjusted to 0.1 M NaOH.
+ The pH of the growth medium was maintained at 7.5.
+ Environmental OVP was determined using the EPV-01 platinum glass electrode (Gomel Measuring Instrument, Belarus).
+After stabilizing the OVP drop recorded by the platinum electrode, the H2 yield was determined (calculated according to the OVP value, expressed in mmol / l) [6, 7].
+Research results. Changes in the pH of the environment of P. kessleri ri OVP under the combination of dark և light phases.
+In this study, changes in ambient pH և OVP in the combination of dark և light phases were investigated in the green microalgae P. kessleri.
+  For this purpose, four conditions of combination were used: 1st culture was illuminated during the whole growing season, 2nd culture was in the dark, 3rd culture was illuminated for 24 hours, then in the dark, and the 4th culture was illuminated after 24 hours in the dark. .
+pH և OVP are one of the important criteria for bacterial growth medium. They can affect the activity of both H2-producing enzymes and H2 metabolic pathways [4, 5].
+ In the presence of acetate, the pH of P. kessleri's medium increases under anaerobic conditions (up to 72 h) from 7.5 to 8.0 (Figure 1).
+  However, with the presence of the other two carbon sources, the pH decreases to և 7.0, which may be due to the formation of different metabolic products (Figure 1).
+It is noteworthy that in the case of a combination of dark and light phases, the pH is increasingly small, and in the dark, the pH value is almost unchanged.
+Figure 1. Effect of combination of dark and light phases on the change in pH of the medium of P. kessleri grown in the presence of different carbon sources ((pH was determined by the pH difference of the culture grown at և 72 h initially).
+Different Organic Carbon Sources ամ The combination of dark and light phases has different effects on P. kessleri's environmental OVP (Figure 2).
+  After 72 hours of continuous exposure to glucose in the presence of glucose, the OPS of P. kesleri was gradually reduced to և -450 ± 15 mV (Figure 2).
+Such a decrease in OVP indicates the stimulation of regenerative processes (characterizing the metabolism of algae under anaerobic conditions ությունը H2 production).
+ P. Kessleri's environment in the 72-hour dark environment has hardly changed. it has been reduced to 110 ± 10 mV (Figure 2).
+After 24 hours of illumination, the ODC of microalgae transferred to darkness decreased to 5 -520 ± 20 mV (Figure 2).
+  Such a change in OVP is associated with a decrease in oxygen production and a stimulation of hydrogen production.
+ However, when P. kessleri was exposed to light after 24 hours in the dark, the OVP value was -400 ± 10 mV (Figure 2).
+Figure 2. Effects of the combination of dark համ light phases on P. kessleri's change in OVP (in the presence of glucose) P. The output of H2 in kessleri under the combination of dark and light phases.
+  Green algae are known to produce H2 during photosynthesis, using light as an energy source [2, 1, 3].
+As can be seen from Figure 3, P. kessleri showed H2 production in all sources of carbon for 72 hours at continuous light.
+  However, when P. kessleri was exposed to darkness after 24 hours, the H2 output was 1.5 times higher than the production of H2 in the microalgae under constant light (Figure 3), which may be due to the stimulation of Fe-hydrogenase synthesis, where has anaerobic dark conditions.
+Figure 3. Effect of the combination of dark and light phases on the output of P. kessleri, grown in the presence of different carbon sources. , which may be due to the synthesis of O2 during photosynthesis under light, which inhibits hydrogenase activity (Figure 3).
+  No H2 production occurred in the microalgae stored in the dark, which indicates the role of the photosynthetic system in this process (Figure 3).
+Thus, new experimental data have been obtained, which will contribute to the selection of optimum lighting conditions that provide high H2 output in green microalgae.
+LITERATURE [3] Sharma A., Arya KS, Hydrogen from Algal Biomass.
+ A Review of Production process. [6] Trchunyan A., Baghramyan K., Poladyan A., Gabrielyan L. Biophysics of biological membranes, bioenergetics և biochemistry, YSU Publishing House, 2012, 128 pages.
+Conditions. J Photochem Photobiol B.
+ Biology 2017, 175, pp. 207–10. Manoyan Jemma EFFECT OF THE COMBINATION OF DARK AND LIGHT CONDITIONS MICRO-CRYSTAGE ON THE OUTPUT OF Parachlorella kessleri H2 Keywords: Parachlorella kessleri, in the dark

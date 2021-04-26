@@ -1,0 +1,93 @@
+Sci. Head: Candidate of Technical Sciences prof. A. Saribekyan E-commerce (EC) is no longer a new phenomenon.
+  The first business-to-business (B2C) online sales system was launched in 1984. In Great Britain, and in the 1990s, EC began to spread around the world.
+ Despite that fact, EC is not widespread in Armenia yet.
+ 2015 The results of a marketing survey conducted in 2010 show that 4.2% of the population of Yerevan made purchases from online stores or platforms in Armenia over the past year, and 14.2% from foreign online stores1.
+ It is logical that these indicators will be significantly lower in the regions.
+ This shows the low level of e-commerce penetration in Armenia 2, which is due to a number of factors.
+  These include the number of Internet users, the computer literacy of the population, the level of awareness և the acceptance of EC by the population.
+The number of Internet users in Armenia is increasing.
+  If in 2013 60.5% of the population of Yerevan used the Internet service3, then in 2014. The number of Internet users in Armenia (including wireless 3G և GPRS) has reached about 67% 4, which is a rather high indicator.
+ Based on the above figures, it can be estimated that no more than 7% of Yerevan residents with internet use Armenian online stores, and no more than 24% use foreign online stores.
+ This proves that internet access is necessary, but not the most important factor for the development of EC in Armenia.
+  The level of awareness of the possibilities of computer literacy և EC is also low, but there is a growing trend.
+ No research has been conducted on the acceptance of EC by the population of the Republic of Armenia, while this would allow only 4% of Yerevan residents to shop online from stores in the Republic of Armenia, http.
+//www.banks.am/en/news/retail/11590/, available on 16.01.2016.
+2 This article looks at business-only (B2C) e-commerce.
+B2B, C2C, G2C, G2B և other types are not considered.
+https:
+//www.isoc.am/publ/penetration_am.pdf was available on 16.01.2016.
+4 Enterprise Incubator Foundation, information և telecommunication file in Armenia.
+/// C:
+/Users/DG/Desktop/2014-ICT-Industry-Report_arm_final.pdf, available on 16.01.2016.
+NGO, Internet Research, Internet Society Penetration in Armenia, Factors Affecting the Adoption of e-Commerce in the Technology Channel ոլոր Take appropriate steps to accelerate the adoption of e-commerce by the Armenian population.
+A number of models have been developed empirically to assess EC adoption, almost all of which are EC-adapted versions of the Technology Adoption Model.
+ One of the most famous models is the 2003 model by Paul Pavlow. The Consumer Acceptance Model presented by Consumers 1, which combines the Technology Acceptance Model (TEC) with trust and risk.
+ The latter is based on Reasonable Action Theory (REAS) and presents the adaptation of this theory to the technological environment2.
+  According to Pavlow, the use of PEC for the EC is due to the technological nature of the EC, and the use of risk-confidence factors is due to the uncertainty in the EC.
+  Thus, a model is theoretically developed and empirically established, which allows to predict the adoption of EC by consumers.
+The spatial և spatial և temporal division սպառ unpredictability of the internet infrastructure of consumers և web sellers3 creates obvious uncertainty about online transactions3.
+ This is due to the fact that.1. There is a risk of losing money, as consumers have to rely on electronic information to become vulnerable to incomplete or falsified information provided by intermediaries. 4.2. There is a risk of losing the privacy of personal data due to the provision of personal data to web sellers by consumers during online transactions5.
+Thus, as a transactional infrastructure, the open global nature of the Internet creates uncertainty about online transactions, which makes risk-trust one of the most important elements of the EC.
+  Stewart, Pavlow և Ward argue that trust is, of course, a key component of consumer-seller transactions6.
+1 Pavlou P., Consumer Acceptance of Electronic Commerce.
+ Integrating Trust and Risk with theBryant and D. Zillmann (eds.), Media Effects.
+  Advances in Theory and Research. Hillsdale, NJ.
+The e-commerce acceptance model presented by Pavlow is shown in Figure 1.
+ The dependent variables - the intention to make a transaction - the actual transaction behavior, are presented as the main structures that determine the adoption of e-commerce.
+  Following the application of OCT in the technological environment, PEC variables (perceived usefulness ընկ perceived ease of use) are presented as key factors in the adoption of e-commerce.
+  Under the auspices of the OGT, this model incorporates additional EC adoption factors such as risk և trust.
+ All 4 factors are described, explained և their connection with the adoption of transactional intentions և EC is shown.
+Transaction Execution Transaction Execution Production Perceived Risk Perceived Use Perceived Ease of Trust 1. The e-Commerce Acceptance Model According to Pavlou E-Commerce Acceptance is generally defined as consumer participation in e-commerce relationships.
+ That is why online transactions can be considered as examples of interactive marketing communications.
+Consumer-seller exchange relationships usually involve a number of actions1.
+  The first step is often the transfer of data from the seller to the consumer, which takes place through Internet search, information collection, product and price comparisons.
+  Next step 1 Pavlou P., Stewart D., Measuring the effects and effectiveness of interactive advertising.
+ A re is the transfer of personal information by the consumer through email registration, product preferences տրամադր feedback.
+  This step is usually accompanied by automated information.
+  The last step involves providing personal և card information such as credit card information, final product preferences և shipping address.
+Intention to Transaction Zvas defines the consumer as the intention to enter into an online exchange relationship with a web marketer, such as sharing business information, maintaining business relationships, and conducting transactions1.
+  Based on the description of the online transaction process, the adoption of a Business Consumer (B2C) EC creates the need for the consumer to intend to use the seller's website to obtain and provide information, and then complete the transaction by purchasing a product or service.
+ While the number of Internet users is growing steadily, most online consumers are abandoning their shopping card before making a purchase.
+  This poses a serious problem for web marketers as they need buyers, not searchers.
+The relation between behavioral intentions and actions is presented in detail by the OCT տես Planned Behavior Theory2.
+Trust is a defining feature of almost all economic and social relations that contain uncertainty.
+ Virtually all relationships require an element of trust, especially those that take place in an uncertain EC environment.
+Trust is considered a catalyst in the consumer-seller relationship, as it provides expectations for successful transactions.
+ Lack of trust is considered to be one of the main reasons why EC consumers are not involved3.
+Trust can be defined as the belief that the other party will act responsibly, thus meeting the expectations of the trusting party without abusing its vulnerabilities4.
+1 Zwass V., Structure and macro-level impacts of electronic commerce.
+  From technologicallogies. CA.
+ Sage, 1998, pp. 289–315.2 Ajzen I., From intentions to actions.
+  A theory of planned behavior. In J. Kuhl and J. Beckmann (eds.), Action Control.
+ From Cognition to Behavior. NY.
+ Springer-Verlag, 1985, pp. 11–39.3 Keen PGW, Electronic Commerce Relationships.
+ Trust by Design. Englewood Cliffs, NJ.
+ Pren McKnight և At the work of its partners1, trust in B2C EC is defined in this model as a belief that allows consumers to voluntarily become vulnerable after learning about its characteristics from a web marketer.
+  This definition depicts two different but inseparable aspects of trust in the EC.
+  First, it includes the traditional view of trust in a particular party (web vendor); և second, it internally includes trust in the means of transaction (trust in infrastructure).
+  Because a certain level of uncertainty is a prerequisite for the existence of risk, the conceptualization of trust proposed in this model assumes that when consumers voluntarily turn to a vulnerable web vendor, they take into account "the characteristics of the web vendor (due to behavioral uncertainty)" with him. Characteristics of related technological infrastructures (due to environmental uncertainty).
+  Although trust in the EC has two purposes, web marketers can have a significant impact on trust in infrastructure by securing encrypted transactions, deploying information protection systems, and using authentication mechanisms.
+Perceived usefulness վող Perceived ease of use.
+  Virtually every step of the online transaction process requires consumers to interact with websites ենUse internet technologies.
+ Because transaction performance leads to the use of technology, this model monitors the consumer's intention to use Internet technology for online transactions to predict the variables of the Technology Acceptance model.
+ According to the PEC, two external variables affect the adoption of Internet technology: perceived usefulness and perceived ease of use.
+  According to Davis, perceived usefulness is defined by the extent to which the consumer believes that the use of certain technologies facilitates the transaction process.
+  Perceived ease of use is defined as the extent to which the consumer believes that the use of a particular technology will be a nuisance.
+  This model shows that perceived utility influences the intention to make a transaction directly through the egg, and perceived ease of use indirectly through the perceived utility.
+1 McKnight DH, Chervany NL, What trust means in e-commerce customer relationships.
+ Perceived risk.
+  The remote, non-personal, online environment's uncertainty about the use of a global open infrastructure for transactions has made risk an integral part of the EC.
+  There are usually two types of uncertainties in online transactions: behavioral and environmental.
+  Behavioral uncertainty arises because the web marketer has the ability to behave adventurously, taking advantage of the EC հեռավոր remote և impersonal nature և inability of the government to effectively control all transactions.
+  The existence of environmentalism is largely due to the unpredictable nature of the Internet, which is beyond the complete control of the web marketer or consumer.
+  In this model, risk is considered a single factor without the above separation, negatively affecting the consumer's intention to make an online transaction.
+Pavlou's main contribution is the integration of variables related to behavioral և environmental uncertainty into one harmonized model with the structures of the Technology Adoption Model (perceived utility և ease of use) that predicts EC adoption.
+  The paper presents some new discoveries related to certain variables.
+First, the perceived risk is a direct antidote to the intention to do business, which means that reducing uncertainty is one of the most important components of EC acceptance.
+  Second, although trust is a direct antidote to the intention to make a transaction, it also acts as an indirect antisedant through perceived risk, perceived utility, perceived ease of use.
+  This revelation confirms the imperative role of trust in the EC և explicitly presents its impact.
+  Third, perceived utility և ease of use has a significant impact on transaction intent, which means that the technology adoption model can be extended to explain B2C EC adoption in online consumer behavior.
+  Finally, transactional intentions lead to real transactional behavior, confirming the OGT և practicality of this model.
+Thus, the main factors influencing the adoption of e-commerce are perceived usefulness, perceived ease of use, trust և risk.
+  Empirical assessment of the interrelationships between these factors, the impact of each of them on the adoption of e-commerce, based on Armenian data, the possibility of developing mechanisms to accelerate the adoption of e-commerce in Armenia based on the results.
+David Abgaryan FACTORS AFFECTING THE ADOPTION OF ELECTRONIC COMMERCE Keywords: e-commerce, trust, risk, Technology Acceptance Model, Reasonable Theory.

@@ -1,0 +1,53 @@
+AZO GROUP CONTAINS SOME OLIGOMERY SYNTHESIS RESEARCH The study of electrically conductive polymers is one of the most rapidly evolving areas of polymer chemistry due to its interesting properties and new prospects for its application.
+Due to structural features, polymer-like compounds have limited solubility, are difficult to melt. They are subjected to mechanical processing.
+ Therefore, in order to expand the limits of their applicability, the aim is to develop combined new polymers, the structure of which will contain groups that increase workability and solubility.
+  The introduction of such groups allows to obtain a set of new features, increasing the application possibilities.
+Of interest from this point of view are azo group polymers, which in recent years have been widely studied for possible application in optical devices due to their optical induction properties, surface relief grating, and optically induced birefringence.
+  The reason for these properties is the ability to convert transistors to photoisomer (Figure 1), resulting in molecular arrangements that allow the use of azo chromophores for information storage in optical devices [1-3].
+Figure 1 Azopolymers are also of interest as drug delivery systems, mainly for intestinal diseases [4].
+In the structure of aromatic polymers, an azo group can be introduced into the polymerization process, as can be done in polymers of monomers that already contain aromatic azo groups [5].
+Many methods are used for polymerization with the formation of aromatic azo group: • combination of diazonium salts [6-8], • combination of azide groups [9] ջերմ vacuum thermal decomposition of the corresponding diazides.
+  This method produced thin films of high-frequency poly (4,4'-azodiphenyl) և poly (4,4'-azostilbene), which are real phototransmitters in the 350-600 nm wavelength range [10].
+Subsequent decomposition: conversion of nitrosamides to the formation of jazz ethers by aromatic azo groups [11];
+ The oxidative polymerization using metal catalysts proceeds by the coordination of radicals or ions resulting from the oxidation of monomers by the coordination of that metal complex.
+  In this method, monomers capable of oxidizing the corresponding polymers must, in extreme cases, have two hydrogen atoms.
+Combined polymers containing the azo group in the main chain have been shown to be electrically conductive and exhibit photoluminescence properties [1-4].
+ In order to obtain a compound containing azo group, we tested m-phenylenediamine և in combination with m-phenylenediamine.
+Experimental part. The PMR spectrum was recorded using a "Mercury 300 Varian NMR" device, and detergent dimethylsulfoxide was used as solvent.
+ m-FDA was purified by distillation (T mel. 63-650 C).
+Examination of m-FDA with sodium nitrite - combination with m-FDA (1).
+2.1.
+6) in molar ratio. To 0.5 g (4.63 mmol) of m-FDA in 7 ml of water և 1.1 ml of 30% hydrochloric acid was added 2 g of ice, 1.1 ml of 30% hydrochloric acid, respectively, and then slowly 0.672 g (9.2 mmol) of sodium nitrite dissolved in 6.4 ml. in water, at a temperature of 268 K.
+ The resulting dialyzed m-FDA solution was slowly added to a mixture of 2.1 g of sodium acetate և (pH = 5) 3 g (27.78 mmol) m-FDA գտնվող at 298 K and mixed for 3 h.
+  The reaction mixture was neutralized with sodium bicarbonate to H pH> 7.
+ The solution was filtered and the precipitate was washed with water to a neutral medium.
+Then it was divided into 0.6251 g of methanol soluble. (compound I) և insoluble: 0.03175 g. (compound II) parts.
+ The materials are dried to a weight of 323–343 K at և 2 kPa.
+Oxidation of compound (I) with ammonia complex of copper (II) sulphate. 0.1846 g (0.533 mmol) was added to a round bottom flask equipped with a mechanical mixer, 14.5 ml of 50% ethanol, 1.8668 g (mmol) of copper, 4 ml of 19% ammonia were mixed on a water bath for 45 hours.
+The contents of the reaction flask were frozen and filtered.
+ The material on the filter was washed several times with 4% ammonia solution before the filtrate was discolored.
+ The material was then washed with acetic acid solution (3 ml CH3COOH և 15 ml H2O), then with water until neutral միջավայր SO4
+Absence of 2 ions.
+Compound (III) was vacuum dried to constant weight.
+ Partially dissolved in acetic acid.
+ The output is 0.188 g.
+Discussion of the received data. Testing of MFDA with nitric acid և combining with MFDA was performed accordingly1.
+2.1.
+In a ratio of 6 moles.
+ The ultimate goal of the MFDA redundancy reaction was to obtain a low molecular weight model compound. on the one hand, to clarify the structural issues of the respective polymer, on the other hand, to use it as a monomer in further syntheses.
+ It has already been shown [13] that by testing the PFDA հետ with the MFDA1.
+2, 1.
+By combining azo with a molar ratio of 1, a conducting polymer containing azo groups is obtained (Figure 2).
+Figure 2 However, according to the resulting PMR spectroscopy data, ortho-amino groups in the structure of the polymer are ortho-amplified to form dihydrobenzentriazole cycles (Figure 3) [13].
+Figure 3 The implication is that oligomers obtained by MFDA screening as a result of fusion with the MFDA may be of interest for both structural clarification and amino functional groups in the structure for use in subsequent synthesis.
+  With sodium nitrite with MFDA1.
+2.1.
+As a result of 6-molar MFDA assay, the combination of insoluble fractions in methanol was obtained.
+ PMR spectroscopic studies have shown that the soluble fraction in methanol is the FDA trimer combined with azo groups (I) and the insoluble fraction in methanol, which was soluble in DMFA (pentamer (II), Figure 4).
+Figure 4. Trimers (I) և pentamers (II) combined with azo-groups of MFDA To obtain a compound containing benzetriazole groups, oxidation of the substance with copper (I) was performed (Figure 5).
+Figure 5. (I) The presumed compound obtained from the oxidation of the substance. However, the reaction yielded an insoluble compound in organic solvents.
+ Intermolecular interactions are thought to have given rise to benzentriazole cycles, resulting in the formation of a polymer.
+The presence of copper was checked by X-ray structural analysis to exclude the formation of complex eggs.
+ No copper was found.
+LITERATURE Polymers.
+ Preparation and Opto-electrical Properties, J. Optoelect. Adv. Mater., 2000, Shushanna Vardanyan, Ranush Durgaryan AZO GROUP SYNTHESIS OF SOME OLIGOMERS INCLUDING RESEARCH Keywords: benzetriazole, m-phenylenediamine, test, combination.

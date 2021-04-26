@@ -1,0 +1,88 @@
+VOCABULARY TWO GEVOND'S "HISTORY" TWO The historian Jond, also known as Jond Elder, is a prominent representative of Armenian historiography in the eighth century.
+In the Middle Ages, literate clergymen were educated in a hermit spirit, contemptuous of themselves.
+  To speak of the author in the book as himself would be considered an act contrary to humility.
+ That is why we, except for a few exceptions and information, know almost nothing about our ancient authors.
+ It can only be said that Jond was a churchman. Some call him a priest, others an elder.
+  We know from the memoir written at the end of his book that the work was written "under the command of Shapho Bagratuni" 1.
+  The history goes back to 788, the last parts he invents as if modern.
+The aim of the work is to study word formation in Jondi, to show what means and methods the author has used in the process of word formation.
+The word "word formation", as a linguistic term, is used in two senses: 1. the word-system of the given language, 2. the part of lexicography that studies the word-system of the given language.
+The word system represents the set of phonological realities related to the word-formation means and methods of a given language, word-formation types and their patterns և և word composition.
+As a study of the word-formation system, the word-formation can be historical-contemporary.
+  Historical word structure studies the word system of a given language from the beginning to the data stage in its historical development.
+  Simultaneous word formation studies the word system of a given stage in the history of a given language2.
+In case of word-structure analysis of words, word-formation units are separated և are characterized.
+Thus, in the case of both morphological, morphological and lexical analysis, we are dealing with the same composition of the main morphs, the roots, but as the main unit of lexical analysis we accept here not the root, but the basis.
+ The latter can be as simple, indestructible, that is, 1 See History of the Armenian Grand Master of Ghonde, St. Petersburg, 1887, p. 170.
+2 See Aghayan Ed., General և Armenian lexicography, Yerevan, 1984, pp. 207-208.
+coincide with the root as well as with the composite, that is, with the formed basic elements.
+The base, combined with the main և secondary eggs, can get a special shape.
+  On the basis of the peculiarities of this formation of combinations, the grammatical (ևological) և word-formation bases are differentiated.
+  In most compound words, the nominative base corresponds to the direct consonant, and the verb to the consonant.
+ However, there are many cases when the nominal bases appear in unique "plural" forms, and the verbs on the basis of the present or past perfect, the indefinite past participle, the causal past 1.
+L. Hovsepyan distinguishes in the work "Grabar word formation" primary-secondary bases, according to which "primary bases are clear from the word-formation point of view, other inseparable bases of word-formation particles, while secondary bases are not clear from the word-formation point of view, ie they are combinations of primary bases with other word-formation signs." 2.
+Ed. Aghayan singles out generative և constituent bases3.
+Vocabulary and word formation are considered to be the main ways of word formation.
+Vocabulary.
+  Vocabulary is the method of composing new words with the composition of individual words of the main roots.
+  Vocabulary templates can be divided into two main groups: comparative ևanalytical (comparative) complexities.
+Comparative complications are complications obtained by combining components.
+ These complications can be articular և without articulation. "According to which, there is no rule by which we could decide when the bases that make up a compound word should be connected with an articulation, and when without an articulation" 4.
+In Jond's "History", complications are predominant in articular formations (number 161), and non-articular complications are relatively few (number 61).
+The following formula, SjS, will be used as a template for primary joint complications on a simple basis.
+SjS - geographer (100), fragrant (22), bitter (25), deadly (20)
+SjS (primary cause of complications is translocated) - predictive (97) (u> ǿ), frostbite (144) (u> h).
+SfjS (the first component has a grammatical form) - burnt (16), benevolent (99).
+(the second basic component has a grammatical form) prisoner (104), only child (90), ganal (10).
+SjS (recurrent joint complication) - various (105), large (17), malignant (67) բազմաթիվ many other partitions.
+1 See Hovsepyan L., Grabar's word formation, Yerevan, 1987.
+2 See ibid., Pp. 60-63.
+3 See Aghayan Ed., Pp. 247, 248.
+4 See S. Galstyan, An Attempt to Formulate Steps in Composing Original (True) Complex Derivatives, "BEH", 2002, № 1, p. 17.
+Non-articular complications of Jondi file are distributed in the following versions of the SS template.
+SS - so many (50), today (36), two (95) և etc.
+SS - (the first component is changed to sound) - hrdzig (17), hrkez (27) - (u> h).
+SfS (the first component is grammatically derived) - uncle (128), ancestor (107), etc.
+SSf - (the second component is grammatically formed) - beneficial (126), listener (71), alien (50) բազմաթիվ many other templates.
+Complications include relational analytical forms: verb relations (number 156) and nominal relations (number 22).
+Verbal relations - I have an eye (96), to bear (123), to take pity (27)….
+ Nominal relations - nation to nation (137), front to front (25), like (42), one to one (59)….
+  In both of them, Jond used ready-made verbal units - phrases (number 27) 1.
+ Let us bring a few examples: to sharpen a sword, to buy a geography, to be a river, to have against դ etc.
+Crossing.
+  The second main method of Grabar word formation is derivation.
+ A suffix is ​​a phenomenon of forming new words by combining root, word or word-base և word-formation suffixes (suffixes).
+The suffixes, being word-formation expressions, express not a material, concrete, but a general, abstract meaning.
+The basic pattern of derivation is the composition of one main և one secondary form (derivative).
+  According to the main position, suffixes have two groups: prefixes and suffixes.
+ Derivatives of derivative words can be not only primary bases, but also compound formations, including complex words.
+Accordingly, various combinations of prefixes and suffixes are obtained, as well as bases and suffixes of different shapes.
+The suffixes are indifferent to the structure of the base, but a choice in terms of the literal affiliation of the furniture class (certain suffixes are inserted into certain speech parts) as well as in the result obtained (certain suffixes form certain speech parts) 2.
+The suffix formations are represented by the Sa template (there are 642 copies in the sample) and the prefix formations are represented by as (63 copies).
+That is, in both Jondi prefix patterns are about 10 times inferior to suffix patterns.
+aS (compound with one prefix) - immaculate (83), innumerable (5), aparasan (161), weak (27), prophet (52), tsard (122), forward (29), baghays (21), vs. ( 28), complete (59), brave (141), what (47), superior (107), flawed (118)….
+aSf (the basis is grammatically formed) - irreversible (29), bed (27), absent (23) և etc.
+ajS (prefixed compound with a single joint) - cognate (115), disparate (122) և etc.
+a (Sa) - (prefix suffix) - involuntary (4), poor quality (66), unpleasant (20), restless (35), everyday (163) և etc.
+And many other templates.
+1 See R. Ghazaryan, Grabar's Phrasebook, Yerevan, 2012.
+2 See Hovsepyan L., pp. 120-130.
+Sa (composition with one suffix) - thief (92), strong (97), massacre (72), corpse (10), enough (43), harmful (142), worthy (27), brief (42), just ( 45) և etc. Sa (template of suffixed words on a phonetic basis) - naturally (82) - (oy> y), connoisseur (81) - (e> i), ghzdzank (141) - (i> y)
+Sfa (grammatically based suffix template) creature (49), teacher (84), sower (4), coming (41) և etc.
+And many other templates.
+In the suffix.
+  Verbs always consist of a base հիմ ending, so we examine verbs in derivative formations.
+  Sa is the template for formations with bunbay roots (244 copies).
+Sa - to work (5), to forbid (5), to say (4), to judge (21), to tremble (87), to think (18) և etc.
+Sa - to curse (5) - (է> ի), pity (11) - (ու> ը), to defile (10) - (ի> ը) և etc.
+Sfa - here the basis has a grammatical form: 1) a noun different from a direct syllable - name (16).
+2) horrible verbs: arkanel (6), dichshil (13)….
+3) causal verbs: to pass (7), to lose (21) և etc.
+Sfa - (phonetic և causal verbs on a phonetic basis): to strengthen (24) - (and> o), to lower (20) - (e> i) և etc.
+S (a + a) - to rise (25), to be satisfied (34) և etc.
+And many other templates.
+Thus, examining the word formation in Jondi's "History", we have come to the conclusion that as early as the 8th century, the patterns of word-formation and derivation were diverse.
+  Derivation templates in both Jonds outweigh word templates.
+  Articulated formations (number 161) are ten times greater than non-articular formations (number 61), just as suffixes are about 10 times greater than prefixes.
+  It is possible that Jond used 27 phrases in both of them - 244 formations with original verbal roots.
+Ani Karapetyan THE VOCABULARY GEVOND'S "HISTORY" TWO Keywords: Jondi "History", word formation, word formation, suffix.
